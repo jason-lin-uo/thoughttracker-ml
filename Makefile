@@ -18,7 +18,7 @@ help:
 	@echo "  make predict   - run a CLI prediction (set TOPIC= and TEXT=)"
 	@echo "  make serve     - run the FastAPI server on port 8000"
 	@echo "  make test      - run pytest"
-	@echo "  make clean     - remove venv, model artifacts, and reports"
+	@echo "  make clean     - remove venv, caches, generated figures, and transient reports"
 
 $(VENV)/bin/activate:
 	$(PYTHON) -m venv $(VENV)
@@ -49,4 +49,7 @@ test:
 	$(PY) -m pytest -q
 
 clean:
-	rm -rf $(VENV) models/stance-classifier reports/figures/*.png reports/metrics/*.json
+	rm -rf $(VENV) .pytest_cache .ruff_cache .coverage htmlcov reports/figures/*.png \
+		reports/metrics/eval_metrics.json reports/metrics/test_metrics.json \
+		reports/metrics/update_all_creators_status.json \
+		reports/metrics/update_all_creators_summary_*.md

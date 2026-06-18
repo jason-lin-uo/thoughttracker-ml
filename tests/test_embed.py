@@ -1,9 +1,10 @@
 """Tests for src/inference/embed.py + the POST /embed endpoint.
 
-Runs in mock-inference mode (no torch model in hermetic CI). The real
+Runs in mock-inference mode by default (no torch model in hermetic CI). The real
 encoder/inference helpers (`_build_encoder`, `_encode_with_model`) are pragma'd
-and exercised by the smoke test / real runs; everything else — the mock vector,
-the load bookkeeping, the fallback, and the endpoint — is covered here.
+and exercised by the smoke test / real runs; the explicit mock path, load
+bookkeeping, endpoint success path, and missing-encoder failure path are covered
+here.
 """
 
 import dataclasses
@@ -48,11 +49,11 @@ def test_embed_texts_mock_mode_returns_768d():
     assert len(out) == 2 and all(len(v) == 768 for v in out)
 
 
-def test_embed_texts_falls_back_to_mock_when_model_unavailable(monkeypatch):
+def test_embed_texts_fails_when_model_unavailable_and_mock_off(monkeypatch):
     _mock_off(monkeypatch)
     monkeypatch.setattr(embed, "_load_attempted", True)  # skip the load; _loaded stays None
-    out = embed.embed_texts(["x y z foo bar"])
-    assert len(out) == 1 and len(out[0]) == 768
+    with pytest.raises(FileNotFoundError, match="Embedding model"):
+        embed.embed_texts(["x y z foo bar"])
     assert embed.is_embed_model_available() is False
 
 
@@ -102,6 +103,18 @@ def test_embed_endpoint_returns_vectors():
     assert body["dim"] == 768
     assert len(body["vectors"]) == 2 and len(body["vectors"][0]) == 768
     assert isinstance(body["mockInference"], bool)
+
+
+def test_embed_endpoint_returns_503_when_encoder_missing(monkeypatch):
+    import src.api.main as main
+
+    def missing(_texts):
+        raise FileNotFoundError("missing encoder")
+
+    monkeypatch.setattr(main, "embed_texts", missing)
+    res = client.post("/embed", json={"texts": ["x"]})
+    assert res.status_code == 503
+    assert res.json()["error"] == "MODEL_NOT_LOADED"
 
 
 def test_embed_endpoint_handles_internal_error(monkeypatch):

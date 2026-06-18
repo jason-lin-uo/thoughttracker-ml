@@ -76,6 +76,7 @@ Successful response:
   "topicRelevanceModelLoaded": true,
   "topicRerankerModelLoaded": true,
   "modelVersion": "stance-classifier-v1",
+  "mockInference": false,
   "loadError": null
 }
 ```
@@ -193,12 +194,18 @@ Success:
     [0.0789, -0.0123]
   ],
   "dim": 768,
-  "modelVersion": "distilbert-base-uncased"
+  "modelVersion": "distilbert-base-uncased",
+  "mockInference": false
 }
 ```
 
 The response contains one L2-normalized vector per input text. The backend
 stores/query vectors in a `vector(768)` pgvector column.
+
+`mockInference: true` is allowed only when `ENABLE_MOCK_INFERENCE=true` is set
+for tests or local diagnostics. In normal runtime mode, missing embedding
+artifacts must return `503 MODEL_NOT_LOADED` so the main app never stores
+fabricated vectors.
 
 ## Error Shape
 

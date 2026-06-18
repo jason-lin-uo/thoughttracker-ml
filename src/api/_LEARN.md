@@ -55,6 +55,9 @@ It returns:
 It returns one 768-dimensional L2-normalized vector per text. The backend keeps
 this endpoint available for owner/offline embedding refreshes when
 `EMBEDDING_PROVIDER=ml`; the public app no longer exposes a semantic-search UI.
+Mock vectors are returned only when `ENABLE_MOCK_INFERENCE=true` is set for
+tests or local diagnostics. Otherwise, a missing encoder returns
+`503 MODEL_NOT_LOADED`.
 
 ## Topic Endpoints
 

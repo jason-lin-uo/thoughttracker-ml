@@ -13,10 +13,10 @@ Design mirrors ``model_loader``/``predict``:
   - **Lazy, thread-safe singleton** - the ~270 MB model loads once, on first
     use, not at import. Unlike the stance/topic models it is NOT eagerly
     warmed at API startup, so the first ``/embed`` request pays the load cost.
-  - **Mock fallback** - a deterministic, unit-normalized hash vector of the
-    SAME dimension, returned when ``ENABLE_MOCK_INFERENCE`` is set or torch/the
-    model can't load. Keeps the endpoint + tests runnable with no model, and
-    keeps mock vectors dimension-compatible with real ones.
+  - **Explicit mock path** - a deterministic, unit-normalized hash vector of
+    the SAME dimension, returned only when ``ENABLE_MOCK_INFERENCE=true``.
+    Missing encoder artifacts fail clearly in normal runtime mode so fabricated
+    vectors cannot be saved by accident.
 
 Embeddings are mean-pooled over the (attention-masked) last hidden state and
 L2-normalized, so cosine similarity == dot product downstream.
@@ -50,9 +50,9 @@ _load_attempted = False
 def _mock_vector(text: str) -> List[float]:
     """Deterministic, unit-normalized hash embedding (a bag-of-words sketch).
 
-    Same dimension as the real model so the two are interchangeable in storage,
-    and stable so a given text always maps to the same vector. Used only when
-    the real model is unavailable (mock mode / no torch / load failure).
+    Same dimension as the real model so tests can exercise the API shape, and
+    stable so a given text always maps to the same vector. Used only when
+    ``ENABLE_MOCK_INFERENCE=true``.
     """
     vec = [0.0] * EMBED_DIM
     for token in text.lower().split():
@@ -76,18 +76,21 @@ def _build_encoder() -> Tuple[object, object, object]:  # pragma: no cover - loa
 
 
 def _load() -> None:
-    """Load the encoder into the process cache. Records the error (rather than
-    raising) on failure so callers degrade to the mock instead of 500-ing."""
+    """Load the encoder into the process cache.
+
+    Records the error so callers can return a clear 503 instead of fabricating
+    vectors in normal runtime mode.
+    """
     global _loaded, _load_error, _load_attempted
     _load_attempted = True
     try:
         _loaded = _build_encoder()
         _load_error = None
         logger.info("embed model loaded", extra={"model": config.base_model})
-    except Exception as exc:  # noqa: BLE001 - any load failure degrades to mock
+    except Exception as exc:  # noqa: BLE001 - load failures become clear 503s at the API layer
         _load_error = str(exc)
         _loaded = None
-        logger.warning("embed model load failed; using mock", extra={"error": str(exc)})
+        logger.warning("embed model load failed", extra={"error": str(exc)})
 
 
 def load_embed_model() -> None:
@@ -117,14 +120,18 @@ def get_embed_load_error() -> Optional[str]:
 def embed_texts(texts: List[str]) -> List[List[float]]:
     """Embed a batch of texts into L2-normalized 768-d vectors.
 
-    Returns mock vectors when mock mode is on or the model isn't available, so
-    the result shape is identical regardless of path.
+    Returns mock vectors only when mock mode is explicitly enabled. Otherwise,
+    a missing encoder raises ``FileNotFoundError`` so callers do not persist
+    fabricated vectors.
     """
     if config.enable_mock_inference:
         return [_mock_vector(t) for t in texts]
     load_embed_model()
     if _loaded is None:
-        return [_mock_vector(t) for t in texts]
+        raise FileNotFoundError(
+            f"Embedding model {config.base_model!r} could not be loaded. "
+            "Set ENABLE_MOCK_INFERENCE=true only for tests/local diagnostics."
+        )
     return _encode_with_model(texts)
 
 

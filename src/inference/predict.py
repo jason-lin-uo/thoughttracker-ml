@@ -23,7 +23,7 @@ The function dispatches based on (in order):
     softmax, returns the labeled probability distribution.
 
   - **Mock path** (``_predict_mock``): used when no model is on disk
-    AND ``ENABLE_MOCK_INFERENCE=true`` (the default for the demo).
+    AND ``ENABLE_MOCK_INFERENCE=true`` (tests/local diagnostics only).
     Implements a deterministic keyword-cue heuristic — same text
     always produces the same label, so the FastAPI service can serve
     realistic-looking predictions without any model downloaded yet.
@@ -105,7 +105,7 @@ def predict(topic: str, text: str) -> dict:
     raise FileNotFoundError(
         f"No trained model found at {config.model_dir}. "
         f"Run `python -m src.training.train` first, or set ENABLE_MOCK_INFERENCE=true "
-        f"for demo fallback."
+        f"only for tests/local diagnostics."
     )
 
 

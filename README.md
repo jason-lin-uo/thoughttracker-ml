@@ -61,7 +61,7 @@ the committed runtime artifacts when ML-backed analysis is enabled; see
 
 ## Tech stack
 
-- **Python 3.10+**
+- **Python 3.11+**
 - **PyTorch** + **Hugging Face Transformers** (DistilBERT base)
 - **Hugging Face Datasets** for tokenization
 - **scikit-learn** for splitting + metrics
@@ -303,9 +303,9 @@ uvicorn src.api.main:app --reload --port 8000
 
 Endpoints:
 
-- `GET /health` -> `{ status, modelLoaded, topicRelevanceModelLoaded, topicRerankerModelLoaded, modelVersion, loadError }`
+- `GET /health` -> `{ status, modelLoaded, topicRelevanceModelLoaded, topicRerankerModelLoaded, modelVersion, mockInference, loadError }`
 - `POST /predict` -> `{ predictedLabel, confidence, labelScores, modelVersion }` - stance of an excerpt toward a topic
-- `POST /embed` -> `{ vectors, dim, modelVersion }` - 768-d L2-normalized sentence embeddings (mean-pooled DistilBERT) for owner/offline embedding refreshes via `EMBEDDING_PROVIDER=ml`
+- `POST /embed` -> `{ vectors, dim, modelVersion, mockInference }` - 768-d L2-normalized sentence embeddings (mean-pooled DistilBERT) for owner/offline embedding refreshes via `EMBEDDING_PROVIDER=ml`
 - `POST /predict-topic-relevance` -> `{ predictedLabel, confidence, labelScores, modelVersion }` - is the excerpt actually about the topic
 - `POST /predict-topics` -> `{ topics: [{ topicSlug, confidence }], modelVersion }` - high-recall controlled-taxonomy topic candidates
 

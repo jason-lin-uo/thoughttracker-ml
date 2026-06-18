@@ -22,8 +22,8 @@ calls ``/embed`` when ``EMBEDDING_PROVIDER=ml``. Five endpoints:
   - ``POST /embed`` - accepts ``{ texts: [str, ...] }`` and returns
     ``{ vectors, dim, modelVersion, mockInference }`` (768-d, L2-normalized,
     mean-pooled ``distilbert-base-uncased``). Retained for owner/offline
-    embedding refreshes; degrades to a deterministic mock vector of the same
-    dimension (``mockInference: true``) when the encoder can't load.
+    embedding refreshes. Mock vectors are returned only when
+    ``ENABLE_MOCK_INFERENCE=true``; otherwise a missing encoder returns 503.
 
   - ``POST /predict-topic-relevance`` - accepts ``{ topic, text }`` and
     returns ``{ predictedLabel, confidence, labelScores, modelVersion }``;
@@ -415,19 +415,26 @@ def predict_endpoint(req: PredictRequest):
 @app.post(
     "/embed",
     response_model=EmbedResponse,
-    responses={500: {"model": ErrorResponse}},
+    responses={503: {"model": ErrorResponse}, 500: {"model": ErrorResponse}},
 )
 def embed_endpoint(req: EmbedRequest):
     """Embed a batch of texts into L2-normalized sentence vectors.
 
-    Always 200 on valid input: when the real encoder can't load (no torch /
-    mock mode) we degrade to the deterministic mock of the same dimension,
-    flagged via ``mockInference`` so the caller knows. Any unexpected failure
-    is logged in full server-side and returned as a generic 500 (no path/PII
-    leakage), matching /predict's privacy stance.
+    Returns deterministic mock vectors only when mock mode is explicitly on.
+    When the real encoder cannot load in normal mode, returns 503 so callers do
+    not persist fabricated vectors. Any unexpected failure is logged in full
+    server-side and returned as a generic 500 (no path/PII leakage).
     """
     try:
         vectors = embed_texts(req.texts)
+    except FileNotFoundError as exc:
+        return JSONResponse(
+            status_code=503,
+            content={
+                "error": "MODEL_NOT_LOADED",
+                "message": str(exc),
+            },
+        )
     except Exception:  # noqa: BLE001
         logger.exception("Unhandled error during embedding")
         return JSONResponse(

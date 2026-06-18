@@ -162,7 +162,7 @@ class Config:
     api_host: str = os.environ.get("API_HOST", "0.0.0.0")
     api_port: int = _env_int("API_PORT", 8000)
 
-    # Demo / fallback
+    # Test-only mock mode
     enable_mock_inference: bool = _env_bool("ENABLE_MOCK_INFERENCE", False)
 
 
