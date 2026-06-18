@@ -1,0 +1,35 @@
+.env
+.env.*
+.venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.git/
+.gitignore
+
+# Ship the final runtime model artifacts in the Docker image. Training
+# checkpoints stay excluded below; the app only needs the compact final models.
+models/**
+!models/
+!models/stance-classifier/
+!models/stance-classifier/**
+!models/topic-relevance-classifier-supervalidation-hardneg2x-l512/
+!models/topic-relevance-classifier-supervalidation-hardneg2x-l512/**
+!models/topic-reranker-tfidf-sgd-supervalidation/
+!models/topic-reranker-tfidf-sgd-supervalidation/**
+!models/topic-selection-policy-gold-standard/
+!models/topic-selection-policy-gold-standard/**
+models/**/checkpoints/
+models/**/checkpoint-*/
+data/processed/
+data/labeling/
+reports/
+logs/
+runs/
+
+# Local temp/download outputs.
+downloads/
+tmp/
+*.log
+*.zip
