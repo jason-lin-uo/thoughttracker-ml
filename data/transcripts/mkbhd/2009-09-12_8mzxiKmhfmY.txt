@@ -1,0 +1,106 @@
+# HD Tutorial: Youtube Tags
+# https://www.youtube.com/watch?v=8mzxiKmhfmY
+
+hey what's up guys it's Marcus brownley
+here from MKBHD and welcome to another
+HD tutorial in which I'll be teaching
+you guys how to use YouTube
+[Music]
+tags so you guys are probably wondering
+why someone would do a tutorial on
+tagging a YouTube video uh it's fairly
+obvious that you can just input the tags
+and whenever someone searches for the
+tags they will find all the videos with
+that in their tags pretty simple but
+these are actually tags that I have here
+that will change your YouTube video and
+uh if you've already seen these or used
+these uh let me know what your
+experience has been with them uh because
+I want to you know I want to know what
+which one you like the best but
+obviously this fourth one here I'm going
+to show you guys in a minute is one
+that's going to be very important for my
+future videos so anyway I want to ask
+you guys a question about that one when
+we get there either way the first one is
+YT crop equals 16 by9 putting this in
+your tags will pretty much zoom in and
+cut off the top and bottom slices of
+your YouTube uh of your YouTube video so
+if you have 4x3 content I've pretty much
+uh cut this notepad document down to 4x3
+aspect ratio and I'm going to add an
+annotation here to Spotlight the 4x3
+area so that's what it's going to look
+like it's going to cut off the top and
+bottom half of your video which is kind
+of not necessary for most YouTube videos
+uh if you're doing a tutorial you might
+want to reconsider that however but the
+second one is YT stretch equal 16x9
+which is actually a better option for uh
+you tutorial makers however uh I did my
+MKBHD update 2.3 using the stretch
+annotation and it definitely didn't look
+right my Square uh my Square Watermark
+was actually a rectangle everything was
+stretched out and you really don't need
+to use this unless you really really
+want to fill up the WID screen uh of the
+YouTube you know the widecreen YouTube
+player so this will stretch your 4x3
+content pretty much
+lengthwise now the the last thing uh the
+third one here is YT stretch equals 4x3
+this will fix 720x480 content that's the
+wrong aspect ratio and it'll scale it
+into 4x3 so you won't have those weird
+sized window boxing it'll look the same
+as a regular 4x3 video and it'll kind of
+stretch it to fix instead of 640 x 480
+which is kind of widecreen uh but the
+wrong aspect ratio it'll stretch it to 4
+by 3 I've never really had to use that
+word the last and most important tag I
+want to talk about is YT colon quality
+equals high and this will actually set
+your video to default stream in high
+quality the same as adding and fmt
+equals 18 to the end of the URL now as
+you guys know I produce all of my videos
+all of my tutorials and hardware
+unboxings and reviews in high definition
+however a lot of people's streams
+internet connections and Etc can't
+really handle the high definition so my
+question to you guys which I want you to
+comment about is should I actually add
+that stream uh add that tag to the end
+of all my videos so that you guys always
+just watch in uh HQ by default now it'll
+obviously blow it up to the the larger
+than normal uh HQ player uh but it'll
+still be it'll be less than high
+definition but it'll be good quality and
+good enough for you guys to see so I'm
+actually going to do that to this
+tutorial so you guys can see what it's
+like uh when I add that to the end it'll
+automatically stream in HQ when it's
+available and um that is basically it so
+thank you guys for watching this uh
+stream or a little uh tag tutorial and
+uh again leave your comments whether you
+want me to set that tag so that all my
+videos automatically go ahead and play
+in HQ instead of HD I know a lot of your
+computers or internet connections can't
+handle that anyway thank you for
+watching this tutorial and I'll catch
+you guys in the next video
+[Music]
+peace
+[Music]

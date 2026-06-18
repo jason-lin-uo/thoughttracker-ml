@@ -1,0 +1,995 @@
+# Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern
+# https://www.youtube.com/watch?v=aKDzF_fMMrc
+
+Welcome to Huberman Lab Essentials,
+[music] where we revisit past episodes
+for the most potent and actionable
+science-based tools for mental health,
+physical health, and performance.
+I'm Andrew Huberman and I'm a professor
+of neurobiology and ophthalmology at
+Stanford School of Medicine. And now for
+my discussion with Dr. Casey Halpern.
+Casey, I should say Dr. Halpern,
+welcome. Thank you. Great to be here.
+You're a neurosurgeon, which I consider
+the astronauts of neuroscience. For
+those that aren't familiar with the
+differences between neurosurgery,
+neurology, psychiatry, could you just
+educate us a bit? What does a
+neurosurgeon do and how do you think
+about and conceptualize the brain? Yeah,
+yeah, the scope of neurosurgery is quite
+broad. We take out brain tumors, we clip
+aneurysms in the brain, we take care of
+patients that have had traumatic brain
+injury, um concussion,
+uh spine surgeries. 90% of what
+neurosurgeons do around the country, uh
+you know, taking care of herniated discs
+and lumbar fusions. So,
+you know, the the the scope is
+the entire central nervous system,
+includ- including the peripheral nervous
+system. We take care of patients with
+carpal tunnel syndrome and nerve
+disorders. Historically, neurosurgeons
+did everything in that domain, but now
+we subspecialize and I I'm lucky to be
+at Penn Medicine where
+we can focus on one of these areas. So,
+I'm uh Chief of Stereotactic Functional
+Neurosurgery.
+All I do is deep brain stimulation
+surgery and a complement to that is
+focused ultrasound or transcranial
+focused ultrasound, which is a
+non-invasive way to do an ablation in
+the brain, recently FDA-approved, and
+it's FDA-approved for tremor at the
+moment. Deep brain stimulation is a
+procedure where we have to place a uh a
+very thin wire that's insulated deep
+into uh a part of the brain that's
+involved in Parkinson's disease, for
+example. Uh
+but that's actually not the therapy. The
+therapy is delivering electrical
+stimulation through the tip of that wire
+or one of the tips as there actually are
+multiple contacts at the bottom of the
+wire. They're very small. It's a bit
+more like I have to implant a a tool to
+to deliver you a medication. Uh but that
+medication is going to be in the form of
+electricity and it's going to be
+delivered into a very small region of
+the brain. I'm very privileged to be
+able to interact with the human brain in
+this way. It's always in the it with the
+goal of trying to provide somebody with
+a meaningful therapy. But when we
+deliver electrical stimulation, these
+electrodes, while they might be sitting
+in a very small region of the brain,
+there are regions
+within a few millimeters of where these
+electrodes are that if stimulated could
+cause a temporary very brief side
+effect, a moment of laughter like you
+said, or a moment of panic. And of
+course we can just shut that electrode
+off.
+But often these side effects could be
+therapeutic. And actually that's how we
+have discovered ways to use deep brain
+stimulation um not just for movement
+disorders like Parkinson's disease, but
+for example, patients with Parkinson's
+disease that have uh a psychiatric uh
+uh
+comorbidity like depression or
+obsessive-compulsive disorder. A lot of
+these patients are highly compulsive uh
+and impulsive um
+sometimes these problems actually melt
+away. And we're trying to help their
+tremor, but the patients also tell us
+that their gambling issue has gotten
+better or their mood has improved. And
+why is that? Well,
+you know, there's probably more than one
+reason. You know, you can help
+somebody's mood by making their tremor
+go away, of course. But we see laughter
+in the clinic sometimes. And and why is
+that? And that's because we're
+stimulating parts of the brain that are
+not just involved in these motor
+circuits, but they're also involved in
+what we call a limbic circuit or or part
+of the brain involved in emotion. And if
+we learn how to
+modulate those areas therapeutically
+step by step, we can actually develop
+these therapies for other indications
+like depression. I would say
+the most impressive and consistent
+effect we have when we have a patient
+with tremor who has been trembling for
+the past 20 years, if we can deliver
+stimulation through that electrode in
+the clinic, we have immediate relief of
+tremor and
+that is the effect that inspired me to
+be a neurosurgeon when I was in college.
+I've never really wanted to do anything
+else except help develop that type of
+therapeutic for an other another kind of
+symptom. I'd love to learn more from you
+about OCD. Could you perhaps just tell
+us what is OCD? Sure.
+What are some brain areas involved? What
+are the current range of treatments? And
+what's the difference between someone
+who is obsessive and somebody who has
+true OCD? My perspective on OCD may be a
+little bit different than a psychiatrist
+who who lives and breathes OCD and sees
+patients every single day with OCD.
+Uh I probably take care of a three to
+five patients a year with deep brain
+stimulation for obsessive-compulsive
+disorder. So I don't see these patients
+as routinely, but my laboratory is
+geared as a researcher. Uh I'm very
+focused on trying to
+improve outcomes of deep brain
+stimulation for for OCD. So I I do feel
+I have expertise and and a perspective
+to share. I do feel that as a
+neurosurgeon, I am
+obligated to better understand where the
+obsessions in the brain come from and
+how we can interrupt them to stop the
+compulsion that's associated with the
+obsession better than we're actually
+doing it. I've been uh leading an
+endeavor with a number of collaborators
+around the country to try to
+better understand the circuits in the
+brain, uh study them in humans both
+invasively and non-invasively. That
+would be with an electrode-based
+surgery, uh sort of like we do in
+epilepsy to understand where seizures
+come from. We want to understand better
+where obsessions come from, but we're
+also working with imaging experts and
+geneticists to understand OCD
+at a broader level as well. I consider
+OCD to be a a spectrum disorder in a
+way. And I
+I I apologize to those who who might
+feel that I'm using that term
+incorrectly. I'm using it
+in a way to describe
+patients that have obsessions and even
+some related compulsions might not meet
+criteria for OCD. As a neurosurgeon, I'm
+really obsessive about safety and
+compulsive about my surgical procedures.
+So, you know, I I think that some aspect
+of OCD, which we often joke about, but
+we should, you know, consider seriously
+cuz people do suffer from this.
+Uh some aspect of it helps us. Uh there
+are, you know, famous uh CEOs that
+probably have some level of OCD. Uh
+surgeons and scientists alike. So,
+uh perhaps if it can be controlled, it's
+an asset. And uh but if it goes awry,
+it's uncontrollable, then it becomes
+obsessive-compulsive disorder. And
+uh I tend to see the patients that are
+the most severe. So, they have failed
+medication. And there are multiple
+medications that are worth trying for
+OCD. Some can actually be very helpful.
+Which which neurotransmitter systems do
+they tend to poke at?
+>> Well, SSRIs are sort of the the first uh
+line for OCD, but also tricyclics can be
+helpful. So, this is still the serotonin
+system. Um but as we know, the serotonin
+system interacts with the, you know,
+noradrenergic uh system and the dopamine
+system. So, it's hard to um
+be specific to one of these things. And
+I think that's also why it's hard for us
+to predict how these medications are
+going to to work for these kinds of
+patients. But tricyclics and SSRIs can
+be very helpful and are definitely first
+line. And there's others. Exposure
+response prevention is probably the most
+effective option, which is kind of like
+cognitive behavioral therapy, but these
+are different and offered by
+psychologists and this is a whole field
+and there's a whole clinic at my
+institution
+uh focused to start by Edna Foa um
+uh
+at Penn who
+this is what they do for these patients
+uh is offer these types of cognitive
+therapies exposure to the stressor and
+to try to get patients to habituate to
+whatever it is that stresses them and
+causes these
+uh compulsions to help these patients
+live in everyday and and function. The
+these are all
+fabulously helpful uh therapies for a
+variety of patients, but there's still
+about 30% of patients that still suffer
+from OCD and some of them have severe
+OCD. Sometimes it's moderate to severe
+and those are the patients that I'm
+really motivated to try to help. Um
+our therapies for those patients right
+now uh I would say are are worth
+pursuing, but not optimal. Um and so
+it's it's one of those things that we
+have to balance as a researcher because
+when you see patients like this, you
+want to do everything you can to help
+them and I think it's important to
+educate patients on the risk and
+benefits of them. This is deep brain
+stimulation surgery, but also
+capsulotomy, which is more of an
+ablation approach a little bit like deep
+brain stimulation, but rather than
+delivering stimulation through an
+electrode, you can actually heat the
+tissue and even destroy it. Some would
+say this part of the brain is very safe
+to destroy. It's kind of like an
+appendix. Um others would say it's safer
+to modulate. I have seen uh patients do
+very well with these ablations and so
+you know, you asked me earlier what what
+I find so amazing about the brain, these
+effects that we can have. Sometimes the
+lack of effect is what's so amazing. You
+can actually uh
+traverse parts of the brain without
+having any adverse effects on patients
+um function at least that you can test.
+Um but you can also destroy small parts
+of the brain. We're talking 3 or 4 mm in
+size. These little ablations can be
+really helpful for patients, but have no
+obvious side effects that we can tell.
+Perhaps after a short recovery from
+surgery. Uh but nonetheless, despite how
+safe they might be, uh these surgical
+procedures still are surgical
+procedures, and patients are hesitant to
+proceed, especially when they know that
+their chance of a transformative effect
+is quite low. We we can generally
+um
+uh
+achieve a responder rate of about 50%.
+Um and responders still have symptomatic
+OCD. So, I'm really uh
+uh sort of inspired to uh really find a
+way to deliver these therapies in a more
+disease-specific or symptom-specific
+way. Were one to
+come into your clinic this, you know,
+for this sort of a work of ablations or
+stimulation, uh where would you first
+start to probe in the brain?
+Yeah, you this is a
+uh
+a disorder of both cortex and the sub-
+subcortex. We find that areas in the
+cortex like the prefrontal and
+orbitalfrontal cortex are are not
+functioning they the way they would in a
+non-OCD patient. They're often
+hyperfunctioning, and we need to find a
+way to try to normalize their function.
+And then there are projections to the
+subcortex, this is the basal ganglia,
+the caudate, putamen, or the dorsal
+striatum, and these are interconnected
+with the ventral striatum. This is an
+area of the brain that uh focus a lot of
+my energy in. Um this is the ventral
+striatum, which is not limited to but
+includes the nucleus accumbens. Um this
+is an area of the brain that uh we know
+to be involved in gating reward-seeking
+behavior. When it's perturbed, it seems
+to gate compulsive behavior, meaning a
+rat will pursue a reward despite
+punishment, despite a foot shock, for
+example. And that can be similar to an
+OCD patient. They will check their home
+for safety uh until 3:00 a.m. in the
+morning and not sleep that night. Doing
+something because of the urge, but
+despite the risk. When our judgment is
+consistently
+uh sort of puts us at risk, that's where
+we have something like OCD.
+Contamination behavior, where they if
+they feel contaminated they'll wash
+their hands for hours repeatedly or if
+they drop their toothbrush on the floor
+this will lead to a compulsive behavior
+of cleaning a toothbrush or brushing
+your teeth consistently very very common
+symptoms that we see or signs that the
+patients report to us or or that we
+observe but you know patients with
+eating disorders you know they tend to
+if if they have bingeing disorder
+they'll overeat if they have bulimia
+they might purge despite the risk of
+these things and so
+addiction is is similar we we tend to
+drug seek if we're addicted
+we'll we'll pay off a dealer in order to
+get our fix and despite the risk and and
+that type of urge despite the risk is
+something that I I've always been really
+interested in and and it's a common
+denominator to all of these problems and
+if you think about these problems I mean
+these are some of the most common
+conditions in our society today and I
+think the nucleus accumbens and the
+cortical areas that we've been
+discussing that that sort of send
+projections to these areas are are
+probably at least one of the main
+circuits involved in these kinds of
+things What is nucleus accumbens what
+roles does it play in healthy brain
+behavior and in pathology? Yeah the
+nucleus accumbens is a part of the brain
+part of our reward circuits it has a lot
+of functions uh
+it it interconnects with many parts of
+the brain so when I started getting
+interested in
+reward and what a what I could do as a
+surgeon to try to improve how we manage
+rewards
+and what I mean by that specifically is
+if you have an urge for a reward
+that that's a normal phenomenon that
+that's not something we're trying to
+stop but the issue is if you have an
+urge for a a reward that either puts you
+or somebody else at risk it's probably a
+reward we shouldn't have if you're a
+drug addict and you use heroin or opiate
+that opiate might make you feel better
+cuz life is stressful but the risk of
+doing those things is really high. In
+fact, potentially lethal. If you have
+OCD and you
+can't sleep at night because you're so
+nervous that you didn't lock the door
+and you've checked 30 times. That's an
+urge we got to treat. Eating disorders
+the same. This problem can be
+ameliorated or improved upon by a better
+understanding and a tailored treatment
+to the nucleus accumbens specifically.
+It seems that repeated exposure to
+something like a drug of abuse or any
+type of reward that is a really strong
+reward.
+In a way, it it can hijack normal
+functioning of the nucleus accumbens.
+So, the goal is to just disrupt
+perhaps what is kind of habitual.
+Um
+or or at least this
+kind of recurring problem that is
+happening. You know, people that have
+binge eating disorder, at least at a
+severe level, they tend to binge about
+once a day.
+So, what we decided to do in the
+operating room was
+to actually try to leverage a tool that
+we use all the time when we take care of
+patients with Parkinson's. So, with
+Parkinson's, these a lot of these
+patients, not all, have tremor.
+And so, when we place an electrode into
+this motor structure
+to try to improve their movement
+disorder,
+uh we often can hear tremor cells.
+And they sound we convert their
+electrical signal to an audible signal
+so we can actually hear it. And it
+sounds kind of like the tremor looks,
+like the frequency of the signal is the
+same as the hand shaking.
+Exactly. And you're poking around in a
+dedicated, careful way, of course. One
+poke at a time. One poke at a time with
+a very fine wire or set of wires,
+listening to the electrical activity
+until you
+you encounter some cells that are
+sending out electrical activity That's
+right. at a similar frequency. Exactly.
+And then you can stimulate them or quiet
+them and see if the tremor goes away.
+So, we we are very confident that when
+we stimulate that area of, in this case,
+the subthalamic nucleus. We will disrupt
+that tremor circuit and that tremor will
+dissolve and it does. So what is the
+analog to tremor in terms of appetite
+and desire to binge?
+>> Craving.
+So craving is a term
+that you know, there's probably other
+terms we could use by the way, but that
+that's the term we've chosen to use for
+a number of reasons. One because people
+relate with that term. People that have
+binge eating disorder or obesity, they
+if you ask them if they crave the answer
+will often be yes.
+If you ask them if they lose control or
+binge, they might not know what you mean
+or they might not actually feel out of
+control even when they are.
+Um
+So uh
+but the word craving is relatable and so
+we set out to see if we could identify
+craving cells.
+Um in a patient with OCD, which is
+related, in fact we target a very
+similar part of the brain.
+Uh
+we tried to identify
+cells related to obsessions and we
+believe we did do that. It was a single
+case study uh where we tried to optimize
+where our electrode was placed. So we
+had some
+proof of concept that we would be able
+to elicit a sort of disease specific
+symptom in the operating room assuming
+the patient could tolerate being awake.
+Not everybody needs to be awake for this
+procedure, but at least for these first
+in human trials where
+um we're trying we're trying to
+establish where in the brain we need to
+be, uh I think this type of approach is
+really critical. What is the status of
+non-invasive brain stimulation,
+ablation, and blocking activity in the
+brain? My understanding is that
+transcranial magnetic stimulation is
+being used to treat depression and a
+number of other
+um brain syndromes
+uh non-invasively, so no no drilling
+through the skull. My understanding is
+that the spatial precision isn't that
+great.
+>> Yes. Um
+ultrasound is something I hear a lot
+about these days um and my understanding
+is that ultrasound can allow researchers
+and clinicians to stimulate specific
+brain areas. What are your thoughts on
+these forms of non-invasive, meaning no
+no flipping open of a piece of the
+skull, type brain stimulation and
+blockade of brain activity?
+>> We need to embrace non-invasive
+approaches. Some of them are a little
+fluffy in that we don't understand how
+they work.
+We don't necessarily understand how deep
+brain stimulation works, by the way, so
+but because we don't know exactly how
+they work, they're not as precise as we
+would like them to be. So, we have work
+to do there, and I actually think that
+work is doable and actually underway.
+TMS, transcranial magnetic stimulation,
+it is FDA-approved for depression, by
+the way. It's also FDA-approved for OCD
+and for nicotine addiction. We believe
+we can use TMS to to define a circuit
+that if modulated improves OCD, albeit
+temporarily. And in those patients, if
+it's temporary, they would be
+appropriate for an invasive study. So,
+um something we're actively working on.
+I've always believed that neurosurgeons
+need to be part of the discussion with
+these non-invasive approaches. We don't
+need to do them. Um
+but um I think we can help make them
+more precise and to probe non-invasively
+with purpose. Perhaps one day there will
+be a TMS target for anorexia and
+obesity.
+Uh
+if we are scratching the surface with
+invasive approaches to these problems,
+we we're even doing less with the brain
+stimulation. Um so, we have so much work
+to do there. Eating disorders and TMS
+have been so um sort of
+scarcely studied or or
+there have been such little research
+done in that space. Um so, it it it is
+an area that we need to to work on. So,
+ultrasound right now
+transcranial magnetic guide
+magnetic resonance-guided focused
+ultrasound. So, um
+uh this this is an FDA-approved
+method to
+deliver an ablation to the brain
+non-invasively.
+There are uh researchers, myself
+included, that are trying to use
+transcranial magnetic guided magnetic
+resonance guided focused ultrasound or
+MRI guided focused ultrasound
+to use it in a modulatory way, not just
+as an ablation, but to drive neuronal
+activity or inhibit it, perhaps. We're
+still learning how to do that. Um
+there are trials that are trying to
+understand if you can use ultrasound to
+open the blood-brain barrier so you can
+deliver a medication to that specific
+area. Perhaps for a brain tumor or
+something like that.
+So, it's a very exciting field
+and it is FDA approved for tremor right
+now. And so, I actually
+do it routinely.
+For patients with tremor with
+Parkinson's or essential tremor.
+And so, I I love doing it. It's often
+just kind of a miracle because there's
+no incision. I don't have to place an
+electrode into the brain to achieve a
+similar result. It's fabulously
+effective for these patients. It treats
+patients on one side, usually their
+dominant hand or their worse hand. And
+it um
+it really speaks to the fact that well,
+you can deliver non-invasively an
+ablation to the brain in a hypothesized
+zone that we think is related to the
+problem at hand. And at least with
+tremor, it works really well. Could this
+be effective for psychiatric disease,
+obesity, eating disorders? Uh
+well,
+perhaps.
+Actually, that would be the ideal.
+The problem is we don't know where to do
+the ablation.
+Um there is a trial that we would like
+to do for OCD where we would deliver an
+ablation to the same area of the brain
+that we've been delivering ablations to
+for years for patients with OCD and it
+helps a bit. That's called a
+capsulotomy. Um
+but really the outcome is probably going
+to be about the same. It's a nice method
+because it's it's not invasive, but we
+need to find a new target for these for
+these conditions. And because of the
+common denominator of the urge despite
+the risk, sort of that compulsion, um
+yeah, perhaps it could be the same
+target. I don't know. Um
+but I would argue we need to do these
+modulatory experiments either with a
+device or with invasive recordings uh to
+better understand where these problems
+are coming from, to define where we
+should do an ultrasound treatment. There
+has been a revolution in America. It was
+in Europe before it was in America where
+we would do stereoencephalography,
+which is basically like doing an EEG of
+patients with epilepsy, but with
+invasive electrodes. And we would place
+tiny little wires less than a millimeter
+diameter all throughout the brain into
+parts of the brain that we believe are
+involved in seizures.
+And we would admit the patients to the
+hospital and figure out where the
+seizures were starting and propagating.
+And then um yeah, we could stimulate
+those electrodes to see if there was a
+symptom that was important and I try to
+identify a region that we thought we
+could either
+remove surgically, uh ablate with a
+laser, or put a a stimulator in it,
+perhaps.
+Um that's commonplace now for epilepsy.
+Um
+and it works extremely well and it's
+very safe. Of course, it's still a brain
+procedure, um but the uh the
+complication rate is surprisingly low,
+quite honestly, for the amount of
+electrodes that we place. And it's
+extremely well tolerated. Most of these
+patients leave the hospital and they
+don't even feel like they've had
+surgery.
+So, uh there's actually a lot of
+interest in using that procedure to
+study
+mental health disorders. We are trying
+to do it for patients with obsessive
+compul- compulsive disorder. We're
+awaiting an FDA decision on that. Uh but
+actually I credit uh
+our colleagues at Baylor and at UCSF for
+for studying this uh already. Bringing
+together the epilepsy technique and the
+psychiatry expertise to study how we
+could better target electrodes in
+depression.
+And I'll tell you, if they have a
+consistent target,
+perhaps there becomes an ultrasound
+target. Um but right now, the approach
+is a bit more reversible cuz you can
+always shut that electrode off or even
+remove the electrode if perhaps it's not
+in the optimal location to treat the
+depression.
+Uh
+but actually after a large volume of uh
+cases, perhaps, they could pool that
+data to develop a a new ultrasound
+target for depression. I think that
+would be fabulous and probably is their
+long-term goal. Not to speak for them,
+uh but that would be something that I
+I'm sure is on their radar.
+You might ask, "Well, why aren't you
+doing this for obesity right now in uh
+in our in our study?" And the reason is
+that um
+we've developed a target for obesity uh
+and binge eating disorder uh developed
+out of mice that we believe um is
+relevant for the human state because you
+can model this problem in a mouse a bit
+better than you than you can model
+depression or OCD.
+So, we feel like we can rely on the
+preclinical studies more.
+Whereas with these perhaps more I don't
+want to say more complicated, but more
+human mental health conditions that are
+hard to model in a mouse, you really
+have to study it in the human. And you
+can perhaps start in an epileptic
+patient, a patient that has electrodes,
+and try to provoke a depressed state or
+study epileptics that have comorbid
+depression, for example. Uh and that can
+really validate this approach as well.
+But in the end, it's it's getting into
+the human brain that we need to do in
+the disease specifically um
+that will eventually lead to a
+non-invasive approach, either a lesion
+or modulatory approach. Modulatory would
+be like TMS or lesion approach would be
+with ultrasound. If people can be made
+to feel or make themselves feel just a
+little bit better,
+a little less anxious just prior to a
+craving episode or a binge episode,
+and maybe even if people can become
+better at detecting their own internal
+states and when they're kind of veering
+toward a binge or veering toward using a
+drug or
+maybe even veering toward suicidal
+thinking, Seems like that awareness
+seems like maybe among the best tools
+that people could develop. Yes.
+I've always thought that if we can
+improve awareness, we can improve
+outcomes. I think that's probably true
+for many of these patients. The problem
+I think comes down to the fact that some
+of these patients are so resistant to
+treatment.
+And the patients that we see as a
+surgeon, for example, are the patients
+that they've tried cognitive behavioral
+therapy, and they've tried medications,
+they've tried behavioral management.
+They're as aware as they could possibly
+be, and they still lose control. We've
+had this studied in the lab. So, we will
+bring patients to the laboratory with
+this implanted device
+to to try to provoke this electrographic
+electrical signal um that can be
+detected by the actual device that will
+stimulate them when they're at home.
+But before we actually initiate
+stimulation, we want to to see can this
+device detect this craving cell signal,
+which is going to be different than what
+we saw in the operating room, because
+that's a single cell, but these devices,
+these electrodes are about a millimeter
+in diameter instead of like a tenth of a
+millimeter, which is what we use in the
+operating room. Um so, they're they're
+only hearing or or detecting, I should
+say, thousands of cells' responses.
+And
+we actually have a way to provoke
+binges. It's called a mood provocation.
+It's very well well very well validated.
+It's a little bit like provoking
+seizures in the epileptic monitoring
+unit, but here in the sort of
+uh
+psychiatric monitoring unit or the the
+food monitoring unit,
+uh we we actually have a psychiatrist
+and eating disorder specialist come and
+induce a mood that is related to
+each patient's sort of self-described
+binge episode. So, this psychiatrist
+comes in and provokes Yes.
+a feeling that can evoke the negative
+behavior.
+>> That's exactly right. So that we can
+video and synchronize the video to the
+brain signal recordings.
+The patients all wear an eye tracker so
+we can see what they're eating at all
+times and what they're looking at
+specifically and that allows us to
+have the best temporal resolution
+possible to understand what is happening
+right before the bite.
+And even under video surveillance
+through a one-day one-way mirror in a
+laboratory setting when patients are
+very well aware that they're
+there to be studied if they're going to
+binge
+they still do.
+And we believe they do because they just
+can't control it as aware as they are of
+it.
+And it's probably because they're the
+most severe.
+So I think if we can improve awareness,
+not just the societal awareness that
+I've been talking about earlier, but the
+patient awareness
+around their problem, I think that could
+be a powerful way to help so many of
+these patients. And that's sort of the
+role of cognitive behavioral therapy.
+The problem with cognitive behavioral
+therapy or I should say the limitation
+of it, I actually don't have a any
+problem with it. I think it's a
+wonderful treatment.
+Is that if you stop it, many of these
+patients go back to their old behaviors.
+I don't want to say old habits, but it
+might be a habit, but they old
+behaviors.
+And so um
+that's the problem is it's not
+necessarily lasting in the absence of
+continued cognitive behavioral therapy.
+Some people can benefit [clears throat]
+from it long term, but some can't. Uh
+but I think in in in in the less severe
+patients,
+improving awareness key.
+But in these really refractory patients,
+this is this is kind of like this is the
+disease despite the awareness. They
+can't control themselves. And that's
+what we're trying to restore is that
+improved ability to control their
+behavior.
+Do you think there's a role for machines
+and artificial intelligence here?
+There are a couple laboratories up at
+the University Washington that are using
+particular signature patterns of within
+voice
+to try and help
+suicidal
+people who are suicidally depressed
+know when they're headed towards an
+episode before they even can consciously
+know. This gets right down to issues of
+free will and whether or not machines
+can be smarter than we are. But you
+know, one could argue that some of the
+search algorithms
+on Google and other search engines are
+actually more aware of our preferences
+than we are.
+Um [clears throat]
+basically what these are, these are
+devices that are listening to people
+talk all day. They're also paying
+attention to patterns of breathing and
+how well people slept, etc. Integrating
+a a huge number of cues and then
+signaling somebody with a you know, a
+yellow light. Like you know, you're
+headed into a depressive episode. The
+person might say, "I feel fine." Or I
+feel pretty good. This is kind of
+baseline state for me. And they're
+saying, "Uh-uh. This is where you were
+preceding the last episode that took you
+down a deep dark trench and it took
+months to get out of." Um I wonder
+whether or not some of these devices
+could help with the sorts of things that
+we're talking about today. Yeah.
+I think so. Um I've always said we have
+to get in the brain before we get out of
+it. And if we get in the brain and
+understand what these signals look like,
+we'll know what those non-invasive
+signals are.
+I think it's possible that we are
+scientifically sophisticated enough to
+use machine learning and sort of this
+kind of bot technique to anticipate when
+somebody is going to be highly
+impulsive. You know, suicide is the most
+dangerous impulse. It's something that
+is
+immensely a focus of the lab is
+impulsivity. We've talked mostly about
+compulsion.
+Compulsion being, you know, going after
+a reward or or the urge despite the
+risk. Um
+>> [clears throat]
+>> impulsivity is is similar but different.
+It's It's kind of going after something
+um
+a little bit If you If you model
+impulsivity in a in a mouse, it's, you
+know, related to
+you know, going after a a food reward
+without the sort of paired tone that
+you're the mouse is supposed to wait
+for. The mouse doesn't want to wait
+anymore. They they just go after the
+food. Um I've been that mouse. Yeah,
+we've all been.
+We can all relate with this uh to a
+certain extent. Again, it's a spectrum.
+>> [laughter]
+>> Mhm.
+So,
+um
+So, in any case, I
+non sequitur, but I I I certainly think
+that there is a way to use our own
+body's physiology
+to anticipate
+when these impulses are coming online.
+How best to do that, I think we're just
+scratching the surface, but um
+these are the kinds of solutions we
+need. Some of these problems are of
+epidemic proportions. Largest public
+health problems in this country, in this
+world. Obesity, opiate crisis,
+depression, suicidality. I mean, that's
+like a third of our country, maybe more.
+We need scalable solutions. But, you
+know, I'm I'm a neurosurgeon. I'm only
+going to be able to treat the most
+severe of patients with these problems.
+You know, how
+you know, we've only done about 200,000
+deep brain stimulation surgeries
+ever.
+So, I mean, the problem we're talking
+about here is
+50 million Americans. There's no
+possibility that surgeons can address
+that problem. But, we could help inspire
+an initiative to go after that kind of
+problem or help make it more rigorous.
+Because the last thing we need is a, you
+know, some sort of wearable fancy tool
+that, you know,
+wastes people's money and time. You
+know, we need real therapies for these
+things. Not that these devices that
+we're discussing are not. Uh I think
+actually there's lots of promise.
+We use machine learning in the lab all
+the time. I'm not a
+an electrical engineer or the
+computational neuroscientist doing this
+type of work. I I just helped develop
+the hypotheses around it. But, um I help
+fundraise around it. But I I definitely
+think there's a future for it. I just I
+suspect we're we're scratching the
+surface on how best to do it. I really
+appreciate you sharing those tools. A
+number of people
+I'm guessing out there might want to
+become neurosurgeons. I really believe
+that in hearing today's conversation
+that you will spark an interest in
+medicine and or neurosurgery.
+>> I hope so. Um well, certainly you need
+to be a physician before you can become
+a neurosurgeon. So and neurosurgery in
+some cases and that would be beautiful
+and I predict that will be happen that
+will happen excuse me as a consequence
+of what you've shared today. Really want
+to thank you for taking time out out of
+your not just immensely busy, but very
+important schedule because
+again, the work that you're doing is
+really out there on that cutting I don't
+want to say bleeding edge cuz in this
+context it's not going to sound right,
+but on that extreme cutting edge of what
+we understand about how the human brain
+works and how it can be repaired. So on
+behalf of everybody and and myself as
+well, thank you so so very much.
+>> I'm honored. Thank you so much for
+having me.

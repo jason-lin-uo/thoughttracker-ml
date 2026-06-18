@@ -1,0 +1,333 @@
+# I Tried a Secret Google Project!
+# https://www.youtube.com/watch?v=J1oEWiUsKgU
+
+oh okay this might be the most
+impressive Tech demo I've ever seen it's
+also one of the hardest to explain on
+video but I'm going to try so there's a
+thing called Google project Starline you
+might have heard of it might have not
+but Google has showed a few video
+examples of this live super immersive
+like 3D video calling Booth where you
+sit down in front of it and on the other
+side someone else sits down and through
+the power of the internet it looks like
+an extremely realistic version of them
+is actually in front of you it's not
+just a normal video call but it's not a
+hologram it's just it's something
+different either way we got the first
+look at it at Google IO a couple of
+years ago they showed this clip in the
+keynote and nobody got to record it
+nobody even got to try it but now
+they're back with a better looking more
+compact more simplified version and I
+got to try it and record it now just as
+a warning this first clip it doesn't
+actually do it justice because the
+effect does not translate very well on
+camera we'll get to that but I was lucky
+enough to get my first reaction to this
+my actual first time seeing it on
+camera all right let's
+see project Starline start
+soon oh
+wow hey how are you great okay good to
+see you welcome to Starline thank you
+this is right yeah it's a lot
+more yeah you and I just saw each other
+right outside but we're in two different
+rooms and we want to make it feel like
+we left that space and we came back
+together in a virtual space it feels
+like we're completely in the same spot
+it really looks like I can actually uh
+it looks like you could drop something
+on this table right here yeah yeah I've
+got a little apple over here so let me
+show you that too so you know you and I
+are in the same room do you want me to
+pass this over into your space
+this looks like you can do
+it we're meant to feel like this room is
+just one room instead of two separate
+locations could be anywhere in the world
+so this is uh something we think is the
+glimpse of what communication could look
+like in the next few years that's
+incredible okay yeah I gotta learn more
+about this okay so what exactly is
+happening here so I'm sitting in front
+of the new Starline Booth is what I'd
+call it now the first Starline they ever
+made was much bigger they had these like
+full room setups essentially with a
+bench and computers the display but also
+a bunch of cameras and depth sensors
+placed around you this new one feels
+actually much more refined it looks much
+simpler and it kind of feels like a
+reasonable product It's a 65 in display
+on a stand with a smaller barrier over
+the bottom bezel and then there are
+actually some lights on the back that
+point at the wall behind the display
+that serve as a key light for me the
+person on the call and then there are no
+more depth sensors it's just a tidy
+array of color cameras and microphones
+and speakers so that's at the top the
+left and the right and they use AI to
+create a depth map of me and the room
+I'm in and then the magic of this is
+twofold It's the display and the
+Computing happening so the display the
+part giving you the actually impressive
+immersive 3D depth effect but then also
+all the Computing happening to turn me
+the person on the video call and the
+person on the other side into this
+realistic 3D model just with the camera
+information that you can actually look
+around with headtracking now clearly
+this doesn't translate well on camera
+which is why Google has understandably
+been super protective over anyone trying
+it even or or getting any photos or
+videos of it because it just won't look
+right but I was able to convince Google
+to let me try something you see
+basically once you first sit down in the
+Starline Booth this system has to
+identify where your face is and then you
+can move around and look at stuff with
+head and body tracking and of course
+that's not going to work if you just put
+a camera in there but if you do show it
+a face and a camera at the same time
+like say maybe a cardboard face where
+you can stick a camera lens somehow
+through that cardboard face then it
+would track and you could eh see what
+I'm talking about check this
+out so what what you're seeing right now
+is as if you were on a video call with
+me in the newest version of Google
+Starline this is the first time anyone
+outside of Google has seen this sort of
+visualization which is super cool so it
+looks pretty reasonable right now right
+I can hold up an object you can see the
+colors and the shapes and the lighting
+and textures on it and this is all
+information compiled from the array of
+cameras around me and the depth
+information comes from these regular
+cameras and that's all quite cool but as
+you start moving around
+that's when it starts getting a little
+more interesting because I can hold
+things out and you start to create this
+powerlax effect with the head tracking
+where you can start to literally look
+around and inspect the object and look
+underneath things as if you're literally
+in the room with me it's super
+convincing to the actual eye when you
+see it on this screen uh even the
+background behind me is not real it's
+being composited in but I'm casting a
+shadow on it and that's being rendered
+in real time too it's a lot we can even
+flip a s
+to show a sort of a topographical map of
+specifically the depth information
+coming from these cameras so again no
+depth cameras specifically being used
+here but the array of color cameras has
+all this depth information being mapped
+and that's what all the information from
+the color cameras is being sort of
+projected onto there's a lot of
+processing happening here so it all
+comes together to form this really
+impressive real time I mean I use the
+word immersion very lightly usually but
+I I want to stress that it's very
+immersive when you actually get to use
+it so hopefully this helps you visualize
+so that is pretty cool but even that
+doesn't translate perfectly because the
+feeling of depth actually comes from the
+distance between your eyes so a camera
+lens is one eye but if you've ever tried
+to catch something with one eye closed
+you know that humans perceive depth by
+the difference between what you see with
+your left eye and what you see with your
+right eye your stitches them together
+and figures out depth that way so even
+that demo doesn't quite get the full
+realisticness of what I saw on camera
+but it's pretty close the light fueld
+display in Project Starline is literally
+showing a different image to my left eye
+and to my right eye so taking advantage
+of that biological fact and then letting
+me actually compute depth on the Fly
+while doing all the head tracking in
+real time it's actually kind of crazy
+like if you've ever seen 3D glasses you
+know how when you go see a 3D movie like
+one of the eyes is blue one of the eyes
+is red that it's literally because your
+left eye will see something mapped for
+that and your right eye will see
+something mapped for that and that's how
+it creates the depth effect but this is
+way better than a 3D movie it's so much
+smoother and the head tracking and
+everything that goes with it and it's ah
+it's so good but then the craziest part
+that the the most impressive part is the
+Computing that's happening which is
+rendering the people using Starline in
+real time into these 3D models so this
+is not like the metaverse thing where
+the VR headset tracks face movement and
+then you you can have a eye contact
+face-to-face conversation with someone's
+Cartoon Avatar but no no no this is this
+is taking the actual Imaging the
+lighting the the way you actually look
+what you're actually wearing and
+rendering that out in real time in 3D
+space and making it look like I'm
+talking to them through a window it's
+kind of amazing the eye contact is so
+onetoone re looking and it really just
+comes from the fact that I'm sitting
+here looking forward and the person on
+the other side is also looking forward
+and so we're actually looking into each
+other's eyes so anyway yeah it it is the
+point is it's super realistic I promise
+you when I was when I first did my demo
+the first time I ever saw it even
+knowing that it's 3D I still felt like I
+could reach out and like high five him
+or like fist bump him he held that Apple
+out actually and to my eyes it looked
+like he could just drop the apple he was
+holding right on the table in front of
+me which of course meant that I look
+stupid from this angle cuz I'm just
+reaching out at nothing but we got a
+bunch of reactions from some other
+Studio team members who got to join me
+for this demo I'll link a video that has
+some of their reactions below you should
+definitely check that out so it was
+really only the like slight glitching a
+little bit of edges and fading and stuff
+like that that kept out of uncanny
+valley territory like obviously the eye
+contact is one thing and the 3d effect
+even it had spatial audio so if I leaned
+over here it would sound like more audio
+came into one of your ears and that was
+responsive but you know things like in
+between the fingers or like the edges of
+certain Fabrics or my hair especially
+some of that stuff could kind of break
+it a little bit and you could tell but
+honestly I wasn't thinking about that at
+all so you might be thinking kind of the
+same thing I was after I finished this
+demo which is okay this is super cool
+but what is this for like what is this
+sort of a tech demo actually useful for
+and the answer
+is we don't really know yet so at this
+point in time Google has worked with a
+few companies Salesforce Wei workor and
+T-Mobile are some examples who are
+literally using some of these booths for
+meetings basically I guess theoretically
+that's better than a zoom call although
+it still has its limitations like the
+face tracking can only work with one
+person at a time which means only one
+person can be in the booth at a time to
+get their realistic depth effect so
+adding another person doesn't work I
+think the question will be closer to
+being answered when the tech gets even
+better like we it's already gone from
+the size of a room to the size of like
+an easel it could just be the size of a
+TV with a backpack on it but this will
+get more realistic cheaper simpler and
+just better but you know here's the
+thing I actually don't know that regular
+people will actually want this like hear
+me out if I know anything about bleeding
+edge Tech which I've tried a lot of it's
+that regular people the masses are not
+very fast to pay extra for higher
+Fidelity like better quality so the the
+cut off for acceptable quality quality
+is surprisingly low for the masses like
+think about it audio quality I don't
+know streaming on Spotify over Bluetooth
+seems to be good enough for most people
+airpods are the most popular headphones
+in the world you think about cameras and
+how smartphone cameras are basically
+good enough for 99% of the taking
+pictures of your kids you know so
+convenience is King that like that's why
+right now FaceTime and zoom are it's
+just a square of a flat Low reses video
+feed on a screen that's fine it's fine
+for most people when you turn it all the
+way up to project Starline which is like
+this incredibly realistic like you can
+see micro expressions and textures and
+feel like you're in the room with the
+person that's over on one side here and
+FaceTime and Zoomer on the other side
+here and this is where the masses live
+and this is like businesses you know
+getting a booth so they don't have to
+fly people out for lots of meetings
+overseas but it's still too expensive
+and too difficult to get to for most
+people but that's just for now that's
+just for this version now I am really
+looking forward to keeping an eye on how
+this Tech evolves from Google and even
+from others who are working on this
+whole 3D light field display technology
+stuff we've actually seen some
+interesting stuff before I actually
+tried an Asus laptop not too many weeks
+ago that does the same thing it renders
+a unique image for each of your eyes and
+does head tracking for an incredibly
+realistic 3d effect but of course for
+that you have to look at a certain file
+that was built in a certain model and
+work with certain software where this
+was like rendering real people and just
+having a conversation it's crazy it's
+crazy I'm going to thank you for Google
+for letting us see this and I'm going to
+hopefully be able to try future versions
+when they get finished cuz this is wild
+let me know what you guys think thanks
+for watching catch you in the next one
+peace
+[Music]

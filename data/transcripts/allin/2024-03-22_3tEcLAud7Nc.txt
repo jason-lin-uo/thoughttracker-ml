@@ -1,0 +1,2160 @@
+# E171: DOJ sues Apple, AI arms race, Reddit IPO, Realtor settlement & more
+# https://www.youtube.com/watch?v=3tEcLAud7Nc
+
+has anybody else seen duu and IMAX no
+don't say anything oh don't say anything
+about Dune all I want to say about Dune
+no don't say it is fantastic and I want
+to see it again in IMX that's it that's
+all I'm saying is that it's worth seeing
+twice I don't even want to know that you
+think it's good it's overrated it makes
+me oh stop both of you see he didn't see
+it he didn't sax didn't see it no I saw
+Dune Dune two yeah I saw it it's
+overated okay stop stop okay stop
+everybody you both of the not over
+there's like five great scenes sxs the
+scene stop stop you guys are
+so let your winners
+[Music]
+ride and instead we open source it to
+the fans and they've just gone crazy
+with queen
+of all right everybody Welcome to the
+all-in podcast with me again the
+chairman dictator moth poly hoaa David
+saaks the Rainman yeah and sulan of
+science David freeberg it's your boy
+jcal here and we
+have so much to go through the doj
+dropped a Sherman X suit on Apple today
+right as we were about to tape the
+program seems like Thursdays is the big
+news drop day now so this doj suit
+outlines five alleged abuses and they
+claim obviously that those abuses reduce
+competition
+while limiting consumer choice and
+raising the prices that consumers pay
+for their iPhone we talked about this
+actually just a couple of weeks ago when
+we talked about Peak Apple the five
+categories are very quickly super apps
+cloud gaming apps messaging apps
+SmartWatches and digital wallets if you
+don't know about super apps that's the
+one that's maybe you haven't heard of if
+you're listening to this in Asia they
+mention how alipay we chat and PTM are
+super apps what does that mean you get
+like five or six different functions in
+one app social media images purchasing
+getting rides you know all that stuff
+and when you have that you can move from
+one platform to another super
+easily and when it comes to messaging
+apps we've all experienced the green
+bubble friend so the main argument of
+the lawsuit pretty interesting they
+explain and it's a really well-written
+document I read it this morning that
+when Apple faces new competition instead
+of lowering prices for consumers or
+offering a better deal to developers
+they would quote meet competitive
+threats by imposing a series of
+shape-shifting rules and restrictions in
+its App Store guidelines and developer
+agreements I've faced this every time
+I've invested in an app startup they
+complain about the goalpost moving by
+Apple and Apple shares down about 3% on
+the news today I'm sure everybody's got
+some interesting thoughts on it shamat
+you were talking about Peak Apple just
+last week or the week before I think
+what are your thoughts on the lawsuit
+that dropped today to be honest I
+haven't read it and I don't really
+know like the odds of these things just
+because it seems like some of this stuff
+is so clearly
+political and I think that these things
+have seasons to it in the sense that
+there are moments where these things are
+more likely to go in the favor of the
+company and more likely to go in favor
+of the government the one thing I'll say
+is that these guys have been losing
+a fair number of these things so they're
+kind of 5050 in their fight with epic
+they've basically lost against their
+fight with
+Spotify they definitely are in a moment
+where people are looking at the
+profitability of these devices
+as the source of their long-term cash
+flow and I think they realize that
+there's not a lot of growth because they
+haven't entered a bunch of new markets
+so the real question is knowing of that
+did they do something beyond what
+they've already always done to try to
+lock people in and can they prove it I
+think that that's really where the
+government's case will come down to
+because then it's clear that
+Apple probably understood that their
+Market was kind of solidifying and they
+introdu
+these blocks essentially into processes
+that that force people to stay that's
+probably bad news for them but I I don't
+really know because I haven't read the
+lawsuit yeah sax did you get a chance to
+read it or do you have any thought
+generally speaking I haven't read the
+filings but I read some of the press
+coverage about it I would say based on
+the Press coverage that I read that
+there's not really a Smoking Gun here at
+least the Press hasn't reported one and
+what I mean by that is let me give you a
+couple of examples that were in the
+press one is that apparently the filing
+made a point about when Tim Cook was
+confronted some time ago by a user
+saying when I try to send a video by
+text to someone with an Android phone it
+just doesn't work very well it never
+works it was a guy trying to send a
+video to his mom and Tim Cook responded
+well your mom should buy an iPhone it's
+kind of like a throwaway comment by Tim
+Cook probably not a great idea for him
+to say that but that's an example of
+what the lawsuit brings up another
+example is that the Apple watch doesn't
+work with Android
+phones you know it only works with
+iPhones
+obviously again is that really a smoking
+gun issue I don't think so I mean it's
+this is Apple's whole strategy is that
+all of its products work seamlessly
+together and apple Hardware doesn't
+really work with other operating systems
+it never has so at least based on the
+Press coverage I've yet to see a single
+Smoking Gun example coming out of this
+lawsuit now I think what those examples
+highlight is what this lawsuit is really
+about is your view of
+interoperability what the government is
+saying is that Apple needs to make its
+apps and its devices more
+interoperable with other ecosystems so
+the watch needs to be interoperable with
+Android Apple messaging needs to be
+interoperable with Android messaging and
+so on what the government is saying is
+that apple is refusing to play ball with
+other applications other operating
+systems and that creates a monopolistic
+Network effect what I think Apple would
+say is no the fact is that Apple from
+the outset has always tried to do
+everything super nuts we've always done
+the hardware and the software together
+and that's what creates the magical
+experience and so Apple's entire product
+strategy is based on creating a
+vertically integrated stack that goes
+from Hardware to operating system to key
+applications and I think apple has a
+point saying if you try to make us
+unwind all of that the product is not
+going to work as well it's not going to
+be the same product experience that
+everyone's used to so again I think that
+how you view interoperability at the
+core of this lawsuit I think that both
+the government and apple make good
+points about that and I'm a little bit
+skeptical right now that the government
+has a Smoking Gun at least one hasn't
+been reported in the press and so I'm a
+little bit doubtful right now that the
+government's gonna be able to win this
+case freeberg any thoughts yeah I mean I
+think it's a function of consumer choice
+if consumers want to have this closed
+system where they can iMessage with
+other iMessage app app holders and not
+be able to have a seamless integrated
+messaging experience with Android users
+they'll be happy if they're annoyed
+they'll switch over to an Android so you
+know this has always been
+Apple's orientation I I think I
+mentioned this to you guys I've been on
+a Mac since 1984 when the Mac original
+came out I still have my first Mac
+original by the way I keep it in my
+office on my
+shelf and Apple's you know always had
+like a really hard focus on the software
+that they make available to their users
+to create an incredible product
+experience so I don't know if this is
+necessarily about Market abuse as much
+as it is a consumer choice if the
+consumers didn't like the product they
+didn't like the fact that things were
+not available that things were very
+expensive they would go elsewhere and
+you do see that in segments of the
+market and as we talked about a few
+weeks ago you do see that xus most of
+the smartphone market is actually
+Android driven yeah so this is a premium
+product that people are willing to pay a
+premium price for even if that means
+limited access I think developers are
+frustrated that they can't access this
+premium Market but I'm not sure that
+Apple necessarily should be
+coerced to service developers when at
+the end of the day the consumers are
+paying for the product and to your point
+like is it is it really the case that a
+green bubble versus a blue bubble is
+really that limiting you know it's not
+the world an it's annoying but the world
+yeah I would say apple has completely
+abused their power every chance they get
+in order to capture this 30% from the
+app store they blocked the ability for
+you to use Audible or you know other
+marketplaces to buy books and media they
+blocked the ability to use other media
+players like VLC they blocked the
+ability to use browsers and if you leave
+Apple unchecked they just keep abusing
+it and so I think this is kind of one of
+those lawsuits that's like if we don't
+stop them they'll just keep making it
+worse and when people file complaints
+then Apple will back down which they did
+on media players and and they'll stand
+down if you think about this from the PC
+era to now then you can see how pricious
+their behavior is when you buy a laptop
+the idea that you would have to go
+through an app store and pay a $30 tax
+to put a piece of software on your
+computer would seem insane 30% 30 yeah
+30% tax on your which would seem insane
+like if you buy a laptop you should be
+able to put whatever software you want
+on it but they did this magic trick
+where they said no if you want to put
+software on your phone it has to go
+through the App Store it has to be 30%
+and that's really the anti-competitive
+thing here I think this will be settled
+and if you look at the different issues
+here I think this is going to be
+actually a huge win for Apple because if
+iMessage were to exist on Android they
+would get all of those users to download
+iMessage and they would have all those
+users if they made the watch compatible
+they would open up many more people to
+buy the watch and you would get more
+watches I think that Apple's thinking
+way too short term about the the lock in
+here and they should you know allow more
+of these apps allow more watches and
+they should allow the gaming thing I
+think that they're being petty I don't
+think anything's going to happen here
+because it's taken them five years to
+file there's a at least a 50% chance
+that the administration is going to turn
+over which means that this lawsuit
+changes or goes away entirely and then
+even if it does kind of proceed it's
+going to take 10 years of very detailed
+Arguments for something to happen and
+frankly probably in 10 years from now
+we've already moved to a different
+compute platform and this is not going
+to matter I mean there there is the coin
+toss of what the Trump Administration
+would do here for sure that's valid but
+I think these things will get settled I
+think the settlement will be iMessage
+releases they allow the see the thing
+about the Apple watch it's not just
+sacks that they're allowing it on
+Android it's would you allow Android
+watches to connect with the SDK directly
+into the IOS operating system which they
+block you from doing I think they should
+just have a little switch in your
+freedberg settings that allows you to
+flip it and say I take responsibility
+for allowing third party stores and I
+want to be able to load any software
+it's your computer I don't think the
+government should should regulate I
+don't think the government should be
+able to mandate I think they yeah I mean
+I I like the fact everyone keep looking
+to the government to do things that they
+want as a consumer make your choice with
+your dollars make your vote with the
+product and service you want to buy
+instead of running to the government and
+asking the government to come and do
+stuff you feel that way about price
+fixing what do you mean price fixing in
+what context if like a group of people
+price fix the cost of a phone or like
+let's say the 30% from the app store
+which just happens to be the same
+between two app
+stores do you think price fixing is
+something valid for the government to
+think it's not the same do you think
+price fixing is something the government
+should come in on it's the question if
+there's limited access to products in a
+market and all the participants get
+together to set the price in the market
+I do think that's anti-competitive and
+that's there a good role for the
+government to play there but Google and
+apple don't price fix because Android is
+an Open Access system you can put any
+application you want any way you want
+there are several app stores to put
+Android apps on your Android device
+Google operates an app store called
+Google play but there are other app
+stores you can go to as well and they
+all have different prices and Google's
+App Store costs by the way are not apple
+and they're not 30% and we talked about
+this last time I'll pull it up for you
+again it's like 15 to 12 going down it's
+a sliding scale so there is competition
+in that market generally I think the
+point about if there's limited access to
+a market for product for consumers and
+everyone in that market gets together
+and sets a price that is
+anti-competitive and there's a good role
+for government to play there but I don't
+think that having the government come in
+and say I want this feature to have this
+button and this flip in my app is is
+what I want my government doing I want
+my government protecting me from
+crime and you know defending the country
+and I don't want all the other stuff
+that the government does to drive costs
+up which is generally what the
+government does so what do you think the
+role of the government is here in terms
+of anti-competitive especially in the
+case I'm curious your thoughts on a
+duopoly like if you look at Google
+search Monopoly pretty easy to
+understand like hey they've got 90% but
+here you got two players who have you
+know roughly 50% of the market each or
+60 40 depending on where you are so what
+what is the the the proper role of
+government here and is this an
+overreach no I mean I actually think
+just to give the government lawsuit some
+credit I actually think it's good to
+hold Apple's feet to the fire and make
+sure they're not engaging in
+anti-competitive tactics one of the
+things I've said previously on the show
+is that I think the government's been
+making the mistake of going after
+bigness for its own sake and I don't
+think that bigness in and of itself is
+bad it might be a reflection that the
+company's done an incredibly good job
+and that's why it has a lot of customers
+and a lot of market share what I've said
+is I think the government should prevent
+anti-competitive tactics so I think that
+this lawsuit is good in the sense that
+it's targeted at the right types of
+things it's not just going after Apple
+because it's market cap is so big it's
+going after specific things that it's
+doing to kind of lock in its Network
+effect now the problem that I see is
+just that the examples that we've been
+given so far from the lawsuit just don't
+seem that compelling again I'm kind of
+waiting to find out where's the Smoking
+Gun here but to freeberg point I mean
+look I don't think you can just say that
+if you don't like what Apple's doing go
+to a different platform because because
+the point is that there's only two
+choices and they can both engage in
+anti-competitive tactics and they can
+both create lock in but sax there are
+not just two choices Android is an open
+operating system Google has a fork of
+Android that they put on certain
+smartphones there are other smartphone
+makers that use other Forks of Android
+so Android has enabled and the reason
+Google bought Android was to provide a
+counterbalance to exactly the dynamic of
+one handset manufacturer having an
+operating system that could control
+access to the internet and to apps and
+so Google open sourced Android many
+handset manufacturers use their own
+versions of Android to put their own
+experience on the phone and then Android
+users can put apps from anywhere they
+want and other companies offer app
+stores so there are many app stores to
+go to and there are many different
+handset manufacturers and a lot of
+people I think in correctly look at the
+operating system landscape in Mobile and
+say oh there's Android and there's iOS
+but Android is an open platform and
+there are many different Forks of it run
+by many different companies so I think
+that it is actually a very competitive
+market like we talked about last week I
+think close to 80% of global handsets
+are run on Android Forks so you know
+it's not necessarily the case that there
+are only two choices and Google does not
+control Android there are many
+developers that contribute to open
+source there Google has their own Fork
+that they do a lot of work on but anyone
+can take their own fork and do I mean
+you guys can you know when you when you
+um when you boot up a Samsung or Sony TV
+that's running Android and that's
+running their own version of Android are
+you arguing that Apple doesn't have
+Market power in the US they do xus
+they're you know yeah I mean I think
+sure we're talking about the US market I
+mean I think the US market they're about
+are they about 5050 we pulled this chart
+up last week but I more in the US now it
+might be 55 45 right now yeah something
+like that the issue is the cat and mouse
+that apple is really good at playing
+they will push their advantage and so we
+see the five things that the justice
+department wants to go after here but
+the App Store is obviously one of them
+and before that I mentioned some of the
+other categories where they do this
+abusive power they basically keep it up
+as much as they can until they get
+checked and I I think interoperability
+is actually in the long term going to be
+in their best interest they use
+interoperability when they need it so
+Apple music and iTunes they allow you to
+use Windows and Android it's only when
+they see an advantage and that's really
+the hypocrisy of apple and I think it's
+really important that the industry stand
+for more interoperability and the
+ability for to load any software that
+you want on your device this is a
+compute platform the ability for them to
+block you from installing your own apps
+on it I think it's a really terrible by
+the way Jason what you're saying is a
+very fair statement from a consumer
+point of view and from an industry point
+of view and that's where that voice
+should come from to force in the
+marketplace changes from Apple but
+having the government do this and having
+the government involved I think that'ss
+all these bad they're representing the
+people somebody did it they asked Tim
+Cook to do it and Tim Cook said pound
+salt buy a phone for your mom no but
+aren aren't they representing the people
+like how do you expect the people to
+organize like file a class action no I
+think if enough companies boycott the
+Apple platform and tell consumers to
+boycott they'll I mean consumers can
+make decisions developers can make
+decisions whether or not they want to
+develop for Apple no that's not
+realistic you know that not real that's
+naive come on I don't think I want the
+government stepping in to tell private
+companies what to do because customers
+don't like what they're doing wait wait
+do you think that the government should
+stepped in to prevent Microsoft from
+taking over the browser the whole
+Netscape case
+bundling I don't know the case well
+enough I mean I remember it but I don't
+want to speak I don't want to speak
+definitively there was a substantial
+chance that if the government didn't
+step in then Microsoft would have
+extended their Windows operating system
+Monopoly they did have an AB to the
+Monopoly they did have a monopoly on
+personal compute OS at the time well it
+wasn't an absolute Monopoly I
+mean you were using Macintosh at the
+time that's what I'm saying at the time
+Macintosh was like 5% of the market it
+was under 10% at the time yeah it was
+about four or five% at that time
+Microsoft was
+95% of the personal Computing market so
+they did have an absolute Monopoly on
+that market you had a consumer Choice it
+wasn't a very good consumer choice but
+you still a consumer choice you could go
+use MacIntosh and you did you were using
+lot of people could afford it yeah okay
+but the point is that Microsoft had
+substantial Market power and what they
+were in the process of doing was the
+smart thing from a business standpoint
+which is you take your operating system
+Monopoly you use that to extend into the
+browser you kill Netscape you take over
+with Explorer you bake Explorer into
+your Windows operating system so the two
+things are basically the same then from
+there hold on from there you leverage
+your control of the of the browser in
+the home screen to control search okay
+and so you think about like all the
+dominoes that would have fallen if
+Microsoft had continued maybe if like
+Bill Gates had continued being CEO and
+there would have been no Google there
+would have been no Yahoo they would have
+controlled the internet they would have
+controlled the internet and they were
+actively you left out a big piece of
+sax which you'll remember the second I
+say it they were trying to break HTML in
+Open Standards by creating ActiveX and
+using all funky Cod right and so you
+have to understand these companies will
+if you give them an inch they'll take
+the mile and that's exactly what Apple
+does consistently they consistently try
+to squeeze I think it's great saaks is
+Right tactics is the way to go after
+this companies these are five recent
+tactics I think the the government's
+going to win changing three of these and
+that's win that's a win for me yeah the
+mobile operators tried to do the same at
+that same time if you guys remember
+Verizon yes singular they they you could
+only put their apps if you bought it
+through their store yeah on their
+operating system on the mobile phones
+that they contracted to have made so
+they all had their own custom version of
+the handset manufacturers OS which all
+and then they did rev share back with
+the manufacturers and that's why Android
+was acquired it wasn't actually at the
+time to compete with Apple Android was
+required to compete with all the mobile
+phone companies that were trying to
+block access to the internet and apps
+well Google wanted to maintain its
+search Monopoly let's be honest they
+that's why they bought it they knew
+users would be there and they wanted to
+have the default they want to have the
+access to the internet block Yeah by
+this by the handset manuf they want it
+to be the default search browser in the
+app which is what you have to agree to
+by the way so if you want to talk about
+perniciousness and heavy-handedness if
+you have an Android you and you want to
+use the Android updates from Google
+corre you have to give the bundle of
+apps if you want the and support from
+Google you can for it but then you don't
+get their support which then breaks your
+phone if you want their version that's
+right yes yeah so you know there's a
+little cleverness here I think so you
+have two basic ecosystems in Mobile it
+is a duopoly and both them Advantage
+themselves in ways that grow over time
+and I think that if Apple were
+completely left unchecked it would
+figure out ways to boil the Frog and
+keep extracting more and more value out
+of Downstream applications tot they boil
+we paying 1,600 or phone now how are we
+paying 1600 or phone so look I think
+it's I think it's good for the
+government to hold their feet to the
+fire but here here's the thing that the
+government's lacking is again that
+example they can point to that's really
+compelling I mean with the Microsoft
+Netscape thing it was really obvious
+what they were doing right the browser
+was the gateway to the whole new
+platform which was the internet and if
+Microsoft could make that a feature of
+the operating system their dominance
+would extend into the new Computing
+platform but you remember how they did
+it Apple watch is just not the same
+thing the Apple watch is kind of a an
+appendage of your phone that most people
+don't even want so it's hard to point to
+something do you remember saxs how they
+were getting the browser built in they
+were going to the oems the Dells of the
+world the HPS and saying if you want
+this price for Windows you have to
+include the browser on the desktop it
+has to load it has to ask for your
+credentials all this stuff or you can
+pay $150 for Windows um if you want it
+with without the browser bundled so they
+use this pricing to get the oems to to
+bundle it and that that was where well
+isn't that what Google's doing with
+Android effectively exactly is like it's
+exactly right you can have your own
+version without Google search if you're
+willing to put up with all these
+headaches and maintain an operating
+system update the operating system yeah
+it's exactly what they're doing so
+anyway I think three out of five of
+these get settled and it'll be good for
+consumers ultimately I I I would not
+Financial advice but I think that
+Apple's going to be able to manage this
+I'd buy the stock I may buy more of the
+stock I think that this will be good for
+them long term all right listen going
+even deeper into apple and this Google
+relationship big questions emerged this
+week as Bloomberg reported that Apple
+was speaking to both Google and open AI
+about powering certain AI features on
+iOS specifically according to the
+article this deal between Apple and
+Google seems much more likely than the
+open a one and could happen this year as
+you know we've talked about it on this
+show before Google has been the default
+search engine on iPhone for I think over
+a decade now and uh Google pays Apple 20
+billion a year that's pure profit for
+Apple U it's unclear what features they
+would power with Google Gemini maybe
+it's like the search deal and Google
+Gemini's on there maybe it's built in
+and Apple has been building its own llm
+it's called Ajax they've been doing some
+other open source stuff called Maggie
+what do you think chath you were talking
+about this on Twitter you think you had
+a pretty good tweet and a pretty strong
+position if apple is going to use Gemini
+what does that say to you about Apple
+and their view of the future I think
+it's them giving up this is the most
+consequential new development in
+technology and compute in probably 20
+years 30 years and so to be spending
+tens of billions of dollars of R&amp;D and
+to not have enough allocated to this so
+that you have a legitimate path forward
+to do it yourself I think is a little
+inexcusable
+[Music]
+actually it's akin to IBM in the 70s
+going to Microsoft and and basically
+asking them to build the operating
+system for them when you're such a
+dominant company in such a dominant
+position but you abdicate your
+responsibility to innovate I think that
+that's a really bad situation for a
+company to be in was like Yahoo adding
+Google Search right and then by the way
+on the heals of like turning off cars
+and and losing these antitrust issues in
+Europe and then being sued by the doj
+here to then be in a licensing
+discussion with a third party for such a
+critical technology I think is just says
+not very good things about the state of
+the company freeberg your thoughts on
+this potential deal we don't know what
+features this would power I don't know
+if it's Siri or it's just image editing
+or search an extension of search maybe
+giving an answer I have no idea it seems
+to me like there's if if Apple's doing
+the right thing which I'm sure they are
+they're probably building their own
+alternative platform here they realize
+it's going to take them some time in the
+interim they want to have a stop Gap and
+my guess is by going to Google they're
+probably going to get paid instead of
+having to pay someone else for the
+technology because Google will realize
+some benefit from getting users over to
+search results and seeing ads so Google
+will probably benefit and pay them
+instead
+of them having to go pay someone for
+access to some technology that consumers
+might want access to sax any thoughts
+here I'm sure apple is goingon to make
+an investment in building their own
+models here yeah I mean who would look
+at the launch of Google Gemini and say I
+want that that launch was at total
+Fiasco another world company I think it
+fit the Apple philosophy pretty good I
+how woke would Tim Cook have to be to
+look at the launch of Gemini and say oh
+yeah I don't see anything wrong there
+you got that exactly right
+absolutely I want that yeah Siri show me
+the president of the United States I
+mean apparently Tim Cook is the only
+person on Earth who is impressed with
+the launch of Google Gemini I mean I
+can't believe the story is true it's
+just it can't be true I'm so excited
+today to launch Gemini on stage here iOS
+27 Oh my God can you imagine him on
+stage doing searches live the story
+can't be true because it' be so
+strategically dumb like said even if
+Google Gemini were great you'd still
+want to invest in having your own thing
+because it's such a strategic technology
+why would you ever Outsource it to your
+main competitor but in this case you
+know that Gemini was terrible it was a
+fiasco and so the story makes no sense I
+just can't believe it's true it's
+probably people knocking on each other's
+doors they spent $30 billion last year
+on R&amp;D 30
+billion Apple to be clear they spent $30
+billion on R&amp;D what did they spend it on
+catering I mean you got to think Apple
+vision is a big piece of that right
+chips I guarantee you like half of that
+is like the M3 M4 30 billion like not a
+couple crumbs fall out of somebody's
+pocket and so there's 50 million
+allocated to just like you know mucking
+around with llama or mucking around with
+mistol what if they took project Titan
+the car car deal that was 10 billion
+supposedly they had spent on that and if
+they put that towards
+AI Microsoft again again it goes back to
+the to the people I don't think I don't
+think the the person in charge of the
+windshield wipers for project Titan is
+going to be the person that figures out
+how to land a really killer llm yeah
+that's a different skill set but it's
+not even that expensive I mean's a
+mechanical engineer and one's a computer
+scientist so these are not the same
+people they're not fungible that way I
+mean I guess the question here is Apple
+capable of building on a culture basis
+freedberg this type of software they're
+a hardware company it's not you're
+standing on the shoulders of the whole
+open source movement all you have to do
+like jam said all you got to do is take
+the latest mistal model or jump on
+hugging face and start working I mean
+you're not starting from zero because of
+Open Source not not only you're not
+starting from zero not only do you have
+the foundational models that are
+excellent and available in open source
+you have probably the most prolific set
+of training data that has ever been ex
+created in the entire world to make
+these models kickass yeah you have all
+the Apple photos archive I wonder if in
+their ch see that's the thing is their
+terms of service is so privacy based I
+wonder if they could even use that
+information and I just think look at the
+end of the day the Apple brand is still
+exceptional and so if you're given a $10
+million a year job at Google versus a
+$10 million a year job at meta versus a
+10 million $10 million a year job at
+Apple if you're like one of these killer
+AI people that get these kinds of offers
+I got to presume that Apple gets their
+fair share of these people yeah you
+would think and even in the worst case
+you see Microsoft doing like pretty
+heavy handed deals with companies like
+open Ai and just this week with
+inflection so it's not as as as if these
+deals can't be done right and so it just
+kind of like leaves I don't know it's
+just it's quizzical to spend that much
+money to not necessarily be willing to
+compete on the human capital to not
+necessarily be in the market acquiring
+these
+businesses I don't know it's just it's
+just a question mark like what's going
+on over there Jam ask what's going on
+over there we have some inside footage
+Nick you want to play
+tape what's going on
+here what are we
+watching I hope we didn't keep you
+waiting mother nature mother nature well
+welcome to Apple how how was the weather
+getting
+in oh she's controlling the weather was
+however I wanted it to be yeah they did
+this couple of but but this reflects
+their self-image I mean they released
+this they care about the plan no it's it
+reflects that they think somehow this is
+an accurate reflection of the way they
+do
+meetings no I think it was the um point
+they were making is they were trying to
+do a skit about like how they're doing
+less packaging and including that that
+skit was to tell you that you're not
+getting a charger in your next iPhone
+because they they don't they want to say
+didn't it was
+cringe I thought the intent was maybe
+it's a little cringe but yeah I it a
+little cring but I do appreciate that
+they are doing sustainable products and
+not putting as much stuff in landfills
+so I think they should get a lot of
+credit for that what I do think about
+this deal that's really interesting is
+it's sort of cementing the Google and
+the
+Apple alliance against Microsoft and
+Microsoft has big you know AI ambition
+so this is kind of interesting if you
+lock in the duopoly of Google and apple
+and then you lock in Google search
+Monopoly and you start fighting
+Microsoft I think that's what we're I
+think that's what's probably going on
+here is they're trying to figure out how
+do we keep Microsoft away from running
+away with this all right we covered that
+huge Nar lawsuit back in December and
+there has been a settlement big news for
+the National Association of Realtors
+they've agreed to pay $418 million
+settlement last week and federal jury
+found that the n and several large real
+estate brokerages conspired to
+artificially inflate agent commissions
+the settlement is pretty pretty big deal
+people are freaking out about it as you
+know the seller of a home pays the
+buyer's agents commission so you have a
+buyer and a seller 6% fee typically
+sometimes it's five but they split that
+3% to the buyer and the seller but the
+seller is paying that 3% to the buyer
+now that can't be listed in the MLS
+anymore and that deal cannot be done
+ahead of time
+buyers are responsible for paying their
+agents commissions going forward so if
+you bought a million dollar house and
+you were the buyer you would pay 30,000
+to your buyer's agent or you would
+choose to not have an agent or you would
+choose to negotiate it and you have to
+have a signed contract this is a crazy
+just shocking shock to the system
+according to most people who are in it
+I've seen a lot of real estate folks who
+are saying this is going to be healthy
+because you have this you have to have
+this conversation between the buyers
+agent and the
+buyer but Commissions in the United
+States are hundred billion doll a year
+and one analyst projected the lawsuit
+could lead to a 30% reduction in
+commission payments and that would
+eliminate about half of the 1.6 million
+active NRA members from the industry you
+had a lot of feelings on this fredberg
+when we talked about it a couple of
+months ago what are your thoughts on
+this settlement is anything going to
+change is this as groundbreaking and
+shocking as people seem to think it is
+well I would take this
+settlement along with a lot of the
+developments and advances in
+AI as being the moment of catalyzing
+real change in the residential real
+estate agency
+industry it's an industry that's been
+known to have fixed
+pricing and be very expensive to
+Consumers a real tax on the system and
+it's largely been wrapped around this
+idea of mitigating your liability
+reducing risk servicing the customer
+many of those aspects over the last
+couple of years have been largely
+standardized through forms digitized
+because so much of this information is
+no longer going to get paperwork from
+the courthouse but a lot of the
+information sits digitally and can be
+accessed in a democratized way and the
+fact that so much of the service and
+Discovery reading through documents
+understanding what they mean and what
+they say can be automated through Ai and
+llms much of this is kind of coalescing
+around what I hope and expect will be a
+more seamless automated direct
+Marketplace for consumers the challenge
+is that most consumers put most of their
+personal net worth into their home and
+so it is where most people's net worth
+is tied up and so because it is such a
+sensitive investment and it is their
+entire
+savings they want to have a trusted
+advisor by them so it's going to take
+some time before that trusted advisor
+becomes some piece of software but I do
+think that software is going to play
+more and more of a role in providing
+advisory tools and services to consumers
+in this transaction Marketplace and
+that's only going to catalyze
+and accelerate the fee reduction I do
+project and I do expect that much of
+what is charged on a commission basis on
+a percent of home value today will
+change to being a fixed Fe andk 10K for
+your buyer AG different services so you
+can have someone do ackart do the
+disclosure diligence for me for 5K you
+know negotiate the purchase for me for
+10K and you as a consumer will start to
+pick from a a menu of the services that
+you want to have rendered for you and
+things that you're comfortable doing
+yourself I don't need someone to
+negotiate price I don't need someone to
+find me a home I've got red fin I can go
+do that I can arrange open houses on my
+own the lock box is there I'll go walk
+around the property I don't need someone
+to point out the the color is nice in a
+room and so I think that there's
+elements of what this h of what will
+happen here which is a fragmentation and
+then an automation of these services and
+as a result significant fee
+reduction and I'm in the middle of doing
+this myself right now with a piece of
+real estate where I'm not using an agent
+and I've been
+using a direct listing service I've used
+all of these standard forms there's a
+lot of AI tools you can use to kind of
+read all the disclosures for you make
+sure everything's C pathetic and these
+escro they'll handle a lot of what a
+lawyer will handle and they'll get paid
+a you know a fee which is much less than
+the agent fee so I do think that there's
+a big disruption happening in this
+industry I think it's it's really
+important for consumers agents are going
+to be you know hands in the air telling
+you this is ridiculous you need someone
+to help you you need an adviser that
+will continue for a good chunk of the
+market for a very long period of time
+but I do think that it's for the benefit
+of consumers over time to see these fees
+come out of the system and see those
+savings go back in consumer's pockets
+and for the value of their real estate
+to go
+to go in their pockets not into an
+agent's pocket is it going to change
+the profitability of a realtor pretty
+meaningfully right both Realtors won't
+be able to be in business right I think
+the sellers will do fine and they might
+capture more of it because they'll
+they'll my understanding is the the the
+seller will maybe do both sides of the
+transaction no that's not what's going
+to happen and there's also going to be
+limits on that but but here's what I
+will
+say if you look at the the the number of
+people there are 1.4 million members of
+N today the National Association of
+Realtors if you look at the distribution
+of earnings and you guys know this my
+guess is probably 10% of those realtors
+make 40% of the fee income or 50% of the
+fee income there's a long tale so
+there's probably a third of those folks
+who are
+already kind of sub living standards in
+terms of income maybe half of them won't
+be able to make enough money in this new
+you know fee regime that it'll no longer
+be an attractive proposition to be a
+real estate agent for maybe half a
+million to a million people over time
+that are agents today yeah you know it's
+interesting this the the sellers are
+going to be faced with Buyers who just
+show up having seen something on redin
+and don't have a buyer's representation
+and so they think from the stuff I've
+been reading that the sellers agent
+might be pointing them to hey go to
+these services and be acting as like one
+broker essentially representing both
+sides that's what people are saying is
+the potential downside I don't think
+that's yeah that's not gonna happen for
+a couple of reasons but let me ask you
+guys a question if you guys want to to
+go buy a new house currently you just go
+you know sign up an agent or buyer agent
+they go walk with you and eventually
+they'll get paid by the sellers agent so
+now you have to negotiate a fee with
+them up front would you negotiate a fee
+and say to a buyer agent hey I'll you 2%
+of whatever home I buy would you be
+comfortable doing that or 3% or 4% how
+would you have that conversation no what
+you say sex I mean forget I know you've
+got a different situation because you've
+got real estate people like working for
+you but like if you were to go out and
+and if would you go out and get an agent
+and pay and negotiate a fee with him it
+is not worth it to the buyer to pay two
+to three% of the purchase price to make
+appointments you can see all the houses
+on MLS through Zillow or redin or
+whatever and what about handling closing
+and disclosures no buyer would ever
+voluntarily agree to pay this massive
+commission it's not worth it so it's
+game over for the Realtors if buyers are
+forced to pay their own broker's
+commission the only reason this system
+works is because the seller is forced to
+pay for it yep and when you sign the
+listing agreement with the seller's
+agent you can negotiate a little bit at
+the margins sometimes you can get the 6%
+down to 4 to 5% for a big listing but
+50% of it will always go to the buy side
+I mean I've said to these guys the buide
+agent doesn't do anything why don't you
+make it 2% for yourself and 1% for the
+buyer they won't do that they just won't
+take your business the seller will not
+represent you they have like all sorts
+of rules against it so the whole thing
+is like protect it's like a racket
+that's protected some it's cracked yeah
+well I I still am like a little bit
+skeptical that this is going to work out
+exactly the way we're saying because it
+is just such a a death blow to the
+industry if buyers are forced to pay
+their own commissions uh their own like
+buy side Brokers commission and in the
+Articles they're saying there's still
+like some gray area about what's going
+to happen but that is what should happen
+buyers should be responsible for paying
+their own Brokers and if you do that I
+think you'll knock out half the fees of
+this industry here's an idea why they
+let them charge an hourly fee as a
+buyer's agent like there will be people
+doing that J $200 an hour $300 an hour
+doesn't this impact home prices as well
+like if you if the buyer had to pay all
+of a sudden their affordability
+effectively goes down because if they
+have to pay an extra $100,000 for a home
+then that's $100,000 they can't pay less
+than they can pay for the house itself
+because they have to pay an agent so it
+all comes back into home prices no it
+Nets out because the sellers agents no
+longer paying 6% they're paying 3% and
+so now the sellers agent has 3% more
+that yeah but net net I think it's good
+for buyers and sellers because the
+transaction cost of TR tring go down
+exactly money goes back in consumers
+Pockets yeah create a more fluid Market
+yeah and I think it's a great
+opportunity for startups I'll say this
+right now like I think there's going to
+be a lot of startups that are going to
+come out of this ruling that are going
+to launch allart Services leveraging AI
+to make these services available direct
+to Consumers without needing an agent
+and they're going to be pretty
+compelling services and they're going to
+show up real fast I mean a lot of people
+will not list their home or sell it
+because that
+6% might put them underwater so if it's
+now now down to two or three totally
+yeah people might be like it's always
+been crazy to me that anyone would pay a
+percent of absolute value it makes no
+sense I bought a home for a million I'm
+selling it for a million one so I've
+made a $100,000 profit but I got to pay
+$60,000 of my total growth to an agent
+to sell it for me% profit I just gave up
+60% of my profit on my home right it
+makes no sense and the crazy thing is
+that a bad sale of your home would be
+let's call it 900,000 or a million and a
+great sale would be 1.2 so exactly
+there's a very small margin where they
+actually have an impact based on the
+quality of their effort but they get
+compensated for the whole thing yeah for
+the whole thing get compensated no
+matter should be that you get a flat
+rate
+$10,000 at a million and then you get
+10% over a million or something you
+could give just like you with a sales
+person the incentive comp should be
+variable based on performance whereas
+the guaranteed part of the comp should
+be like you said a flat fee it's kind of
+like the salesperson has an OT right Bas
+variable yeah I mean you could say if
+you said 1% up to a million so that's
+10K and then 10% for the next 100K and
+then 20% for the next 100K so you you
+know that 1.2 million is really hard to
+get yeah I'll give you 20% of that
+incremental 100 that would be a much
+better deal you would be getting paid
+for the actual performance so anyway
+really you know Jal I have an idea for
+the National Association of Realtors oh
+here we go if they want to stop being
+perceived as an evil monopolist all they
+got to do is put out a cringe ad talking
+about the environment everyone's going
+to love him again absolutely they should
+do an ad where they have a diverse cast
+of people and that diverse cast could
+talk about like putting sustainable
+forestry around it all I got to do is
+say something something landfills
+everyone will love them again they can
+charge ABS absolutely virtual signaling
+right they can genu something something
+landfills yes absolutely all right let's
+keep the train moving here the AI
+landscape shifting yet again Microsoft
+just just did another one of these
+shadow Aqua hires this time of
+inflection AI bizarre deal Microsoft has
+hired most of the team at inflection AI
+including the CEO Mustafa who everybody
+knows I just actually had him on this
+week in startups he was the co-founder
+of deep mind he worked at Google for
+years and now he's going to be the CEO
+of a new company called Microsoft AI
+it's essentially the consumer AI
+division of Microsoft but they did give
+him the CEO title for background
+inflection have raised 1.5 billion over
+the last two years it was one of these
+giant fundings that occurred to build a
+foundational model like open AI is doing
+like anthropic is doing they had a chat
+bot called Pi very similar to chat GPT
+it was supposed to remember your history
+and build a relationship with you that's
+all getting shut down Reed Hoffman who
+is a major investor in in this company
+and who's on the board of Microsoft and
+who so LinkedIn to Microsoft played an
+important role in this deal according to
+reports and the inflection investors
+included Bill Gates Eric Schmidt and a
+bunch of other interesting folks but
+this was a aqua hire which is the weird
+thing chth they hired all the employees
+they leave the shell of a company the
+company's going to go do some Enterprise
+stuff and investors get to keep their
+Equity inflection but I guess that might
+be worthless there's some going on here
+that we don't know about this deal
+structure when you saw this deal and you
+see
+Satia taking the entire team like he
+threatened to do with open AI if you
+remember the same exact kind of thing
+I'll aquire everybody if you don't take
+the deal what is your takee of of what's
+going on here why did this occur like
+this instead of just buying the company
+I mean it occurred like this because
+Reed and
+Bill are inexorably tied to Microsoft so
+they were able to get a deal for
+investors that would have never happened
+otherwise and so good on them I think
+they did a very good job protecting the
+fiduciary interests
+of the investors of this startup sa no
+conflict no interest right yeah I mean
+we say that a lot this is so weird
+though why not buy the company sax is it
+because of antitrust actually that's a
+good theory it's just it's hard for
+Microsoft to get anything through at
+this point so probably they're just like
+why even deal with the antitrust they
+don't really need the assets so I think
+they licensed the core from the
+inflection C Corp and then they hire
+away all the talent and then the
+investors get made whole so I think it's
+like an aqua hire with a little bit of
+tech along with it that they get through
+the licensing deal maybe that's just to
+protect them from an IP standpoint my
+take on this is that this was a bailout
+this was a bailout of the investors I
+don't think the investors got ripped off
+here I think the investors were like
+thrilled to get their money back for
+whatever reason this company wasn't
+going anywhere it had raised hundreds of
+millions of dollars Reed and Bill
+obviously are are wired in they're on
+the Microsoft board and this company did
+have some talent that Microsoft wanted
+so they basically did a giant Aqua hire
+and it bailed out the investors freeberg
+is that your take this is a bailout or
+do you think this is a new interesting
+end run around antitrust where hey if
+Adobe wants to buy the next figma just
+buy the team do a license of figma some
+faka lunacy or do you think this is a b
+what what's your the the here freeberg
+and what does it say about Microsoft's
+approach to the AI space I don't think
+this is some runaround antitrust I think
+obviously like a lot of
+companies there's been a realization on
+how quickly foundational model
+development is commoditizing and how
+quickly costs are escalating and how
+many folks are chasing it so having some
+unique advantage in the particular plane
+of the market where they were
+participating as a startup
+maybe became difficult and untenable and
+negotiations and conversations between
+all these parties who all know each
+other very very well and are all very
+friendly you know this ended up being
+kind of the best way to move forward so
+all right there you have it folks in
+other related news the Saudis are
+planning a $40 billion AI fund according
+to the New York Times reps from the
+public investment fund uh in
+Saudi have spoken to a number of firms
+about partnering on it the would be the
+second largest Venture fund of all time
+behind soft Banks hundred billion Vision
+fund one which you remember was also
+backed by the Saudis and some other
+folks in the Middle East region this new
+fund would reportedly invest in AI
+startups chip companies and data
+centers so we thought we'd do a little
+quiz here if you were given the 40
+billion David Sachs how would you
+allocate the 40 billion in AI in today's
+market 2024 going on if they put you in
+charge of this $40 billion AA fund II
+fund where would you deploy it same
+question would come around the horn to
+you freeberg and then you
+Chima well the first thing is I wouldn't
+be in a rush to deploy all 40 billion at
+once because that's a recipe for
+spraying a lot of money into
+unproductive or overhyped things so I
+would take my time first of all but
+second in terms of coming up with the
+framework I would think about the
+different levels of the stack of AI and
+try to figure out where the value
+capture is going to be and I think
+there's maybe four different layers of
+the stack first you've got the Silicon
+you've got the chips where Nvidia is
+dominant then you've got the foundation
+models where it's open Ai and then
+there's some open source models and then
+you've got kind of infrastructure Dev
+tools Vector databases things like that
+and then finally you have the
+applications sitting on top of that
+which are just getting started I think
+it's really hard to know from where
+we're seeing today exactly who's going
+to capture the most value in the stack I
+mean you could make an argument for
+against pretty much any layer of the
+stack I guess if I had 40 billion to
+deploy what I would do is try to
+identify who are the leading companies
+at each level of the stack and then who
+are the most promising Challengers and I
+would make a bed at every layer so I'm
+covered that's not what I personally do
+because I'm not you know I'm just not a
+hardware investor I'm not really an
+infrastructure investor I'm more of an
+application investor so I'm going to
+focus on that fourth layer of the stack
+and just trust that there's G to be
+enough value there but again if I was
+managing a $40 billion Sovereign wealth
+fund then I would play at every single
+level and I would hire the best people
+who know each layer of that stack sax
+think you did a good job of sort of
+showing the the four layers of the stack
+I think open source the application
+layer and specifically Robotics are huge
+opportunities that are underinvested in
+right now so I would take the top open
+source projects I'd find those top
+contributors take the top 20 or so open
+source projects and back them to the
+tune of you know significant money 50
+million 100 million whatever it takes
+and try to own the top 20 or have
+insights into those top 20 open source
+models and own those teams look for the
+top contributors really easy to do on
+GitHub and hugging face and repet and
+other places where they're active and
+Empower
+those then obviously there's verticals
+we're working on people who are doing
+screenplays and tax just like you are
+sacks and that's a fantastic place to
+deploy money but then I think robotics
+is going to be super super compelling
+here and that takes a lot of money and
+so you do have the capital as a weapon
+and you know the 20-year view of this
+and making a general P purpose robot
+like elon's doing with Optimus or figure
+AI is doing with their robot I think
+robotics is a major place you could
+probably buy I don't know who owns
+Boston Dynamics now I know Google sold
+it so you could probably buy some
+robotic companies and then put the AI on
+them and really take a 20-year view of
+Robotics freeberg your thoughts how
+would you deploy the 40 million the
+bottom Three Stacks are are very
+difficult right now to
+find a footing obviously you know I
+think saxs the you know it's it's the I
+think the generally accepted framework
+for how to think about how the market is
+broken
+apart but on the application side I
+think is where you could think about
+finding
+more traditional business model
+advantages so you know I think your
+point about robotics is a really
+interesting one you know is there a
+Enterprise likee sale of robotics tools
+that have positive Roi for Enterprises
+and is there a business that's working
+there and that is scalable vertical
+Solutions in labor and Automation and
+productivity gains are probably the best
+sharp ratio good Alpha lower beta and a
+good place to kind of deploy competing
+in chips competing in infrastructure
+competing in models it's such a you know
+as we just talked about with respect to
+what happened with inflection and
+Microsoft this week it's such a rapidly
+changing environment it's hard to have
+high confidence in where things are
+headed there so I do think that we do
+know that there are Enterprise markets
+we know that there are segments of
+things like food
+medicine you know manufacturing these
+are markets that aren't going anywhere
+and they could all certainly benefit
+from unlocks in software or in robotics
+and Automation and Hardware so that's
+probably where I would think about
+concentrating Capital but you know 40
+billion is a lot of money so you'd
+probably think about deploying it over
+what period of time is it 10 billion a
+year over four years and then is it
+broken apart in what way over those
+sectors and over what geographies and
+you know then find good managers to help
+you get it
+employed trth you're batting clean up
+here you got to hear everybody's answers
+before giving your own what are your
+thoughts on your other besties answers
+and what's your plan to deploy 40
+billion for the Kingdom of Saudi
+Arabia's public investment fund the most
+important thing that fund managers get
+wrong is not having appropriate reserves
+for your winners and if I look back the
+real profit dollars that I leaked was
+not not investing enough up front but
+when I didn't have enough Reserve to do
+the full prata or even super prata and
+the ones that worked so the first thing
+you have to do and when I do the
+regression on all of my funds you really
+need to reserve between 40 and 50% of a
+total fund size for reserves so take 20
+billion off the table and now you have a
+smaller problem which is how do you
+deploy 20 billion because the other 20
+billion is purely meant for the winners
+where you cram the money into the few
+that are winning so that you can make
+the most money of that 20 billion I
+would probably take 2third of it and I
+would go to all the hyperscalers and
+anybody that's providing Cloud compute
+and essentially buy out all of the
+compute credits on
+gpus so that I could tell any startup in
+the world you will do a safe with me the
+Kingdom of Saudi Arabia I will give you
+free compute on pick your cloud provider
+pick your model I don't care so if you
+want to run llama on grock great if you
+want to run mistol on gcp great if you
+want to run open AI on open AI fantastic
+but we will pay for all the compute in
+return we get 7% up front and you have
+to tell us some Benchmark of how this
+model is
+improving and then you are hiring a team
+of people whose job it is and you can
+probably train a model to do this as
+well to ingest the reporting in a
+systematic way to understand if it is as
+you guys said a robotics company there
+are measures of the quality of a robo A
+robot's dexterity or Vision or
+manipulation or tax completion rate if
+it's a search engine it's a different
+thing if it's a consumer facing app it
+could be users if it's a drug Discovery
+app it's the number of legitimate
+protein synthesis passes that that pass
+whatever it is so now you've scoped the
+problem to 20 billion is in reserves 15
+billion of it is tied up in credits and
+then the five billion I do think it's
+what David said what saak said which is
+a billion and a half to the hardware a
+billion and a half to infrastructure a
+billion and a half to some of these
+discrete
+ideas you probably need a 30 or 40
+person team total no
+more but that business can could make a
+trillion dollars if it was set up that
+way but the key is to get the credits
+out to people so that the reality is
+what the commonality across every single
+AI startup is that they will have to run
+on a model and that model will be hosted
+somewhere in a cloud and all of that
+compute will need to be paid for so
+Saudi Arabia should pay for that compute
+get six or s% UPF front and retitle the
+safe not as the what is a safe called
+Jason simple agreement for future Equity
+there should be the Saudi
+for future Equity I love it that's what
+right well there you have it MBS the
+Allin KSA $40 billion fund give us a
+call we'll fire it up and we'll deploy
+the 40 billion for you I kid maybe
+actually I'm curious you guys since
+everyone kind of seems to agree with the
+the framework of the four levels of the
+stack where do you guys think the value
+cap is going to be do you think it's
+going to be by the chip companies the
+foundation model companies the INF
+structure companies or the or the
+applications I'll actually change my
+answer in a little bit I don't think
+it's necessarily new technology
+companies per se that are going to
+benefit most but I think that it's
+businesses in traditional industries
+that are going to be able to leverage
+these tools whether they're using open
+source tools or third party technology
+capabilities that they're buying as a
+service or as a piece of software
+there's an incredible set of advances
+are going to be realized in things like
+chemical
+manufacturing drugs General
+manufacturing that have existing scale
+and infrastructure that are the fastest
+to move to adopt these Technologies are
+going to benefit the the most and I
+think that's probably where most of the
+value will acre is not necessarily a
+chip company but in other businesses in
+traditional industries that can
+transform themselves using AI so your
+answer is at the application level level
+yeah and then within application Level
+you could divide it up between existing
+companies and startups yeah and existing
+companies are able to leverage AI
+innovations that are lower in the stack
+another way to answer your question saxs
+is which is the most CR which spaces are
+the most crowded already and so
+obviously chips are super crowded lots
+of incumbents lots of people going after
+it and the foundation models are very
+crowded as well and the application
+Level is yet to sort of be built out
+right because we're in year zero or year
+one of that so I do think application
+Level is where there's a lot of value
+but I also think the hosting and the
+development of these various Niche
+models is going to be a huge opportunity
+so just once again those open source
+models being put into cloud computing
+environments and optimized that could be
+a whole new level of aws's and Google
+cloud and azures so there's an
+opportunity for somebody to compete with
+those incumbents by just being better at
+those models that are open source and
+having the team that's doing those
+updates and then optimizing that cloud
+so I would go with the cloud level for
+those open source models and providing
+that as a service like VMware does or
+other folks do WordPress would be a tiny
+example of an open source project like
+that and then I just something tells me
+this robotic space which has been a
+false start over and over and over again
+I think this is the time where actually
+it's going to work and so I'm I I love
+that Hardware robotic space for I think
+you're right SX I think it's kind of
+bookended in my mind I think the the
+folks that are building fundamental
+Hardware will make a lot of money over
+the next 5 to 10 years and then the
+folks that are building
+the fundamental application Level
+experiences will make a lot of money as
+well and then who
+knows the thing that we're not talking
+about enough and I don't understand it
+well enough is the entire way in which
+apps are built needs to fundamentally be
+rethought from first principles because
+you essentially basically have these
+client server apps where you have all of
+this business logic that's sitting back
+in some server somewhere and I don't
+think that that's how apps get built
+today in a world of AI and so it doesn't
+need to work that way so I don't exactly
+know what that means but it it just
+seems like most of the architecture of
+how the internet works today doesn't
+make much sense so that would then
+support free br's point that all of the
+kind of the Legacy things that we all
+know and trust also get rebuilt and so
+that could create an entire wave where
+networking value gets recreated and
+everything so so my gosh I mean it could
+be very very transformational yeah I
+mean the idea that you would just talk
+to a computer or in a chat interface and
+you wouldn't use an app interface you
+would just ask it questions it would
+give you answers ask a questions it
+gives you answers give it a task it
+gives you a result this is why comp this
+is why like Saudi needs to basically
+make a bet that there's just developers
+that are swarming around ideas let them
+show you what's happening because paying
+800 million a year of fees is not the
+best way to generate a return on $40
+billion if this is where you want to be
+investing I don't think yeah 800 million
+could pay for a lot of credits which
+probably gets you once closer to the to
+the answer or rdit went public today
+they have 800 million in Revenue company
+is worth over 8 billion dollar in
+trading it's up 50% what do you think
+chamath is this the opening of the IPO
+window again so a oneoff we got stripe
+coming and what do you take from it
+popping 50% on the first
+day I don't know I really haven't looked
+at the company I haven't looked at the
+the
+financials but like these last three or
+four weeks I think people have been so
+excited and rearing to
+go we're in the middle of another meme
+coin craze oh God don't bring it up we
+all getting pulled into that nonsense I
+think the point is that I think there is
+a speculative party going on right now
+and I'm not saying that Reddit is part
+of it but whenever these things are so
+mispriced just means that people are are
+ready to gamble a little bit there's
+definitely a lot of gambling in the
+system as we've seen and we're recording
+this on Thursday so who knows what the
+stock price will be tomorrow generally
+way sorry the the other thing is like
+Powell did say finally it looks pretty
+likely we're going to get these three
+Cuts so we're going to be down to four
+and a half to
+475 on fed funds by the end of the year
+it probably means that we'll get another
+50 to 75 basis points through 2025 so
+people will look out to the end of 2025
+and look at a fed funds rate that's sort
+of like 375 to 4% so they're getting
+pretty excited and froed up so this is
+the beginning of the beginning in terms
+of that kind of speculation yeah we saw
+crypto go bonkers the last couple of
+weeks yeah what's your take on all this
+Sachs is does it feel like people are in
+h gamble mode again and does that
+concern you I guess after what we just
+experienced well I think they're pricing
+in these rate Cuts as if they're
+definitely going to happen like jamas
+said I think the the Market's
+expectation is with let's call it 70%
+certainty that you're going to get three
+rate Cuts this year and it still seems
+to me that that's a little bit up in the
+air because inflation has not come down
+to the fed's Target of 2% it's still
+right around 3%
+3.1% so it's been sticky around 3% it
+was coming down pretty fast last year
+but it's still there so people I think
+are Maybe gambling in the sense that
+they're counting on R cuts that haven't
+happened yet but they liked Pal's doish
+rhetoric yesterday and they seem to
+think that that means that the ray cuts
+are definitely
+coming I don't know how pal can promise
+that without inflation coming down
+unless he's trying to create a Biden put
+there it is folks which was my theory
+going into this year is that yeah get a
+Biden put from the FED absolutely and
+it's looking like Biden has a clear path
+to Victory based on the lowest
+unemployment of our lifetimes and this
+roaring stock market
+records yeah it's just a easy Biden
+Victory freedberg what do you
+think about the risk
+on I don't know Biden is incredibly
+unpopular if you look at his actual
+polling he should not win the election
+but that's in spite of you're right the
+economy is seems to be doing pretty well
+and the stock market certainly doing
+pretty well a president with the these
+fundamentals would normally get
+reelected but Biden currently is not his
+polling is not the polling of a
+president who's going to get reelected
+it is but pal comes if pal comes through
+with the ray cuts that will help him
+it's pretty amazing how horrible a job
+he's doing that he's made Trump look
+like a better candidate to some people
+that is an extraordinary achievement by
+Biden I will have to
+agree there look I think the the bigger
+economic issue to be talking about was
+that buried article in the The Wall
+Street Journal about commercial real
+estate do you see that article that was
+crazy so this Wall Street Journal
+article reported that of the 36 billion
+of office loans that came due in the
+commercial mortgage back Securities
+market last year only one quarter were
+paid off in full that's according to
+data from Real Estate analytics fir cred
+10 is that extend and pretend strategy
+that you see in there oh yeah I mean
+only one quarter of the loans got paid
+off so 75% get paid off in full so
+there's tons of buildings that are
+underwater right now but nobody wants to
+foreclose and then sell them at a fire
+sale price so yeah everyone is it's
+pretend an extend yeah kicking the can
+down the road nobody wants to take the
+medicine so yeah well they're hoping
+they're hoping that rates will come down
+fast enough and occupancy rates will go
+up fast enough that no one has to
+foreclose but if rates don't come down
+then you have a real problem I mean
+again everyone is just assuming that
+inflation will continue its path from 3%
+to 2% and then we'll get these rate cuts
+and they're hoping they can cling on
+landlords are Clinging On And I think
+the banks that loan them all this money
+are clinging on for dear life but if
+rates stay higher longer then you're
+going to see some real distress yeah
+including in the regional banking system
+freeberg you had a a science corner here
+a couple of different things came up the
+Hubble telescope 3D
+printed organs what where do you want to
+go with this I mean do you guys want to
+talk about how the universe is expanding
+at an accelerating rate and expanding
+differentially everywhere we look and we
+don't understand how or why 100% And sax
+needs to use the L so yeah
+definitely red he dropped he dropped I
+love science quarter let's do it
+freeberg it's your time to sign to to
+shine of science tell us what's going on
+with the universe my favorite topic
+astrophysics my favorite top
+my Z is back are we headed for Uranus we
+dead set on it we're
+dead he disappeared again he's just
+gonna drop in and do an Uranus jokes I
+hear him giggling with his camera he's
+with his writers he's he just went to
+the writer's room to get an update on
+the Uranus jokes it's long been known
+that our universe is expanding we've all
+heard about the The Big Bang
+Theory
+and couple decades ago scientists began
+to
+observe the brightness of supern noi or
+exploding stars and then by looking at
+their brightness we could tell how far
+away they were and then looking at the
+shift of the light whether it's getting
+red or blue you can tell whether the
+light the the the Supernova is moving
+away from us or towards us and how
+quickly and so what scientists have used
+those observations to deduce several
+decades ago and for which a group won
+the Nobel Prize is that our universe is
+expanding meaning that everything is
+moving away from itself it's almost as
+if we're all in a cake the best analogy
+I've heard is that there's raisins in
+the cake and as the cake expands in the
+oven all of those raisins look around
+and they're all moving apart from each
+other so the distance between everything
+is getting wider space is
+expanding Central moment the Big Bang
+that's the theory is right this all
+started in the Big Bang and it's not
+like you know we're all in the middle of
+the universe and the universe is moving
+away from us it's that the entire
+entirety of space is expanding itself
+and so everything is moving away from
+everything else the challenge in the
+data was that recently we saw that
+different types of
+stars that were observed with the Hubble
+Space
+Telescope had actually a
+different rate of expansion of the
+universe than what was previously
+thought from the Supernova that we saw
+and everyone thought there was something
+wrong with the Hubble Space Telescope
+data so you know in a final print
+published last month the James web Space
+Telescope which showed much higher
+resolution of Imaging and as a result
+much better data and here's an image of
+it you can just see the difference
+between what came out of James web and
+what was used in Hubble so that shows
+one star that was used to calculate the
+rate of expansion of the universe and
+what this sh star showed is that the
+rate of expansion of the universe as
+measured across a thousand of these
+Stars called sehid stars in five
+different galaxies had a value that
+didn't match the value that we see when
+we look at exploding Stars very far away
+and so it once again confirms what the
+original Hubble data showed which is
+that the universe is expanding at
+different rates in different parts of
+the universe which totally doesn't make
+sense and there's no really clear answer
+as to the physics of why if there was a
+big bang and the universe started to
+expand it should be expanding the same
+everywhere there's no reason that
+different parts of the universe should
+be expanding at a different rate than
+other parts of the universe that there's
+differential expansion happening Across
+the Universe and it really tells us that
+there's very little we know or
+understand about this large scale
+structure of the universe and why these
+things are happening there was one group
+that put out a theory where they said
+that the local Universe where we see
+these seph stars that this data is based
+on there's almost a little bubble and on
+the outside of the bubble there's
+galaxies and they're pulling stuff out
+faster than what's happening where
+there's not as much density so there's a
+lot of different reasons and and
+explanations for why this might be
+happening but it's kind of a big story
+because it basically confirms that we
+see a lot of differential expansion
+happening Across the Universe and we
+don't know why just another big mystery
+of the universe so super kind of
+interesting confirmatory data from James
+wed this week Jam do you want to talk
+about the the the pig kidney I mean I
+think it's it's really incredible they
+took a kidney from a pig and then they
+used crisper casine to edit out the
+certain subset of the pig genes and edit
+in a certain useful subset of human
+genes and then they transplanted that
+kidney into a 64 year old
+man I and he apparently seems to be
+doing well it's really incredible and
+this is a guy that was at end stage
+kidney disease and my father went
+through this but when you're at that
+endstage renal disease you're getting
+dialed every 3 days for up to four five
+six hours trying to basically you have a
+machine that does the job the kidneys
+for you to keep your blood clean but
+it's just it's kind of a death sentence
+and it's like a slow moving death
+sentence at that so the idea that you
+could
+now use this effectively Infinite Source
+of
+organs seems really
+compelling pretty amazing I don't know
+what do you
+think definitely where we're headed I
+don't even think they're gonna need yeah
+speaking of medical breakthroughs did
+you guys see the the guy who got the
+neuralink
+chip chess with his brain he's using the
+force yeah that was awesome using the
+force yeah he described it as he was
+playing chess and he said like I love
+playing chess and I've learned to use my
+mind to move pieces around and he said
+like it's like having the force I mean
+totally wow amazing I watched the live
+stream and he said that he was a
+quadriplegic from the shoulders down but
+he loves chess he wasn't able to play
+chess now he's able to play chess he was
+able to play Civilization the game which
+I guess was really
+hard in the absence of having this this
+chip and now he can do that it's it's
+incredible I mean it's that they kind of
+went public with it or I mean obviously
+he agreed to go public with it I think
+Trevor is his name it's pretty amazing
+and there's more amazing stuff coming
+they're making significant progress over
+there I was talking to somebody who
+works there and you know it's it's it's
+going to
+be yeah it's it's going to be a process
+but they're making significant Pro
+progress and they're going to have I
+think even bigger announcements in the
+coming year they're getting it done it's
+for FKS my kids were really Blown Away
+by it you know it's it's interesting to
+me what like penetrates their cynicism
+and like what they get actually
+impressed or excited by and they thought
+this was really cool you know it's so
+funny it's like people are breathlessly
+like looking at the Elon Don Lemon video
+and they're trying to opine whether he
+had a good interview or a bad interview
+and it's like he actually had one of the
+best weeks of his life yeah Starship
+three made it up yeah Starship had an
+incredible performance last week and
+then this thing this week I mean what an
+incredible 7-Day run it's more than most
+of us will have in our lifetime it's
+it's also nuts like C that Don Lemon
+interview like there was actually some
+really interesting topics discussed but
+I I felt like this was like this was the
+perfect like baton passing between old
+media and and New Media where he was
+constantly trying to do a gotta
+journalism thing and Elon was trying to
+engage in good faith and like an
+interesting discussion and then every
+time the discussion got interesting he
+kept trying to go back to like
+Sensational gotcha journalism and it was
+a totally wasted opportunity if he had
+just Don Lemon had just stayed in the
+moment and like engaged in good faith
+instead of trying to get this like clip
+it was it really bad performance by Don
+LM and I
+thought it was really getting
+interesting at moments in time he's
+obviously trying to get a job back at
+some mainstream Media Company maybe this
+is his this is his resume if he can
+basically get some clip of Elon saying
+something that he can twist into
+something that it doesn't mean and he
+can say I got Elon Musk then he can get
+his job back at CNN or one of those he
+got paid out in full like 20 30 million
+bucks and by the way those jobs are not
+they don't exist anymore like Tucker and
+him were like the last of that
+generation to get those huge payday over
+Don Lemon got paid $30 million by whom I
+think CNN the report was CNN paid out
+his full contract the same thing
+happened I think with Tucker they both
+got paid their full contracts whoever
+negotiates those contracts with the
+networks over the last couple of decades
+is awesome because it's pay it's pay for
+play like whether you are on air or not
+you get paid and the and then they don't
+let you go to a competitor that's why
+both of them are doing internet stuff X
+or whatever carved out stuff just wanted
+to give a shout out here at the end of
+the Pod for the guys at all in talk
+Chris and Spencer did an amazing job the
+team over there from good future media
+of creating just that amazing fan
+account now that we're growing up here
+over at Allin and we'll have a CEO
+announcement at some point we have taken
+over the accounts and we're starting to
+make our own Clips so thanks to them for
+supporting us and helping grow it if you
+want to see the four of us go to YouTube
+and type in Allin podcast and then
+subscribe uh we're almost at 500,000
+subscribers and we decided that if we
+hit one million subscribers by the end
+of the year we're going to throw a party
+and uh you all will be invited we'll
+have as many people at the party as
+possible so go ahead and find us on Tik
+Tok LinkedIn and Instagram just do a
+search for Allin and you can search for
+all of us jamath David fredberg David
+Sachs and Jason calacanis thanks again
+to the super fans for helping us build
+up this amazing audience couldn't have
+done it without you and uh yeah we're
+we're just posting Clips I think every
+other day on the YouTube channel and so
+if you go in there you can subscribe and
+then right next to it there's a little
+alarm Bell you hit the Bell you'll get
+an alert and you get to see our faces
+and and know what we look like we also
+put a lot of Graphics so if you hear us
+referring to charts that's all on the
+YouTube channel for David saaks jamala
+David freeberg I am Jason K canis and we
+will see love you boys world's greatest
+moderator you forgot your and uh the
+host of this week in startups so search
+for my podcast this week in startups we
+interview startup Founders gotta get a
+plug in for that no some people don't
+know I have another podcast so please
+search for this week in startups And
+subscribe to that as well we'll see you
+all next time byebye love you
+boys let your winners
+ride Rainman d
+and instead we open source it to the
+fans and they've just gone crazy with it
+love
+[Music]
+you besties
+are that's my dog taking your
+[Music]
+driveway oh man my meet me we should all
+just get a room and just have one big
+huge orgy cuz they're all usess it's
+like this like sexual tension that they
+just need to release
+Som we need to get merch
+[Music]
+our
+[Music]
+going

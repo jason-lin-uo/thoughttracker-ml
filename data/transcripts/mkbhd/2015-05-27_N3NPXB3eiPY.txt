@@ -1,0 +1,211 @@
+# 10 Apple Watch Questions: Answered!
+# https://www.youtube.com/watch?v=N3NPXB3eiPY
+
+[Music]
+hey what is up guys I'm kbd here and
+welcome to my hotel room in San
+Francisco California and I'm here
+because I'm actually going to be going
+to Google IO which is just a couple of
+days away it's right around the corner
+uh around the corner literally but um
+I'm not doing a video about Google today
+I'm actually doing a video about Apple
+today so when you're out and about
+traveling or even just wearing the Apple
+watch in general no matter how much you
+cover it up or no matter how much you
+don't show it to anyone people when they
+figure out that you're wearing an Apple
+Watch inevitably have a lot of questions
+about it even if you're wearing some
+other Smartwatch they ask about the
+Apple watch so I have sort of compiled a
+list of the 10 most frequently asked
+questions that people have when they
+figure out that they're interested in
+the Apple watch number one what are the
+best apps for the Apple watch and this
+could easily be its own entire separate
+video but for now some of my favorites
+right now are Shazam which just lets me
+IDE a song with one tap on the watch uh
+and deliveries which is another favorite
+it's another one of those things that
+I've gotten used to on Android Wear
+getting a notification when a package
+gets delivered and then actually some
+first-party ones so I really like Maps
+the turn BYT directions function and the
+activity tracker is very good if you're
+a fitness person the Apple watch sport
+combined with the fitness tracker is
+really good and then of course there's
+things you know like Instagram and
+Twitter but the thing is these aren't
+really Apple watch apps essentially
+they're iPhone apps that happen to have
+an Apple Watch component to them so
+number two what's the deal with these
+Apple watch apps and why are they so
+slow here's the thing Apple watch apps
+are not native and what this means is
+the components the resources for the
+apps are not actually stored on the
+watch they're stored on your iPhone and
+when you tap to open that app on your
+watch it streams and moves all those
+resources to the watch for you to open
+so that's why it can be a little bit
+delayed a little bit slow and can feel
+like it's lagging a lot and you can
+store up to about 20 megabytes of image
+resources on the watch for a particular
+app but bottom line is they're not
+native and that's why they're slow
+fortunately there's a fix for that
+thanks to the Apple watchkit framework
+native Apple watch apps are coming next
+next year should it have been that way
+to begin with probably but at least
+they're getting better number three is
+it waterproof no but it is rated for
+ipx7 water resistance and essentially
+this is just a precautionary measure uh
+it means you can go out in the rain and
+wear it outside and it's not a big deal
+if it gets splashed but there's been
+videos on YouTube of it getting you know
+water poured on it and being submerged
+and even people taking showers with it I
+wouldn't recommend those things even
+though it technically survived but yeah
+it's water resistant to a degree four
+how is the battery life really it's
+actually pretty good in the hierarchy of
+modern SmartWatches that not including
+Pebble uh the Apple watch is pretty much
+up there it's I've said in the full
+review it lasts about a day and a half
+on battery I've never killed it in a
+single day and I've gotten pretty close
+to two days pretty frequently and I've
+also got to test the power Reserve mode
+when I was traveling today got on my
+flight put on power Reserve mode at
+about 97% 6 hours later the flight was
+over and I check it and I turn it back
+on and it's still at 97% so that was
+great it charges in about about an hour
+and a half to 2 hours from empty and it
+does get a little bit warm while
+charging but that's not a big deal and
+you can also get a little bit of extra
+battery out of your iPhone if you don't
+check it as much since you're using your
+watch number five does it scratch yes it
+kind of does I have the stainless steel
+version and I have like one or two tiny
+hairline scratches on it not a big deal
+my Moto 360 also has a couple of tiny
+hairline scratches on it so that's not a
+big deal that's just the way they are so
+number six what kind of accessories are
+there for the Apple watch it's an Apple
+product surely there's going to be
+access accessies and yes there are
+there's a whole bunch first of all there
+are some docks for it and these are sort
+of alternative methods for charging it
+since Apple's method isn't exactly
+pretty you can get sort of a larger more
+pretty version of a dock to charge your
+Apple watch those I understand actually
+the gold Apple watch Edition even comes
+with its own custom charging case then
+there are screen protectors which I
+guess also makes sense you want to keep
+it in pretty decent condition you want
+to avoid those scratches and force touch
+still works everything still works with
+the screen protectors on so that's fine
+and then there are cases for the Apple
+watch
+you don't need a case for the Apple
+watch number seven is it true that there
+is a mystery port on the Apple watch
+actually yes there is there's a sort of
+a tiny port a diagnostic port right
+behind where the band Clips in where it
+actually does accept power so people are
+sort of trying to come up with bright
+ideas to take advantage of this one
+company is actually building a new Apple
+watch band with a battery built into it
+to plug into that little tiny Port sort
+of a bright idea I'll leave a link to
+that right below that like button if you
+want to check it out and uh yeah that's
+sort of the idea it's mostly still for
+Apple employees to troubleshoot the
+watch number eight what's good with
+Force touch actually Force touch is
+really good especially in the Apple
+watch Mostly because the vibration motor
+in the watch is so good but it's a sort
+of a more info button and it's gotten
+pretty useful and the Apple watch my
+favorite thing about it is just long
+pressing on your notifications to clear
+all notifications that's something that
+I wish would come to Android Wear maybe
+you'll see that at Google IO in a couple
+of days but uh it's here to stay it's in
+the new Macbook it's on the new Apple
+watch and actually it's expected to show
+up in the next iPhone as well so Force
+touch it works and it's pretty good even
+though it has a terrible name number
+nine what is the best combination of
+band sl size for the Apple watch really
+it's all personal preference you're just
+choosing a bunch of materials for it my
+personal favorite would be the 42 mm
+space gray stainless steel with the
+leather loop I actually think that
+leather Loop looks pretty badass so that
+brings us to number 10 which is should
+you buy the Apple watch and a lot of
+people's gut response is either a heck
+no or a maybe yes
+uh if you own an iPhone and you want a
+smartwatch the Apple watch and the
+pebble are really your only choices and
+at 349 bucks there are other
+SmartWatches at this price and for the
+build the Apple watch sport is at least
+worth that price anything above the
+Apple watch sport the functionality is
+exactly the same and you're only paying
+for a difference in materials you're
+paying for a leather or millanes band or
+stainless steel or sapphire crystal
+those kinds of things the craftsmanship
+is fine on the Apple watch Sport and if
+you can deal with that I'd say yes but
+if you're going to go above that really
+think about exactly what materials are
+getting and if you think spending 57
+$800 or $10,000 is worth it on an Apple
+Watch I would lean towards no but if
+you're going to just get into this for
+the first time Apple watch sport is fine
+so there you go guys I hope you enjoyed
+this video thank you for watching and if
+you found it helpful at all definitely
+share it for other people who have
+questions about the Apple watch
+hopefully this will answer theirs as
+well again thanks for watching and I'll
+see you at google.io talk to you the
+next one peace

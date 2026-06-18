@@ -1,0 +1,510 @@
+# XzK9bx3CSPE
+# https://www.youtube.com/watch?v=XzK9bx3CSPE
+
+they wondered if there was a better way
+to find information on the web on
+September 15th 1997 they registered
+Google as a website one of the greatest
+entrepreneurs of our times someone who
+really wanted to think outside the box
+if that sounds like it's impossible
+let's try it he took a backseat in
+recent years to other Google leaders
+Brin is now back helping Google's
+efforts in artificial intelligence I
+feel lucky uh that I fell into doing
+something um that I feel really matter
+you know getting people
+[Music]
+[Applause]
+[Music]
+[Applause]
+information no introduction needed
+welcome I I just agreed to this last
+minute as you know I don't know where
+you pulled up that clip so fast you guys
+team is amazing kind of amazing this is
+kind of amazing yeah
+I thought Serge Ser just well he asked
+to come check out the conference and I
+was like definitely like come hang out I
+didn't actually understand to be
+perfectly honest I thought you guys just
+kind of had a podcast and like a little
+get together or something but yeah this
+kind of mind-blowing congratulations
+thank you well I'm glad you came out I'm
+feeling a little bit shy but yeah wow
+but thanks for agreeing to chat for a
+little bit we're going to talk for a
+little bit so this was not on the
+schedule um but uh I thought it'd be
+great to talk to you given where you sit
+in the world as AI is on the brink of
+and is actively changing the world
+obviously um you know you founded Google
+with Larry in 1998 and um you know
+recently it's been reported that you've
+kind of spent a lot more time at Google
+working on AI I thought maybe and and a
+lot of Industry analysts and pundits
+have been kind of arguing that llms and
+conversational AI tools are kind of an
+ex Potential Threat to Google search
+that's that's one of the and I think a
+lot of those people don't build
+businesses or they have competitive
+Investments but you know we'll leave
+that to the side um but there's this big
+kind of narrative on what's going to
+happen to Google and and where's Google
+sitting with AI and I know you're
+spending a lot of time on it so thanks
+for coming to talk about it how much
+time are you spending at Google what are
+you working on yeah um honestly like
+pretty much every day I mean like I'm
+missing today which is you know one of
+the one of the reasons I was a little
+reluctant but I'm glad I came um but
+I think as a computer
+scientist I've never seen anything as
+exciting as all of the AI progress
+that's happened the last few
+years thanks um no but it's it's kind of
+mindblowing when I went to grad school
+in the 9s you know AI was like kind of
+like a footnote in the curriculum almost
+like you like oh maybe you have to do
+this one little test on AI we tried all
+these different things they don't really
+work that's it that's all you need to
+know um and then somehow miraculously
+all these people who are working on
+neural Nets which was one of the big
+discarded uh approaches to AI in like
+the' 60s 7s and so forth um just started
+to make progress a little bit more
+compute a little more data a few clever
+algorithms um and the thing that's
+happened in this last decade or so is
+just amazing as a computer scientist
+like every month um you know well all of
+you I'm sure use all of the AI tools out
+there but like every month there's like
+a new amazing capability and I'm like
+probably you know doubly wowed as
+everybody else is that computers can do
+this um and
+so yeah for me I really got back into
+the technical work um because I just
+don't want to miss out on this um as a
+computer scientist is an extension of
+search or a rewriting of how people
+retrieve
+information I mean I just think that the
+AI touches so many different elements of
+day-to-day life and sure search is one
+of them uh but it kind of covers
+everything um for example programming
+itself right like the way that I think
+about
+it is very different now like you know
+writing code from scratch feels really
+hard compared to just asking the AI to
+do it right um yeah sorry um so what do
+you do then um actually I've written a
+little bit of code myself just for Just
+for kicks just for fun uh and then
+sometimes I've had the AI write the code
+for me um uh which was which was fun um
+I mean just one example I wanted to see
+how good our AI models were at Sudoku
+so I had the AI model itself write a
+bunch of code that would automatically
+generate Sudoku puzzles and then feed
+them to the AI itself and then score it
+and so forth right um but it could just
+write that code and I was like talking
+to the engineers about it and you know
+whatever we had some debate back and
+forth like I came back half an hour
+later it's done and they they were kind
+of impressed because they don't honestly
+use the AI tools for their own coding as
+much as I think they ought to right um
+so that's interesting example because
+maybe there's a model that does Sudoku
+really well maybe there's a model that
+like answers information questions for
+me about facts on the in the world maybe
+there's an AI model that designs houses
+um a lot of people are working towards
+these ginormous general purpose llms is
+that where the world goes some people I
+think refer I don't know who wrote this
+recently said there's a God model like
+there's going to be a god model and
+that's why everyone's investing so much
+is if you can build the god model
+you're done you got AGI whatever terms
+you want to use there's this one thing
+to rule them all or is the reality of AI
+that there are lots of smaller models
+that do application specific things
+maybe work together like in an agent
+system like what's the what what what is
+the evolution of model development and
+the how models are ultimately used to do
+all these cool things um yeah I mean I
+think like if you looked 10 15 years ago
+there were different AI techniques that
+were used for different problems
+altogether like uh you know the chess
+playing AI was very different than image
+generation which was you know very
+different um than like recently the
+graph neural net at Google that like
+outperformed every physics forecasting
+model I don't know if you know this but
+you guys publish this pretty aesome
+embarassed I but it was like a totally
+different Arch it was a different system
+it was trained differently and it ended
+up in that particular so there
+historically there have been different
+systems and even recently um like the
+international math Olympiad that we
+participated in we got um silver metal
+as an AI actually one point away from
+gold um but we actually had three
+different AI models in there there was
+one very uh formal theorem proving model
+that actually did basically the best
+there was one uh specific to Geometry
+problems believe it or not that was just
+a special kind of AI uh and then there
+was a general purpose language model
+um but uh since then we've tried to take
+the learnings from that that was just a
+couple months ago uh and triy to infuse
+some of the sort of knowledge and
+ability from the formal prover into our
+general language models um that's still
+working progress but I do think the
+trend is to have a more unified model I
+don't know if I'd call a god model uh
+but to have certainly sort of shared
+architectures and and ultimately even
+shared
+models um right so if that's true you
+need a lot of compute to train and
+develop that model that big
+model uh yeah yeah I mean you definitely
+need a lot of compute I I think like
+I've I've read
+some articles out there that just like
+extrapolate they're like you know it's
+like 100 megawatt and a gwatt and 10
+gwatt and 100 gwatt and I don't know if
+I'm quite a believer in you know that
+level of
+extrapolation um partly because
+also the algorithmic improvements that
+have come over the course of the last
+few years uh maybe are actually even
+outpacing the increased compute that's
+put into these
+models so is it irrational the buildout
+that's happening everyone talking about
+the Nvidia Revenue the Nvidia profit the
+Nvidia market cap supporting all of what
+people call the hyperscalers and the
+growth of the infrastructure needed to
+build these very large scale models
+using the techniques of today is this
+irrational or is it rational because if
+it works it's so big that it doesn't
+matter how much you well first of all
+I'm not like an economist or like a
+market Watcher the way that you guys
+very carefully um watch companies so I
+just want to disclaim my abilities in
+the space um I think that I know uh for
+us we're kind of building out compute as
+quickly as we can and we just have a
+huge amount of demand I mean for example
+our Cloud customers just want a huge
+amount of tpus gpus you name it um you
+know we just can't we have to turn down
+customers uh because we just don't have
+the compute available uh and we use it
+internally to train our own models to
+serve our own models and so forth
+so I guess I think there are very good
+reasons that companies are currently
+building out comput at a fast pace um I
+just don't know that I would look at the
+training Trends and extrapolate three
+orders of magnitude ahe just blindly
+from where we are today but the
+Enterprise demand is there out there you
+know I mean they they want to do lots of
+other things for example running
+inference on all these AI models
+applying them to all these um new
+applications um yeah there doesn't seem
+to
+be uh a limit right now
+and where have you seen the greatest
+success surprising success in the
+application of models whether it's in
+robotics or biology what are you like
+seeing that you're like wow this is
+really working and where are things
+going to be more challenging and take
+longer than I think some people might be
+expecting um yeah I mean uh now that you
+mentioned those well I I would say in
+biology you know we've had Alpha fold
+for quite a while um and I'm not
+personally a biologist but when I talk
+to biologists out there like everybody
+uses it and it's more recent uh variants
+um uh and that is I guess a different
+kind of AI but like I said I do think
+all these things tend to
+converge um you know
+robotics for the most part I see in this
+sort of wow stage like wow you could
+make a robot do that with just you know
+this general purpose language model or
+just a little bit of fine tuning this
+way or that and it's like
+amazing uh but maybe
+not for the most part yet at the level
+of robustness that would make it like
+day-to-day useful but you see a line of
+sight to
+it
+um yeah yeah I mean it would be it's I
+don't see any particular Google the
+robotics business and then spun it out
+or sold it we've had like had aot five
+or six robotics businesses they just
+weren't the timing wasn't right yeah um
+yeah unfortunately I don't know I guess
+yeah I think that was just a little too
+early to be perfectly honest I mean
+there was like Boston Dynamics um what
+was called um start stamp I don't even
+remember all the ones we had anyway
+we've had like five or six
+embarrassingly yeah um but they're very
+cool um and they very
+impressive
+um it yeah it just feels kind of silly
+having done all of that
+work uh and seeing now how capable these
+General language models are that include
+for example vision and image and they
+multimodal and they can understand the
+scene and everything and not having had
+that at the time uh yeah it just feels
+like you were sort of on a treadmill
+that wasn't going to get anywhere
+without the modern AI technology you
+spend a lot of time on core technology
+do you also spend a lot of time on
+product visioning where things going and
+what like the human computer interaction
+modalities are going to be in the future
+in a world of AI everywhere like what's
+our life going to be like I mean I guess
+there's water cooler chitchat about
+things like
+that um sh care to share
+any
+I um trying to think of things that
+aren't embarrassing um struggling but uh
+friends I I guess it's like just really
+hard
+to you know just forecast like you know
+to think five years out because you know
+based on the base technical capability
+of the AI is what enables the
+applications um and then sometimes you
+know somebody will just whip up a little
+demo that you just didn't think
+about
+um and it'll be kind of mind-blowing
+yeah um uh and uh and of course then
+from demo to actually making it real in
+production so forth takes time um I
+don't know if you've played with like uh
+the Astra model but it's just sort of
+live video and audio and you can chat
+with the AI about what's going on in
+your environment you'll give me access
+right uh yeah I'll get well once I have
+access um I mean I'm I'm sort of
+sometimes the slowest to get some of
+these
+things um but it's um yeah there's like
+a moment of wow
+uh and you're like oh my God this is
+amazing and then you're like okay well
+it does a correctly like 90% of the time
+but am I really like is that then worth
+it if 10% of the time it's kind to make
+a mistake or taking too long or
+whatever and then you have to work work
+work work work work work to get to
+Perfect all those things make it
+responsive make it available whatever
+and then you actually end up with
+something kind of amazing I heard a
+story
+that you went in you were on site I
+should have mentioned this to you before
+you came on stage see if you were cool
+about talking about here we are um and
+there like a bunch of Engineers showed
+you that you could like use AI to write
+code and it was like well we haven't
+pushed it in Gemini yet um because we
+want to make sure it doesn't make
+mistakes and there was this like
+hesitation culturally at Google to do
+that and you were like no if it writes
+code push it and you really and a lot of
+people have told me this story because
+they said and um or you know I've heard
+this that it was really important to
+hear that from you the founder in being
+really clear that Google's conservatism
+you know can't rule the day today and we
+need to kind of see Google push the
+envelope is that accurate is that kind
+of huh how you've spent some time or I
+don't remember the specific in just to
+be honest but uh but I'm not
+surprised um I mean I guess that's the
+question for me is like as Google's
+gotten so big there's more to lose
+I think there's like this um yeah I
+think there's a little bit of fearful I
+mean language models to begin with like
+we invented them basically with a
+Transformer paper that was um whatever
+six eight years ago something like that
+um and uh oh no one by the way is back
+at Google now which is awesome Cong um
+and um yeah we were we were too timid uh
+to deploy them um and you know for a lot
+of good reasons like whatever they some
+make mist mistakes they say embarrassing
+things whatever you know um they're you
+know sometimes they're just like kind of
+embarrassing how dumb they are even
+today's like latest and greatest things
+like make really stupid mistakes people
+would never make um and at the same
+time like they're incredibly powerful
+and they can help you do things you
+never would have done and um you know
+like I've like programmed really
+complicated things with my kid like
+they'll just program it because they
+just ask the AI using all these really
+complicated apis and all kinds of things
+that would take like a month to like
+learn so I just think that that
+capability is
+Magic
+and uh you need to be willing to have
+some
+embarrassments uh and take some risks
+and um and I think we've gotten better
+at that and well you guys have probably
+seen some more
+embarrassments um but you're comfor
+I have super voting you're still like I
+mean you're comfortable with the
+embarrassments at this St it's so to do
+this like I mean not not particular on
+the basis of my stock but I I um but as
+a you know I mean but am I comfortable
+um I mean I guess I just think of it is
+this something magical we're giving the
+world yeah and I think as long as we
+communicate it properly like saying like
+look this thing is amazing
+and we'll periodically get stuff really
+wrong uh then I think we should put it
+out there and let people experiment and
+see what new ways they find to use it um
+I just don't think this is the
+technology you want to just kind of keep
+close to the chest and hidden until it's
+like
+perfect do you think that there's so
+many places that AI can affect the world
+and so much value to be created that
+it's not really a race between Google
+and meta and Amazon like people frame
+these things as kind of a race is there
+just so much value to be created that
+you're working on a lot of different
+opportunities and it's not really about
+who builds the the model that score the
+llm that scores the best that there's so
+much more to it I mean how do you kind
+of think
+about um the world out there and
+Google's place in it I mean I I think
+it's very
+helpful to have competition in the sense
+that all these guys are vying and um we
+just we were number one for on olysis
+for a couple weeks by the way uh just
+now and I think we're last time I
+checked we're still beat the Top Model
+there's just some El stuff so you do
+care yeah yeah not
+saying not but um uh and uh um and I you
+know we've come a long way since um you
+know a couple whatever years ago um chat
+GPT launched or and we were quite a ways
+behind uh I'm really pleased with all
+the progress we made so we definitely
+pay attention I mean I think it's great
+that there are all these AI companies
+out there be it uh US Open AI anthropic
+um you name it there's um mistol it's
+it's a I mean it's a big fast moving
+field but I guess your question is yeah
+I mean I think there's tremendous
+value uh to humanity and I I think if
+you think
+back uh you know like when I was in
+college let's say and there wasn't
+really a proper internet or like web the
+way that we know it today like the
+amount of effort it would take to get
+basic information the amount of effort
+it would take to communicate with people
+you know before cell phones and things
+um like we've gained so much
+capability uh ac across the world uh but
+the sort of the new AI is another big
+capability
+uh and pretty much everybody in the
+world can get access to it in one form
+or another these days and I think it's
+super exciting it's awesome uh sorry we
+have so such limited time Sergey thank
+you so much for joining us please join
+me in thanking Sergey thank
+[Applause]
+you thanks yeah

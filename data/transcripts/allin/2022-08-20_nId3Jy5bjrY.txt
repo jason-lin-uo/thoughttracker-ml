@@ -1,0 +1,2979 @@
+# E92: Adam Neumann's second act, a16z's $350M bet, housing policy, Inflation Reduction Act & more
+# https://www.youtube.com/watch?v=nId3Jy5bjrY
+
+J Cal, what's it feel like to be a guest
+on your own podcast today? I'm excited.
+Oh god, so delightful. You did a great
+job by the way. Really like
+the punch up to the formatting where you
+actually put the questions in.
+Yeah, I think it's cuz I want us to all
+agree on the stuff we want to grok on,
+you know?
+In a professional TV show, they would
+have pre-interviews with everybody, get
+all their positions, then they put the
+positions into the document
+and they you know, they basically do
+what is called a pre-interview.
+Or here's another idea, you could do
+your job. Well, I mean
+Do your job. How about that? How about
+you try that? How about that? Or you
+know, or how about I turned you three
+miserable into actual likable people in
+91 episodes, which nobody thought was
+possible. I actually think I'm becoming
+less likable the longer I'm on this
+show. But I think THAT'S I THINK THAT
+CORRELATES WITH ALL OF US.
+ALL OF OUR LIKABILITY JUST
+HELLO and welcome to the All-In Pod. I
+am your moderator for today, out of the
+hot seat, doing the easy beat, Dave
+Friedberg. I'm joined today by our
+esteemed panel,
+back from his European shopping spree,
+our national treasure, America's
+favorite dictator, Chamath Palihapitiya.
+Chamath,
+how are you feeling? I'm feeling great.
+You're okay, you're recovered? Yeah,
+good.
+I'm a little I have I got a little head
+cold though. Oh, well, sorry to hear
+that. Hope it's not COVID 2.0. No, I
+tested. I'm COVID negative.
+Thank god. Okay. Also with us as usual
+from his emergency bunker ahead of the
+US Civil War, the Rain Man, David Sacks.
+How are you, David? Good. Happy with the
+late start this morning, I'm sure. And
+of course, everyone's favorite ski bum,
+producer of the Woodstock of tech
+conferences, the one and done All-In
+Summit in Miami, Jason Calacanis. Jason,
+what's it like to be a guesty today? Ah,
+it's so delightful. When you said you
+wanted to moderate, that to me was
+chef's kiss. I get to I get to comment
+and not be the moderator. I love it.
+Yeah, so we're we're mixing it up a
+little bit today. I'm going to take the
+lead. J Cal's going to sit back. Uh I'll
+say a couple of words before we start
+because I think last week we got a
+little nasty. Uh definitely heard that
+from listeners. Um you know, I I know I
+so I want to kind of just address it
+real quick and then we can uh kick off
+the show. I I think it's important to
+say that none of us really started out
+doing this pod as a job or thinking that
+it would become a real regular thing,
+right? We we started doing it for fun,
+ad hoc from time to time, and then it
+became this thing that people listen to
+and it became this thing that we started
+doing every week and people actually
+cared about it and suddenly became this
+real obligation.
+It's almost like we got pregnant and had
+a baby and now it's like four men and a
+baby. And so, you know, I think we all
+feel this like you know, challenging
+obligation that we never expected to
+take on of like taking care of the show,
+taking care of the pod. And we all have
+like different points of view on what we
+want the pod to be and what we want it
+to become. J Cal cares about, you know,
+getting up in the rankings and listening
+to the audience and ultimately has
+shared that he wants to monetize, but
+you know, at points. We've not always
+agreed on different points about that.
+You know, Chamath has the things he
+wants to bring to the table. Sacks has
+things he wants to talk about. And so,
+you know, it's really difficult kind of
+running the pod, managing the pod with
+four very different points of view, very
+different perspectives on what it is we
+all want to kind of get out of this over
+time. And I think it causes us to get
+really frustrated with each other. We
+end up having real fights.
+You know, you have the biggest fights
+with your best friends. You know, you
+really let loose and lash out. I think
+last week I listened back, I was pretty
+contemptuous in my kind of retort to J
+Cal about hitting up on the inflation
+topic and I want to apologize to J Cal
+for doing that.
+I think it was you know, I think yeah, I
+think it was a little rough. But at the
+same time, I just want to point out
+like, you know, we're going to keep
+doing the show
+um because I think, you know, as much as
+we all disagree, as much as we fight and
+as much as we may even start to dislike
+each other
+uh and not get along, I think it's
+really important that we keep doing this
+and and I think
+restating that commitment and trying to
+do better is really important. So, you
+know, we're going to try different stuff
+out, try and find ways to find common
+ground and keep doing the show
+productively with each other.
+As one experiment this week, I'm going
+to moderate and we're going to, you
+know, try and take it that way. But, you
+know, I just wanted to say those few
+words before we kick this off, guys, cuz
+I thought it was important, especially
+after the last couple of weeks. I think
+it's been a bit of a struggle. We've
+been having a tough time and I just want
+to be open about it and, you know,
+highlight that
+you know, as an example, you can fight
+with people, you can disagree with them,
+and you can still keep trying. And I
+want to set that example. I want us to
+keep doing that. So,
+anyway, just thought that I would
+just like to say apology accepted.
+And uh I thought that was a lovely
+opening.
+One thing I I would just punch up there
+is the real reason we did this was
+because we missed each other. We missed
+hanging out with each other. And then
+this is, you know, something that's
+become more successful than any of us
+ever imagined.
+It's got an audience size that is just,
+you know, hard to imagine how many
+people are listening to this, which then
+does put a little bit of pressure on it.
+We we we want it to be great for the
+audience.
+And I just want to say like I I don't
+take it personally when we when we
+battle on stuff. Even with politics and
+Sacks and stuff like that.
+I respect each of you. You are each
+brothers to me. I love each of you
+deeply.
+And when we fight and things don't work
+out, I look at it as like personal
+growth or progress towards some other
+goals that we each have. The amount of
+support
+I've gotten in my career from David
+Sacks and Chamath
+has been unparalleled. David Sacks was
+my first LP. He encouraged me to create
+my first venture fund.
+Chamath supported me relentlessly in my
+career, showed up for me every event I
+ever did, and I tried to do those same
+things for them. You and I haven't done
+much business together, Friedberg, but
+I'm enjoying the business that we've
+started together.
+Yeah, starting to.
+Starting to. And I and I showed up for
+both of your events when you needed me,
+doing some syndicates with you, and I I
+love doing this each week. I love doing
+this each week.
+Yeah, it's like like I think my point
+was it's a lot easier to be friends and
+have wine together and play poker
+together than it is to do a job
+together. And this has become really a
+job. And so, you know, you can have
+really good friends and then you try and
+start a company together or do a job
+together and you can hate each other.
+Yeah, I think it doesn't mean that you
+guys stop being friends or that we
+should stop doing the work. I think we
+should still keep trying to do the work,
+figure out a way to make it work. So,
+anyway, that that was the point I wanted
+to make at this
+And and that's the end of my my
+statement. Those weren't prepared. Those
+were just in reaction to yours. I don't
+know if Sacks wants to say anything, but
+I doubt it.
+Okay, let's get this on.
+you have any emotions right now? Sacks,
+what are you feeling? Yeah, I mean,
+Chamath, do you think grass-fed is
+better or THE REGULAR BILTONG?
+SACKS AND I WERE TEXTING while you guys
+were
+We're hugging it out, talking about
+different kinds of jerky.
+Beef jerky. While we were jerking each
+other off, you guys were researching
+jerky? Great. Okay. I was recommending
+biltong to him.
+Oh, great. Awesome.
+Speaking of jerky, let's get into Adam
+Neumann. Hey-o. Okay, so now
+Hey-o. Uh hey-o. Okay, so first thing to
+talk about today and I kind of wanted to
+take it in a little bit of a different
+direction than I think all the other
+tech media have kind of addressed this.
+You know, Adam Neumann is back. He
+raised $350 million from Andreessen
+Horowitz. There was an announcement this
+week
+for his new company called Flow, which
+as we understand it is trying to develop
+residential apartments,
+you know, in the same sort of vibe,
+quality,
+and attention to experience as maybe was
+intended with WeWork. Uh and Flow, you
+know, seems to have um started,
+originated with Adam doing a bunch of
+acquisitions of real estate with his own
+capital, and now he seems to have turned
+this into a real business and raised
+money from Andreessen. So, there's all
+the commentary
+and
+joking about Andreessen putting this
+money in, are they crazy, as well as all
+the, you know, commentary about Adam
+Neumann, how could anyone back him? The
+guy was so awful the first time around.
+Let me just do a quick round the horn
+with you guys, you know,
+initial reactions to the to the Adam
+Neumann deal. And then I'd love to talk
+about founders having a second act
+because, you know, Adam happens to be
+high profile. So, his failure was high
+profile. But a lot of founders have a
+failed low profile first experience and
+come back and kick ass the second time
+around, and investors have taken notice
+of that. And so, I'd love to to go
+there, but maybe we just do a quick
+reaction. J Cal, I know you've talked
+about this on your other show. Maybe you
+can kind of give us your your quick
+commentary on
+on the opportunity, the transaction, and
+what are people talking about with
+respect to this this deal happening?
+You know, people are wondering why he's
+able to raise money. And what I always
+tell founders is when you see these like
+weird fundings and you can't get your
+heads around them, it typically has to
+do with track record and credible
+audacity, Trump's prior blunders. So, uh
+say what you will about Adam Neumann, he
+is audacious and he has credibility.
+People forget his origin story. They
+only remember the Masayoshi Son $4
+billion and what happened and what he
+did with that. And that was a complete
+cluster [&nbsp;__&nbsp;] It went off the rails. He
+did all kinds of inside dealing and and
+it was it was madness. But before that,
+he did Green Desk. He was a bootstrapped
+entrepreneur. And then he created the
+category-defining co-working space,
+which to this day, when you say I need
+to get an office, the first thing people
+say is get a WeWork. Just like they say
+take an Uber, just like they say Google
+it,
+just like, you know, any other verb that
+we talk about. And so,
+it's very easy to dismiss him and say
+the tech industry has no morals, they
+just back they'll back anybody. He has a
+publicly traded company that's in the
+market right now. He defined the
+category, and And also put $300 million
+dollars
+of his own money at stake to buy these
+apartments.
+Uh so, I think it's uh I would say the
+bet makes sense to me and I think it
+will make sense if we go into the bet uh
+which I'd love to hear everybody else's
+thoughts on. It's an audacious bet
+because
+housing is one of the hardest industries
+to tackle and he already did it for
+commercial, so why wouldn't he have be
+able to do it for residential? Sacks,
+did you see this opportunity in the
+market? Did Did you guys take a look at
+it or have any points of view on it? No,
+I mean we we don't write $350 million
+size checks. So, it's just not something
+that we're going to take a look at. For
+that matter, we don't really do
+non-software investments. We don't do,
+you know, in the you know, physical
+world type investments.
+And I've kind of learned that doing
+anything in the physical world with
+atoms is 10 times harder than doing
+anything with bits. So, you know, one of
+my takeaways over the last few years is
+you know, we tend to like pure software
+models, not even hybrid or tech-enabled
+models because it really does take a 10x
+entrepreneur to do anything in the
+physical world. So,
+Yeah. we you know, we software is kind
+of our knitting and we we like to stick
+to that. Uh in terms of, you know,
+Andreessen Horowitz making this
+investment, here's what I'd say or or
+your larger topic of of repeat founders.
+Look, most startups fail and most
+founders or good founders have an
+entrepreneurial streak in them. And so,
+you combine those two things and there's
+going to be a lot of repeat second time
+founders, people who are fundamentally
+entrepreneurial and their first thing
+doesn't work out. I think that that can
+be a positive thing to invest in because
+they've gotten some of their mistakes
+out of the way and they've learned from
+that experience. So, I think the
+question we would just ask is what were
+the learnings and did they conduct their
+failed startup honorably? You know, like
+if they lied to investors or misled
+investors, then obviously we don't want
+any part of that, but I don't think most
+failures are like that. And um and so,
+as long as the founder I think conducted
+themselves honorably, had some good
+learnings, it's certainly not a
+disqualifier for their next startup. I
+mean, Chamath, you've been open in the
+past about startups that waste money and
+do the kind bars and red brick, you
+know, offices and you know, easy living
+at the office. There's no better example
+of over-the-top exuberance as there was
+at WeWork, right? I mean, does that
+indicate to you that this guy doesn't
+have a clue in
+terms of how to be prudent with
+investors' capital and he's not backable
+or how do you think about it? I have a
+couple thoughts. The first is that
+WeWork
+um is a really interesting business.
+But that business had been built many
+times before and it's called the REIT.
+And I think what Adam was able to
+arbitrage was a period of time where he
+pitched a non-real estate investor
+a technology company that was really
+just a real estate investment trust.
+And that's why he was able to get these
+incredibly heady valuations. I think the
+peak valuation of WeWork was like 45 or
+50 billion dollars. But what happened,
+which is that when WeWork ultimately
+went public
+the collective intelligence of the
+public markets imposed
+a REIT-based valuation model on WeWork
+and it is now a 3.6 billion dollar
+public company.
+And I don't think you can dunk on Adam
+for that. It's hard to build any kind of
+company, let alone a 3.6 billion dollar
+company and he was instrumental in that,
+so he should get some amount of credit.
+But the reality was that he was pitching
+people that didn't want to hear
+about a business that was a real estate
+investment trust. They wanted to hear
+about some technology and all of these
+other things, but ultimately when you
+stripped it away, it was a REIT.
+Now, you started again and from the
+outside in not knowing anything cuz we
+don't know anything
+what it looks like is the beginnings of
+another REIT except focused on
+residential. Mhm. Right? So, when you
+buy hundreds or thousands of apartments.
+But again Same pig, different lipstick.
+The the the the issue at hand though is
+that again, he has found a technology
+investor to buy a technology story
+and again, time will tell whether there
+is a technology business here, but if it
+ultimately is an amalgamation of a bunch
+of apartments
+with some sort of, you know,
+interconnected technology that helps
+enable a better community or what have
+you
+those kinds of REITs have also been
+built before and REITs are valued in a
+very structured way in on this thing
+called FFO, funds from operations.
+And you know what the upper bound
+evaluation is, which is if you go and,
+you know, look in the stock market the
+most valuable REIT in the world is a
+company called Prologis. They have about
+a billion square feet under management.
+They're about a hundred billion dollar
+company.
+WeWork has about 45 million square feet
+under management. They're a 3.6 billion
+dollar company. So, if you just
+interpolate from those two data points
+on the residential side, Adam's going to
+have to buy, you know, if you think an
+average apartment is 1,500 square feet,
+he has to buy, you know, 665,000
+more apartments
+in order for that to be Prologis scale.
+You know, I don't know, to invest at a
+billion dollar valuation
+or 1.5 or 2 or whatever the number turns
+out to be
+makes sense if you think the upper bound
+is unlimited, but if you think the upper
+bound is three or four billion, the only
+reason to do it, by the way, it still
+makes sense for Andreessen to do it. And
+this is why I think people get tilted.
+Because now this comes to my second
+point
+which is that what Adam Neumann is able
+to take advantage of is a very obvious,
+powerful understanding
+of the venture capital business model
+that other founders don't, especially
+the ones that dunk on him.
+And let me just explain this.
+We talked about this last week. The only
+mistake I think that SoftBank really
+made was a velocity of money mistake
+which is not setting the investment
+cycle of their Vision Fund to be 10
+years instead of five.
+Well, every other fund has a five-year
+investment cycle, too, including A16Z.
+And so, when you have tens of billions
+of dollars under management, guys, guess
+what? They have the same problem
+SoftBank did except with just a
+different quantum of capital. They want
+velocity of money.
+And so, if a founder comes and asks for
+350 million dollars it actually in a
+perverse way makes your life easier
+because now that's saying yes once
+versus saying five or six times to
+people asking for 50 million dollars or
+heaven forbid 350 times for people
+asking for a million dollars. And so, if
+you're if you're in that seat, Chamath,
+if you're the in the investor seat, are
+you
+putting all that capital once with the
+one guy who's managed that money before
+or do you want to find the guy who has
+it or the gal who has it? You have to
+understand the Andreessen business
+model. Andreessen Horowitz business
+model is to become Blackstone
+but for technology. They have like 30
+billion AUM now, right? Right, which is
+still, you know, a drop in the bucket.
+like that, yeah. So, if if you look at
+Blackstone, right? A trillion.
+Blackstone is a hundred plus billion
+dollar market cap company. Right? Built
+on three pillars. Credit private equity
+and real estate. You can make the
+argument that technology is near is as
+important as those three categories. And
+so, you know, if I think it's pretty
+obvious that Andreessen is trying to
+build a publicly ownable security
+that represents all things in
+technology.
+So again, I don't think that they're
+necessarily out to generate massive
+returns for LPs.
+They want to become a credible, reliable
+institution for to absorb hundreds of
+billions of dollars. And so, ultimately
+the objective you think is to end that
+technology
+Their Their ultimate goal is to is for
+Andreessen and Horowitz to monetize the
+equity of Andreessen Horowitz. Of the
+management company. Yeah, that's the
+goal and that's a that's a by the way,
+that's a laudable goal. It's really hard
+to build a business. They've built an
+incredible business and then they should
+get credit for that.
+Sacks, do you agree? Well, I mean, they
+are they I think Chamath's right that
+their stated goal is to build like a
+larger institutional VC type investor. I
+mean, doesn't Andreessen have a portrait
+of J.P. Morgan hanging on his wall or
+something? I mean, they want to turn VC
+from being like a little craft business
+to something larger and more
+institutional. So, yeah, I'm sure they
+jump at the chance to write a 350
+million dollar check if they believe in
+the company. But can can I shift this
+conversation just for a second? So, I've
+done a lot of commercial real estate
+investing. I think there are reasons to
+think that Flow, this new company, could
+actually be better than WeWork. And let
+me just explain. So, with WeWork
+you know, if you talk to commercial
+office space owners, landlords, about
+WeWork like 10 years ago, what they
+would have told you is yeah, look, that
+model's great, but we want tenants who
+are high credit and sign long-term
+leases. Why? Cuz they're not worried
+about what happens in a bull market,
+they're worried about what happens in a
+recession. And they want to make sure
+they can cover their bank debt. So,
+landlords have always cared not just
+about rents, but also about having high
+credit long-term leases.
+What WeWork basically did is arbitrage
+that. Of course, it was a much better
+deal for startups because if you're a
+startup you don't have to go through a
+complicated process to sign a lease, you
+could just go month-to-month at a WeWork
+and you'd be willing to pay a premium
+for that. So, WeWork's business worked
+great during an up market because they
+would rent space for say 50 bucks a
+foot, lease it for a hundred, and they
+would capture the spread. The problem is
+the business was highly levered to a
+boom cycle. And at the first recession
+or bust cycle all of a sudden they're
+going to have massive vacancy because
+everyone can leave and all of a sudden
+their rents go below their the rents
+they're collecting go below the rent
+they're paying and the arbitrage goes
+away. They magnified that problem by
+making two mistakes. Number one, they
+signed a lot of top of market leases,
+right? They were signing leases at a
+hundred dollars plus per foot in hot
+markets. And the other thing is they
+didn't seem to have a lot of financial
+discipline. You know,
+I guess that show kind of makes fun of
+these sort of bacchanalian parties they
+had and so forth like that. You can get
+away with a lack of spending discipline
+if you're a 90% gross margin business
+like a Google, but when you're a real
+estate business who's got real cogs, not
+having spending discipline is actually a
+problem. So, for all those reasons, I
+think we were kind of contained the
+seeds of its own implosion inside of
+their model and they needed to manage or
+mitigate those risks a lot better.
+That's not to say though that it wasn't
+a great product. I mean, for every It
+was in the early days. It was an amazing
+product. Yeah, I mean, in the early days
+Sachs to your point, they were
+taking under market, like really low
+cost per square foot space, like in the
+Tenderloin, and then selling it for, you
+know, Bryant and Third Street rents,
+right? I mean, that was the arbitrage
+and it worked. It's only they lost that
+discipline, sounds like, in the second
+half of the company's history.
+Right. What I think is interesting about
+Flow is that it's sort of multi-family,
+these apartment type buildings. Those
+tend to be, you know, let's call it
+1-year leases anyway, and they're owning
+them. They're not leasing from a
+landlord. They're basically So,
+Chamath's right. It's basically a
+standard apartment replay where Newman
+is going to create a consistent
+experience and brand across the country.
+I'm not sure that's really been done
+before where there's like a brand for
+apartment living.
+Never been done. Yeah, and so actually
+it it's pretty simple in terms of
+measuring if it's going to work or not,
+which is simply can Adam Neumann deliver
+lower vacancy rates and higher rents.
+And then, you know, buy apartment
+buildings at market prices. So, in other
+words, that's the arbitrage is can he
+extract more rent and less vacancy from
+apartment units by creating this
+national brand and this experience
+But this is But you guys ever Yeah, go
+ahead.
+But this is my point. Everything you
+talked about is how we would actually do
+a teardown of any other REIT that was
+looking for money, David. You know, we
+would look at what is the FFO?
+Ultimately, it's like, you know, what's
+the implied cap rate and what's the FFO?
+Can you get paid for owning this? How
+much do you have to spend and can you
+get paid? And this is where I this is
+where I think like, you know, trying to
+then, you know,
+so if if if on the if on the inside of
+it, what what instead it was not that,
+but it was pitched as some, you know,
+convoluted technology play, it's a
+little bit harder to believe. Again, we
+don't know the details, so maybe it's a
+play.
+I Sure. Actually, what I would say
+building on Sachs and Chamath's, if they
+are going to do 700,000 apartments, you
+can actually put some numbers on this.
+You know, 700,000 apartments, you think
+they can get an extra 100, maybe 150
+bucks out of a renter? I think they
+could for like that experience, right?
+People pay a little premium. They're not
+going to pay 300 more, 400 more, because
+then they would just get a larger
+apartment and, you know, they they could
+spend that money cuz they
+it would be better spent. If they have
+700,000 of those, you're talking about a
+billion dollars in revenue a year.
+That's with 700,000 apartments.
+Okay, 10 times profits, you know,
+whatever, 10 billion dollar valuation.
+If Andreessen Horowitz is buying in at
+1.5 or 2, like Chamath is saying, is
+probably correct, somewhere in that
+range. They bought 20%. Okay, yeah,
+maybe they get a six or seven bagger out
+of this, but it's a six or seven bagger
+on a big number, 350. It's not like a
+20x or a 50x. And you also get the
+branding, which I would not under
+value here of being the firm that backs
+bad boy
+entrepreneurs and is like willing to go
+there and support founders.
+it's a real positive for Andreessen.
+It's like, look, yeah, I You know, you
+you just raised a ton of money. Well,
+guess what? You got to put that money
+out because it's not as if they're going
+to think to themselves,
+"Oh, I really only want to run this fund
+over 3 years instead of 2." They're not
+thinking that. They're like, "I want to
+keep going out because I think their
+business model works by taking as much
+oxygen in the room as possible, which
+means to be actively fundraising
+always." That's it's tied it's true of
+Blackstone, it's true of Apollo, it's
+true of Carlyle, it's true of KKR. Any
+of these publicly traded
+um investment managers,
+they live and die by their ability to
+constantly be raising funds, which
+implicitly means you have to constantly
+be writing funds. The returns decay, but
+that's okay because now you're feeding
+your you know, you're taking money from
+pension funds and other institutional
+limited partners who are fine because
+their hurdle is like 6 or 7%. So, if you
+deliver 11%, you still look like a
+genius because you can absorb so much
+money. So, Andreessen wins by showing
+that Adam Neumann goes and picks him.
+Andreessen wins because they have the
+ability to write a $350 million check.
+Andreessen wins because they have $350
+million less that they have to actually
+put into the hands of other
+entrepreneurs. Now, they can do it with
+just one check. So, it's a multi-faceted
+win for them and it's a multi-faceted
+win for Newman. I think there's also
+brand value for the entrepreneurs that
+have had failed startups or issues with
+their first startup exploding and
+knowing that there's still a second bite
+at the apple. I remember a survey and I
+I just tried to pull it up, but I
+couldn't find it. So, I may be wrong on
+this, but First Round Capital years ago
+surveyed
+uh or did an analysis of all the
+investments they had made and I think
+one of the biggest predictors of success
+in a startup was that it was the
+founder's second startup.
+And so, if you've had failings the first
+time around, you're more likely to have
+learned from those failings to improve
+your performance the second time around.
+And so, as an entrepreneur, I look to
+Andreessen Horowitz after this
+investment and think, you know, these
+guys will still back, you know, great
+entrepreneurs even if things went
+sideways or there was an issue the first
+time. And And you've got, you know, the
+ultimate kind of case for that.
+Okay, speaking of Andreessen, I'm going
+to move us along. You guys wanted to
+cover this topic, not my favorite topic
+just because I want to be careful
+about
+uh you guys decide what you want to say,
+but um I'm going to bring up the the
+Andreessen NIMBYism
+thing in Atherton. You guys wanted to
+cover this, right?
+Yeah, thumbs up. Sure. I mean, I mean,
+it's like Okay. Well, I mean,
+Everybody's talking about, why wouldn't
+we?
+Everyone's talking about it. Okay, so
+during COVID during COVID, Marc
+Andreessen wrote a an essay uh
+called Build. And I'm going to read an
+excerpt. He says, "You don't just see
+the smug complacency, the satisfaction
+with the status quo, and the
+unwillingness to build in the pandemic
+or in health care generally. You see it
+throughout Western life and specifically
+throughout American life. You see it in
+housing and the physical footprint of
+our cities. We can't build nearly enough
+housing in our cities with surging
+economic potential, which results in
+crazily skyrocketing housing prices in
+places like San Francisco, making it
+nearly impossible for regular people to
+move in and take the jobs of the
+future." And then last week, uh Mark and
+his wife, Laura, submitted a letter to
+the town of Atherton um to uh fight
+against uh multi-family housing saying,
+"I'm writing this letter to communicate
+our immense objection to the creation of
+multi-family overlay zones in Atherton.
+Please immediately remove all
+multi-family overlay zoning projects
+from the housing element which will be
+submitted to the state in July. They
+will massively decrease our home values,
+the quality of life ourselves and our
+neighbors, and immensely increase the
+noise pollution and traffic."
+Sachs.
+I'm just going to hand the mic over.
+Well, I mean,
+I'm happy to defend
+the residents of Atherton on this. I'm
+going to take the contrarian standpoint.
+But does anyone I I I I was going to do
+the same. I thought you guys were all
+going to say something, so go ahead.
+look, I mean, do we have a a problem
+where housing is too hard to construct
+in the state of California? Yes, and
+there's a bunch of reasons for that. The
+permitting process is Byzantine, it
+takes years. All those delays cost
+money. The tenant rights movement has
+gone so far that landlords basically
+can't um, you know, it's almost
+impossible to evict anybody, and that
+makes it so no one wants to be a
+landlord, so no one wants to build these
+um multi-family uh buildings
+uh or or buy them. And then, you know,
+you've got like all these uh taxes. So,
+you just in Cali- in in San Francisco,
+for example, they just passed a 6%
+transfer tax where if we talked about
+this in the show, when they basically
+just took 6% of my home, and there's
+like nothing you can do about it. So,
+there's a lot of reasons why people
+don't want to invest in more housing in
+California, and I think that
+this Atherton example is sort of
+cherry-picked because what this is is
+really zoning, you know. Um there are
+these suburbs, and it's not just
+Atherton. I mean, you got the East Bay
+as well, where people live in these
+areas that are zoned for single-family
+residences as opposed to multi-family,
+and that determines the character of the
+neighborhood. Now, if you go buy a house
+in one of those neighborhoods with that
+zoning, then that's what you expect to
+be the case. I mean, you have to spend
+more money buying a house in that
+neighborhood because you're investing in
+the character of that neighborhood. So,
+it is unfair to the residents of that
+neighborhood for a developer to come
+along and say, "Hey, I'm going to change
+the character of this place so I can
+make money. I'm going to take a bunch of
+single-family lots, turn them into
+multi-family apartment complexes or
+something like that."
+So, I can understand why the residents
+would be against that. So, I would
+differentiate between legitimate reasons
+for zoning and then
+um
+things that the state or cities have
+done to uh undermine the market for
+housing, basically creating frictions or
+impediments to the market for housing.
+Now, it is the case that as cities get
+bigger and need to free up land that you
+might need to rezone. But the areas that
+you should look out for that should make
+sense, right? I mean, I don't think you
+go off to Atherton and change the
+character of that neighborhood so that
+you can buy five more units.
+You should You should look at Why not
+look at the areas around, say, public
+transit, like the BARTs and so forth,
+where you could basically go up around
+there and it would make sense for the
+neighborhood.
+I mean, the example I would give
+to kind of paint an extreme picture is
+say you own a farm in the countryside,
+someone buys the farm next to you and
+then decides they want to build a
+50-story tall skyscraper next to your
+farm. You would have a serious objection
+because I think that the I mean look
+look at the town of Venice in Italy. I
+mean Chamath you've you've you've been
+there recently but um you know
+communities local communities can define
+the character of their community by by
+by making zoning laws that
+you know allow a small city to remain
+like a small city. I've also always been
+against this notion that we should allow
+any developer to build any size building
+anywhere they want in San Francisco
+which has been an ardent cry from
+Silicon Valley progressives for years
+that we need to let them build let them
+build but at the end of the day I moved
+to San Francisco 22 years ago and it was
+a small quaint city. It felt like a
+small city and building skyscrapers made
+it more congested, made it less
+inviting, made it feel more industrial
+and it wasn't appealing to me as a
+resident. And I think that residents
+need to have the right to define what
+they want their community to be. The
+question it brings up then is where do
+you build? Because all residents
+everywhere would want to block family
+housing multi-family housing
+skyscrapers. So I mean Chamath I don't
+know if you have a point of view to
+counter what we're saying but you know
+how to how do we think about solving
+this problem at scale if everyone wants
+their their local communities to remain
+quaint and interesting and and not be
+built out. Well I I I think I think
+that's true for people who can afford
+really nice homes in the suburbs. Right.
+But there are a lot of people that live
+in highly dense housing in urban
+environments and I think that's where we
+need to focus first. If you look at the
+data, California needs to build 3.5
+million extra homes by 2025. That's a
+rule right? That's like a So David's
+right like focusing on a town with a
+population of 7,000 people is not going
+to solve the 3.5 million homes we need
+to build.
+And it brings up a bigger question which
+is then who is going to pay for all the
+physical infrastructure that's going to
+be required. Let's just say you're able
+to actually double the population of
+Atherton to 14,000.
+Well you know you I I live near that
+area so what I'll tell you is
+Atherton has uh bad flooding. They you
+know Sachs actually used to live near
+there too so Sachs can can confirm this.
+You know depending on when it rains huge
+pockets of water just collect
+everywhere. That infrastructure's bad.
+There are no sidewalks. Right? So you
+kind of walk just on the road.
+There's cars whipping by
+uh you know could pick you off at any
+moment. Now those were decisions that as
+David said the residents of that town
+made decades ago because of the
+lifestyle that it created and they
+traded away
+a highly dense urban environment.
+Whereas if you just moved a mile you
+know south there are parts of Menlo Park
+and parts of Palo Alto
+that are already in a situation to
+absorb
+very dense housing where you could put
+that extra 7 or 8,000 people pretty
+easily in a much
+what do you what do you do when those
+people in that neighborhood in Menlo
+Park say I don't want another apartment
+building here. I want it to be down the
+road in Atherton. Right? How how do you
+resolve this conflict? And I just want
+to remind everyone in September
+Governor Newsom signed these bills
+right? He signed 31 affordable housing
+bills which mandate by zip code and by
+city and by town the building of
+affordable housing to create equity in
+this problem
+or which basically means all these
+cities and all these towns are now
+scrambling to figure out how do we meet
+our state mandated objectives of new
+affordable housing in our zip code or in
+our town.
+No and by the way look
+I I I mean look the and I think exactly
+as you said what will happen now is it
+goes to some state commission and I
+think that state commission can issue
+some sort of penalty or something so you
+know it's it's I think the the residents
+will pay for that
+freedom if you will to to not have that
+building happen.
+But again I just go back to it doesn't
+solve the crux of the problem. The crux
+of the problem is we need to solve this
+housing crisis
+in the order of magnitude of millions of
+homes.
+Okay? And so millions of homes can only
+be absorbed mostly in cities.
+So the real conversation and you know is
+I have more sympathy for the residents
+of Atherton than I do for residents of
+the city of San Francisco.
+Okay? Because there is dense housing in
+San Francisco. There already is an
+infrastructure social services that were
+designed and built. There are sidewalks.
+Again simple example.
+There are stoplights you know in San
+Francisco that a lot of these towns
+don't actually have. Now again that was
+a decision they made 50 years ago and
+they would have to change that decision
+but my point is like there are there are
+places that are already shovel ready
+and the real question is why can't we
+build hundreds of thousands of units.
+And so this is a good article to write
+because it's a tony neighborhood and you
+know there's a few thousand folks
+but I think the real issue won't get
+solved until we figure out how to green
+light hundreds of thousands and millions
+cuz we are 3.5 million homes short.
+J Cal what do you think? I mean are you
+Well I you know the the truth here is
+that this is not about Atherton. This is
+every town every city in California is
+fighting all development because if you
+fight the development well yeah you
+would obviously have less traffic and
+supply and demand your homes become more
+valuable. The the place that's fought it
+most of all is San Francisco in the city
+where you cannot convert homes, you
+cannot take your Victorian and make it
+into a a town home and then if you look
+at what's actually happening here what
+they're fighting against and you know
+this is the hypocrisy of it is
+you know these are town homes. This
+isn't like a 20-story
+you know giant apartment building.
+They're town homes and they're going to
+be $3 million each and they're not going
+to be for scary people and criminals and
+ruining people's quality of life. It's
+going to be the venture partner or the
+receptionist
+or not even the receptionist it's going
+to be a venture partner. It's going to
+be a CTO at a tech company who's going
+to be able to buy this and then be that
+much closer to work. And so it does reek
+of hypocrisy and there's a really simple
+solution here which is you know there
+are Caltrain stations up and down the
+peninsula. There are you know in some
+places
+you have
+other municipal transportation along
+those corridors.
+They should build up and they should
+build 10-story apartments etc. Redwood
+City did this recently. We've all been
+there and seen the apartments there.
+They're gorgeous. They're 60
+you're talking about you're talking
+about the exact kind of solution we need
+because instead of trying to solve 100
+units here or there, Redwood City did an
+incredible job. They solved it in the
+scale of tens of thousands of units.
+And it completely changed the downtown
+of Redwood City. It is and it's awesome.
+It's awesome and and so what it's afraid
+of. So what it's afraid of. This is
+NIMBYism at its worst in my mind. I'm
+I'm not going to specifically make it
+about Marc Andreessen. I think everybody
+you know has the right to live in the
+neighborhood they want. They they get to
+state their feelings. I think what we
+need to do is convince people and I
+think there's two really good arguments
+here. Number one, do you want your chef
+You're you're saying convince people to
+let their neighborhoods change. Is what
+you're saying? To let them evolve
+modestly to have
+homes that their own children or their
+own chefs and housekeepers and
+associates. We all know people in the in
+the area who have bought apartment
+buildings for their nannies because you
+couldn't get a nanny or you couldn't get
+a chef so you you bought some unit in
+Redwood City and you rented it for your
+nannies or whatever. But we don't know
+all the people that have done Not
+everyone has done that.
+I know multiple
+or who have considered it. And so that's
+the way you would convince NIMBY people
+to to evolve here. And then there's a
+second one. This has to do with work
+from home.
+When you commute
+you know the issues of domestic
+violence, depression, drug abuse,
+substance abuse, alcohol abuse, all of
+that goes way up and it it's it's
+somewhere between 30 and 40 minutes of a
+commute you start to see people's
+quality of life seriously deteriorate.
+And so if we want people to come back to
+offices which Apple just mandated last
+week, everybody's coming back three days
+a week like it or not Tuesdays,
+Thursdays and you pick the other
+Wednesday you want to come to work I
+guess.
+If we want people to come back to work
+well yeah we're going to have to build
+some taller homes. The CEOs, the
+founders of the companies, the founders
+of the venture firms, it's not about
+Marc Andreessen, it's about everybody.
+They don't have to commute. The office
+is within walking distance or a bike
+ride of their office. People need to
+start thinking about their nanny, their
+chef, their firefighter and their
+employees. Jason I I may have misread it
+but it wouldn't have solved the problem
+for the nanny, the chef, the teacher,
+the firefighter.
+$3 million units.
+No they it wouldn't even be that because
+the way that it read cuz I read it said
+that it you would have qualified it by
+building what's called an ADU on your
+property. Yes.
+So people would have people So people
+would have built it for their
+grandmother or their in-law. A lot of
+people are doing that by the way.
+my point is the law the law as proposed
+was already hacked and so it would never
+have accomplished what you were saying.
+I think the answer to what you're saying
+is what Redwood City did. It's what
+towns all around the country should be
+doing which is like in and around
+particularly like transportation hubs
+you should be green lighting a lot of
+dense housing. But Jason those are not
+ADUs that sit on a property. No no.
+Those are those are 500 and a
+And by the way those also required not
+just the infrastructure but it also
+requires the financing and all of the
+you know the banks and construction
+companies.
+to construct it. That's not a problem in
+California. The the opposition is the
+problem which is why the federal I'm
+sorry the state government's getting
+involved and superseding or trying to
+supersede what happens on a local level.
+That's why Gavin Newsom is passing these
+things is because each town is refusing
+to do it. But another possible solution
+is if Atherton is so good at blocking
+this stuff and they have so much money
+let them pay
+a penalty and have Redwood City or San
+Carlos or another neighborhood Millbrae
+that wants money and they want to build
+up. Millbrae is building cuz that's
+where the BART station ends is in
+Millbrae. Just to keep this going.
+They're building up there.
+Well you're describing like are all
+these contortions in what should be a
+more free market for housing
+construction. I mean, the reality is
+we've done so many things to distort the
+market Agreed. with these labyrinthine
+permit process processes that delay
+projects for years and years to um you
+know, to all the taxes and and other
+rules. Yeah. Well, Cuz that's how they
+fight it. They fight it with all these
+environmental stuff.
+zoning is a little different. Yeah, so
+the NIMBYism factors into the permanent
+process, but but I would again, I would
+differentiate zoning. Um but my point is
+just we've like so broken the free
+market for housing that we then come
+along and say, "See, the free market is
+not working. We need more government
+mandates." Look, is this happening in
+Miami? No, go to Miami. There are cranes
+everywhere. They're building
+Houston. They're building multi-family
+or exactly. So, in these frankly red
+cities, red states, which are much more
+lightly regulated, they're building a
+lot more. But at the same time, it's not
+like
+New York, which is constrained, so you
+have to build up. Yeah. But Houston has
+no zoning. Yeah, New York City has
+always had a very non-sentimental
+view towards construction. The city has
+always said, "Okay, if you want to build
+something bigger and better, you can.
+Tear it down and start over." I mean,
+they have like air rights and so on that
+you have to respect, but but New York
+City is never they by and large, they
+don't constantly um
+label buildings as historic and say you
+can't touch them and things like that.
+It's New York City has always wanted to
+keep being dynamic and growing.
+Um so, there are other places that just
+don't have this problem and they're able
+to achieve this growth without building
+an apartment complex like in the lot
+next to you with if you live in the
+suburbs and have a single-family
+residence. I mean, so I I just think
+like the you know, the the politicians
+in California have so thoroughly broken
+the market for housing and now what
+happens is you get an article like this
+that's basically scapegoating the
+residents of a suburb as being the
+source of the problem when they didn't
+create this problem. They're just
+fighting to keep the status quo. So,
+they're perpetuating it. I would say
+it's the best way to
+like so first of all, I've no special
+love for Atherton.
+I lived there for a couple years and
+it's kind of like a Stepford community.
+I mean, I had to move back to the city.
+Yeah, well, I'm like, you know, somehow
+I'm just more comfortable stepping over
+dirty needles and excrement. Um
+You're voting with your dollars. So, I I
+moved back to San Francisco, but
+Masochist.
+Yeah, but look, Atherton's like a really
+weird place because It's like uh Al
+Pacino in The Devil's Advocate. Go
+ahead, Sachs. In in addition to there
+being no sidewalks, there's literally no
+offices, there's no grocery store,
+there's no commercial real estate of any
+kind. There is no downtown. There is
+there you know, so I don't know like
+where the hook is that you would all of
+a sudden put an apartment complex. I
+mean, you're literally going to be
+building it in someone's backyard. So,
+the character of that neighborhood just
+doesn't support it and I think
+you know, people coming together to form
+their own cities, you know, under the
+principle of subsidiarity should be
+allowed reasonable freedom to basically
+construct a city as they want in the way
+that they want to live. And there are
+other cities that competition,
+Friedberg. There's other cities that
+competition. Houston has no zoning
+essentially. So, you can if you have a
+lot and you want to make it into a
+school or uh a hotel or a restaurant,
+you you can do it. And then outside of
+Austin, you you kind of have that same
+thing. People build all kinds of weird
+compounds and stuff out there.
+following any of the
+between those cities and I think San
+Francisco's losing. Yeah, are you guys
+following any of the startup cities that
+are being built where there's like a new
+city being built from the ground up and
+any of those seem like viable places?
+Cul-de-sac, you mean?
+I don't know the names of any of them,
+but
+Cul-de-sac is one, yeah. I mean, are
+these real are these real projects? Are
+we going to see these emerging like
+next-gen cities
+that you know, could be viable places to
+move to and live or is it really just
+about you know, transforming some of
+these cities that are less regulatory
+and that's ultimately what will win in
+the market?
+part of why the the regulation has
+gotten so perverted in a lot of these
+towns is because you've been able to
+gerrymander how you know, these public
+school districts get funded. Yeah. And
+so, you know, why folks are so
+protective of of it is is again and and
+you know, to to underscore one of
+Sachs's points, this is much more
+prevalent in Democratic states and
+Democratic cities where you know,
+coastal elites have really gerrymandered
+these school districts and that's a
+large reason why they uh they don't want
+a lot of building. They want to protect
+the tax base and they want to be able to
+funnel those specific tax dollars into a
+few schools for their kids and that's
+it.
+Yeah.
+And so, it's a it's
+That is actually a really good point,
+Chamath. People don't know this
+undercurrent which is up and down the
+peninsula.
+By the way, this is the dirtiest little
+secret in these in these Democratic
+states.
+Again, mostly Democratic, but if you
+look inside of California and a couple
+of other states, how horrendously
+gerrymandered it is. So that you can
+basically redistrict in a way to cordon
+off tax dollars to only then sent to one
+or two public schools that sit inside of
+your area, your zip code because that's
+what the law says. It's a zip code
+oriented scheme. It's perverse. It's
+created incredibly horrible incentives
+for people. So,
+I think David is right, which is that
+there's a there's a contortion of laws
+that come together
+that underlie some of these decisions
+that then manifest in a petition like
+this and etc. They all need to get
+cleaned up.
+And Chamath, it's it's it's even worse
+than that because the same people who
+have rigged it so that all their tax
+dollars stay in their non-developing
+community,
+then they're overfunding their public
+schools. They could have easily afford
+private, but they're using all that
+money for just their private school and
+the one in the town next to it, East
+Palo Alto, whatever, they have no money.
+And then,
+these people have the audacity to fight
+against school choice so that those poor
+people can't take tax dollars and then
+pick a a better school. So, it's
+hypocrisy all the way up and down and
+you know, I think this is why people are
+largely moving to different places
+around the country and it's a
+competition between states and cities.
+Okay, we're going to go from super local
+to global. Um you know, this is a topic
+I wanted to talk about
+today cuz I want to bring together a
+couple of of
+threads
+and get your guys' take on you know, all
+of these things kind of coming together
+and what it means for foreign policy
+and um how things might play out on the
+global stage in the next um you know,
+call it years to decades. Xi Jinping,
+it's been reported this week
+is taking a trip to Saudi Arabia.
+You know, this is just a few weeks after
+uh Joe Biden made his trip uh to Saudi
+Arabia. I'll read a just an excerpt. Um
+he's going to end his more than two
+years of self-imposed in-person
+diplomatic isolation and his first trip
+is going to be to Saudi Arabia.
+Uh you know, this is uh from unnamed
+Saudi sources. So, it's unclear. This
+isn't an official statement. Uh this is
+just reporting.
+You know, it The Wall Street Journal
+reported in March that after six years
+of negotiations,
+China and Saudi Arabia are getting close
+uh for China to start paying uh um
+uh paying yuan uh for oil that they
+would be buying from the Saudis. Um so,
+there's an important kind of economic
+tie-up that may be emerging that that
+could affect the US dollar and the uh
+the importance of the US dollar on on
+the global economic stage.
+And meanwhile, this week as well, it's
+been reported that China is doing
+military exercises with Russia inside
+Russia. So, there is um an extension of
+China and their influence and their
+economic tie-ups and their military
+activity with both China uh sorry, with
+both Russia and Saudi. I also want to
+highlight another important point that
+came out this week. Uh Saudi Aramco
+reported their earnings. The largest
+earnings ever for a company.
+48 billion dollars of net profit in a
+quarter.
+That is more profit than Microsoft,
+Apple, Facebook, and Tesla combined in a
+single quarter.
+It is the most profitable business. And
+Saudis have been very public about their
+intention of divesting their interest in
+Saudi Aramco, which is their state-owned
+and state-run oil company, and moving
+into other businesses. Over the past
+couple of months, um it's been reported
+that they've accumulated a nearly
+hundred billion dollar equity portfolio
+owning stocks like Alphabet, Zoom,
+Microsoft, and others. It's also been
+reported that they own over a hundred
+and sixty billion dollars of US
+Treasuries. So, the US
+is very dependent in the private equity
+community and the VC community and in
+the public markets on Saudi dollars.
+Saudis have been large holders of US
+dollars. And now through China, it looks
+like the Saudis may be having a tie-up
+that brings them closer to China uh
+through this trade relationship with the
+yuan and the visit from Xi Jinping while
+China is actively exercising um you
+know, their military inside of Russia.
+Is the future a China-Russia-Saudi
+axis? And should we be concerned and
+should we be changing any of our tactics
+on foreign policy, David Sachs, as this
+um you know, set of threads plays out
+over the next couple of months and and
+you know, going ahead? Yes, I think we
+do need to make some changes. Biden's
+backing away from this now, but in his
+first year, he declared the Saudis to be
+pariahs and he did push them into
+China's arms. What was the point of
+that?
+Biden recently had to go to the Middle
+East to basically beg Saudi Arabia to
+increase their production of oil. So,
+he's already acknowledged the policy
+didn't work and one of the reasons it
+didn't work is because simultaneously
+with declaring these allies to be
+enemies, he basically restricted US
+energy production.
+Which is, you know, strategically
+undermined. So,
+And and the US has military bases in
+Saudi Arabia. Very strategic assets for
+the US military. Yeah, let's listen. And
+we sell them weapons.
+The US relationship with Saudi Arabia is
+always going to be complex. They're a
+complicated friend to have, but it's
+much better to have of as a friend than
+basically drive them into China's arms.
+And the reality is, whatever you think
+about the regime there and how
+oppressive it is, first of all, we don't
+get to choose the people running these
+countries. That's the lesson we should
+have learned over and over again from
+all these failed regime change
+operations. Second, do we have any
+reason to believe that if that regime
+got toppled, it would get replaced with
+something better? I think we all know
+that if the regime there fell, it would
+probably be replaced with something
+fundamentalist that we would like even
+less. And certainly if another nation
+were to basically dominate the region
+like Iran, that would be worse for us as
+well. So, our relationship with them is
+complicated, but ultimately they should
+be, I think, allies of the United
+States, and we should not be working
+overtime to push them into China's arms.
+And I think similarly with Russia, we've
+basically declared ourselves to be
+engaged in this proxy war with Russia,
+which
+strategically, there's just nothing in
+it for us.
+You can sympathize with the people of
+Ukraine all you want, but it's
+dangerous. You've said that in the past.
+I mean, I think the question is, does
+this China military exercise in Russia
+indicate an escalation of our conflict
+with China to you?
+Um, you know, or is this something that,
+you know, just kind of par for the
+course in terms of
+you know, uh, neighbors, you know,
+conducting
+Mearsheimer just had an article in
+Foreign Affairs talking about uh, the
+Ukraine war, reminding us that it's
+still going on. I think people somehow
+think that this war is just stable and
+it'll settle into forever war status,
+kind of like like Afghanistan. These
+conflicts in the Middle East have just
+gone on forever. It's actually very
+dangerous. It could always escalate out
+of control.
+And as long as it's going on, I think we
+just have to remember that it's going
+on. It poses a huge global risk. And I
+would say that
+one of the things that, again, we should
+be aware of is this idea that even
+though we have problems and conflicts
+with multiple nations, we still don't
+actually want to push them into each
+other's arms. Again, the Soviet Union
+and China during the Cold War being the
+key example. I mean, this principle of
+geopolitics goes back thousands of years
+to the Romans, right? Et divide et
+impera, divide and rule. You do not want
+to unite your enemies. And what we've
+done here is we keep pushing them
+together.
+You know, China and Russia historically
+have not been friends. They share long
+borders together. Neighbors generally
+have problems with each other. These are
+nations with serious conflicts or
+differences of interest, and we've made
+it really easy for China to to turn
+Russia into the junior partner in that
+relationship.
+Chamath, do you think US foreign policy
+needs to change and that we're setting
+up this, you know, um, axis of conflict,
+um, this this axis of allies, uh,
+that we don't want to have the allies
+and, you know, would you kind of
+advise and and also, you know, do you
+get concerned about this
+oil yuan trade, where there may be some,
+you know, economic tie-ups that that
+really could affect, uh,
+uh, you know, the the dollar as a
+reserve currency? Look, couple things. I
+I think it's really dramatic to kind of
+paint it in these stark kind of like
+bipolar terms. I think we are post all
+of that. So, I I understand how in the
+Cold War, it was easy to fall into
+binary definitions of good and evil, one
+and zero, us versus them, team A versus
+team B.
+But in 2022, I don't think that's how
+things work anymore. We're in a highly
+interconnected, highly global world.
+It's very complicated. Uh, dollar flows
+are real time, they're massive.
+Cooperation is real time, it's all over
+the world, it's with every country. So,
+it allows every country actually the
+first chance that they've ever really
+had
+to maximize their own potential for
+their own citizens, and that's really
+what every country's goal is.
+Right? And so, in that lens,
+look what just happened today.
+Gazprom said they're going to shut off
+Nord Stream 1 just for a, you know, a
+few days, right? But as a result of
+that, EU nat gas has just gone
+absolutely nuclear and just closed at
+all-time highs.
+14x, 14x where it was pandemic,
+uh, you know, price per unit for year
+ahead. So, if you So, if you take a step
+back,
+we are at max energy production with all
+of the capacity all around the world,
+100 plus odd million barrels a day.
+Okay? Global productivity absorbs that.
+There is very little room right now to
+expand that without pushing the date in
+which that capacity is available
+out until, you know, 2028 to 2030. So,
+effectively, a decade from now.
+So, if you're in this situation and
+you're a country with vast natural
+resources, of which I'll just remind us
+America is one.
+I think the most important thing you can
+do for your own citizens is to monetize
+these petrochemicals now.
+Get it out of the ground in a reasonable
+way.
+Sell them in the marketplace because
+there's demand for it.
+Take that money and reinvest it in your
+people.
+And I think if you look at it that way,
+the best run countries are responding to
+this moment in time like any company
+would. How do you maximize demand and
+sell the product you have to the most
+number of customers globally?
+And so, I think the Middle East is doing
+an incredible job. The US, by the way,
+by passing the IRA,
+finally, I think, is on the right
+footing because, and we can talk about
+this in a moment, but the path to
+permitting and the path to clean up, and
+by the way, it puts fossil fuels
+on a level playing field with
+with clean energy alternatives. Emerging
+alternatives, yeah. The best thing that
+could have happened, okay? So, I think
+we're all behaving in a very rational,
+market-focused way.
+And so, I would focus less on trying to
+dramatically kind of resolve these
+things as a few countries versus
+everybody else. I don't think that's
+what's happening.
+Yeah, much more complex. Much more
+complicated than that. But I think this
+this simple explanation is people with
+resources in the ground of the country
+in which they rule have a
+responsibility, if they believe that
+there's market demand to absorb that, so
+that they can take the revenue that
+comes from it and reinvest it in their
+people.
+That is true for the United States, it's
+true for Saudi Arabia, it's true for
+every country in the world. Yeah, I
+mean, Saudi Arabia is clearly making
+these investments, right? Not just on,
+Yeah, and by the way, I mean, like
+also housing and new industry and
+education. And then by the way, Saudi
+Saudi Arabia is becoming And Saudi
+Arabia is becoming much more liberal as
+a result, too, right? The education
+standards, yeah. And and And if you look
+at the investment, like, you know, you
+didn't You You didn't need to go to Dave
+Swensen and understand portfolio
+allocation, although I think the guys in
+Saudi are smart enough to have probably
+done it. But
+if you're If you have a lot of money
+coming from one kind of business,
+and you need to make sure that you can
+diversify so that you can reinvest over
+a long period of time. If you look at
+countries that had huge
+petrochemical-related revenue flows, the
+Nordics, what did they do? They stood up
+these huge sovereign wealth funds, and
+those sovereign wealth funds went
+abroad, and they bought all kinds of
+non-correlated assets to those
+petrochemicals.
+That is the same thing that Saudi's
+doing now.
+Financial Financial security for their
+people. But it's like it's like what is
+the furthest uncorrelated asset from
+oil? It turns out it's Apple, Facebook,
+Meta, and Google. And US US Treasuries,
+yeah. Yeah, Uber. Hey, J
+So, J Cal, let me Let me ask this
+contrarian question for you because you
+you often talk about the
+authoritarianism, uh, of these states,
+Saudi, China, Russia.
+You know, it seems to me as we observe
+what's going on in Saudi, and maybe the
+case could be made in China to some
+degree, although there are steps taken
+back, but also in Russia, that the US
+influence, the the the economic and the
+political influence associated with
+these these foreign policy conversions,
+could they maybe be driving these these
+these countries to be more liberal? You
+know, we're seeing in in Saudi now that
+women can drive, that there's new
+industry, that there's education, that
+there's a technology industry booming,
+that the You don't need to have a
+turnover of government and a turnover of
+what is often classified as
+authoritarian regime for the operating
+model to be influenced by the West in
+such a way that change happens more
+slowly, and you do see liberalism emerge
+in these countries with better
+educational standards, more equality,
+more more human rights.
+And so, do you think we're kind Cuz you
+often kind of paint a picture that it's
+bad guys versus us. You know, do you not
+think that we're making an influence on
+these places locally and that we're
+seeing that
+I would take exception to like it's bad
+guys versus us. I don't I don't think we
+want to create a legion of dictators,
+and nor do I think that's what this is.
+I would actually agree with Sachs. We
+should be embracing these folks, um, and
+having strong relationships with them,
+even though we are fundamentally
+different, uh, operating systems for our
+countries, democracies versus
+we should be embracing we should be You
+So, you think we should have a
+relationship with Putin? Just to 100%. I
+mean, and we did, right? I mean, uh,
+Obama was making some progress on that,
+and we we did some great work, um, when
+And obviously, Trump has a very, very
+long-standing, very deep, we don't know
+exactly how deep relationship with, uh,
+Putin. And we we did great work with
+We I mean, they did the He did his
+pageant over there. I'm making some
+jokes. They bought a lot of apartments
+there. Yeah, that was a That was a joke.
+Okay, go on. Just a little joke there,
+but who knows what will happen over
+time, I suppose. Okay. But we did great
+work with China in terms of containing
+North Korea's
+nuclear, uh, ambitions, right? And so,
+there are things we can collaborate on.
+I think the most important thing though
+is that while we are embracing them,
+building fabric between them,
+communication, trade, whatever it is, we
+are not relying on them. And that And
+that's really what we have to look at
+when it comes to the kingdom because if
+not for the fact that the kingdom won
+the, you know, born on top of, you know,
+oil fields, uh, lottery, we would not
+be, uh, in a deep relationship with this
+country. They're living under a 10th
+century
+you know, rule uh in terms of how they
+treat women, gay people, etc. And the
+human rights is an important issue.
+And we wouldn't have a deep relationship
+with them if we didn't have to deal with
+the oil, but we do. And so,
+what I think we really need to be
+focusing on here is maintaining great
+relationships with them. Yeah, we don't
+want to drive them to each other's arms,
+but to Chamath's point, I I don't think
+they're creating the Legion of Doom to
+take on the US. I think they're just
+doing what's in their economic interest,
+and we need to do what's in our economic
+interest, which really is investing in
+nuclear, investing in solar, batteries,
+wind, and even and wrist jewels. And
+that means what's in the interest of the
+free world. And Europe, exactly.
+And if we are independent of them, then
+we don't have to go over there and kiss
+the ring like Biden had to do. We don't
+have to, you know, deal with excuses
+uh when they do horrible things like
+murder Khashoggi or, you know, just this
+past week they put uh Salma al-Shabab in
+jail. She's a PhD student uh from the
+University of Leeds. She's now going to
+go to jail for decades because uh when
+she went back to Saudi Arabia on
+vacation, this happened last week um
+gentlemen,
+because she retweeted people. And so,
+these human rights violations, the
+murder of Khashoggi, all these things
+add up, the Uyghurs, etc. And and we'll
+have a better ability to negotiate and
+lead them as the shining city on the
+hill when we work on being that shining
+city on the hill and we're not dependent
+on them. And that's really what I think
+we have to focus on is reducing the
+dependency on these countries. I think
+we all agree on whether it's medical
+devices, PPE, drugs, making our iPhones
+or or oil uh to keep us running. And
+then so does Europe. And that's where
+nuclear comes in. Speaking of reducing
+dependency, you know, uh Joe Biden
+signed the Inflation Reduction Act. Some
+people have said this is the most
+important bill signed in years if not
+decades
+uh by uh
+you know, um passed by US Congress,
+signed by a president because it touches
+on
+so many points um that folks believe
+will really move the needle with respect
+to climate change.
+Chamath, I think you made an interesting
+point in our group chat, and I think
+maybe we should start there, which is,
+you know, at the end of the day,
+the systems of industrial production on
+planet Earth
+were made in such a way that we never
+accounted for the costs of the external
+output of these systems. Meaning, we can
+burn fuel, put CO2 into the atmosphere,
+or put methane into the atmosphere in
+the case of animal agriculture,
+and we get a low-cost product that we
+consume, and ultimately no one
+specifically pays for the cost of the
+carbon going into the atmosphere, which
+I and, you know, many scientists would
+argue is having an anthropogenic effect
+on
+um the warming of the planet and and
+more catastrophic weather and and and
+all these other risks that we're now
+facing. And so, the idea was, you know,
+first principles, you should tax people
+for tax industry, tax businesses for the
+production of atmospheric carbon that
+causes an effect that we're all going to
+have to pay to repair over time.
+So, you know, is that a point of view
+that you hold, Chamath, cuz you know,
+you kind of brought this up in our group
+text, but that's the that would be the
+the ideal scenario to resolve climate
+change is if you just tax carbon, we
+kind of, you know, have our have a real
+solution here, and that this whole bill
+is ultimately uh you know, meant to kind
+of resolve the fact that we simply
+cannot find a way to a carbon tax. I
+actually think that what this bill did
+was killed the idea of a carbon tax. I
+think it makes it completely
+unimportant, and it'll never see the
+light of day. Why?
+I think it's because
+in the absence of what we did in the
+IRA,
+there wasn't a clear way of doing
+exactly what you said, which is letting
+people figure out what the equivalent
+trading price would be for burning a
+pound of coal versus, you know,
+generating the energy needed to run
+something off of nuclear. There was no
+market clearing function for that.
+And the reason is because you couldn't
+get an equivalent amount of capacity
+effectively available online so that
+they could compete one for one.
+What we did through this IRA was
+essentially use money
+to create so many subsidies,
+and then to also green-light the way
+that incremental fossil fuel projects
+would come to market.
+So that now they're actually going to be
+put on a level playing field
+in the broad open market so that they
+can compete. When that happens, I think
+you will make those trade-offs better
+yourself, and as a result, I don't think
+that there will be a an a necessary
+offset
+mechanism that'll be required.
+Because this plan will still get us to
+about 40% of the way there where we
+wanted it to be by 2030, which is still
+a pretty decent leap forward.
+There is no plan that gets us to where
+we all need to be anyways,
+and I think that the appetite to go from
+this plan to where we need to be
+doesn't really exist.
+So, I think that we're just going to
+have to kind of grit our teeth,
+get through the implementation of the
+IRA, and realize that this is the
+beginning of a probably 100-plus year
+project. Nothing's going to get solved
+by 2050.
+Maybe you'll see something done by 2100,
+probably not.
+It'll probably be a 2150, 2200 kind of
+an objective. And in that lens, I think
+like a whole bunch of business models
+got turned upside down. So, I think
+carbon markets and carbon trading are
+not going to be the thing that we
+thought it was going to be.
+I think stuff like direct air capture
+again are going to be toy projects off
+to the side. I don't think that those
+are Those are not Those are not going to
+be credible businesses like we thought
+they were going to be.
+Instead, the raw tonnage of dollars will
+do what America was able to do for solar
+and PV over 2000 to 2022, which is just
+crush the cost per watt into the pennies
+so that it can be equivalent to hydro,
+coal, and nuclear, and put everything on
+a level playing field, and then allow
+the market to figure it out.
+Yeah, I mean, there's a lot of other
+stuff in this bill
+I I want to highlight for you guys. I
+don't know if any of you looked at the
+CBO. So, the CBO, the Congressional
+Budget Office, anytime a bill is being
+um voted on, they do an accounting
+analysis on how much spending and how
+much revenue there will be as a result
+of this bill for a 10-year period.
+awesome. Yeah, I checked it out when And
+so, if yeah, if you look at every year
+for the next 10 years, the CBO score for
+this bill is that we're going to spend
+an incremental We're going to increase
+the deficit by $330 billion for the next
+5 years. And then we're going to
+decrease the deficit by $320 billion in
+the 5 years after that. So, the net
+effect over 10 years is we're only
+spending $17 billion
+on the uh on the bill. And then on the
+revenue basis, the expectation is we're
+going to generate $67 billion in revenue
+in the first 5 years, and then another
+$20 billion in the in the back 5 years.
+So, this is actually
+being accounted for and presented as
+deficit reduction. And that's because
+there's 87,000 new IRS agents being
+hired to go out and audit people and
+find new revenue, and there's a 15%
+corporate minimum tax being imposed on
+all companies. And what this means is
+that companies, public companies,
+private companies doing over a billion
+in revenue historically paid taxes on a
+book basis, now they're paying taxes on
+a financial statement basis, meaning the
+actual accounting that they present to
+their shareholders.
+Can I can I ask you guys a question?
+How much was given to the IRS?
+87,000. Yeah, yeah, tens of billions,
+yeah. 80 billion.
+How much do you think it would cost,
+I don't know, pick your pick the pick
+the most excruciatingly expensive
+third-party outsourcing firm you could,
+okay, to build an entire system to
+basically automatically review every
+single tax return and throw exceptions.
+And machine learn and machine learn
+what fraud looked like or what
+misrepresentation.
+I I let's say $5 billion. It'd be the
+most expensive It'd be the most
+expensive piece of software ever
+written.
+And this is what was so kind of like
+That was the only part of the bill that
+made not less sense to me. I think like
+if you put really smart computers on the
+case, or gave it to DeepMind at Google
+and said, "Can you guys build this the
+system with machine learning and AI?"
+You'd be done. tax and a simpler tax,
+which I guess this is trying to do. You
+But you know, Freeberg, when I looked at
+this and you sent it, my initial
+reaction was,
+you know, this old adage,
+impossible for these guys to find 87,000
+humans that want to work at the IRS,
+number one. By the way, there's a funny
+video on the recruiting that's been
+going on for that, but yeah, go ahead.
+Yeah, it's pretty crazy. I mean, you
+know, because like they were they were
+asking for people who were ready to like
+have guns and like put their body in
+harm and it's like at the IRS.
+I I was like, "That that can't be real."
+Anyway, the greatest This is what I got
+from this Excel spreadsheet. The
+greatest tool for writing fiction is not
+Microsoft Word, it's Excel. Like, there
+is no way this thing is netting out to
+zero. Like, this thing's going to cost
+us a fortune. Government is in shambles.
+We don't know what we're doing. I
+thought that the links you sent for the
+podcast with the pros and cons of um the
+carbon tax was really interesting
+because it is so complicated. When I
+heard these tax experts explaining how
+you would implement a carbon tax, and
+the import and export, and then how
+often it would have to be tweaked, and
+then who decides what your corporate
+footprint of your watches, and and where
+did the minerals come from to make the
+watch, and who gets paid on carbon, it
+just seemed to me is a fool's errand.
+It'd be much better to just
+What if your watch is made from diamond
+and not carbon? Well, in that case, you
+should just pay a million dollars
+because you are the latest coastal
+elite. And we should just start with
+yachts and watches. Oh my
+What I realized was
+what we really need to focus on and you
+tell me what you think,
+Friedberg.
+Instead of doing this carbon tax, which
+seems incredibly elegant, but we all
+know it's impossible to get consensus
+across hundreds of governments and
+locals to to to negotiate this. It'll
+never happen, at least not effectively
+and in real time.
+Wouldn't it be a much better
+technique to do what we do in venture,
+which is here are the biggest problems
+in the world. Here are the which you in
+this case would be the biggest emitters.
+Here are the best solutions. Here are
+the teams working on the best solutions.
+Let's give the teams working on the best
+solutions money to work down that list
+and if it happens to be, you know, ships
+coming from China, you know, with a
+bunch of containers on them and
+container ships,
+we we measure that. And it you know, the
+the thing I've learned after the first 6
+months of investing in carbon cuz we
+have a syndicate now with Molly Wood
+who's working with me on
+this climate syndicate. We couldn't find
+a lot of great investments
+you know, that made sense that weren't,
+you know, asset heavy. But then we
+started to find
+we found two great monitoring companies
+and they're monitoring air pollution and
+they're monitoring ship pollution and we
+made investments in both of those and
+that seems to be where we're at is we
+should be monitoring and figuring out
+where the carbon is and then trying to
+solve it
+based on which ones are the easiest to
+solve. Let me just say two things on
+that. Bill Gates has done a great job of
+this. You can read his latest book or go
+to Gates notes and he's done exactly
+what you described, which is break it
+all down, show what we should do. And
+that's actually how he's investing his
+own money. He's putting his money where
+his mouth is. So
+there's a really good blueprint for
+this. He's done the best job of anyone
+I've seen. The issue with the carbon tax
+is you have to come up with a consistent
+reliable way of measuring the carbon and
+then you have to do it consistently and
+broadly. How do you miss you know, if
+you miss one factory or another, then
+you have to ratchet up the price over
+time. So first thing is the challenge of
+how do you agree on measuring? Second is
+how do you agree on broad
+accountability? Third thing is how do
+you ratchet the pricing over time?
+Fourth thing is how do you deal with the
+offshoring problem? As soon as you start
+taxing companies in the US for carbon
+emissions, all the production's going to
+go offshore where they're not taxing for
+carbon emissions and there's no way to
+account for what they're doing offshore
+and this has been the challenge with
+China and India and so on.
+because it's part of your first problem.
+Yeah, sorry. Let me just hit the final
+one. We'll come back to it, but the
+final big one is just the equity in
+carbon tax. People have said that the
+ultimate increment in cost of production
+is going to adversely affect lower
+income people because they cannot afford
+the price of some stuff going up by 25
+to 50% and it's really, you know, a
+luxury good a luxury kind of privilege
+to be able to pay for the incremental
+cost of stuff to account for the carbon
+offset needed. So that that's that's the
+set of issues that have been pushed back
+against the carbon tax and it's why it's
+been impossible to get implemented and
+to really get into market. Sorry,
+Chamath, go ahead. No, I was just going
+to say part of the the problem in in in
+all of those issues if you offshore is
+still that there's people pushing for
+what's called the scope three
+accounting, which is like, you know, you
+got to go back to your supplier and your
+supplier's supplier and your supplier's
+supplier's supplier. Where does it end?
+It's impossible. Where does it end? It's
+it's not credible. So, you know, I think
+that the bill
+has actually cleaned up a lot of future
+question marks about what we have to do
+as a country to go about doing our part
+for climate change and I think it
+probably creates a reasonable blueprint
+for everybody else and now they're going
+to have to do some version of the same
+thing. And what's amazing is that if we
+actually pass this framework, which is
+still yet to be written
+around how to make permitting more
+seamless and efficient for these
+hydrocarbon projects, it will really
+unleash
+a massive torrent of both revenues back
+to the United States.
+It'll increase our national security
+and it'll allow us to really kind of put
+a dent in this thing because it'll pull
+forward the amount of competition that
+it creates to actually get off those
+hydrocarbons, which is a I'll tell you I
+got I I got a notice from someone who's
+an investor So there's a lot of climate
+tech funds now. A lot of funds Jake you
+said you got a syndicate in carbon, but
+there's a lot of funds and a lot of
+investors that are putting a lot of
+capital just into early stage climate
+technologies,
+which travels everything from energy to
+materials to food
+industrial and manufacturing and so on.
+And I I got a note from one of
+these these these companies a startup
+that highlighted that the dollar 25 per
+gallon credit a tax credit for you know,
+clean production of fuel,
+which can which has to demonstrate a 50%
+emissions reduction in the manufacturing
+process will now make this startup
+profitable. And by the way, you get an
+extra penny per gallon for every 1%
+reduction in emissions below that 50%
+threshold.
+And so there's a lot of startups that
+I'm hearing about that their unit
+economic models were questionable
+before. Now because of this bill, they
+are flipping profitable. And so I
+personally think we are going to see a
+significant influx of venture capital
+and support for a lot of these climate
+tech and you know, new energy material
+and manufacturing projects that
+otherwise may have been held back
+because the subsidy will kickstart. The
+question for me that I still don't have
+a good answer to is are they
+sustainable? Over the long run, if this
+bill gets shut down or repealed and the
+funding sources stop and the subsidy
+stop, do these businesses survive or are
+we simply creating regulatory capture
+models like we did with other energy
+products in the past and with food? If
+you're not contribution margin positive
+today
+pre this bill in climate change
+and the bill is the only way that you
+get there, you're DOA. You just don't
+know it. Great point. Yep. Sachs, the
+biggest line in this bill is the
+corporate minimum tax. I don't know if
+you saw this, but 15% minimum tax
+applied to the accounting profit
+reported by any company over a billion
+dollars. And they're estimating it'll
+generate 313 billion of incremental tax
+revenue over the next 10 years.
+Do you have a point of view on whether
+this corporate minimum tax is going to
+cause an issue with startups and
+companies going public or valuation in
+the public markets or is this just, you
+know, hey, this should happen and it
+doesn't matter. I mean, I don't know if
+you spent much time on this.
+Well, no. I mean, I I think the the
+issue here is that why is it that these
+companies are able to pay so little
+taxes? Well, the reason is cuz there's a
+zillion loopholes and incentives and tax
+breaks in the existing code that they're
+taking advantage of. I mean, these large
+companies have lots of accountants and
+lawyers. They're not deliberately
+violating the law. They're scrupulously
+adhering to it and taking advantage of
+it. So it's all these tax breaks that
+they're able to use to pay no taxes.
+Well, what does this bill do? You talk
+about the the spending on climate, you
+know, the 386 billion. Most of it is tax
+incentives and some block grants. So
+this is now the preferred form of you
+know, quote unquote spending in these
+bills are tax credits and incentives.
+This is the way they're going to change
+people's behavior. So in other words,
+the bill on the one hand is complaining
+that corporations don't pay enough taxes
+cuz there's too many tax breaks while on
+the other hand creating a whole slew of
+new tax breaks. So there's a little bit
+of a contradiction there. Again, why do
+all why are companies paying no taxes?
+Because of the last 10 bills tax breaks
+that were supposed to
+move the behavior of businesses and
+consumers in a certain direction. So
+just recognize that that's the case.
+I think you also made a really good
+point about the phantom deficit
+reduction here. So like you mentioned,
+and we see this in lots of bills, all
+the excess spending, all the deficit
+spending occurs in the first 5 years and
+all the deficit reduction occurs in the
+last 5 years. Something always
+intervenes to prevent the
+savings from taking place.
+like startup projections, right, Sachs?
+Yeah, it's like we're we're going to
+my sales guy.
+We'll cut the budget next year, you
+know? And so just to give one example of
+this. So this ACA subsidy extension. So
+this is the Obamacare subsidy. It's
+about 60 something billion a year.
+They're extending it for 3 years, but
+they're assuming it's just going to die
+at that point as opposed to keep being
+extended. And no one's going to want to
+vote to make that go away in 3
+years. Just that one item alone makes
+the deficit reduction in this bill go
+from 305 billion over the 10-year period
+to negative 155 billion. So just that
+one item if you continue it and don't
+sunset it, just that one thing makes
+this
+a hugely deficit not reducing bill, but
+deficit increasing bill.
+And so you wonder what problem is this
+bill really solving and they can't seem
+to agree on that. I mean, first they're
+telling us it's a deficit reduction
+bill, then they're telling us it's a
+climate bill, then they're telling us
+it's an inflation reduction bill. It
+seems to me that if they were really
+proud of this and believe in it, they
+would choose a name for the bill that
+actually reflected what it was. Well,
+all bills would be named something for
+everyone, Sachs. I mean, like that's how
+all these bills get in order to pass a
+bill bipartisan bill, you got to give
+something to everyone. I mean,
+But this is mostly, you know, this is
+mostly a climate related bill. You know,
+this is mostly this is mostly tax breaks
+and block grants related to I mean,
+there there's a huge tax issue with the
+the the IRS agents and the corporate
+minimum tax, but there's also a huge
+component on prescription drugs.
+Chamath, I don't know if you spent any
+time looking at this, but
+Sorry, just on the IRS agent. Can I can
+I say add one detail on that?
+Yeah. So the claim of the administration
+and the sponsors of the bill is that
+this would not increase taxes on anyone
+sort of middle class. And so the
+Republicans, I think this is one of the
+few politically smart things they did.
+They introduced an amendment basically
+prohibiting these new 87,000 IRS agents
+from conducting audits of anyone making
+less than $400,000 a year, which was
+what Biden said, you know, he wouldn't
+increase taxes anyone below 400,000.
+That amendment was rejected on straight
+party lines. So this idea, yes, it's
+called the Crapo amendment. It It 50/50
+and Vice President Harris had to come in
+and and make the tiebreaking vote. So
+obviously they know that there's going
+to be a lot of net new audits on people
+making less than 400. Yes, exactly. So I
+mean my understanding of this is it's
+like small business owners, people who
+run a small business and a service
+business and are they really accounting
+for their books correctly? Are they
+really expensing the right things? Etc.
+Are they accounting for
+Yeah, they're going to get ramied by
+this because look, let's face it,
+billionaires are already getting
+audited. You know, Elon had a tweet
+saying, "Listen, I get audited as a
+matter of course every year." You know,
+these people already have So yeah. Dude,
+I use a big four accounting firm. Yeah.
+I mean this is I mean the amount of
+overhead this creates is crazy. I have a
+partner at like Anderson that is
+literally like, you know, covered me
+like it covers a Fortune 500 [&nbsp;__&nbsp;]
+company.
+Put him in your your your Put him in
+your It's it's it's tens of people. I
+mean, by the way, Sachs Sachs is right.
+Like, if if you look at them,
+you know, the ultra wealthy,
+I I think it would be I would be shocked
+if any of those folks were actually
+evading taxes at all cuz it's impossible
+the way that this infrastructure runs.
+Like, you know, you're getting K-1s from
+Blackstone. What are you going to do?
+Are you going to change that? Like, you
+know, like do you guys even know the PIN
+number of your bank card? I have no
+idea. It's so complicated. Yeah. Okay,
+so so my point is I don't think that if
+there is if there is cheating of taxes
+it's happening at that level.
+What's happening at that level are much
+more structural issues like carried
+interest which they decided not to
+touch. Trust and estate law. Trust and
+estate Those are Those No, I don't think
+that This my point. It's not mistakes.
+There's nobody with a pencil really
+filling out a K-1 for Bill Gates, dummy.
+That's my point.
+No, I know, but people can make
+mistakes. What if a K-1 gets left off?
+That's what I'm saying is when they find
+something it's usually easily Okay,
+doesn't happen. Doesn't happen. Jason,
+when I get my tax return it's it's done
+by an accounting firm and I just sign
+it. I don't I don't do anything.
+know that. What I'm talking about is
+what are the IRS people going to find?
+Is, you know, Well, I'll tell you what
+they're going to find. They're going to
+find a lot of They're going to find a
+lot of middle class and upper middle
+class folks and they're going to have to
+focus on them because
+individually it may not represent a lot,
+but when you multiply it by the number
+of people inside the United States and
+this is what the Wall Street Journal and
+a bunch of other folks have been saying
+now. When you apply 87,000 people and
+task them incrementally with doing a
+job,
+it's not going to touch these folks that
+are already audited. It's going to touch
+the folks that are not audited and by
+and large a much, much larger majority
+of middle income and upper middle income
+people are not audited, which is why I
+think you could spend a lot less than 80
+billion dollars and just build software
+that guarantees only those that should
+be audited are
+and uses machines to help figure out
+these leaks.
+Or start simplifying the tax code
+because when you add this 15% minimum,
+Friedberg, what is that going to do to
+the strategy of a public company? Okay,
+so we should show less earnings, put
+more to work. Oh, we're not going to be
+able to depreciate this or, you know,
+whatever. I mean, it's going to create
+all these second and third order impact
+impact that we don't know.
+Well, I think Sachs's point is
+important, which is one that we don't
+yet have insight into, which is what is
+this going to cannibalize? Because
+ultimately if there is a minimum tax, it
+doesn't make sense to pursue um
+incentives that create a tax break
+today. And therefore those incentives
+won't be invested in. Whatever those
+incentives are, I don't know what they
+are, you know, low income
+uh manufacturing zone development or
+whatever, who knows um you know, what
+they are um you know, come and build
+your business here and get tax breaks,
+etc. etc. Local, state and federal tax
+breaks.
+Um if those start to um get written
+over, then there's going to be really
+adverse effects and I think that that's
+something to watch. I don't understand
+it well enough. Certainly I'm not an
+accountant, but I I I I would be kind of
+uh worried about it and keeping an eye
+on that front. I I do think the bigger
+question, which is a biotech one,
+the prescription drug price cap
+minimizes the profit that a number of
+pharmaceutical companies will be making.
+It gives uh authority to go and
+negotiate prices. This is the second
+largest line in the bill.
+And there was a survey done
+by healthaffairs.org
+on uh an R&amp;D survey which said, "Will
+you guys reduce your
+your investment in new drug
+development?" And I think that they came
+based on this bill and I think that they
+came up with some estimate that there
+would be um two
+uh the number two fewer drugs um that
+would be kind of, you know, made
+available per year because of reduced
+spending
+as a result of the price cap, which
+basically reduces revenue, which will uh
+in essence reduce R&amp;D investment. You
+know, uh guys like Bernie Sanders will
+say, "Hey, that's not true. All that
+money's going to share buybacks and
+dividends uh and so on." But it is a
+fact that those share buybacks and those
+dividends will still continue and if
+they are reduced, so will the R&amp;D
+expense. And if the R&amp;D expense is
+reduced, fewer drugs will come to
+market.
+And so, you know, there's also a
+question mark and people will debate
+this for the next decade, which is how
+much will this prescription drug price
+cap actually have an effect on R&amp;D
+investment and ultimately on new drugs
+that come to market. Can I say
+something? Sorry, let me just say my
+personal opinion is I don't think that
+this will have a huge effect. I think
+this is an excellent part of the bill. I
+think that the government should have
+authority to go and negotiate. They're
+the largest buyer of these drugs and
+typically when the US government the
+federal government steps in to be the
+largest spender on a particular line,
+the cost of that line balloons like
+we've seen in healthcare,
+like we've seen in education,
+and like we've seen in military and
+defense spending.
+And so I I'm hopeful that this will
+actually provide a more effective market
+force in allowing the biggest customer
+in the market to negotiate prices.
+And that the the VCs instead of making
+48% IRR, they'll ultimately make 28% IRR
+on the investments that they're making
+in biotech startups.
+Well, hold on. What what what what what
+what exactly does it mean for the
+government to negotiate prices as
+opposed to the government just to fix
+prices?
+I mean, isn't this just price fixing?
+Well, in this in this example, who do
+you think is the right answer if they're
+the largest single largest customer,
+Sachs, right? I mean,
+you know, and then they are the market.
+I mean, what's the right thing to do?
+Well, I mean, you're you're saying that
+these drug companies are going to make a
+lot less money. Well, obviously that's
+going to have a downstream impact in the
+willingness to fund new drugs and new
+new invest new R&amp;D.
+Yeah. Now, no one likes pharma
+companies, so I'm not defending
+exorbitant profits or whatever, but I
+don't really know what it means for the
+government to say they're negotiating. I
+mean, the government just tells you what
+it's going to be. And that's price
+fixing. And these companies are going to
+adjust. Yes, the government will pay
+less money in the near term. In the long
+term, there could be reduced investment
+in R&amp;D.
+I think there'll be a balance of, you
+know, do you Don't all governments,
+Chamath Don't all governments I know
+that you're close to some of these uh
+drug companies. Don't all governments
+negotiate
+um the purchase of these drugs and then
+if they don't like the price there are
+alternative drugs and they'll say, "Hey,
+listen, your drug is too expensive
+compared to these other two solutions,
+so we're going to buy this one primarily
+for our universal healthcare."
+There's this interesting thing that
+happens, which is that there's a there's
+these drugs that are proprietary and
+under patent, okay?
+These could be chemical drugs or they
+could be biologics, okay?
+And eventually what happens is when they
+go generic, then folks will step in and
+make lower cost versions of those
+generics. Like, you know, I mean, I'm on
+a statin. I think a couple of you guys
+are on a statin. Like, I don't it it
+it's it's Lipitor, but it's not Lipitor,
+right? It's atorvastatin. It's like some
+generic drug that I just take, okay, as
+an example. Um and uh
+there's a lot of folks that make that
+and the cost of those pills basically go
+to zero. But there's a bunch of
+categories, particularly for biological
+drugs, where it's very different it's
+very difficult to make a what's called a
+biosimilar. This is a generic drug. So
+long and short of it is there's all
+these classes of drugs that kind of like
+stand alone without enough competition.
+And I think there are two ways to solve
+this problem. One is where the
+government steps in,
+which I think is is good, but the better
+way has already is already been
+happening in the United States. So, you
+know, there's a nonprofit, which is a
+collective between a bunch of hospitals,
+called Civica. And I think that's a
+really interesting example. And what
+those guys do was they said, "We're just
+going to create our own generic drug
+manufacturer and we're going to make the
+drugs we want. We're just going to make
+them super cheap." And, you know,
+they're they're in the midst right now
+of completing a massive facility uh I
+think it's in Virginia where they'll be
+able to make as much insulin as is
+needed for the entirety of America
+for no more than 35 bucks a dose.
+That's gangster. That's gangster. It's
+super gangster.
+We'll make our own.
+And by the way, when California said
+they're going to make their own, what
+they really meant was that they're going
+to go and RFP it out and my hope is that
+they end up going with somebody like
+Civica who has the experience of
+actually building it. Otherwise it's
+just going to California's just going to
+waste hundreds of millions of dollars.
+if you don't know what RFP is. Request
+for proposal.
+Yeah. But there are these emerging
+nonprofits that are basically doing the
+work of the government. I think that's a
+better solution to what Sachs is
+actually Competition, right? Yeah. It's
+kind of creates competition.
+Yeah, competition.
+We got to move along cuz I think
+We're doing a great job, Friedberg,
+right? Just one moderator to another,
+exceptional job. You know, I appreciate
+it. I think one of the interesting
+things sitting in in your seat, Jay Cal,
+is you see everyone else's face and you
+see the boredom and the annoyance that
+people experience during the the pod.
+Leave for a drink. I think I think
+Chamath is eating Funyuns. Uh Sachs is
+doing something. jerky
+you shouldn't be don't tube it on the
+podcast please.
+Don't what? Don't do it Jeffrey Tubin on
+this podcast.
+Jeffrey Tubin was a CNN anchor who on
+Zoom accidentally
+no he masturbated on a zoom call with
+his what the [&nbsp;__&nbsp;] does that have to do
+with beef jerky? You said jerking and I
+just no I said I was eating jerky dummy.
+You said you were jerking something
+that's all I heard I'm sorry. Oh by the
+way so I am no longer fighting with Phil
+Hellmuth. I oh my God guys.
+No so I was so mad at him.
+Okay so you know I finish I finish this
+transaction
+I finish
+I finish the [&nbsp;__&nbsp;] transaction to sell
+the Warriors. You know this is a this is
+a 6-month or deal okay I started in
+November right I'm starting to sell
+things
+I decide I'm going to sell the Warriors
+I sell it to a large private equity fund
+in November December and then we had to
+wait for them to close the second fund
+and then we sold the rest of it and it
+closed in June or July.
+And then I put out this tweet right like
+thanking everybody and thanking Hellmuth
+in the same line in which I I'm like I
+thank Peter Thiel and I thank Joe Lacob.
+Everybody is happy except for Hellmuth
+who calls me and is angry and he's like
+I I you know he had this issue with how
+it was characterized that how he had
+introduced to me or something where he
+wanted credit for having done the deal
+or you know and I was like well Phil
+what if it hadn't made me money would
+you have just made me whole like what
+would you have done like it's like you
+were like the architect of this thing
+anyways I was so mad.
+I just said I'm not talking to this
+[&nbsp;__&nbsp;] anymore. I'm done with him. I'm
+done I'm breaking up with him.
+And he would call me when I was in
+Europe and I would ignore and I would
+get this incredible enjoyment from just
+pressing
+to voicemail. He would send me text
+messages ignore.
+And then I
+I mean this is always happens this way.
+I didn't want to not call but she's like
+why didn't you ignore his phone call?
+And I said I hate Phil I'm done with
+Hellmuth. I told her the story she got
+so [&nbsp;__&nbsp;] mad at me and then I had to
+send this text I'll just read you the
+text because I think it's just so
+[&nbsp;__&nbsp;] hilarious. I was going to ignore
+you for the rest of my life based on
+your tantrum with me earlier this year
+but Nat has convinced me to see where
+you are coming from in part. Anyways
+we're good call me later.
+He called ME ONE SECOND LATER.
+I WAS WAITING HE HAD YOUR TEXT TO ME to
+open. I GET THIS PICTURE NAT.
+ANYWAYS I'M I'M BACK IN THE GOOD WITH
+MUNGER.
+Okay well you got to play poker. Before
+we wrap Sax is going to give us instead
+of doing science corner we're going to
+do
+Mar-a-Lago corner. Tell us what it's
+like Sax. Yeah what is Mar-a-Lago like?
+You've had your membership now for 18
+months.
+Give a shout out to this article because
+last week I took some heat because
+somehow I guess you're not allowed to
+question anymore the rectitude of the
+FBI J Edgar Hoover's FBI we're not
+allowed to question anymore or a lot of
+people feel that way. There was an
+article that came out in Real Clear
+investigations just I think yesterday
+and what it exposed is pretty amazing.
+The group the unit within the FBI that
+conducted the raid on Mar-a-Lago is the
+the same group that conducted the
+investigation into Trump back in 2016
+that lied to the FISA court that had its
+members its leaders Peter Strzok were
+fired for basically wrongdoing.
+Whose members are actually under
+investigation right now by the special
+counsel John Durham and you've got
+people who are on probation right now.
+So this is the same unit that basically
+conducted the raid on Mar-a-Lago. So I
+think there's still more to come out of
+about this but it's just amazing to me
+actually that Christopher Wray the head
+of the FBI Merrick Garland the head of
+the DOJ
+thought that this wouldn't create the
+appearance of a conflict of interest or
+impropriety the fact that you've got the
+same unit that previously was
+disciplined for wrongdoing
+in an investigation of Trump is the one
+conducting the raid on Mar-a-Lago. So
+pretty amazing.
+J Cal retort.
+I'm sorry what were we talking about?
+No I I just want to make I have I have a
+response
+child actors
+they're on camera right now.
+I need these props good work. Nice
+props.
+Sax what you're seeing there hold on Sax
+before you get back to Trump what you're
+seeing there is a family unit. This is
+when a family gets together and
+expresses love towards each other but
+continue about Mar-a-Lago.
+You could take a picture of this and you
+could send it to your friends on
+Christmas. All right Jason you you are
+you do not accept the Real Clear
+investigation report that maybe there
+was some long-term
+I have actually some feedback it's
+nothing to do with Sax. I just think
+a lot of times I get positioned as
+sometimes when I'm moderating I like to
+challenge Sax. Last week I chose to stay
+out of it I let him go and I think one
+of the reasons people
+didn't like your comments last week Sax
+was other than you know J Edgar Hoover
+being dead for 50 years putting that
+aside and it being irrelevant I think
+the reason people didn't like it was
+because I didn't come back at you and
+question some of the things you were
+saying and so I think they felt it was
+an unbalanced discussion. They expect me
+to do that but I don't want to be pinned
+as the adversary to to Sax's positions
+in every case because I'm an independent
+I'm a moderate I voted Republican I
+voted
+Democrat my whole life I voted for both
+of those parties.
+But I do think that
+what's happening here is
+you know Trump is under five different
+investigations. He's got a career of
+doing disgraceful criminal fraudulent
+things.
+And I feel very bad for GOP friends I
+feel bad for Republicans because they
+have to carry water for him.
+And it's they they put themselves in
+this really difficult position of
+defending him and you know we've talked
+on this podcast about January 6th.
+We talked about voter fraud.
+My good friend one of my besties David
+Sax has said he doesn't believe that the
+election was there was election fraud
+and he doesn't he did he thought January
+6th was disgusting. I'm not speaking for
+you that's what you said. And so I think
+you know the fact that the Republicans
+feel they need to defend him constantly
+is one of the big problems here and I
+think on the other side the fact that
+the media is forcing Republicans to
+defend him and creating this narrative
+and this hysterics like oh my God see
+espionage Espionage Act he's doing
+espionage. This might be very simple.
+Trump lied cheated stole his whole
+career from Trump University to what's
+happening with
+you know the Trump Corporation now with
+his CFO and his nonprofit. This is his
+life is a history of grifts and crimes
+and unethical behavior. What the GOP
+needs to do is stop defending him and
+just let him go off into the sunset as
+Sax pointed out last week and that's
+what this podcast needs to do because
+there's no reason for me to sit here and
+do the left-wing talking points or for
+you know Sax to do the right-wing
+talking points. The fact is first
+principles Trump's a grifter.
+He's a Democrat who duped the GOP.
+My point is not to defend every shady
+deal that Trump's ever done or even to
+defend Trump at all. My interest is
+having a DOJ and FBI that's not
+politicized and is not used as a
+political weapon or to pursue political
+targeting or vendettas. And the reality
+is at some point we're going to move
+past Trump as a country but the
+precedents that are created now are
+going to stick with us for a long time.
+And the reality is we should not have an
+FBI and a unit within the FBI that is
+pursuing these political vendettas and
+in this article by Real Clear Politics
+the amazing thing yeah the amazing thing
+is Christopher Wray prohibited this unit
+from seeking warrants from the FISA
+court. So he knew there was enough
+misbehavior last time to basically
+prohibit them but it seems to me that's
+a very narrow takeaway. It seems to me
+that the takeaway should be we don't
+allow this unit to pursue Trump again
+because they committed so much
+wrongdoing Yeah be cleaner to have a
+clean unit right? Why won't they do
+that?
+If that's if it's true cuz that is from
+a biased source and if it is true that
+would be good.
+Look guys this has been a lot of fun J
+Cal thank you for letting me sit in your
+seat today. Yeah you did great. You know
+I appreciate that it was it was a lot of
+fun maybe Sax would like to have a run
+in the seat at some point here.
+But for your as your guest moderator for
+today I'm Dave Friedberg and this is
+your all-in podcast. Thank you bye-bye.
+We'll let your winners ride.
+Rain Man David Sax.
+And I said we open sourced it to the
+fans and they've just gone crazy.
+Love you Wes.
+Besties are back.
+Wait a
+Oh man.
+We should all just get a room and just
+have a one big huge orgy cuz they're all
+just useless. It's like this like sexual
+tension that they just need to release
+somehow.
+What? You're a big P. What? You're a
+pure P. What?
+We need to get merch. I'm going all-in.
+I'm going all-in.

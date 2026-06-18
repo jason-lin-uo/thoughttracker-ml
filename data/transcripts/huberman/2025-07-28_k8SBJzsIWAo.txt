@@ -1,0 +1,4239 @@
+# Male vs. Female Brain Differences & How They Arise From Genes & Hormones | Dr. Nirao Shah
+# https://www.youtube.com/watch?v=k8SBJzsIWAo
+
+Welcome to the Huberman Lab podcast
+where we discuss science and
+science-based tools for everyday life.
+I'm Andrew Huberman and I'm a professor
+of neurobiology and opthalmology at
+Stamford School of Medicine. My guest
+today is Dr. Niral Shaw. Dr. Nal Shaw is
+a professor of psychiatry and behavioral
+sciences and neurobiology at Stanford
+University School of Medicine. Dr. Shaw
+is both an MD and a PhD and his
+laboratory focuses on understanding the
+neural and hormonal mechanisms
+underlying sex differences in the brain.
+During today's episode, we discuss what
+is known about male and female
+differences in brain structure and
+function and how those differences arise
+across development both in uterero and
+post-natally that is during puberty and
+into adulthood. A lot of our discussion
+centers around testosterone and estrogen
+and how both of those hormones play a
+profound impact on the development of
+both the male and female brain, but
+leads to different outcomes in male
+versus female brains. We also discussed
+the neural circuits that control sex
+behavior and aggressive behavior in both
+males and females and how those are
+activated by different hormones. As you
+all know, there is immense interest and
+a lot of controversy around sex
+differences and how that relates to
+gender. Today's discussion centers
+around the biology of sex differences in
+the brain and body. And it will provide
+a very useful template for everybody in
+thinking about male versus female
+differences in behavior, in emotions,
+and how that intersects with gender and
+culture. As you'll soon see, Dr. Shaw is
+a true expert in understanding sex
+differences in the brain and body and
+how those arise. He's also unafraid of
+addressing what is known and unknown
+about those differences and their
+origins. and he embraces that sex
+differences are one of the most
+impactful aspects of human biology and
+health. So, by the end of today's
+episode, you will indeed have the most
+up-to-date information on this important
+topic. Before we begin, I'd like to
+emphasize that this podcast is separate
+from my teaching and research roles at
+Stanford. It is however part of my
+desire and effort to bring zero cost to
+consumer information about science and
+science related tools to the general
+public. In keeping with that theme,
+today's episode does include sponsors.
+And now for my discussion with Dr. Dr.
+Nural Shaw. Dr. Nural Shaw, welcome.
+&gt;&gt; Thank you, Andrew. Pleasure to be here.
+&gt;&gt; You work on one of the most interesting
+topics in the entire world, which is sex
+differences in the brain and the impact
+of hormones on the brain, on behavior.
+Let's start with a very straightforward
+question.
+Are there male female differences in
+terms of brain structure and function?
+&gt;&gt; Yes. Let me qualify that. So we work on
+the mouse on the mouse brain and we and
+others have identified lots of
+differences in structure and connections
+and numbers of neurons numbers of cells
+in the brain and also my own lab is
+focused on identifying differences in
+gene expression between females and
+males and there are huge differences for
+the topics we're going to discuss today.
+I know and we're going to lean heavily
+on mouse data, but I think it's fair to
+say that because so much of those data
+rely on the structure and function of
+the hypothalamus, which you'll educate
+us on, how conserved is the hypothalamus
+between mouse and human. I would say
+anatomically from an atlas, if you're
+just looking at atlases of humans and
+mice, they're very conserved. You can
+point to regions in the mouse brain, the
+ventromedal hypothalamus for example,
+the VMH which we might talk about
+controls aggression and other behaviors,
+female sexual behavior. You can say this
+is the VMH in the mouse and you can
+basically pinpoint the same region of
+the human brain and it's turning out to
+be clinically relevant as well in
+humans. You can do the same thing for
+the preoptic area which controls
+maternal behaviors, preoptic, you know,
+male sexual behavior and we can identify
+the same region in the human brain as
+well. So anatomically there are very
+similar analoges in the human
+hypothalamus as there are in the mouse
+and this region is conserved because it
+controls as you pointed out very
+fundamental functions reproduction
+aggression taking care of young thirst
+temperature. So these tend to be
+conserved because you don't want to muck
+with a circuit that's already
+functioning and that's essential for
+survival. So you can find analoges of
+these structures all the way from birds
+across vertebrates from birds, lizards,
+rodents, non-human primates, and humans.
+&gt;&gt; I think many people lean toward the idea
+that humans are so different than mice.
+Um, and they like that idea because it
+um, somehow I don't believe this, but I
+I think it somehow gives them the
+impression that they have more degrees
+of freedom over their feelings and
+behavior than perhaps they would if we
+were a slave to our hypothalamus or
+something of that sort. But studies on
+the human as you and I know uh where
+different uh hypothalamic circuitries
+have been stimulated reveal that you can
+elicit rage, you can elicit sexual
+desire, behavior um and on and on in a
+human just as you can in a mouse.
+&gt;&gt; Yeah. I mean I think we are different in
+the sense that we have a huge cortical
+sort of neural volume. We have a huge
+cortex and that you know gives us many
+more degrees of freedom in deciding when
+and what to do and where to do it. So
+there is flexibility granted by that
+enormous expansion of the cortex but the
+basil structure for those behaviors the
+hypothalamus and the amydala are very
+conserved. So the behaviors exist of
+course is encoded in the brain but we
+can control them or inhibit them if you
+will and in appropriate moments. So
+we've all heard of nature versus nurture
+and I think that's a very kind of
+relevant theme as we wade into this
+topic of of sex differences in the brain
+and sex hormones and behavior. Could you
+explain for us how it is that hormones
+act on genetics in order to set up a
+bias for behavior? And um for those that
+are familiar with the idea that nature
+and nurture are both involved, which
+should be everybody, uh what I'm getting
+at here is this notion of organizing
+effects of hormones versus activating
+effects. You'll educate us on what those
+are.
+&gt;&gt; So we work on hormones like
+testosterone, estrogen, progesterone,
+which are steroid hormones. And as you
+know, as you pointed out, Andrew, they
+act at at least two different stages of
+life. Um, and early on in development,
+at embryionic stages in some species,
+um, like in humans, in in uterro, uh,
+when the, you know, when the woman's
+pregnant or in mice just at birth,
+perinatally, just after birth, um, these
+hormones
+generate what is thought to be an
+irreversible differentiation of the
+brain along a female or a male pathway.
+So they sort of um set the circuits if
+you will so that these behaviors can
+then be displayed in adults life after
+puberty when the hormones kick back in
+again. So after this early critical
+period and I know you've talked about
+critical periods before in your in your
+podcast there's a critical window that
+is species specific when hormones sort
+of organize the brain sort of
+irreversibly set down circuits
+and then you know the gonads testes and
+ovaries go quscent until puberty hits
+and then at puberty the hormones come
+back on again and then they activate if
+you will these circuits so that adult
+behaviors can be displayed. But the
+circuits were sort of initially laid
+down at some point in development.
+&gt;&gt; Correct me if I'm wrong, but my
+understanding is that the presence of a
+Y chromosome is really the key
+differentiating factor for setting up
+circuitries to be more malike or
+femaleike in the brain. These organizing
+effects. Um could you explain what's on
+the Y chromosome? Actually uh you should
+probably uh remind everybody how
+chromosomes and genes work very briefly,
+right? 23 sets of chromosomes and we
+have the sex chromosomes. if you don't
+mind educating us um just on chromosomes
+and then how the presence of a Y
+chromosome is really the key
+deterministic factor not just if you get
+a male or a female as it's you know on a
+birth certificate but the whole kitten
+kaboodleoodle in terms of brain
+structure and function as well as
+genitalia.
+&gt;&gt; Sure. So as you pointed out you know
+there are 23 sets of chromosomes and
+there's a set of chromosomes called
+autotosomes which are simil identical
+between males and females and there you
+know they're completely conserved
+they're the same and then females have a
+set of chromosomes the sex chromosomes
+referred to as X chromosome and Y
+chromosome and females have two I'm
+sorry two X chromosomes X and X and
+males have an X chromosome and a Y
+chromosome
+&gt;&gt; those are the sex chromosomes
+&gt;&gt; those are the sex chromosomes so males
+have XY females have XX okay and the Y
+chromosome is very in the sense that it
+has it on the chromosome sits a gene
+called SRY sex determining region on the
+Y SR Y gene and this gene essentially
+dictates whether or not the embryo will
+have testes or not and then if yes if
+the embryo has testes then they'll make
+testosterone and masculineize both the
+genitalia and the brain and the rest of
+the body
+&gt;&gt; in uterero
+&gt;&gt; in uterero. Okay. So, uh, just to step
+back for, uh, people that aren't so
+familiar with how chromosomes and genes,
+uh, work upstream of of hormones. So,
+what you're telling us is 22 sets of
+autosomes. Then we have the sex
+chromosomes. In females, it's XX. In
+males, it's XY. On the Y chromosome,
+there's this SRY gene.
+&gt;&gt; There's a single gene SRY.
+&gt;&gt; And that the presence of that gene uh,
+means that there will be RNA and then
+protein made.
+&gt;&gt; That's correct. And
+some of those proteins will cause the
+development of the testes and then the
+testes will secrete testosterone in
+uterero and shape the brain for its
+potential to be male when puberty
+happens later on. Right?
+&gt;&gt; Yes. Uh let me qualify that. Okay. So
+SRY is a transcription factor which
+means it is a gene that encodes a
+protein from RNA. You know it gets
+transcribed into RNA and then RNA gets
+made into protein and the protein is a
+transcription factor. the SRY protein
+and what that means is it sort of can
+regulate expression of other genes. So
+it can sort of switch on or silence
+suites of genes that take the
+bipotential gonad. So the gonad before
+it becomes testes or ovaries is a
+bipotential gonad. It can go either way.
+&gt;&gt; At what stage of embryionic development
+in human is the gonad by potential? It
+could become male or female.
+&gt;&gt; It's thought that it's early late first
+or early second trimester. So as late as
+the second trimester,
+the gonads are equal potential. They
+could become male or female. And which
+direction they go depends entirely on
+the presence of this SRY transcription
+factor.
+&gt;&gt; That's right. And the same is true in
+the mouse as well. So in the mouse, the
+gonads are bipotential until day 12 of
+gestation. Mouse gest gestation is about
+20 days. So does this mean that prior to
+the beginning of the second trimester
+because the SRY transcription factor
+isn't active yet that the brain of the
+fetus is essentially identical between
+males and females?
+&gt;&gt; That's the thinking. Yes. Yeah.
+&gt;&gt; Okay.
+&gt;&gt; And that same is true in the mouse. In
+fact, in the mouse, which is our model
+organism in in the laboratory, the brain
+is thought to be by potential right
+almost until birth.
+&gt;&gt; Really?
+&gt;&gt; Yes. So, and I'm sure we'll get into
+this, but the organizing effect of
+testosterone, as we sort of talked
+about, can in fact be detected even as
+late as after birth in the mouse. So,
+you can take a female mouse and birth
+and give it testosterone and you can
+mastronize her behaviors down the road,
+&gt;&gt; but she doesn't have testes.
+&gt;&gt; That's right. So, the simple act of
+giving testosterone will do that. So
+that's the organizing action of
+testosterone. Irreversible
+differentiation of a bipotential brain
+along a male pathway with testosterone.
+&gt;&gt; Okay. But in humans as early as the
+second trimester beginning the SRY
+transcription factor kicks on.
+&gt;&gt; Yes.
+&gt;&gt; My understanding based on my training
+from some years ago uh hopefully this is
+still true. You'll correct me if it's
+not. is that some of the genes
+downstream of SRY start to suppress the
+malarian ducts, the fallopian tubes and
+instead you get testes and the
+vaspherins and and you know basically
+all the uh structure for delivering
+sperm out of the penis for culation
+later in life.
+&gt;&gt; That's right. So SRI sort of takes the
+gonad makes it into a test. The testes
+secretes at least two hormones that we
+know about that are very important for
+sexual differentiation. One is
+testosterone which you know people have
+heard about and the other is an
+antimmalarian hormone and this hormone
+from the testes sort of suppresses
+differentiation of the uterus and the
+vaginal tract. Okay. And in the
+fallopian tubes and the ovaries, right?
+So you get a test that you know
+suppresses female gonadal development,
+genitalia development and you have
+testosterone that takes a bipodential
+genitalia and then masculinize them and
+you get a penis and a scal sack.
+&gt;&gt; And what about the role of
+dihydrotestosterone? My understanding is
+that the development of the male brain
+and the development of male genitalia
+was strongly dictated also by
+dihydrotestosterone.
+So the action of dihydrotestosterone
+which is a derivative of testosterone
+from a single enzyme you know five five
+alpha reductase converts testosterone
+and makes it into dihydrotestosterone or
+DHT. The action of DHT is best
+understood on the external genitalia. So
+DHT acts on the same receptor as
+testosterone does the androgen receptor
+except it binds at much higher affinity.
+So it's a much more potent activator of
+the receptor. And this activation of the
+receptor in the external genitalia
+tissue really is what gives you
+masculinization of the penis and the
+scal sack. So what I'm taking from this
+is that the hormones themselves shape
+circuitries in the brain. We'll talk
+about how that happens. They shape the
+external genitalia. But unless you have
+the SRY transcription factor, you won't
+get the suppression of the ovaries and
+the malarian ducts and all of that
+stuff. So it's not as if the presence of
+androgens testosterone and DHT to a
+female XX
+chromosomal fetus will make that female
+fetus male. It's
+really the presence of that SRY gene.
+You need suppression of femaleness plus
+you need amplification of maleness, so
+to speak.
+&gt;&gt; That's exactly right. Yeah. Okay. So,
+the reason I'm asking all of this and
+the reason we're um uh painting this
+tapestry of hormones and genes etc is
+because as you know these days it's very
+controversial um out there as to when
+sex versus gender uh is established. And
+some of that, I think, is born of
+political leanings, but it's also born
+of this understanding that there's
+perhaps a continuum between masculinity
+and femininity. That you can find males
+that are kind of in the extreme
+stereotype of maleness. You can find
+females that are at the extreme
+stereotype of femaleeness in terms of
+behavior and external um pre you know
+morphology, right? Presence of breasts
+etc. and that but that there is seems to
+be a continuum of phenotypes. But when
+it comes down to the genetic biology,
+it really is about the presence of this
+SRY gene. That seems to be the
+deterministic factor.
+&gt;&gt; That's right. So you can even have SRY
+sort of hop chromosomes from a Y
+chromosome onto an autotosome.
+&gt;&gt; That's happened.
+&gt;&gt; That's happened in humans.
+&gt;&gt; In humans and in mice. And if that
+happens, you can have a full complement
+of XX chromosomes can be female, but SRY
+is sitting on an autotosome and then
+that animal becomes a male. So you can
+have XX males as well.
+&gt;&gt; So it's not the Y chromosome per se
+&gt;&gt; is the gene SRY.
+&gt;&gt; So one gene,
+&gt;&gt; one gene,
+&gt;&gt; SRY determines maleness or femaleness.
+&gt;&gt; That's right. And if you take away SR,
+if you mutate it for example genetically
+with experiments in the mouse or
+naturally occurring mutations in humans,
+SRY, you know, loss of function of SR,
+you will have XY females. Wow.
+It's really all about SRY. Yeah. Like
+the entire political debate, you know,
+uh not sociological debate, but the
+entire political debate as to whether or
+not um someone is male or female, if you
+wanted to boil it down to a biological
+factor, it's one factor. Whether it's SR
+Y make a female or a male. Yes, a
+chromosomal genetic female or male would
+be SRY.
+&gt;&gt; I'd like to take a quick break and
+acknowledge our sponsor, Maui Newi
+venison. Maui Newi venison is the most
+nutrient-dense and delicious red meat
+available. It's also ethically sourced.
+Maui Nui hunts and harvest wild access
+deer on the island of Maui. This solves
+the problem of managing an invasive
+species while also creating an
+extraordinary source of protein. As I've
+discussed on this podcast before, most
+people should aim for getting one gram
+of quality protein per pound of body
+weight each day. This allows for optimal
+muscle protein synthesis while also
+helping to reduce appetite and support
+proper metabolic health. Given Maui's
+exceptional protein to calorie ratio,
+this protein target is achievable
+without having to eat too many calories.
+Their venison delivers 21 gram of
+protein with only 107 gram per serving,
+which is an ideal ratio for those of us
+concerned with maintaining or increasing
+muscle mass while supporting metabolic
+health. They have venison steaks, ground
+venison, and venison bone broth. I
+personally love all of them. In fact, I
+probably eat a Maui venison burger
+pretty much every day. And if I don't do
+that, I eat one of their steaks. And
+sometimes I also consume their bone
+broth. And if you're on the go, they
+have Maui Nui venison sticks which have
+10 grams of protein per stick with just
+55 calories. I eat at least one of those
+a day to meet my protein requirements.
+Right now, Maui Newi is offering
+Huberman podcast listeners a limited
+collection of my favorite cuts and
+products. It's perfect for anyone
+looking to improve their diet with
+delicious highquality protein. Supplies
+are limited, so go to
+mauienewiveneness.com/huberman
+to get access to this highquality meat
+today. Again, that's
+mauienewivenenison.com/huberman.
+Today's episode is also brought to us by
+EightLe. 8LE makes smart mattress covers
+with cooling, heating, and sleep
+tracking capacity. One of the best ways
+to ensure a great night's sleep is to
+make sure that the temperature of your
+sleeping environment is correct. And
+that's because in order to fall and stay
+deeply asleep, your body temperature
+actually has to drop by about 1 to 3°.
+And in order to wake up feeling
+refreshed and energized, your body
+temperature actually has to increase by
+about 1 to 3°. Eightlee automatically
+regulates the temperature of your bed
+throughout the night according to your
+unique needs. Eightlee has just launched
+their latest model, the Pod 5. And the
+Pod 5 has several new important
+features. One of these new features is
+called Autopilot. Autopilot is an AI
+engine that learns your sleep patterns
+to adjust the temperature of your
+sleeping environment across different
+sleep stages. It also elevates your head
+if you're snoring, and it makes other
+shifts to optimize your sleep. The bass
+on the Pod 5 also has an integrated
+speaker that syncs to the EightLe app
+and can play audio to support relaxation
+and recovery. The audio catalog includes
+several NSDR, non-sleep deep rest
+scripts that I worked on with Eight
+Sleep to record. If you're not familiar,
+NSDR involves listening to an audio
+script that walks you through a deep
+body relaxation combined with some very
+simple breathing exercises. It's an
+extremely powerful tool that anyone can
+benefit from the first time and every
+time. If you'd like to try eight, go to
+eightsleep.com/huberman
+to get up to $350 off the new Pod 5.
+Eight ships to many countries worldwide,
+including Mexico and the UAE. Again,
+that's eight.com/huberman
+to save up to $350.
+A couple examples that I I learned about
+years ago, tell me if these are still
+considered true, is that um that for
+instance there are XY
+people, so they have the SRY gene, they
+make testosterone and
+dihydrotestosterone, but they have a
+mutant copy of the androgen receptor.
+&gt;&gt; That's right. Those people do not have
+ovaries,
+so they're infertile
+as a female.
+They also, however, don't have testes or
+the testes don't descend. They make
+testosterone, but the body can't respond
+to the testosterone. So, they look
+female,
+&gt;&gt; maybe a little bit um smaller breast
+development, etc., but they look female,
+&gt;&gt; but they are infertile. uh as women and
+if you were to rely on the presence of
+SRY gene as a definition of maleness or
+being male they qualify.
+&gt;&gt; Yes.
+&gt;&gt; If you rely on the presence of
+testosterone they qualify but there have
+been no action of testosterone.
+&gt;&gt; And so they go through life at least
+until puberty thinking that they're
+female. Is that right?
+&gt;&gt; That's correct. The parents think
+they're females. They think they're
+females. They're piercing they're
+females. They look completely feminized.
+&gt;&gt; How common is that? It's not that
+common. I think it's I'm going to get
+the numbers exactly, you know, not going
+to get the exact numbers right, but I
+think it's one in 10,000 maybe or one in
+20,000. I mean, these numbers are
+changing all the time as diagnostic
+tests get better, but it's not that
+common,
+&gt;&gt; but there still that's still a
+significant number of human beings
+you're talking about.
+&gt;&gt; And then my understanding is there's
+also a mutation where um people lack the
+enzyme that converts testosterone to
+dihydrotestosterone.
+So they're born appearing female. They
+have SRY, the gene, this deterministic
+gene. They make testosterone. It doesn't
+convert to dihydrotestosterone. Then
+puberty rolls around and they go from
+having what the parents and they thought
+was a vagina and a clitoris and they
+sprout a penis.
+&gt;&gt; That's right.
+&gt;&gt; How common is that?
+&gt;&gt; It's not that common. I think it's more
+common in places where there marriages.
+So, you know, in some villages, in some
+countries, it's fairly common. and they
+even have sort of local dialect names
+for this condition. Um I forget what
+it's called in in those languages but
+there's definitely so it's called a
+penis at 12 syndrome in sort of medical
+textbooks because as you said they
+sprout a penis at 12 because the early
+penile development and the scroll sac
+development depends on DHT which is a
+much much more potent activator of the
+androgen receptors. If you can't have
+DHT then testosterone alone cannot
+masculinize the external genitalia. It's
+feminized early on but after puberty
+when the testosterone levels go up again
+that level of testosterone is now is
+sufficient to differentiate the external
+genitalia into a penis.
+&gt;&gt; So in the strictest sense the presence
+of the SRY gene is deterministic for
+maleness.
+&gt;&gt; Yes.
+&gt;&gt; It's not even just the Y chromosome.
+It's really SRY gene on the Y chromosome
+because as you point out if the SRY gene
+is on a different chromosome because it
+got transllocated there then you still
+get a male fetus.
+&gt;&gt; Is it also fair to say that the absence
+of the SRY gene is what determines
+femaleness or are there a separate set
+of deterministic genes that designate
+femaleeness? Some people might be
+confused by this question only because
+what I'm not being clear about is you
+could imagine that it's the presence yes
+of SRI that creates maleness and in its
+absence you just get a female by default
+or it could be that there's a
+deterministic female gene that makes the
+brain and body of females female.
+&gt;&gt; Right? So that's not known in mammals at
+least there's no single gene that's been
+identified in mammals in mouse or humans
+that determines femaleness. So no gene
+that if placed onto a Y chromosome would
+drive the differentiation of that fetus
+to to female.
+&gt;&gt; That's right.
+&gt;&gt; Okay. What does that tell us about human
+evolution?
+&gt;&gt; I don't know what it says about
+evolution. It says that there is a
+there's a genetically programmed pathway
+that in the fetus in the absence of SR
+will give you a female body and a brain.
+Right? Right? So that pathway, this
+genetic program exists and that SRI sort
+of tamps it down and boosts maleness.
+&gt;&gt; Okay. I want to get back to sex
+differentiation and behavior in a
+moment, but I want you to tell me if the
+news report from a few years ago, the
+California condors can reproduce from
+two females. Is that true?
+&gt;&gt; I've not seen that report. U I don't
+know.
+&gt;&gt; Okay. Um years ago when I was at
+Berkeley, there was a graduate student
+in our program who was studying a
+species of um uh moles that live in
+Tilden Park. And these moles apparently
+can transiate their ovaries into testes
+depending on the population numbers of
+males versus females. Is why I asked
+about evolution. You know, you could
+imagine that if such a capacity existed,
+um that could be very beneficial for the
+propagation of a species. Like if you
+run out of males, a female can turn her
+ovaries into testes and reproduce with
+another female.
+&gt;&gt; Or if you run out of females, the males
+could transiffate their testes into
+ovaries. This sort of alludes to the
+idea that this business of X chromosomes
+and Y chromosomes and genes on Y
+chromosomes in theory um if we were to
+zoom out from human existence, you know,
+we're at one point in human existence,
+you could imagine that there was a a a
+kind of a larger control over this so
+that our numbers never run out. What are
+your thoughts on on on that? I'm not I'm
+not talking about a you know where the
+origin of control would be, but but how
+plastic how variable is this or or is it
+like the SRY gene is on the Y chromosome
+99.99999%
+of the time and therefore like this in
+this instances of transllocation on X
+chromosomes is kind of rare. It is rare.
+So let me point out that SRY
+is not even determining sex across all
+vertebrates. Okay. So it's not as if
+birds have an SRY. You know most genes
+as you know Andrew many genes are most
+genes are conserved between say birds
+and and humans. You know the way you get
+the axis of the animal developing from
+front to back hawk genes controlled by
+hawk genes is very conserved from birds
+to humans. Um and there's a similar set
+of genes even in flies
+&gt;&gt; even the placement of the eyes.
+&gt;&gt; That's right.
+&gt;&gt; One gene pack six
+&gt;&gt; places eyes on the front of the head.
+&gt;&gt; So but SR is sort of special. So birds
+don't have an SRY. Flies don't have an
+SRY. And in fact SRY has been evolving
+very quickly. So many genes you can take
+from the human genome and put in the
+mouse and can get you know mouse
+mutations rescued but you can't do that
+with SRI. So it's been mutating so fast
+uh because it's sort of important for
+speciation and protecting the sort of
+species advantages that led to the
+development of that species. So you
+can't take SI and sort of move it
+between species. Not only that, but as
+you sort of were alluding to, there are
+many species in which in vertebrates in
+which SI is not even relevant for sexual
+differentiation and determination. What
+happens is, as you point out, population
+densities can regulate that. Temperature
+can regulate that, sex differentiation.
+Um, I think it's true in alligators and
+crocodiles maybe. And certainly adult
+fish can transiate from female to male
+as well.
+&gt;&gt; Wow. I didn't realize it was that
+common. Yeah. But it makes sense if uh
+for these ectotherms that regulate their
+temperature based on the environment.
+Um,
+look, every species main goal is to make
+more of itself and protect it young
+&gt;&gt; and protect the advantages it has as a
+species in the sort of ecological
+environment it finds itself in.
+&gt;&gt; Right. So you sort of close you don't
+exchange gene pools between species for
+example. Right.
+&gt;&gt; Yeah. There's a a whole other discussion
+um years ago. I think you and I were
+attended a talk where Kim, you know,
+somebody working on Drosophila, you
+know, species of of fly said, you know,
+that Drosophila prefer to mate with
+Drosophila as opposed to other species.
+And they this gets a little bit um kind
+of grossed when you start thinking about
+yeah, like why is it that species
+maintain reproduction basically within
+species? Um one hopes um as well as sex
+behavior with it within species. And as
+you point out, every species is vying
+for itself. In fact, we had a plant
+biologist on here recently. The plants
+are making things to kill off their
+predators, you know, limit their their
+ficundity. Let's talk about how hormones
+downstream of SRY or the absence of
+those hormones shape the brain because I
+think uh people listening to this uh
+certainly know people of both sexes,
+right? And
+I don't think it's that politically uh
+edgy to say that most people probably
+believe that men and women, boys and
+girls even
+respond very differently to the same
+stimuli.
+&gt;&gt; That's right.
+&gt;&gt; You know, and the stereotype here is,
+you know, she started playing with dolls
+from the beginning. you know, he picked
+up a stick and pretended it was a weapon
+from the moment that he picked up a
+stick
+&gt;&gt; prior to puberty, prior to the the
+testes secretreting testosterone.
+So, what is known about hormone-based
+differentiation of the brain in terms of
+maleness and femaleness? Uh, and let's
+just for the moment suspend all uh all
+politics, all stereotypes and just ask
+like what does the biology say?
+So there are a couple of classic
+experiments in the field done in the
+1950s that really speak to this the sort
+of organizational differentiation effect
+of hormones and then we've done some
+additional work in the mouse that also
+relates to this and then there are human
+conditions that can inform this
+discussion as well. Um so the first
+experiment I would like to talk about is
+by Charles Phoenix in 1959 I think and
+he did this experiment in guinea pigs
+and guinea pigs become female masculiniz
+or feminized uh in utero prenatally just
+like humans do and if he gave
+testosterone
+to the pregnant female then females that
+were born
+to that mother had received testo had
+seen testosterone their brains had seen
+testosterone in development in utero and
+when they were born and became adults,
+very high probability of mating like a
+male like sexual mating you know having
+sexual behaviors like a male.
+&gt;&gt; So thrusting behavior
+&gt;&gt; thrusting behavior and they had very
+little receptivity sort of female type
+receptive behaviors
+&gt;&gt; which in rodents uh is typically
+lordosis the arching of the back. People
+who have cats know about this, right?
+For example,
+&gt;&gt; cats in heat will lowerose. Um, so
+that and even if he gave the females,
+adult females who had seen testosterone
+early on, if he g if he gave these adult
+females boosts with estrogen and
+progesterone to sort of increase female
+sexual behavior in these females, they
+had very little displays of female
+sexuality.
+&gt;&gt; They still mounted like males.
+&gt;&gt; Okay. So the exposure of females to
+testosterone in uterero
+&gt;&gt; sets up a program whereby their sexual
+behavior appears more malike. That's
+right.
+&gt;&gt; Thrusting behavior and lack of lordosis.
+So there's a there's a the presence of
+something and the absence of something.
+&gt;&gt; Correct.
+&gt;&gt; What about aggression? Were they more uh
+aggressive?
+&gt;&gt; That paper didn't look at aggression.
+We've done that in the mouse and you
+basically see the same thing. Now in
+mouse sexual defensiation as we talked
+about earlier happens right at birth or
+just around birth. So we could take day
+one pups and if you give them
+testosterone
+these females became territorial like
+males as adults.
+&gt;&gt; Interesting. So territorialism is a is a
+male specific trait.
+&gt;&gt; Mice mice male mice are territorial.
+Female mice at least in laboratory don't
+fight as much except when they're
+mothers and nursing a letter.
+&gt;&gt; Maternal aggression is very real.
+&gt;&gt; That's right. Is it testosterone
+mediated?
+&gt;&gt; We don't we don't know.
+&gt;&gt; Interesting.
+&gt;&gt; Yeah.
+&gt;&gt; Okay. So, exposure to testosterone in
+uterero sets up male-like behaviors in
+female offspring is what I'm hearing.
+&gt;&gt; I'm aware of at least one condition in
+humans where this might occur, which is
+when um there's either a tumor or stress
+induced uh stimulation of the or over
+stimulation of the adrenal glands. And
+of course the adrenals make adrenaline
+and cortisol but also they have a layer
+of cells that produce and dione which is
+a
+&gt;&gt; an androgen. Um
+what is the outward appearance of female
+babies born to women who had an
+overactive adrenal during pregnancy?
+&gt;&gt; Yeah. So I think you're referring to
+congenal adrenal hyperlasia which is you
+know a mutation in an enzyme that
+typically makes cortisol and this
+happens in the baby itself. So the
+baby's a mutant for this enzyme. Oh,
+&gt;&gt; so the baby's adrenals are the ones that
+are uh disrupted in the system.
+&gt;&gt; And because they can't make cortisol,
+these sort of precursors to cortisol get
+shunted into making, as you pointed out,
+androgens
+&gt;&gt; because there excess precursor, it just
+gets shunted off into a different
+pathway.
+&gt;&gt; So these babies, these females are born
+with sort of masculineized external
+genitalia
+&gt;&gt; based not on the presence of testes or
+testosterone
+&gt;&gt; or SR but presence of testosterone of
+androgens, right? because the adrenals
+are now pumping out androgens rather
+than cortisol.
+&gt;&gt; Are the uh androgens that come from the
+adrenals um the same in terms of they
+bind the androgen receptor just like
+testosterone would? So they look like
+testosterone actually some years ago and
+dione uh was the topic of a lot of news
+stories because of uh Mark Magguire the
+baseball player
+&gt;&gt; uh was accused of taking and dione. I
+mean, it's not hard to see the
+differences in his physical size from
+one season to the next. Whether or not
+he did that or not, I don't know if it
+was ever confirmed. I think it was.
+&gt;&gt; I see.
+&gt;&gt; Um, we can ask him. I um I don't want to
+put anything on him that uh wasn't true,
+but that's what the news claimed. And
+you could buy and dione in the GNC.
+&gt;&gt; Huh. But the adrenals make testosterone
+like substances in this person that
+doesn't have the capacity to make enough
+cortisol.
+&gt;&gt; So what does the female offspring look
+like?
+&gt;&gt; She has sort of masculinized external
+genitalia.
+&gt;&gt; Mhm.
+&gt;&gt; And that can be surgically corrected
+because now doctors are aware of this
+condition. So they can surgically sort
+of correct that and you can give the
+baby when she's born cortisol because
+that's absolutely essential for
+survival. So she's XX genetically
+female. She has no SRY gene.
+&gt;&gt; She made too much testosterone in
+uterero. So the clitoris resembles a
+penis.
+&gt;&gt; More or less.
+&gt;&gt; Yes.
+&gt;&gt; And the reason I say more or less is uh
+not to be faciticious, it's it's that
+there's a continuum there,
+&gt;&gt; right?
+&gt;&gt; And it depends on exactly when the
+androgens kicked in from the adrenals.
+Yeah.
+&gt;&gt; So it could be a uh an enlarged clitoris
+or it could be a small penis or it could
+be a normal sized penis. It just depends
+on how much androgen in
+&gt;&gt; she's verilized as we say, right?
+&gt;&gt; Viralized. Okay. Does she have facial
+hair
+&gt;&gt; as a baby? No.
+&gt;&gt; Okay. Later.
+&gt;&gt; No, I mean the surgically corrected for,
+right? As I pointed out, you give
+cortisol to the to the females,
+&gt;&gt; but she's fertile as a female because
+she still makes ovaries because she
+doesn't have the SR gene. Correct.
+&gt;&gt; Yeah.
+&gt;&gt; Wow. All right. Um, what about stress
+induced androgen release in the pregnant
+mother? Does that arrive to the fetus?
+So let's assume there's a female fetus.
+Everything's progressing normally. She
+has normal adrenal function. But mom,
+who also has normal adrenals, no CH
+mutation, uh goes through a period of
+extreme stress, is making a lot of
+cortisol, but also a lot of interesting
+Dione or maybe she has a challenge
+stress that requires she produce more
+androgens, which happens. Does the baby
+see those androgens and does it
+partially masculineize or viralize as
+you said uh the fetus?
+&gt;&gt; There's no reason why the baby won't see
+the testosterone or the androgens
+because it's a lipid. It should cross
+over into cells. Whether or not it
+affects her behavior, I don't know
+actually the human data on that or
+whether or not it viralizes. I don't
+know the data on that.
+&gt;&gt; But we know stress during pregnancy is
+not good.
+&gt;&gt; It's not good. Yeah.
+&gt;&gt; It's associated with higher incidence of
+schizophrenia and things like that. But
+we don't know that it's because of
+stress induced release of androgens. Is
+that right? Yeah. Okay.
+&gt;&gt; He's out on the right.
+&gt;&gt; I think it's just an important thing to
+distinguish because people will hear,
+"Oh goodness, I had a stressful second
+trimester or um something of that sort."
+&gt;&gt; To step back for a moment um before
+going into more of these um kind of
+naturally occurring experiments. Um I
+don't know if that's the proper way to
+think about, but they are. They're
+naturally occurring outcomes. Um, how
+much variation is there in terms of
+masculine to feminine phenotypes at
+birth? Has anyone ever looked at that?
+Like, you know, I mean, we we sort of
+pres like you, it's a baby girl, it's a
+girl, it's a boy, right? You know, the
+the gender reveal thing or whatever.
+Yeah. You know, um, on the ultrasound,
+it's a boy. Okay. There's no penis, it's
+a girl, you know, and there's other
+markers, too. you know that people have
+gotten quite good at recognizing male
+versus female fetus on the basis of a
+number of different things but most
+notably the absence of a penis is
+generally the the the uh the driving the
+conclusion it's a female um until
+chromosomal typing is done
+&gt;&gt; that's right
+&gt;&gt; but what is the range in terms of um
+phenotypes right has anyone ever
+actually explored that
+&gt;&gt; I think John's Hopkins had a program to
+do that back in the you know about 50
+years ago Um, and I think at back then
+at least it was just the size
+&gt;&gt; of the penis that said this is a boy or
+not
+&gt;&gt; or the external genitalia. I don't know
+what the current criteria are. I'm not a
+practicing MD.
+&gt;&gt; You are an MD though.
+&gt;&gt; I am an MD. I don't practice though.
+Yes.
+&gt;&gt; Um,
+&gt;&gt; so I don't know what the current
+criteria are, but with carotyping you
+can easily tell.
+&gt;&gt; You look whether or not it's XX or XY.
+&gt;&gt; That's right.
+&gt;&gt; Okay. Well, thank you for saying that
+because the reason I asked that question
+is that some years ago there there were
+these um reports of people who had grown
+up uh being treated as a male having
+received testosterone injections or
+something like that and then later
+discovered that they have XX
+chromosomes.
+Other people reported having XX
+chromosomes, never been treated with
+anything, but they thought they they
+were, you know, appeared male because
+they had one of these conditions that
+increased testosterone. And my
+understanding at the time was that the
+level of okayness, I don't even know
+what the word is. The level of okayess
+of the person with how they were raised
+oriented very strongly with whether or
+not they were XX or XY, not which
+hormones they had seen during
+development. In other words, if somebody
+uh had XX chromosomes, no SRY gene, but
+was exposed to a lot of androgens, maybe
+from their adrenals or elsewhere, a drug
+that the mom was treated with during
+pregnancy perhaps, that they would hit
+puberty and they they didn't feel quote
+unquote right. And in fact, genetically
+they were female. And then the reverse
+cases were also true. And often times
+these people would seek corrective
+hormone therapy or surgeries. So what
+I'm talking about here is actually the
+opposite of what we hear so much
+controversy about today where people
+want to switch. These are people who
+were forced by their parents and their
+doctors to be raised a certain way that
+did not match their chromosomes and it
+generally did not feel good to them.
+&gt;&gt; That's right. Yeah.
+&gt;&gt; What does that tell us about the role of
+genes in establishing maleness or
+femaleness of the brain? So we can go
+back to the condition we talked about
+earlier, you know, where the at puberty
+you sprout penis because you had a
+deficiency in alpha reductase. So you're
+not picking DHT, right? So these kids
+were raised as girls because there's no
+the extrogenitalia look like they're
+feminized.
+But as soon as you know they hit puberty
+and they start getting realized, they
+get this part of penis as you put it. Um
+many of them switch over to being boys
+and becoming men happily I guess. So I
+mean they switch, right? It's not forced
+on them.
+&gt;&gt; Okay. So, they voluntarily
+&gt;&gt; Yeah.
+&gt;&gt; go in the direction of their XY
+chromosomes,
+&gt;&gt; right?
+&gt;&gt; Because in theory, they could
+&gt;&gt; Well, it's tricky because they're now
+making testosterone. So, they're sort of
+in a
+&gt;&gt; Well, they've always been making
+testosterone. It's just they had not
+been making DHT.
+&gt;&gt; Sorry to interrupt, but
+&gt;&gt; No, no, no, please. You're you're you're
+being accurate.
+&gt;&gt; Which so testosterone can still act on
+the brain, remember, during development.
+&gt;&gt; So, what you're basically saying is that
+the growth of the penis is largely
+determined by DHT,
+&gt;&gt; right? Early on. Yes. pre-pubertal
+&gt;&gt; and then after puberty it's controlled
+by testosterone
+&gt;&gt; testosterone sufficient to drive penal
+development. Yeah,
+&gt;&gt; got it. Okay.
+&gt;&gt; Goodness. What does this tell us? Does
+this tell us again
+that
+XX
+versus XY is really the driver of one's
+own
+um sex preference?
+And I don't mean sexual preference for
+partner. I mean sex preference like of
+their own sexual identity. Yeah, at
+least that's what these natural
+variations tell us, right? These as you
+put natural experiments tell us.
+&gt;&gt; Um the same is true for complete
+androgen insensits
+syndrome in which humans have this
+mutation in the androgen receptor. So
+they can't see testosterone
+and you know as we discussed they are
+completely feminized externally but they
+have testes because they are they have
+ex they're xy.
+&gt;&gt; Wow.
+&gt;&gt; Right. So they have testes but they're
+feminized and they think of themselves
+as females. They're race as females.
+They look like females. It's just at
+puberty, you know, they don't they don't
+start menstruating. See, they go to the
+clinic, they're diagnosed as XY with an
+SRY, but not responsive to testosterone.
+&gt;&gt; So, their inability to respond to
+testosterone sort of masculineized,
+&gt;&gt; feminize them.
+&gt;&gt; This is a tricky topic because we
+haven't injected kind of how people are
+socialized. We haven't uh talked about,
+you know, pink versus blue clothing, uh
+which is socialization. Uh it's a choice
+obviously um but a strong choice that's
+very you know um statistically you just
+see that right
+&gt;&gt; almost across the board unless people
+deliberately go against that
+&gt;&gt; it all seems so
+clear and straightforward based on the
+presence or absence of this SRY gene
+until I start looking at the genetics
+and I which I did in in anticipation of
+this episode and I discovered that one
+in 12 people which is a very high number
+is heterero heterozygus for congenital
+adrenal hyperlasia, meaning they have
+one mutant copy, one healthy copy.
+They're fertile, which is probably why
+it's so prevalent. Um, and yet those
+people make less cortisol and more
+androgen
+in response to a stressor.
+So then you say, well, okay, maybe as a
+fetus they were making a bit more
+androgen. So is that going to drive a
+kind of hyper maleness or is it going to
+make in in a XY baby and it's maybe
+going to drive a little bit more
+maleness a little bit less femaleness in
+an XX baby. I mean it starts getting
+really tricky. It is very tricky. What
+is known is that boys who have
+congenital adrenal hyperlasia
+seem to be completely like boys.
+&gt;&gt; They're fertile.
+&gt;&gt; They're fertile and the behavior seems
+to be unchanged as well.
+&gt;&gt; So it's not as if they're hyper. They're
+not hyper masculineized.
+&gt;&gt; They're not hyper masculineized.
+&gt;&gt; At least that's what the data suggests.
+Yes.
+&gt;&gt; But of course, we don't know what the
+measures are.
+&gt;&gt; We don't know what the measures are. And
+we don't know what social cultural
+exposures they had as well in the
+environment.
+&gt;&gt; Having grown up in a very uh
+conventional home with respect to these
+things. I mean, it's like looking back
+and comparing to what I see now, it's
+just so vastly different. And I was born
+in 1975. So, it kind of blows my mind
+how different things are even in the
+last, you know, 20, 30 years in terms of
+how boys and girls are socialized. I
+mean things were um I remember the first
+television show coming out in the I
+forget when it came out exactly but all
+in the family where like the the mother
+is going to work you know this this was
+like a revolutionary thing at the time
+right but it wasn't terribly long ago.
+Okay so let's talk about hormones
+shaping brain structure and function. Uh
+what are some of the anatomical and or
+functional differences in brains? Let's
+say with the the most typical scenario,
+XY chromosomes makes testosterone, makes
+DHT,
+um all the receptors are functional
+versus XX, no SRY uh gene, um all the
+all the all the stuff testosterone and
+estrogen uh are functional, receptors
+are functional, the typical pattern.
+Yes.
+&gt;&gt; How are the brains of those babies
+&gt;&gt; and later adults different? What what do
+we know about that?
+&gt;&gt; Yeah. So there are a lot of cells in the
+brain that express receptors for
+testosterone, and receptor and estrogen
+and progesterone. So people have looked
+over the last 40, 50 years to see what
+how these cells are responding to these
+hormones. And it seems that at least one
+major theme that emerges is that early
+on at least in the mouse, right? This is
+you can still see that the brain is
+bipotential at the first day of life.
+it's looks sort of somewhat neutral and
+then if you have testosterone then in
+some brain regions more neurons will
+survive
+and in those regions in the female those
+neurons would die. So then as adults you
+end up with a male brain that has more
+neurons in one region compared to a
+female and conversely in the female
+brain there are structures that you know
+survive and the males you lose cells. So
+in those structures in the adult females
+will have more neurons than males or
+cells than males. So you have cell death
+that can be sex specific you know female
+specific or male specific. Actually I
+should step back. It's not specific.
+It's more statistical. There are more
+cell death in one than the other. So you
+end up with different numbers of neurons
+in the adult animal.
+&gt;&gt; And you're not getting those neurons
+back.
+&gt;&gt; You're not getting those neurons back.
+&gt;&gt; So it's
+&gt;&gt; and the same is true for connectivity.
+So it's fair to say that
+as a consequence of genes and hormones
+in uterero,
+males have certain neurons and circuits
+that females don't have and females have
+certain neurons and circuits that males
+don't have. And it doesn't matter how
+much testosterone or estrogen
+you put into the adult ver the adult of
+of those people, they're not getting
+those circuits back.
+&gt;&gt; Right? In uterro, they're the same where
+once they've been exposed to
+testosterone or estrogen progesterone,
+you get cell loss in one or the other
+sex. And once you get that cell loss,
+you're not going to recover that as an
+adult. Is there any evidence in humans
+or in mouse that the loss of these cells
+or the maintenance of these cells, we
+can look at it through either lens, is
+along a continuum or is it pretty strict
+divide? Like if we were to plot the
+number of cells in one of these brain
+areas, would it be a binary distribution
+uh where you know you get a a big, you
+know, big pile of of of neurons um on
+one side of the graph and and and many
+fewer in the female with a big trough
+between or are we talking about a more a
+single hole? Some regions it looks
+pretty binary and these are regions that
+control innate behaviors
+&gt;&gt; like mating or aggression for example
+but others there's going to be overlap
+and the animals we work in in the mouse
+they're sort of specifically bred to be
+genetically identical to each other so
+we can sort of really parse out what the
+differences look like and if you will
+there are more extreme examples these
+animals and and there in some regions we
+can really see that you know there's
+always about two to threefold more cells
+in one text compared to the other and
+that's pretty much true for all animals
+for that region. But other regions there
+might be more overlap.
+&gt;&gt; I'd like to take a quick break and
+acknowledge our sponsor AG1. AG1 is a
+vitamin mineral probiotic drink that
+also includes prebiotics and adaptogens.
+As somebody who's been involved in
+research science for almost three
+decades and in health and fitness for
+equally as long, I'm constantly looking
+for the best tools to improve my mental
+health, physical health, and
+performance. I discovered AG1 back in
+2012, long before I ever had a podcast,
+and I've been taking it everyday since.
+I find it improves all aspects of my
+health, my energy, my focus, and I
+simply feel much better when I take it.
+AG1 uses the highest quality ingredients
+in the right combinations. And they're
+constantly improving their formulas
+without increasing the cost. In fact,
+AG1 just launched their latest formula
+upgrade. This nextgen formula is based
+on exciting new research on the effects
+of probiotics on the gut microbiome. And
+it now includes several clinically
+studied probiotic strains shown to
+support both digestive health and immune
+system health as well as to improve
+bowel regularity and to reduce bloating.
+Whenever I'm asked if I could take just
+one supplement what that supplement
+would be, I always say AG1. If you'd
+like to try AG1, you can go to
+drinkag1.com/huberman.
+For a limited time, AG1 is giving away a
+free one-mon supply of Omega-3 fish oil
+along with a bottle of vitamin D3 plus
+K2. As I've highlighted before on this
+podcast, omega-3 fish oil and vitamin D3
+K2 have been shown to help with
+everything from mood and brain health to
+heart health to healthy hormone status
+and much more. Again, that's
+drinkagg.com/huberman
+to get a free 1-mon supply of omega-3
+fish oil plus a bottle of vitamin D3
+plus K2 with your subscription. Today's
+episode is also brought to us by
+Element. Element is an electrolyte drink
+that has everything you need and nothing
+you don't. That means the electrolytes,
+sodium, magnesium, and potassium in the
+correct amounts, but no sugar. Proper
+hydration is critical for optimal brain
+and body function. Even a slight degree
+of dehydration can diminish cognitive
+and physical performance. It's also
+important that you get adequate
+electrolytes. The electrolytes, sodium,
+magnesium, and potassium are vital for
+functioning of all the cells in your
+body, especially your neurons or your
+nerve cells. Drinking element dissolved
+in water makes it very easy to ensure
+that you're getting adequate hydration
+and adequate electrolytes. To make sure
+that I'm getting proper amounts of
+hydration and electrolytes, I dissolve
+one packet of element in about 16 to 32
+ounces of water when I first wake up in
+the morning. And I drink that basically
+first thing in the morning. I'll also
+drink Element dissolved in water during
+any kind of physical exercise that I'm
+doing, especially on hot days when I'm
+sweating a lot and losing water and
+electrolytes. Element has a bunch of
+great tasting flavors. I love the
+raspberry. I love the citrus flavor.
+Right now, Element has a limited edition
+lemonade flavor that is absolutely
+delicious. I hate to say that I love one
+more than all the others, but this
+lemonade flavor is right up there with
+my favorite other one, which is
+raspberry or watermelon. Again, I can't
+pick just one flavor. I love them all.
+If you'd like to try Element, you can go
+to drinkelement.com/huberman,
+spelled drinklemnt.com/huberman
+to claim a free element sample pack with
+a purchase of any element drink mix.
+Again, that's drinkelement.com/huberman
+to claim a free sample pack. to remove
+some of the um sociological, political,
+and other sorts of biases that
+understandably kind of get into people's
+minds when you start talking about this.
+If you just look back in history,
+&gt;&gt; were there examples of interex people
+just born of, you know, without any
+knowledge of of chromosomes, without any
+knowledge of hormones? um people
+intuitively understood hormones but um
+based on damage to the testes or things
+like that, right? What what would
+happen? But I think you get the idea.
+Were there examples that were cultures
+where it was kind of understood that
+this was along a continuum because
+everything you're describing makes it
+sound pretty darn binary.
+And you know, again, this isn't a
+political discussion, it's a biological
+discussion. SR Y yes or no?
+&gt;&gt; Yes,
+&gt;&gt; that seems to be pretty much what it's
+about.
+&gt;&gt; Yeah. So, but there are cultures I mean
+we mentioned about these consanguinous
+marriages where people you know would
+have kids where they would look
+feminized early on because they have a
+deficiency in five alpha reductase no
+DHT production and then at 12 they would
+become you know mascized they' sprout a
+penis
+&gt;&gt; but never in the other direction. No
+&gt;&gt; males converting to females,
+&gt;&gt; right?
+&gt;&gt; Yeah.
+&gt;&gt; Physically, no. Right. So, at least in
+these cultures, it's it's a known thing
+that there will be
+&gt;&gt; a subset of kids who are born with this,
+if you will, interex condition,
+&gt;&gt; right? And there are descriptions of,
+you know, what people used to call, it's
+no longer politically correct to say
+call them hermaphrodites, but there are
+examples of, you know, interex
+individuals across history.
+&gt;&gt; Hermaphrodite is not a politically
+correct.
+&gt;&gt; That's what I've been told. Interex is
+the medically sort of accepted term.
+&gt;&gt; Got it. And people have also known that
+testosterone or hormones, sex hormones
+play a huge role in regulating behavior,
+right? So Unix and castrits, castrades
+have been used in palaces and and courts
+sort of to guard hers for example. Um
+&gt;&gt; that was the motivation.
+&gt;&gt; Yep.
+&gt;&gt; Wouldn't you favor a more aggressive uh
+testicularly intact male if they goal is
+protection? I think the idea was that if
+you had, you know, a cast guarding a
+hair of females, then they can't sort
+of, you know, have sexual behavior with
+them. They can't have sex with them.
+&gt;&gt; Oh, they weren't going to do what the
+cuttlefish do, right?
+&gt;&gt; Cuttlefish males will pretend they're
+females, befriend females, and then
+they'll and then they'll mate with them.
+&gt;&gt; And also in opera singing, right, you
+would have cast who would have a higher
+pitched voice
+&gt;&gt; and they were castrated early in life
+&gt;&gt; to maintain the high pitched voice.
+&gt;&gt; Yes.
+Anyway, um just going to refrain from
+any I mean the poor kids that presumably
+they didn't get a choice
+&gt;&gt; presumably. Yeah.
+&gt;&gt; Yikes. Um okay.
+So
+here's where here's where I'm um stuck,
+right? I can hear all this biology
+and it's very clear that the genes and
+hormones are affecting peripheral what
+we call phenotype. Presence or absence
+of penis, presence or absence of
+descended testes, presence or absence of
+ministration. But in the brain, it just
+seems that there are different circuits
+that kind of pile up more neurons or
+maintain more neurons in males versus
+females. In females, what are the what
+are the circuits that get favored? Are
+they circuits for um lactation, for
+child rearing? I mean,
+&gt;&gt; for sexual behavior, for example,
+&gt;&gt; uh
+&gt;&gt; ovulation.
+So cells that control ovulation, for
+example, would be very dimorphic,
+&gt;&gt; but not in terms of behavior, right?
+Like it it seems like it's the presence
+or absence of rough and tumble play,
+presence or absence of thrusting
+behavior. Um, I mean, maybe this is for
+historical reasons or maybe it's for
+biological reasons, but um, I guess what
+I'm getting at here is what are the
+things that babies that are XX that are
+females, how are their brains
+specialized? I mean, or is it just the
+absence of copulatory thrusting and
+aggressive behavior? It seems to me that
+there would be circuits that were female
+specific.
+&gt;&gt; That's right. So, there are circuits
+that are specific of female sexual
+behavior. So you can take an adult male
+for example and you can remove
+testosterone you can castrate him and
+you can give him female hormones
+estrogen and progesterone and ask this
+is in mice now um you can ask will he
+now be sexually receptive will he loose
+like a female mouse would
+&gt;&gt; arched back sexual
+&gt;&gt; arched back that's right sexual
+receptivity posture and most in most
+cases he won't
+&gt;&gt; he won't
+&gt;&gt; no he won't because the circuit's
+missing
+&gt;&gt; right the neurons just aren't there
+&gt;&gt; that's right or at least they're not
+responsive to the hormones
+&gt;&gt; right we don't know the circuit's there
+but it's all responding to hormones or
+we don't know the circuit's not there.
+We now know that there are connections
+in the female brain that are simply
+missing in the male brain and these
+connections are from neurons that
+regulate sexual behavior. So we know
+that some circuits are missing in the
+male brain for sexual female sexual
+behavior.
+&gt;&gt; So lordosis behavior in females seems to
+be a very XX
+uh chromosomal driven outcome
+&gt;&gt; but it's not as black and white like
+that. There are circuits that seem to be
+conserved in both sexes for the behavior
+of the opposite sex. And I'll give you
+two examples of that. Okay. Um if you
+take an adult female mouse and this is
+an experiment done in the 70s by David
+Edwards and Katherine Burgie. Um it's a
+really beautiful experiment and it came
+around because he was doing a control
+experiment. He was simply giving
+testosterone to adult females, adult
+female mice.
+And the idea was to sort of see if he
+got the same results
+as, you know, Charles Phoenix did with
+guinea pigs. So he gave testosterone to
+young females at birth as well as to
+adult females. And the adult females
+were controls. The idea was, well, these
+females mount like males if they've seen
+testosterone early on. The surprising
+result that he got was that adult
+females given testosterone mounted like
+males. So they have the circuit for male
+sexual behavior, but it's not activated
+because there's no testosterone.
+Similarly, if you take and this is a
+work by Katherine Dak at Harvard. If you
+take mice um and you sort of remove
+pheromone sensing from them, you know,
+pherommones are these chemical cues that
+animals use to sort of uh recognize sex
+and social status of other individuals
+of their species. If you sort of disable
+pheromone sensing in mice, females will
+now show male type sexual behavior. It's
+as if that pherommonal input is
+inhibiting
+male sexual behavior. But if you take
+away the pheromone sensing capacity then
+the females will start mounting like
+males. So you have at least two sort of
+control mechanisms if you will to
+inhibit adult male sexual behavior in
+adult female mice. One is the absence of
+testosterone or very low levels of
+testosterone and the other is the sort
+of pherommonal input. This chemosensory
+alactory input that is inhibiting male
+sexual behavior. You take either one of
+those I mean you give testosterone or
+you take away the inhibition from those
+pherommones you get male sexual
+behavior. So it seems that parts of the
+circuit for male sexual behavior to
+display the behavior are there in the
+female in the adult female brain.
+So in some cases the circuit seems to be
+missing like the female sexual behavior
+circuit because you can give an adult
+male estrogen and progesterone to mimic
+estrus or heat and he doesn't lurose. We
+can take an adult female and give a
+testosterone and she'll have you know
+she'll show sexual behavior like a male.
+And because it's probably in the back of
+people's minds and because I'm very
+familiar with this literature, uh, we
+should just point out that all data
+point to the fact that you don't see
+market differences in androgens or
+estrogen. If you were to look between
+women who define themselves as
+heterosexual versus homosexual, so
+heterosexual women versus lesbians, or
+heterosexual men versus homosexual men.
+If anything, the data point to
+homosexual men having higher levels of
+testosterone. It's been difficult to
+tease apart from um some lifestyle and
+behavioral things, but when teased apart
+it and it's been done, you're not going
+to find anything that that screams
+hormone levels define sexual
+orientation. You just you just don't
+find that.
+&gt;&gt; You don't see that. No,
+&gt;&gt; you see a lot of data that points to
+changes in uterro that may be hormone
+driven, but nothing um
+&gt;&gt; as adults.
+&gt;&gt; Nothing as adults.
+&gt;&gt; No. And in fact, if you can take, you
+know, what we call wild type male mice,
+if you will, right? meaning they're sort
+of completely uh typical or normal male
+mice and you can measure their
+testosterone levels and you get a huge
+range of circulating testosterone in
+otherwise normal mice of you know or
+five to 10fold difference in
+testosterone
+&gt;&gt; or humans for that matter
+&gt;&gt; or humans for that matter and they still
+you know these mice will still behave
+like males
+&gt;&gt; I won't out this person um but uh I'm
+not talking about um sexual orientation
+um the CEO of one of the most successful
+ful media companies in the world came up
+to me at a gathering um like two years
+ago and he said, "Listen, I I have this
+uh have a problem." So, usually when a
+guy says that to me, it's going to be
+something about uh testosterone or or
+sexual dysfunction or something. And he
+said his testosterone is down in the
+300s, kind of lower end of of reference
+range. He said, "But I feel great." He's
+like, he's he's saying, "My libido is
+great. My my work drive is great. I feel
+great." And I said, "Well, your free
+testosterone is probably um normal and
+high." And he goes, "No, that's also
+low, but I feel great. Should I take
+testosterone?" And I said, "Uh, listen,
+I'm not an endocrinologist, but my
+advice would be no." Right? So, and I I
+point this out. I think he's probably in
+his late 50s, early 60s. And uh what he
+was revealing uh was you know unique
+among the questions I typically get
+around testosterone. But I think it
+points to the fact that who knows maybe
+he has a higher than normal receptor
+density that can make use of of those
+levels of testosterone. I mean there's
+so many ways in which hormone levels can
+play out in one direction or another or
+something in between. I think it's worth
+people knowing that. That's right. Um, I
+have so many questions, but um, this
+feels like thorny territory and um, I've
+learned when doing this podcast whenever
+something feels like thorny territory
+that uh, to go right into it.
+These days we hear a lot
+endlessly it seems about the debate as
+to whether or not sex differentiation
+uh and gender are biologically
+determined or are um more mutable than
+that. Uh we're certainly not going to
+resolve that question here. Certainly
+not for everybody. I'm sure you have
+your stance and I have mine. But how is
+it that we bring together our
+understanding of sex differentiation
+versus this gender word? Right. It seems
+to me that in a lot of talks you've
+given, you use the word gender. I know
+because I've listened to those talks and
+we've I'll reveal it now. We've been
+friends for a long time. That's right.
+&gt;&gt; And you'll sometimes say sex and you'll
+sometimes say gender. And I understand
+that sex is a confusing word because the
+moment they hear it, they think of the
+verb sex,
+&gt;&gt; right? How do we think about sex versus
+gender when it comes to understanding
+brain and uh
+yeah just brain? Let's just stay with
+that. Not even body because clearly the
+data in mice and humans point to the
+fact that the administration of hormones
+can change the body. It can it can shift
+things in one direction or the other
+&gt;&gt; given at the right time.
+&gt;&gt; Given at the right time and we can talk
+about that. Um
+but what about the brain piece?
+How mutable is this? And what are your
+thoughts on the controversy and how
+should we be thinking about this?
+Forgive me for stumbling, but it is it's
+it's not that I'm trying to avoid
+upsetting anyone. It's like we don't
+have a good language to differentiate
+these things. And I think part of the
+issue part of the problem for not having
+a good language and good understanding
+is we don't have an animal model for it.
+Gender is such a humanpecific construct,
+you know, as the sort of constellation
+of behaviors and expectations
+generated from within and by our society
+and culture, but what gender is. And
+gender sort of includes not only sort of
+identification of yourself as a male or
+a female or something in between having
+sort of attraction for one sex or the
+other or not having any attraction for
+anybody or sort of having this sort of
+compartment of behaviors like dressing
+in a particular way, sort of speaking in
+a particular way or having meeting
+societal expectations. All of those sort
+of comprise gender and it's hard to do
+that in the mouse. We don't know enough
+about mice. We don't even we don't even
+know about mice enough to say they have
+a gender. We know that they have sexes,
+females and males based on SRY,
+testosterone, estrogen, and
+progesterone.
+&gt;&gt; Okay.
+&gt;&gt; So, it's hard to have an animal model
+for something like this, which is so
+complex. And so, it seems human
+specific.
+Well, you said one thing that um at
+least
+my understanding um checks off one box,
+which is that sexual orientation and how
+people self-identify in terms of
+maleness or femaleness is separable. We
+know that because there are people who
+are homosexual and we know that because
+there are people who switch gender by
+way of hormones,
+obviously not from birth, but later in
+life. And
+in many cases they don't change sexual
+orientation. Sometimes they do, but my
+read of the data is that usually they
+don't. In other words, if somebody
+preferred females before, they they they
+might uh administer hormones, change
+their body, but they'll continue to to
+like females or vice versa. Right?
+That's my understanding of the data. And
+I went into the data looking prior to
+this conversation. And there are a lot
+of data. Now, the problem is it's
+difficult to find unbiased data. I'll be
+very honest. I feel like the data are
+biased on both sides. People seem to be
+arguing for something going in. Okay.
+So, sexual orientation and how people
+self-identify,
+we know is separable. That's not a a a
+uh controversial thing. We just know
+because that's what happens. But when it
+comes to when people are administered
+hormones, how that changes the brain in
+human, what do we know? You said it
+depends on whether or not they're
+administered hormones early versus later
+in life. Well, I think the early data
+and you know we talked about congenital
+adrenal hyperplasia, we talked about
+antigen insensitivity syndrome. Those
+data really say that hormones at a point
+in development maybe in utero have a
+profound effect on masculineization of
+feminization external
+&gt;&gt; as well as of the of the brain.
+&gt;&gt; Right? These kids that make uh that
+don't make DHT that are raised as girls
+but later sprout a penis are at least as
+you described it for all the world
+raised as girls and happy being raised
+as girls identify as girls until
+testosterone kicks in and then uh and
+then it but it's interesting right
+because their body changes so it's
+unclear to what extent the bodily
+changes are driving the psychological
+changes but presumably if the brain is
+organized male because they're X Y and
+they have the SRY gene
+&gt;&gt; and they have testosterone
+there's a there's a substrate for it
+like it's it's waiting for that for that
+testosterone there's something to for it
+to act on
+&gt;&gt; and similarly if you're if you're
+insensitive to testosterone if you have
+androgen insensitivity syndrome then
+you've not seen testosterone sort of
+biologically it's present in the
+circulation but your brain for example
+can't respond to it so you're feminized
+externally and you also behaving as a
+female all the way through adult's life
+So that's the early action of
+testosterone, right? So I think what
+you're referring to is people deciding
+to sort of take hormones
+at a later point in life after birth,
+much later after birth to switch
+genders,
+&gt;&gt; right? Um and maybe the starting place
+to really understand this is when people
+take hormones uh but don't want to
+switch genders. So these days it's very
+common for more common now uh for men
+typically but women also. Let's just say
+men taking testosterone or augmenting
+testosterone or for women to augment
+estrogen. This is now um because of the
+increasing attention on menopause and
+pmenopause and the the the women's
+health uh initiative and trials that
+looked at this. It's very clear that
+there are some u advantages to estrogen
+therapy in women who identify as women.
+I'm just making this like I'm trying to
+simplify this as much as possible. Our
+colleague Robert Seapolski, who knows a
+lot about testosterone, um has written
+books about it, said when somebody
+increases their testosterone
+pharmacologically, it just makes them
+more the way they are. If they're an
+aggressive jerk, it makes them more an
+aggressive jerk. If it if they're
+altruistic, it makes them more
+altruistic. But it's really about
+hierarchy. It's really about um uh a
+willingness to lean into effort to
+suppress amydala activation and to lean
+into effort within the domains where
+they feel a lot of agency. It's kind of
+what he describes as the main effect of
+testosterone.
+It's a little unclear what the main
+effect of estrogen is when given uh to a
+woman in adulthood besides the ones that
+have been described like um preservation
+of cognitive function
+&gt;&gt; um skin texture uh but you know vaginal
+lubrication like a b bunch of things
+that that are kind of uh youthful
+restoration type phenotypes. It's it's I
+don't think there are a lot of data
+about the psychological changes but they
+seem to be in the direction of feeling
+better because there are a lot of women
+now who are seeking estrogen uh
+replacement therapy
+&gt;&gt; with menopause there's a sharp increase
+in the incidence of Alzheimer's disease
+in women right so as you pointed out you
+know taking estrogen at after menopause
+if it's medically sort of you know fine
+once you've consulted your doctor then
+that will at least prevent the decline
+in cog in cognition because you now have
+estrogen on board so that's the thinking
+behind you know sort hormone replacement
+therapies for cognition at least.
+&gt;&gt; Um coming back to the testosterone um
+thing that you mentioned from Robert
+Spolski, we did a similar experiment in
+the mouse where we just mutated the
+androgen receptor only in the brain.
+&gt;&gt; H
+&gt;&gt; and this is going to get complicated I
+think.
+&gt;&gt; No, it's cool experiment. So um penis
+can respond to testosterone, muscle can
+respond to testosterone, connective
+tissue can respond to testosterone,
+brain can't respond. You did that from
+from birth in these?
+&gt;&gt; Yes. It's going to get interesting
+because we're going to have to talk
+about aromatization. Now, u So, these
+males are still masculineized.
+They just mate and fight less than
+normal males would.
+&gt;&gt; Okay. So, their brains are a little I
+it's again there's a der of language
+here, but these these mice that don't
+have testosterone acting on their brain
+are a little less stereotypically male.
+That's right. That's right.
+&gt;&gt; They fight, but they don't like to fight
+as much.
+&gt;&gt; They don't They mark territory, but not
+so much.
+&gt;&gt; Interesting.
+&gt;&gt; Right.
+&gt;&gt; Some Someone's in the comments already
+saying beta male,
+&gt;&gt; right? That's the kind of YouTube speak.
+YouTube, by the way, because it's
+male-dominated in terms of its audience,
+is if you look at the comments on
+YouTube, not just for this podcast, but
+other podcasts, it's a um it's a rich
+data set for how males compete when
+anonymous and when physical strength is
+not um involved. Very interesting. lot
+lot of uh um lot of hierarchies in
+comment sections
+&gt;&gt; um that are removed from the
+stereotypical um uh kind of notions of
+of how hierarchies were played out
+&gt;&gt; because aggression is
+&gt;&gt; right
+&gt;&gt; it's all words right and memes well you
+mentioned aromatization so we should
+tell people what aromatization is this
+always throws people for a loop when you
+tell men that they're very male-like
+because of estrogen
+freaks them out,
+&gt;&gt; right?
+&gt;&gt; Well, go ahead. Freak them out.
+&gt;&gt; So, this all started with classic work
+by Frank Neftlin in the 70s when he was
+sort of working on human embryionic
+tissue, brain tissue. And he realized
+that the embryionic human brain
+contained an enzyme that converted
+androgen into estrogen. And the enzyme
+is called aromatase. And this is in fact
+the primary way that the ovaries make
+estrogen. They first make testosterone
+then gets aromatized from by this enzyme
+aromatase and gets made into estrogen.
+Okay. So it turns out that Napalin's
+sort of discovery is exactly right. Even
+in the mouse brain in the mouse male
+brain we and others have shown that
+there is aromatase the enzyme expressed
+in very specific circuits in the brain.
+&gt;&gt; Can I just stop you? You mentioned this
+early experiment by this gentleman.
+Yeah. Was done on human brain tissue.
+&gt;&gt; Yes. And rats and you know others.
+&gt;&gt; It's a very important point. Uh I think
+she will appreciate uh hearing this, but
+a long while ago I mentioned this thing
+about arro aromatization of testosterone
+to estrogen is really what masculinizes
+the male brain. And a very prominent
+author in the testosterone space, a
+female author wrote to me and said,
+"It's just mice."
+&gt;&gt; Um so but but she's very scholarly and
+and I think she'll appreciate hearing
+that the original data come from human.
+Great. Thank you. Um so it's not just
+mice. Yet another way that we're
+conserved.
+&gt;&gt; To be fair though, I think the idea with
+what she might have been referring to is
+that aromatization in the human brain
+may not be playing as dominant a role in
+masculineizing the brain as it does in
+rodents and other animals.
+&gt;&gt; So that you know we can't really speak
+to that because you can't do those
+experiments in humans.
+&gt;&gt; But if you have a male mouse lacking
+aromatase so he can't make estrogen then
+you know his behaviors won't be
+mascized. He appears more female.
+&gt;&gt; Not appears behaves more like doesn't
+behave like a male because he's not
+converting testosterone into estrogen.
+And this happens very early at birth in
+mice. So testosterone gets made by the
+testes, gets in the brain, gets
+converted into estrogen. And then, you
+know, as we talked about earlier, there
+are some cells that die or survive
+depending on the sex. And this
+conversion of testosterone into estrogen
+enables specific sets of cells in the
+male brain to survive.
+This is probably a good place for us to
+inform people that these steroid
+hormones, testosterone and estrogen are
+very interesting because they can have
+immediate effects and they can also
+change gene expression. This is a good
+opportunity for you to teach us some
+cell biology. So, is it by virtue of the
+fact that they're lipid soluble? They
+can go all the way into the nucleus of a
+cell. Um, I mean, you know, this is very
+different than like dopamine, right?
+Dopamine can impact cells. you know,
+don't do this folks, but you know, if
+you were to take methamphetamine or
+something, you'd your brain would go
+very dopamineergic very fast. Um, but
+it's not going to change gene expression
+in the short term. Maybe in the long
+term, but not in the short term. But
+testosterone administration or estrogen
+administration is literally changing the
+genes that are expressed in the cells
+they interact with.
+&gt;&gt; How does that work? I mean, what what's
+going on? What what are they actually
+controlling? So the receptors for these
+hormones testosterone, estrogen,
+progesterone um they sit in the
+cytoplasm of cells not in the nucleus
+and as you pointed out these are you
+know steroid hormones are lipids they
+can cross cell boundary cell membranes
+and once they bind to the receptor the
+receptor bound to the hormone is
+transllocated into the nucleus where it
+finds stretches of DNA that it
+recognizes it sort of sits on them binds
+them and then changes or regulates gene
+expression of what we call target genes.
+And that's how you know you get gene
+expression changes by these hormones.
+&gt;&gt; So this is why whenever I hear like the
+Seapolski argument which I totally agree
+with that you know you give uh someone
+testosterone and they become a lot more
+like themselves they don't if they're a
+nice person they become that much nicer.
+If they're aggressive they become that
+much more aggressive. But those are
+short-term studies right? So, we don't
+really know how the administration of
+hormones, testosterone or estrogen to a
+self-declared male or female uh or XYX,
+doesn't matter. But the the point is
+that we don't know how the long-term
+administration of these hormones
+literally change the genes and therefore
+the thought patterns and behaviors and
+feelings of these people.
+&gt;&gt; That's right. You're basically changing
+the molecular fingerprints
+of specific sets of cells in the brain
+with hormone action. A big debate these
+days is whether or not um people if they
+seek to change their gender identity
+whether or not they're in a position to
+make that decision because they're a
+minor rights are not legally allowed to
+make all sorts of decisions like vote
+drive a car uh all sorts of things work
+in this country anyway work a job I
+think you have to be used to be 14 I
+don't know what it is now but it's an
+interesting biological question when you
+just say okay at um forgetting uh all of
+that and and just asking, okay, what is
+the condition of a uh like a a
+10-year-old brain versus a 14-year-old
+brain that's entering puberty versus a
+16-year-old brain that's still
+transitioning through puberty, maybe in
+late phases of puberty, versus 25, which
+is when we know brain development is
+more or less coming to a to a close,
+although brain development continues
+forever. I mean, how is anyone going to
+eventually come to a an agreement one
+way or the other on this? Is there real
+biology that we can look at uh in mice
+or in humans and say like, okay, here's
+here's the dynamic tension. The dynamic
+tension out there is
+there are people saying they're kids
+that are too young to know what they
+are, let alone choose what they want to
+be,
+&gt;&gt; right? And then on the other side,
+you've got people battling saying, "No,
+it's essential to get in early because
+then the trajectory is is is more
+malleable." And then you don't want um
+somebody to end up in a place where uh
+change isn't possible. And then you have
+people saying, "Well, wait, I changed
+gender and then now they want to reverse
+later because and they're angry that
+they they were allowed to make the
+decision." So, it's a mess. It's a it's
+a it's it's a genuine mess in terms of
+defining what the key parameters are. Do
+you think it will ever be resolved?
+&gt;&gt; Let me step back and say we don't even
+know much about this in the mouse yet.
+Right? So we don't know what happens to
+the mouse brain at puberty
+&gt;&gt; really
+&gt;&gt; there are experiments being done but not
+certainly not the same detail as in the
+adult mouse brain.
+&gt;&gt; So how circuits are made plastic or how
+they're malleable at puberty is still
+sort of being worked out in the mouse.
+Right? So that so that's the first
+answer. The second one, the reason I
+think it's contentious is a it's both
+deeply personal what the kids are
+feeling, but also there's these huge
+sort of societal political forces that
+come into play. So I think the tension
+there has to be resolved I think
+politically and sort of socially rather
+than you know just resorting to science.
+I think science will give you data but
+you will still have to make a decision
+as to whether or not you know that'll be
+allowed. So I think that's the reason it
+is so contentious. the data is not there
+in terms at least in the mouse or other
+animal models or it's coming out it's
+coming out slowly. Um and socially and
+politically it's very volatile
+because it's not clear how you sort of
+you know have kids rights, parental
+rights, societal expectations intersect
+and give a result that is satisfactory
+to everybody. So that's where we are.
+I'm not saying I'm pro one or against
+the other. I'm just saying that's why
+it's so contentious in my mind. Today is
+a biological discussion because that's
+what we can say uh things about for
+sure, right? We can talk about biology
+for sure. The the other pieces are um
+they're even prone to um trip wires
+related to language and and that uh for
+biologists is is uh no fun. Um and uh
+the whole reason to become a biologist
+as opposed to a psychologist is because
+um while I have tremendous respect for
+the field, biologists
+have nomenclature committees. We agree
+this is because you could make this
+argument about anything. Uh again by way
+of example I mean you could say oh the
+SRY gene is the SRY gene. But what if
+it's just two amino acids different it's
+still functional. Is it still the SRY
+gene? Well there are nomenclature
+committees where people decide yes or
+no. You have a you have a community
+agreement
+in order to go forward and you don't
+have that in terms of the discussion
+around gender but you have it around the
+discussion of sex.
+&gt;&gt; Yes.
+&gt;&gt; Right.
+&gt;&gt; And circuits. and circuits. So, let's
+talk about circuits for sex. Start
+there. Let's start with a recent
+discovery your laboratory made, which is
+about sexual behavior
+in males and the frequency of sexual
+behavior. I think u most everyone who
+has gone through sex education in one
+form or another understands that males
+have a refractory period after
+ejaculation in which they
+don't mate again and in some cases can't
+mate again. What did you discover about
+the neural circuits responsible for
+mating and the refractory period? Yeah.
+So this is in the mouse and we were
+working in male mice and we sort of hit
+upon these neurons. We identified these
+neurons using genetics that expressed a
+specific set of genes in the
+hypothalamus that if we activate them um
+male mice no longer have a refractory
+period. And the strain of mouse we're
+working on has a post ejaculation
+refractory period of about four to five
+days
+&gt;&gt; typically.
+&gt;&gt; Typically so he won't mate for up to
+four days with the female after
+ejaculation. So if he is presented a
+female and they mate, he ejaculates, you
+remove that female, you give him a new
+female, he won't mate with her for four
+or five days,
+&gt;&gt; correct?
+&gt;&gt; He's content or he's not able or
+whatever. Okay?
+&gt;&gt; So we sort of switch these cells on with
+optogenetics. You know, we sort of
+electrically activate these cells with
+light and they lose their refractory
+period. They start mating within a
+second. As soon as the light comes on,
+the cells start firing. They start
+mating again and they can ejaculate
+again. So you reduce the refractory
+period from four to five days to 1
+second.
+&gt;&gt; That's right.
+&gt;&gt; How long can they keep this up? No pun
+intended.
+&gt;&gt; As long as the light is on, they'll keep
+mating.
+&gt;&gt; And you're not talking about light
+presented to the eyes. You're talking
+about um basically a light driven way to
+stimulate the neurons.
+&gt;&gt; That's right.
+&gt;&gt; What are these neurons? What what are
+they called?
+&gt;&gt; Uh they're in the hypothalamus. They're
+in the preoptic area, which is one of
+the most sexually different
+differentiated areas in the brain across
+vertebrates. And they express the gene
+tachikinan receptor one tac r1.
+&gt;&gt; I thought tachikinan is associated with
+aggression
+&gt;&gt; social behaviors
+depending on the circuit.
+&gt;&gt; Right? So flies has been shown David
+Anderson shown for example the tac one
+the tachikin genus regulates aggression.
+In this circuit in the male mouse it
+regulates sexual behavior.
+&gt;&gt; How many neurons?
+&gt;&gt; Maybe about 1,200 1500 on each side. So
+about 2,00 2500 cells total.
+I'd like to take a quick break and
+acknowledge one of our sponsors,
+Function. Last year, I became a Function
+member after searching for the most
+comprehensive approach to lab testing.
+Function provides over 100 advanced lab
+tests that give you a key snapshot of
+your entire bodily health. This snapshot
+offers you with insights on your heart
+health, hormone health, immune
+functioning, nutrient levels, and much
+more. They've also recently added tests
+for toxins such as BPA exposure from
+harmful plastics and tests for PASES or
+forever chemicals. Function not only
+provides testing of over 100 biomarkers
+key to your physical and mental health,
+but it also analyzes these results and
+provides insights from top doctors who
+are expert in the relevant areas. For
+example, in one of my first tests with
+function, I learned that I had elevated
+levels of mercury in my blood. function
+not only helped me detect that, but
+offered insights into how best to reduce
+my mercury levels, which included
+limiting my tuna consumption. I'd been
+eating a lot of tuna while also making
+an effort to eat more leafy greens and
+supplementing with knack and
+acetylcyine, both of which can support
+glutathione production and
+detoxification. And I should say by
+taking a second function test, that
+approach worked. Comprehensive blood
+testing is vitally important. There's so
+many things related to your mental and
+physical health that can only be
+detected in a blood test. The problem is
+blood testing has always been very
+expensive and complicated. In contrast,
+I've been super impressed by Function's
+simplicity and at the level of cost. It
+is very affordable. As a consequence, I
+decided to join their scientific
+advisory board and I'm thrilled that
+they're sponsoring the podcast. If you'd
+like to try Function, you can go to
+functionhealth.com/huberman.
+Function currently has a wait list of
+over 250,000 people, but they're
+offering early access to Hubberman
+podcast listeners. Again, that's
+functionhealth.com/huberman
+to get early access to function. If we
+were to scale the size of the preoptic
+area from the mouse to the human, back
+of the envelope calculation, how many
+neurons is this in humans?
+&gt;&gt; Roughly the same range because the human
+hypothalamus hasn't expanded that much.
+It's a human cortex that's expanded.
+Yeah, we should we should uh remind
+people of this or or let them know the
+hypothalammus in your brain is what the
+size of a couple of marbles sitting
+above the roof of your mouth controlling
+all of this stuff. That's right. So in
+the mouse, you know, these cells account
+for you know about 3,000 cells account
+for I don't know um 110,000th
+of the mouse brain. So take the same
+number to the human brain which has you
+know 80 billion neurons. Um so it's
+really a tiny tiny subset of cells. So a
+few thousand maybe 100 thousand on the
+human 10,000 in the human.
+&gt;&gt; So if stimulation of this of these cells
+reduces the refractory period to
+essentially zero one second. It's not
+zero seconds but um and that's with the
+same female or you can replace females.
+He'll just keep he'll just keep mating.
+&gt;&gt; Without the light, without the
+activation, he wouldn't have ejaculated
+again for four or five days. So this
+tells us that these neurons control the
+entire circuit down to ejaculation.
+So because the the words refractory
+period um encompass a bunch of things,
+right? The um difficulty in achieving
+erection as easily as one did prior to
+the first mating,
+&gt;&gt; right?
+&gt;&gt; Um
+presumably this bypasses all the
+dopamine aspect of it. What about
+prolactin controlling the refractory
+period?
+&gt;&gt; Yeah, I don't think the data on that is
+super strong. I think Susanna Lima has
+done some work and she doesn't find any
+sort of relation with prolactin and
+refactoric period
+&gt;&gt; although in humans um there's a
+practice
+of people taking um I forget what the uh
+I'm not pretending to forget what the
+the drug is. um kbergoline
+which is a dopamineergic agonist which
+is used to treat hyperp prolactinmia to
+reduce prolactin
+&gt;&gt; and it seems to be very uh pro libido in
+males and females people and I do not
+recommend this people take it
+recreationally there's actually a a
+slippery slope of this where um people
+will take it in an effort to
+have more sex but they can't achieve
+orgasm Um, and so it drives them crazy
+and they're institutionalized. I'm just
+kidding. They're not institutionalized,
+but it drives them crazy and they decide
+it's not a good choice.
+&gt;&gt; So, yeah, I mean, I think that's a great
+point. Let me circle back to the same
+circuit and also sort of take you on a
+tangent. I think people with Parkinson's
+taking L-dopa
+&gt;&gt; also augmenting dopamine levels because
+they are giving the precursor to dop to
+dopamine, right? And there are reports
+in the literature saying that there is
+an increase in hypersexual type
+behavior. You see this in um the the
+case that I heard years ago on the radio
+uh was of a woman who was taking L-dopa
+to treat her Parkinson's and she became
+a gambling addict.
+&gt;&gt; That's right. So part of the spectrum of
+the sort of taking L-dopa and
+Parkinson's is you become sort of you
+get these compulsive behaviors coming
+out or hypersexual behaviors coming out.
+And coming back to our circuit, the TAC
+R1, the Tachikan receptor circuit, we
+also show we also found that activating
+these cells leads to dopamine release in
+the nucleus circumbent.
+&gt;&gt; Oh, interesting. Which well it makes
+sense. But so but these neurons
+themselves are not respons responsive to
+dopamine, are they?
+&gt;&gt; No, they don't express receptors for
+dopamine. They project to the vententral
+tegmental area which is dopamineergic
+which has a lot of dopamine neurons and
+they activate these cells which then
+release dopamine in the nucleus
+encumbent.
+&gt;&gt; So these cells are like switches.
+&gt;&gt; Yes. And they're also we think encoding
+the rewarding aspects of sexual
+behavior.
+&gt;&gt; H tell me more about that.
+&gt;&gt; So you know people would describe sexual
+behavior as pleasurable. It is
+pleasurable.
+And
+about 70 years ago, James Olds and Peter
+Miller in classic studies showed that
+there were areas in the brain that if
+you put an electrode in that region and
+you gave a rat an option to press a
+lever to deliver electric current into
+that brain region, many areas were
+identified by by Milner where the rats
+would keep pressing the lever to get a
+hit of the current if you will, right?
+And he identified such a sort of
+rewarding center, reinforcing center in
+the hypothalamus of the rat. And he said
+this must be the pleasure center for
+sex.
+Right? He had a piece in the scientific
+American on this. And but the identity
+of these cells wasn't known as you know
+as we talked about the hypothalamus is
+super complex. It regulates not only
+mating and aggression and maternal
+behaviors. It regulates body
+temperature, thirst, feeding, regulates
+many different behaviors. So which cells
+are sort of encoding rewarding
+properties of sexual behavior. So these
+TAC R1 cells um if you give mice the
+opportunity to activate these cells with
+optogenetics. So instead of pressing a
+lever they just poke their nose their
+nose in a hole and if they poke their
+nose in a hole that has the correct hole
+they get light stimulation into these
+neurons. So these mice once they learn
+once they figure out that this port or
+hole delivers light and therefore
+electrical activation on these cells
+they tack our one cells they'll keep
+doing that repeatedly.
+&gt;&gt; Got it?
+&gt;&gt; Okay. So it says
+&gt;&gt; they like it.
+&gt;&gt; They love it. Right. And in fact they
+could be sexually naive. They could be
+virgins
+&gt;&gt; and they still love it.
+&gt;&gt; Right. So this rewarding property of
+these neurons doesn't depend on past
+sexual experience. These neurons are
+naturally encoding some form of reward
+or reinforcing behavior.
+&gt;&gt; Does it require sexual behavior itself?
+&gt;&gt; No, that's what I said. So, virgin males
+will do it, too.
+&gt;&gt; Oh, you mean while they're still
+virgins? I thought you meant having
+never had sexual experience before.
+&gt;&gt; This is important because um as you and
+I know, uh Du Lynn's work from NYU
+showed that these neurons in the
+ventromedial hypothalamus when
+stimulated, mice will attack another
+mouse,
+&gt;&gt; right?
+&gt;&gt; They'll even attack a glove,
+&gt;&gt; right?
+Um, we can put a link to these videos.
+They're very dramatic to see this. You
+know, the the stimulation of these
+neurons goes on and they just will
+attack the glove, attack the other
+mouse, stop the stimulation, they stop.
+It's like rage switch.
+But if there's no glove or mouse to
+attack, they don't attack anything at
+all. They just cruise around their cage.
+These neurons are different. These these
+neurons seem to make the what you're
+calling virgin males. uh they'll work to
+stimulate the these cells, but are they
+I can't get around this. Are they
+masturbating? What are they doing?
+&gt;&gt; Well, the brain's getting activated. So,
+the center for mating is getting
+activated.
+&gt;&gt; But what are they doing with that
+activation?
+&gt;&gt; They're not doing anything else. They're
+just going into the port again and again
+and again.
+&gt;&gt; Okay. So, in a lot of ways, it's it's
+it's like these ventromedial
+hypothalamus neurons. They need
+something to mate with. It's not like
+they start mating with the hole in the
+wall. No,
+&gt;&gt; it's not like they start mating with
+inanimate objects.
+They like the feeling of these neurons
+being stimulated, but the neurons
+themselves don't trigger mating.
+&gt;&gt; Let me step back. I think we're
+confusing two things, right? So, not
+confusing, we're conflating two things.
+One is do the mice like activation of
+the neurons? And the answer is yes. They
+love it because they keep doing it even
+if they've never made it before.
+&gt;&gt; Okay. So, the analogous experiment for
+the Dulin stuff would be uh will animals
+work for stimulation of the VMH? And we
+know the answer is yes. Male animals
+will work will work to fight. They like
+to fight.
+&gt;&gt; But if you activate these neurons, just
+like you know, if you activate the VMH,
+you get aggression towards the glove. If
+you activate these neurons and you give
+them an object, they will try and mount
+with it as long as it looks like a
+mouse. So if you give it a toy mouse,
+the males will try and mount the toy
+mouse.
+&gt;&gt; But if you give them say a um I don't
+know a marble,
+&gt;&gt; no. A beaker, no. A block of a wooden
+block, no. But if you take a test tube
+&gt;&gt; Yeah. they won't mount it. But if you
+give if you take a toy mouse tail and
+glue it to the test tube so it now has a
+you know has some mouse-like elements
+they will mount it.
+&gt;&gt; Very low threshold for for activating
+the behavior.
+&gt;&gt; Yeah. I think what it says just like the
+aggression sort of experiment says is
+that there are these innate circuits
+these hardwired circuits that if you
+activate them and you have the right
+stimulus the animals will attempt to do
+the behavior that these circuits are
+wired for
+&gt;&gt; or even the wrong stimulus but one that
+resembles it just barely a tail on a
+test tube by stimul
+for who they'll mate with and what
+they'll mate with but that's pretty
+that's pretty
+&gt;&gt; by simul I mean by activating these
+cells with optogenetics. So if you
+activate these cells and you give them
+an inanimate object, if it roughly
+resembles something that they're
+familiar with that looks like a mouse in
+this case, they'll try and mount it.
+&gt;&gt; But if you give a a mouse with no
+stimulation of these neurons a test tube
+with a tail,
+&gt;&gt; nothing happens. They'll sniff it.
+They'll they'll sort of, you know, maybe
+play with it and then they'll walk away.
+&gt;&gt; That's a significant result to reduce
+the refractory period from 4 days to or
+5 days to to 1 second. What is the
+theory as to why there's a refractory
+period at all? Is this female driven? Is
+it it based on the female sexual
+behavior um preferences or
+non-preferences or is it um something
+related to controlling population
+numbers like you would end up with I
+don't know too many pregnancies from one
+male? What what's what's the idea there?
+&gt;&gt; Actually, every species has a different
+refractive period and in the mouse you
+know because of genetic inbreeding there
+are lots of strains of mice. you know,
+people have been raising breeding mice
+for as pets and whatnot. And different
+strains of mice will also have different
+refractory periods.
+So, there's definitely a sort of a
+genetic basis for refractive period that
+may be species specific and also strain
+specific in the mouse. As to why you've
+genetically sort of selected for a
+specific refractive perc, I think it's
+generally unknown. Um it could depend on
+the kinds of um
+mating strategies different species use.
+&gt;&gt; Well, in humans um who mate not just to
+reproduce but also for pleasure. Uh
+you know what is known about the
+relationship between age and the
+refractory period duration? um that some
+years ago I was reading this book as I
+did again this weekend um about hormones
+and behavior and it's really interesting
+when you look at the distribution of
+testosterone levels in in males from age
+say 20 up to 90 there's a big range at
+any given age and it's not clear that
+absolute testosterone numbers are that
+uh informative anyway but they they
+point in a certain direction but you
+also look at um sort of copulatory
+frequency, sex frequency as a function
+of age. And it's also highly variable. I
+mean, there are these famous/infamous
+cases of like Franklidd Wright who was
+um purportedly um you know, having sex
+up to, you know, four, five, six, seven
+times a day and did that well into his
+his 80s, you know, to the point where
+his wife at one point was really
+concerned like is this okay for his
+health? And um he was also uh an
+incredibly productive person in other
+domains of life. Also, by the way, an
+incredible procrastinator. apparently
+did all his sketches on the like cab
+ride over to the the deadline. Like he
+he would um he he sort of functioned in
+this like kind of thoughtful/impulsive
+manner. So people say,
+&gt;&gt; but he certainly never contested the
+these rumors. And then some people
+probably just have lower libido, right?
+But as a function of age, it is the idea
+that it's all testosterone driven. If
+testosterone levels drop, then frequency
+of of mating, assuming someone is, you
+know, has a partner that they mate with
+um drops off. Like what what's known
+about this?
+&gt;&gt; As you pointed out, you know,
+testosterone levels vary all over the
+place, right? And it's not just you
+could have normal levels of
+testosterone, quote unquote normal
+levels, and there's already a huge range
+of normal tighters circulating levels of
+testosterone, but also you could have
+different receptor densities in
+different regions. M so it's hard to
+just take one parameter testosterone
+levels and say that that correlates with
+libido or with um with the desire to
+mate in humans why sexual behavior
+changes or the factor changes I don't I
+don't think it's generally known
+it could be biological could be social
+it could be many things
+&gt;&gt; I neglected to ask um the obvious
+question which is do these neurons also
+exist in the female brain
+&gt;&gt; yes they
+And what are they controlling in the
+female brain?
+&gt;&gt; We don't know yet. But um each awe a
+postdocctoral fellow in my lab when he
+was a graduate student uh activated
+a larger subset of these cells in the
+preoptic hypothalamus in the females and
+they all express estrogen receptor
+estrogen receptor alpha ESR1
+and these females also mated like males.
+So this sort of harks back to something
+we talked about earlier that the circuit
+for male sexual behavior is present in
+the female brain and he sort of
+identified a node in the female brain
+that lets them mate like males if he
+activates this optogenetically.
+Whether the TAC R1 cells that we
+identified do the same, we don't know
+yet. We're working on that.
+&gt;&gt; Okay. Without getting um too down in the
+nitty-gritty of circuit biology, but
+also getting down into the nitty-gritty
+of circuit biology, I have to know. So,
+where do these cells connect to? You
+mentioned that they're in communication
+with the dopamine system to activate
+this kind of sense of reward, pleasure,
+and reinforcement to drive more of the
+behavior. Where else are these cells
+projecting? I mean, it's um it's a long
+way from a couple, you know, from 1,200
+neurons to uh the penis. Um what's in
+between?
+&gt;&gt; Yeah. So one big area they project to a
+really dense projection from these cells
+is to the peracoductal gray
+&gt;&gt; an area involved in pain regulation
+&gt;&gt; and many other sort of innate behavioral
+displays
+&gt;&gt; so fight or flight freezing behavior
+&gt;&gt; and also sort of lordosis behavior
+&gt;&gt; and for folks that aren't familiar with
+neuro anatomy that the period ductal
+gray sits kind of in the back of the
+brain um and backish of the brain and I
+always imagine it kind of like a pizza.
+It's got these like segments. It has
+these sectors like you activate one
+brain area, it's involved in suppressing
+the pain response. You activate another
+area, it's involved in femalordos. You
+activate another area, it's involved in
+kind of fleeing. You activate another
+area, it's an approach. So either it
+hasn't been parsed finely enough or it's
+um in fact, it's kind of like a it's
+almost like a mirror of the hypothalamus
+further back in the brain.
+&gt;&gt; That's right. So they project to the P A
+&gt;&gt; and then from there
+&gt;&gt; and the Pag goes to the brain stem
+you're part it's already already in in
+the back of the brain as you pointed out
+and then goes further down through
+multiple connections to the spinal cord
+&gt;&gt; and then it intervates with the bulb
+coverosis or whatever controls
+&gt;&gt; muscles and the thoracic muscles
+involved in thrusting and
+&gt;&gt; it's a it's a program that's a um innate
+program I mean most animals um have to
+learn the socialization of mating
+um dating, consent, all other things,
+but they don't have to learn the motor
+programs. The motor programs are
+activated during puberty. Is that right?
+&gt;&gt; Yeah.
+&gt;&gt; Some years ago, I recall a paper um
+showing that mounting behavior could be
+both aggressive or reproductive.
+What's what's the story there? Because
+females do it too,
+&gt;&gt; right? So, you're saying by aggressive
+you mean like a form of dominance
+display?
+&gt;&gt; Yeah, like jiu-jitsu,
+&gt;&gt; right? So it certainly that's what
+people have certainly said that it could
+be a dominance display because males
+will sometimes mount males although once
+males start fighting and once they've
+had sexual experience they tend less
+often to mount other males they just go
+straight for the kill if you will
+&gt;&gt; um and in other species you know many
+non-human primates sort of animals will
+just mount each other as sort of a play
+behavior or also for giving pleasure
+right so that's a known thing so mount
+you know female female male male mounts
+they will do it as play behavior in
+uneven primates So there are many
+presumably many reasons to engage in
+that sort of behavior.
+&gt;&gt; So it's not always sexual is the idea.
+&gt;&gt; Not necessarily. Right.
+&gt;&gt; So what other collections of neurons
+live in this part of our brain that when
+activated give uh critters us or
+otherwise um these kind of supernatural
+uh let's just say extreme um uh
+functions.
+&gt;&gt; Thirst neurons feeding neurons right? So
+you can activate specific sets of cells
+that express AGP for example or other
+sets of cells animals start drinking
+water or start eating.
+&gt;&gt; Uh I thank you. I mean within the
+context of of mating and and sexual
+behavior are there are there for
+instance like neurons that when you
+stimulate them um mice start building
+nests.
+&gt;&gt; We don't have those sets of neurons yet.
+But there are so many sets of neurons in
+the same vicinity that regulate
+parenting behaviors. Right? So they'll
+start taking care of pups for example.
+So you can take virgin mice who don't
+normally take care of pups. It can
+activate these circuits and it can
+prevent these mice from hurting the
+pups.
+&gt;&gt; So normally mice will hurt Yes.
+&gt;&gt; will hurt other mice pups.
+&gt;&gt; Yes. Not their own, right?
+&gt;&gt; That sucks.
+&gt;&gt; Yeah.
+&gt;&gt; Doesn't say much for mice,
+&gt;&gt; right? Well, a lot of animal species do
+that.
+&gt;&gt; Yeah.
+&gt;&gt; Right. They ex sort of exhibit
+infanticile behavior where there are
+other species like vos that take that
+show fostering behavior. They take care
+of pups not their own. So, it depends on
+the species you're talking about.
+&gt;&gt; Yeah. Years ago, I worked with ferrets
+and um they're perfectly happy to raise
+other ferrets, they they kind of don't
+even seem to notice if it's theirs or or
+some some other ferrets, pups, kits.
+Interesting. Do you think when people
+get dogs, bulldogs in particular, I'm
+just joking. dogs. Uh Nural has like one
+of the world's cutest uh French
+bulldogs. That some of the caretaking of
+of dogs activate some of the same
+circuitries in the brain that are
+responsible for for rearing our own
+species.
+&gt;&gt; I don't know to be honest.
+&gt;&gt; I'm disappointed to hear you say that.
+I must say I'm disappointed. When I got
+Costello as a puppy, I'll never forget
+that for the first, I don't know, three
+weeks that I had him, I had very little
+appetite. I my work drive was certainly
+still there, but I just felt like it 99%
+of my cognition was on his well-being.
+And um
+&gt;&gt; but that's certainly true.
+&gt;&gt; And I could have sworn it was a surge in
+oxytocin or or prolactin.
+&gt;&gt; Oxytocin or prolactin?
+&gt;&gt; No, I didn't. I would have had I had the
+means to do it, but there aren't very
+good tests to do that that are sold over
+the counter. I should have, but if I get
+another puppy, I'll do it. Although now
+I think I'll I'll I'll go about it a
+little bit more differently, you know,
+but it was my first dog
+&gt;&gt; and I
+&gt;&gt; was just it was like all about him.
+Nothing else really mattered except the
+basics of maintaining. That's how
+parents describe having a newborn.
+&gt;&gt; That's right. So that's certainly true.
+Cooper's our first dog as well. And you
+know, if he needs something, it
+basically, you know, takes precedence
+over everything else. Mhm.
+&gt;&gt; Like feed if he needs food or if he
+needs to go out for a walk
+&gt;&gt; then you know I have to I do drop things
+and I just take care of him.
+&gt;&gt; So that part is certainly true. So if
+you
+&gt;&gt; Yeah. It inhibits selfishness
+&gt;&gt; or inhibits your doing other things.
+Yes.
+&gt;&gt; Yeah.
+&gt;&gt; Makes you more altruistic. Yeah.
+&gt;&gt; This was really just my ploy to uh bring
+up oxytocin.
+&gt;&gt; Okay.
+&gt;&gt; We hear that oxytocin is the chemical
+responsible for bonding between romantic
+partners. um bonding between mother and
+infant, maybe even bonding between
+friends, etc. What's the real deal on
+oxytocin? Because I think um like so
+many things in neuroscience that were
+first discussed in roughly the '9s,
+early 2000s, we're getting a lot more
+data now. So, what's the real deal on
+oxytocin? I'm not trying to burst any
+oxytocin bubbles, but uh what's the deal
+with oxytocin? So the paradigm that
+people have mostly used to study the
+role of oxytocin in pair bonding in
+animal models has been the prairie v. So
+so these are like mouse-sized rodents
+with very short tails. And unlike mice
+or rats for that matter, vos after
+having sex with one another, they will
+pair bond for life, they form these
+long-term enduring relationships,
+&gt;&gt; completely monogous.
+&gt;&gt; Well, they actually just like humans,
+they will have extra pair mings as well.
+So they will cheat if you will
+&gt;&gt; at a Coldplay concert.
+&gt;&gt; Exactly. Right. Um or but for the most
+part they're monogous. Right. So if you
+give them a potential mate of of
+opposite sex, they will reject it
+aggressively. Right. So they have this
+monogous behaviors and classic work from
+many labs had shown that oxytocin was
+maybe a really huge driver of the sort
+of monogous spawning behavior.
+So over the last 10, it took us about 10
+15 years to develop the technology to
+make knockout v. And we've done that.
+Um, and this is a work of really heroic
+posttos in my laboratory. Um, and
+knocking out the oxytocin receptor
+prairie vols, we saw that these vos
+continued to form pair bonds. They were
+just as monogous as their wild type
+siblings were.
+So in fairness to oxytocin and to
+experimental biology generally when you
+see an experiment like that um go darn
+everything we thought about oxytocin is
+wrong or you say pair bonding is so
+important that there's redundancy in the
+system that other things can compensate
+which one do you think it is
+&gt;&gt; so the most likely other candidate it's
+going to be vaseesscent because the same
+folks who had sort of identified
+oxytocin as being sort of really
+important for pair bonding. It also
+suggested vasopressin might play sort of
+you know a similar role and vasopressin
+like oxytocin is a neuropeptide hormone.
+So it's about nine amino acids. Um so
+it's a short peptide um and it binds a
+different receptor vasopressin receptor
+1A that regulates pair bonding behavior.
+So that's the next experiment for us is
+it vasopresscent receptor and
+vasopressin that's required for pair
+bonding behavior.
+&gt;&gt; Okay. So we shouldn't give up on
+oxytocin just yet.
+&gt;&gt; Let me also step back. Let me push back
+against this idea of I'm going to get
+some heat for this uh for saying that if
+it's so important you want to sort of
+have redundancies built in the system.
+We just talked a while ago about SRY.
+You just have one copy. You just have
+one SRI. In fact, it's only on one
+chromosome. So you only have one copy.
+If you don't have it, you're not going
+to become a male. So there's no
+redundancy for perhaps the most
+important decision the embryo is going
+to make, male or female. And there's no
+redundancy built in there. So I think it
+depends on what process we're talking
+about. If you if there are going to be
+redundancies or not
+&gt;&gt; for something extremely critical. If you
+don't have a redundancy, then I think it
+could be that other processes also don't
+have as many redundancies as we thought.
+&gt;&gt; Did you think you were going to get some
+heat because somebody would say, "Well,
+that implies the SRY gene is not
+important and therefore males aren't
+important."
+&gt;&gt; No, I think as you and I both were
+taught during developmental biology
+classes that we took as grad students,
+redundancies and sort of multiple
+pathways regulating a process is a
+thing. And it's definitely true for many
+things as we've learned during
+development and developmental biology.
+But also there may be processes where
+you don't have redundancies that are
+equally important for life
+where if you don't have the gene, you're
+done. Because evolution is agnostic,
+right?
+If you're not successful, it doesn't
+care. It just moves on. So you won't
+reproduce. Evolution doesn't care.
+&gt;&gt; If you're not fit, you're not fit.
+&gt;&gt; Yeah. The bad ideas died literally. or
+the bad experiments died, right?
+&gt;&gt; Okay. So, speaking of hormones and
+behavior and language and where language
+can be a little bit complicated,
+let's talk about libido, right? Most
+people know what that word means. It's a
+a drive to to have sex for reproduction
+or pleasure or both. And you discovered
+these neurons that effectively eliminate
+the refractory period. I don't know how
+an animal could mate any faster than
+once a second. I guess I guess there's
+&gt;&gt; no once it's after one second.
+&gt;&gt; After one second, I guess. Yeah. Okay.
+So, I mean, there needs to be some time
+in between. 1 second is about as as as
+short a refractory period as possible,
+but we don't really know what's going on
+in the in the in the mind of the mouse.
+Um but when a discovery like this is
+made uh and because of the conservation
+between the mouse hypothalamus and the
+human hypothalamus I think many people
+probably thinking oh you know is this a
+druggable target is this the sort of
+thing that um could be used to enhance
+libido and or reduce the refractory
+period in males and that opens up a a
+larger discussion I think about biology
+druggable targets and sex behavior in
+humans. So there is an FDA approved um
+drug um that targets the melanoorton
+pathway I believe. That's right. That's
+used to uh enhance libido in females.
+&gt;&gt; That's right.
+&gt;&gt; Although I hear I would say if I had but
+I've never tried it but I hear that men
+take it also and it has a similar effect
+although not as pronounced as in women.
+uh tell us about melanoortin and why a
+drug that stimulates melanoortin would
+increase libido and then we'll talk
+about whether or not the tachikin
+neurons that you discovered uh represent
+a good drugable target for increasing
+male libido.
+&gt;&gt; Right. So actually
+removing menoordin signaling in the
+mouse brain in male or female mice does
+impact sexual behavior in both sexes.
+&gt;&gt; It does. Yes,
+&gt;&gt; it does.
+&gt;&gt; Okay. So it seems to be import playing a
+role in sexual behavior in both sexes.
+Um the effect though of me the of the
+drug seems to be you know pretty small.
+It affects it helps a subset of women
+not all women I think and there are
+significant side effects as well of um
+what's it called? Visi
+&gt;&gt; I think the drug is called vile and my
+understanding is melanocorton
+comes from the medial um pituitary and
+is involved in pigmentation of the skin
+as well. So it it tends to darken
+people's skin.
+&gt;&gt; It can cause hyper hyperpigmentation in
+some women taking it. It's injectable, I
+think.
+&gt;&gt; Mhm.
+&gt;&gt; So it definitely seems to help a subset
+of women. Um
+so that's I think that's one of the few
+libido enhancing drugs out there and
+it's very different than Viagra and
+which works in men as you know, right?
+Which that because Viagra acts on a more
+peripheral vascular thing. It doesn't
+act on libido. It acts on the ability to
+have interaction,
+&gt;&gt; right? It's prerectile and I think women
+will take um some of these
+vasoddilators.
+&gt;&gt; That's right.
+&gt;&gt; As well,
+&gt;&gt; right,
+&gt;&gt; for enhanced sexual function.
+&gt;&gt; That's right. But libido is pretty
+separable from erectile function. Right.
+As you pointed out, libido is more the
+desire to engage in sexual behavior,
+whereas, you know, erectile function is
+the ability to enact on that desire. So,
+those are pretty separable. And I don't
+think there are very many good libido
+enhancing drugs for men or for women.
+Right? We talked about this drug vi
+that is helpful and seems to have a
+positive effect. But there's certainly a
+big der out there of drugs that would
+enhance libido.
+&gt;&gt; So is any
+&gt;&gt; or inhibit libido for that matter,
+&gt;&gt; right? I think uh when people think
+about drugs that in that inhibit libido,
+it's naturally occurring experiments
+like uh opioid use does that excessive
+alcohol intake.
+&gt;&gt; Um
+uh anything that diminishes
+dopamineergic function will do that.
+&gt;&gt; Um so after you made this discovery uh
+did people approach you about developing
+a drug to enhance libido in men andor
+women? Yeah. Mutual friend of ours, Mike
+Eisenberg at Stanford.
+&gt;&gt; Oh, yeah. He was a guest on this
+podcast. Our head of male sexual health
+in Urology.
+&gt;&gt; Exactly. He approached me and he says,
+"Can we do something about this target?"
+And I said, "There's no agonist. There's
+no drug that would activate the TAC R1
+receptor that we know about that's
+clinically proven to be safe. There is
+an antagonist for it that's clinically,
+you know, that's FDA approved that's
+used for other purposes,
+&gt;&gt; but that would uh diminish libido. That
+would
+&gt;&gt; diminish li." Did Mike approach you
+because he has a lot of patients that
+have diminished libido who want to
+enhance libido?
+&gt;&gt; That's exactly right.
+&gt;&gt; Why do you think there's such a der of
+drugs to enhance libido?
+&gt;&gt; I think for a long time pharmaceutical
+companies have stayed away from drugs
+that act on the CNS because you know
+back in the '9s there are a lot of
+studies developing drugs to sort of uh
+enhance different functions in the brain
+and there are always some offt target
+effects. So companies have typically
+stayed away from those
+&gt;&gt; not SSRIs. I mean SSRIs were a boom
+industry until recently when everybody
+kind of turned on them. That's right.
+&gt;&gt; Um and I I say this uh every time SSRIs
+come up. Yes, they can have pronounced
+side effects. No, I don't think they are
+always the solution.
+&gt;&gt; Increing decreasing libido
+&gt;&gt; for certain populations of people like
+who have clinically diagnosed OCD. SSRIs
+have been very helpful. That's right. So
+we we don't want to completely uh you
+know
+&gt;&gt; I'm just saying that's why there's a
+general der of many many drugs being
+developed for different conditions that
+affect different you know different
+functions
+&gt;&gt; so drug companies don't want to make
+drugs that act on the brain
+&gt;&gt; I think now there's a change right with
+glip R1 with the glip agonist coming out
+people there's a huge interest suddenly
+&gt;&gt; which which drug
+&gt;&gt; vgoi and ampic
+&gt;&gt; oh what did for people lose body fat
+&gt;&gt; that's right so but those act on the
+brain as well right so there's now a
+sudden surge in interest again
+developing agonists if you will or
+antagonist to modulate different
+pathways in the brain because this is a
+huge success story. So now people are
+energized again I think well and if
+nothing else those drugs prove that one
+of the main reasons perhaps the main
+reason why so many people are overweight
+or obese is that they eat more than they
+burn. You know that people debated that
+until very recently. Now, hardly anyone
+debates that people will say, "Oh, well,
+it's the you need to think about blood
+sugar regulation and you know, and but
+when it comes down to it, you need to
+ingest roughly less than you you burn."
+Uh there's some noise there, but it's um
+it's clear that
+that set of experiments, the heal
+monster that doesn't eat very much,
+which makes a peptide, which then is
+turned into a drug, makes people not eat
+as much. Boom. You have a trillion
+dollar industry. So here you have a
+discovery where um you discover an
+animal that when these neurons are
+stimulated can has kind of an insatiable
+libido. Um so it seems that a the
+appropriate dose of a drug that targets
+the tachikin one neurons might might
+make a reasonable druggable target.
+&gt;&gt; I would think so. Yeah.
+&gt;&gt; Well, someone listening to this will
+will take interest. It's a uh what's
+involved? What does it take to to go
+from like a desire to make a drug like
+that to a drug that can go into humans?
+I mean, how first you go pre-clinical
+testing obviously,
+&gt;&gt; right? First, you actually make sure
+that the circuit exists, that those same
+neurons in the human brain express the
+same receptors.
+&gt;&gt; Well, that's easy to do nowadays, right?
+There's some brain banks, you cut, you
+take some brain sections from some
+deceased people who've said it's okay
+with them, and you and you do the mRNA
+and C2 forward. Yeah. Okay. All right.
+So, the neurons are there.
+&gt;&gt; Um, and then you do what? dose response
+curves in mice.
+&gt;&gt; That's right. And then you do right and
+you go into pre-clinical trials and ask
+is are there agonists you can develop
+that are safe
+&gt;&gt; that have the desired effects with
+minimal offtarget effects.
+&gt;&gt; I promise you that just by virtue of
+this discussion somebody someplace and
+I'm not recommending this is going to
+develop or acquire a tachikin peptide
+and inject that peptide. The reason I
+say that is that these GLP agonists that
+many people are now using were used for
+many years in the fitness industry by
+people who would read a couple papers
+based on animal models and uh be willing
+to acquire or develop the peptide and
+inject the peptide. Not something I
+recommend, but you can be absolutely
+sure,
+&gt;&gt; okay,
+&gt;&gt; that um someone will try this. The
+reason I say that is that there's a
+peptide in the hypothalamus called kiss
+peptin, I think, which regulates
+puberty.
+&gt;&gt; That's right. And there is a subculture
+of people that take kissepin as a
+peptide as a libido enhancer.
+&gt;&gt; I can't uh avoid asking um because we're
+on the topic. Uh do we know what
+switches on puberty?
+&gt;&gt; Kiss pepin is certainly important.
+Right. So mutations in the receptor for
+kspepin seem to block puberty in humans
+&gt;&gt; and in mice as well.
+&gt;&gt; So there are people that never undergo
+puberty.
+&gt;&gt; That's right.
+&gt;&gt; Really? And it's a mutation in kissepin
+&gt;&gt; receptor. Do they grow in size despite
+not being um like like sexually able to
+what happens?
+&gt;&gt; I think if you don't undergo puberty
+then you are not going to make the
+hormones the sex hormones that you
+normally make. So you don't get the
+boost in testosterone or estrogen or
+progesterone. So
+&gt;&gt; this is where gene therapy is going to
+be a huge boon to medicine. I'm curious
+about the regulation of brain function,
+changes in brain circuitry
+as female hormones change
+during say the menstrual cycle.
+What is known about that? How different
+is the brain at one stage of the cycle
+versus another?
+&gt;&gt; Okay, stepping back in rodents where a
+lot of this work has been done, we know
+that the estro cycle, it's not, you
+know, rats or mstone menstruate, but
+they still have the ovulatory cycle.
+They ovulate once every four to five
+days and their hormones estrogen
+progesterone do change correspondingly
+just like they would in in non-human
+primates or in women. So you have the
+same hormonal cycle roughly and you have
+the periodic ovulation.
+&gt;&gt; So it's just compressed into five days
+&gt;&gt; into five days.
+&gt;&gt; Okay.
+&gt;&gt; And in rats has been known for a while
+for about 20 to 30 years now that there
+are very specific sets of neurons that
+are responsive to estrogen that change
+the number of um dendritic spine. So
+these are sort of processes on these are
+processes on neurons that receive
+information from other neurons. As as we
+know neurons act in circuits. So neurons
+are listening to neurons upstream of
+them and then transmitting information
+to other neurons downstream of them. So
+some of these connections the
+presinaptic connections that are
+receiving information from other neurons
+those spines seem to increase wax and
+wayne across the estra cycle.
+Right? And we showed in a different
+finding more recently that neurons that
+transmit information, you know, when
+they are transmitting information
+downstream to other neurons,
+those pathways also change pretty
+dramatically. We saw about a three-fold
+increase or decrease every 5 days in the
+adult female brain of the circuit.
+&gt;&gt; Wow. That's huge.
+&gt;&gt; That's huge. And this seemed to be
+functionally relevant because if you
+when the circuit was fully on or was
+fully mature when she was ovulating, if
+we inhibited this pathway, she stopped
+mating.
+And coming back to sort of going back to
+an earlier part of the discussion, this
+circuit seems to be very dimorphic. This
+pathway essentially doesn't exist in the
+male brain,
+&gt;&gt; which makes sense.
+&gt;&gt; Which makes sense.
+&gt;&gt; They don't they don't ovulate,
+&gt;&gt; right?
+&gt;&gt; Are there hormonal fluctuations in males
+across the day or the week? I mean we
+assume that uh you know testosterone is
+highest in the morning. That's right. Um
+my read of the literature is that
+there's a subset of men for which
+testosterone is actually higher in the
+afternoon but in most men it's going to
+be highest in the morning. But we don't
+think of hormones as fluctuating in in
+men very much. Cortisol yes but what
+testosterone not so much. Is there any
+evidence of hormonal fluctuations in
+males that are meaningful or is it just
+pretty much a you know
+&gt;&gt; in the experiment that we've done in
+mice it doesn't seem to be the case. So
+you can just give testosterone to, you
+know, a male mouse if you've castrated
+him. You can basically inject it at any
+given time of day and it'll have the
+same effect, right? But in females, if
+you give estrogen and progesterone, it
+has to be at a very specific uh time
+point for you to see the effects of that
+hormone.
+&gt;&gt; So during the menstrual cycle, it sounds
+like there's profound changes in neural
+circuitry in the female brain.
+&gt;&gt; That's right. So it's very dynamic.
+&gt;&gt; Circuits are growing, circuits are
+disappearing, circuits are growing,
+circuit
+&gt;&gt; and people have seen in women also
+people women on the pill for example or
+not on the pill across the menstrual
+cycle you do see changes in MRI imaging
+in in women as well.
+&gt;&gt; So what's known about that in terms of
+blocking ovulation with oral
+contraception?
+&gt;&gt; No. So I think what I'm just saying is
+that the brain is seems to be also
+dynamic as visualized by imaging in
+women. So it's not just a rodent sort of
+phenomenon. It seems to be there's
+dynamic processes going on in humans as
+well across the menstrual cycle.
+&gt;&gt; What about during pregnancy?
+&gt;&gt; We don't know.
+&gt;&gt; There are a couple of reports that say
+there are circuits that are changing in
+the adult in the mouse brain when she's
+pregnant when mice are pregnant.
+&gt;&gt; Hippocampus grows.
+&gt;&gt; I don't know that. Maybe you do.
+&gt;&gt; I I recall um there was a guy who did a
+sbatical in our colleague Leech and
+Lowe's lab. I forget now. Um he was from
+Larry Katz's lab. Well, factory guy
+&gt;&gt; Adi Misrai.
+&gt;&gt; Adi Mizrai. That's right.
+&gt;&gt; He showed that the cir the auditory
+cortex the circuit and the auditory
+cortex changes. I think mothers so
+they're more attuned to pup
+vocalizations.
+&gt;&gt; That's right. Their auditory cortex
+changed so they could hear their pups
+better. And that's
+&gt;&gt; that's the mothers though. Yeah.
+&gt;&gt; That wasn't during pregnancy. That was
+in
+&gt;&gt; the study might have started in
+pregnancy, but I'm pretty sure the
+experiments, the assays were done when
+she was nursing. I definitely need more
+science on how the brain changes uh
+during pregnancy, how the mother's brain
+changes during pregnancy. What about
+menopause? You know, these days there is
+appropriately, I think, uh increasing
+attention on pmenopause and menopause as
+very important stages of human
+development that have not been entirely
+ignored, but that were largely ignored
+for a long time. Now, there's a lot of
+attention about it. um what's known in
+terms of brain circuitry changing during
+menopause because my understanding is
+one of the most market changes
+hormonally is a reduction in estrogen.
+So again these studies are just being
+done in mice just starting to be done in
+a sort of very careful molecular way in
+the mouse and I think the jury is still
+out but it's clear that cognitive
+changes happen with menopause. So the
+estrogen going down is definitely
+affecting cognitive performance and this
+is sort of you know reported by women
+too is their mood changing the appetite
+changing and also the steep increase in
+Alzheimer's incidents in women in mice I
+think there's going to be a lot of focus
+on hypocampus which is involved in
+learning and memory and the frontal
+cortex where in the non-agged mouse
+female mouse people have seen these
+dendritic spines waxing and waning
+across the estro cycle. So what happens
+there and what happens to those circuits
+and you know the downstream behaviors is
+something that's still being
+investigated.
+&gt;&gt; Yeah. I think we often hear about
+estrogen and we think only in terms of
+ovarian function and ovulation and and
+you know that you know tucks right in
+with menopause. But when we hear about
+the effect of estrogen in preserving
+brain function my understanding is it's
+also true for men. and that one of the
+ways that it helps preserve brain
+function is that it helps keep the the
+blood vessels and capillaries very
+pliable. It's like very good for the
+cardiovascular system. Do we know if any
+of the reductions in estrogen that occur
+during menopause are acting directly on
+neurons or is this all like downstream
+of reduced blood flow for instance?
+&gt;&gt; Yeah, I don't know the answer to that to
+be honest. I suspect there's going to be
+both. There's certainly going to be
+direct effects on neurons because
+neurons express the receptor for
+estrogen. Many neurons, not all, express
+receptors for estrogen. So estrogen
+going down is certainly going to affect
+their function.
+&gt;&gt; Every MD that I've had on this podcast
+who has a specialization in in endocrine
+stuff will say the goal is to keep your
+estrogen as high as possible without
+running into side effects. That's good
+for your brain. So, and that when people
+quash estrogen or when you get uh males
+that have for instance very high DHT
+levels and T levels and their and their
+estrogen is very low, uh it's not a good
+picture cognitively. Certainly not in
+terms of cognitive longevity. So,
+estrogen is pretty interesting, I think,
+from the standpoint of its effects on
+the body, but also as a as a
+neuroprotective agent,
+&gt;&gt; right,
+&gt;&gt; in men and women. I have all sorts of
+questions about why that might be.
+I solicited for some questions from the
+internet.
+&gt;&gt; Okay.
+&gt;&gt; Always a dangerous thing to do, but a
+lot of fun. And so I'll ask you some of
+the more frequent questions. Feel free
+to pass on any of these. Um, if you
+don't feel like you have an answer or
+want answer, um, one was whether or not
+men's hormones cycle throughout the day.
+And we talked about an early morning
+peak in testosterone, which by the way
+is very correlated with the amount of
+REM sleep that people get. Seems like
+that if you don't get enough REM sleep
+that that might blunt some of that
+testosterone increase. Okay, here's a
+speculative question.
+If male and female brains are wired so
+differently, does that mean they
+experience reality in fundamentally
+different ways? Like maybe we're not uh
+at all having the same experience of
+life.
+&gt;&gt; Let me answer that from our studies in
+the mouse.
+Right. So a fundamental
+feature of social interactions is the
+ability to recognize potential mates
+from potential competitors. Recognize
+sex of other individuals. Female, male.
+You know, we do that subconsciously. You
+walk into a bar, you're subconsciously
+processing female, male, female, male.
+We all do that automatically. Mice also
+seem to do that. And we identified a
+region of the brain, a set of neurons of
+the brain that if we record from these
+cells, you and I, if you're just looking
+looking at the activity of these cells,
+we can say he's thinking that's a female
+or a male.
+&gt;&gt; So there's sex recognition going on in
+the male mouse brain.
+If you record from the same cells in the
+female brain, those cells to be seem to
+be quent.
+So it seems that male mice and female
+mice are using different circuits for
+recognizing females and males within
+their species.
+So they're wired differently and they're
+recognizing
+females and males using different
+pathways. So that's
+in in one sense having a very different
+intake of reality.
+If that makes sense.
+&gt;&gt; That makes sense. I'm remembering an
+early discussion that you and I had,
+meaning many years ago, where for
+whatever reason, you said exactly what
+you said here, minus the difference
+between males and females, where you
+said, you know, as you walk down the
+street, there's a process happening
+beneath your conscious awareness where
+you're going male, female, male, female,
+male, female. you're you're you're
+batching people into these two
+compartments based on maleness or
+femaleeness and and it in the mind it's
+just happening.
+And
+you said it's because you need to know
+whether or not someone's a potential
+mate or a potential foe or a potential
+collaborator.
+Based on what you just told us that
+females aren't necessarily making the
+same calculation the same way, I have to
+speculate a bit. One, they have to know
+male versus female, right? Because males
+could be a threat. Females could be a
+threat, too, but males are more often a
+threat to females than than other other
+females. Females can be a collaborator,
+a friend or a threat, maybe a physical
+threat, but could be a sociological
+threat. Um, I've observed this. Okay.
+Um, and so it it makes sense that one of
+the most fundamental calculations we
+make as we move through life is batching
+people into these different
+compartments. How plastic do you think
+that process is? Like this sounds like a
+pretty hardwired thing that is difficult
+to get people's minds around. I mean,
+now it would never air, but in the old
+Saturday Night Live, they had this
+character Pat, right, which was you was
+supposed to be neither male nor female
+or you weren't supposed to be clear on
+what what Pat was. And that was the
+whole basis of the the skit. That was
+the whole basis of the character that
+was a repeated character on Saturday
+Night Live. I don't think they're going
+to reintroduce Pat, but um that
+character was an interesting experiment
+at the time because it introduced this
+kind of um circuit confusion where
+people didn't quite know where to place
+Pad that the whole basis of the the
+script for it was exactly that. So, how
+do you think about these things? I mean,
+most circuits in the brain are push
+pull. They're binary. Mate or fight,
+right? Eat or don't eat. There isn't a
+whole lot of middle ground.
+&gt;&gt; I think it is more nuanced. It is female
+male but as you pointed out in humans
+you're going to say okay potential mate
+potential foe collaborator friend
+unknown person. So there are other
+recognitive pathways feeding into your
+initial binary classification of female
+or male.
+&gt;&gt; So it's not a simple go no-go decision
+in humans. In the mouse world it's
+simpler at least in the assays that we
+design. So in the same in the instance I
+was telling you about if you take the
+male mouse
+the sex recognition happens in the first
+10 15 five to 10 seconds
+&gt;&gt; just like in humans
+&gt;&gt; just like in humans it just instantly
+knows
+&gt;&gt; if you can make the distinction your
+brain makes it automatically
+&gt;&gt; right so first five to 10 seconds right
+and and that signal of female or male
+persists for about 90 seconds and it's
+much larger fecing a female than a male
+so if we artificially optogenetically
+activate these cells in the male brain
+only for 90 seconds
+and then give him a male.
+For the next 15 to 20 minutes, he thinks
+it's a female and he'll try and mate
+with him. So that
+recognitive process has induced a state
+in the male that says it's a female.
+Although the sensory input that's coming
+in, the pherommones that are coming in,
+the size, the way the animal's walking
+around, all screams male, he thinks it's
+a female. He tries to mate with him.
+&gt;&gt; So he's different even though the
+outside world isn't.
+&gt;&gt; Right? And if we inactivate these cells,
+if we silence these cells or if we kill
+the cells, and again, we're talking of,
+you know, maybe 2,000 cells. If we kill
+the cells, he cannot recognize females
+from males. Typically, he prefers the
+smell of a female. That preference is
+gone. And because he can't say that's a
+male or a female, he neither mates with
+females nor attacks other males. He will
+interact with them. He'll hang out with
+them. He'll be pretty chill. He simply
+won't mate or fight with them. Right? So
+that that says that there are some
+hardwired things
+in the mouse brain at least right where
+you can sort of convert those with
+experiments into yes go no go signals
+but I imagine if you set up more
+complicated assays where if the other
+male is a sibling
+then you won't attack the male but you
+won't mate with them either as long as
+you don't sort of touch the neurons
+right so right now we're just trying to
+understand the basic decision decisions
+these cells are making the basic sort of
+information they're processing and that
+seems to be you know go no-go mate don't
+mate fight
+seems you want context to matter but not
+when survival and reproduction are
+critical I like watching nature shows
+for a variety of reasons but there's an
+incredible one where these hyenas are
+attacking a lion and they're trying to
+rip off its testicles it's pretty
+convenient way to limit lion numbers
+as long as they're going to kill this
+lion and eat it. But even if they don't
+succeed in that, they try and castrate
+the animal. And another male lion shows
+up. And it's really interesting because
+typically those lions would fight. But
+in this case, the second male lion is
+willing to risk his fertility and his
+life in order to protect the other. So
+there's this higher order calling,
+right? It's like suddenly he has a
+mission that overrides his desire to be
+the dominant lion. And it's just about
+preserving lions more generally. That's
+right.
+&gt;&gt; Pretty incredible that, you know, as
+unsophisticated as a lion brain may be,
+it's able to just completely switch
+over. And I I raised this because what
+you're describing and what this nature
+show
+reveals is that it's almost like
+hormones activate circuits activate
+repertoires of behaviors. that we're
+sort of a we're sort of a like a
+repertoire machine as opposed to like
+just having like switches in the brain
+which is how we were talking about them
+earlier.
+&gt;&gt; It's tempting to think about them as
+switches but but there that context
+really matters. context matters and you
+know people have tinergen for example
+has proposed that there's a hierarchy of
+behaviors right so you have mating
+aggression protection of young or
+defense from predation so all of those
+are sort of have nested regulatory
+structures one imagines as you pointed
+out with this lion that if you have a
+different context then a different set
+of behaviors is sort of you know
+activated and the same thing's true for
+you know even aggression right if you
+take these VMH cells that we've talked
+about before If you activate them, the
+animals will attack other males or
+females for that matter or a glove for
+that matter. But if you change the
+context that the animals in, your
+experimental animals in, and you
+activate these cells, he may not attack.
+Because in this case, the context is
+overriding activation of these cells,
+and telling him, "No, it might be too
+dangerous. Do not attack." So if you put
+him in another resident's cage, in a
+different animal's cage, so it's no
+longer his turf, and you activate the
+cells, he's much less likely to attack
+now. And then there are these
+experiments, right, that um females will
+kill the offspring of other females.
+Females will kill the offspring of other
+females,
+&gt;&gt; right?
+&gt;&gt; Unless certain conditions are met, like
+they've already had a litter of their
+own. They've happily raised that litter
+&gt;&gt; or they've been hanging out with the
+other female and her pups for a while.
+It's worth mentioning because, you know,
+I'm not trying to equally distribute
+violence here, but so often we think
+about, you know, males and violence, but
+maternal aggression is one of the most
+robust things one will ever observe.
+&gt;&gt; But female female aggression does exist
+and it usually exists in the context of
+of who gets to have and raise successful
+offspring.
+&gt;&gt; That's when you see real nastiness
+emerge. Yeah. Which is, you know, in in
+the context of sexual behavior. um we're
+yet to get this guest on here, but
+there's someone out there that studies
+female sexual behavior in an interesting
+way in terms somewhat evolutionary
+terms, but was saying that um you know,
+one of the more pronounced effects that
+you see is uh depending on whether or
+not someone has had and raised children,
+how they behave towards um other women.
+um or the more salient experiment and I
+need to verify this is actually true
+that um when apparently there's a study
+where um they sort of scale the level of
+attractiveness of women coming in for
+their to get a haircut from another
+heterosexual woman. And the more
+attractive a woman is who comes in to
+get her haircut, the more hair the uh
+the haired stylist, the female hair
+stylist cuts off. almost as if there's a
+competition and they're trying to
+actually damage the competition.
+&gt;&gt; And then other examples where the whole
+notion of women shaming other women for
+being promiscuous, the the notion being,
+well, if men can get sex without having
+to invest much, then that will change
+the standard of what men expect and will
+make it less likely that they'll be able
+to find a, you know, a safe, happy mate
+situation to raise kids. I mean, these
+are the the ideas that spin in the
+background and you kind of go, "Okay,
+well, that's a just so story. I probably
+could explain those data five different
+other ways." But then you hear the
+animal data and you go, "Wow, a lot of
+this is really about extension and
+preservation of our species, you know."
+Um, all right, more questions.
+This is interesting given our earlier
+discussion of periqueductal gray and its
+involvement in sexual behavior and in
+pain management. Is there a difference
+in the way that males and females
+experience and attempt to relieve pain?
+Do do we know anything about the
+interaction between hormones and pain
+management um as it relates to males and
+females?
+&gt;&gt; There are a lot of reports saying that
+males and females have different pain
+thresholds. But I think it's been really
+challenging to dissect out where those
+differences arise from. I mean that's
+all I have to say. So I don't know much
+about this
+&gt;&gt; because people will say because of the
+pain of childbirth that women have a
+higher pain threshold and that's been
+revealed in some studies at least to my
+knowledge
+&gt;&gt; but that could also be because they're
+in a different hormonal state they're
+having a baby you know so
+&gt;&gt; a lot of natural endorphins released
+&gt;&gt; presumably yeah
+&gt;&gt; there were a lot of questions about
+environmental toxins in food in water
+um you know some of this gets to the
+atris
+data from Tyrone Hayes from Berkeley
+years ago said that atrizine present in
+the water and uh that frogs were being
+exposed to was um causing an inversion
+of sexual behavior in these frogs and
+disrupting sexual differentiation. That
+was you know taken and run with in a
+variety of directions. Some accurate,
+some far from accurate. But I think
+nowadays people are very concerned about
+endocrine disruptors
+&gt;&gt; especially during pregnancy and in early
+childhood. And a lot of people are
+speculating as to whether or not this is
+one reason that there's a fair amount of
+discussion about confusion about gender
+identity and and sexual differentiation.
+What are your thoughts on this? Is it
+conceivable that things in food in the
+environment which act as endocrine
+disruptors are smearing some of the uh
+previously clearer outcomes for human
+fetuses? I think you have to ingest
+large amounts of these hormones at the
+right time
+&gt;&gt; to or these modifiers, these modulators
+to have an effect. So I don't know what
+the kinds of exposures there are, you
+know, with plastic bottles and whatnot.
+I mean maybe, but it's you'd have to
+have a large exposure. That's not to say
+it doesn't happen. There might be
+species in which it's really sensitive.
+So it could happen.
+&gt;&gt; Here's one thing I know for sure. Our
+former friend and colleague Ben Barers,
+right, who was born Barbara Baris was an
+identical twin, has an identical twin
+sister that is perfectly happy being a
+woman. Ben was definitely not happy
+being a woman from an early age.
+Switched to being Ben.
+And for a long time, and I know this
+because he told me directly, but it's
+been documented, he claimed that his
+mother was treated with an
+anti-miscarriage drug that had
+androgenic protestosterone properties.
+And he thought that perhaps that had an
+impact on his um gender preference,
+which is interesting, right? Because
+he's speaking to hormonal influence on
+gender preference. That at least his
+idea
+&gt;&gt; gender identity,
+&gt;&gt; right? Right. And he he can't know, but
+he was an MD and a PhD and he was
+thoughtful about the biology of sex
+differentiation obviously. So it's
+conceivable, right? He passed away in
+2017. Um so I can't get his thoughts on
+this now, but you know, he was pretty
+vocal about the fact that he thought
+that there were things that medications
+and other things that could certainly
+impact um gender identity.
+&gt;&gt; What you're referring to was a pretty
+powerful hormonal modulator that he was
+exposed to. Right. So that is a very
+different dosage
+&gt;&gt; than you know you might presumably get
+from these days from environmental you
+know plastics with modulators that could
+impact hormone signaling. That's a
+pharmacological dose
+&gt;&gt; he was presumably exposed to
+&gt;&gt; right and I think that's a big question
+nowadays to what extent these endocrine
+disruptors are impacting the fetus. I
+mean it has been shown that
+microplastics are present in the first
+fecal matter that a baby you know
+excretes.
+&gt;&gt; Um whether or not those microplastics
+are effective endocrine disruptors in
+the sense that they are causing um
+androgen disruption or estrogen
+disruption um isn't clear. Um lots to
+consider. I mean that there are so many
+conflicting data. You know it's it's
+easy to paint a picture where it's all
+about endocrine disruptors pushing
+things one way or the other. Our
+colleague Mike Eisenberg has done
+studies showing that indeed testosterone
+levels and sperm counts are dropping,
+but according to data from his lab,
+penis sizes are going up. So, you know,
+it's the data don't always fall squarely
+into a like a a news article type
+&gt;&gt; um framework, you know, and and
+typically news articles on the stuff
+pick one or the other side to push for.
+What do you want to know most going
+forward about how uh sex differences in
+the brain come about? Like what are you
+most excited about lately?
+&gt;&gt; There are many questions, right? One is
+we still don't have the identity of all
+the different social behaviors that
+animals engage in that mice engage in
+the innate behaviors, right? So we what
+what are these circuits? How do they
+interact with each other? So if you're
+mating, how do you assess threats and
+stop mating for example? Right? So
+that's one level of questions. What are
+the circuits and how do they interact
+with each other? And at the same time,
+how are they interacting with higher
+order circuits that you know let you
+navigate, let you make decisions? What
+is interaction between cortical cells
+and hypothalamic cells? So that's a big
+question. I think the other is this
+thing this plasticity this adult dynamic
+circuit feature that we and others have
+run into in the female brain. How
+widespread is it in the brain? Do males
+also have such dynamic plasticity in the
+adult animal? We don't know. And if so,
+what what are the conditions in which
+the male brain rewires?
+And you know females undergo different
+as we've talked about undergo many
+different life stages that are pretty
+unique to females right lactation's one
+of them menopause is another pregnancy
+is another ovulation's another so how
+are these circuits different across
+these stages compared to say the female
+who's not gone through any of those yet?
+&gt;&gt; Those are very interesting questions
+especially given the divergence of uh of
+life choices that you see out there now.
+Not everyone is getting married, having
+kids, and um and doing that. I mean,
+many people still are, but I my
+understanding is birth rates are going
+way down. Um so certainly some people
+are opting out or for whatever reason
+aren't having kids.
+Nural, thank you so much for coming here
+today, for sharing with us all your
+incredible knowledge and experiments. Uh
+for me it was especially um gratifying
+because I think these topics are not
+just timely but they're it's fundamental
+to who we are. I mean as you pointed out
+perhaps one of the most important
+distinctions that we make in life is
+determining like who we are and who
+others are as we and the male female
+distinction is uh is a critical one that
+you know arises at least as early as
+conception in terms of the the the
+chromosomes are involved and then the
+hormones are acting on that of course.
+So want to thank you for the the work
+you're doing. You do really hard
+experiments. You do beautiful
+experiments. They're super clean
+&gt;&gt; and you get really incredible outcomes
+uh which you've shared with us today.
+And
+&gt;&gt; it's also wonderful that you took the
+time to be a public educator, come here
+and share with us on this uh set of not
+trivial topics when it comes to
+navigating the landscape of sex and
+gender and hormones and all this stuff.
+So, you're brave and we appreciate your
+bravery and uh and then the way you you
+approach these questions.
+&gt;&gt; Thanks, Andrew. It's a pleasure being
+here. Thanks for having me on the show.
+&gt;&gt; Yeah. Well, we'll have you back again
+and uh thanks for also being a bulldog
+owner. I love that you uh bring Cooper
+&gt;&gt; got that you got Cooper and uh next time
+bring him. He's an amazing French
+bulldog and uh you know just makes me
+appreciate you that much more.
+&gt;&gt; Thank you, Andrew.
+&gt;&gt; Thank you for joining me for today's
+discussion with Dr. Nural Shaw. To learn
+more about his work, please see the
+links in the show not captions. If
+you're learning from and or enjoying
+this podcast, please subscribe to our
+YouTube channel. That's a terrific
+zerocost way to support us. In addition,
+please follow the podcast by clicking
+the follow button on both Spotify and
+Apple. And on both Spotify and Apple,
+you can leave us up to a fivestar
+review. And you can now leave us
+comments at both Spotify and Apple.
+Please also check out the sponsors
+mentioned at the beginning and
+throughout today's episode. That's the
+best way to support this podcast. If you
+have questions for me or comments about
+the podcast or guests or topics that
+you'd like me to consider for the
+Hubberman Lab podcast, please put those
+in the comment section on YouTube. I do
+read all the comments. For those of you
+that haven't heard, I have a new book
+coming out. It's my very first book.
+It's entitled Protocols, an operating
+manual for the human body. This is a
+book that I've been working on for more
+than 5 years, and that's based on more
+than 30 years of research and
+experience. And it covers protocols for
+everything from sleep to exercise to
+stress control protocols related to
+focus and motivation. And of course, I
+provide the scientific substantiation
+for the protocols that are included. The
+book is now available by pre-sale at
+protocolsbook.com.
+There you can find links to various
+vendors. You can pick the one that you
+like best. Again, the book is called
+Protocols, an operating manual for the
+human body. And if you're not already
+following me on social media, I am
+Huberman Lab on all social media
+platforms. So that's Instagram, X,
+Threads, Facebook, and LinkedIn. And on
+all those platforms, I discuss science
+and science related tools, some of which
+overlaps with the content of the
+Huberman Lab podcast, but much of which
+is distinct from the information on the
+Hubberman Lab podcast. Again, it's
+Huberman Lab on all social media
+platforms. And if you haven't already
+subscribed to our neural network
+newsletter, the neural network
+newsletter is a zerorost monthly
+newsletter that includes podcast
+summaries as well as what we call
+protocols in the form of one to
+three-page PDFs that cover everything
+from how to optimize your sleep, how to
+optimize dopamine, deliberate cold
+exposure. We have a foundational fitness
+protocol that covers cardiovascular
+training and resistance training. All of
+that is available completely zero cost.
+You simply go to hubbermanlab.com, go to
+the menu tab in the top right corner,
+scroll down to newsletter, and enter
+your email. And I should emphasize that
+we do not share your email with anybody.
+Thank you once again for joining me for
+today's discussion with Dr. Nural Shaw.
+And last, but certainly not least, thank
+you for your interest in science.
+[Music]

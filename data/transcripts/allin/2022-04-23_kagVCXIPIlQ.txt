@@ -1,0 +1,2031 @@
+# E77: Tech work culture, crypto regulation, stablecoins, $NFLX & more w/ Coinbase CEO Brian Armstrong
+# https://www.youtube.com/watch?v=kagVCXIPIlQ
+
+Brian Armstrong, what's up, bro?
+What's up? How are you?
+Good to see you as well. Yeah, Jason
+just pinged me yesterday and he was
+like, "Why don't you just come on as a
+guest randomly?" And I was like, "Okay,
+great. Let's do it." That's so good. I'm
+really excited to hear what Jake Hall's
+intro is for you. Oh man, yeah, you guys
+keep you keep getting wild and wilder on
+those.
+Hey everybody, welcome to episode 77 of
+the All In Podcast. Less than 30 days
+for the sold-out All In Summit. And uh
+there's a wait list, but uh sadly I
+don't think we're going to get to
+anybody on the wait list. We've got a
+great great episode for you. I thought
+I'd bring a bestie guesty in, but not
+tell my besties. So, we'll see if they
+can figure out who's coming on the pod
+today.
+Uh but let's get the intros over with.
+He's investing in SaaS at different
+stages, coming off a Miami Bender for
+the ages, doing shots with and Vanilla
+Ice. The Rain Man is back. He's twice as
+nice. David Sacks, everybody. How are
+you, sir? How was your adventures with
+Vanilla Ice? Yeah, I'm still here.
+You're still here. And so Vanilla Ice,
+that costs $1,600 to get him to show up?
+What does Vanilla Ice cost to show up
+for a party?
+That's about 10K. I think it's about 10
+to 20K.
+A little bit more? Really? A little
+more.
+And did you go on stage and do Ice Ice
+Baby with him? I didn't, but there were
+some like Teenage Mutant Ninja Turtles
+type dancing around with him and
+whatever. It was interesting.
+It was interesting.
+People liked it. It was fun. It was fun.
+Ah, very nice, very nice. And you're
+still in Miami for
+uh whatever tech week. Okay. So, he
+won't eat your meat, but he'll take your
+MDMA. He's very interested in your DNA.
+When he's in the lab, he's in heaven. He
+hasn't been in the same since that rave
+in 1997. The lord of the laboratory, the
+sultan of science, David Friedberg.
+How are you, sir?
+That was my favorite one. I like that
+one.
+Yeah, well, I mean it was You peaked in
+'97. Yeah. At about 2:00 a.m. You were
+peaking at about 2:00 a.m. Did you say
+he doesn't want your meat, but he wants
+your MDMA? Yes, he won't eat your meat,
+but he'll take your MDMA.
+Shout out to producer Nick who really
+crushed it this week. Ah, his bank
+account
+This one is too funny.
+It's hard to keep it together for these
+sometimes. His bank account would make a
+crown prince jealous. His knitwear
+collection is overzealous. When he's on
+CNBC, he makes a scene. Last time he did
+leg day was 2019.
+Supreme leader of SPACs, the dictator
+himself, Chamath Palihapitiya. I've been
+actually spending a lot of time working
+out on my legs. Really? I have been
+working on uh shoulders and chest, and
+my legs have always been diesel. I will
+be doing a shirt-off selfie this summer.
+Jake Hall, it looks like you have not uh
+bought new shirts since you lost all the
+weight, cuz that shirt looks about five
+sizes too big.
+Here's what I bought this one halfway
+through the weight loss, and now it's
+still too big. So, I got another
+slimmer. I got the slim fit. No, I got
+the normal fit, and then I got the slim
+fit.
+to now, you've lost what, like 50 lb?
+213 lb was my peak like 4 years ago, and
+I was 167,
+168 the other day. So, whatever that is.
+45 lb? It's awesome. Something. I feel
+incredible. I've started running again,
+and you know, I did 40 days of skiing
+this year, and I'm going to take up kite
+surfing, I think, this summer. I want
+another sport to do, you know, in the
+summers.
+Are the people around you annoyed at
+your increased energy levels? Yes.
+People who work for me are annoyed. I'm
+sleeping better. Uh everything's just
+going better. I I highly recommend
+everybody
+you know, just try to lose some weight.
+A lot of options out there for you,
+including me and Nick. All right, we
+have a very special bestie guesty today.
+He's a lean, mean crypto machine who
+sort of looks like Mr. Clean. If you
+need some tokens, you know who to call.
+Satoshi has his picture hanging on his
+wall. His NFT game is never lacking. If
+you talk about politics at work, you
+might send you packing. The king of
+coins, the tycoon of tokens, who is he?
+Brian Armstrong. Brian Armstrong.
+Brian Armstrong. That's good.
+got it. Brian Armstrong's with us. Hey
+Brian, how are you? What's up, y'all?
+You could have gone Vitalik at the first
+part, but it would became Brian by the
+office part. Anyway. Welcome to the
+show, Brian. We've obviously talked
+about you a whole bunch, and you've been
+on This Week in Startups, and I think
+you know all the fellas here.
+Uh but thanks for for joining the pod.
+Thanks for having me. This is awesome. I
+I listen to your show every week.
+Aw, thanks for that. So, I guess, you
+know, the
+the topic we all have talked about a
+whole bunch is
+um
+work and keeping people focused at work.
+You took a very bold step, uh which Toby
+at Shopify I think followed. Uh you
+said, "Listen, if you're coming to work,
+our mission is crypto.
+Uh can we stop talking about every other
+thing in the world and and just stay
+focused on that?" And I think that was
+maybe was that a year and a half ago?
+Something like that. Yeah, you did that.
+Everybody wants to know uh how that
+worked out for the company. So, maybe
+you could tell us what it was like to go
+through that, cuz I mean you were a
+target for for for a period of time. We
+all thought, "Seems reasonable."
+And then how has that actually impacted
+day-to-day life for the people who
+decided to opt in to working at a
+single-focused Coinbase? Yeah, so I
+would say, you know, short-term it was
+quite a painful transition. I think it
+created a lot of consternation. There
+was, you know, some folks in the media
+decided to go call a bunch of people
+who'd left the company and, you know,
+write hit pieces and all that kind of
+thing. And frankly, you know, about 5%
+of the company opted into the exit packs
+package. So, there was some teams that
+were shorthanded. A lot of people had to
+work extra time to fill in the gaps. But
+long-term, I think it turned out to be
+an incredibly positive decision for the
+company. I do think there's a lot of
+companies in Silicon Valley right now
+and probably elsewhere that
+you know, the CEOs and the the
+management team almost feel like they're
+being held hostage by the employees, and
+I feel for some of these organizations,
+you know, Sundar probably has an
+incredibly difficult job right now. We
+saw that that video from Microsoft I
+think last year with with Satya and kind
+of was with people talking about their
+hair color and stuff, and they don't
+feel like that they can really lean in
+and move the company in the direction
+they want, and they're they're fearful
+of kind of all these internal dynamics.
+So, you know, I think there's probably a
+better way to do it than what I did,
+which is if you're starting a company
+today, just make that clear up front. I
+didn't make it clear up front, and so
+the company culture started to diverge
+and drift, and I had to kind of realign
+it, which was which was a painful
+process. If if I was doing it over
+again, I'd probably just set that as the
+expectation up front, and then there
+wouldn't be this, you know, public
+awkward realignment. But yeah, I think
+I'm I'm really glad that I did it. I
+think Coinbase has been very productive
+since then, and we've been able to
+attract a lot of the best and brightest
+people from some of these other
+companies that are like, "I don't want
+to be in those companies anymore. I want
+to work at a company where we just focus
+on the work and the mission, cuz that's
+actually important." So, I I'd say it's
+been positive. Brian, I've always talked
+about this as being like the difference
+between a hard culture and a soft
+culture, where hard cultures are
+companies that
+really define what they do and what they
+don't do, and what they spend time on
+and what they don't spend time on. And
+sometimes what you don't spend time on
+can relate to product, sometimes it can
+relate to things outside or
+externalities to the business.
+Do you think that that's become kind of
+a trend where, you know, soft culture in
+Silicon Valley is more about like
+appeasing a very fickle employee base,
+and as a result you kind of aren't as
+clear about what you're not going to
+talk about and not going to talk about,
+and suddenly the troops rule the day and
+things get kind of sidetracked and
+productivity goes down. I mean, can you
+talk a little bit about what you've seen
+you know, with other cultures around the
+valley and how that's kind of affecting
+work and what employees are choosing to
+go to and not go to? Yeah, so I think,
+you know, Ben Horowitz always talked
+about like wartime CEO, peacetime CEO.
+And frankly, you know, I'm kind of a
+conflict-avoidant person, right? I never
+thought of myself as like wartime CEO or
+just like we're all going in this
+direction, let's go go go. You know, I
+never really thought of myself like
+that, but I think what I'm trying to do
+now is find the happy medium between
+these two. So, you the company should
+have a really ambitious mission, and
+then I think you as the CEO, you do have
+to say no to things which are off track
+from that. You do have to part ways with
+people who are not helping raise the the
+talent bar in the company. And so, in
+some ways you have to be I guess hard in
+that sense, but I don't think it's it's
+not like, you know, we're only here to
+make money, and it's like it's bonus
+time or you're out or whatever. It's
+like we actually have a much softer
+culture than that I think in Silicon
+Valley, which is most of the missions of
+these companies are trying to do great
+humanitarian efforts, and they're trying
+to improve the biggest problems in the
+world. And so, people sign up for those
+cuz they want to have a real impact.
+And you know, we take time to like go
+for exec offsites, and we walk in
+nature, and you know, we have like
+coaching. We do all this touchy-feely
+stuff. So, I think it's kind of a mix of
+both is the right balance. I don't think
+of myself as like, you know, a Wall
+Street hedge fund or like the most
+touchy-feely culture you can imagine.
+Why do you think companies now have sort
+of veered into this place where they
+have to kind of appease these fringes on
+either side? Do you Did you Did time
+trying to figure out like how did we
+evolve there from just being
+mission-focused to having to deal with
+all this other stuff?
+Yeah, I mean, one theory I have on this
+is that in Silicon Valley, especially
+pre-pandemic, we were all it was so
+competitive to get talent, right? You
+know, Google and Facebook, they were
+just kind of one-upping each other on
+like higher and higher salaries. And so,
+I I know as a CEO of a company that was
+rising at that time, I felt incredible
+scarcity. Like I had people leave to get
+who got better offers, and it was like a
+real issue. And so, I was doing anything
+I could to retain people and keep them.
+And so, if a if an employee said, "Hey,
+I want, you know,
+another flavor of water in the kitchen
+or whatever." I was like, "Okay, maybe
+we should do it, right?" But I think,
+you know, during the pandemic we were
+moved we moved to remote first as a
+culture. The the talent like the talent
+we could get opened up by 100x of people
+all over the world who were really
+hungry and like frankly thankful for
+these jobs.
+And that actually changed the scarcity
+mindset a little bit to say, "Hey, you
+know, if you don't want to be here,
+that's fine. We can We have other people
+we can go recruit and hire in who really
+are going to value it." That's probably
+just one piece of it. It's It's a much
+more complex issue than that. I think
+One other One other thing is that
+you know, like Google and Facebook, I
+think kind of made this a common trend
+in the valley where
+companies would host these open mic Q&amp;As
+on every Friday or every 2 weeks or
+whatever. And it was almost like a town
+hall. It felt like a democracy, right?
+And in a democracy, like the leader, you
+know, works for the people. They're
+elected by the people.
+Um but what got very awkward was that
+these open mic Q&amp;As it became, you know,
+this kind of like hostile thing of like,
+"How can we make the person squirm? And
+let's ask them these difficult societal
+issue questions that aren't actually
+related to the company and what we're
+all building?" And
+you know, I think that was actually a
+mistake in Silicon Valley. We've since
+gotten rid of the these open mic Q&amp;As
+because it really encourages people, I'd
+say When we were We were like 150, 200
+people, everyone was on the same page.
+Everyone was asking good questions. Once
+we got to like 500, 700 people, it
+started to feel like there was a little
+bit of an us versus them. And then, you
+know, the questions got very off track.
+And I I realized at a certain point,
+"This is not a democracy.
+Um I want everyone's input. I'm not
+going to rule like with an iron fist,
+but ultimately, you know, I'm the CEO. I
+need to I need to help guide this
+company in one direction and force the
+hard decisions. Not everyone's going to
+like them. So, we're not going to allow
+people to do grandstanding open mic
+stuff. If there's just a little bit of a
+risk for that, you know, 99% of people
+don't do it, but if one person does it,
+it kind of creates this snowball effect.
+So, we got rid of the open mics. People
+can still submit questions, but they're
+they're Nobody else can see them. We
+read them ahead of the Q&amp;A. And if
+there's a good theme in the questions,
+we address it. But you can't like
+grandstand with an open mic. I saw this
+um
+so it was in Twitter, Nick. Maybe you
+can find it, but it was like this
+general that had commanded all of these
+different battalions. And he was talking
+about
+what it was like in all the different
+theaters in which he's operated. And he
+basically said, "You know, 80% of the
+men and women that serve for me were
+just absolutely incredible. You could
+always rely on them 100% of the time.
+They were 100% aligned."
+And then he said there was 15% that was
+wishy-washy. And what they were looking
+for was how you managed and dealt with
+the 5%. And the 5% of folks were always
+trying to push the boundaries and try to
+figure out where the escape valve was or
+where the exception was or, you know,
+whether they would be grandstanding or
+whether they could break a rule. And he
+said his entire energy was focused on
+keeping those folks extremely focused
+and on point or out.
+Because that was what solved for the
+15%. Because the 80% would be fine, but
+if you didn't deal with the five, the 15
+would go crazy, and then the 80 would
+get dejected. And it just kind of the
+whole thing would rot. And it was a
+really interesting reminder that there's
+these people that come into these
+companies almost with the desire to see
+these companies go sideways or just
+waste their time, which is completely
+counterintuitive cuz you think you
+joined for the mission.
+But they don't all the time.
+And to be fair, you I think told people,
+"Listen, you you could, as a group of
+people, off hours create your own,
+you know, uh dinner party and talk about
+whatever topics you want. This is just
+when I'm paying you to come to work. For
+those 8 hours,
+you know, on the company servers, if
+you're using Slack or whatever, you
+know, communication platform you're
+using, let's just stay focused on
+getting the work done so this could be a
+viable enterprise. But you were fine
+with people if they wanted to
+self-organize and do that on their own
+time, correct? You weren't saying you
+can't have political beliefs, you can't
+care not care about BLM or some
+right-wing
+That was one of the biggest um sort of
+misnomers or mis-
+characterizations Yeah, yeah, exactly.
+Deliberate mischaracterizations about
+the policy is that it somehow silenced
+people or prevented them from, you know,
+taking positions on issues or donating
+to causes they cared about. The policy
+never said that. It just said that while
+we're in the office together on Coinbase
+time, we're going to engage in
+Coinbase's mission and avoid fractious
+debates that divide us.
+Yeah. That's right. And there's a time
+for those debates, and it just might not
+I I think a lot of this has to do with
+Slack. I'll be totally honest. Yeah.
+When people are in a Slack room and
+they're frustrated, and people could
+have valid frustrations. Like there are
+things in the world that are horrible.
+And yeah, you want to talk about it. And
+yeah, you build friendships at work.
+It's completely understandable that
+people would want to blow off steam. And
+but just people have to look at Slack as
+not an AOL chat room. It's not Reddit.
+It's not AOL chat. Maybe you could talk
+a little bit about electronic
+communications, and then I think David
+has a follow-up.
+Yes, I agree with you. Slack, I think,
+you know, is an amazing tool, but it
+does start to turn into social media
+once you get more than, I don't know,
+500 people in a in a room or 1,000
+people. A lot of CEOs I've been talking
+to, we're all trying to figure this out
+cuz we still think Slack is a net
+positive to productivity, but it has a
+huge negative in terms of distract- both
+distracting people with lots of things
+popping up all the time, but also these
+kind of uh social media flame wars that
+have that emerge and mob-like behavior.
+So, some of the things I mean we've been
+trying is, for instance, if you if we
+get any kind of a Slack room that has,
+say, more than 500 or 1,000 people,
+we'll often try to limit it so only, you
+know, you can only you have to be a VP
+or level nine and above can only post in
+there. And otherwise it's read-only. So,
+we're trying to, you know, Dunbar's
+number is 150 people, right? You're
+trying to think, "Who Who can you
+remember everyone's name and have some
+sort of group affinity with them?" And
+any too much above Dunbar's number, we
+try to like cap it so it's it's a
+read-only chat room. But I think these
+tools need to keep evolving. And I hope
+some I know there's a couple startups,
+you all might have funded some of them,
+um that are working on this. Yeah,
+there's an actual neat feature you can
+do in Slack now where like that level
+nine person can post, and everybody else
+can post in the thread. Like you can
+reply to the thread, but the opening
+salvos in thread have to be started by
+somebody in that sort of group. So, but
+Slack definitely needs to double down on
+this. I also think they put that random
+room in there. And you put the random
+room, it's like basically waving the
+flag. Like it's random, put stuff in
+there. I think you got to delete that if
+you're running. I tell all startups,
+delete the random room and tell people
+do not post memes and jokes. David, you
+had a follow-up.
+One thing I was going to say is So,
+Brian, I agree with everything you said.
+The The one place maybe where I would
+nitpick in a way that gives you a little
+more credit is you founded Coinbase back
+in 2012, right? Yeah. So, if you had
+created this policy on day one, I don't
+think you or anybody could have
+predicted that these issues would arise
+the way they have. I remember 2012 was
+the year I sold my company to Microsoft.
+We never had to deal with any of this
+stuff, and we were using We didn't have
+Slack back then. We were using Yammer.
+Very open culture. People could
+communicate on anything. We never had
+sort of hyper-activist
+employees. The word woke didn't even
+exist yet. And um it just wasn't an
+issue. So, it would have required you, I
+think, to see ahead so many years. And I
+think what's happened is over the last
+several years there's been this drift
+towards,
+you know, employee activism inside these
+companies. I don't think it's coming
+from both sides of the political
+spectrum, to be honest. I think it's
+coming from the sort of hyper-woke
+employees, and they engage in petitions,
+and letter-writing campaigns, and
+threats of boycotts, and they sort of
+hector and maligned these CEOs to
+basically give in to them. And we've
+seen it at Apple, the way that they
+Apple was pressured to fire Antonio
+Garcia Martinez, and they gave in, and
+now they have a letter-writing campaign
+every month. And you just saw it in
+Florida. I think Bob um What's his name?
+To Bob Chapek at Disney.
+I don't think he's going to survive the
+year after what just happened at Disney.
+And it's because he gave in to the
+employees, took sides against the, you
+know, governor in Florida and the
+legislature, and they just ripped away
+Disney's special privileges in Florida.
+You saw it at at uh Netflix, where Ted
+Sarandos was sort of maligned by these
+employees who wanted to cancel Dave
+Chappelle. He ultimately stuck by
+Chappelle, but only after groveling to
+these employees. And so, I think we're
+seeing these issues did not exist even 5
+years ago, I would say. And I think the
+reason why the Coinbase story is so
+relevant to a broader audience and what
+you did with your policy is so relevant
+is I just think every company's going to
+make a decision sooner or later or on
+where they stand. Do you give in to
+these petitions and mobs and boycotts?
+Do you allow unlimited activism inside
+the four walls of your company? Or do
+you take some sort of more neutral
+stance where you say, "Listen, we're all
+going to leave our politics at the door
+so we can effectively work together on
+the company's mission?" I think every
+company eventually is going to have to
+either be Coinbase or be Apple. You're
+going to have to be Coinbase or be
+Disney. You're either going to have to
+give in to the mob and suffer the
+consequences, or you take the short-term
+pain of doing what Brian did, and you
+basically realign everyone around the
+mission, and a year later you're very
+happy with where you are. The good thing
+with Netflix and Disney though is that
+they're going to be very clear examples
+of the business impact of getting
+distracted. And I think that, you know,
+Brian took leadership, but the business
+impact, at least from the outside
+looking in, was not really measurable.
+Obviously, he felt it, the team felt it,
+whatever they did, and that business is
+working.
+But it wasn't done as a public company
+pre and post, so the counterfactual is
+hard to measure. In the case of Disney
+and Netflix, it's really clear to
+measure, right? Meaning,
+in all of this confusion, Netflix has
+completely botched their business model.
+In all of this fighting now internally
+inside of Disney, not only are they
+going to lose essentially a fee them
+inside of Florida, but it's going to
+have repercussions with respect to
+taxes, with respect to debt, with
+respect to the quality of the service
+they can deploy.
+And that will eventually flow through
+the business, and that will be
+measurable by investors. And I think
+David uh I think probably what I think,
+which is a slighter
+sort of more modified version of what
+you just said, is in the next few
+quarters, I think CEOs will actually be
+better equipped to numerically point to
+why taking Brian's path is the value
+creating path for shareholders and for
+stakeholders.
+And the cost of getting distracted,
+quote unquote, can be really expensive
+if you if you are a for-profit company.
+Well, and you also have the option to
+run your company and say, "You know
+what? We care about this issue a whole
+bunch. We really care about human rights
+here. We really care about
+communications and freedom of speech,
+and I'm going to run Twitter as a
+freedom of speech company. And everybody
+has to align behind that. If you believe
+in censoring, this is not the right
+company for you. If you believe in
+policing speech or you're uncomfortable
+with uncomfortable speech or speech that
+makes you feel uncomfortable, you you
+don't have to work at Twitter. So, it's
+not like you have to
+you know, do what Brian did and say,
+"Hey, we're just going to focus on
+this." You have to make a decision and
+be intentional about it. I think it's
+the higher order bit. No, my I was just
+going to say my only point is in the
+absence of intentionality, Jason, you'll
+slip into one realm or the other and not
+really know what you're trying to do. I
+agree with you. And all my only point is
+that you'll be able to measure the
+impact of unintentionally slipping and
+sliding around Yeah. versus picking a
+course and sticking to it. Let me ask
+you guys a question. If you're an
+individual
+and you want to affect social change,
+where is the forum and the theater that
+you think you would go to first? You
+spend most of your time at work.
+And
+maybe you don't have as much free time
+to go march and protest in the streets,
+and if you did, no one would pay
+attention to you there anyway.
+So, Sachs, like I know that you'll
+probably have a point of view on this,
+but like if you're giving a 19-year-old
+who has a strong point of view or a
+25-year-old who has a strong point of
+view about something that they want to
+see change in society, what's the right
+forum for them to have their protest and
+to make their voice heard? I think that
+companies are a great change agent. I
+think we all do being in Silicon Valley
+creating startups. We all believe that
+startups are a great way to change the
+world. Those startups have missions.
+Brian's company has a mission around
+crypto and and expanding democratizing
+access to the financial system based on
+crypto. Elon has a company that is
+accelerating the world towards
+sustainable transport and sustainable
+energy.
+He wants to make where I quibble a
+little bit with what Jason said about
+free speech. I think Elon wants to make
+free speech restore its place back in
+Twitter's mission. So, it's not like a
+separate thing. It's actually like
+should be very core to what they do. I
+think that there's a mission-driven
+company out there for any young person
+who cares about that issue. Right.
+And if there's not if there's not a
+for-profit vehicle, there's a 501. You
+can go join a nonprofit company
+or start one. Exactly. So, Or start one,
+donate money to a cause. You have the
+whole weekend. You got meetups. You can
+write a blog post. What I don't think
+would work is when you have people who
+don't who aren't really mission-driven.
+Their mission is whatever the current
+thing is.
+And so, they're just kind of like
+oscillating from the the one the cur you
+know, from one current thing to the next
+current thing. And every 3 months
+there's an issue du jour that that you
+know, they care about more than anything
+else in the world. Look, there's not
+going to be a company that can
+accommodate that sort of fickle
+activism. Brian, can I ask you a
+question? Are there any
+systems decentralized systems that kind
+of give individuals
+you know, that you've viewed interesting
+models that give people the ability to
+affect social change in a way that kind
+of historically may have been more of a
+hill to climb where people can kind of
+aggregate resources and aggregate a
+voice in a way that can kind of affect
+outcomes? And do we think that that kind
+of becomes a mechanism for social change
+in the future? You make you're making me
+think of DAOs and things like that, but
+I think a lot of that is kind of
+unproven. Like DAOs are probably good
+ways to get new kind of governance
+systems in place for allocating capital
+or maybe even managing a city or or a
+society, but I can you know, I kind of
+agree with David. I think the best way
+to affect change right now today is for
+young people is start a company or join
+a company.
+I think young people are sometimes a
+little enamored with like becoming an
+activist, but I think fundamentally
+that's
+you're you're sort of giving up your
+power by saying like, "Well, they have
+the power and I don't, and so I'm going
+to speak truth to power." But I think
+you know, some there's context in for
+that historically where that may have
+been more true, but I think today a lot
+of people they have more power than they
+realize. And if you go start a company,
+which by the way, companies are
+decentralized, too. You can have lots of
+little companies all over the world. Um
+they're not like, you know, monolithic
+usually. And so, if they start a
+company, they can have a good impact, I
+think, on the biggest issues out there.
+And I think over time as well, the way
+that you have real impact is that you
+prove yourself in the market of ideas to
+have a high reputation and to be really
+reliable. And that is not something that
+you can just overpower, you know,
+because you're 19 or 20 and you're
+really upset by something. At some point
+you're going to have to really invest
+your time and dedicate yourself to
+something that you really really care
+about. And then the world tends to move
+to the good ideas.
+So, I think part of like what we also
+need to remind folks is that this is a
+like if you want to make real
+sustainable change, it's hard. It
+doesn't matter in which area you pick.
+It is just really hard, but if it's
+really worth it, you should give your
+life to it. But what I think people push
+back on is the more superficial forms of
+just virtue signaling and saying, "Yeah,
+in this moment I really want to pretend
+I care about something, but when push
+comes to shove, I'm not really willing
+to take the next step." I don't I think
+that most people find that very
+unreliable.
+Yeah, I think a good question to ask
+for somebody who purports to really care
+is like, "What do you care about that's
+not currently in the news?" You know,
+that's not like the hot thing that
+everyone is basically obsessed with.
+Well, and then how are you changing it?
+And what is your plan to change it over
+the next decade or two? Like
+You have Yeah, but it just it takes it
+takes it takes many years to effectively
+create a startup, you know, 5 years, 10
+years. And so, if your issue du jour is
+whatever's in the news, you're not going
+to be able to create that kind of
+change. You know, I do think there are a
+lot of similarities between
+mission-driven startups and political
+movements. You know, I wrote a blog post
+called Your Startup Is a Movement where
+I basically say that you know, good
+marketing is about evangelism. It is has
+everything in common with what good
+political leaders do. Basically, they
+critique the status quo. They tell you
+what the world likes looks like today,
+what the problem with that is, and where
+the world needs to get to, what the
+solution is, and then how they're going
+to deliver that solution. So, you can I
+think as the leader of a company be very
+mission-driven. You can bring about that
+change you want to see in the world. You
+just have to attach a business model to
+it. If you don't have a business model,
+you're just collecting donations. Let's
+build on that, Brian. What is the stated
+mission today of Coinbase? Yeah, our
+mission is to increase economic freedom
+in the world.
+And if for people aren't familiar with
+that term, economic freedom is kind of a
+an economics term like GDP, but it looks
+at the measures of different countries
+of the world, and it looks at factors
+like are there property rights enforced,
+how stable is the currency, how easy is
+it to start a business, you know, is
+there corruption and bribery prevalent
+and things like that. And
+what's really cool about economic
+freedom is that it basically countries
+with higher economic freedom, you know,
+like Singapore and the United States and
+Ireland, like they tend to correlate
+with all kinds of things we want in
+society, not just better economic
+growth, but even higher self-reported
+happiness of citizens, better treatment
+of the environment, better income for
+the the lowest 10% in society. Gender
+equality, all that stuff. Yeah, gender
+equality, and then yeah, countries with
+low economic freedom,
+you know, Cuba, North Korea, Sudan,
+these are some of the lowest. They tend
+to have, you know, even things we don't
+want like higher corruption, higher war,
+higher infant mortality. So, it's
+basically when I read the Bitcoin white
+paper back in 2010, I had this thought
+eventually that was like
+maybe cryptocurrency is this unique
+moment in history, this unique
+technology that allows us to inject
+economic freedom into the countries all
+over the world, especially now that more
+and more people have a smartphone. And
+we can basically put good financial
+infrastructure, good property rights,
+you know, global trade, a stable
+currency into 200 countries all over the
+world as one small group relatively
+small group of people, and hopefully it
+has all these positive downstream
+impacts. So, that's the mission of
+Coinbase. When you look at the
+regulatory environment, it has been far
+from clear
+what's allowed here in the United
+States. In fact, you had a pretty
+strongly
+worded tweets out in back in September
+of uh 2021. Some really sketchy behavior
+coming out of the SEC race recently.
+Story time. Maybe you could talk a
+little bit about
+the SEC's approach to cryptocurrency
+versus securities. XRP comes to mind.
+And knowing your customer, you've
+obviously taken a very conservative
+approach to what tokens you put on the
+platform. And then you have competitors
+who are offshore who it's kind of yolo,
+anything goes.
+Um what is
+the current administration doing right,
+wrong, and and what needs to happen here
+in the US
+to for us to be competitive in crypto
+while still protecting citizens from,
+you know, being bag holders? Yeah.
+It's a big question. So, you know, as a
+startup, you're always trying to thread
+the needle here. You don't want to wait
+too long for clarity cuz sometimes these
+things take 5, 10 years, and so you'll
+just never launch a product. But if you
+if you're too aggressive, you can blow
+the place up. And so, what we always did
+in the early days of Coinbase is we
+said, "We want to go do what we think is
+going to be required in the future. Go
+get licenses. Go do KYC. Go go go do
+AML, anti-money laundering."
+And so, we tried to basically do the
+right thing, go and talk to these
+regulators proactively. Now, the US has
+actually been pretty forward-thinking on
+this. I'd say every year we get more and
+more clarity. So, Coinbase is now a very
+regulated financial service business.
+You know, I I can go through the whole
+list. We have a license from the CFTC, a
+federal regulator. We acquired some
+broker-dealer licenses, which the SEC
+regulates. We have money transmission
+licenses. We're a bit licensed in New
+York, etc. Going That's just in the
+United States. So, we're we're in many
+many countries around the world. So, how
+do we get more clarity? Well, one thing
+I'll just say is it's actually better
+for there to be lack of clarity than to
+be clarity that is
+punitive or bad. So,
+it's good that there's a little bit of
+lack of clarity as long as it's not
+curtailing the industry. But what would
+be even better is to have clarity that
+does provide that right balance of good
+consumer protection, you know, make sure
+that there's a fair level playing field
+for all the players. And then it allows
+innovation to flourish. And so, what's
+good now is that in the US, you know,
+the Biden administration put out an
+executive order recently kind of asking
+all the different agencies and
+departments to come back with a clear
+plan. And they did recognize the
+potential innovation in crypto in that
+in that executive order, which I was
+really
+pleasantly surprised to see.
+So, what's happening now is that there
+was a little bit of jockeying I think
+there where the SEC said, "Hey, these
+all look like securities to us." And I
+don't think that's quite true. You know,
+the CFTC is regulates commodities. Well,
+some cryptos are going to be
+commodities.
+I think here's here's what I'm realizing
+is that crypto is going to be many
+different things. It's not just going to
+be one regulator doing it. So, you know,
+think about cryptocurrencies like
+Bitcoin. That's pretty clearly a
+commodity or or Ethereum, right? Like
+many of these are
+commodities that probably should be
+regulated by the commodities regulator
+the CFTC. Now, if people want to raise
+money for their company, a security
+token, that should be regulated as a
+security by the SEC. That'd be great to
+have more clarity on that. Let's have
+We we would love to keep working with
+the SEC to make that a well-trodden path
+that any company can go raise money and
+that's how it would get listed on an
+exchange like ours and we could register
+as a broker-dealer or whatever licenses
+needed.
+Um
+separately, there's also some
+cryptocurrencies that are going to be
+currencies like stablecoins and, you
+know, maybe the Treasury should regulate
+those. And finally, there's going to be
+cryptocurrencies that are none of the
+above. They're artwork or something
+that's probably shouldn't even be
+regulated. And so,
+the US with various financial, you know,
+international bodies like G20 and FATF
+and all these IMF are probably going to
+put some policy papers together. We're
+going to eventually end up with some
+kind of a test that says, "Is this
+cryptocurrency a commodity, a security,
+a currency, or something else like
+artwork?" And then maybe and by maybe
+five more things we haven't even thought
+of that it'll end up being in the
+future.
+What would you make the test for this is
+a utility token versus specu-
+speculative
+uh security? Because that seems to be
+the one that's really hard for people to
+figure out. 99% of people are buying a
+token
+on Coinbase because they want to see it
+appreciate and they want to see it gain
+value and only 1% are using it for the
+actual utility of it, is it then a
+security? Is it by the percentage of
+people who use it? How How would you as
+the the you know, the leader in this
+industry, you know,
+uh actually define it? What's your
+definition?
+Yeah, so I think look, I I don't want to
+be presumptuous here. I don't I think
+that we can we can put some policy
+papers together, but I don't want to be,
+you know, it's the policy maker's job to
+to come up with the policy. So, I don't
+want to step on anyone's toes.
+But that being said, I think there's
+some existing case law out there like,
+you know, the Howey test is something
+from a long time ago. We could probably
+build upon that. So, the Howey test kind
+of says, you know, is this an investment
+in a common enterprise with an
+expectation of profit? And that would
+make it a that would make it a security.
+So, there's a lot of pieces to that. You
+know, is it an investment? Well, if
+you're just giving the tokens away, I
+guess the people aren't investing,
+right? Is it a common enterprise? Well,
+maybe if it's decentralized and you
+don't actually control this entity like
+um you own, you know, less than a
+majority share or something, maybe then
+that's not a security, right? Or if
+there's not an expectation of profit,
+people are using it for something. So,
+every startup right now in the space has
+basically had to hire a bunch of
+expensive lawyers to go tease apart
+these old old rules that some of them
+were created like the 1930s, you know,
+before the internet and then every
+everything and try to understand where
+they're falling. And so, I think
+building upon that Howey test, but it
+could be something that includes a
+commodities definition, something a
+currency definition.
+I you know, I think we should basically
+it's on us and then the other crypto
+companies out there to go hire a really
+smart lawyer who has drafted legislation
+before and a bill and actually get a
+draft of it out there. And then we can
+start to circulate it with various
+policy makers and get their feedback.
+And maybe they take it and run with it.
+Maybe they say, "Thanks, we have it
+we've got it from here." But that's our
+next step. Friedberg, Sachs, Chamath,
+would you go with the Howey test
+um or do you have thoughts on how to how
+the government here in the US should
+say, "This is a security.
+This is a utility token."
+I think what the EO did was basically
+kind of give people enough
+regulatory
+safety in the sense that something
+reasonable will probably happen in the
+reasonable future so that people could
+keep building and iterating. My big
+takeaway in the last sort of like 9
+months is that this thing is now too big
+to fail and the government basically has
+to just find a reasonable framework to
+enable something because the
+the real big issue, Jason, would be if
+they did something crazy and now, you
+know, retail would just get completely
+smoked cuz I think they are the
+What do you think is reasonable? I think
+has to basically pass a sensible set of
+legislations that clearly demarcate
+exactly what Brian said. This realm of
+stuff goes to the CFTC. This realm of
+stuff goes to the SEC. Now you guys go
+and implement. And if left to their own
+devices, those two will use these arcane
+laws and try to negotiate amongst each
+other who should be covering what, but
+they can't arbitrate that decision. And
+so, as a result, nothing will nothing
+reasonable will happen.
+Um so, I think that's what has to
+happen. Congress has to get together and
+write something reasonable and get it
+passed.
+Friedberg, you are building companies at
+the Production Board every year. You
+build a couple companies. Uh you have to
+go through securities law. You have to,
+you know, raise money from accredited
+investors. You do it in the traditional
+way.
+Um but you must be looking at crypto
+saying, "Well, I could launch Khan
+Academy, whatever project and have a
+token associated with it and raise money
+and raise it globally or start a DAO."
+What do you think is a reasonable way
+for people like yourself who are
+playing by the existing rules to be able
+to embrace this new technology and these
+new platforms and paradigms? I think a
+little bit How should the government
+handle it? Well, some perspective is
+important, which is, you know, go back
+to kind of the 1920s in the United
+States and there were
+pre-1920s,
+folks would go around and tell tall
+tales about interesting business ideas
+or business concepts or things that they
+were going to do with if they got a
+bunch of money from investors. And
+investors gave them money
+and they didn't actually deliver on what
+they said they were going to do and they
+got swindled. And there was swindle
+story after swindle story that you can
+read about. And we saw this even with
+the ICO craze of a few years ago, right?
+Where people tell a tall tale, you
+expect some value or some asset that
+you're kind of putting capital into that
+will pay off over time and there's a
+swindle behind it. And that's really the
+origin of securities laws in large part
+is to protect the individual from being
+swindled, to protect the storyteller
+that can take money away from people and
+figure out how to kind of rip them off
+and create a a set of laws that the
+government can then enforce through the
+risk of imprisonment against doing those
+things. The challenge becomes when
+there's this
+more thoughtful way of running capital
+markets on the other side. And how do we
+actually resolve to some medium ground
+here? I'm not sure that you're going to
+have as quick of a resolution to say,
+"Well, let's go back to the old way
+where anyone can say anything to anyone
+they want and anyone can put money into
+any project that they want." Because the
+role of the arbiter is to protect those
+from being taken advantage of. If 85% of
+those projects are great and 85% of the
+investors are intelligent and know what
+they're doing, it's the 15 It doesn't
+matter. It's the 15% that the government
+is here to protect. And that's the
+reason we have an institution called the
+government is to create systems of
+protection for those who are otherwise
+unable to protect themselves. Now, a
+free market libertarian might say,
+"We should have at it." But the problem
+is we all have a we all feel as a group
+at some point a moral obligation to
+protect those who are unprotected. And
+that's why these systems emerge over
+time and that's why these institutions
+exist. That's why the government exists
+and that's why these securities laws
+exist. And so, it's difficult to assume
+that we can just go back to the kind of
+you know, um prototypical days of, you
+know, let me raise money for anything
+with any story without any regulation
+and assume that it's going to work out
+well cuz all it's going to take is a few
+of these stories before you have folks
+standing up in Congress saying, "This is
+unbelievable. We can't let this happen
+anymore. Let's go shut down the miners.
+Let's go shut down the data centers.
+Let's go after every asset we can." And
+by the way, they will cuz look at what
+just happened with Russia. The way that
+governments can kind of coalesce around
+digital systems now and make significant
+change and block things from happening,
+I don't know if there is a world where
+we can assume that even with a free and
+open internet that these systems can
+truly be decentralized given the reach
+that governments have. And it is going
+to be in my mind, I've said this in the
+past, kind of the great tension of the
+21st century socially is the
+decentralized systems that really want
+to challenge what we believe to be a lot
+of overreach that's happening by
+governments against the government's
+believed role to be protecting those who
+are who need the protection. And so, I
+don't know. That's a very long-winded
+moral statement. Well, I mean, I think
+it's a a very interesting one. Brian,
+what do you what do you think of this? I
+get it. These are complicated issues,
+right? We want to balance protecting
+people, but we also want to not have the
+government be in a position where it's
+picking winners and losers. And so,
+you know, I I
+just because something is legal doesn't
+make it make it a good investment. I
+guess, you know, you could have you
+could have owned Netflix last week or
+something like that.
+You guys might talk about that in a
+minute, but
+look, I think we all want to get rid of
+fraud, right? So, if you commit fraud,
+meaning you lied to investors,
+then that should be a crime, right? Like
+we I want to I want to work with anybody
+in government to go put that make that
+stuff not happen. The danger is if we
+ever get into a place where we say,
+"Well, only wealthy people can now
+invest because somehow there's an
+accredited investor test." That's
+inherently exclusionary. I don't I don't
+like the accredited investor laws.
+If we ever get into a place where the
+government is saying, you know, well,
+you have to you have to have XYZ
+criteria and a person with this many
+years of experience on their resume and
+then now we get into like the government
+sort of design by committee to pick
+winners and losers and that's that's
+inherently flawed because, you know, a
+lot of
+true breakthrough innovation, they look
+like bad ideas at the beginning. They're
+the kind of things that a government
+body would never invest in or put money
+into, right? So, that's the inherent
+tension we have to worry about with
+protecting people but not putting the
+government in the role of picking
+winners and losers. Sacks, you have any
+input on this sort of framework? You are
+investing traditionally in stocks, but
+you have also allocated some money to
+Multicoin Capital and other folks who
+are buying tokens and then you have to
+distribute them and you have to deal
+with these downstream legal issues. How
+are you dealing with them and then what
+do you think is a is a proper framework
+here in the US for protecting consumers
+while allowing innovation? I think the
+big picture framework that we have is
+correct, which is you kind of have this
+dichotomy between security tokens and
+utility tokens. So, security tokens,
+basically it's a token that's issued
+that it's basically like a share of
+stock or of a fractional ownership in
+some business. Doesn't really have a lot
+of functionality associated with it.
+That's kind of an end run around the
+securities laws. They should be treated
+like securities. On the other hand
+though, there are a lot of tokens that
+are
+issued as part of creating a new kind of
+technology network and those tokens have
+real functionality and if you were to
+subject them to securities laws and
+impose KYC and accreditation, you have
+to go through all these hoops just to
+add one to your wallet, it would destroy
+the potential functionality created by
+these systems. So, where there's real
+utility like that, I think the
+government should foster innovation by
+having a lighter hand. Don't subject
+them to securities laws. And really what
+entrepreneurs need in the space are some
+safe harbors, some really clear lines
+around what would trip them up and and
+have them cross over from utility token
+into security token. So, they know to
+avoid those things so they can continue
+innovating on their core project. I
+think that's well said. I I have three
+ideas, Brian, I want to run by you.
+Number one, a sophisticated test for
+investors in crypto and in startups. So,
+just like you get a gun test or, you
+know, a test for a driver's license, we
+come up with a way for people to become
+sophisticated. They take a simple test,
+maybe it's a, you know, whatever number
+of questions. And then second, maybe
+some safe harbors around the scale of a
+project. So, any crypto project under 10
+million can be an experiment and, you
+know, it's kind of like
+no need to have rules. People just have
+to sign a disclaimer or waiver, this is
+an experiment. Then things maybe between
+10 and 100 million, you implement KYC
+and maybe throttle the number
+Jason, those are some good ideas for
+when you're talking about the bucket of
+security tokens. If you want to start
+imposing those kinds of rules on utility
+tokens,
+you can't have a functioning network
+with like all these sort of frictional
+Well, hold on, but if then if the
+project gets scale, then you just have
+to file a little more, have a little
+more KYC and then finally, the founders
+of these projects, they can just launch
+them and disappear. They have no
+director like duty to the project. Do
+you think there needs to be something
+similar to directors in corporations?
+So,
+just three ideas there that I've heard
+other people talk about or I've been
+thinking about, Brian. Those are pretty
+good. I like those actually. I mean, the
+nice thing about a driver's license test
+for financial literacy is that it
+doesn't measure how much money you have.
+So, it would allow
+smart, you know, aspiring people who
+didn't start with a lot of money,
+like a lot of us, to to also be able to
+participate early on in these, which
+would be really great.
+Yeah, I think, you know, some kind of a
+safe harbor or sandbox provision, I
+think is a is a really great idea as
+well. And lastly, yeah, I mean, if you
+were to able to
+I'm basically I think your three ideas
+are great. So, those are good. I think
+that they're they're good for
+securities, but I mean, should if you
+just want to buy gas on a blockchain to
+run your program
+where you're a user of a of a
+application that's being run on a
+blockchain, you just want to buy a token
+for gas, do you really have to go
+through all these like KYC type hoops?
+Hopefully not, especially if it's a if
+it's a utility. I mean, self-custodial
+wallets and dapps or decentralized apps
+are this huge area of innovation that,
+you know, you wouldn't want to like
+imagine if the US government had said
+you need to come in and register to make
+a website or something like that. That
+that would have been a terrible thing
+for innovation globally. So, you have to
+remember too that a lot of this is going
+to flow to the country with the most
+permissive laws. So, a lot of
+governments around the world, not the
+most permissive, but the most
+well-structured that balances all the
+all the pros and Make me clear.
+Yeah. The thing that I would just add to
+this though is that there's a lot more
+than just AML and KYC, guys, that has to
+happen for this to be a functioning
+ecosystem. We average, I think, one hack
+a week in the crypto ecosystem, right?
+This Beanstalk hack happened
+what, just a few days ago? That was
+almost 200 million dollars. Last month,
+Axie Infinity, what was that? Almost 600
+million dollars. So, there's a lot of
+stuff where in the in the normal
+securities world, like if you're a
+director of a company and you don't have
+these adequate procedures and Brian, you
+live this every day where there's like
+an audit committee and there's somebody
+that chairs audit that has to go and
+think about information security and
+blah blah blah and all these disclosures
+have to happen, insurance. But all these
+disclosures are really about actual work
+being done. If you don't do that work
+and then you get hacked, you're actually
+liable, right? There's no version of
+this in a world where it is a little bit
+of the wild west. So, that stuff also
+has to exist. This is what I what I mean
+by I actually think Congress just needs
+to kind of like update the set of
+laws that actually allow the CFTC and
+the SEC to do their job to include this
+and say, "Now go and incrementally
+figure this out."
+Because even if you get the AML and KYC
+stuff right, then there's all this other
+stuff where, you know, these folks that
+had they're basically, you know, all
+this all this value deprived.
+Who do they go to try to get the money
+back?
+You know, in in the case of Axie, I
+mean, this is it's an incredible thing,
+but like, you know, they went to
+Andreessen and they raised a new round.
+They're like, "We're just going to make
+everybody whole." But that's insane,
+right? That's like not you can't expect
+that to happen with every single project
+or every single company. It's not going
+to be possible.
+Yeah.
+Well, I think a couple things will
+happen. I mean, in the in the custodial
+world of crypto, there'll be more
+regulation. There already is, right?
+Like we we have a New York Trust Company
+that we get audited for various control
+environments and safety and things like
+that. But in the self-custodial world,
+everyone is going to start to be in
+control of their own assets. And I think
+that, you know, the tools are getting
+better and better for that. Like, you
+know, social recovery of keys if you if
+you forget your password and these kind
+of smart contract wallets. And so,
+you know, both are growing
+and I think in the future people may
+actually start to take more
+responsibilities for storing their own
+wealth if if they want to choose to do
+that and that'll allow them to kind of
+access a broader ecosystem of of things.
+Let me ask a question, Brian. Everybody
+seems to be very concerned about Tether.
+You, I don't believe, participate in the
+Tether ecosystem at Coinbase. Is that
+correct?
+Well, we're not participating directly,
+but we support as many assets as people
+want to use and that is one of the ones
+that we've supported people to deposit
+and withdraw on Coinbase. They've been
+banned in New York. They've had
+regulatory action in Canada.
+People are concerned about their
+attestations or lack of clarity on their
+commercial paper.
+What what do you think of these
+stablecoins getting very big and maybe
+USDC seems to have it pretty tightly
+covered, but there's all these concerns
+and regulatory actions against Tether.
+Is that a a big nothingburger or does it
+concern you that there's a lack of
+transparency into their holdings?
+Yeah, so I would say, you know, some of
+the early stablecoin efforts definitely
+didn't have all their ducks in a row
+from a reputational point of view.
+You know, I'm not an I'm not an expert
+on Tether. My understanding is that
+there have been some investigations and
+enforcement actions which have required
+them to go in there and clean up some
+things. And
+you know, our our digital asset listing
+group kind of looked at a lot of this in
+depth and made that judgment call that
+where they where they were and where
+they are now.
+But yeah, I do think that we're seeing
+the emergence of new groups like, you
+know, USD Coin is is one of those that I
+think has some better controls around
+it. And there's actually a bunch of
+stablecoins now that are decentralized.
+You know, Dai and Frax
+Explain what that is and why it's
+important.
+Well, so okay, so it really comes down
+to trust. I mean,
+you know, you can trust
+you can decide to trust something like
+USDC that has kind of audit requirements
+and, you know, a big four accounting
+firm come in and look at it and things
+like that.
+Or you can
+look at smart contract code and, you
+know, thousands of people around the
+world can look at that and there's an
+inherent bug bounty if you find an issue
+there. And if it hasn't been found, then
+you can start to think about trusting
+that. Now, I think stablecoins like like
+Dai and and others,
+they've been able to create these
+relatively complex systems that have
+sort of
+that one asset which is intended to be
+stable, but another one which is sort of
+the collateral. And you could imagine
+various black swan events where, you
+know, the peg would get broken and
+things like that, but it really hasn't
+happened yet in Dai and it's shown a lot
+of resiliency, which I've been very
+impressed by. There's one actually one
+other
+type of coin which I think is even maybe
+more interesting than just wrapping a
+fiat
+like a dollar or a rupee or something
+like that because, frankly, you know,
+the dollar is seeing a lot of inflation.
+You guys have talked about it many times
+on this show. So, do you really want to
+have a stable quote stablecoin that is
+inflating, you know, 8% a year?
+There's there's some new coins coming
+out which I've been really excited to
+see, which are I think, you know, Balaji
+calls them flatcoins, but they're
+basically looking at the consumer price
+index and they're trying to
+basically have flat purchasing power and
+assume that the dollar and various fiat
+currencies around the world actually
+going to go through more inflation.
+That's a pretty cool idea and you can do
+that in a creative way on a blockchain
+by having various oracles which are
+these sources of truth and if enough of
+them, you know, 51% of them tell you the
+CPI we think is this this year it can
+kind of keep keep pace with CPI which is
+a really cool innovation I think. Thank
+you so much for Brian Armstrong for
+joining us for the first hour and now
+we'll continue on with our Netflix
+discussion. Brian's fantastic. He was a
+very honest. He answered a lot of
+questions very honestly and he's a super
+fan of the show. That business is a
+great business. That business will be a
+great business.
+We like somebody who's thoughtful. I
+really think that the challenge that
+Brian faced a year and a half ago and
+the policy decision he faced is now
+being faced by every CEO across America.
+And that's the broad relevance is, you
+know, what are they going to do? Did you
+see this this quote by the McDonald's
+CEO? The former McDonald's CEO Ed Rensi
+on Wednesday said companies have no
+business being in politics and has
+launched a new advocacy coalition to
+fight woke corporate politics.
+He said corporations have no business
+being on the right or the left because
+they represent everybody there and their
+sole job is to build equity for their
+investors. Wait, the people who make
+filet-o-fish are not going to chime in
+on Ukraine anymore?
+Yeah, but but think about that because
+that actually is a pretty radical
+It is a line in the sand, yeah. He's
+standing on Brian's shoulders, let's be
+honest. I think you know
+The CEO of McDonald's, I mean that's
+like a big you know, traditional Fortune
+500 type corporation and they're saying
+like we're not doing this anymore. Well,
+you know what? They were more than
+willing to do it if it scored them
+points. What they realized was it's
+going to be a never once you engage
+that, you're never going to be able to
+disengage from it. All right, let's
+pivot over to uh Netflix. They reported
+a drop in net subscribers for the first
+time in 10 years uh and the stock
+dropped 35%
+market cap from 155 billion to about 98
+billion. According to Bloomberg, as of
+Wednesday Netflix was the worst
+performing S&amp;P 500 so far in 2022. Stock
+down 63% year-to-date. Ackman uh dumped
+his entire stake and booked a 430
+million dollar loss and a a large part
+of this was because they didn't hit
+their 2.5 million or so uh target uh
+increase in subscribers and they in fact
+lost all 700,000 Russian subscribers as
+part of uh boycotting um
+Russia because of the Ukraine
+war.
+What do we think is happening here? Is
+this a bellwether Chamath for something
+more
+important going on or is this just
+Netflix not executing well? I think
+there are there's a macro
+thing and then there's a Netflix
+specific thing. The macro thing is that
+we are learning the broad sweeping
+impact of Apple's privacy changes in my
+opinion.
+You first saw it flow through into
+Facebook's earnings and basically then
+saying this is going to be really tough.
+And you had Netflix, even if you add
+back the Russian subscribers, basically
+spend almost 600 million dollars in the
+quarter on customer acquisition to
+effectively they would have generated
+500,000 subscribers net of churn, right?
+Which was still about a million and a
+half under where they needed to be. So
+the point is that I think Netflix in
+some ways was a little bit of a canary
+in the coal mine
+for the
+the shrinking um
+effectiveness of online advertising. And
+I think that's why you then saw two days
+later Facebook got taken to the woodshed
+in two days was down, you know, now it's
+down I don't know 15, 20% Google
+I think it's been down a lot today. It's
+just getting absolutely smoked relative
+to the market. So that's the macro issue
+which is I think um it's really hard for
+these ads to be as effective as they
+used to be. And it's only going to get
+worse because Google has also said that
+they're going to implement a lot of the
+same versions of what Apple did inside
+of Android. So customer acquisition is
+going up. So if you look at then all the
+companies that have to live and die
+on CAC it's going to be uh an expensive
+um road. That's the macro thing I think
+that not enough people are talking
+about. I think the micro thing inside of
+Netflix is that
+you know, people churn out of a service
+when there isn't enough value.
+And I think that's the most basic
+explanation of why so many people are
+leaving Netflix is that it's not that
+valuable. So when you're spending 20
+billion dollars a year on content
+but people more than ever are leaving
+the service, you have to inspect how
+much are you really spending in these
+areas and what is it actually creating
+in terms of like library value? You
+know, Disney Plus
+I think has gotten has done an
+incredible job in a much shorter period
+of time.
+Apple after only a few years wins the
+first Oscar of any of the streamers
+right? Beating Netflix even though
+they've been in there and spent a
+hundred
+for best picture but I'm saying so when
+you put all these things together uh I
+think Netflix probably has lost a little
+bit of the script. But they're also
+suffering from a really macro headwind
+which is the advertising business is
+broken.
+I would imagine that like total
+subscribers to streaming services and if
+you were to add up total subscription
+service dollars, it's probably growing a
+lot. Oh, for sure.
+Netflix's relative share is going down
+because the quality of the competitors
+is improving so much. Even companies
+that are not able to deliver like CNN
+shut down CNN Plus this week after
+investing 300 million dollars in trying
+to build out the service. I mean folks
+are putting serious dollars behind these
+projects. Um and so the competition is
+fierce and they've got deep content
+libraries behind them. I personally
+think HBO Max is the best streaming
+service now
+Awesome. followed by Disney Plus,
+followed by maybe a mix of Amazon,
+Netflix and um
+you know, uh Prime. And so like
+Netflix's relative value is going down
+because there's so much other content.
+When I'm kind of thinking about what to
+watch, I'm looking at Disney Plus, I'm
+looking at HBO Max and I'm like hey, you
+know, what should I watch and like and
+then I look at Netflix. Netflix doesn't
+have a monopoly in content anymore. And
+so when I've got limited dollars, I'm I
+I personally I look at this after we
+were texting about it. I subscribe to
+seven streaming services right now. And
+if I didn't care as much about how much
+I was spending per month, I would
+probably cut three of them and Netflix
+would probably
+Yeah. You're you're also then
+highlighting the second I think macro
+thing that it's it's actually equally
+important, maybe even more important
+which is
+you know, the the first rule of
+capitalism says that excess returns will
+always get competed away. So you know,
+Netflix had the run of the place where
+they were an effective monopoly Totally.
+and now when everybody else woke up and
+got religion, they decided to invest and
+they've created some really compelling
+content. And so all of those returns
+will now get spread across seven or
+eight or nine competitors which means
+that just by definition mathematically
+Netflix can't win the way that they used
+to. And the network advantage in the
+streaming model is content and
+consumers. So you have better content,
+you get more consumers, you spend you
+get more money from consumers, you spend
+more on content. At some point you get
+diminishing returns in that network
+model. And now we're seeing those
+diminishing returns hit Netflix. They
+haven't built advantages in search and
+discovery or in other or in social
+sharing or other features into the app
+or into the service that will give them
+more of a lock-in value because all I'm
+doing is buying con is is watching
+content.
+three times the price and I can do that
+elsewhere. They're also three times the
+price of Disney Plus and other services.
+So they're in the competition space
+people are starting to look at and go,
+is this worth, you know, a Disney and an
+NBC or is this worth a Hulu and an NBC
+uh streaming service. Sachs, you had
+something to add? Well, I mean I agree
+with that. I would just add one factor
+to this which is what Elon said which is
+he said the woke mind virus is making
+Netflix unwatchable. I mean the quality
+of the programming has gone down. I mean
+Netflix used to be really good. I can't
+think of like a show now that I watch on
+Netflix and I do watch HBO Max right now
+and Disney Plus cuz they got some shows
+that I like. So I think somehow the
+programming people at Netflix have
+gotten out of touch. Yeah, are they
+pandering to that audience Sachs do you
+think and you know, similar to kind of
+how Disney ended up pandering and do you
+think that there's broadly this kind of
+media problem of trying to pander to the
+wrong audience? I mean they almost threw
+Chappelle off who's the number by far
+the number one comic in, you know, in in
+American comedy and they absolutely
+would have thrown Chappelle off and done
+what a lot of those employees wanted if
+they didn't have such a big deal with
+him if he wasn't such a big deal.
+No, I think they held the line pretty
+pretty well on that.
+There was a lot of groveling
+I think they reasonably heard the
+concerns of their employees and said, we
+reasonably disagree. You can work for
+our company. Yeah, but the Jason it
+showed it showed but yes, but what I
+look, yes, maybe but what I'm saying is
+that that episode revealed that the
+people are doing the programming at
+Netflix obviously
+are like they're not like I think
+they've lost touch with where most of
+the country is.
+I will give a shout-out. I have not
+watched a series on Netflix in probably
+a year. Oh, was Ozark now? No, not
+Ozark. No, but I will give a shout-out
+to Never Have I Ever which Mindy Kaling
+created. She's amazing. And that series
+is incredibly funny and poignant and
+cool and awesome. But outside of that
+series, I cannot think of a single
+reason why I would actually pay for
+Netflix right now.
+guys let me ask you guys a question? So
+going back to cuz you know, there was
+the whole Disney HBO Max however, oh my
+god, so good. The whole industry is
+suffering this problem. Do you remember
+the Oscars? We don't even watch it
+anymore. This is the question I have for
+you. Do you guys think that there's a
+difference culturally in the management
+of the media companies? So let's go
+through them. Warner Media
+Disney, Netflix, Amazon
+and do you think that that cultural
+difference may create an advantage and
+success? Do you think that Warner Media
+is operating HBO Max differently because
+they're culturally different.
+100% Because they're culturally
+different. HBO has always been
+culturally different. They have been for
+auteurs. HBO has always had
+HBO has sucked for years. They got a few
+good shows now. It's It's more like
+luck, I think.
+for auteurs. They always have gone with
+the vision of the director, the vision
+of the writer, and taken a lot of risk.
+When you hear that HBO logo,
+you know it's going to be
+I I agree with you. They have some
+really good shows right now, but until
+the last couple of years, it was like
+pretty dismal.
+but I mean I took Freeburg's point. You
+know that Netflix is
+say I would say Disney has Marvel, and
+that's why They have Marvel and Star
+Wars, and that's and that's kept them
+extremely relevant. Pixar Well, yes. The
+IP There are IP
+I cannot tell you how how much and the
+advantage Disney has is the
+rewatchability of their content. I don't
+know how many times your your kids have
+all watched Moana. My kids have watched
+I've had to watch Moana 107 times
+already. Let's hear it. And Star Wars
+and and and You're welcome.
+Yeah. You're welcome. And the and the
+Star Wars content, as you guys know, you
+could rewatch Star Wars and Marvel. I
+mean like the the content is very
+different on Netflix movies, too. You
+could watch 100 times over. That's very
+different content. HBO Max is thrilling
+and engaging and doesn't feel like it's
+pandering.
+HBO right now is operating at the next
+level. I mean
+So many good shows.
+It It for me But Netflix was 5 years
+ago, so. I understand, but we're not
+talking about the past. We're talking
+about Netflix. Netflix went with these
+very big deals with big celebrity names,
+and you know, I think they just lost
+their uniqueness in terms of
+risk-taking. So they went with Adam
+Sandler, no offense to Adam Sandler
+fans.
+And they're doing a lot of reality TV
+now. And if you look at Hulu, like
+Dopesick and then The Dropout, if you
+look at Apple TV, Ted Lasso, WeCrashed,
+uh and then you look at HBO Max with
+just uh you know, Euphoria and some
+other
+even even I like I can actually
+Euphoria. Can you imagine Euphoria on
+Netflix? It would never be on Netflix.
+It would never get made. It would never
+get made on Netflix.
+Yeah, they don't want to take risk.
+HBO's like for adults, it's paid, and
+they're going to take risk. And Disney
+doesn't can't touch that. I think Hulu's
+a sleeper. I mean Hulu's great. Have you
+guys watched a series called The Great
+on Hulu? No.
+It's about Catherine the Great. It is
+incredible. I can't cancel my Hulu
+subscription.
+So good.
+I'm watching Severance right now. That's
+amazing. It's like really like you know,
+a family drama.
+I started paying for YouTube TV so that
+I could get streaming cable. Oh yeah, I
+do YouTube TV.
+That's my number one my number one watch
+thing. It's YouTube TV.
+But you have YouTube without ads? Yeah.
+I do YouTube Premium and YouTube TV.
+such a game changer.
+how do you do that? You pay for it. It's
+called YouTube Red or Premium. YouTube
+Premium, it's called. It's nine bucks a
+month, you you can afford it.
+You see no ads on YouTube. Ask your
+assistant to ask her assistant to sign
+you up, and and you won't have to watch
+ads on YouTube.
+functioning not able to use the internet
+now? Two months?
+I actually have people that do it for
+me.
+Do they type in your email password for
+you? Yes.
+You're like, "How does this work?" And
+they're like, You press the Netflix
+button on the remote. Yeah, if I can't
+get the mouse to work. He's got the VP
+of product from Questran who lives in a
+little shack in the house next door who
+comes over and uses the remote for him.
+Yeah. Thanks for tuning in, everybody,
+for the dictator himself, the sultan of
+science,
+and David Sacks. We have a jam-packed
+agenda. My God, the s- Commentary is
+going to be amazing. Let's just do a
+little recap here of what's happening.
+Um we've got some pretty great speakers,
+Ryan Peterson, Nate Silver, uh Claire
+Zickel,
+uh Brad Gerstner, uh Palmer Luckey's
+coming, Elon's coming, Keith Rabois's
+coming, Joe Lonsdale, Tim Urban. Wait,
+did you say Elon's coming?
+Oh, is that what it says on the website?
+Yeah, he's on the website now. Elon
+Musk?
+Elon's coming. Elon's coming. Nice. Of
+PayPal? Uh Antonio Gracias. I mean,
+we've got uh just an all-star
+uh
+a very good lineup. And I think uh Glenn
+Greenwald and Matt Taibbi are coming.
+Yeah, that's going to be amazing. And so
+it's going to be really great. All
+right, everybody, uh we'll see you next
+time on the All-In podcast. Bye-bye.
+Let your winners ride.
+Rain Man, David Sacks.
+And I said, "We open sourced it to the
+fans, and they've just gone crazy with
+it." Love you guys.
+Besties are back.
+That is my dog taking a [&nbsp;__&nbsp;] in your
+driveway.
+Oh, man.
+We should all just get a room and just
+have a one big huge orgy cuz they're all
+just useless. It's like this like sexual
+tension that they just need to release
+somehow.
+Wet your pee pee. Wet your pee pee.
+Wet.
+We need to get merch. Besties are back.
+I'm going
+all in.

@@ -1,0 +1,945 @@
+# Travis Kalanick | All-In Summit 2024
+# https://www.youtube.com/watch?v=8j7lwauJN2s
+
+the reason that he was kicked out is
+because of this toxic culture some big
+news that took place on Christmas Eve if
+you missed it Travis kenck planning to
+leave the board at Uber and when he
+showed me what he was working on I
+immediately said hey can I invest a
+popular 70 billion doll ride sharing
+company is searching for a new CEO to
+take the wheel so you want to talk about
+structure being completely screwy
+competition is good I'll bet my entire
+network that Uber will be here and
+thriving in 10 years you're you're at
+War prematurely with your customers
+sorry about
+[Music]
+that all right
+[Applause]
+everybody my
+guy
+um uh I can't believe I can't believe I
+get to sit down with one of the most
+famous investors in Uber
+I'm honored I'm honored to be
+here
+um we we wanted to have a surprise for
+you every day uh I've been you know
+Travis and I have been friends for 25
+years um the first time I interviewed
+Travis was 1999 I was doing a little
+magazine out here digital Coast reporter
+you were doing a little company called
+scour um which was a peer-to-peer
+Network to share
+files um and you were 22 years old I was
+28 I think if we put those two numbers
+together just don't let people do the
+math you know it's just like just keep
+moving was a while ago 1999 um and um I
+just
+remember the enthusiasm drive and fire
+that you had at that time and it always
+struck me I said to myself I don't know
+if he's going to win on this one I'm
+pretty sure he's going to get his ass
+handed to him in fact correct correct um
+but I know this guy's going to win big
+in the future and and sure enough uh we
+got to go on a great journey together
+with Uber and now again with Cloud
+kitchens and I every year when we're
+hanging out I
+say since you left Uber I say you know
+whenever you're ready let's have a
+conversation and here we are and then
+you call me every year I call you every
+year if you're ready just and I'm just a
+block away from
+you you're Alma moer UCLA let's go come
+on I'm like all right let's let's go and
+this year you said okay so here we are
+um let's chop it up let's talk about
+Cloud kitchens you have since uh you
+left Uber been working extremely hard
+and quietly on cloud kitchens what is
+the vision what is cloud kitchens for
+people who don't
+know well uh
+so yeah I mean it it is kind of funny
+when you go from being a tech guy to a
+kitchen guy I mean that's interesting um
+look food has I think we all know like
+food is it's at the center of the Human
+Experience the center of humanity and
+just just how we live but it's got a lot
+of
+problems Health cost convenience like
+all that stuff and it could be a hell of
+a lot better and so um of course in my
+last at my last gig we did Uber Eats it
+was a starting point but the difference
+with food versus rides is that the
+infrastructure was already there you had
+a bunch of cars that were 98% unutilized
+and so you just had to light it up but
+to do food right you needed to build the
+infrastructure and so the mission for
+our company is infrastructure for better
+food and the idea is like can you get
+the preparation and delivery of food so
+high quality and most importantly so
+cost efficient that it starts to
+approach the cost of you going to the
+grocery store if that happens you do to
+the kitchen what Uber did to the car
+and so the quiet part is like we go and
+buy real estate we do
+construction we then go talk to the
+center point of what matters in food
+which is the restaurant tour the
+entrepreneur who's making it who does it
+just because I mean it's a labor of love
+you got to have a deep passion for food
+and a deep passion for people because
+otherwise you couldn't survive in that
+world uh but these guys are like like
+true blue entrepreneurs and they are our
+customer and you do it from their
+perspective and you help them get their
+vision for what they're doing out there
+and do it super super efficiently um and
+so we like to say we serve those who
+serve others we're not the restaurant
+we're the guys
+underneath and uh currently I think we
+have real estate we we have facilities
+in all the major cities in 30 countries
+around the world um we also have a
+software division so we have hundreds of
+thousands of restaurants using our
+software stack um and we have a robotics
+division um that you know got going with
+a lot of the original sort of uber atg
+guys Advanced Technology Group the the
+autonomy guys so we got that crew
+together and um have really you know
+robots that are going to that
+already are out there but are going to
+be out there in a really big way over
+the coming you know quarters and years
+so the premise of uber was hey press a
+button we move you or anything from
+point A to point B what a profound
+simple but profound um insight as an
+entrepreneur and the Insight here is
+hey getting you food uh quickly
+efficiently and then making it easier
+for a restaurant tour to pop up a
+restaurant tell us the economics of a
+food brand um when Jade and I and the
+family were out here here on vacation
+over the summer at Manhattan Beach we
+had a wonderful experience of ordering
+gwenneth Pal's Cloud kitchen and these
+new brands great um yeah great great new
+brands popping up um talk about the
+economics for that food entrepreneur I
+mean It's just tough I think most of us
+know a restaurant tour some of us may
+have even tried to do a restaurant or be
+a part of it in some fashion I like I
+said it's a labor of love but like your
+big costs are going to be labor let's
+call it between you know let's call it
+30% but it can range from like 25 to 40%
+of your overall Revenue occupancy which
+is the the physical space itself uh
+let's call it between six and 12% of
+Revenue uh supply chain is
+30% uh marketing let's call it 10 um I
+know I'm missing something somewhere but
+those are the that's the big stuff and a
+successful restaurant's going to have a
+10 % profit margin and be really pumped
+about that wow um and so yeah that's
+just how it works um you know one thing
+I wanted to say just sort of the high
+level to like sort of how do you connect
+the dots on like sort of where
+Innovation is going is that um you know
+my sweet spot is digitizing the physical
+world and you know you could take that
+to mean a lot of different things but
+it's basically treating atoms like
+bits and so we know the bits world is a
+computer okay computers well CPU
+manipulates the bits storage stores the
+bits Network moves bits from point A to
+point B but if you're treating atoms
+like bits you go CPU manipulates the
+bits what manipulates
+atoms that's
+manufacturing storage stores bits what
+stores atoms that's Real Estate Network
+moves bits from point A to point
+B what uh yeah what moves atoms well
+that's transport of logistics and so
+these are the three sort of core
+Computing resources in a atoms based
+computer and you can say my last gig was
+so much about the network for the
+physical world but there's just a huge
+amount of innovation left in compute and
+storage for the physical world also
+known as
+digitized manufacturing and digitized
+real estate and so our company is really
+sort of
+building atoms based computers and sort
+of our first computer is really a food
+computer so that's kind of how we think
+about it yeah um let's take a look at
+the video of um some of the robots uh
+that are making food in Cloud kitchens
+[Music]
+and that's our lab we're doing that in
+house all in house yeah all this stuff
+is in house
+[Music]
+[Applause]
+[Music]
+so we call this part like look ma no
+hands right so once the dispensers are
+full of
+food nobody touches it and what comes
+out on a conveyor belt is bags of food
+that get delivered amazing right so you
+know LED
+bag sealed you get the general idea so
+now you have a a restaurant that can
+asynchronously produce for consumers
+from what labor is doing and the labor
+is primarily on the on the prep side of
+things so we see there's kind of vessels
+there um I'm assuming they have
+ingredients in them the bowl goes by
+stuff gets dropped in organized covered
+put in a bag label goes on the human has
+no part in that except for maybe
+preparing and and filling prep let's say
+you have prep in the morning this
+machine can run for hours without
+anybody there um and so you know there's
+interesting you know so so it just
+becomes a more efficient thing so the if
+you want to do to the kitchen what Uber
+did to the car you have to make sure two
+things happen one is that you need the
+logistics the movement of food needs to
+go to the cost of that needs to go to
+zero this is a autonomous vehicles
+things along these lines and then the
+production of food must also get uh sort
+of roboticized mechanized essentially
+those two things happen and then we can
+always cook but it can be out of choice
+and um you know I like to say I like a I
+I like horses but I don't ride a horse
+to work and so um you can get higher
+quality food to the people at a lower
+cost and just give people the most
+precious of commodities
+back which is called time to do all the
+things all the other things in life that
+they love and you're strategically
+placing these Cloud
+kitchens um in I get I would assume very
+lowcost real estate but that's at very
+key uh locations that make it very
+efficient to uh deliver the food yeah
+yeah so on the software side we we have
+a software stack that like I said
+hundreds of of thousands of restaurants
+use we're seeing 18% of all online
+delivery in the US as an example our
+software is touching so because we see
+where all of the delivery is we know
+where to put a delivery only restaurant
+facility um and so we find distressed
+real estate or sort of unique situations
+where it's hard to develop and we've
+built a competence in sort of turning
+that into a 30 kitchen facility that we
+then lease those kitchens to restaurant
+tours let's talk about the Playbook this
+is something you worked on really hard
+at Uber hiring Josh in New York will in
+La we had a podcast and you were set on
+that podcast years and years ago hey I'm
+looking for some people to run some
+cities to run Uber and you found this
+eclectic group of Samurai and you let
+them go um and man they cooked yeah talk
+to me about that management principle
+and your management principles hey be
+pumped you know and and bringing that
+enthusiasm that fire and letting those
+cities cook because most people have
+this top down they do things
+sequentially you've really and and in
+those early days got more and more
+emboldened and excited about doing
+things in parallel and letting people
+make mistakes in those regions and
+learning they could I remember Josh
+started doing messenger delivery you let
+other people deliver kittens for a day
+to an office to that was a funny thing
+yeah JD Vance that's when he uninstalled
+Uber um no kittens um but cookies
+whatever it was ice cream trucks yeah
+talk about that model of letting you
+know a th flowers bloom letting these
+Samurai go crazy so look we had a a
+cultural value at Uber called let
+Builders build and I'm sure it was there
+are other companies that I think may
+have said that before us uh but we we
+certainly took a hold of that and look
+as it related to our GM model and and
+how to empower GMS to do well it starts
+with who is the person and we I always
+felt that the the magic making happens
+when you
+cross uh sort
+of uh creative instincts with
+analytical capabilities or prowess
+really so we would just design tests
+that sort of simulated what it would be
+like working together that tested their
+creative stuff their secret their secret
+sauce and creativity but would create
+problems where it was crossed with the
+necessity to analytically solve problems
+got it and so you put those two things
+together with a hungry person that maybe
+just got out their MBA or let's say
+equivalent and they're fired up and
+ready to go and you Empower them and
+then you put
+very simple controls to make sure that
+they're check that like like like
+waypoints that in order to go further
+they have to pass that test once they're
+in the job and just simple things like
+we would have a pricing call in the
+early days of uber where you cannot put
+it up in the app until you pass the
+pricing call the first 30 cities I was
+on that pricing call and the thing about
+price when it comes to Transportation
+it's a amalgamation of all strategy
+across everything across what does your
+cars look like what's the supply the
+supply uh what does uh what does Metro
+or public uh public transport look like
+what is cost of Labor in that City uh
+what are their General alternatives for
+getting around what are regulations like
+ultimately becomes a service with a
+price you pass that and then you run you
+get to run a
+city but that means the previous 30 days
+or 90 days when they're just doing lots
+of stuff I don't have to worry and then
+they get to that point they pass the
+test they know what the criteria for
+passing the test is so it forces them
+into the right mode right let's talk
+about strategy you know one of the great
+privileges of of getting to be involved
+you know in your journey for a little
+bit was we would talk sometimes late at
+night weekends uh when there were really
+dicey strategy moments and I'd ask you
+what you're thinking and we would just
+jam out and a couple of those
+conversations I remember calling you in
+a panic after having taken a lift a ride
+chair and we were only Uber black yeah
+and I said trais I just got out of this
+[&nbsp;__&nbsp;] thing it's $16 it would have
+been 60 I'm pricing sensitive but man
+this is going to change everything and
+you're like jakow and I said don't you
+don't understand J no this is disrup and
+you said we're launching it next week we
+got it you know it is disruptive and you
+saw you know the the Lincoln Town Cars
+were so brilliant you know because there
+were such high margins but you saw the
+disruptiveness of of the rering thing
+and then surge pricing we had a big
+debate about tipping let's talk about
+some of those seminal moments in product
+design yeah and
+competition because this was not
+happening in a vacuum people forget
+there was sidecar there was lift yeah
+and then there were Regulators this was
+a war yeah so I mean kind of a funny
+story I'm not sure if I've ever told you
+this you were you were only six weeks
+behind Zuck right which is I first heard
+about Lyft from Zuck H and he's
+like yo
+yo I think you have a situation on your
+hands and like Su would sort of do that
+like with like a little [&nbsp;__&nbsp;] with you
+kind of sit yeah kind of like that yeah
+he's he's a puck
+yeah and I'm like thank
+you and um but the thing was was look it
+was at the beginning that was like they
+called their rides donation it was a
+donation thing it was non-commercial
+because there was no insurance there was
+no regulation there was basically just
+citizen giving another citizen a ride
+across town and we didn't do anything
+about it for 9 months because we were
+already getting our asses hand handed to
+us and we were doing the legal thing and
+so I'm like dude like we're we got like
+I got threatened by the city of San
+Francisco and the state of California 3
+months after we launched Uber with 90
+days in jail for every ride that had
+occurred yeah so then this thing is like
+it's a donation I swear and by the way
+if you don't give the donation they
+suggest then you get kicked off the
+system yeah right so we're like H we're
+not going to do that and we saw Lyft
+eating our market share up from the
+bottom up because they didn't have
+insurance or regulation or any of these
+other things and then nine months into
+it uh the city of San Francisco the
+state of California because it's was a
+California pu said ah you know it's
+totally
+fine and then we're like oh [&nbsp;__&nbsp;] so then
+we hustled got our thing going which is
+called would at the time was called
+peer-to-peer ride sharing right um and
+then just got working and um um the way
+we did it was like the reason we didn't
+do it in the first place is because it
+was clearly not like legit and but then
+California said yes and so I made a PCT
+with myself that was like I'm never
+going to let this happen again and so
+each and every city we went to we would
+send we would wait for Lift to launch
+and then we would basically say to the
+city we'd send them a letter saying
+there's this really cool thing called
+ride sharing this company called lft is
+doing it
+um we think it's great but our read of
+your regs is like it's probably not
+allowed because you're thoughtful you
+want to be thoughtful but if you don't
+enforce in the next 30 days we're going
+to participate as well great so almost
+every city in the US other than two we
+can talk about those two by the way but
+in all every city in the US other than
+two Portland
+Vegas we were number two in R
+sharing um be for this
+reason um and we did this actually
+internationally we did it across Europe
+we did it everywhere there were other
+folks that were out there and we would
+talk to the regulatory guys say if
+you're going to enforce do it but if
+you're not we're going to participate
+yeah and that work that's kind of how we
+rolled and surch pricing was an
+interesting one you know um the
+Brilliance of the of the Uber
+Marketplace was in many ways tackling
+demand
+and figuring out a way to get uh
+drivers to come out on New Year's Eve
+the worst night of their
+lives to drive and you came up with a
+pretty novel approach which is hey we'll
+pay you double we'll pay you triple yeah
+and if you don't want to participate in
+that as a customer that's fine but we
+think availability is more important uh
+than necessarily having standardized
+pricing and man the world got very very
+upset at this
+and you and I talked about when you
+explained it to me I said that makes
+logical sense and I said you know what
+we should do we should write a blog post
+and that blog post is still up I think
+where you just explained it to people I
+thought Uber took down all my blog posts
+they probably yeah that might be a
+little but this blog post where you just
+said hey here's how to handle New Year's
+Eve leave at this time go back at this
+time but we need to get these people on
+the road and they deserve to be
+compensated so surge pricing there's
+another way to say it
+now I called it surge pricing on purpose
+because I didn't want any body to think
+we were trying to deceive them right so
+we said surge pricing like it's clear
+what's going on um but the other way to
+say surge pricing is called the lowest
+cost reliable
+ride because if surge pricing goes up
+too much then you have drivers that
+aren't making any money um and by the
+way they'll go to the
+competition but if surge pricing is
+exactly at and by the way if surge
+pricing is not enough you're not not
+going to be able to get a ride because
+too many people are going to want it and
+there won't be enough cars sech price in
+the right spot it draws enough Supply
+in and fends off enough customers and
+the market clears so it's the lowest
+cost reliable ride and that's why we
+knew it was a winner even when all of
+the competition and the world generally
+was like hating on this idea
+anytime we were doing surge pricing and
+our competitor wasn't we knew we were
+gaining market share because somebody
+could just come to us and get a ride
+when in the other system they couldn't
+so you're proving reliability you're
+proving it's the lowest cost reliable
+ride that's it yeah um take me to you
+know real quick led to a
+massive super interesting Logistics
+cross with economics problem where at
+the peak I mean and I don't know what it
+is at Uber today but it was like I don't
+know like 150 phds working on this
+problem that we just described huh
+inside the company yeah which is like
+how do you find that lowest cost
+reliable ride is a very very difficult
+problem in a live Logistics system like
+this let's talk about Regulators in
+relation to people being independent
+contractors this is when I realized the
+Press was acting
+without good faith data or logic and as
+a former journalist you know it was kind
+of eye openening to me to be on the
+other side of the table and watching
+this happened because we knew full well
+based on driver data that they loved
+their jobs at Uber because they had Free
+Will and they could go and do any other
+job they wanted and let's be clear the
+average Uber driver during my you know
+let's say at the end of my tenure was
+eight hours a week so they clearly like
+it clearly a side gig yeah side hustle
+and they wanted the
+flexibility over everything else work
+when I want don't work when I want and
+then these
+Union politicians and everything said no
+and the people who own the medallions
+and this is a cobal of really bad actors
+who were saying no they have to work a
+shift and they have to go work for
+somebody who owns a medallion who gets
+50 60 70% of the economics and they
+portrayed us or you as the bad guy in
+all this and this was the exact opposite
+of the
+truth so um yeah I mean it was a union
+problem which is it's very difficult to
+organize people who in this classic area
+which is very Union organized called
+drivers it's very difficult to organize
+them when they choose when they want to
+work their office is their own it's
+their own like nobody controls it like
+there there's just no control and so
+other than the control given to the
+individual and so it was very
+disruptive to the union and their own
+business model and so they had to cut it
+off at the knees and so that became a
+mix of a sort of political discourse and
+like a media push crossed with sort of
+of
+regulatory uh lobbying and like like
+trying to make political apparatuses do
+what's necessary to constrain it and you
+took the approach we will fight there
+are wartime CEOs there are peacetime
+CEOs I put you in the category with Elon
+of wartime CEOs who it does not matter
+how many battles you must battle
+concurrently we're going to fight
+because it's we're on the right side
+yeah of History yeah uh but this became
+acute the number of battles yeah that
+you had to fight the number of fronts
+increase take us to the
+darkest peak of it because every time I
+talked to you I felt fine about it but
+other investors other people felt like
+hey this is too many battles to wage at
+once talk to me about you personally
+fighting all those battles I my
+perception of you was the more battles
+emerged Yeah the more you realized you
+were doing the right thing it filled
+your bucket it powered you it gave
+energy to you to know we were on the
+right
+side so yeah I you know sort of in
+justest I would I would say to folks I'd
+be like
+so you know I'm not sure how it became
+so
+controversial that one citizen giving
+another citizen aide across town became
+such a thing I I'm not sure how that
+happened but it did
+uh the darkest moment I me the thing is
+is like you'd
+keep it was almost like we were always
+pushing into that
+area so like if something became easy
+then we'd push elsewhere until that
+became hard so it was constant is like I
+make the analogy to like
+a to teams that we have in different
+places then and now like a a world class
+marathoner I've never seen a worldclass
+marathoner a mile 19
+look like he's just honky Dory yeah
+right and if he was he's about to
+lose so you push right to that edge of
+what's possible and if that starts to
+get easy you push further now it doesn't
+necessar mean you push in exactly that
+along that axis it could be in a totally
+different area but um as long as the
+problems you're
+solving are greater than the problems
+you're
+creating then you're fine when the
+problems you're creating are starts
+to when the derivative of problems
+you're creating is greater than the
+derivative of the problems you're
+solving then you have a real problem
+right and that's when you have to start
+pulling back get back to above water and
+then go back into it but when I talk
+about creating problems I think of it
+like think of it as like a math
+professor a math profess professor
+without a really cool interesting
+problem to solve is a sad math
+professor and that's how we would think
+about it right these we always pushing
+to the point where we're sweating yeah
+and it's
+like not sure and there could be late
+nights there could be all nighters it
+could be that thing but because we were
+doing the right thing because we had
+great people in the field who believed
+then we could push all the way to that
+edge uh only they could be world class
+marathoners too only two entrepreneurs I
+know have had the audacity to not build
+their products in China everybody does
+that that's pretty easy but to actually
+operate a business in China yeah you and
+Elon uh decided we're going to try to
+compete him with selling cars inside of
+China pretty crazy uh and even crazier
+self- driving cars in China wow yeah
+okay let's go let's go byd like you're
+up against some serious competition and
+it's not
+exactly um a fair game maybe or there
+might be complications to that game um
+we had a long conversation about China
+and I said to you wow we're burning a
+lot of money there what do you what's
+the strategy here let me just hear it
+from you and uh you said we're we're
+going for gold yeah but I mean there's a
+lot of fun there I mean look the thing
+about doing business in China is it
+forces you to rethink everything
+everything like if you go into China
+thinking you got it you're going to get
+your ass handed to you you have to start
+first principles Bottoms Up um let's see
+where could I go with this um look we
+tell me tell everybody the strategy hey
+we're going for gold but they're silver
+and and you how you looked at the world
+in that regard yeah yeah so I'll get
+there is that we so a lot of times when
+you go in ENT China they're basically
+somebody's going you got to have a
+partner if you just go and you do your
+first exploration trip they' be like you
+got to get a partner they're like 50/50
+blah blah blah and I'm like why nobody
+could tell me why so then we just went
+on our own and started building
+something and we never saw on the ground
+we never saw bias we were treated fairly
+on the
+ground um
+but at some point what I'd say is the
+China war went Global and what what I
+mean by that is the Chinese government I
+think it
+was safe there was a there's some
+there's some I think it were called safe
+like a it was like The Sovereign wealth
+of China cic there's like a few things
+like that they started investing
+hundreds of millions and billions of
+dollars in all of our competitors
+globally to drain us of money so that it
+was harder to compete in
+China
+they made apple and I'd love to have a
+discussion with Tim at some point we had
+some interesting words for each other at
+this point but they made
+Apple uh invest a billion dollars in Dee
+and apple doesn't invest anything in
+anybody no that's not their like what
+was he protecting there there's
+something going on
+so whole really amazing story there holy
+cow anyways uh the Chinese War went
+Global and so that's when we had to go
+from going for the goal
+to making sure we got the silver and
+that's when we started negotiating with
+de to basically say we had
+20% of the of the overall entity of the
+merged entity uh but in order to do that
+in China that's when we actually had to
+push our spend super hard because they
+had to be
+scared so I think at the
+peak uh right be right as we were
+negotiating the term sheet we pushed we
+were burning
+I think it
+was $75 million a
+week it's a big number yeah that was
+that yeah
+and but it but we knew we had the deal
+but we only have the deal if they're
+scared right this is a poker so our
+market share was skyrocketing as we did
+this
+they're pissed and tripping and then ail
+who's negot the deal is like just chain
+smoking
+yeah but that's how you get a deal done
+in China right uh and that turned out to
+be there it is um that's that's your
+wartime CEO right there um that deal we
+had invested millions in ch billions in
+China at that point and I think we I
+think we invested yeah we probably were
+around a billion billion and a half and
+the DD St at the time when deal got done
+was we at 891 yeah something like that
+so we turned a bill and a half into
+eight or nine I can't remember the exact
+math but it's something like that uh
+let's talk about in like two years yeah
+let's talk about when you got atin U
+this was heartbreaking
+crushing brutal um you fought hard to
+remain in the seat I got out there and
+did what I could on the Press front to
+try to defend you and and try to keep
+you in the seat but we failed yeah uh
+and it was brutal and it was
+particularly hard on you because you put
+your soul into this
+company yeah well look I think there's a
+little bit more I mean uh you know like
+if an
+investor is
+running a political Oppo campaign
+against you for six months sort of
+generating a crisis every week for six
+months straight it's going to wear you
+down and then you know my
+this one's hard your mom
+passed I
+know I was there with you no no it's all
+good with you but that's that's when
+they went in for the kill uh that I just
+couldn't hang yeah bottom line I just
+couldn't hang
+[Applause]
+yeah
+and yeah
+it was um it was dark it was dark yeah
+so but look I a lot of people go hey are
+you pissed off or this thing and I
+say um
+first I loved it every
+minute I loved every minute but when you
+fall in love again you don't think about
+the ex very much right Cloud kitchen the
+X you moved on
+and you put all that in there in
+in the I I just want to say
+like I am proud of everything you did
+and and watching you do it and getting
+to be there and witness it I learned so
+much from you the community learned so
+much from you and I think we all owe
+like the Playbook I I can tell you the
+impact you had on the Next Generation
+because you know I never talk about Uber
+I brought it up once or twice never talk
+I never talk about it I try to keep it
+lowkey but I brought it up once or twice
+and it was good for my deal flow and I
+got to
+see I got to see I got I'm so honored to
+be here I'm so honored to be here too uh
+but I got to see that famous Uber
+investor and I mean this sincerely the
+number of entrepreneurs who came to me
+who said I started this company because
+I watch Travis I watched what he did I
+want to be Travis you inspired that
+generation along with Elon to say I want
+to operate in the real world I want to
+build something that has an impact and I
+am willing to fight and have that
+entrepreneurial Spirit which I'm going
+to be honest there's a large amount of
+entrepreneurs who don't have the fight
+in they don't have the dog in them you
+got the dog in you you got the fight in
+you you know and and that's so rare and
+that's why you're so successful it's
+because you're willing to fight the
+fight
+yeah
+um you know look we just saw the
+Olympics and I know I made that
+marathoner analogy before but like every
+one of those gold medalists they got the
+dog in them there's no way no other way
+um we're just playing a different sport
+and I think the you know some of the
+interesting parts about this sport is
+that it's it's not just an individual
+thing it's a it's a massive team and
+there's stakeholders in cities and
+citizens and and all that um it's just
+fun you know like a lot of folks go look
+you did the Uber thing why are you doing
+it again I mean you catched in a lot of
+chips you could be just chilling I'm
+like look Serena keeps getting on the
+court she's totally badass why is she
+doing it right you know or take your
+favorite
+star of anything yeah LeBron's in his 40
+what he's 40 now and he he's looks great
+out there so it's because they have a
+love of the game and it's not just
+Showtime that day yeah it's everything
+behind the scenes it's working with
+people especially in this sport like
+again individual stuff is a little
+different like you got to I like the
+magic of working with magical people
+doing it as a crew is where all the good
+stuff happens and they and you know they
+all keep coming back you know I've seen
+a lot of the the the folks who who came
+for a second Tour of Duty with you that
+speaks volumes as we end here um Dar has
+done I got to know him yeah um try to
+support the team over there for the
+Legacy um and he's he's he's done a
+decent job solid job profitable what's
+that let's go they went from my 75
+million a week to profitable I like it
+well I mean it is great the Legacy we
+always knew it was easily to make it
+profitable people were saying oh it
+could never be profitable and you and I
+would talk and be like we were raise the
+price of dollar profitable like it's not
+difficult just do you know look there's
+there's an art to that too it's all good
+yeah um but yeah like like I
+think Uber's gotten to a great place the
+profitability is there that's means it's
+going to be around now we they've got to
+figure out the autonomous thing that's I
+think that's the next big challenge to
+uh to go after well let me just put it
+out
+there he's he's going to do his tour
+and uh his stour is going to end would
+you consider doing what Steve Job did
+and coming back and merging Cloud
+kitchens with
+Uber would you consider it if if if the
+opportunity was there or can can you not
+go you're saying there's a
+chance can you go home I mean if he this
+would be the Return of the King this
+would be my dream if you came back I
+know it's not your dream but it's
+mine could you if Cloud kitchens became
+part of uber it would be it would be a
+trillion dollar company with you back in
+that seat would you take the seat again
+if if it was
+offered would you consider
+it well I definitely know who my head of
+comms would
+be on that note Travis
+Kalen my man I love you great job

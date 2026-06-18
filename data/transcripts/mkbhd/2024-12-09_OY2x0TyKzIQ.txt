@@ -1,0 +1,436 @@
+# This Video is AI Generated! SORA Review
+# https://www.youtube.com/watch?v=OY2x0TyKzIQ
+
+all right let's play a game real quick
+is this next video real or AI
+generated go ahead take your
+time so that was a real video that was a
+video from YouTube channel now what
+about this video real or AI
+generated okay that one's AI generated
+not a lot of giveaways unless you happen
+to have memorized a geographical
+landscape around Mount Fuji and hunted
+for inconsistencies but okay what about
+this
+one and yeah you guessed it already this
+one's AI generated too okay what about
+this one pay really close
+attention did you catch it so no okay
+that one was real but the fact that you
+thought about it so I for the last week
+have had full access to the newest and
+most advanced version of Sora which is
+the AI video generation tool from open
+Ai and the results that I've gotten from
+it are both
+horrifying and inspiring at the same
+time like the last time I looked at this
+nine months ago this was a very private
+tool that was just unveiled they were
+just starting to show its capabilities
+and so we were looking at other people's
+prompts actually basically it was open
+ai's carefully hand selected prompts for
+what they want to show us and we could
+learn some stuff from that but this time
+I just get the controls myself it's just
+an open textbox my wish is sora's
+command and that's actually kind of a
+lot of pressure you can just you can
+type whatever you want but I did not
+take this responsibility lightly I
+basically over the past couple days have
+been taking every possible angle of
+asking Sora to make things for me I've
+asked for photo realistic things I've
+asked for cartoon things I've asked for
+objects people signs actions text still
+life everything you can imagine and I
+feel like I've Come Away with a pretty
+good sense of what it's good at what
+it's bad at and what it could actually
+be used for today but this is a powerful
+tool that's about to be in the hands of
+millions of people so consider this the
+first ever Sora review The Good the Bad
+and the Ugly let's jump in so first of
+all this is the UI on the left side you
+can explore other prompts that people
+have recently made and then some
+featured ones where I suppose open AI is
+still going to curate some of the best
+results to Showcase what it can do and
+if you hit the bookmark button on any of
+these they'll show up in your saved Tab
+and what I like about these again is
+anything you click on you can see
+obviously who made it but you can also
+read exactly what they typed into the
+prompt box to get this result and I'll
+get back to that in a second so then
+underneath that you have your library of
+all the videos I've generated from Sora
+prompts anything I've tagged as a
+favorite for my own creations and then
+uploads which is any of the files that
+I've uploaded to Sora for it to make
+videos out of another crazy feature that
+I'll get to in a second but then lastly
+you have your folders so you can
+organize things that you've created into
+different folders maybe for different
+projects or different themes or whatever
+just to keep it somewhat organized so
+okay right off the bat Sor is a tool
+after all and so this feature of being
+able to see what other people are typing
+and then the results that they create
+from those prompts is both for
+inspiration but also for Education
+because it is really interesting reading
+how simple or how detailed some of these
+prompts are
+and then looking at what Sora generated
+and what it took creative liberties with
+to add on its own and then if you really
+like someone else's results but want to
+adjust it in just just a slight way for
+your own use there's the remix feature
+so you hit that button and then you can
+describe specific changes you want it to
+make to that video for it to then
+generate a new one so for this one for
+example you know I like this shot and
+the house is pretty cool but I kind of
+want there to be a golf course on those
+cliffs in the background right so I type
+that and then I can also change the
+resolution which as you can see it will
+take longer for higher resolutions and
+then you also can specify exactly how
+much of a remix it is so if it's a
+subtle mild or strong remix which
+dictates basically how much it's willing
+to change the results from the original
+and then you can even dial that in on a
+slider from 1 to eight if you want to I
+think adding Golf Course would be nice
+but I want to keep those Cliffs and the
+house so it's a mild change right CLI
+click remix wait a bit and then boom you
+have the new creation a fresh new
+artificially generated video with that
+same house and those same Cliffs but now
+1080P and with a golf course in the
+background wild I found that 360p videos
+take actually very little time to
+generate I do not want to use the word
+create here these are artificially
+generated from Source material but
+basically like a 5-second 360p video
+will generally take like less than 20
+seconds to generate and they're being
+generated on open AI servers so it has
+nothing to do with the speed of my
+computer or even my internet connection
+once I send off the prompt it just takes
+that time and then when it's done it
+shows up and I can download it if I want
+to and then something like a
+1080p 10c video it looks significantly
+better but it also takes much longer it
+can take a couple of minutes for a
+really detailed prompt in a 1080p video
+and that's also like right now when
+almost no one else is using it I kind of
+wonder how much longer it'll take when
+this is just open for anyone to use but
+that's roughly how long they've taken
+and there's also the storyboard feature
+which kind of looks and acts like an
+online video editor where you can string
+together several prompts and it works
+best for stringing together several
+different actions in a row basically
+I've noticed it's hard to get a video to
+do several different things in
+succession with a single prompt but you
+can use their built-in Editor to string
+several prompts together in a row and
+then storyboard can help you blend them
+all together into one longer video and
+that actually can work better instead so
+I've been playing with this all week and
+I've been throwing dozens and dozens and
+dozens of prompts at it with all sorts
+of characters different styles different
+unique things in the video and so here
+are some observations that may surprise
+you or maybe not so one it seems like
+there is no object permanence so you
+know we had AI generated images right
+and they've gotten you've seen the Arc
+of them getting better and better and
+higher resolution and realistic over
+time now that we're doing
+videos basically they're stringing
+together a bunch of different AI
+generated photos in a row with some sort
+of continuity but for a video to make
+sense to a human the objects kind of
+have to move in certain ways and behave
+in certain ways in the real world and so
+one of the most common dead giveaways
+from a flaw of an AI generated video
+especially with this tool is just errors
+and object permanence so you'll see
+things like objects passing in front of
+each other or behind each other in ways
+that don't make sense you'll see stuff
+disappear or reappear out of thin air
+especially if objects pass in front of
+them but even sometimes without any real
+reason at all they can also just
+materialize and then vanish like the
+smartphone in this imaginary Tech
+reviewer's hands Boop just gone and
+there's also another one that's really
+common anytime something with legs has
+to walk if you just watch the legs for
+long enough they almost guaranteed will
+mess up which leg is the front leg and
+which is the back just look at this one
+just try to watch one of the legs and
+you'll see it happens it switches back
+and forth from the front leg to the back
+leg I mean this this is super common it
+happens all the time in these and that
+brings me to another one of my biggest
+observations which is it just struggles
+with physics in general the way things
+move which actually makes perfect sense
+because physics
+would seem to require some understanding
+of what you're making a video about so
+in the same way that large language
+models can struggle with hallucinations
+or putting together sentences that are
+technically incorrect or don't quite
+make sense these video models will also
+struggle with putting together videos
+where the movement of the objects since
+it doesn't know that they're objects
+sometimes also doesn't really make sense
+pretty much anytime I try anything
+remotely photo realistic basically you
+instantly notice that the movements
+don't look right like it tends to look
+kind of slow Moy actually but then other
+parts won't be in slow motion which our
+I picks up on right away you know I was
+playing with making like CCTV style
+footage because in my head that's going
+to be the easiest thing to fake people
+are going to get their hands on this
+they're going to fake security camera
+footage all the time but even in this
+you can see the movement of the humans
+is just slightly off like first it's a
+little slow then it's fast for no reason
+it's just weird now it seems to be
+decent sometimes at fluid dynamics for
+whatever reason like i' I've been very
+impressed with some examples of water
+Rippling or crashing in waves or moving
+in realistic ways it does happen
+sometimes it can be actually pretty
+goodlooking and same thing also with
+fire sometimes it can look pretty
+realistic even if the smoke isn't but
+yeah physics in general is definitely a
+weakness so then if you know this you
+can mess more with clation or cartoon
+style and then those irregularities in
+movement or physics become a lot easier
+to pallet because it feels more like a
+stylistic choice or an artistic choice
+but I'll get to the stuff that it
+actually does really well in a second
+but there is another feature that you
+might have seen around the internet a
+little bit with some other tools like
+this that takes a source image and can
+turn it into a video with a prompt so
+people have been bringing memes to life
+and imagining what would happen right
+after some iconic image just by typing
+into the AI video generator and asking
+Sora what it would look like and Sora
+can do that too the difference with Sora
+I found is it's way less likely to try
+anything that it recognizes as having
+any copyrighted or intellectual property
+whatsoever it's it's pretty picky it
+actually does reject a lot of stuff
+anything with any public figures or
+recognizing characters in general or
+logos it actually yeah refuses to do it
+it will also refuse if it thinks any
+subject you upload in the image is under
+18 years old makes sense but I did
+upload this AI generated image which
+Dolly made and asked it to make them all
+singing and dancing and hit generate and
+it totally did it again it helps a lot
+that they're cartoon styled and not some
+super realistic scene but this is a
+totally AI generated video I also tried
+a few other images from my camera roll
+and these just it just gets weird weird
+it just doesn't know the context of what
+direction any object was moving in the
+photo it again it doesn't know physics
+and so things just get really wonky it's
+it's impressive that it's AI generated
+video but you can tell pretty quickly
+that it's AI generated video so all that
+being said you know we've seen what it's
+good at we've seen what it's not so good
+at and you might be wondering like what
+what is this tool actually for and I
+actually found a few things that are not
+so scary that I actually pretty good at
+so these are the things that I found as
+of right now that Sora can be used for
+abstracts so you can be as descriptive
+as you want and create all sorts of
+textures and colors and gradients to
+make an abstract shape move around in a
+way that essentially looks like it could
+be a screen saver or just some
+background piece or whatever you want
+I'm sure there's a world where someone's
+going to make an nft out of this stuff
+also totally weird but you can do
+abstract stuff for sure I noticed it's
+getting better at reproducing text
+especially when you ask it for specific
+text so there are sometimes background
+garbled text in these videos and that's
+going to continue to happen but I found
+that if I asked it for an individual
+title slide in a style it actually could
+give me the correct text on that slide
+this animation it gave me of sketching
+the Empire State Building this would
+make a killer title slide or even an
+intro to a documentary about you know
+the building or Manhattan or something
+like that I was very impressed and then
+stop motion or you know cartoon style
+characters again like I said before
+cartoons don't necessarily have to have
+realistic movements or physics so the
+errors in those things don't hit the eye
+as much and so the characters still look
+like dare I say art you know they're
+characters especially in scenes like
+this one the graffiti doesn't have to
+actually say real words for this to look
+normal like the bear doesn't have to
+have the correct number of fingers or
+toes it just looks like some album art
+come to life basically which I'm sure
+someone would find useful on social
+media somewhere and while we're at it
+here's a couple other random prompts
+that impress me um I asked for Santa
+fighting Frosty the Snowman in the style
+of Mortal Kombat and it built a readable
+scoreboard I didn't ask for the
+scoreboard but it built all that with
+the names and everything which is pretty
+crazy immediately again the details are
+weird when you start looking at it but
+this could be a good inspirational
+starting point and then I also asked for
+a video of a tech reviewer sitting at a
+desk and I said nothing about this fake
+plant but Sora took the liberty of
+adding this exact fake plant here which
+I said nothing about in my prompt and
+that is a convenient reminder of the
+other side of the tools like this the
+unknown behind a lot of the tools I mean
+clearly we already know that these are
+AI generated videos that have to come
+from some Source material are my videos
+in that Source material is this exact
+plant part of the source material is it
+just a coincidence I don't know open AI
+has talked about using publicly
+available media and data and it's always
+to me been a kind of a sketchy
+definition we we don't know if it's
+everything we don't know if it's too
+late to opt out if we wanted to opt out
+and also I I have no idea how much
+energy this uses or if it is
+significantly more than the llms or
+Dolly were using but still the craziest
+part of all this is the fact that this
+tool Sora is going to be available to
+the public I guess around the time of
+this video publish uh to everyone to
+millions of people all at once and I
+mean yes it does a pretty good job with
+its guard rails of refusing to do
+anything photorealistic refusing to use
+actual people's likenesses or any
+dangerous or harmful acts and yes it
+does Watermark every single generated
+video with this little animation here in
+the corner but you can still crop
+watermarks and it's still an extremely
+powerful tool that directly moves us
+further into the era of not being able
+to believe anything you see online I
+mean read through the comments on my
+last video about AI generator video this
+is this is a lot for Humanity to digest
+right now all of that and these videos
+don't even have audio they're just a few
+seconds long they're just 1080p like
+this this is the new Baseline this is
+once again the worst that they will be
+as they continue to get better in the
+future a lot to think about thanks for
+watching catch you in the next one
+peace real quick thanks to Ridge for
+sponsoring this portion of the video and
+for supporting the channel you know just
+as a PSA we're kind of coming up on that
+time of year where we're perfectly in
+the middle of we should rush to get good
+holiday gifts we're kind of running out
+of time lucky for you Ridge is running a
+holiday sale right now where they're
+doing up to 40% off and you guys know
+one of the reasons I partner with them
+is because they have actually high
+quality gear so that's one of the things
+I'm going to be doing for this year is
+getting gifts from Ridge for people and
+I think I actually haven't gotten Andrew
+his gift yet so hopefully he doesn't
+watch this part of the video but I think
+I'm going to get him uh since he's a
+hiker one of the ridge knives but don't
+tell them but whatever you end up
+getting if you slide over to ridge.com
+MKBHD that's where you'll be able to
+find find everything that's on sale and
+everything Ridge does so shout out to
+them again and catch you guys in the
+next video peace

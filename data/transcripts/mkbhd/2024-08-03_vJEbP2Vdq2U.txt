@@ -1,0 +1,292 @@
+# What's going on with Windows Laptops?
+# https://www.youtube.com/watch?v=vJEbP2Vdq2U
+
+[Music]
+okay I've been waiting for this for a
+while as someone who's been on the
+sidelines of the windows game for a
+little while now and seeing all this
+hype and this new matte black laptop
+that's supposed to be generational it's
+got me
+thinking is it legit like have Windows
+laptops actually caught up to the Apple
+silicon leap from a couple years ago
+because this is a new Microsoft Surface
+laptop and it doesn't have an Intel chip
+inside it doesn't have an AMD chip
+inside this laptop has a qual Snapdragon
+X Elite chip inside meaning it is an arm
+laptop now years ago Apple went through
+this transition from Intel chips to arm
+chips and it was crazy successful like
+no one could really match their
+efficiency and seamless integration the
+vertical integration the overall package
+of their laptops just took a Quantum
+Leap Forward now Windows laptops around
+the same time actually if you remember
+kind of tried the same thing I don't
+know if you remember the Surface Pro X
+that didn't go so well and so we've
+continued to have in an AMD laptop since
+then but it seems like this one has gone
+way better so I've been using this
+laptop for the past couple weeks you
+might have see me with it on the
+waveform podcast and I've got a pretty
+good idea now of what's gone well and
+what is still a trade-off so the big
+Advantage the mega Quantum Leap Forward
+was inefficiency which in a laptop with
+the same size battery means a
+dramatically improved battery life and
+this laptop absolutely got a big bump up
+so I remember reading reviews of the
+last surface laptop with an Intel chip
+which already had a pretty solid battery
+life and the Microsoft quote was 19
+hours this one's quote is 23 hours but
+what that's translated to for me
+basically is all day battery life for
+mixed use with no worries like that's
+high brightness web browsing email
+watching videos research type activities
+and then ending the day at like 40%
+easily so I I just really don't think
+about charging much which is awesome for
+a 14-in laptop on paper it's getting
+compared a lot to the m 3 13-in MacBook
+Air and it even outlasts it on some
+synthetic benchmarks which is awesome so
+that's one success definitely check the
+box great battery life love that and
+then the other second success that we
+were looking forward to was just a well
+optimized performance and it's not like
+the super high-end gaming performance
+I'm not talking about that type of
+performance but I just mean like a
+general smoothness and consistency and
+Rock Solid performance across all your
+everyday regular tasks that sort of
+performance now I'm going to get into
+app support in a minute but I I
+basically found this to be a very
+capable laptop now again I've been on
+the sidelines from Windows for a bit so
+I don't have as many reference points
+but this is a $2,000 14-in laptop that
+can basically do anything I ask of it
+without breaking a sweat photo editing
+in Infinity not a problem literally
+anything in the Microsoft Office Suite
+no problem whether you're plugged in or
+not you know I found the trackpad
+gestures are pretty smooth the graphics
+of the whole UI in general are
+consistent from full battery to nearly
+dead so using the software that runs
+natively on it is Snappy and a great
+experience but that very quickly gets
+you into the conversation about the
+downside of switching to arm this is
+what I was curious about repeating from
+last time and this actually happened in
+the Mac world too when they made this
+transition the number one difficulty to
+changing the entire architecture of your
+computer is actually app compatibility
+so I remember when the Mac went through
+this there were basically three types of
+apps there's obviously optimized apps at
+the top of the list like that's the
+ideal obviously all the first party apps
+are optimized off the bat and apple did
+a lot of work trying to get as many
+developers on board as possible to get
+their apps optimized on arm but then
+there were apps that were built for x86
+but would still work on arm through
+emulation so they not perform
+necessarily as well as they could but at
+least they worked anyway and then there
+were apps that just didn't work at all
+so right now for Windows on arm you have
+these three types of apps again and my
+assessment is that at this very moment
+there's pretty good support for Native
+apps as far as things people use every
+day but it's definitely still not
+perfect so okay Photoshop and Lightroom
+CC run native Chrome Spotify Prime video
+Dropbox Zoom like there's a lot of
+popular apps across the board that just
+run natively and they're super smooth
+and they're great they don't hit battery
+hard at all love that so then there are
+some apps that I use that don't support
+Windows on arm but do get emulated so
+they still work technically so Lightroom
+classic is a big one my to-do list app
+of choice is Tick Tick you might have
+heard of it I've referenced it a few
+times and it's a great example if you go
+to their website they only have x86
+versions of the app and I downloaded and
+ran the 64-bit version and it works but
+it doesn't actually run very well I
+actually notice some real chop and some
+lag with certain parts of the UI and
+it's not even that heavy of an app it's
+just a to-do list app and there's a long
+list of apps in this sort of limbo phase
+where you don't necessarily know if
+there's going to be an arm native app
+around the corner or not CU adoption is
+not super high it's not really a huge
+incentive for them to make one yet but
+you can still use it it's just not going
+to be the ideal experience it might
+churn through battery a little bit
+quickly but it still works but then
+there are just apps that straight up
+don't work at all yet um Arc browser uh
+Google Drive on desktop I Rely heavily
+on that that does not have any
+compatibility at all with Windows on arm
+uh VMware doesn't work a lot of vpns
+don't work and a lot of games straight
+up don't run like some of them are
+uncompatible but also a lot of them
+which might have ordinarily run have
+anti-che software that doesn't run on
+Windows on arm so the game just doesn't
+work at all and there's even some apps
+that actually now that I think about it
+are compatible but their websites for
+the companies that make them don't
+actually highlight or prominently show
+the download for the arm version so that
+it's kind of confusing and it's hard to
+find so it's just kind of all over the
+place right now so my take here is look
+if you are at all considering a Windows
+arm laptop specifically look up the apps
+that you have to use and make sure
+they're at least compatible at least
+emulat cuz there might be some promises
+of arm versions coming soon or just
+statements from a developer I've seen
+lot of those but just check the programs
+that you know you're going to need to
+work because depending on who you are
+you could be totally covered and fine or
+totally out of luck so there are a
+couple Windows arm laptops out there
+this is the one I obviously chose to
+mess with the the premium matte black
+one with the Snapdragon X Elite um so
+here's a couple more of my observations
+scattered from my couple of weeks of
+using it I got to say the build quality
+is pretty awesome as they have been with
+surface for a little while now I love
+the all metal design The keyboard's Rock
+Solid big trackpad with excellent
+haptics just really good fundamentals
+all around the port selection is all
+right it's still got that full-size usba
+and then there's two USBC with the
+headphone jack my only real downside I
+would say with it getting as pricey as
+it can get is that there is no OLED
+option so instead it's a 2304 X 1536 120
+HZ LCD touchcreen with that 3x2 aspect
+ratio and I love that it's tall it's
+just it can't quite match the Deep
+blacks and contrast of an OLED obviously
+even though it's a pretty good LCD so I
+just feel like I basically traded the
+OLED for a high refresh rate here but I
+would have liked to have seen an OLED
+option and then just know that it's not
+like it's not like a super high-end
+gaming PC it's very strong in
+performance across the board it'll do
+all the other things but similar to
+Apple's M Series Laptops like it's a
+built-in GPU it's not going to be as
+powerful as a dedicated GPU so don't
+expect I mean you can still play some
+games sure but you're not getting this
+laptop to max out frame rates and Elden
+ring or something if you study the
+benchmarks enough you'll find that these
+chips have a lot of cores but weaker
+individual performance on like a single
+core basis so it's good at throwing a
+lot of cores at tasks and getting things
+done and that's nice just note that and
+it's it's generally pretty good at
+staying cool and not spinning up the
+fans which I also think is great and
+then of course this is also one of the
+very first co-pilot PCS so it's got the
+dedicated co-pilot button on the
+keyboard and so yeah this chip has an
+npu which does specific AI related
+processing things like the studio camera
+effects that are built into the camera
+or the forced artificial eye contact in
+the camera and it'll do it without
+pulling anything from the CPU or GPU and
+of course you can always hit that
+co-pilot button to talk to Microsoft
+co-pilot ask it anything the same way
+you'd talk to Bing or chat or Gemini but
+overall this laptop is a good start I
+think I mean I've been waiting
+personally for a premium built matte
+black Windows laptop for a while on arm
+and this is that it's actually what
+we've been waiting for um I think the
+question really is does the software you
+use work on arm like that's the main
+question you should be considering when
+thinking about if you're going to buy
+one of these things now before you go
+here's a question have you ever looked
+at a laptop or smartphone and wondered
+what's going on inside it because
+Channel sponsor dbrand has your answers
+now you've seen for years now one of my
+favorite party tricks has been this
+sheet of magnet paper you just lay it
+down on any device to see where a few of
+the internals are like the mag safe
+magnet array or the speaker D Brand's
+x-ray line takes that magnet paper
+experience to a whole another level
+letting you see basically every single
+component inside your device and yes
+this is an actual legit x-ray of that
+device yes dbrand took hundreds of
+devices to a Metrology lab and literally
+shot each one of them with a special
+x-ray machine for maximum accuracy and
+they also made a light mode version of
+every x-ray so personally I am into the
+dark mode version but hey if you don't
+want to have to choose if you buy any
+x-ray skin you'll get the other colorway
+for free with your order so if that
+sounds like a good deal to you I'll
+leave a link for you to check them out
+below it's dbrand.com
+xray but yeah that's been it let me know
+what you think of the surface laptop of
+the whole windows on arm thing I'll
+check out the comments but either way
+let me know catch you guys on the next
+one peace

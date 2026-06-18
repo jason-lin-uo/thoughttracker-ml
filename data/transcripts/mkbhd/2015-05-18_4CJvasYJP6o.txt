@@ -1,0 +1,115 @@
+# YouTube Processing: Explained!
+# https://www.youtube.com/watch?v=4CJvasYJP6o
+
+[Music]
+hey what is up guys I'm kbd here 300
+hours of video are uploaded to YouTube
+every minute that's a lot in fact in the
+time it took you to get to this point in
+the video about a fresh hour of video
+was uploaded somewhere on YouTube so
+there's plenty of content that's been
+watched no times and plenty of content
+that's been watched millions of times
+but here's the thing all this has to go
+somewhere and it's not just spit
+directly back to you you're not watching
+the originally upload loaded file and
+that's where YouTube processing comes in
+so this is YouTube processing explained
+so if you follow me on Twitter you
+already know that every time I upload a
+new video I tweet uploading that's just
+when I'm seeing this I'm uploading the
+file from my computer to YouTube servers
+and then when the upload is done I tweet
+processing processing is a necessary
+process and for videos like this the
+final file size can be a couple of
+gigabytes and if YouTube tried to play
+back that original uncompressed video
+file for everyone that tried to watch it
+unless you have Google fiber or some
+crazy fast internet connection it would
+look
+a like
+this and if you're watching on a
+smartphone it would likely either
+overheat or destroy your data cap
+whichever came first you just can't
+handle that much data so YouTube has to
+compress the original upload into a
+bunch of different file formats and
+resolutions that anyone can watch so
+every single video that gets uploaded to
+YouTube gets processed and that
+processing spits out multiple versions
+of each each video so this video for
+example has a 240p version a 360p
+version a 480p version a 720p version a
+1080p version a 1440p version and a
+2160p version YouTube does this so it
+can dynamically switch you in between
+which version of the video you're
+watching so it might start you off at
+the 720p version and if your internet
+connection is really good and things
+seem to be moving pretty smoothly it
+might bump you up to the 1080p version
+so if you might notice a couple seconds
+in the video it gets a little bit
+clearer that's what's happening
+sometimes the opposite happens sometimes
+you move to a poorer connection strength
+and you might switch from 720p on your
+phone down to 360p basically YouTube is
+constantly determining every few seconds
+which processed version of the video to
+show you based on your connection
+strength and your playback status and
+all of this is to avoid ever showing you
+that spinny buffering bar now if you're
+feeling daring and your computer and
+your connection strength they're up to
+it you can click to watch this video in
+full 2160p or full 4K if your device
+supports it and that's pretty high
+quality but even that full 4K video here
+on YouTube is not the same as the
+original file that was uploaded this
+processed version is compressed to about
+a tenth of the original file size of
+course it hasn't always been this way
+you know up until March 2008 the highest
+quality video you could watch on YouTube
+was 240p and then a couple months later
+we got an HQ button to move you to bump
+up to 360p so it's not always been super
+high quality when I first started
+uploading to YouTube the highest quality
+it supported was 720P so every MKBHD
+video was 720phd back in the day but of
+course now we have all sorts of not only
+resolutions but codex to help compress
+video and help be able to watch super
+high quality video smoothly all over
+YouTube also just to throw out my
+personal Theory this adaptive bit rate
+streaming is why YouTubers can't see the
+analytics on who is watching the video
+in what resolution who watches in 4k I
+mean we might be able to get analytics
+on who clicks to watch in certain
+resolutions but even that doesn't
+guarantee you stay at 4K for the entire
+video either way YouTube processing is
+very complex but also very important and
+constantly happening yes it does break
+sometimes but it's also updated
+sometimes with newer codecs and newer
+methods but bottom line next time you
+see your favorite YouTuber tweet that
+their new video is processing you know
+exactly what that means thanks for
+watching
+peace

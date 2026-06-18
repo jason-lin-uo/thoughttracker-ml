@@ -1,0 +1,1166 @@
+# Flying Cars Have Arrived! eVTOL Panel: Archer, Joby, Wisk | All-In Summit 2024
+# https://www.youtube.com/watch?v=iq8NO6XwpoM
+
+for our next panel we are going to have
+uh a quick introduction to each of the
+three electric vertical takeoff and
+Landing vehicle companies the evall
+companies we'll see a video for uh
+introducing Joby and then uh Adam from
+Archer is going to introduce Archer and
+then Brian from wi and then we're going
+to have a conversation uh be back in a
+minute
+[Music]
+w
+I founded archer in 2018 to change the
+way the world
+moves Urban congestion isn't sustainable
+this leaves the average American stuck
+in traffic for dozens of hours per
+year to combat that challenge we built
+[Music]
+midnight all electric aircraft
+purpose-built to fly back-to-back trips
+over congested
+[Music]
+cities midnight takes off vertically
+like a helicopter then his propellers
+transition down to fly like an airplane
+it's designed to be piloted and carry
+four passengers and can travel at speeds
+up to 150
+mph since 2018 we've made an incredible
+amount of progress to bringing the
+midnight aircraft to
+Market our nearly 10,000 person team has
+designed built and tested the key
+enabling Technologies to bring electric
+Aviation to Market this has enabled us
+to raise nearly $1.5 billion to
+get however our goal is the same since
+day one to get to commercial
+[Music]
+launch our high volume manufacturing
+facility in Georgia will open up later
+this year and we have incredible
+partners that are helping us bring this
+Vision to
+[Music]
+life stellantis the owner of Jeep Ram
+and Maserati has invested nearly $300
+million to
+date United Airlines has ordered up to
+$1.5 billion of midnight aircraft and
+with Southwest our goal is to offer
+passengers 3-hour multimodal Journeys
+across
+[Music]
+Cali we have an industry-leading
+contract with Air Force and we recently
+delivered our first aircraft as part of
+that
+contract in La we recently announced
+plans for flight networks connecting
+Sofi Stadium USC LAX and Beyond we can't
+wait to bring midnight to a city near
+Europe
+[Applause]
+[Music]
+[Applause]
+[Music]
+[Applause]
+Peter teal reminded us yesterday that
+flying cars are the peak of the hardware
+Revolution that never quite happened but
+as you just saw we're closer than ever
+to making it a reality the aircraft that
+the three of our companies design take
+off vertically like helicopters they do
+a complex maneuver to transition onto
+the wing into wingborne flight and Fly
+Like an aircraft when the founder of our
+company Larry Page first joined this
+Mission the technologies that enable
+these aircraft to fly were just starting
+to become possible the team that I lead
+has built the enabling Technologies in
+electrification and autonomy that's
+making this possible you see the prior
+five generations of aircraft that we've
+designed here on the screen behind me
+and that iterative design build approach
+has enabled us to get to the point where
+we are building now Generation 6 which
+is the first candidate for an fa
+certification of a passenger autonomous
+aircraft this aircraft is designed to
+take advantage of all of the prior
+technologies that we developed through
+those prior iterations and to operate
+without a pilot on board on those
+missions there's two technology trends
+that we are all uh in that we are all
+using to create these aircraft Motors
+and the the same simplification that's
+coming to your cars and batteries and
+the same advances that are coming to
+your cars and also to your cell phones
+and second autonomy and autonomy has a
+lot of parts to it so we have to for the
+first time in a commercially certifiable
+way show how we can operate and
+supervise an aircraft from the ground
+display information in in a way that is
+safe from a human factor standpoint to
+supervise that aircraft to use sensors
+on the airplane in the same way you
+would for an autonomous ground vehicle
+to create the software and the
+computation to be able to then fly that
+aircraft autonomously but when you make
+robots people don't go away they change
+what they're doing and so we use those
+aircraft to actually do deployment
+testing in networks here in Los Angeles
+yeah last year we flew the first
+electric Vall aircraft in the Los
+Angeles area and we showed what's
+possible with these aircraft and how
+people can engage with them we are also
+working on the human interface with air
+traffic control because again even
+though we have an autonomous aircraft
+our aircraft still has to interface with
+today's air traffic control system like
+what you saw yesterday from weo we use
+existing flying cars AKA helicopters
+that are piloted to take that sensor
+package and those computation uh
+abilities and put them onto of a a
+piloted helicopter to perfect the
+algorithms that we use for doing things
+like Det protecting and avoiding other
+traffic in environments uh where there's
+different lighting and where the
+aircraft that you might collide with
+potentially that you want to avoid is
+above or below the Horizon we also have
+to be able to fly these aircraft without
+the presence of GPS as we see in
+conflicts around the world today we
+cannot rely on GPS to be able to fly an
+autonomous aircraft so now once you have
+that technology stack you need to turn
+it into an actual airplane and all the
+things that Peter talked about about
+potentially being a bad industry to to
+go into uh in the 9s are now becoming
+ever more important the ability to uh do
+aerodynamics to do mechanical
+engineering to create these aircraft are
+now more important than ever and uh by
+the end of this year we'll be flying
+this aircraft which will be the first
+attempt at certifying a passenger
+carrying autonomous aircraft so let's
+bring the guys out and we'll talk about
+it all right
+well I think that there's a lot of
+people that probably need an
+introduction to Vall in a more basic way
+before we talk about the technology
+whether it's the actual vehicle itself
+or whether it's the um the world's best
+pilot if you will MH
+um for the folks out here if they are
+going to interact with these systems
+whether autonomous or not what do you
+think are going to be the biggest issues
+that they are going to care about and
+will want resolved before they see it in
+their Community maybe Joe B if you want
+to start yeah I think the number one
+issue and you know for everybody when
+you're getting in an aircraft is is this
+going to be safe but then for both the
+the passengers what they care about is
+is something that's going to
+dramatically change the way they they
+move around their cities and save them
+time and in order to do that you need to
+have takeoff and landing locations that
+are located both close to where you are
+and close to where you want to go and so
+priority uh 2 through n in people's
+priority stack is about noise and making
+an acoustic signature that's going to uh
+get communities to see this as uh a a
+real advantage and uh something that's
+uh increases the value of uh of living
+in that Community because you're you're
+close to this new mode of
+transportation um do you guys think that
+when you see a thousand of these things
+flying around let's let's just take a
+place uh in Meno Park
+California
+um are they going to be forced to have
+very specific sort of like air highways
+that they have to adhere to or what is
+the best thinking right now in terms of
+how the regulatory bodies are going to
+sort of enable you guys to actually fly
+commercially as quickly as possible he
+brand turn you if we if we just take a
+step back the product exists they're
+called helicopters and a helicopter is
+actually way more complex than what
+we're building we're actually building a
+much more simplified version of what
+exists it's safer it's fully redundant
+and so it should Inspire confidence for
+people to to want to come and take these
+vehicles the way they'll start though is
+going to be really slow if you think
+about every major city in the world they
+have hospitals those hospitals have
+helicopters this product exists
+everywhere so if you took all three of
+us you took our most bullish estimates
+that we have and you tripled them we
+still would not even replace helicopters
+so to get to the point where you're
+asking thousands of vehicles in the air
+over one city or even hundreds is pretty
+far away we could all deploy tens of
+thousands of vehicles we could the three
+of us be a trillion dollar companies and
+there still would not be thousand
+hopefully there still would not be you
+know thousands of vehicles in the air
+but to make the product really really
+great you do want liquidity you do want
+a lot of vehicles in on dense routes so
+you don't have to worry about is it
+available is it not available like an
+Uber right you just it's thumbs up it's
+available or thumbs down it's not
+available it doesn't matter what seat
+you get it saves your time that's where
+we're all trying to get but I think just
+to frame it sorry Adam is it is it a
+thing where it is like uber where
+there's going to be a version where you
+get in with people you don't know or you
+think this is just like one person
+Provisions it for themselves and then
+they go from point A to point B no
+absolutely the vision is uh you know a
+service that's available for everyone
+the good news is you can scale these
+vehicles because they're just much more
+simple than helicopters we don't have
+all the limiting factors that
+helicopters have so you can put a lot
+more from the air you can push the
+prices way down and make it very
+affordable Bri it's also a dramatically
+faster trip so you're you're in it for a
+few minutes to get across La instead of
+in in Uber where you might be sitting in
+traffic for an hour or two right um
+yesterday we heard from Teedra from the
+CEO of weo their first launch city was
+Phoenix the layout was good but mostly
+it was really regulatorily um amenable
+amenable um Brian what is the version of
+Phoenix for Evol is there a city
+somewhere that has said we want this now
+come and help us figure this out yeah
+Houston Houston is is where we're
+working most specifically um and it's
+not just because Woody lives there
+either um but but seriously Houston is
+um you know the the Airport network in
+Houston is actually quite good
+connecting couple of the airports around
+uh the Houston area it turns out that
+operating at airports initially is
+actually quite a good place to start
+because like I said you know these
+aircraft they come with a footprint you
+know they really come with like people
+and operations and if you've ever seen
+an airport tarmac area um it's you can't
+just drop that in the middle of a city
+on day one so starting at airports as an
+initial operating area is quite good um
+it turns out you know what you saw in
+that video was from an airspace
+integration standpoint and where we were
+going on routes and so on um New Zealand
+is has been incredibly Forward Thinking
+in terms of how to evolve their airspace
+Network so they have more um digital
+Communications more of an ability to
+integrate un crude aircraft with crude
+aircraft in the same airspace and so
+we've been doing quite a lot of work in
+New Zealand on that front but hold on I
+I mean I think it's to me super clear
+this does not start in the US I really
+think it starts internationally I think
+the regulatory environment here both
+both of us work in the UAE pretty
+extensively I mean if I'm going to guess
+just on the press that you put out Joe B
+met the head of the um civil aviation
+Authority in the UAE yesterday I'm
+leaving tonight on a plane to go meet
+him as well and so you know we are
+targeting Abu Dhabi they've been
+targeting Dubai and the reason is there
+is a you know a very heavy support for
+new innovation and the challenge like
+the reason why I feel like all three of
+us are up on stage here is probably
+because of the the whole Woody video
+that we just watched we all learned
+about NASA as young kids and were
+inspired by new things but the challenge
+is the existing environment today makes
+that very hard and these are companies
+that were started in America with
+American Engineers that have raised
+capital from the American Venture
+community that are listed on the
+American stock exchanges yet we still
+can't launch in America and that is
+really challenging and I think part of
+it is back to what Bill Gurley talked
+about last year a regulatory capture the
+walls are huge to climb and in fact the
+more things go bad with the incumbents
+the harder it is for us I don't think
+that's done on purpose but that's very
+challenging for us now I I I would I
+would say that the amount of bipartisan
+support on on both sides of the aisle in
+Washington is off the charts the amount
+of local support uh support with States
+uh it the you know yesterday I was in
+Montreal at the uh International civil
+aviation uh Association conference uh
+where they ConEd this is the first time
+and they were convening 1800 people uh
+to focus on uh Advanced Air mobility and
+so this is really exciting to see how
+much momentum there is and it's
+imperative that the US continue to lead
+Aviation is one of our most important
+exports uh it's been vital to our
+economy and it is really really
+important that uh we we lean forward and
+we make the the certification process
+and just to double click on this for a
+second I can see how Joe Ben and Adam
+you guys Pure Play startups you know you
+have to find the
+Willing
+parent um but you have the benefit of
+Boeing mhm um and is that why your
+answer was Houston is because they have
+that I guess regulatory gravitas to be
+able to go and help there or no you're
+still mostly on your own trying to
+figure no no yeah so we so the yeah the
+Journey of our company was obviously you
+know started by Larry started by Larry
+became Kittyhawk turned into a joint
+Venture and and uh and and eventually um
+we sold the company to Boeing uh last
+year and uh so we still operate as an
+independent company a lot like the whmo
+um Google relationship right now uh for
+us the difference is we're really trying
+to Pioneer the pathway to the
+introduction of autonomous aircraft at
+the same time and that's a longer
+Journey so Joe Ben and Adam are are
+going to be operating before us there's
+no doubt because piloted aircraft are
+coming before these uncrewed aircraft
+um I think autonomy is key to the future
+of aviation in the small airplane space
+if you look at the the um the the the
+causes of of incidents and the accident
+rates in helicopters right now they're
+just unacceptable and um and I think
+that that can be solved by automation
+I'm really passionate about that so for
+us we're on a longer journey and the
+question is then uh on that Journey um
+how do we make sure that the US leads in
+that and we're trying to Pioneer the
+regulatory Pathway to ensure that it
+happens here in the United States but
+we're also working around the globe like
+I mentioned in New Zealand where there
+are Regulators who potentially want to
+lean forward and innovate on airospace
+or some other aspects of the problem
+that we're trying to solve I mean Adam
+Adam mentioned the concept of regulatory
+capture but one of our besties Sky
+Dayton who's on joby's board wrote this
+great essay and one of the things that's
+clear is that a lot of the pushback to
+the vision that you have Brian actually
+comes from the pilots unions themselves
+right I I think it's a bit of a weird
+set of incentives no do you want to just
+talk about that for a second I think
+it's less salacious than that and more
+uh clinical I mean the the and I'll give
+an example well so I have my vision for
+the future is that we're going to have a
+prolific amount of uncrewed small
+aircraft that are operating doing that
+kind of missions that we're just talking
+about but that large C pilot large
+aircraft are going to be piloted for
+probably as far as the eye can see I
+think the Practical aspect of it
+honestly is that in 2023 here's a
+statistic for you that just blows my
+mind as a developer of airplanes in 2023
+there were 30 million Global flights
+carried billions of Passenger implements
+number of people that got on board the
+airplane um scheduled service you know
+Airlines zero accidents zero what zero
+in 2023 zero so so it's it's less
+salacious than than uh there's a cabal
+that's trying not to certificate things
+there is a natural conservatism in the
+system of holy
+we've done it it's working don't change
+it so when new technology shows up it I
+I understand the perspective of a
+regulator that's sitting on the other
+side of that wall and it's saying man
+this is kind of working um okay then
+just to put you on the spot I mean I can
+see you know when Joe Ben and Adam say
+hey point A to point B instead of hours
+in traffic you're there in 10 minutes if
+there are really no pilot errors unlike
+in cars where there's still far too many
+unnecessary deaths
+how do you measure the
+incremental justification for the
+investment let alone the reason to the
+statistic that I just gave you is for
+large aircraft scheduled air carriers if
+you then look at the small airplane
+Market or you look at helicopter markets
+it is it is orders of magnitude it's
+well it's Infinity more you know so but
+it's it's it's way worse and so the
+question is how do you bring the level
+of safety of those large aircraft how do
+you bring that same level of safety down
+into the get rid of recreational pilot
+you have to start you just have to start
+I mean there is definitely this panel
+exists in China guess what there's two
+groups that are already certified there
+they started that's how you do it you
+have to get moving you have to set an
+environment where we can all start
+flying stuff when we can do it A to B
+and when you're using a large aircraft
+you're dividing the two pilots expense
+amongst 300 seats or 100 seats and in
+this case you would have a pilot on a
+Joby flight with which really the
+Pilot's not doing anything there's
+they're not flying it so it's they're
+there to make the passengers feel safer
+is my understanding
+yeah the pilot you know there there are
+even with with what Brian's doing uh
+with the incredible pioneering work on
+um on autonomy you you still have
+somebody on the ground who's uh making
+sure that the weather is going to be
+safe and uh lots of other operational
+Logistics the benefit is you get to take
+that person out of the aircraft and put
+them on the ground so you get to put
+another passenger in the aircraft um you
+get a lot of operational flexibility uh
+because you're the the you don't
+necessarily have to have the pilot and
+the plane at the same location at the
+same time uh a pilot can over time begin
+to operate multiple do the pilot do in
+ajobi because my understanding is it's
+automated so they're sitting there just
+monitoring it they're making sure that
+all of the operations are going to go
+safely the pilot AR flying there's a
+there's sticks right I
+mean there is the option for the the the
+pilot to fly fly with the sticks as well
+so in an emergency situation they would
+take over but it's autopilot essentially
+there are a lot of a lot of computer
+systems that are helping the pilot fly
+and when one rotor goes down I mean one
+of the great things about this is when
+you have a
+helicopter you know a rotor breaks you
+die essentially we have layer on layer
+of redundancy we have six six propellers
+and each one's driven by separate motors
+with each separate inverter with each a
+separate battery pack and so it's just
+you know the same thing with the flight
+computers in the uh everything's
+massively redundant what would it take
+and that's what we did in big commercial
+airlines which is why uh you get the
+incredible safety that that Brian was
+talking about yeah I mean we haven't had
+a passenger death in the United States I
+think the last one was 2009 and the last
+three passenger jets that went down the
+United States were all regional Jets
+which we all know that there's a
+collection of problems there um so what
+would it take theoretically when you're
+doing your you know edge cases what are
+the edge cases that are the most
+challenging in terms of
+safety well so uh you know with our
+initial certification we are not
+certifying for flight in known icing for
+example so if you if you live in the
+North Northeast uh you know there will
+be uh a few percent of the time where we
+won't be able to offer service you'll
+just ground them during ice conditions
+you're not going to JFK when it's
+snowing well when it's snowing you may
+be able to go but if it's there's
+certain conditions where where you get
+heav icing in terms of concerns and
+things that could make these go down
+exactly so is there anything else though
+that could you know what's like the
+what's like the the wind speed or
+gusting kind of condition Max and so on
+uh so we're actually very tolerant to
+that it was actually it was interesting
+proba better than a wing than a winged
+aircraft I would imagine right right
+yeah and and so there's these these
+folks at Nasa who are working on
+Wildfire prevention yeah and they came
+they've they came and did a not the
+welfare prevention folks but NASA came
+and did did an acoustic survey where
+they put out uh a whole array of
+microphones and we flew the aircraft in
+Hover and transition uh overlight Etc
+and measured the acoustic signature and
+um showed that it was really low and
+could fit in the environment in terms of
+uh but yesterday I was having a
+conversation with them on Wildfire
+prevention they're like these kinds of
+aircraft are going to be game changers
+for for Wildfire because with
+helicopters they can't handle really
+turbulent conditions when you've got
+lots of convection from the wildfire and
+and you have six Motors we have six
+rotors and so there's this thing called
+Vortex ring state that uh affects
+vertical takeoff and Landing aircraft
+and you aren't going to have all six
+rotors go into Vortex ring State at the
+same time and you can also one of the
+cool things they found out with the
+Osprey is if you just tilt the rotors
+forward that you can get very very
+quickly get out of Vortex ring state so
+basically these new new classes of
+aircraft and what you can do with
+electric propulsion and I I don't think
+we've talked about that enough is is
+what a GameChanger electric propulsion
+is can you talk about the the acoustic
+issue so give us some context for the
+decibel tolerance where what and what
+was you know in a city and give us a
+comparison to stuff that exists today a
+big truck diesel truck helicopter like
+and what do we need to be at for this to
+be ubiquitously accepted in cities and
+then what's the technology needed to get
+the acoustic breakthroughs needed yeah
+so the background noise level in in
+cities is around 65 DB and so we set
+that as our threshold for this is the
+level that we want uh want things you
+know want aircraft to be below during
+takeoff and Landing you want you don't
+want to be Beyond background right we
+want to be below 45 DB in overflight um
+and and we've achieved both of those
+goals uh you know you asked about other
+things you know I think a garbage truck
+is uh 80 or 90 DB every they're the
+worst exactly the worst like every 10 DB
+is an order of magnitude more noise
+energy so it's uh you know a jet engine
+is like 110 DB helicopters are between
+80 and 100 DB uh the other thing about
+helicopters that people find really
+annoying is it's this low frequency
+and that low frequency sound travels
+long distance through the atmosphere and
+so what's the tech needed like it shakes
+buildings and really what was yeah
+what's the tech needed to bring the
+acoustic like how hard is well I mean we
+you know when I when I started joy in
+2009 uh so it's 15 uh 15 years ago uh
+this week so it's like I've been working
+on this a long time I've been dreaming
+about it since I was a kid
+um and it's it's incredible to see the
+industry that we've built and uh and
+again yesterday to see like thousands of
+people gather just to focus on all of
+the issues of bringing this to their
+cities around the world so that that's
+really exciting um
+and the the you know the roll out and
+and the impact that this is going to
+have on cities is just really really
+exciting so let me ask you guys you're
+eff just you're spinning the propellers
+slower that's what you're doing that's
+the electric engine do that just create
+lower noise that that gets you like 90%
+of the benefit and then from there you
+work to all the little efficiencies to
+get that stuff out so let me ask you
+guys about like the the convenience of
+owning a car and like America kind of
+popularized this idea that everyone
+should own a car and then we all got a
+car the benefit of a car is it's point
+to point I can go from any point a to
+any point B um how do you guys think
+about the challenge of it's such a pain
+in the ass to go to a port just like
+it's a pain in the ass to go to a bus
+station take a bus or you know Subway go
+to a spot in New York it works where
+things are dense enough but like in most
+cities in the United States this is like
+it is preferable to take a car because I
+can do point A to point B and my
+convenience which my time is always
+faster taking a car how how do you kind
+of think about the calculus of the
+benefit here when I have to go to a port
+to be able to take the vehicle to the to
+the next Port I I think you know your
+spot on I think of where we are today is
+very similar to where uh the automotive
+industry was was in the 1890s where it
+was before we had the ability to mass
+produce cars we we were building tens
+and then hundreds of cars and uh that
+didn't give the scale and so what we
+were using cars for was taxis we are in
+a similar mode today where we are going
+to use these aircraft as taxis uh we
+still need to save people time and so
+there's only going to be select routes
+where this is a game changer because of
+the multimodal nature uh where you need
+to uh and you may not have a takeoff and
+Landing location exactly where you want
+to leave from and go to but over time if
+we can get the acoustic signature down
+if we can make these aircraft even
+quieter than they are today rather than
+needing to go to a a dedicated ver port
+to do this the dream is to eventually be
+able to land them at your house Adam
+let's talk about um propulsion for a
+second energy density cost those
+trade-offs speed these are all variables
+that kind of just work opposing each
+other um what were some design decisions
+you guys made and um did you have to
+remake some of those did you change your
+mind at some point and just walk us
+through that process the biggest
+challenge I think of building these
+aircraft is just the time it takes to do
+it it is very expensive and it does not
+fit any typical model meaning the
+Venture guys don't like it and so
+they're like sorry you want a billion
+dollars UPF front to build this like
+that's terrible you rejected me you
+rejected me I don't think I met with you
+uh like everybody rejected probably all
+of us up here so it's not a typical you
+know what I mean like Mom that's the
+reality so there was this crazy period
+of time in 2021 with the capital markets
+opened up it was a dream scenario raise
+a lot of money from the public markets
+that was nuts so that allowed this to
+happen and then from there it for for me
+what we did was we said okay what is the
+business case meaning we thought when we
+looked at like what are these we call
+them hero routes where there's a lot of
+people doing these trips like Manhattan
+to JFK it's like 30 million people go
+from Manhattan to one of the three big
+airports in New York okay so all we have
+to do no brainer that's a no-brainer
+yeah all we have to do is have a couple
+around the city which already exist
+there's downtown Wall Street Hort wests
+side and just put them into the three
+airports and that'll be an amazing thing
+to start with okay so short routes 20 to
+50 mile routes now let's design an
+aircraft around that the fastest thing
+we can do to get to Market so we don't
+die before the investors decide nah
+we're kind of like done with this one
+now on to the next thing oh AI here
+let's everybody go all in on AI and so
+I'm just moving as fast as we can so
+that was the biggest trade-off so it was
+always what is the minimum thing we need
+to do to get that done so you need to
+look at speed range and payload payload
+is definitely the hardest because
+batteries are heavy and there's just
+physics you're always fighting and then
+speed the difference between these
+planes want to fly around 120 mph you go
+faster it's just more drag it just kills
+your battery faster so you don't the
+difference between 120 150 on a 10 Mile
+flight doesn't really matter it's more
+of how do you go at least that 20 to 50
+mile route and go at least you know call
+it 120 m per hour and do that as fast as
+possible what kind of batteries what
+kind of batteries did you guys choose
+what lium ion cells commercial offthe
+shelf stuff uh Molly cell makes you can
+find the cells today there's millions of
+them that are made and power tools and
+supercars and pretty conventional what's
+the range with the range of the aircraft
+we're designing to go up to 100 miles
+but the the real design is around back
+to Rapid backtack 20 to 50 MP what do
+you guys all need in terms of Battery
+Technology improvement from where we sit
+today or do you not and what's on the
+horizon in terms of Battery Technology
+improvements what does that unlock in
+terms of range yeah so the batteries
+that we're certifying our aircraft with
+or have a specific energy of about 300
+wat hours per kilogram to put that in
+context when I started the company in in
+2009 we had cells that had sufficient
+specific power uh to do a vertical
+takeoff but also so uh we're at about
+170 W hours of kilogram so we've almost
+doubled the specific energy in the cells
+over the last 15 years um that we have
+cells in our lab and then there's a
+third dimension which really matters is
+This Is The Life and uh so we have the
+the cells we're uh taking the
+certification are give us a uh 10,25 M
+flights so our our kind of sweet spot is
+is also in that uh in those shorter
+range flights and we want to be able to
+do a lot of flights between uh between
+Replacements both for the environmental
+impact of it but also from the economics
+of replacing those battery packs and
+when the the plane takes off that's a
+lot of um energy usage the the wings
+tilt forward and now you're flying more
+like these ospre is as a plane the
+energy goes way down the consumption and
+then on Landing you got to be very
+careful and use a lot more energy is
+that correct yeah and there's there's uh
+different trade-offs you can make
+basically the more propulsors you have
+uh the smaller each propulsor is and the
+and the heavier you're disc loading and
+the higher the amount of power you're
+using in Hover the the harder you're
+pulling on the batteries um the uh but
+then more propulsors also gives you more
+redundancy so there's this uh there's a
+trade there breast tax when do you each
+think we're going to pick um a quarter
+in a year so you know fourth quarter
+2025 second quarter 2026 you all have to
+answer it uh you agreed backstage um and
+Americans will be able to give money to
+get in one of these not a test flight
+you know in a major city in America um
+to to when we all be able to use it uh
+not just yours yeah these guys should
+answer for themselves but I think
+they'll get it done in uh in 2026 and
+you should yell at it's different ah man
+I don't um first quarter first quarter
+26 I want to give him some heat we'll be
+we'll be a couple years after that but
+that's an incredible thing I mean
+we're less you know a year plus away
+that's yeah that's crazy now you should
+um tell tell me how you feel about my
+expectations
+yeah I I think pretty clearly there's a
+route to do this internationally next
+year and so I think we'll launch with
+passengers next year um he said in the
+US I know I'll start there I'll start
+there in in in 2025 job is to make sure
+we have a safe I think probably fourth
+quarter I think we have a my job is to
+create a safe aircraft if Pete Budaj
+called and said hey there's a way to do
+this in the US I'm going to help cut
+through all the red tape and we're going
+to help you get it done like my phone's
+on I'm ready call me I we'll find a way
+to do it Pete why didn't we invite Pete
+he seems Dynamic so he was actually yeah
+we uh we nearly had him yeah very close
+so I I think we're on a on a Time
+timeline which we publicly announced to
+uh to begin commercial Service uh in the
+UAE next year um you think Q4 2025 as
+well I I think that's it's likely back
+end I think it's at the back end of next
+year let me let
+me we will begin non uh you know begin
+operations before that but uh we will
+not being to buy a buy a ticket have you
+figured out the flight profile that
+you're going to start with like it's
+airport to X or something like that or
+we have we have uh four ver ports that
+are um uh that we're planning to build
+in in Dubai and uh the RTA which is I
+would like one from the airport to the
+wind which opens in 2027 yeah from Dubai
+to the new win it's a little far cuz
+it's in rock so it's a little far away
+there's a win in Dubai that's opening
+opening a win that's we got to go we got
+to
+go oh kidding aside I want to talk to
+you guys we talked yesterday with about
+this you know he said it's taken longer
+to get approval to launch Starship than
+it did to take launch so this sort of
+push on regulatory we're hearing over
+and over again you work with the FAA
+closely um can you just describe the
+path to bring them along get the
+certifications that you need um and how
+much of a push or a pull that is in each
+of your businesses yeah I mean I guess
+I'll just start you know obviously um
+from the autonomy standpoint
+specifically you know we're really we're
+trying to push the frontier and so
+whenever whenever you're engaging with a
+regulator no matter if it's Aviation or
+if it's biotech or some other thing if
+you're really really on the frontier it
+means that that the regulator doesn't
+necessarily understand the technology
+any better than you do and so part of it
+needs to be kind of a journey where
+you're going together to really learn
+how to make it safe at some point um you
+need to be regulated you know there
+there needs to be a process of you
+putting forth um you know the engaging
+in what what are the requirements you
+putting forth here's how we're going to
+meet those requirements and then as a
+process I think that you know honestly
+from my standpoint that actually works
+okay um I just wish that it was a little
+more responsive or engaging on some of
+the like deep technical subjects that we
+have to advance do they have the people
+inside the that's part of the challenge
+so part of the challenge is that is that
+in aviation partially because of what
+Peter teal said yesterday you know
+there's sort of a generation of you know
+if you went into Aviation when I went
+into Aviation the demographics were
+completely upside down people you know
+people were retiring new people weren't
+coming into the industry and so all many
+of the experts in the fa that that have
+regulated some of these systems that
+have created really safe airplanes have
+retired um there's a lot of new people
+coming into the industry which is great
+but um don't necessarily have the
+expertise of having built some of the
+systems that we're now building and so
+there's some way that we almost need to
+get people to come through the industry
+and then I think this is a really
+important point and it's countered to
+what RFK Jr has been saying over and
+over again and this is why I I push back
+on him I'm sorry this is off topic there
+there is a very important reason to have
+people from industry become part of the
+regulatory framework for regulating the
+industry because if they don't they
+don't know how and they're going to have
+a a complete aversion to embracing
+technological innovation that's why I
+think it's important that there is a
+rotation of people that are you know
+consequentially not economically
+motivated in some way but that
+understand the technology and can
+motivated but in that let me ask you
+guys in markets where there is a
+regulatory framework that allows for
+Accelerated output of innovation let's
+take China for an example um there's a
+good ab test maybe underway right now
+what companies are doing eval technology
+in China how good are they and then
+given the way that the Chinese
+government can kind of step in and
+accelerate outcomes are we going to see
+and are we seeing uball and Technology
+you know kind of coming to Market fast
+and in a kind of accelerated way in
+China like we're seeing with nuclear and
+other tools that the government is a
+priority in a mandate yeah I mean you
+have you have ehang and autoflight and
+they uhin and you know a bunch of them
+are making great progress there's a lot
+of enthusiasm in China the regulatory uh
+pathway there is uh uh more forward
+leaning I I think as as Adam pointed out
+and uh I think you're going to see more
+more rapid iter iteration I think the
+good news here in the US is that the fa
+is uh in the process of releasing
+something called Mosaic which for
+aircraft that are smaller than ours uh
+aircraft with with like two passengers
+in them more of a personal ownership
+type of thing that's going to allow much
+more uh rapid development and a lighter
+a lighter touch from the fa just to put
+this in context the fa has done I think
+an incredible job and they've really
+been leaning in when I went and first
+talked to them in 2009 they they thought
+this was like absolutely crazy like they
+just did not think we were going to be
+able to build an electric air aircraft
+let alone one that could take off and
+land vertically and which was quiet and
+all these all these different dimensions
+we then you know began working with them
+regularly in 2015 uh began formal
+certification 2018 had uh stage 4 G1 and
+in 2020 G2 uh and and then G3 and now
+we're working on stage four so it you
+know with each uh you know we are
+building momentum we are writing all the
+rules uh it's very heavy lifting uh
+and told me once he uh cuz has been kind
+of the first through the through the
+pipeline there and he said I feel like a
+pipe cleaner for for how to certify
+these things and uh I guess I there's
+one thing I would just throw into the
+regulatory like context just just
+because I I think you're bringing up a
+good point is it's not like these things
+were sitting on the shelf and and a
+regulator was sitting somewhere saying
+you can't use that we have been on a
+journey that we just all talked about
+getting these things ready so they're
+now just at the point where they're
+ready and the question is can we take
+that first step in the US to really get
+it done and does the US do they approach
+that from a culture of let's just try
+something if we get it wrong we can
+iterate it or it's is it more we must
+get this right because there's all kinds
+of consequences political or other it's
+so much more simple than that they want
+to do it the people at the top are
+actually genuinely very excited former
+fa administrator Billy Nolan stepped
+down from his role joined Archer the new
+one Mike Whitaker came from an e talk
+company they were very excited to do it
+the challeng is with probably most
+regulatory you know setups is not a lot
+of incentive it's not like there's a
+downside to not doing it a lot of
+disincentive to do it meaning if
+something goes bad it's there's only
+downside there and it's a slog and it's
+hard like this is hard this is not easy
+to go through all this there's the
+incentives are not great and then on top
+of all of it there's no policy saying
+hey America needs to be Innovative we
+need to go do this let's go and get it
+why is there no mandate like it would be
+great if some leader said
+you guys need to get this done and we
+need to have these things flying safely
+in the next 36 months like how does that
+happen in our current system I can
+understand Happ Trump literally put out
+a video on it he put out a video agenda
+number whatever 39 or something like
+that where he talked about building
+future cities I'm guessing he went to
+Dubai and then I'm sorry but is that
+something Adam that we could change
+through an executive order I think it's
+culture you have to change meaning like
+we will do this and break down all the
+barriers to get it done because it's
+it's not that hard like you can like
+we've all laid out the rules to certify
+like why can't you let us just go do the
+tests and then if we do the tests you
+check them off we're
+good that if you're a bureaucrat if
+you're working in one of these
+organizations if it goes poorly you're
+in big trouble if it goes well are you
+well the SEC had you know this mandate
+it's very similar to you know allow more
+accredited investors sophisticated
+investors allow people you know to to
+take tests and to just allow more access
+to private companies and invest which
+would be good for a company and they and
+they have slow walked it so I think
+that's part of the problem is just to
+build on what ad okay let's just say the
+SEC doesn't do anything it or they do it
+and they make a mistake nobody at the
+SEC will get fired just like I I don't
+think the culture is that if you know
+something if a commercial airline has an
+issue or for example in the 73 Max 737
+Max issue did more people at Boeing get
+fired did more people at the FAA get
+fired or did nobody get fired nobody
+Aviation Aviation is different on the
+like in the comparison with the SEC as
+an example like Aviation is different
+like actually Aerospace is different and
+and and I would just call out one thing
+that I saw on the stage yesterday which
+which really hit me if you saw elon's
+face when he talked about the safety of
+the astronaut like you saw his face he
+was almost crying yes he was almost
+crying and that's what Aerospace is all
+about and so I there is a um the the
+reason that the industry has been able
+to get to that unbelievable statistic
+that I just talked about is that it's
+gone through all accidents it's gone
+through terrible things that have
+happened and have turned into the rules
+that we are now all being regulated
+towards what's happening now is that
+we're showing up with new technology so
+I'll give you an example like
+regulations they currently say the pilot
+shall do X and it says that you know 50
+times Well we don't have a pilot and so
+when we're showing up we have to kind of
+rewrite what that is I understand why it
+says the pilot shall do X it says that
+because there were accidents in the past
+that have now been regulated out of
+existence but you're also looking at it
+from the the negative point of view how
+many lives could be saved if we got this
+stuff into pick a country India or
+Africa we could bring clean water and
+medicine and supplies to people disaster
+relief it doesn't cost $10,000 an hour
+to fly a Blackhawk anymore into some
+disaster relief situ situation costs
+$500 an hour and we can send 50
+immediately and they're always available
+the uptime is super huge and so I
+actually think you could save a lot of
+lives too if you what about saving lives
+here in the US we we lose 40,000 people
+every year on the roads which is insane
+uh and we fly almost as many miles as we
+drive so like driving is more than
+10,000 times more dangerous per
+passenger mile than flying is so we can
+actually by moving people into the air
+for their daily Transportation make the
+you know save thousands and tens of
+thousands of lives but we need to get
+the technology out there we need to
+start learning I hope uh Peter teal had
+it wrong and we are going to get flying
+cars in the next couple of years and I
+want to thank you all for being here
+please join me in thaning our
+than

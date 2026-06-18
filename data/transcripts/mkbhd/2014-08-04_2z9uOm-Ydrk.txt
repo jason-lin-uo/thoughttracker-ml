@@ -1,0 +1,248 @@
+# Android Wear Review! (Smartwatches)
+# https://www.youtube.com/watch?v=2z9uOm-Ydrk
+
+[Music]
+hey what is up guys I'm kbd here and for
+a while the whole Smartwatch game was
+all about Pebble and I had a pebble for
+a long time but now Android Wear is a
+thing and it's kind of taken over the
+whole Smartwatch game so let's go ahead
+and take a deep dive at what exactly
+Android Weare is what it does and why
+you should care so the entire point of
+SmartWatches is to give you information
+at a glance and these Android we smart
+watches do this by giving you Google Now
+cards and your phone's notifications on
+your wrist so all of the Google Now
+cards you'd get show up here and any app
+that would ordinarily show you
+notifications like messages or an email
+or something those notifications will
+now show up on your wrist too and the
+way you navigate through all these is
+with swipes it's all laid out in a cards
+UI and basically any notification that
+was expandable where you can tap on it
+or expand to get more info on your phone
+you can now tap and expand to get more
+info on your watch too sometimes that
+gets you more information out of like a
+Google Now weather card other times it
+let you take action like play or pause
+music or archive an email or do
+something like that and your watch is
+connected to your phone through
+Bluetooth so they talk to each other
+seamlessly and really fast so when you
+dismiss a notification on your watch for
+example it also gets dismissed from your
+phone pretty quickly and vice versa on
+top of all that it also has these
+customizable watch faces so since it is
+a watch you're telling the time anyway
+so you glance at it and uh you get a
+bunch of different watch faces it varies
+from watch to watch so you'll get a
+different set set of faces depending on
+which model you get but it basically
+just lights up when you get a new
+notification or when you activate it
+yourself and then just for a little
+extra just a little extra on top it is
+its own full-fledged operating system so
+they also have some Standalone features
+too most of which can be voice activated
+because it does have a microphone in it
+so the first thing it'll do since it'll
+talk to Google keep on your phone is
+it'll take a note so if you say take a
+note then it'll write down whatever you
+say in Google Keep next you have
+reminder so it'll set an alarm to remind
+you to do something at a time or
+location
+it also has a pedometer which I'll talk
+about later in a second but you can show
+your own steps then you can send a text
+or an email to anyone in your contacts
+list again just by dictating it and you
+also have your agenda for your day in
+Google Calendar and you can navigate to
+a nearby place or location by telling it
+to you can set a timer or start a
+stopwatch for a certain amount of time
+and the alarm will go off on the phone
+and it'll also vibrate when it's done uh
+you can set an alarm or show all the
+alarms you have and again those will
+also vibrate on the watch and then you
+have your settings and then you can also
+start a thirdparty app so there are a
+couple of third party apps that are
+built in so you can just say start
+Tinder and then you can just start using
+Tinder on your phone and there are a
+couple of third party apps that are
+available in the Play Store right now
+that are compatible with Android
+whereare they will talk to your watch
+and again you can literally start and
+open them up right on your watch and use
+them without even having your phone out
+of your pocket now even though it may
+seem awkward and geeky to tap your watch
+and then start talking to it because it
+is uh it actually works pretty well for
+the most part and I got used to swiping
+motions pretty fast uh it also has a
+quick swipe down gesture from the top so
+if you're driving or something and you
+don't want it to be distracting you can
+silence all the notifications until you
+unmute it uh and in my daily life I
+think it's really nice to not constantly
+be checking your phone in and out of
+your pocket to get notifications I
+actually loved having the pebble for
+that uh but I also used some of the
+watch's Standalone features like I
+talked about for example the timer I use
+it to uh set a timer for myself a couple
+times while cooking just something I
+wanted to have it remind me of to check
+on something uh it works well also just
+has a subtle vibration on your wrist
+when it's done it's not like jarring or
+anything I also use it to send messages
+especially when driving so I literally
+just say Okay Google and then dictate
+whatever message I want to send and the
+recipient and again will just get the
+message as if I sent it via a regular
+text message never had to take my hands
+off the wheel or be distracted uh
+reminders I didn't use as much but let's
+say I wanted to remember something I
+just say Okay Google uh remind me to by
+water at 400
+p.m. and then boom now we should note
+this is the first version of Android
+Weare so I see a lot of room for
+improvement a lot of places where it can
+get better and I don't even really think
+the average person is going to like this
+stuff yet but for a real geek like a a
+Tech head like me this stuff is awesome
+I get a ton of use out of it the Google
+Now cards especially I had a Google Now
+card with my boarding pass a couple of
+weeks ago to get on a flight and I
+literally scanned my watch to get on the
+plane in instead of a physical boarding
+pass that kind of stuff blows people's
+mind sometimes uh and right now it's
+still in that stage where it's a bit of
+a geek toy instead of a mainstream
+Gadget and also right now only a couple
+of devices are running Android Wear
+there's this LG G watch I've shown for
+the whole video which is my current
+Choice uh and then there's the Samsung
+Gear live which is almost exactly the
+same with a bit of a different design
+and they both have their weird quirks
+being first gen devices like a lack of
+buttons on the Gat or an interesting
+charging cradle for the Samsung watch
+the circular and badass Moto 360 that is
+coming later this summer and I
+definitely think that's going to be the
+one to get your hands on uh if you're a
+regular person and you just want to get
+into Android Weare for the first time
+and I could also see Google Glass
+running Android Weare eventually too but
+really you got to think about the
+downsides the biggest downside right now
+it's got to be battery life I mean the
+Gat lasts 36 hours on battery a day and
+a half if you literally don't touch it
+once um but with regular use you're
+using it a lot you're checking it it's
+dead by the end of the day and you have
+to charge it every night which isn't a
+big deal since it doesn't die in the
+middle of the day but it's still a bit
+annoying that it only lasts one day on
+battery and then the fact that it's so
+new we have to wait for some more
+dedicated watch apps to hit the Play
+Store I think they'll really make it pop
+the apps that use it well right now that
+are well integrated are phenomenal and
+look great and sound great and function
+really well but outside of that there
+aren't too many now I do have to note
+that the pedometer that uses to to count
+your steps is actually in the watch
+itself it doesn't seem to be using the
+pedometer in the phone you're connected
+to and because of that you tend to take
+a lot of steps by accident just by
+moving your wrist and it just counts
+because it thinks you took a step so if
+I was reaching my daily goal of 10,000
+steps per day it was because I took 900
+while eating breakfast or while throwing
+or while brushing my teeth or whatever
+it was just counting steps all the time
+when I wasn't actually walking writing
+an essay taking notes in class was
+counting steps so I wouldn't quite base
+my fitness routine or any goals I have
+on the pedometer and any Android
+Smartwatch at least for now so that is
+Android Wear it's a little bit of a
+combination of like we said Google Now
+and your phone's notifications on your
+wrist it's not available for iOS at all
+yet it's not available for Windows phone
+at all yet it's just for people who have
+an Android phone and an Android Weare
+Smartwatch so to me the bottom line is
+it's still kind of hard to convince the
+masses to buy a smartwatch whether it's
+Android Weare or the next apple
+Smartwatch or a pebble or something else
+it's just people who don't wear watches
+in the first place aren't really
+flocking to buy any SmartWatches right
+now so it's kind of hard to tell what I
+would say is wait for the Moto 360 wait
+to check out the more high-end ones that
+come out wait for the Apple option of
+course and those that follow the Apple
+option and I think in the second half of
+this year in the first half of 2015
+we're going to get a lot more awesome
+SmartWatches especially out of this
+Android Weare stuff because it's the
+beginning of a proof of concept that's
+really cool looking and I think uh once
+functionality gets built in with more
+third party apps and more people start
+to take advantage of the fact that they
+can build apps for the wrist it's going
+to be a lot more awesome so this has
+been my Android Wear experience and
+review thank you for watching feel free
+to give it a thumbs up if you enjoyed it
+and uh subscribe there's a subscribe
+button below if you haven't clicked that
+already to see more videos like this
+when they come out again thanks for
+watching and I'll talk to you guys in
+the next one
+peace

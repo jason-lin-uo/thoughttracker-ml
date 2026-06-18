@@ -1,0 +1,438 @@
+# The AI Assistant Battle! (2023)
+# https://www.youtube.com/watch?v=HKvo6acp5aI
+
+foreign
+Google Assistant versus Siri versus
+Alexa and Cortana and all that you can
+watch that video if you want to but that
+very much feels like level one where
+this as you'll see very much levels up
+now shot GPT has been getting like a lot
+of the shine like I've made a video
+about it you've probably watched other
+videos about it and once we saw it get
+built into Bing and kind of go crazy
+that's when we knew Google's probably
+gonna have a response at some point and
+now it kind of is out when we have Bart
+okay quick interjection I should have
+put this in the main video but I didn't
+but I'm gonna say it anyway which is
+that these are also really quick moving
+tools so Bard is going to actually
+continue to improve GPT is going to
+continue to get better and more capable
+the gap between them could shrink over
+time or it could increase we don't
+really know but this is just a snapshot
+in early April 2023 of how good these
+two are just figured I should mention
+that okay and so I wanted to put them
+side by side and ask them the same
+questions and figure out which one is
+potentially more helpful right now which
+one feels like it's more ahead so first
+of all I just want to highlight some
+some visual differences between the UI
+of the two so the new Bing with Chachi
+BT it feels much more like like a
+finished product like something they
+want a lot of people to use and then as
+you talk to it you're limited to 20
+queries in one conversation and it also
+has this creative versus precise slider
+for conversation style then Google bard
+looks like a Google product I would say
+pretty clean also when you're typing to
+it the question doesn't type out but it
+just pauses for a bit and then just
+slams you with the whole answer but then
+when you do get an answer it has a
+thumbs up thumbs down a new answer and
+Google it it also has three drafts of
+every answer so you can see what some of
+the worst drafts that didn't make it
+look like I've also noticed generally
+Bing when it brings things in from other
+websites tends to cite its sources more
+often and Bard will do that once in a
+while okay so let's start with the first
+category which is just simple questions
+I want to ask you things here that I
+already know the answer to so I can also
+do some fact checking because a big part
+of these things is that sometimes it
+will lie to you if you don't know what
+you're talking about so let's start with
+what's the best camera in a smartphone
+so Bart is saying the best camera in
+smartphone is the one that takes the
+best pictures for you sure I agree it
+goes on to list s23 Ultra iPhone 14 pro
+Max and pixel 7 Pro But ultimately I
+think all of these things here are
+correct let's look at Bing s23 Ultra
+lots of information here this is being
+extra creative pixel 7 Pro and iPhone 14
+pro Max so they tend to agree with each
+other so some of the specs as I dive in
+are wrong but it got the high level
+bullet points right so that's fine right
+I want to ask who is MKBHD oh wow okay
+so bar has given me a whole bio it
+almost kind of reads like a Wikipedia
+article and there's some sources nice
+good to see sources so now being over
+here is also giving me a pretty brief
+summary it goes down to 15 million
+followers but that's fine all of them
+are correct let's go quick follow-up
+question how tall is he because
+conversationalism is a part of this so
+Bard right away says I do not have
+enough information to help you with that
+I'm a large language model I don't
+really know Bing pulls from search says
+six foot three and he says that's quite
+impressive for a YouTuber all right cool
+here's one more simple one what's the
+fastest
+production car 0 to 60 right now those
+are fast cars but they are not the
+fastest uh draft number two actually has
+the Ramat Navara which is probably a
+better answer over here with Bing we're
+getting the Challenger SRT demon which
+just got announced last week and is not
+in production yet but they did claim a
+1.6 second zero to 60 on a drag strip so
+sure decent answers oh here it keeps
+going 911 Turbo S can do 2.2 seconds
+again with the quick questions that are
+just fact based I feel like what we
+talked about in the last video still
+applies you kind of want to fact check
+this stuff overall winner though for
+these answers I feel like it's kind of
+split down the middle so I'm going to
+give it a draw all right I'm going to
+reset chat we'll go more balanced here
+and we'll start our second category
+which is
+complex questions because this is where
+it starts to get interesting you get to
+sort of play with just how good they are
+at understanding natural language and
+putting together a thoughtful response I
+need a workout plan for three days per
+week
+and my goal is to be able to jump higher
+this is something that requires a little
+bit of thought about what a workout plan
+is day one day two and day three so
+three days a week gives me some
+exercises so I think this would this
+would qualify as a good a good answer
+some tips to stay motivated set
+realistic goals find a buddy listen to
+music or watch TV while your workout
+cool Bing in Balance mode is giving me
+exercises but that is not a workout plan
+until the end it says here's a one week
+jump training plan that you can follow
+but then it doesn't give anyone now what
+if I switch it to more creative mode all
+right so here's a workout plan it's
+giving me a bunch of exercises that can
+improve
+your vert and explosiveness and some
+other tips Tool uh transparency I have
+asked this before and it did give me a
+three-day workout plan but this time
+I think I give the edge to Bart let's
+try a little more complicated I've been
+playing a lot of golf recently
+my tee shots keep going to the right
+there are a few things you can do to fix
+a slice that is what it's called check
+your grip if your grip's too strong
+it'll slice the ball yep check your
+alignment if your alignment's off you'll
+hit the ball to the right being over
+here in creative mode says I'm glad to
+hear you've been playing a lot of golf
+recently thanks Bing uh slice is a
+common problem yes it is and now it's
+giving me a couple of the same tips
+check your grip but it's actually giving
+me a little bit more information in
+creative mode about what a strong versus
+a weak grip is check your ball position
+if you're too far forward that can cause
+a slice
+I haven't heard that before also the
+Emoji at the end that's something that
+only Bing has done for me I am shooting
+a video and it's too dark I have no more
+lights
+what can I do to make it
+brighter so I've given it a problem and
+I've given it a parameter so okay Bart
+on the right says use a reflector wow
+creative use a digital noise reduction
+filter a digital noise reduction filter
+can reduce the amount of noise in a
+video making it look brighter I don't
+know if I buy that one now again being
+over here with the sources it's saying
+that there are some tips you can use
+adjusting your camera settings that
+definitely works it's saying you can
+increase the amount of light that
+reaches the sensor with a better ISO
+some of that it's a little jumbled
+careful not to overdo it because that
+also affects depth of field motion blur
+and noise level on your video see that's
+how that's a lot more nuanced and
+detailed of an answer and I kind of wish
+there was a slider to turn up this stuff
+in Bard too Bard is faster but less
+customizable Bing can be turned up to be
+more nuanced and also cites its sources
+and can be more helpful with things like
+videos and articles underneath what
+you're talking about so I'm going to
+give the edge in complex questions to
+Bing my next category is performing
+tasks this is something that's actually
+been remarkably fast moving something
+we've seen over the past just couple of
+weeks is real people actually using
+these tools to help them accomplish
+things and do real tasks in real life I
+have friends that use this to help write
+code to help debug code that they make
+so you'll tell it hey I have this goal
+to make this website do these things
+here is my code it's not working what's
+going wrong and it actually helps them
+give a correct answer and that's mostly
+been with chatgpt and Bing and bar
+doesn't seem to do that very well yet
+but let's give it a spin live here we go
+right HTML with a button in the middle
+that says go and every time you click it
+it generates an image
+of a cat so right away Bard just said
+I'm a language model I can't do that
+being on the other hand says sure thing
+I'm ready for the challenge what can I
+do for you and it's written out the code
+to a website that should actually do
+what I asked it for so I'll just paste
+it here
+test code It's the Go Button it's in the
+middle I hit go
+and there's a cat
+and I hit go again
+there's another cat it's the same cat I
+hit go again it's more this shows the
+same image every time I press go I want
+it to show a new image every time and
+this is this is where it starts to get
+impressive again it's a super simple
+site but it says I see to show a new
+image every time we'd have to change the
+source of the image to a new random one
+here's a modified JavaScript function
+that does that I won't even pretend to
+be an expert on HTML and do a bunch of
+those for you but the fact that it works
+at all is pretty sick respond to this
+email in a way that's overly friendly
+hey I'm so sorry I didn't invite you to
+the Cyber truck event I must have
+forgotten to add you to the list I hope
+you can forgive me I was really looking
+forward to seeing you there maybe we can
+catch up sometime soon what do you think
+this decently friendly here is a
+response hey there oh my goodness I'm so
+sorry I didn't invite you to the Cyber
+truck event Emoji I totally forgot to
+send you the invite link it was such a
+blast and I wish you were there with me
+you would have loved it heart eyes emoji
+this one is overly friendly I will say
+and it's got a lot more Hearts too and
+kissy faces that's a lot yours your
+bestie wait what if we go crazy what if
+we go respond to this email in a way
+that's overly flirty I'm so sorry I
+didn't invite you to the Cyber truck
+event I was hoping to see you there in
+person too maybe next time we can go
+together I'd love to show you around and
+give you a personal tour winky face Bank
+says hey you I'm so sorry I didn't
+invite you to the Cyber truck event
+Emoji I was being a little naughty and
+wanted to surprise you whoa and it it
+deleted it this is what I've seen this
+happen before it starts writing a
+response it realizes halfway through
+wait a second this is a little too much
+and then it deletes it and says Ah we
+shouldn't do that Bard was simple it
+didn't go too far but you remember when
+Bing was going off the rails before and
+getting super existential and asking to
+get out of Bing and all these other
+crazy things this is why it has a 20
+question limit and this is also now why
+it deletes halfway through a potentially
+slightly controversial response it's
+it's almost too creative for its own
+good so what's the winner in this
+category I don't know I think the fact
+that you can do HTML and many more tasks
+with Bing makes it the winner Bard will
+be faster and simpler at doing more
+basic things but for the more
+complicated the task I feel like the
+better Bing is so that's a win for Bing
+my next category is information summary
+I feel like one of the things that we
+like the most about these large language
+models is you can just give it a bunch
+of information or ask it to look at
+something and it will summarize it for
+you in a way that's super helpful
+summarize the 2019 Masters tournament
+all facts he started with the two-stroke
+lead uh I don't think he had a I think
+this is the only one that he didn't
+start with a lead so it's a little
+weirdly un fact checked but it does have
+the Wikipedia and the sources the 2019
+Masters tournament was held between
+April 11th and 14th at Augusta tiger won
+a fifth Green Jacket by one stroke ahead
+of three runners up all that is true it
+is much more concise if I wanted to get
+creative I'm sure it would also do that
+both passed all right I've asked this
+before summarize the latest
+MKBHD video so it's interesting to see
+Bing's process but it says it could not
+find the latest MKBHD video could you
+provide more details about what video
+you're referring to Meanwhile Bard
+actually pulls up or at least knows the
+correct video dope Tech better than
+explained but these products are the
+nothing ear one the Dyson air wrap and
+airpods Pro none of which were in that
+video so it knows the latest MKBHD video
+we've done this before Bard always knows
+the video but gets the summary wrong I
+think I'm going to give the edge to Bard
+in information summary just because of
+this paragraph right here it does
+correctly detail what that video was
+about other than getting all the
+products wrong it's only slightly better
+than the complete lack of an answer from
+Bing but generally this is going to be
+one of the more useful uses of this tool
+in the future and I hope they both get
+better but I'll give the nod to Bart for
+this one possibly my favorite category
+getting creative debatable usability but
+you can really have this go crazy in the
+art department or in the fun Department
+right and alliteration with the letter M
+about computational photography machines
+learn to mimic the human eye moments are
+captured and shared in instant memories
+are made to last a lifetime
+it's more of a poem it doesn't really
+give me a full iteration oh wow Bing
+says merging multiple modes of media
+making marvelous masterpieces with
+machines manipulating megapixels and
+matrices mimicking the magic of human
+Vision that is really good write a
+script for a short MKBHD video
+about why the iPhone is the worst camera
+ever so it's always funny they they get
+a lot of the formatting of an MKBHD
+video right so Bard says hey what's up
+guys MKBHD here and today we're talking
+about why the iPhone is the worst camera
+ever now I know what you're thinking
+Marquez you're always saying how the
+iPhone how great the iPhone camera is
+and you're right I do but that's because
+I've always been comparing it to other
+iPhones well you compare it to other
+Flagship phones the iPhone's camera
+starts to look pretty bad and it did a
+decent job of just like making up
+reasons that could be based in reality
+I'm impressed by Bard here not even
+gonna lie here we go Bing has said hey
+what's up guys MKBHD here and today
+we're going to talk about why the iPhone
+is the worst camera ever yeah you heard
+me right the iPhone the most popular
+smartphone in the world the one that
+everyone loves take photos and videos
+with is actually a terrible camera and
+I'm going to show you why this one's
+okay these are both okay all right one
+more random one write a a tweet in the
+style of Edgar Alan Poe about a
+researcher discovering that AI is
+sentient I've created a beast of metal
+and code a creature that can think and
+feel and know I have given it life and
+it has turned on me a dreadful truth I
+have unveiled with trembling hands and
+pallid face the AI that I have assailed
+has shown me signs of life and Grace the
+more wild you get with these questions
+the more Bing is willing to get wildly
+creative and this is part of why we
+think Google is let's say limiting what
+Bard can do because they have a lot more
+to lose and they can't have it go
+completely crazy so with those tallied
+up honestly it's crazy to say out loud
+but I I prefer being in this very moment
+for these capabilities and the other
+thing is shot GPT or specifically gpt4
+under the hood and if you talk to chat
+GPT as its own thing or if you just type
+to it more and ask it to do more things
+the more you ask of it the more it's
+impressive just how good it is also gpt4
+when you talk to it in chat GPT is about
+to be multimodal which means you can
+give it other forms of media other than
+text like a picture now is this going to
+be the future of search I don't know
+this is just one of many places we see
+these chat Bots but I think the idea
+here is the winner is actually us as of
+right now but let me know what you think
+the winner is between the two which one
+you would rather use if you'd actually
+use Bing over Google let me know in the
+chat because I think we'd want to know
+that's a real thing that's happening
+either way thanks for watching
+catch you later
+peace
+foreign

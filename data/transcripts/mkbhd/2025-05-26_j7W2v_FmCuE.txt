@@ -1,0 +1,342 @@
+# Top 5 Android 16 Features: Big Visuals!
+# https://www.youtube.com/watch?v=j7W2v_FmCuE
+
+[Music]
+The dessert names may be gone, but the
+Android updates, well, they keep coming.
+I've been running the Android 16 beta on
+my Pixel 9 Pro for the past couple days
+now. Now, if you've been paying
+attention to these updates over the
+years to Android, you've noticed the
+trend now is less and less like major
+overhauls and more, you know, little
+subtle tweaks and refinements, little
+things here and there. And this latest
+update is almost almost purely
+aesthetic, especially in this first
+beta. Matter of fact, there aren't
+really any any big new
+capabilities in this build of Android
+16. It's more just that it's it's just
+it's built different. It it just acts a
+little different. It looks a little
+different. It feels a little different.
+And I like it. You know, they started
+down this path a few years ago with
+material design and then material u and
+then now of course Google has to name
+everything. So, this latest version is
+called Material 3 Expressive, but it
+actually makes sense because everything
+here is a little brighter, a little more
+playful, and just a little bit more
+expressive. Kind of like real physical
+objects. So, let's just jump right in.
+I'm going to give you a tour of this
+fresh coat of paint that you'll probably
+only ever get on your phone if you also
+have a Google Pixel. Uh, either way,
+these are my top five favorite new
+things in Android 16. So, number five is
+lock screen customization. You know,
+they they say we unlock our phones a h
+100 times a day, so we might as well
+like what we see when we get there. And
+Android 16 has a slightly different lock
+screen picker than 15. You still get
+there the same way by long pressing lock
+screen and then hitting customize down
+there. But then in here, it's just a
+little more neatly organized. First of
+all, I like this animation here to
+reveal the wallpaper selector. That's
+nice. They didn't have to do that. But
+from there, then there's the new clock
+customization. And with this one, all
+the way on the left here, you have this
+slider to pretty drastically change the
+font thickness from this bold one all
+the way to razor thin if you're into
+that. But then also, you choose for your
+notifications on the lock screen if you
+want them to either be the full list
+with everything or a compact view. The
+compact view is just going to show the
+little icons underneath the time, but
+the full view just shows every single
+thing from every notification. And then
+you can still of course change your
+shortcuts for the left side and the
+right side. Just everything here. It's
+not like new capabilities. It's just
+more neatly organized to help you dial
+in the perfect lock screen for you. So,
+that's a nice little update there. So,
+then number four, recent apps. Now,
+normally the multitasking menu of recent
+apps on your phone is not the most
+exciting thing in the world, but I'm
+putting this as my number four here for
+two main reasons. Actually, I'm going to
+throw in three. The first is that they
+added this drop-down to every app. And
+if you click that, it gives you more
+actions for things you might want to do.
+And split screen is in there. So before
+you, you know, you had to know to hit
+the app icon at the top and then find
+that. I think most people didn't know
+about that hidden UI. So exposing this
+to the not so hidden is good. And then
+two is the physics. And this one's more
+subtle, but part of a bigger theme with
+Android 16 here, which is playful and
+reactive physics that makes these
+windows and pieces of UI feel like
+physical objects. So you can see when
+I'm dragging the window around, the ones
+next to it also move a little bit. And
+then when you finally release it, then
+the neighboring windows bounce in.
+Again, it's subtle, but it's all good
+stuff. And also, shout out to 95 Google.
+They made a video showing the same beta,
+but on a Pixel Pro Fold. And there's
+even more fun animations with the dock
+at the bottom and free form floating
+windows as well. It kind of makes me
+want to daily drive a Pixel 9 Pro Fold
+again. It's all good stuff. But then
+number three, I just decided to throw in
+at the end is just the you can't feel
+it, but the haptics as you're scrolling
+through these is obviously you can't
+like tell through the screen, but it's
+like a like a every every one has a
+little hitch point. It's kind of nice. I
+like it. But anyway, okay, number three,
+customizing the launcher. Now, again,
+it's going to be subtle with this one,
+so I'm going to hit you with a side by
+side to hopefully, you know, better show
+you the difference between 15 and 16.
+But right off the bat, the non-
+removable at a glance widget, which is
+still non- removable, uh, but it's at
+least a little bit smaller now in that
+top left corner. It's a little bit of a
+slimmer, trimmer font, and also made
+room for an entire new row of icons on
+the home screen. So, there's new grid
+sizes available as well. But then
+wallpaper customization. So, hey, if you
+know me, you know I like wallpapers. No,
+no shame to that. So, select a new
+wallpaper in Android 16. And at the
+bottom, you'll see an effect button that
+shows up. And if you hit that, it brings
+up this whole customizer just to add
+effects to your background. So the shape
+one is pretty straightforward. It
+basically creates a window into your
+background image behind a solid color
+which is picked from the colors in your
+picture. So it kind of matches and you
+can flip through all these shapes and
+colors and just kind of mess around and
+it's kind of cool. It creates a unique
+look with the cutout. But then there's
+also weather, which literally adds live
+weather effects over your wallpaper. So
+if I hit fog and then hit next and
+select everything, basically the next
+time I unlock my phone, there's a bunch
+of fog that appears floating across my
+lock screen and then I unlock and it's
+still there and it takes a few seconds
+and then kind of burns away. The the fog
+parts away. It's kind of random, but all
+right. There's also rain, which as you
+can see just rains full screen like that
+weather app in iOS used to do, or maybe
+it still does. Uh, there's also snow,
+which has given me PTSD of this past
+winter, but you can do that. And there's
+even sun, which warms up and glows with
+some moving lens flare across the home
+screen. And this this slider at the
+bottom, you can drag it all the way left
+or right to add more or less of this
+effect. And apparently you could even
+mirror the weather at your current
+location if you wanted to. Anyway, last
+but not least is cinematic. So the first
+time you try this, you actually have to
+download a cinematic model from the
+internet. But once you check that box on
+a wallpaper, it just adds some subtle 3D
+motion to your photo. So on like a more
+abstract wallpaper, it doesn't do much.
+But if you have a picture of a kid, a
+person, or a pet, then it kind of does
+this thing where it tries to separate it
+from the background. You know, like the
+classic freshman year Adobe After
+Effects project where you make a video
+out of a photo. Anyway, I assume AI is
+doing this, but yeah, it's fine. It kind
+of brings it to life a little bit. But
+that brings me to number two, new
+physics. And it kind of sounds cheesy at
+first, but it kind of this is this is
+more in the expressive thing. Like it it
+actually feels like they consciously
+went through Android and tried to make
+sure more things feel like physical
+objects. So, lots of menus that were
+previously flat are now, it seems, more
+intentionally separated. So, you can
+tell that they're all touch targets and
+separate items. The multitasking
+windows, like I mentioned earlier, they
+have a little bit of bounce to them and
+they engage slightly with the windows
+around them, like they have gravity. And
+even in notifications, I think this is
+where it's the most obvious, like when
+you go to swipe to dismiss a
+notification, you can feel that it's
+it's not just removing that one
+notification and sliding it out. you're
+like unsticking it from the
+notifications around it. And the the
+haptics that go along with all of this
+that you feel is a nice bonus, too. So,
+it really feels like you can tell the
+exact point that it breaks the like
+rubber band physics and lets you pull
+the notification out from the rest and
+swipe it away. It's really well done. I
+think it's the best expression of this
+Material 3 style in this whole phone.
+It's completely unnecessary. It doesn't
+add It's not a feature that adds
+functionality. It's just it's just feels
+nice. But anyway, this brings me to my
+number one favorite new thing in this
+Android 16 beta, and I I think it's
+probably everyone's favorite number one
+thing, which is the quick settings. The
+quick settings and notification panel.
+So, I've always been a fan of Android
+over iOS specifically because of these
+quick settings, and this update levels
+it up again. First of all, on the
+surface, you can see when you pull down,
+the background is this glassy
+transparent overlay instead of solid
+like Android 15 was. I kind of love it.
+And then there's a big new brightness
+slider at the top. And then these
+buttons up here are fun. They kind of
+they slightly change shape actually from
+round to more boxy when they're toggled.
+Honestly, not really sure why it does
+that, but it does. And then when you hit
+that edit button, this is where you can
+jump in and go crazy. So any one of
+these toggles can be shrunken down into
+half size and then you can rearrange
+them and move them around however you
+want and do your own thing. So you can
+combine some bigger targets like
+flashlight with some smaller ones that
+you maybe don't use as often. And I'm
+just loving the customization here. And
+it's funny if you ever slip up and do
+anything you regret or move something
+and you don't like it anymore, you can
+just hit that big undo button in the
+corner. Very nice. And I'm dead serious.
+Like this is one of my favorite things
+about Android is the quick settings and
+notifications. And this update is it
+feels like someone really thought a lot
+about it and considered it. Especially
+even like this is a subtle thing, but
+the Bluetooth button here. If you touch
+the larger whole button, it brings up
+the Bluetooth menu. But if you just hit
+the little logo on the side, that's just
+a toggle to turn Bluetooth on and off.
+And once you know that, once you get
+used to it, that's smart. Like that's
+nice. I want I want to have my phone
+dialed in exactly how I want and that's
+convenient. So that is my top five. But
+you know what? As a bonus, since this
+really is a fresh coat of paint, here
+are all the other little interesting
+things that I noticed are overhauled in
+this Android 16 beta. The bottom buttons
+in notifications are bigger. Like the
+clear all button is huge. And then they
+also added a notification history button
+to the left. That's nice. And
+notification settings stays to the
+right. The status bar icons are also
+slightly redesigned, including slipping
+the battery indicator to sideways. So,
+it used to be vertical, but this one is
+a little bigger and they put the numbers
+inside the battery icon and so I think
+it's a little bit more readable. Other
+phones do this already, but now it's in
+stock Android, too. The app drawer is
+technically a slightly transparent
+overlay as well now instead of an opaque
+full screen app drawer. So, interesting
+because we know Apple's going to start
+doing this glassy stuff, too. And then
+the whole settings app is aesthetically
+updated, but also very much reorganized,
+especially inside of each section, which
+is mostly for the better and very much
+appreciated. And then the new volume
+slider matches the new brightness
+slider. So it's the same size as before,
+but it just has this very clear bar now
+at the top where the current volume
+level is. And that's the same throughout
+everything when you jump in that full
+volume pane, which now that I'm thinking
+about it, I feel like, shouldn't this
+also be glassy instead of opaque as
+well? I don't know, maybe in the next
+beta. But yeah, speaking of the next
+beta, I expect there to be more coming.
+This is beta 1. I was excited to get my
+hands on it. It just came out a couple
+days ago, but there are more in the way
+of actual features as well in Android
+16. Things like uh glancible, like
+ongoing notifications. So, very similar
+to what iOS launched for ongoing
+activities. Android is going to have a
+version of that too here. And also a new
+Find Hub, which is very similar to the
+Find My app on the iPhone. It's going to
+combine all your contacts and items that
+you keep track of the location of in one
+single place. But yeah, as of right now,
+I've been totally fine and pretty stable
+testing this beta 1 other than Android
+Auto not working. Uh, but yeah, I'm
+looking forward to more. But this is my
+top five. And make sure you share this
+with other people who want to see the
+top five in Android 16 as well. And get
+subscribed for more stuff coming. Thanks
+for watching. Catch you in the next one.
+Peace.

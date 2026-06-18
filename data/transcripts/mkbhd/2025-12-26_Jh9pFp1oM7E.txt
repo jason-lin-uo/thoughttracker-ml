@@ -1,0 +1,279 @@
+# I shrunk down into an M5 chip
+# https://www.youtube.com/watch?v=Jh9pFp1oM7E
+
+Isn't it crazy how we taught rocks to do
+math? Anyway, every year now, for a few
+years in a row, Apple unveils the latest
+version of their computer chips. M1, M2,
+M3, M4, and now the latest version, M5.
+And every year, there's some slide or
+some graphic with an impossibly big
+number of transistors on one chip on a
+device that you can hold in your hands.
+Like, it's really hard to understand
+what that even means. Now, I'm a numbers
+person, so I really enjoy like those
+scale of the universe type videos. And
+like, how else is the average person
+supposed to appreciate how small we are
+and wrap your head around the billions
+of stars in the galaxy and then the
+billions of galaxies in the universe?
+It's crazy. But what about billions of
+transistors
+in a single device that you can fit in
+your pocket and watch this video on?
+What if you could actually appreciate
+just how densely packed everything has
+to be and how small it has to get to fit
+on a device that just goes in your
+pocket? Well, that would require
+changing the scale in the opposite
+direction. We would have to shrink way
+down. But with a little help, I'm up for
+that challenge. By the way, no
+generative AI is being used to create
+this video. [music] Just a whole lot of
+Blender. So, let's get to it. Every time
+I snap my fingers, I'm going to shrink
+down by a hundred times, which is a
+massive amount. Two orders of magnitude.
+So, here I am, you know, the person, you
+know, I'm 6' 3, so around 2 m tall,
+basically. So, you can picture me
+standing in the room in front of you,
+and the gadgets we use and know every
+day fit into the palm of our hands. But
+what about 100 times smaller?
+All right, here we are. Now I'm the size
+of a a single key on your keyboard. And
+of course, it wouldn't be a good scale
+video without a banana for scale. So,
+got that, too. But at this size, okay,
+like I can walk around on the keyboard
+deck of this MacBook Pro, which is now
+the size of an apartment building, and I
+can already start to see and appreciate
+how complex all these components already
+are. And RAM and storage have been
+ridiculously small for years now. And so
+we've got eight terabytes of it. Uh, and
+the M5 chip should be right over here
+powering the whole thing. Now, this is
+the size of a single transistor in 1948.
+This is pretty insane. Like, we've
+clearly made a lot of progress in the
+last 75 years. You don't need me to tell
+you that. But this already puts it into
+perspective like how far we've come
+since a computer was the size of a room.
+And one more thing I want to at least
+highlight here. Technology only gets
+better because of the people working
+really hard on it. Like without this
+hard work, none of this improvement
+happens. But because we do have all
+these brilliant minds focused on
+computers, we have things like Moore's
+law, which I'm sure you've heard of. It
+says that the number of transistors on a
+microchip roughly doubles every 2 years.
+And that's stayed about true since the
+beginning of the semiconductor industry,
+which means [music]
+we have a long way to go.
+Okay. Wow. Welcome to the scale of
+micrometers. I am now 200 microme tall,
+[music] which makes me about twice as
+tall as this human hair is thick. This
+is already the size of some of the
+tiniest stuff we're able to see using
+our own eyes. But yeah, a typical sheet
+of paper is about 100 micrometers thick.
+Looks pretty tall to me. A glass screen
+protector, too, thicker than a lot of
+people realize. But what's crazy is that
+first transistor I told you about is now
+the height of the tallest building in
+the world compared to me. So, here next
+to me now is a transistor from 1968,
+20 years later. Moore's law says that
+that's enough time for the number of
+transistors per chip to double 10 times,
+[music] which means they've cut the size
+of a transistor in half, 10 times. Now,
+computers in 1968 were still primarily
+used by governments and research labs
+and [music] were still the size of rooms
+and cost hundreds of thousands to
+millions of dollars. This is still pre-
+internet, but they've already come this
+far since the earliest days of
+semiconductors.
+It's wild.
+All right, another 100x shrink. So now
+it's getting ridiculous. I am now 2
+micrometers tall. At this point, I'm
+actually literally invisible to the
+human eye, which kind of feels like a
+superpower. But I'll also need to be
+very careful because a human hair is
+like a cliff the size of a 25story
+building. A single grain of rice at this
+scale would be the size of Mount
+Reineer.
+I could live comfortably inside a single
+groove of a vinyl record and a 1 millm
+droplet of water would feel like a
+massive lake. This this is the scale
+that bacteria live at. It's funny
+because physics also starts to behave
+kind of strangely at this scale. Air
+molecules, for example, are too large
+for these tiny lungs to breathe. And
+even the wavelength of visible light is
+as tall as I am. So my tiny eyes
+wouldn't exactly pick it all up. And the
+world would look kind of blurry and
+wavy. But somehow by the 1980s, humans
+have found a way to consistently
+manufacture functional electronics at
+this size. Just like clockwork, Moore's
+law continues to see dramatic and
+consistent improvements of the
+semiconductors in our computers. So by
+2003,
+the computers that we had, you know,
+they started to resemble the ones we
+have today. Laptops are starting to go
+mainstream. Uh Wi-Fi is a standard.
+Windows XP is the most widely used
+desktop operating system. Good times.
+But if you can believe it, we have to
+shrink down 100x yet again.
+Okay, 20 nanm.
+I am now 20 nanome tall. So an
+individual transistor from a brand new
+2026 M5 MacBook Pro is about the size of
+a garage for me. Now, I'll note that
+this most likely isn't 100% accurate
+because Apple's not going to share their
+exact chip architecture with me making a
+YouTube video. But still, the smallest
+parts of it are still smaller than me.
+And at this scale, you can see
+individual atoms, which are the size of
+marbles. Now, obviously, or maybe not
+obviously, but 3nm transistors this size
+aren't just built like other objects the
+way you might be expecting. There's a
+pretty refined manufacturing process
+called photoiththography.
+Basically, it's like developing a photo
+with light projected through a
+microscope but onto atoms instead of
+film. And that is how you end up with
+billions of these inside a computer that
+you can sit on your lap. Now, to be
+honest, I don't really know how much
+longer Moore's law can apply to
+semiconductors as they get down to the
+literal atomic level, but I sure do want
+to appreciate it while it's happening.
+Speaking of appreciating it, hey, this
+is Epic Spaceman, one of my favorite
+creators and of course a massive help
+with this video. He's been down to this
+scale before in another video and it's a
+pretty crazy view, right?
+&gt;&gt; Hi, Marcus. Yeah, it really is. Even
+when you can stand on them, I still
+struggle to get my head around how many
+transistors there are here, considering
+this is just a tiny cutout section. The
+full chip is 32,000
+times bigger than this.
+So yeah, the best way for my brain to
+really appreciate all of this has been
+to visualize this scale from the tiniest
+3 nanometer transistors we have in
+computers today at the scale of DNA and
+individual atoms all the way to the
+micrometer scale with the computers of
+the 2000s and '9s and 80s. Humanity has
+been so motivated for so many years to
+get this stuff down to such a
+ridiculously small scale that it makes a
+grain of rice look like a massive
+object. And yet it keeps going and going
+all the way back to the earliest
+transistors the size of a deck of cards.
+You know, something else I've realized
+though, even though we've seen now all
+the scale and how tiny things can get,
+sometimes it can still be hard to keep
+all the nanometers and pometers sorted
+and and really comprehend it all. And
+sometimes it's actually easier to make
+things bigger rather than smaller. So,
+let's try this. The world's first
+electronic computer is often credited as
+the Eniac. They finished it in 1946 and
+they had light bulb sized vacuum tubes
+called triodes. And of course, that
+computer was the size of a whole room.
+But if we still made computers like this
+with transistors that big, how big do
+you think the iPhone would need to be to
+fit the 19 billion transistors that it
+has today?
+Think about it. Maybe the size of a city
+block. Or what about the size of the
+entirety of Central Park? Keep in mind,
+you need to fit all these billions of
+transistors. Wouldn't it be crazy if we
+carry around the equivalent technology
+of a phone the size of the city of
+Manhattan?
+Well, the reality is these are [music]
+all still too small. Your phone with the
+technology from 80 years ago would need
+to be the size of the state of New
+Jersey to fit them all. This progression
+of technology has given us a computer
+the size of a [music] US state 270 mi
+long and shrunk it down to fit in our
+pockets.
+I'll even do you one better. Okay. If a
+modern transistor was [music] roughly
+the size of a Toyota Prius, then that
+iPhone that fits them all would be about
+the size of planet Earth. So hopefully
+that gives you an idea of just how
+ridiculously small individual
+transistors have [music] gotten since
+the beginning of computers.
+These numbers are crazy and sometimes
+[music] hard to appreciate when you just
+see them flashed for two seconds on a
+keynote slide. So hopefully this gives
+you a better idea. The crazy part is
+that in the scale of the cosmos, it's
+still almost nothing. Like our Milky Way
+alone, you might know, has over a 100
+billion stars and then there's hundreds
+of billions of galaxies [music] in our
+observable universe.
+So it's all pretty crazy. But if you'd
+be interested in more videos going deep
+on this exact type of incredible scale,
+definitely check out the Epic Spaceman
+channel. His recent videos were 100% of
+the inspiration to make this video. And
+actually, his latest video dives more
+into how these transistors actually
+work, which at this scale is pretty
+incredible on [music] its own. Go
+subscribe over there. You'd be missing
+out if you didn't. Thanks for watching.
+See you in the next one. Peace.

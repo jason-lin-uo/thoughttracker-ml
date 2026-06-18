@@ -1,0 +1,139 @@
+# HD Tutorial: Zoom in Camstudio
+# https://www.youtube.com/watch?v=lX9NdNvq78Y
+
+hey guys hopefully in HD today I'm going
+to be able to show you guys how to get
+the zoom uh effect in cam Studio screen
+recorder so first of all um you're going
+to open the link I've provided in the
+description I'm going to just copy that
+so I can give it back to you now when I
+actually upload the video uh it's the
+workers collection.com and this is
+called the magnifying glass there is a
+pro version if you want to buy it but
+then I'm going to demonstrate how to get
+the free version it's a very very small
+download it's the it's only half a
+megabyte so I'm just going to click on
+it and hit
+open and it's already done downloading
+so I'm going to hit open again and it's
+going to open Windows Explorer where I
+can um extract all these files so first
+of all I'm going to exit out of our
+internet browser since we no longer need
+this what I'm going to do is just hit
+the extract all files button and find a
+place that I want to extract it so I'll
+go into my documents and I made a file
+just for program documents that I'm
+downloading so I hit okay and make sure
+you have this button checked to show
+extracted files when complete hit dra
+button wait for this to finish copying
+just five items less than a megabyte and
+that is done so we have
+this then all the extracted files will
+be in one folder
+hopefully let's go ahead and look for
+that folder right now and
+it should be called set up setup magne
+glass magnifying glass setup so I'm just
+going to double click on setup and U
+pops up which is obviously invisible cam
+Studio but um if you have that disabled
+it won't come up so this will install it
+onto your computer we're going to go
+through the typical setup process hit
+next a ton of times and it is done so
+I'm going to launch the application when
+this is actually done hit the Finish
+button and this is the magnifying glass
+um application so basically what we're
+going to do is say we're going to run it
+at Windows startup and we're going to
+show glass after the application startup
+and I'm going to obviously it's only
+available in English and Russian which
+is interesting but I'm speaking English
+and my hotkey is going to
+be control shift F3 just just actually
+no it's going to be control shift
+Q um
+so it says if you're a hotkey
+combination resetting when you enter
+such a hotkey combination um well that's
+basically un important what I'm going to
+say is those two go to basic options I'm
+going to say full visible transparency
+for this is for Windows 2000 or XP so it
+won't really matter if you're in Vista
+and zoom Factor I'll go ahead and say
+two and a half um then we're going to we
+can set the size of the actual Zoom um
+I'm just going to mess around with this
+here it's not going to be a big
+difference
+um so that's what I'm going to use and
+advanced options we can choose it to be
+in contrast mode negative I'm sure
+you've seen in all those picture effects
+and also fixed gam and broken TV also
+use quite a bit of CPU so I'm going to
+just say no and offset from cursor we
+don't want any offset from cursor I'm
+going to lower that actually I'm going
+to leave it at the default just to see
+what it's like
+um it's pretty
+good next what we want to do uh this is
+a pro version so we really don't need to
+look into that because we haven't
+actually paid for the pro version so
+that is all the options that we can set
+so our hot key is control shift Q now
+anytime we want I'm going to just go
+ahead and open any random my documents
+folder here control shift q and there
+you see it it's a little bit offset for
+my cursor which I might not actually
+like and so I'm going to change I'm
+going to change a few
+things I'm going to exit out and down
+here in my system tray it's magnifier so
+I'm going to go to options again to
+bring up this menu at any time um I
+wanted to erase any offset from my
+cursor so it is directly on top of my
+cursor and I'm going
+to decrease the zoom factor a little bit
+and make it more wide screen so let's
+see 360 by 240 I'm going to go I'm
+recording right now in 360 by no I'm
+recording in 640 by
+360 so I'm going to go ahead and make it
+a
+100 100 by 200 just for the sake of
+showing you guys so now when I open
+something up uh let's see open
+calculator and I want to show you what
+button exactly I am pressing there you
+go you see exactly what it is and in the
+window so um that's just a quick way to
+get zoom in cam Studio you may have
+already seen my tutorial about how to
+use the your mouse to get a much larger
+version of although that does make the
+screen blink if you just turn completely
+white turn completely black mess with
+your microphone but then you can see
+quite vividly what exactly I'm clicking
+on or the again the built-in magnifying
+glass
+feature um into Windows Vista so um yeah
+that's another way that you can
+customize your magnifier in Windows in
+Camp studio so I hope you like this
+tutorial thanks for watching And
+subscribe peace

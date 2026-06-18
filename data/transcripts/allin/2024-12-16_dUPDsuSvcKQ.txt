@@ -1,0 +1,282 @@
+# What happened to Apple!? Here's why iOS 18.2 is BROKEN!
+# https://www.youtube.com/watch?v=dUPDsuSvcKQ
+
+my iPhone does not work I'm sorry I'm
+just going to say it okay I don't know
+what happened in you upgraded your
+software is what happened you're on iOS
+18 it doesn't I after three years I
+upgraded to the newest phone I upgraded
+to the newest OS the phone doesn't work
+meaning like to call people I can't call
+my wife anymore I can't call my kids
+anymore the phone bricks constantly my
+photos app doesn't work it is just
+really bad and I think for a company of
+this scale I don't understand how it
+does not go through a more complicated
+test harness that catches all of this
+I'm not trying to complain but because I
+know it's hard for them and I know it's
+complicated and but it's really bad
+you're not the only person people are
+freaking out about the infras changes on
+photos crashing is a major thing and
+apple intelligence just doesn't work so
+it does seem Keith that Apple has gotten
+off their game of making Polish stuff to
+race to try and I guess catch up to
+their perception of you know AI being a
+disruptive Force at the interface level
+I.E your phone or desktop what what are
+your thoughts on uh this new story about
+them doing more chips they've obviously
+had great success with the processors
+and phones and now the M4 incredible if
+you haven't tried the Mac Mini best
+computer for the dollar in the world
+right now but what are your thoughts on
+Apple so the most important thing about
+Apple is to remember it's vertically
+integrated and vertically integrated
+companies when you construct them
+properly have a competitive advantage
+that really cannot be assaulted for a
+decade 20 30 40 50 years and so chips
+classic illustration go all the way down
+to the metal in build a chip that's
+perfect for your desired interface your
+desired use cases your desired UI and
+nobody's G to be able to compete with
+you and if you have the resources that
+you know because you need balance sheet
+resources to go the chip Direction um it
+just gives you another five to 10 year
+sort of competitive advantage and so I
+love vertically integrated companies uh
+you know I posted a pin tweet I think
+it's still my pin tweet about vertically
+integrate is the solution to the best
+possible companies uh but it's very
+difficult you need different teams with
+different skill sets and you need
+probably more money truthly more Capital
+but Apple's just going to keep going
+down the vertical integration software
+Hardware you know all day long and
+there's nobody else who does hardware
+and software together in the planet
+which is kind of shocking in some ways
+is there a worldclass company a company
+that's world class that's both software
+and Hardware other
+than yeah maybe
+Invidia well may not really could they
+do a world class UI you know maybe maybe
+there's a foundation you have to have a
+different Vision maybe a different team
+not clear Tesla's close I guess I'd say
+the
+software's good if you Define software
+as it touches a
+consumer Tesla Apple in some ways
+Google maybe meta with the meta
+glasses trying trying attempting you
+can't see Nvidia because I think Nvidia
+touches the consumer through an app that
+then sits on top of Cuda which I think
+is that's a brilliant strategy for them
+but it's be apple then Tesla and then a
+long tail of people right any point app
+has a lot of competitive advantages that
+they you know been actually leveraging
+for about 15 years now and even back
+then Steve there's some old great Steve
+videos I I'll see if I can find you a
+clip where he talks about this very
+intentionally from the 1990s you know he
+came back to Apple he said we're doing
+vertical integration basically using
+those words of software and hardware and
+there going to be nobody else that can
+compete with us I think it's in an
+interview he did in it's published in uh
+in the company of giants I believe and
+he's perfect on point he just followed
+that strategy for you know the next 25
+years now you're seeing some of the
+manifestations though of a competitive
+strategy that gives you incredible
+advantages is you get very sloppy in
+other places especially over time
+because you have such great competitive
+modes that you don't have to compete at
+The Cutting Edge of this like the photos
+app is completely unusable I'm the
+biggest apple Fanboy in the world like I
+I I remember interviewing once with a
+job for Tim Cook and I walked in and I
+said he's like why you know why are you
+interested and I said well you know I
+own every skew of every product you've
+ever produced except I don't have every
+color of each you know iPod and he was
+like blown away and but now like my
+photos app is completely unusable so I
+totally understand you know off the
+frustration and they they're showing
+like the Decay function you know
+culturally and otherwise that eventually
+somebody will figure out an angle to rip
+them out yeah I'll tell you we talked
+about dictators at the beginning of this
+shth and obviously this is your real
+house as a dictator yourself is you know
+there has to be a constant fear that
+some a-hole is going to come to your
+office and be like what did you do to
+the photos app and that fear does not
+exist inside of Apple it's not like the
+mobile me you ever hear the mobile me
+story
+where he brought the mobile me team in
+he said how is mobile me supposed to
+work they said well it's supposed to
+back up everything you buy your new
+phone you get everything you never have
+to worry about losing a f slammed his
+hand down and said well why the F
+doesn't work that way fired the person
+brought the next person and and said now
+make it the way he said it's supposed to
+be game over I don't think Tim Cook's
+doing that Johnny IV's not there and
+obviously Steve Jobs not there to
+terrorize people well I don't think you
+look you don't need to necessarily
+terrorize people but I do think you have
+to go through uat so I think it's pretty
+reasonable when you have a large
+footprint of consumers using an app to
+go through user acceptance testing is
+like first base and typically what
+happens is you can do a process of a few
+months where several hundred thousand
+people get it all over the world and as
+long as you do an okay job of getting a
+decent distribution of people this would
+have come out but I want to just talk
+about what Keith said as well it's
+literally not just photos it's like the
+phone doesn't
+work so there are just core structural
+issues with this operating system now
+that makes the Iphone
+maybe 10 10 to 30% less usable and
+that's really frustrating the command
+center you know when you pull up your
+little Command Center to change the
+brightness and the your airpods it's
+just like what are they doing here I
+mean by the way so do you need a chip do
+you need a machine learning chip to do
+inference to figure out that when you
+constantly run your phone at a certain
+level of brightness you should just
+allow the phone to be at a certain level
+of brightness stop changing the damn
+brightness why does it re like I mean
+this is not this is not complicated
+software engineering guys no but this is
+my point there's no Arbiter of taste
+anymore who is the back stop who say no
+yeah J let me let me pause double click
+on that for a second so I think taste is
+great if you have it but there's only so
+many people on the planet that are going
+to have you know Cutting Edge taste and
+be right if you don't have taste what
+most tech companies do is they use data
+right data is something that's
+approachable and leverageable because
+Apple has like this the an I using data
+to measure success with a user
+experience to measure whatever
+success if you subtract taste even by a
+bit you don't have the scaffolding that
+every other company would use and so you
+see the worst of Both Worlds that's a
+great take that's a great good take Ian
+just go off the rails right you go off
+the rails so Keith do you think that you
+think that what happened is like when
+Steve Jobs isn't there and Johnny IV
+isn't there there's still a bunch of
+folks that probably think they have
+taste but the real taste folks left and
+there's really no scaffolding left to
+the scaffolding you had at Facebook meta
+obviously or that Google uses would
+catch some of the stuff without a doubt
+like no doubt about it you know that
+users are less thrilled and they use
+things less and you'd fix it and maybe
+even you take that too t extreme you
+never develop taste like I could argue
+that about Google or meta they don't
+really have taste but like yeah you
+could AR You could argue the paradigms
+but fundamentally if you don't have that
+back stop if the taste sub tracks even
+10% not all the way down you're just not
+going to catch this Stu and I think
+there's only like how many people in the
+world really have Cutting Edge
+technology user experience taste I don't
+know too many I would fun them right
+awayes might have it it's an incredible
+point because
+I if I'm being really
+insecure I would want to say oh yeah no
+we had a lot of taste at Facebook back
+in the day but actually we had so much
+scaffolding around data probably because
+intuitively we knew that that was way
+more reliable for us it's more
+predictable scale it's certainly more
+right like take Steve out you don't need
+a dictator but you do need a taste and
+taste is Artistic the same thing Venture
+like you know like scaling Venture funds
+is really really challenging because
+early stage investing is more like taste
+than data driven and later stage you can
+use data and scale it and Scaffolding so
+I think there's just Fields it's a
+little bit also you see like the sports
+teams they just happened at Stanford
+when Jim Harbaugh
+left it took years for the Decay
+function for like the next coaching
+regime to show they were completely
+incompetent like the next year they're
+pretty good next year they lost one more
+game they should have next year they
+lost two more games they should up blah
+blah and then eventually they became
+like horrible and you know there's a
+Decay function with an organization when
+you take out the person who is the
+original thinker or the leader or the
+dictator whatever and so I think some of
+this is showing up now and then you know
+playing on a field that's not favorable
+to them which is there are advantages
+Apple has in AI but there's some
+significant organization
+structural disadvantages and that's the
+field that people are going to be
+competing on for the next five years
+from a consumer perspective and they're
+playing on a field where they don't have
+all the advantages in their favor yeah

@@ -1,0 +1,133 @@
+# Tesla P100D App v3.0 Review!
+# https://www.youtube.com/watch?v=xcSOGYqQ_kY
+
+[Applause]
+[Music]
+Hey, what is up guys? MKBHD here and
+this is Apollo and this is going to be a
+video about the brand new Tesla mobile
+app. So, I talked about it in one of the
+previous videos that we'd be expecting a
+major overhaul to the app pretty soon
+and we finally got it. Fun fact, it was
+actually going to be one of the
+questions I answered in the Q&amp;A video,
+but I scrapped it. But that was
+yesterday when I was recording that and
+we didn't really have the app yet. It
+was just kind of leaked a little bit. We
+had some screenshots. Now, a couple of
+hours later, the app is live and it's
+beautiful. So, both iOS and Android got
+this refresh at pretty much the exact
+same time, which is pretty rare as far
+as apps go. But, uh, yeah, we'll go
+ahead and open it. First thing you'll
+notice right away is the icon is new.
+It's no longer that ski 3D look. It's a
+lot flatter now. The splash screen is a
+lot flatter. And then immediately we get
+a representation of the car at the top.
+Like everything about the car is
+accurate. The lights, whether they're on
+or off, the wheels. I do have the winter
+wheels on now, but when I put the
+summers back on when it gets warm, it'll
+be pretty accurate. And the paint color,
+you can see the door is open. So, let's
+go ahead and close the door of the car.
+And it closes in the app, too. And then
+everything else in the app, all the
+controls you have are exactly the same.
+In fact, there's pretty much no
+functionality added. It still does all
+the same stuff to the car with the car.
+It's basically just a fresh coat of
+paint. So, at the top you have the car's
+name and its status, how many miles are
+left on the battery. And then you have
+three little quick controls here. One to
+turn on the fan for the climate control.
+And then the car will immediately start
+heating up or cooling down. Two for
+keyless start if you don't have the fob
+with you. And then three to unlock the
+car. And that'll go ahead and unlock the
+the handles. You can see it pops out
+right there. And then below that are a
+bunch of the more detailed controls that
+used to be separated out into the tabs
+at the bottom. So for the climate
+control, if you turn that on Oh, hey
+Sam. You'll immediately be able to
+change the temperature inside the car to
+whatever temperature you want.
+Obviously, it's 66 now. So, going up to
+73 requires heat. And you can see the
+little animation
+turn red. Now, again, there's no new
+functionality. So, it's not like you get
+like the seat heating now. You don't get
+a steering wheel heating now or at the
+defrosting. None of that is added. And I
+feel like maybe there's some new plugs
+in the API in this new app that will let
+that be added in the future, but as of
+right now, it's still all the same
+functions as the last one, just a little
+faster. So, in the controls here, you
+get all the same things that you had in
+the last app. So, you can vent the roof
+again, lock or unlock the car, flash the
+headlights if you want, honk the horn.
+It's really loud. And then you can start
+up the car right there. And you can put
+it in valet mode from the app. Charging
+is pretty simple. It just tells you what
+your charging status is. If you're
+charging, it'll update you on how fast
+you're going. And you can open the
+charge port if you want and set charging
+limit. And of course, the summon feature
+still does all the same things it did
+before. connects to your vehicle and
+lets you have it pull up out of a
+driveway, out of a tight space, into a
+tight space, whatever you want it to do.
+The car will start moving when it
+detects it has the room. So, uh,
+obviously there's no one in the car, but
+as you can see, it's doing its thing.
+I'm just going to have to trust that it
+Yeah, it sees me. Cool. Wait, hold up.
+Wait a second.
+Good job. So, that's really pretty much
+it. It's a fresh coat of paint. You get
+all the information about the car. It's
+all accurate. It's much cleaner now. But
+again, there's no new functionality. It
+does all the exact same things that you
+saw in the first video. So, if you're
+curious about what it does and what it
+looks like in action, that video is
+still accurate. The one thing they did
+add, which is new on both Android and
+iOS, is fingerprint recognition. So, you
+now have Touch ID on that's reflective.
+Touch ID on iPhones and just fingerprint
+recognition on my Android phone.
+Everything else is the same. The
+referral code is the same. Your vehicle
+information is the same. It's just uh
+much better looking. Oh, and for those
+wondering, the car itself has been
+awesome in these last couple weeks. You
+remember the last video I did about the
+Tesla was because it was having issues.
+This is to update you on the fact that
+it's been perfect since then. So, great
+on that, too. Anyway, that's pretty much
+it. Thanks for watching this quick
+video. Hope you enjoyed and uh talk to
+you guys in the next one. Peace.
+[Music]

@@ -1,0 +1,222 @@
+# sDIi95CqTiM
+# https://www.youtube.com/watch?v=sDIi95CqTiM
+
+[Music]
+okay so I was listening to the wired
+podcast this morning and they said
+something that really nailed the way I
+think about a lot of emerging
+Technologies especially AI what they
+said was WWDC which we just had from
+Apple basically proved that AI is a
+feature not a
+product and this hit so hard for me
+because that's a that's the exact
+question that we've been asking
+ourselves for so long here about new
+stuff is it a feature or a product so
+I'll give you an example do you remember
+Clubhouse we've talked about this before
+but Clubhouse back in the 2020s like the
+pandemic era it was this meteoric rise
+to success there was this platform that
+was just live audio stage events that
+would disappear after they were over and
+that's kind of all it was it was super
+simple but with everybody sitting at
+home it blew up in popularity it Skyrock
+to the top of the App Store everyone
+starts using it it had major interviews
+happen on it major new weekly shows were
+created on it there were huge famous
+people participating in clubhouses
+regularly but fast forward literally one
+year maybe two and suddenly Spotify had
+built this feature into their app uh
+Discord had built the feature into their
+app they built stages uh slack had built
+it into their app even Twitter had built
+it into their app they've got spaces now
+and so suddenly it was just a feature
+inside of these larger apps so the
+question became is Clubhouse this huge
+thing that came out of nowhere is this a
+product or is it just a feature and it
+turned out the success of all the
+features and all the other apps I built
+it in meant that Clubhouse would just
+die like and a lot of the other ones
+eventually ended up dying I think we
+still have Twitter spaces but generally
+it just became a feature and there are
+actually many examples of these which is
+why the product versus feature question
+still keeps coming up over and over
+again so now the newest question is AI a
+product or a feature because we got to
+see what it looked like as a standalone
+product like we just had in 2024 we had
+the Humane AI pin which was a dedicated
+piece of Hardware specifically for
+engaging with an AI we got the rabbit R1
+another device that promised to be like
+this physical embodiment of an assistant
+you have everywhere now both these
+devices were bad and they didn't work
+very well but let's say they did let's
+say they actually worked well and we're
+fine that would be AI as a product and
+you could even consider like going to
+the chat GPT website and using it there
+as AI as a product but then fast forward
+now to just a few months later and we
+just had Apple's WWDC and we also just
+had Google IO and very different
+approach like look what happened with
+apple just like clockwork they went
+through and systematically added all
+these AI features sprinkled throughout a
+bunch of its operating systems so for
+example in inside of any app with the
+ability to write text you now have these
+writing tools that pop up that are
+powered by these new language models
+that can help you summarize or proofread
+or change the tone or style of your
+writing and then there's also a new Siri
+you know powered by these language
+models again so it can hold
+conversations better and understand
+context better and use a semantic index
+to parse info about various files and
+things on your device and bring them
+into series understanding you can
+literally generate images as a feature
+on your device you can generate emojis
+the list goes on but the point is it's
+clearly a very different way of thinking
+about AI for the consumer where it's
+just one of the features built into the
+thing that you use now I realized this
+isn't a Perfect Analogy I think probably
+the biggest flaw being that you know
+when they integrated these features like
+when slack when when Twitter built
+spaces when they built these features
+they didn't integrate Clubhouse into
+those bigger websites they actually just
+took the IDE idea of what Clubhouse is
+which is just a live audio event on
+stage and they built it themselves into
+their own apps so Clubhouse was left to
+die but in this specific case with apple
+it's actually a combination of two
+things it's a them building a bunch of
+their own models to do a lot of these
+things on device but then also them
+literally building a chat GPT rapper
+into a lot of their OS so chat gbt
+actually gets more users this way so I
+thought this was fun to think about now
+now there is no answer yet as far as is
+AI actually a feature or a product which
+one will win which one will lose we
+don't know but I think if history is any
+indication I do think that more people
+in the long run are going to end up
+using this AI stuff as a feature more
+than going to like a standalone thing
+like I was looking back for other
+examples of this and I honestly found it
+really hard to find any examples of the
+other way around happening where the
+individual product becomes far more
+successful than the same idea being
+baked as a feature into something larger
+like I think Tik Tok is maybe the best
+example of this opposite version where
+Tik Tok is it's it's a vertical video
+Carousel with an algorithm that learns
+really quickly what video you want to
+see next right that's what Tik Tok is
+like we've seen Instagram reals develop
+that exact same thing now it's a huge
+feature for them same thing with YouTube
+shorts we've got all of YouTube but
+inside of YouTube is this vertically
+scrolling Carousel with an algorithm but
+I still think today we would say Tik Tok
+is the most popular version of that idea
+so the Standalone version is winning
+currently over it being built in as a
+feature and maybe Snapchat is another
+one kind of like Snapchat stories was
+one of the biggest features in Snapchat
+and then that kind of got ripped into
+being a feature everywhere else like
+everyone has stories but Snapchat by
+itself is doing well but anyway the
+question is do you have to get all the
+way to the level of snap Snapchat or Tik
+Tok in order to be successful as a
+standalone product to defeat the fact
+that your thing could just become a
+feature somewhere but yeah that is now
+the question with AI it just struck me
+as such a difference in approach between
+the product and the feature version of
+it and uh it also struck me that yeah it
+feels like rabbit and Humane were kind
+of doomed from the start because there's
+no way they would also develop all the
+other benefits of the big things those
+being smartphones but also one more
+quick thing I wanted to highlight that I
+don't think got as much attention as it
+maybe deserved which is all of these
+models that we've been talking about
+with WWDC all the models Under the
+Umbrella of Apple intelligence the
+diffusion model the image generation
+model the language models are all built
+by Apple like there was a whole moment
+on Twitter with a lot of confusion over
+just how integrated chat GPT is into iOS
+I think it's actually not really that
+integrated at all so Apple had to go
+through the work of obviously making all
+these models but also training them all
+and so we've asked Apple about this
+they've had to go through finding
+publicly available data and Licensing
+and doing that whole dance and spending
+the millions and millions of dollars
+required to make these models work so
+that is a really higher barrier to entry
+but it's only the once in a while that
+the request is complex enough or deals
+with enough real world data which isn't
+in Apple's training that it actually
+asks okay can I go out to chat GPT and
+it asks every single time which feels
+about as integrated as it gets but
+generally I think this is going to be
+something that's really hard for other
+companies for any new companies to pull
+off this might be the last big set of
+models we get to see so unless you're
+Apple or Google or Microsoft or open AI
+or any of the other massive ones that
+are safe because they'll get integrated
+now you probably don't have much of a
+shot but either way this been really
+interesting to think about AI is it a
+product or a feature can it be both or
+does it have to be one or the other and
+one wins and the other loses let me know
+what you think in the comment section
+below we'll hang out there either way
+thanks for watching thanks for
+subscribing and I'll catch you guys in
+the next one peace
+[Music]

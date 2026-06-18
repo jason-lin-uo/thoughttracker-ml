@@ -1,0 +1,486 @@
+# WWDC 2022 Impressions: M2 Macs and iOS 16?!
+# https://www.youtube.com/watch?v=4U2ZxO7b8iM
+
+I have this theory that the the new like
+animation that plays when you hit like
+on a YouTube video on mobile is just
+there to increase engagement it's the
+exact same thing as when you like a post
+with # WWDC now Apple has to pay for the
+hashtag but same idea anyway yo what's
+up MKBHD here so Apple's WWDC was today
+it's their developer conference so we
+know there's going to be a ton of
+software announcements and there was but
+of course we were expecting a little bit
+of an extra surprise on top maybe some
+hardware and we got that too so there's
+a lot to talk about today let's just
+jump right into it Philip def Franco so
+the biggest update is what's coming to
+iOS 16 this will be coming out
+eventually as an update to your iPhone
+and launching on the next iPhone when
+that comes out in the fall and there's a
+lot of new features here so the biggest
+one easily is the new overhaul to the
+lock screen on our phones so forever
+just for the longest time our lock
+screens on our iPhones have been the
+same thing it's the time at the top and
+then just a long list of notifications
+and then whatever your wallpaper was
+behind all that fine in iOS 16 the lock
+screen is way more I think the word is
+personalized which is actually not
+typical of what we see from Apple but
+this is a really nice update here so you
+can mess with not just the fonts and
+colors of your clock which is cool but
+it'll even play with your wallpaper a
+little bit so if you have a portrait
+mode photo or something with depth in
+your wallpaper that can look really cool
+but most importantly two things one
+notification s now will roll in from the
+bottom of the display it's the opposite
+of Android right now and that's much
+better for actually seeing your
+wallpaper and it's much more reachable
+if say apple is getting ready to sell a
+bunch of really big iPhones but then
+also two widgets on the lock screen that
+that is some real personality on a lock
+screen it's a welcome feature of course
+not only that you also be able to save
+multiple different lock screens with
+different wallpapers different clocks
+and different combinations of widgets
+and save those lock screens so then you
+can switch between those at any time
+it's like swapping watch faces on your
+watch but then you can also tie a lock
+screen to a focus mode so if you have
+your sleep Focus mode and you have your
+sleep home screen you now also have a
+sleep lock screen with your sleep
+widgets and your sleep clock and you can
+have your work lock screen and your do
+not disturb lock screen all those things
+will be synced when you change your
+focus mode they'll all have different
+wallpapers different clocks different
+widgets whatever you want that is
+personality that that is really nice
+music controls are also at the bottom
+now too instead of being this massive
+huge thing right under your clock in the
+middle oh and there's now live updating
+notifications too so you know how some
+apps will send you just a bunch of
+notifications as things update or as
+things change uh maybe a live score
+update for example since you want at the
+first quarter and at halftime well now
+there's a new feature called what is it
+called uh live activities but it's
+exactly what it sounds like now one
+notification can continually update with
+the latest information instead of having
+a bunch of notifications from that one
+app that is nice and I know a bunch of
+apps that could use that update so the
+lock screen is a big new thing in iOS 16
+but then there's also a bunch of little
+features sprinkled within the rest of
+the os2 one of them in messages is you
+can now edit iMessage messages so that
+is going to be hilarious uh I kind of
+want to try to see if there's any sort
+of indicator next to the message that's
+been edited I'll play around with this
+in the beta I would say definitely get
+subscribed see the videos on these new
+softwares when I actually get to play
+with them and dive into them deep and
+make my feature reviews but yes you will
+be able to edit iMessages and you'll
+also be able to undo send and you can
+also Mark a thread as unread and yes I
+am a little bit salty that you can edit
+an iMessage before you can edit tweets
+assuming that doesn't happen by Fall
+there's also a couple new shareplay
+experiences to easily discover things
+you can watch together with someone and
+they dramatically improved on device
+dictation so you can move back and forth
+between voice and touch as you're typing
+something this feature looks really cool
+it actually looks very similar to what
+Google just did with the last version of
+the pixel which made the pixel the best
+voice to text phone on the planet and
+really changed the way I use it so I'm
+looking forward to seeing if this is as
+good as that uh but that's a welcome
+feature but then there's a couple other
+highlights do you remember a live text
+where you take a picture of a sign or
+any anything with text in it and you can
+always just highlight the text in that
+photo straight away well they're
+bringing that to videos so any video you
+take with text in it you'll be able to
+pause and live select and if that works
+well that's going to be I think
+incredible I mean I feel like that's
+lowkey unreal for students like you just
+record your whiteboard after a lecture
+and it just makes your notes more useful
+but then they took it another step
+further and they also showed a demo of
+touching and holding a subject of a
+photo and it lifts the subject into an
+object that you can copy and paste like
+text that that is that's amazing
+obviously it's pretty Next Level it kind
+of just takes all the work out of like
+tracing something out and making it like
+a Discord sticker or something we would
+have used in the past so that again I
+want to try it but that seems amazing
+and Apple Maps adds multi-op routing
+Apple news adds more live sports
+coverage they also overhaul the home app
+in a way that I would very much like
+Google to copy uh with their home app
+with the organization and filter toggles
+at the top and live camera views this is
+a really nice upgrade but then that's
+pretty much it for iOS again it's not
+you know some huge visual overhaul
+that's not what's happening with iOS
+updates anymore even though it did
+happen with Android but lots of you know
+neat features stacked on top of each
+other boom iOS update can we talk about
+carplay for a second so they had this
+statement on stage that apparently 79%
+of new car buyers would only consider a
+new car if it has carplay in it which I
+don't even know if that's accurate that
+seems a little high but I think the
+point that they're trying to make that I
+agree with is that most incar
+infotainment systems suck they've been
+bad for a long time and so just having
+Apple carplay in your car made the
+infotainment system much better and much
+more usable that's what people wanted
+and that was the old carplay today we
+got a sneak peek at the next generation
+of carplay coming out later this year
+which not only revamps the UI a bit but
+basically is now able to just take over
+a new car's entire software experience
+on every screen lots of new cars have
+screens instead of TS so the screen
+behind the steering wheel a screen to
+the side of the steering wheel and
+carplay will literally just be able to
+take them all over and be consistent
+across everything so this this is pretty
+sick I've always used carplay when I
+have the opportunity on a car that has
+it two things come to mind
+one why would anyone ever use the
+built-in infotainment system in a car if
+you have car play just doing everything
+and it seems like there's no motivation
+Now for car manufacturers to get really
+good at making that software it's just
+not going to be as good as carplay I
+don't know maybe that's a pessimistic
+view but two hey apple have you ever
+considered making the rest of the car I
+this is probably a totally new idea
+you've never heard before but you know
+you've made a bunch of the pieces of the
+software and using the car maybe the
+rest maybe like an
+electric it's probably never mind so
+okay when watch OS came up on the screen
+at the keynote as the next software
+they're going to talk about the first
+thing I thought was group challenges
+please let us do group fitness
+challenges if they don't do it now are
+they ever going to let us do it please
+add that feature so they added some
+other more granular information for
+tracking certain activities so now
+instead of just doing a running workout
+with just distance and elevation like
+they always do this will keep track of
+not just heart rate but heart rate zones
+and let you set up interval training if
+you want to do that type of stuff which
+I do that's super useful to me uh
+Triathlon workouts will now
+automatically be able to detect when
+you've switched from swimming to biking
+and to running so you don't have to do
+it for you for yourself cool but there's
+also some more information that will be
+tracked with sleep so it'll track your
+sleep stages so I do wear the watch to
+sleep and it does give me a very basic
+overview of what's happening but now
+it'll tell you all the same stuff
+basically Samsung's app has been telling
+me which is if you're in REM sleep or
+core sleep or light sleep or deep sleep
+cool but yeah no group challenges it
+never came up they talked about Fitness
+all the time and you can actually close
+your rings with just an iPhone now and
+no watch so they do want people closing
+their rings and feeling motivated by the
+Rings but yeah no uh no group challenges
+there's got to be a reason they haven't
+added it yet right but then we got to
+our first bit of hardware at WWDC which
+is the second generation of Apple
+silicon in the Mac the M2 Chip it is
+officially unveiled and we get to hear
+all about it now we knew the Apple
+silicon transition because they told us
+would take about 2 years right so the
+only computer that hasn't transitioned
+from Intel stuff to Apple silicon is the
+Mac Pro that'll probably happen sometime
+in the next few months we didn't get a
+teaser of it or anything but that's the
+last one but this M2 is basically just a
+second generation of the Baseline bottom
+end of the Apple silicon lineup so M1
+Pro and M1 Ultra are still higher end
+chips than this but M2 is replacing M1
+and it's interesting this is the first
+time they're going to be able to compare
+a new Mac chip TOs El to something that
+they've done in the past so it'll be
+interesting to see what type of
+performance gains to expect and there's
+some decent numbers so it's a new
+generation still 5 net chip with 20
+billion transistors which is 25% more
+than M1 the unified memory bandwidth is
+now 100 GB per second which is 50% more
+than M1 it supports up to 24 gigs of
+unified memory which again is 50% more
+than M1 and CPU performance is generally
+about 20% higher while GPU performance
+is about 35% higher and the media engine
+gets a huge upgrade as well so while
+this is the lowest end chip in the
+lineup this is absolutely going to get
+some claimed performance improvements
+over the M1 I could do a whole separate
+video on the graphs and the performance
+stuff I might actually do that uh
+obviously that's down the road but you
+do need a new machine to put these new
+chips in and so we got that too actually
+we literally got two but the one that
+most people are going to care about is
+the new Macbook Air it's a new redesign
+it comes in four colors now and it's got
+a brand new refreshed look it's not a
+wedge shape anymore it's absolutely more
+flat and it's looking much more similar
+in Aesthetics to the other new Macbook
+Pros it's still extremely thin 11.3 mm
+thick and 2.7 lb and overall 20% less
+internal volume than the last MacBook
+Air uh but it gets a new mag Safe Port
+for charging on the left along with two
+Thunderbolt ports and on the right
+there's a high impedance audio jack the
+keyboard now has a full-size function
+row at the top with a touch ID button
+along with a new Quad speaker setup and
+new microphones but the biggest change
+is actually the display It's a larger
+13.6 in screen in almost the same
+footprint as the last MacBook Air it
+gets brighter now up to 500 nits
+matching the M1 MacBook Pro but you can
+see it has a new Notch the aesthetic
+apple is slowly getting us used to with
+their new laptop form factor which
+includes a new 1080p webcam this is a
+large overall I think quite nice set of
+updates for the world's most popular
+laptop the new chip and all the new
+designs and things surrounding it um but
+definitely get subscribed I'm going to
+be making a full entire video on my more
+dedicated detailed thoughts and breaking
+down this new laptop and all the changes
+and what I think people will like about
+it and what I like about it including
+why I think the new midnight color might
+not actually be the best color to pick
+um but overall really good laptop maybe
+a little bit on the other end of the
+spectrum is the new M2 MacBook Pro also
+unveiled and I say that because that is
+basically the same exact machine as the
+M1 MacBook Pro but just with an M2 Chip
+inside it now that's it same exact thing
+and that's not a bad thing that's
+obviously already a very good laptop
+that I liked a lot but it just feel like
+it didn't get the same amount of love as
+the other new Macbook Pros so that was
+interesting to see so the new M2 MacBook
+Air starts at $1.99 so theice price does
+go up but they are keeping the M1
+MacBook Air around which is a couple
+years old but they're keeping it at that
+$9.99 price so you can still get in to a
+MacBook Air at $9.99 and then the new M2
+MacBook Pro is $12.99 I'll get more into
+this in the other video but I feel like
+there's not a whole lot of people that I
+would recommend the M2 MacBook Pro to
+you're giving up mag safe you're giving
+up the new display you're giving up the
+new speakers the new webcam the new fast
+charging all to just have slightly
+better sustained performance which you
+know you probably should end up getting
+a 14-in M1 pro at that point but again
+I'll get more into that in the other
+video but of course we were all
+wondering what the name of the software
+would be that they would run on these
+new Macs they do this whole big reveal
+for the software name every year and so
+the new version of Mac OS for 2022 Mac
+OS Ventura so they walked us through it
+Ventura again is not so much an
+aesthetic change as much as it's a bunch
+of useful features put together in one
+place you know a couple of the stock
+apps get better the mail app has better
+search features finally uh FaceTime
+handoff between devices is super dope
+you know get home you're on a FaceTime
+on your phone you want to switch to the
+computer one button shows up and it's a
+click away that's awesome but probably
+the most interesting feature that I'm
+definitely going to want to try is
+called continuity camera and as you can
+probably understand by the name that is
+literally just using the cameras on the
+back of the iPhone as your webcam so
+there's this optional Belin made mag
+safe Mount coming out later at some
+point this year and I'm sure tons of
+other companies are working on some
+version of this also but basically when
+it's enabled and your phone is stable
+your Mac will just see all the cameras
+on the back of your iPhone as webcam
+options basically admitting that yeah
+webcams usually suck so here's an
+actually good camera but the craziest
+part this is actually probably the one
+feature that actually really surprised
+me and blew me away on stage so it's
+facing you it's the webcam right it's
+got the ultrawide here as well it will
+see that ultrawide camera and because
+it's so wide and it's facing down in
+front of you it can actually take the
+edge of that frame to see what's in
+front of you cut it out flip it over
+stretch it and do some processing to
+give you a straight up top down view of
+what's on your desk it's called desk
+View and damn that is cool I want to try
+to see exactly how it's creating that
+angle like I really want to try this and
+see how close to the computer I can get
+with the phone that it'll actually see
+the keyboard board and everything in
+front of me but that is some impressive
+and clever processing happening right
+there well played Apple well played the
+Mac also got this feature called stage
+manager I found it kind of odd on the
+Mac but I think it'll make a little bit
+more sense in a second basically it's
+this side dock looking thing for your
+active windows and it keeps the app or
+apps that you're working on front and
+center so on stage it's basically acting
+like another set of window management
+tools um I'm personally probably going
+to stick with spaces the way I use that
+on the Mac already but this feature is
+also coming to iPad OS 16 so the iPad
+gets this so there were a lot of rumors
+you know people talking about the iPad
+is it finally going to get this overhaul
+to be more of a computer you know WWDC
+that would be the time to do it and this
+is kind of along those lines so the M1
+iPads will now let you extend your
+display onto an external display instead
+of mirroring and then stage manager acts
+as a sort of window management system so
+for the first time on an iPad you can
+have overlapping windows and move them
+around like this and actually resize
+them and you can also pair things up
+move them off to the side and have a
+total of up to eight active windows open
+four on the iPad and four more on the
+external display all in the foreground
+that is definitely something to keep an
+eye on I I like the way the iPad sort of
+slowly evolves towards being a more
+capable computer it is frustratingly
+slow but I think that's something I'm
+gonna be giving a shot I'm G to dive
+into the betas get to know the features
+and actually tell you guys if they're
+worth knowing about and using or not but
+yeah that's about it for new software
+stuff that's iPad OS and that's that's
+dubdub oh wait one more thing sorry I
+almost forgot the iPad finally gets a
+weather
+app finally they did it they decided it
+was good enough you I don't know if I
+don't know if a calculator is happening
+anytime soon but Bravo weather so get
+subscribed to see the videos that I'm
+talking that are also upcoming also
+check out the link below I did a master
+class it's just been a long time coming
+that I actually am able to say that out
+loud um so if you want to you can sign
+up that window for signing up for it and
+everyone taking the class at once is now
+open super cool and you also get a link
+a discount if you sign up at the link
+below so that's also below that's all I
+got to say for this video stay tuned
+catch you guys in the next one peace
+[Music]

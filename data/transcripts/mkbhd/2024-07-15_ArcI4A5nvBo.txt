@@ -1,0 +1,368 @@
+# iOS 18 Hands-On: Top 5 Features!
+# https://www.youtube.com/watch?v=ArcI4A5nvBo
+
+all right it's mid 2024 so you know what
+that means another new version of iOS
+coming to an iPhone near you so I've
+been testing the newest version of iOS
+18 on my iPhone for the past couple
+weeks now it's been in beta and now that
+the public beta is out you two can test
+it on an iPhone before it comes out for
+everyone in September but there is some
+interesting stuff in this version now
+last year I remember talking about how
+almost every single one of those new
+features was super
+ecosystem based like they depend on
+having a friend with an iPhone or having
+some other Apple device in your life but
+it's kind of the opposite with these
+they're all just basically new features
+to the iPhone anyway so You' love to see
+that now for this video the one thing
+I'm leaving out is Apple intelligence
+stuff that's like an entire separate
+bucket of stuff that to be honest hasn't
+really been available for me to test in
+the pre-release betas so I'm going to
+make a separate video just about that
+stuff as soon as it's actually testable
+so be sure to get subscribed to see that
+when I actually drop that video but this
+video is a top five of everything else
+all right number five the new control
+center so I have this at number five
+because while there is a good amount of
+new stuff here I don't know if I like
+all of the new changes but let me know
+what you think so when you pull down
+from the corner the new control center
+is first of all a little bit more
+colorful and it's paginated it's three
+pages now I'll honestly probably never
+really use the second two pages but they
+are a full page page visualizer for
+whatever media is playing and then a
+list of all these OneTouch toggles for
+your basic connectivity but actually
+turns out this full page list is really
+just an expanded version of what you
+already had on the first page so you can
+get there with a couple more Taps but
+okay so on that first page if you hit
+the plus button in the corner it shows a
+grid and then you can play with the size
+and placement of anything that has a tab
+in that bottom corner so they all kind
+of have these predefined sizes that they
+morph between so you can mess around
+here with you know basically designing
+your perfect layout for your control
+screen you can add new controls and
+there's a whole massive list of them
+that search through here and surface
+things that you do often and right now
+these are basically all Apple app
+controls what I'm more interested in
+though is I mean these are all controls
+like I said not widgets so they're for
+controlling things very directly like
+turning on Wi-Fi or turning up the
+brightness and so Apple has said that
+third party apps are going to be able to
+build in controls as well so there's
+none here now but I very much look
+forward to to like a OneTouch turning on
+the AC in the car or OneTouch opening up
+the barcode scanner in my calorie
+tracker app or something like that so
+just having more controls surfaced in
+here that's going to be pretty sweet
+we've also noticed this new flashlight
+control which when you click it allows
+you to control both the intensity and
+the beam width of the torch for some
+reason uh the intensity part definitely
+works the beam width I don't know if I'm
+as convinced on that one but I guess
+it's still really cool cool UI oh also
+there's a new button up here to turn off
+your phone kind of like Android added a
+while ago in the settings but also you
+can now finally change the controls on
+your lock screen now from the default
+which have been the flashlight and the
+camera for forever you can hold down
+customize lock screen and get in there
+and go to town again I hope there's
+third party ones that end up here but
+there's already a ton of options I'm
+excited to set mine to my to-do list app
+someday but that brings us to number
+four the number four best new iOS 18
+feature and that's the passwords app you
+know every once in a while there's just
+a new update that installs a new app on
+everyone's phones and just drops it on
+your home screens so this is one of them
+but essentially what this is is just
+breaking out all of the password tools
+that were previously buried in the
+settings on the phone and making it an
+app so your iPhone's been saving your
+passwords for a while now saving Wi-Fi
+passcodes remembering all this stuff
+this app is just a super simple way of
+finding it all in one place searching
+through that stuff and making sense of
+it plus it also supports some new
+features so there's two Factor
+authentication and pass keys and then
+there's a couple extra things on top
+that may be good enough to get you to
+switch from whatever password manager
+app you're using on your iPhone to
+Apple's passwords app so at the bottom
+left you can create shared passwords and
+pass Keys within a group of trusted
+contacts works with other people with
+iPhones anyway and then when you're
+signing up for some new account
+somewhere it'll do the same thing it
+always does it offers a super secure
+password and then offers to remember it
+for you but what I found interesting is
+it doesn't really have like a master
+password it just just seems on the
+iPhone to default to face ID so if
+you've got face ID on your iPhone It'll
+ask for that to log in no master
+password really the main reason I'm not
+going to be using this app is because I
+stole daily an Android phone and of
+course they did not make an Android
+version of this passwords app they did
+make a Mac app and they also did make a
+Chrome extension which is interesting
+but yeah no Android app and I still log
+into a bunch of stuff on Android so it's
+not for me but number three is going to
+have to be the new home screen
+customization some of you might have
+expected this to be higher like number
+one or number two but I have my reasons
+and maybe let me know if you agree with
+them so the day has finally come there
+is new customization stuff available to
+iPhone home screens kind of I mean
+there's some good stuff and also some
+weird stuff I'll start with the stuff I
+like here's the easy part iPhone users
+can now put their icons anywhere on
+their home screens that they
+want welcome to 2024 iPhone users who's
+got it better than you now everything
+still snaps to the grid of course but
+now you can actually put icons on the
+right side or the bottom of your home
+screen where they'll actually be
+reachable and they won't have to snap
+back up to the top how cool is that
+first they give you widgets now they
+give you this it's unbelievable stuff
+but now okay if you want to customize
+even further you hold down on anywhere
+on the home screen and there's a little
+edit button at the top you hit that and
+then you hit customize and then this is
+it this is the entire home screen
+customization menu now for the iPhone so
+you can go dark mode which tints your
+wallpaper a little darker and then sets
+your icons that have a dark mode version
+to dark mode or you could set light mode
+which is the opposite it sets your icons
+to light and it ttin your wallpaper
+light and then automatic but there's
+also this large button here which just
+makes all of your icons larger but then
+also removes the text honestly kind of
+clean not going to lie but then there's
+this tinted button which feels kind of
+cursed so this is already kind of a
+weird looking icon when you click it it
+lets you tint the color of all the icons
+on your home screen to a single matching
+color which sounds kind of cool in
+theory to match your wallpaper and
+actually there's even a Color Picker to
+drop exactly the same color that you're
+using from your wallpaper as your tint
+color but there's just something about
+this tint that I can't quite get right
+like I haven't gotten any combination to
+really look that good at all now there's
+been some updates on this since the
+first beta uh still doesn't look look
+great like it looks better than before
+but here's what I think is going on here
+there are certain apps that are like
+pretty simple and high contrast icons
+that look fine like some of them are
+Apple apps some of them are third party
+apps and then especially Apple widgets
+like look at this weather widget that
+looks great that looks really solid with
+this nice accent color because it keeps
+everything really readable but then
+there are also some third party app
+icons and widgets that just look
+completely illegible like they may need
+to be updated to support this tinting
+thing in a more contrasty way so it's
+the mixing of these two that look weird
+like even on my home screen look at
+carrot like the weather app or superlist
+they look worse than the rest of the
+icons on my home screen I think the
+standard that they're aiming for is like
+a dark gray background with a tinted
+glyph in the middle instead of the whole
+thing being tinted so it is what it is I
+will also say Google has also tried this
+with material u in Android and it also
+kind of went weird in its own different
+unique way basically it would set all
+the icons to a monochrome version but if
+an app didn't support it it just didn't
+change so a lot of people had a mix of
+monochrome icons and colorful icons
+which also doesn't look good at all so I
+guess the tinting method could be
+considered a workaround I'm sure people
+will play with this more icons will
+continue to get updates I'm sure someday
+maybe it'll look great for some people
+but I haven't seen that yet but all
+right number two for me is the little
+things again there are a bunch of tiny
+little things and small features that
+individually are not huge but they'll
+kind of feel like they add up to a bunch
+of useful things in the end a lot of
+them didn't even make the keynote but
+like game mode for example they talked
+about this we know that when you have a
+game open it gives it CPU priority and
+minimizes Bluetooth latency for any
+wireless headphones or controllers
+that's the really simple thing but it's
+nice the photos app also got a redesign
+but I also am more impressed with the
+smart search inside of photos it works
+much better so if I search for something
+like license plate for example not only
+does it recognize and find all the
+photos in your gallery with license
+plates but it also gives you these
+suggestions to narrow it down to find
+the exact one that you're looking for
+and it actually works I've also noticed
+they added a bunch of shortcuts to
+Shazam everywhere including an action
+button preset as one of the new defaults
+in the settings app this wasn't here
+before I thought that was interesting
+and then I Googled it and apparently
+Apple bought Shazam not that long ago
+which I totally forgot about so there
+you have more of that and RCS support
+does appear to finally be live on the
+iPhone in 20 2024 it's going great now
+as I predicted it is still a green
+bubble but you can now finally text
+between any modern Android phone and an
+iPhone and actually get high quality
+media I sent myself a 3 megabyte image
+file from the iPhone and I got a full
+quality 3 megabyte image on Android and
+there's also now typing indicators and
+read receipts now reactions seem to be
+working well so it's not fully
+integrated into a blue bubble iMessage
+like maybe some people were hoping but
+Apple can now say that they finally did
+it and now that person from that one
+interview doesn't have to buy his mom an
+iPhone but then number one the number
+one best new feature in iOS 18 bro it's
+a calculator it's actually the
+calculator now you might have thought
+this was just an iPad thing cuz we we
+all saw this get demoed at the keynote
+in iPad OS 18 but it actually is on the
+iPhone as well so as a default you open
+up the calculator app it just looks like
+a basic calculator this looks very
+familiar but at the bottom left there's
+this little toggle where you can switch
+to a scientific calculator okay pretty
+classic or you can switch to this new
+thing called math notes and now it
+basically looks like a Notes app so you
+can create a new note and literally just
+start handwriting math notes literally
+you can write an equation and if you
+happen to write that equal sign it can
+automatically solve that equation for
+you and keep it updated as you continue
+writing or typing it's pretty simp
+there are also all kinds of other things
+it can do from variables to graphs it's
+basically doing everything I was asking
+wolf from alpha to do lately but a kind
+of underrated part of this is how it it
+feels very well considered and it's also
+syncing across devices just like as a
+bunch of notes so your calculator just
+kind of gained a notes section so if you
+add a bunch of stuff to notes on your
+iPhone the iPad with the calculator has
+all the same notes and you can edit them
+on the other device and if you happen to
+redefine a variable lower down in the
+same note then it actually knows then
+from that point on to treat that
+variable as the new value you gave it
+but keeps the old value for everything
+above it it's it's very well
+impressively thought out now obviously
+this stuff is going to be easier with a
+bigger screen and with a apple pencil
+but man I was doing all this stuff in
+school with a paper notebook and a TI 84
+so at the risk of sounding kind of old I
+totally wish I had something like this
+when I was in school it's very
+impressive it's doing so so many things
+it's recognizing my handwriting it's
+obviously answering the equations I'm
+asking of it but it's also writing the
+answers in my own handwriting and then
+it's straightening everything up and
+it's making everything searchable and
+indexable through not just that math
+notes app in all the devices but across
+my whole phone so it's pretty sick I'm
+impressed by this more than anything
+else I've seen in iOS 18 so that's why
+it's my number one feature in iOS 18 but
+there's your whole top five but like I
+said get subscribed to see a deep dive
+into Apple intelligence cuz this is the
+thing that kind of permeates the entire
+iPhone and Apple's whole ecosystem so
+that video is coming up soon and that's
+been it for this thanks for watching
+catch you in the next one peace

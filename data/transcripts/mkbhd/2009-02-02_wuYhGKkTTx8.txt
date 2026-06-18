@@ -1,0 +1,176 @@
+# HD Tutorial: Make Internet Explorer Faster
+# https://www.youtube.com/watch?v=wuYhGKkTTx8
+
+hey guys today i'm going to show you how
+to make internet explorer
+faster
+first of all let me show you how fast
+well about how fast um i have my
+internet explorer running at right now
+it's not the fastest web browser ever
+let's try
+real quick youtube.com
+see how long this takes
+as you can see it's not speed by any
+means
+so let's exit out of this i want to take
+you through
+the steps to make internet explorer
+faster
+first we're going to go to the start
+menu
+in xp this will work well if you're one
+running windows xp you're gonna hit run
+if you're not if you're on vista just
+type
+regedit
+as in your registrator
+hit continue
+and it'll bring up ridgid and i'm going
+to give you this whole list of
+instructions on how to do this
+um in the description so just check down
+there also watch this in hd it's much
+easier to see these values
+so we're going to go to h key current
+user expand it
+we're going to go to
+uh software
+so let's find
+software expand that
+and we go to microsoft
+yeah there we go expand that
+and go to
+current
+convert oh no wait hold on microsoft and
+windows
+so let's look for
+w windows expand windows
+then go to current version expand it
+and last but not least internet settings
+and don't expand this click on the
+folder
+so what we're going to do
+is
+if you don't have it already well first
+of all i'll show you what happens if you
+do have it
+go and find the name
+max connections
+one underscore zero server
+double click this to modify it
+i'm going to set mine to
+99.
+if you only want incremental
+improvements 10
+20 etc if you set it to 100 or above
+things have been known to go wrong so
+i'm going to set mine to 99
+okay
+and then i'm going to go to max
+connections per
+server set mine
+to 99
+also this should be a decimal value
+this should be a decimal value
+99
+and this should be decimal value
+99 all right
+that is the first step to making
+internet explorer faster
+if you don't already have these values
+in your reg edit all you need to do is
+right click and hit new and d word
+32-bit value you're going to name the
+new value exactly what you see here mass
+per one underscore zero server
+and set it as a decimal value 99 then
+you go to and name another one max
+connections per server and make it a
+decimal value 99
+i'm going to delete this one because i
+already have them
+and that is the registry editing portion
+of how to make internet explorer faster
+secondly
+you can do
+this um you can open up internet
+explorer
+oh crap
+i should have saved that uh go open up
+internet explorer again
+and we're going to go to tools
+and delete browsing history
+doing this every week or so will
+definitely help speed up internet
+explorer
+there we go it's deleting browsing
+history
+but if you haven't already done so you
+should download ccleaner which makes
+this whole process a whole lot easier
+run the c cleaner
+deletes all your temporary internet
+files
+next what you want to do
+what you want to do here is go to tools
+internet options
+and here it will say browsing history go
+to settings
+and we're going to say
+um
+days to keep pages in history and you
+can see that excuse the flashing
+days to keep pages in history
+i'm going to select that
+hit zero
+and press ok
+and that will prevent us from ever
+having to refresh again
+so i'm going to exit an internet
+explorer and pull it up one last time
+and see
+if it's any faster i already had a lot
+of these settings applied already
+so
+it's not going to show a huge difference
+but you can tell already it started
+buffering the page earlier um the last
+time
+actually that was my computer as well
+if you haven't hit that subscribe button
+already do so
+do so
+um so that is how i make an internet
+explorer 7 faster
+if
+um if you do not have internet explorer
+7 i highly suggest upgrading if you have
+ie 6 or anything lower
+to find out what version you have
+um
+i forgot how to find out what version
+you have but make sure you have internet
+explorer seven
+so
+that is how you increase your speed of
+internet explorer seven in windows xp
+and windows vista if
+if you have
+if you're still using internet explorer
+i'll have to tell you now it's not the
+fastest web browser let me just say
+safari by comparison
+and
+enter here
+so that's that's how much faster it is
+so i'll just
+you know
+give me that and um i'll make a video i
+think i already have on how to make
+safari faster
+so um
+yeah i hope you enjoyed this video and
+enjoy your new internet speed the
+instructions i will try to make in the
+description box so subscribe peace out

@@ -1,0 +1,271 @@
+# Top 5 Google I/O 2016 Recap!
+# https://www.youtube.com/watch?v=mGojonPKBkY
+
+[Music]
+hey what is up guys MKBHD here and today
+we have the best five announcements from
+today's google.io 2016 keynote and it
+was a pretty quiet keynote as far as
+like new physical product announcements
+go but there was a lot of cool stuff
+also shown off so we got planning to
+talk about number five is Android n
+improvements so the Android n beta
+dropped to today not the developer
+preview now we're on to the beta I have
+it installed on my Nexus 6p and in
+theory you can drop this on your main
+device and not have to worry about any
+stability anymore and uh so far so good
+so there's some performance improvements
+with the Vulcan API and a new compiler
+there's some security improvements as
+well and a couple of new features most
+of the stuff here we actually already
+saw with the developer preview when that
+first came out and I did a whole video
+about the developer preview already so
+I'll leave a link below the like button
+if you want to check out all that's new
+with Android but now we have a clear all
+apps button in the top of the
+multitasking tray a bit of an improved
+multi- window support and it'll also
+smartly remove apps from the
+multitasking Carousel that you haven't
+used in a while there is still no new
+name uh but they did open a website
+where you can now submit a suggestion
+for the name of the OS uh I feel like
+they're just teasing us at this point
+I'm pretty sure they already have a name
+in mind and they're just going to wait
+till someone submits that name so they
+can say that they're taking our
+suggestion or maybe they're just messing
+with us there's also Android Wear 2.0
+it's not shockingly different but it is
+much faster and it'll also let you add
+complications from any app on any watch
+face so your watch faces can be super
+custom now and it will also run
+completely independently of your phone
+which is awesome number four is the
+Google assistant so it's sort of like a
+nextg enhancement to what we already
+know as Google now so Google Now already
+does a ton of stuff it already has all
+these cards and gives you all this
+information before you even ask for it
+but it's also a really good voice search
+assistant essentially Google has been
+working with with machine learning and
+making this voice search part a lot
+better so you can already go okay Google
+who is the head coach of the Los Angeles
+Clippers Doc Rivers is the head coach of
+Los Angeles Clippers and then you can
+say Okay Google how tall is
+he he is 6' 4 in tall so it kind of uses
+the context of the previous question to
+know we're still talking about Doc
+Rivers it's kind of conversational and
+you're supposed to be able to use Google
+Voice search as if you're just talking
+to another person in the room with you
+you kind of already know what you're
+talking about and you just flow the
+conversation that's the idea is they're
+trying to make this new Google Assistant
+even more conversational the assistant
+is built into an actual new physical
+product we saw today called Google home
+so it'll come out next year it's this
+little white cone that you put in the
+corner of the room and essentially it's
+a wireless speaker with all the voice
+recognition technology from Google so
+you can ask it to play music or cast to
+your TV via chomecast or you can just
+answer questions from you know what's in
+your calendar what's in your email or
+just Google anything that you would look
+up with Google now it just kind of
+becomes this Hub of all the electronics
+in your home or at least in that room so
+it controls your thermostat can control
+your lights you know whatever you want
+to hook up to it it'll work some people
+have mixed feelings about you know a
+little white box in the corner of the
+room that seems to know everything about
+you and talk to you and answer your
+questions kind of seems to me like the
+future though I kind of like the idea
+kind of sort of reminds me of the
+computer from Star Trek number three is
+the two new Google messaging apps Alo or
+l l hello and Duo and these are going to
+use the new Google assistant and all the
+machine learning so L is the text
+messaging app it has a bunch of new
+features it has something called whisper
+shout so amus type yay and throws a
+smiley face in there now watch rather
+than tapping the send button he slides
+it down to whisper and slides it up
+again to shout so that's pretty much
+like Facebook Messenger but something
+really cool that it does do is called
+smart replies essentially it'll start to
+predict what you might want to reply to
+someone's answer based on what was sent
+to you whether it's a question or a
+picture by analyzing that question or
+looking at that picture and then
+producing a list of a couple of canned
+replies that you might want to send back
+so that seemed really cool and they gave
+a couple of examples on stage might have
+been a little cringeworthy I don't know
+if you see a picture of a piece of food
+and then you say nice food you know it's
+just kind of looking at it and putting
+the name of what it saw in your reply
+message but it's still really smart and
+shows a lot of what Google's been
+learning I'm just picturing an entire
+conversation of just smart replies going
+back and forth smart reply smart reply
+smart reply while you never actually say
+anything to each other it's the future
+you can also have a thread with the
+Google bot so you can actually ask it
+the same sort of questions you would
+actually ask Google now and get
+suggestions and answers stuff Duo is the
+video chatting app it's just video
+chatting so it's encrypted from end to
+end it's based on your phone number like
+FaceTime and it has this feature called
+knock knock which is essentially it lets
+you see the camera of the person who's
+trying to video call you live before you
+even pick up so they can kind of like
+look into your phone and tease you into
+picking up the video call or something
+like that it seems really cool at first
+like a fun cute idea but then also
+perhaps a little bit creepy you could
+see how that might go wrong like during
+an important business meeting getting
+like a weird call and someone like
+trying to get you to pick up so I
+imagine there's probably a way to turn
+this off anyway those are the two new
+messaging apps you can get on your phone
+this summer alongside the messaging app
+you already have on your phone and
+alongside Hangouts which will also
+continue to exist separately so I guess
+my only question is why couldn't they
+all be bundled into one app maybe they
+could have I guess they kind of forgot
+about that whole unifying messaging
+experience thing they were working on a
+while ago oh well number two is Daydream
+so this is virtual reality in Android so
+you already know virtual reality it's
+already on Facebook video and YouTube
+videos 360° stuff uh Google Street View
+stuff like that essentially starting
+with Android n you will now have all the
+ing ingredients for VR built into the
+core of Android there are some Android
+phones that could do VR before but they
+were built into apps or built into the
+third party skin like Samsung skin to
+fit in that headset that they did that
+wasn't built into Android that was built
+into the skin Android n it'll be built
+into the OS and there's going to be a
+certain spec that you need to meet
+starting next year in order to be
+considered a Daydream ready phone so
+that'll include you know certain grade
+sensors certain s soc's to keep
+performance high and to keep latency to
+a minimum I imagine certain resolution
+display you want a good enough
+resolution screen and these Daydream
+ready phones will work with their
+reference Hardware so Google is this
+fall coming out with their own VR
+headset that you can put Android phones
+in and its own remote control and they
+did give us a little bit of a demo of
+that and that's pretty much it it looked
+really cool uh obviously the VR game is
+evolving fast that's pretty much all we
+know at this point but it is a lot of
+exciting stuff and number one last but
+not least is instant apps I think this
+was my favorite thing of all of Google
+IO it kind of came as a surprise but
+it's the ability to open apps that you
+don't even have installed on your phone
+instantly B&amp;H photo and video has a
+beautiful Android app but I don't have
+it on my phone because I don't shop for
+cameras every day now if I'm searching
+for something specific like a camera bag
+I can still get that same
+experience with one tap the app opens up
+right to the bag I want to buy
+technically this is a deep link to the
+Android activity B&amp;H wrote to display
+this product page and that's all all
+Google Play needed to download I can
+also swipe here and see more details
+about the bag now when I add it to my
+cart the animation there it was pretty
+slick and at checkout time Android pay
+works just like if I had the app
+installed I don't have to pull out my
+credit card or type in my name and
+address with Android instant apps I'm
+already signed in and I'm ready to pay
+so that's pretty awesome that's kind of
+like I said it's legit it's building
+just the parts of the app that you need
+in front of you downloading just the
+parts that it needs to show what you
+want to do on the app and then as soon
+as you're gone you're gone it's like you
+never had to install the app in the
+first place it's kind of like taking the
+mobile web to the next level I feel like
+this could be awesome there's already
+plenty of sites that have a website and
+an app but the app is way better so you
+just wish everyone could use the app but
+not everyone wants to go to the Play
+Store and download something and then
+install it and then start to use it if
+you can just use the web app experience
+to a high quality every single time
+that's just basically what this does in
+apps I love it so there you have it
+that's pretty much everything you need
+to know from the Google IO 2016 keynote
+feel free to share this video for anyone
+who you feel might find this information
+useful major takeaways from this I would
+say are one VR is everywhere uh
+messaging apps are kind of also
+everywhere uh machine learning is
+incredible and Google is kind of
+basically Skynet at this point in like
+the best possible way thanks for
+watching and I'll talk to to you guys in
+the next one peace

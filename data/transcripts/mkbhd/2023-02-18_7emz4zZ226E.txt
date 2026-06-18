@@ -1,0 +1,345 @@
+# The Biggest Problem with AI!
+# https://www.youtube.com/watch?v=7emz4zZ226E
+
+whoever made the Tweet asking it how
+many LTT backpacks would fit in a the
+trunk of a Tesla or whatever the
+question was oh I didn't see that
+someone made that tweet on the LTT
+handle oh that's really funny and it did
+it
+it looked up the dimensions of the LTD
+backpack it looked up the dimensions of
+the trunk and it figured it out how the
+[&nbsp;__&nbsp;] did it do that ask it dude let's do
+it live because I thought the dimensions
+for the backpack are in picture form
+searching searching for that now it's
+searching backpack Dimensions shut up
+look at this shapes and dimensions based
+on some rough estimates I will try to
+answer it's insane
+that's actually nuts based on some
+videos of the model y trunk shut up it
+can fit about five to seven standard
+Karen suitcases which have similar
+dimensions and capacity holy which is
+accurate that statement is real
+that's
+crazy look at this
+how did this happen how did Bing no
+offense Microsoft but how did Bing just
+beat Google to the punch so dramatically
+at something that's so important and so
+core to their business
+well that's actually a really good
+reason for it so AI has been blowing up
+lately both in the news and in real life
+applications across a ton of Industries
+so you know years ago it was only in
+relatively small things like helping
+doctors detect cancer early using
+Advanced pattern recognition and then a
+little bit more over the years with
+things like autonomous vehicles but now
+ai is everywhere it's it's creating
+whole original pieces of art it's
+holding conversations with humans all
+over the place it's it seems like we've
+just arrived at the beginning of the AI
+age there's this chart that keeps
+popping up that hits extra hard which is
+the time to reach 100 million users and
+you can see the faster and faster
+adoption curves with these increasingly
+disruptive new technologies so the
+telephone took 75 years to hit this
+Milestone 100 million number then the
+mobile phone reached the same Mark in
+just 16 years Netflix took only 10 years
+and Twitter took six and Gmail only took
+five Facebook in 48-ish months was
+absolutely massive Instagram hit it in
+just 30 months now Tick Tock we view as
+this gigantic existential threat nine
+months to 100 million users Chachi PT
+two months I mean looking at numbers
+like that like I buy it like it seems
+almost obvious that we're clearly on the
+precipice of something really really big
+that's going to change everything so
+seeing Microsoft at the Forefront of it
+with this new Bing
+shouldn't really be a surprise I mean
+like people already like talking to
+these chat Bots and asking it all sorts
+of questions so it sort of feels natural
+having this chatbot act as your co-pilot
+for the web alongside search instead of
+just a traditional search engine full of
+links like that sounds pretty sick but
+there is one thing that's going to
+follow this conversational AI thing
+everywhere it goes everywhere you see it
+which is that sometimes
+it's just wrong
+sometimes it just says things that
+aren't true because fundamentally the AI
+doesn't know if it's telling the truth
+or not it doesn't understand that like
+that's not part of the model like what
+we're seeing is it taking our inputs and
+then creating outputs based on related
+words that are most likely to go
+together it's not forming a sentence
+like humans do it's generating a new
+sentence and so adding it to a search
+engine like Bing it's scraping all these
+relevant links and information and
+synthesizing new sentences just based on
+how it thinks things should be pieced
+together it's not sentient it doesn't
+understand what it's saying and so it's
+definitely not fact checking itself so
+we have to keep that in the back of our
+mind through all of this right every
+time you see a headline so it's really
+interesting with these search engines
+right because on one hand you have Bing
+who has everything to gain and then on
+the other hand you have Google who has
+everything to lose I've had access to
+this new Bing for a little bit it's a
+limited preview before they push it live
+to the rest of the world
+I'm just been playing around with it
+basically it adds this chat experience
+alongside regular Bing it's essentially
+the same experience as talking to chat
+GPT but instead of being limited to a
+fixed data set that cuts off at 2021
+it'll pull from the entire current web
+that Bing can scrape from so like I said
+you can type in a question flip it over
+to chat and it'll give you a sort of
+nicely written summary that's
+synthesized based on what it finds for
+similar queries so if I ask it something
+kind of simple like what's the average
+lifespan of a cheetah in the wild it
+gives me an answer right gives me a
+convincing bunch of sentences it
+actually gives me more information that
+I asked for it tells me about cheetahs
+in captivity too which makes it you know
+feel very convincing it also gives
+little footnotes and citations for some
+of its sources and it gives Links at the
+end if you want to dig in some more it's
+really impressive actually it looks good
+to me this is like a real product that's
+going to ship to all over the world like
+people everywhere in the next month or
+two I think they said but this this
+could only come from Bing right now like
+the the more you use it the natural
+language is super super impressive the
+fact that it gives me a convincing
+sounding couple of sentences in a row
+and strings it together based on my
+input super cool but the more you use it
+the more you start to see these these
+weird patterns and these habits and
+these shortcomings again mostly in the
+fact that
+sometimes it's just going to be wrong a
+little game I like to play is ask it a
+question you already know the answer to
+and then read what it says and spot the
+error so I asked it right now okay what
+are the best smartphone cameras right
+now and it gave me s23 Ultra pixel 7 Pro
+and iPhone 14 pro Max with this nice
+little write-up with some specs for each
+that's actually a pretty good list but
+it is wrong about some of these numbers
+here the s23 ultra has a 200 megapixel
+camera and a 12 megapixel front-facing
+camera but yeah okay it's mostly right I
+then asked it what are the five best
+electric vehicles out right now and it
+gives me some five reasonable options
+but I don't know I don't know any expert
+that would put the Jaguar i-pace on
+their list right now and leave the
+rivian off like basically the answers
+that it gives are really convincing to
+someone who doesn't know anything
+already about that subject but if you
+are already an expert in the subject
+that you ask it about then you'll find
+that the answers are like C plus maybe B
+plus sometimes at best so now you see
+what's happening like now suddenly when
+you're asking chat GPT or Bing about
+like a factual thing or something you
+need help with suddenly you also should
+probably add these layers on top like am
+I a complete noob in this topic that I'm
+asking about am I just willing to
+blindly trust whatever this spits out
+without any further research is a B plus
+answer gonna be good enough for me even
+if it might have some possible errors in
+it
+you know that might be good enough for
+just asking like you know how old a
+cheetah gets or something like that but
+maybe not good enough for planning a
+trip or meal planning for someone with
+an allergy or something like that and
+then if you look around the internet
+people have gotten it to give
+increasingly more and more unhinged
+answers over time as it tries to
+simulate conversations and stay in the
+flow with natural language I've seen
+anywhere from arguing about simple
+corrections to spewing weird stories
+about how it's spied on its own
+developers or how it wants to be
+sentient to gaslighting people about
+things and lying about his previous
+answers and just saying some straight up
+scary stuff just go to the Bing
+subreddit for like an all-you-can-eat
+helping of all the insane stuff that
+Bing has said to just the people testing
+it over the past couple weeks can you
+imagine can you imagine if Google did
+this if if Google search at the top of
+search for people was just spewing out
+random stories and misinformation and
+like all kinds of insane unhinged things
+that would not fly now to be fair this
+version of Bing isn't out yet to the
+public right so it is still a small
+group testing phase but even with this
+like Microsoft knew that some of it is
+gonna get out there and potentially go
+viral it feels like they even basically
+programmed in lots of friendly emojis to
+try to soften the blow so when it knows
+it's giving an answer to maybe a more
+controversial topic or something that it
+doesn't have a super clear answer for
+you might get a little smiley face at
+the end just so you don't you know take
+it too seriously also literally as of
+today when I'm testing this it started
+completely bailing on a lot of topics
+that might just be the slightest bit
+existential or dangerous it just says I
+prefer not to continue this conversation
+and then it just stops it just refuses
+to answer any more questions on that
+topic until you reset it which seems
+like a pretty good Fail-Safe it's a
+pretty good idea in hindsight but like
+we've already seen the other stuff it's
+gotten out there the damage has been
+done like the point still stands this
+could have only come from Bing like a
+lot of people
+might have forgotten about this or might
+not have even known about this but
+Google has been working on
+conversational AI stuff for years we've
+seen Google Assistant but they also
+literally showed an AI chat bot demo on
+stage at Google I O in 2021 where you
+could have this whole conversation with
+any person or object or anything in the
+universe that you wanted their demo on
+stage was asking Pluto about itself nice
+and friendly right oh what's it like to
+be you Pluto what would it feel like if
+I visited you how do you feel so far
+from the Sun the difference with Google
+is this was never shipped as a product
+like this was an internal research
+project but the idea of displacing their
+massive search and ads business with the
+chat bot that gets things wrong all the
+time is insane it's just it's not it
+can't happen right so literally
+searching ads is more than half of
+Google's revenue as a company
+that's what having everything to lose
+looks like now to be fair Google did
+hold an event in Paris the day after
+Microsoft's event which was them talking
+a little more about their chat with
+search AI plans and they did say they're
+planning on eventually doing a chat bot
+on top of Google search It's called Bard
+it was much more subdued though and yes
+it also literally did have a factual
+mistake in the promo for it so look I
+actually like the idea I obviously think
+it's smart when you're on the precipice
+of this huge AI thing to have ai kind of
+be this like co-pilot for the web to
+like help you around the internet the
+idea of it summarizing a longer piece
+into some bullet points accurately is
+that would be great like the fact that
+it could give you spark notes for a
+longer book you haven't read yet cool it
+could even help you meal plan help you
+plan a trip help you make a purchase
+decision but it's it's clear that we're
+still at the beginning of this like
+there are there are so many unanswered
+questions from obviously the fact
+checking to like do school tools Embrace
+this or ban this or like do search how
+do search engines keep sending traffic
+to the Publishers who are the sources
+that the chatbot is scraping from I mean
+you get The Links at the bottom but a
+lot of people are not going to click
+those anymore if you just give them the
+answer above the search results so right
+now in its current stage my take is
+anything we do with any of these AI
+tools should be a collaboration with the
+human touch like you wouldn't you
+wouldn't just put in a query in Dolly
+and then just take whatever it generates
+and put in a frame and just call that
+art right it's more for inspiration for
+your own paint and canvas like you
+wouldn't ask Chad gbt to write an essay
+and then just copy and paste it and
+submit it as your own it's supposed to
+be the inspiration for the framework for
+your own piece for the own for the human
+touch so of course you shouldn't ask the
+Bing chat bot what TV you should buy and
+then just like mindlessly click and buy
+the first one that comes up I mean it
+could be fine but it could also be a c
+plus answer you should use that as a
+springboard for your own more informed
+research especially on topics that you
+don't already know much about
+like maybe don't just buy 19 backpacks
+immediately when asking if it can fit in
+the back of a Tesla maybe check its work
+first
+thanks for watching
+catch you in the next one
+peace
+foreign
+[Music]

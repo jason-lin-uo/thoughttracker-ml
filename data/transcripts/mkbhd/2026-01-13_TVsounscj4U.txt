@@ -1,0 +1,235 @@
+# The New Siri is... Google (Explained)
+# https://www.youtube.com/watch?v=TVsounscj4U
+
+So, the headline is that the big Siri
+update we've all been waiting for is
+finally going to be coming in 2026, and
+it will be powered by Google. Now, we
+knew this was coming. This was a rumor
+for a while. We've talked about it in
+the past. Apple continued for the last
+couple of months to just spin their
+wheels and Siri continued to suck. Uh, I
+made a video about nine months ago about
+the state of Apple's AI crisis basically
+and not a whole lot has changed since
+then. You should go watch that video.
+It's linked below. It's basically a much
+more in-depth, detailed analysis of all
+of Apple's AI stuff. But this update,
+this headline is basically now Apple and
+Google putting out statements confirming
+the hilarious news that Apple hasn't
+finally figured out AI. They will be
+partnering with a company who has
+figured out AI. So, here's the official
+quote from Apple. After careful
+evaluation, we've determined that
+Google's technology provides the most
+capable foundation for Apple foundation
+models, and we're excited about the
+innovative new experiences it will
+unlock for our users. Pretty classic
+vanilla statement from Apple, but this
+is still really interesting for a couple
+of reasons. I have questions that don't
+have answers yet that we probably won't
+get the answers to until Apple's WWDC
+event in June, which is likely when
+they'll formally announce this new
+revamped Siri again. So, I'm definitely
+looking forward to that. But also, just
+wow. This is this is a pretty big news
+story just because it is a $4 trillion
+tech company that everyone assumes is on
+the bleeding edge of all this stuff and
+we're waiting for them to get it
+together and finally jump in the AI race
+and now this feels like the headline
+that we can all point to to say, "Okay,
+yeah, they're they're losing the AI
+race." And honestly, I don't blame them.
+It's hard to tell if that's exactly
+what's happened at this very moment, but
+that's how it feels. But you know what?
+If you're Apple and you've been spinning
+your wheels this entire time working on
+Siri, but Siri's just been bad this
+whole time and it's famously taken you
+longer than you thought to deliver the
+features from the ads you had to delete,
+then this move makes perfect sense, as
+hilarious as it is. Like, this is not
+the first time Google and Apple have
+worked together. Famously, Google's paid
+Apple billions of dollars over the years
+to be the default search engine in
+Safari. Obviously, Apple doesn't make a
+search engine, but their users use
+search engines and need one. So, they
+made a partnership to bring them the
+best one available. There's some
+arguments obviously and some antitrust
+stuff in the background, but basically
+to deliver the best one available to
+their users. Now, in this case, it's
+probably Apple paying Google. I mean, we
+don't know the terms of the deal.
+There's been some rumors floating out
+there, but it's kind of along the same
+lines otherwise. Like, okay, Siri
+exists, but it's really bad. And they
+want to give their users the best
+experience. They've worked on it really
+hard. They couldn't get it up to a level
+to compete. So, a partnership was the
+right answer. And it was just a judgment
+call to use Google's models as a
+foundation. Now, this is news to a lot
+of people because of them choosing
+Google for these models instead of any
+of the other competitors, say ChatGpt or
+OpenAI's models. To me, it's most
+interesting because they recently made a
+big partnership with OpenAI. Siri, as
+you know, now will kick out to chat GPT
+for any complex request that is too much
+for Siri to handle, stuff that needs
+world knowledge or has a multi-step
+request or whatever it is. But assuming
+this new Google Foundation beefs up Siri
+and will allow it to do all this stuff
+on its own, it won't need to kick out to
+chat GPT anymore. So what happens to
+that OpenAI partnership? I don't know.
+Anyway, now the promise is officially
+official again. They will be coming out
+at some point during 2026 with the big
+Siri update powered by Google's models.
+And it'll be interesting to see them. I
+I assume this is going to happen at WWDC
+2026, which is I think now that's 2
+years after they originally announced
+the big Siri update. But here's what's
+on my mind now. One, how good will this
+partnership make the new Siri? Actually,
+I tend to think pretty good. I think
+Gemini on Android phones is already
+really good. They've looped in now a lot
+of the old Google Assistant features. So
+Gemini as a product is really good. The
+models are really good. Google asserts
+it's the best. You know, it's kind of
+like this. It's there's always, you
+know, GPT and claude, all that stuff.
+But I'd say it's comfortably top three.
+But then two, how much will Apple be
+building on top of these foundation
+models? The foundation models give Siri
+uh better, deeper understanding of what
+you're asking and better smarts and all
+of that, but then there's all the stuff
+that Apple would like to do on top of
+that. But when they customize it and add
+features and capabilities of their own,
+there's no doubt there will be a big
+privacy focus. There always is with
+Apple and when they added the chat GPT
+integration where it actually kicked out
+to chat GPT to get stuff back, they did
+a lot of work to preserve user privacy
+in that using the Google Foundation
+models does not inherently mean it's
+going to be kicking stuff out to Google.
+It's got the models on the device, but
+still it'll be interesting to see how
+they customize, you know, the
+functionality on top of what Google
+stuff will do. Like remember that weird
+kind of half circle to search that's
+built into Apple intelligence on the
+iPhone where you take a screenshot and
+then highlight what you want and then it
+lets you just basically Google image
+search whatever you circled. What if the
+iPhone gets fullon real Android circle
+to search? Now, circle to search is one
+of the absolute most useful AI features
+to me of the entire last 5 plus years
+where you can circle whatever's on your
+screen. Search text or circle an image
+to get a search for that image or get
+more info on locations or a sign you
+took a picture of or whatever else. If
+all of that is potentially coming to the
+iPhone, that would be a pretty nice
+outcome of this deal. But then my final
+thought is, you know, all these
+headlines are obviously hilarious with
+like, oh, Apple's such a rich, powerful
+company and they can't somehow get their
+AI stuff together, so they're going to
+partner with another company to do it.
+Fine. But it's also popped this thought
+into my head that maybe who owns the
+models is not as important as who
+controls the interface. Like for
+example, I use a tool that I've talked
+about in the past actually on my Mac
+called Raycast. And it's awesome. If you
+haven't heard of it, it's basically like
+a Spotlight search replacement for Mac
+because Spotlight has also been dog
+water for years. So, it replaces
+Spotlight search for me. Lets me find
+files and also do translations and
+conversions and window management and
+all this stuff. And they recently added
+a feature which also lets you chat with
+an AI model if you need to answer a
+quick question for you. And inside of
+the Raycast settings, there's actually a
+drop-own slider. This is the pro
+version, but there's literally a slider
+that lets you pick any of these AI
+models. to chat with anytime you need to
+use an LLM as a tool. Could be Cha GPT,
+any of these models. Could be Gemini,
+could be Grock if you're into that.
+Could be anything. At the end of the day
+though, it doesn't really matter which
+model I'm choosing to use. I'm just
+picking the one that I think works best
+for me. But the interface that I use to
+interact with that is still Raycast. So,
+Raycast gets the user because they're
+delivering the experiences and function
+that I need. Apple is going to do this
+deal because it keeps the user on the
+iPhone. And so if if built-in AI tools
+and LLM was really one of the reasons
+you were actually going to leave the
+iPhone, you're going to switch to
+Android to a Pixel or Samsung phone or
+whatever it is, this move is
+specifically to make sure that that is
+no longer one of the reasons that you
+would switch. The fact that they can get
+as many of those features and
+experiences as possible to match with
+what's happening on Android phones is
+hopefully to Apple a win for them and
+then they get the PR boost of, oh,
+Siri's good again. Hopefully. I am
+curious though for y'all watching this,
+you people who are subscribed to a tech
+channel on YouTube and watching a new
+video about Gemini and Siri, how much do
+these LLMs actually matter to you when
+making a tech purchase for yourself,
+like your next phone? Is this something
+you actually will make a choice based
+on? Let me know. I'm curious about that
+in the comments. Thanks for watching.
+Catch you in the next one. Peace.
+[music]

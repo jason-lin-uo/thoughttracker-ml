@@ -1,0 +1,305 @@
+# Google Glass Explorer Edition: Explained!
+# https://www.youtube.com/watch?v=elXk87IKgCo
+
+[Music]
+hey what is up guys I'm kbd here we are
+back and this is Google Glass now
+something that a lot of people ask when
+you know you go out and walk around with
+this thing on your face a lot of people
+ask the same set of questions one what
+is glass what is that thing on your face
+two what does it do and three what does
+it look like while you're wearing it
+what do you see through glass so without
+any further Ado let's go ahead and take
+a look
+[Music]
+first of all this here this exact model
+that we're looking at is the Explorer
+Edition of Google Glass that's a bit
+more important than a lot of people
+realize basically this is not the final
+version of the product there will be an
+evolution in software and Hardware
+before an actual consumer Edition is
+created in fact there's been several
+software updates already but for now the
+Explorer Edition is a limited edition
+early version for people willing to go
+out and explore and give feedback for
+Google about glass aesthetically it's a
+pretty interesting little device because
+it sits on your face like a regular pair
+of glasses but well there are no actual
+lenses there's no glass in Google Glass
+except for this prism here and the other
+thing about it that's different is it's
+asymmetrical so typically when you're
+wearing glasses there's the same thing
+on both sides with glass all of the
+smartphone components and all of the
+things in Google Glass that make it what
+it is are all on your right hand side
+now while glass does have mostly
+smartphone insides what it doesn't have
+is a cellular radio which means it can't
+connect to data by itself so what it
+does do is connect to either Wi-Fi or
+bluetooth tethering to your smartphone
+and connect to the my glass app on your
+Android iOS device and that's very
+important because without it you
+wouldn't be able to do anything on glass
+unless you had a device with you
+connected to it so this is really what's
+going to powerg Glass and make it do all
+that it does when it connects to the
+internet and pulls any sort of data so
+how does it actually look to be looking
+through the actual prism in Google Glass
+well Google says that it's supposed to
+look approximately like a 25in display
+from 8 ft away so if you have a 25in
+computer monitor back up your chair roll
+back 8 ft away and that's about what
+it'll look like now it's obviously not
+an HD display and in fact it's around
+640x 360 but the idea here is that this
+is all that you look at when you
+interface with Google Glass so it's
+pretty important essentially it's a
+square that is fixed in the upper right
+side of your vision it's not in the
+corner it's not totally crazy like hard
+to reach stretch with your eyes bad but
+it's definitely out of the way so it's
+not going to be intruding your vision
+all the time so looking through the
+prism it'll look about like that that's
+about right so when wearing glass
+natively Glass by itself can do seven
+things with it you can do seven things
+you can take a picture record a video
+navigate somewhere send a message call
+someone Hangouts and Google but let's
+not forget that this is the like we said
+the Explorer Edition of Google Glass not
+the final consumer version so the list
+of things that it can do is limited but
+the idea here is that this is a new form
+factor this is the beginning of a new
+sort of Paradigm we have Android phones
+that's one form factor we have Android
+tablets that's another form factor we'll
+have a whole bunch of SmartWatches soon
+that's another form Factor glass which
+is a wearable tech on your face is a
+totally different form factor so think
+of this as sort of like an Android phone
+with no apps on it out of the box it can
+do you know a sort of core set of
+functions and that's normal for an
+Android phone that's a small list of
+things it can do out of the box but once
+you add an app store once you add the
+connectivity that a whole bunch of
+developers and a developer Army kind of
+support that list of things is going to
+get a lot longer and a lot more
+interesting there are a few officially
+supported third party apps right now for
+glass you know Twitter Facebook there's
+a New York Times app for sort of popup
+news alerts but in the Glass Explorer
+Community there's a whole bunch of
+developers doing their thing and making
+a ton of different apps for glass and of
+course when there's a final release
+where pretty much anyone can develop for
+it and anyone can buy it that sort of
+mainstream apps are kind of a no-brainer
+I expect to see a YouTube app an
+Instagram app these kind of things are
+pretty much undoubtedly going to come to
+Glass when it's finally available for
+everyone but back to those seven things
+those seven functions of Google Glass
+glass are really not all that different
+from the core functions of an Android
+phone without any apps installed if you
+bought a Nexus 4 and never used anything
+in the Play Store you'd get a pretty
+similar list of things that you can do
+with it out of the box but again like we
+said this is the Explorer Edition many
+more things are going to be added now
+for a brief rundown of these seven okay
+I'm going to go through all seven of
+these things first of all all these
+things are going to be done with an
+interaction with the trackpad on the
+side of glass so there's a swipe forward
+backward down and a tap and this
+actually feels pretty natural with the
+sort of light tapping you're not really
+bashing it against your own head but
+you're just doing slight Swip swipes and
+light Taps and things like that and that
+feels normal so number one you can take
+pictures so you can say Okay Glass take
+a picture or if you don't want to do
+that at all you can just tap that photo
+button that's on top of glass and I just
+took a picture of view the camera and
+the light so that's what you look like
+right now uh and if I wanted to take a
+video that's the next function of glass
+of course you can say Okay Glass record
+a video and you'll start recording a
+video or you can actually hold down the
+photo button on the top of glass and you
+automatically start taking a 10-second
+video so you're going to start looking
+at what I'm seeing which is basically a
+bunch of lights and a microphone but uh
+yeah that's what it looks like to take a
+video with glass it's automatically
+going to take a 10-second video so if
+you want to extend it you have to tap
+the photo button again and you'll get
+like an unlimited recording time until
+like the battery dies until you stop
+recording the photo and video quality
+are really pretty good and this is one
+of the defining features of what makes
+glass so special cuz it's basically a
+firsters look at what someone's actually
+doing now it's a little bit above your
+field of vision so if you're like
+handheld gaming or something like that
+you kind of have to look down a little
+bit to get it in your field of view I
+found the most part though most of the
+things that I do with glass are pretty
+amazing and you would never be able to
+get any sort of camera angle like that
+uh doing anything else especially cuz
+you have both your hands free which is
+cool uh the video quality is also really
+good because it's such a wide-angle lens
+it uses very similar Optics that the
+Galaxy Nexus did but that doesn't stop
+it from being uh really quite good and
+also the photos that I took again from
+that first person view were really good
+because it takes a burst of I think 10
+different shots of a bunch of different
+exposures and gets a really nice high
+dynamic range shot and again that
+combined with the wide angle makes it
+look a lot like what you would see out
+of the human eye so it's really really
+close to firstperson view of what
+regular people look at so the third
+thing glass does is walking directions
+driving it's just navigation with Google
+Maps so you can say Okay Glass get
+directions to and then say wherever you
+want to go B&amp;H for example and it'll
+give you the directions and an actual
+real time Arrow where you would be going
+on glass with you know the directions to
+where you're going you can do walking
+navigation biking navigation and driving
+navigation and I think this is actually
+probably the most awesome of the
+built-in features in glass because if
+you're in an unfamiliar place and you
+don't really know where you're going you
+move your head around and you get to see
+the exact direction of the orientation
+of the arrow change you can just
+literally Follow the arrow and glass to
+get where you're going and that's really
+powerful stuff now four and five you can
+send a mess message or place a call
+using glass and that's because it's
+Tethered to your phone with the my glass
+app so you have a certain list of your
+starred contacts that you can dial
+whenever you want so you can say Okay
+Glass send a message to John I'll be
+late I'm in traffic see you in 20
+minutes or Okay Glass call John and
+it'll start calling that person so you
+have to have that person start already
+in order to make a call to them
+otherwise it would be kind of crazy to
+search through your whole Android
+contacts library but that's pretty cool
+handsfree you could be you know totally
+you know busy with your hands and not
+have any sort of control over your
+smartphone and still place a call
+someone send to message if it's
+important and number six last but
+definitely not least is the Google
+search and Google Now now you guys
+already know how Google search works so
+I can say Okay Glass Google how long is
+the Golden Gate
+Bridge and you guys already know
+basically how Google search works but
+it'll read the answer back to me the
+Golden Gate Bridge is
+8,980 Ft uh 2737 M if that matters to
+you so you already know how that works
+and it works the same way that it does
+with Google Now on your phone but Google
+Now on your phone also gives you sort of
+predictive search results and gives you
+relative re relevant information
+wherever you go glass will do the same
+thing so you can swipe through the glass
+interface and view all this information
+where you'll need to know you know
+either weather where you are some uh
+translation data if you're in a
+different country all kinds of different
+crazy things uh the same way Google Now
+on your phone would do but the bottom
+line with the Glass Explorer Edition is
+this this is not the final version this
+is not where you're going to be able to
+buy in a few weeks or or months when
+there's a final version available the
+final version is going to have updated
+Hardware it's going to have updated
+software and it's going to have an
+updated price because right now the
+Explorer Edition costs $1,500 in the
+United States for All Glass explorers
+hopefully it'll be nowhere near $1,500
+when it's finally Mass reduced it'll
+hopefully be uh way less than half of
+that but go ahead and leave what you
+would pay for Google Glass like this in
+the comment section below that like
+button I feel like a lot of people would
+probably max out at around $500 maybe
+less maybe 400 or 300 but we don't know
+what the price is going to be but this
+is a Google Glass Explorer Edition uh
+I'll have more videos on this to come I
+have a lot more content that I want to
+show you guys uh regarding glass and a
+whole bunch of other Tech stuff but if
+you enjoyed this one definitely feel
+free to give a thumbs up below and be
+sure to subscribe to see more glass
+coverage and more Tech videos like this
+thank you for watching and I'll talk to
+you guys in the next one peace
+n
+[Music]

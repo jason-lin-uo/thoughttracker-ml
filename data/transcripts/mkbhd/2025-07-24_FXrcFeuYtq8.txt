@@ -1,0 +1,399 @@
+# iOS 26 Hands-On: Liquid Glass!
+# https://www.youtube.com/watch?v=FXrcFeuYtq8
+
+All
+right, we got to talk about the latest
+version of iOS coming soon to an iPhone
+near you because this one is a pretty
+big update. I've been running the latest
+beta of iOS 26 on my iPhone for a little
+while now. Yes, the number now matches
+the year kind of and the public beta is
+out now, too, which means you can test
+it as well. And this is the major visual
+overhaul that we've been hearing about
+for so long. If you're a subscriber of
+this channel, you've heard about this
+before. If you watch the podcast, you've
+known it's coming. And now it's landed
+in the form of liquid glass. But there
+also is a lot more to it. So, let me
+walk you through the top five features
+of iOS 26 in order of how big of a deal
+it is, cuz that feels right. Also, if
+you haven't already subscribed to this
+channel, get subbed so you can stay on
+top of this stuff. Let's get into it.
+So, number five, the new camera app. So,
+it's been years since I've been able to
+say this, but Apple has redesigned the
+whole camera app. They've updated some
+really important things. And here's why
+it's really good. On the surface, it
+looks even more simplified just because
+it is. You know, it's just the shutter
+button, the zoom buttons, and then a few
+other buttons at the top, and then the
+photo and video picker at the bottom.
+Then everything else is hidden, which is
+probably great for most people. So then
+when you want to go to change modes, you
+can see that there's actually more of
+them available and then you can actively
+slide between them like you always have.
+It's just it's harder to see all of the
+modes available to you since they're
+hidden. But what I really like is if you
+hit that top left button, it actually
+lets you just pick all of the format
+settings that you want instead of having
+to tap it over and over again to cycle
+through every setting. It's it's so much
+better for video. So instead of having
+to tap the frame rate over and over
+again to cycle to 24, then 30, then 60,
+just pick the one you want. Finally, and
+then for all the rest of the settings,
+just hit that top right box. Or even
+easier, pro tip, just swipe up. So these
+are where the settings are that you are
+less likely to change, which is why
+they're a bit more hidden, but that is a
+strong reorganization in my opinion. So
+then number four is a big update to
+visual intelligence. See, Apple
+intelligence has been hit or miss since
+it was first announced. Honestly, mostly
+miss. A lot of things that aren't super
+useful. Genoji, image playground,
+whatever. But visual intelligence is one
+of the things that I've thought has had
+a lot of promise. It has a high ceiling
+and it's been in the form so far of just
+looking through your camera and being
+able to visually identify things that
+you're pointing it at. But now, this
+update includes onscreen things as well
+into visual intelligence. And while it's
+not super good yet, I do think that's
+important. And I do think the ceiling
+just got much higher just to have this
+included because see on Android, we've
+had circle to search for some time now.
+And it's good. It's incredibly useful.
+You hold down on the home bar and then
+circle whatever you want with your
+finger. It Google searches that, pulls
+up information on it, identifies it for
+you. It's kind of like a superpower.
+It's awesome. And Apple has now kind of
+built something like that into the
+iPhone. The funny thing is they've built
+it into the screenshot UI. So you hold
+down power and volume up to take a
+screenshot and then you will see some
+new things around the outside. An ask
+button, an image search button, or you
+can literally circle with your finger to
+search something with Google. And it
+does a reverse image search basically
+the same thing as Android. That is super
+useful when it works. And then you can
+also use ask to literally ask chat GPT
+about the image. It's not the fastest
+thing in the world. It's a little
+imprecise. It's also been a little buggy
+for me. But I do see a lot of potential
+here for actually, you know, very useful
+AI stuff. Something that Apple
+intelligence is desperately in need of
+since, you know, image playground is
+just not cutting it for me. There's also
+if you happen to use Apple Calendar and
+you happen to take a photo of or have a
+picture of an event poster of some kind,
+something with a date and a time on it,
+then you can jump to the screenshots UI.
+And then if you wait a few seconds,
+depending on your internet connection,
+boom, an add to your calendar button
+appears and that'll add it to your Apple
+calendar. And if you hit edit, you can
+actually see it's pretty good about
+getting inputed details right. Start
+time, end time, description, location,
+etc. It's actually pretty impressive.
+I'm just going to need this stuff to now
+get a little bit more robust. Let me add
+to my Google calendar or some other
+default calendar if I want to. Or let
+the chatbot when I ask about something
+be Gemini if I want or Perplexity or
+Claude or whatever. I know none of this
+stuff is ever actually going to happen,
+but
+I can dream, right? So then number
+three, the phone app. You know, once
+upon a time, phones made this thing
+called a phone call. And you know, it's
+crazy. A lot of people don't know this,
+but our smartphones today actually still
+can make phone calls. I know it's crazy.
+I avoid them at all costs, but if you
+can't avoid them, you might as well have
+a good phone app. And once again, the
+iPhone inherits two of the best Google
+Pixel features because call screening is
+pretty damn useful. So now if you have
+it turned on, it will screen any call
+from an unknown number not in your
+contacts. So if someone new calls you,
+they'll hear this.
+&gt;&gt; Hi, if you record your name and reason
+for calling, I'll see if this person is
+available.
+&gt;&gt; And then whatever they say gets
+transcribed so you can see it. Hi, I'm
+the delivery person. Can you let me in,
+please? And then once they stop talking,
+you can either answer that phone call or
+send a canned response to leave a
+voicemail and then it records that
+voicemail for you to listen to later.
+just all this very helpful for weeding
+out, you know, semiconvincing spam
+callers. And then the other one is hold
+assist. Basically the same thing as the
+pixels hold for me where it detects if
+you're on hold and then gives you a
+button to just hold for you and then
+when it detects that the hold session is
+over, the music stops playing or
+whatever, the human comes back, it'll
+send you a notification and then let you
+pick up right where you left off. So you
+don't have to just sit on the phone on
+hold. So that's two of the most useful
+Pixel features. Welcome to the party,
+iPhone friends. Uh, and there's also a
+new unified phone app layout that
+combines favorites, recents, and
+voicemails all into one place, which
+just makes sense. And then this phone
+app is also coming to iPad and Mac as
+well. So, you can sync this all across
+everything. So, then number two is the
+new Apple CarPlay. There has been a
+massive update to CarPlay, and I know
+not everyone who uses the iPhone uses
+CarPlay, but those who do are very aware
+of its shortcomings. And so imagine how
+happy I was when I was testing this new
+beta and I got a phone call and it
+didn't take up the entire screen.
+Finally, it's about damn time. Now, not
+only that, when you get a text, you can
+also actually hold down and react with
+the standard tapbacks. Believe it or
+not, you couldn't do that with any older
+version of iOS with CarPlay. And there's
+a few things like a new set of widgets
+over to the left of the dashboard, so
+you can pick on your phone which widgets
+show up here. And I found that the most
+useful ones are like media or maps. Just
+some things that are nice to have. And
+live activities can appear in CarPlay as
+well. So just those things are a massive
+quality of life improvement. Plus,
+there's a little bit of a new design as
+you can see. And none of this is even
+mentioning CarPlay Ultra, which only
+really works on like one Aston Martin so
+far. So for the six of you watching this
+that have that car, sorry. I don't
+really have much to say about that yet.
+But before I get to number one, since
+this is such a big update, here are some
+other things that didn't make my list,
+but that are still actually pretty big
+and worth mentioning. So, the photos app
+that everyone hates, uh, got an update
+to kind of halfway fix it, which is now
+just that it defaults to the library
+view, which is just all your latest
+photos and videos, which is what we all
+wanted the first time, but collections
+is still an option there for all the old
+chaos that you can dive into whenever
+you want. And then there's this, okay,
+there's this wild new feature where you
+can open up just about any picture on
+your iPhone as long as it has a clear
+subject and a background. Then you hit
+that little spatial scene button. And
+when you do, the iPhone scans it for a
+second and then turns into a responsive
+3dish image. So it's separating the
+background from the foreground and
+literally filling in behind the subject.
+So you can sort of peek around behind it
+by moving your phone around. It's so
+good. It's really, really good. You can
+set these images as your phone lock
+screen, so the clock kind of sits nicely
+behind the subject. You know, ordinarily
+this would just be such a gimmick, but
+it's so clean that I actually don't put
+it in the gimmick bucket anymore. It's
+super well done. And then messages.
+Okay, messages gets a few neat things
+like other messaging apps have had for a
+while, like you can add backgrounds to
+threads or have inline polls for
+iMessage conversations or group chat
+individual typing indicators. Cool. And
+there's also now live translation
+features built into messages, FaceTime,
+and the phone app, which all work
+offline fully. That's huge because all
+these languages, each one that you
+download, for my experience, is a few
+hundred megabytes and then it works
+whether you have an internet connection
+or not. And then, uh, come to think of
+it, a lot of these actually come from
+other places or at least have been
+available other places. But it's going
+to be nice to have it on the iPhone now
+anyway. You can choose your alarm snooze
+duration. You can just pick a number
+other than nine minutes, which it's been
+for forever. And also now, if you're
+charging your iPhone, it finally will
+actually estimate how much longer it
+will take to charge to 100%. An absolute
+classic from Android 10 years ago. And
+my nerdy personal favorite, an audio
+input selector in the control center.
+Just something I personally will get a
+lot of use out of. Love to see it. But
+then the obvious number one here in iOS
+26 is liquid glass. This redesign of the
+entire OS from top to bottom in this new
+material design style of transparency
+and refractions and reflections. And
+it's kind of polarizing actually. Some
+people love it, some people hate it.
+It's so polarizing actually that Apple
+has started walking some of it back. So
+originally the idea is just to unify the
+aesthetic among all of Apple's
+platforms. iOS 26, iPad OS 26, Watch OS,
+Mac OS, TV OS, and really centering it
+all around Vision OS with the frosted
+glass windows and the shadows and
+reflections of the real environment that
+your Windows live in. So we saw a lot of
+that in the keynote. I think this
+pulling down the lock screen, just the
+way it's totally unnecessarily but super
+impressively distorting everything and
+reflecting the light based on the colors
+underneath it and the angles that it
+hits, the theoretical layers of glass
+that I'm pulling down. I think this
+encapsulates it all. This is what liquid
+glass is all about. But there are some
+concerns mainly around some stuff that I
+brought up pretty early, which is around
+readability. And a lot of this is what's
+contributing to the walking back that
+Apple has done since that original
+unveil, which is like everything is
+clear, everything is super liquidy, and
+now we're on beta 3. And there's more
+places in the OS with slightly more, you
+know, background blurring and slightly
+less transparency just to make some text
+actually readable and a bit less
+chaotic. So, there's still the dramatic
+stuff like the all clear icons. You can
+have a clear icon, clear widget home
+screen, which is okay, it's impressive
+because on Android, how many times have
+you seen an icon theme pack where like
+one or two icons gets left out and it
+just doesn't quite work? But this theme
+engine just works with every icon and
+widget right out the box. But then
+again, that's all this really feels like
+it is, especially with the clear home
+screen is just a theme that you might
+apply or might not. Whether you like it
+or not, you do have to admit it is a
+really, really good, detailed,
+wellexecuted theme engine. But then, so
+there are some other parts of this that
+I like. You know, the new lock screen I
+think is dope. You've probably seen the
+extended clock by now. Long press it,
+drag it around, make it as tall as you
+want, and then once you set that, it
+compresses dynamically to respond to,
+you know, scrolling notifications
+underneath it. Super nice. fades behind
+subjects into backgrounds. It's awesome.
+My favorite part of this new design is
+definitely the lock screen, but some
+other parts.
+N I don't know. Like I I've personally
+always been a fan of clean flat design.
+I maybe that's just me. That's my bias.
+I know that's what I prefer. So, you
+know, the extremely glassy UI elements
+like quick settings, you know, the
+volume slider, these bubbly things. I I
+personally don't love them, but I'm sure
+over time we'll all get used to this.
+But then some other parts just look
+straight up weird sometimes. Like they
+obviously need to try to keep things as
+legible as possible. And I think they're
+going to continue to update it. Like
+they're actively they're moving things
+between dark and light mode depending on
+what's behind it. Like if the content
+underneath is dark or light and
+sometimes it can get wonky, especially
+with more complex backgrounds, you know,
+versus imagine if it was against a clean
+flat background. It would be a lot more
+boring. But this is definitely a way
+more
+characterful aesthetic. So you can't
+accuse this of being boring. Some people
+also have pointed out to me on Twitter
+that there is a reduced transparency
+setting in accessibility. And so when
+you click that, most of the transparency
+goes away or just it kind of goes from
+liquid glass to sort of frosted glass in
+most places. So if you do want to turn
+it off, that is available. But I am so
+interested now to see if other companies
+try to copy this this aesthetic thing. I
+mean, it's we're we know these companies
+copy each other a lot and it would be
+super obvious if one of them tried to
+copy it, but I don't know. Is this going
+to be a sort of beginning of divergence
+for these softwares where one of them is
+clean and flat, one of them is bubbly,
+one of them is material U. Very curious
+to hear your thoughts and let me know if
+you are a Liquid Glass lover or hater.
+Drop a comment below. Thanks for
+watching. Catch you in the next one.
+Peace.
+[Music]

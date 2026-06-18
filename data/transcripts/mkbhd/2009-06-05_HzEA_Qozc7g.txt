@@ -1,0 +1,91 @@
+# HzEA_Qozc7g
+# https://www.youtube.com/watch?v=HzEA_Qozc7g
+
+[Music]
+hey what's up guys it's Marcus brownley
+here from MKBHD and I got another
+software video for for you guys today
+you guys were asking for software so
+here it is uh this one as you can see by
+the title is a little interesting video
+about how to edit a website um as you
+may have seen me doing on Twitter
+posting little pictures um how to edit a
+website using JavaScript um so I'm just
+going to walk you through this real
+quick uh what I have here in a notepad
+document and I'll also put this in the
+description is a little uh piece of
+JavaScript here uh document body
+basically makes the web page editable so
+I'm just going to copy this by hitting
+control C or by right clicking and
+copying it and then we're going to open
+up any web page that we'd like to edit
+now we're not actually editing it for
+the worldwide web to see we're just
+editing it on our computer just for the
+fun of it it's not really uh very
+important or anything um it doesn't
+actually affect the internet but uh for
+example here on my website or on my
+YouTube channel up in the URL bar we're
+just going to copy that and delete it
+and replace it with that piece of
+JavaScript hit enter and that will
+actually it'll blink for a quick second
+and then now you can see we can go
+around and edit the numbers on a web
+page edit anything basically so I
+highlighted the nine I'm going to type a
+two here and instead of minutes I'm
+going to change it to seconds and
+instead of 1,000 subscribers Maybe maybe
+I want 1.3 million subscribers I don't
+know so yeah just cool stuff like that
+you can you can edit any web page you
+want um basically any text on a web page
+you can change the uh the text or the
+numbers or anything like that uh so
+maybe instead of having two new messages
+I'll
+have a lot of new messages I don't know
+but yeah this is just I mean it doesn't
+actually affect anything on the website
+so if you go on to the website later or
+if you refresh the page it'll be back to
+normal uh but I did like trick my
+parents into believing I had 330,000
+views on one of my videos and then I
+revealed to them that it was JavaScript
+but yeah it's pretty cool that you can
+do that um that's basically it not a
+huge deal uh but I figured you guys were
+you're missing the software so you want
+to see more software tutorials uh so
+let's pick another website let's see uh
+let's pick the website that I'm actually
+writing for right now uh text support
+alert.com uh which is actually a website
+full of
+freear um and let's just go up to the
+top of it and we can hit edit and we can
+change this to uh just feed uh we could
+just change this to blog we can change
+whatever you want on the website even
+though it's not going to actually appear
+when you refresh the page but yeah I
+just thought you guys would like to see
+that kind of fun little uh stuff you can
+do post your pictures um if you have a
+picture go ahead and post it uh or
+message me and I'll post it in the
+description so people can see what you
+did to a web page um and that's
+basically it so uh thanks for checking
+out this quick little tutorial um have
+fun editing your web pages or whatever
+you plan to do with this JavaScript
+again this will be in the description
+and uh enjoy thanks for watching guys
+peace

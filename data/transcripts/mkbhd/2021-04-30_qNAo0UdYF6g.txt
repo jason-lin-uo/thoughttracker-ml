@@ -1,0 +1,442 @@
+# Apple vs The Paradox of Choice!
+# https://www.youtube.com/watch?v=qNAo0UdYF6g
+
+[Music]
+hey what's up I'm Kim PhD here so you
+know those fish that suction themselves
+to sharks and you always see them along
+the side of sharks like they follow the
+shark everywhere they go swimming
+alongside it usually attached to it it's
+called The remora fish and they are
+fascinating creatures they have this
+relationship that's kind of amazing for
+the Remora it gets to snack on the
+scraps of whatever the shark is eating
+and it has a 24 7 bodyguard basically
+and a shark allows it to do that because
+it'll also eat parasites off the shark's
+back keeps it clean it's a win-win they
+have a symbiotic relationship meaning
+they both benefit but really really
+there are more fish definitely needs the
+shark way more than the other way around
+so you never really see them out in the
+wild without some sort of host or
+something to attach to now in the tech
+world
+apple is that shark and there are a
+whole bunch of companies you've probably
+heard of them whose primary business
+function happens to be an accessory that
+attaches to something Apple does and
+that is a dangerous place to live so
+this whole dynamic is it's so
+fascinating to watch because there's so
+many examples of it now of course air
+tags is you know the one recent
+announcement that's got me thinking a
+lot about this lately but really anytime
+Apple enters a new product category it
+gets a lot of attention because it's
+interesting like how will Apple do it
+the apple way will they separate
+themselves from the competition or do
+anything technically different and air
+tags they have some legitimately unique
+features the little Precision find
+feature makes for a cool demo but
+Bluetooth trackers are not new not even
+close uh tile has been making these
+things since 2013 and they do
+fundamentally the same thing they help
+you find whatever they're attached to by
+pinging other phones around that have
+the Tile app which creates the community
+mesh Network and help you find your
+thing plus there's a couple other
+features and a variety of shapes and
+sizes and tiles also built in to some
+other items but for the core function of
+finding your thing
+air tags have a massive Advantage which
+is their network isn't just people using
+the Tile app it's all the stuff on
+Apple's find my network so it's iPhones
+it's iPads it's Max and they'll all
+passively update the position of
+something near it anytime it's around a
+device on that Network it's frictionless
+it happens silently and effortlessly in
+the background you don't even know
+what's happening and the network is
+massive it's approaching a billion
+devices so there are some best case
+estimates that put tile's presence in
+some of the most densely populated
+cities in the world like Manhattan and
+San Francisco at one tile user per block
+meaning you can't go more than a block
+without encountering a tile that will
+update the location on the network which
+is pretty impressive but when you think
+about those same blocks in those same
+cities you're gonna get what a dozen
+plus iPhones and Macs and iPads and
+that's not even considering all of the
+other less populated areas so
+immediately Lee Apple's ability to plug
+a feature into the iPhone gave them a
+huge advantage over the competition that
+is the theme so I already made a video
+called the Apple ecosystem explained
+I'll link it below the like button if
+you haven't seen it already but I talk
+about why people keep choosing the
+iPhone just because of the walls around
+the ecosystem but here's another thought
+because of Apple's ability to plug
+things into the ecosystem especially
+with the iPhone Apple can kill entire
+companies but they don't do it
+menacingly they do it so nicely by
+presenting it as a choice on a silver
+platter less than a month ago Apple
+actually opened up the find my network
+to allow third-party accessories to take
+advantage of this incredible Network
+right so out of the gate there were
+e-bikes and earbuds and conveniently and
+other cheap plastic Bluetooth tracker
+that you can find based on nearby
+devices in this network amazing so now
+for tile there's technically a choice
+you can make a tile that's compatible
+with Apple's find my network
+or not
+it's a choice pretty simple
+but it's actually a bit of a paradox of
+choice because either way you choose
+Apple still wins so let's say they
+choose to make a compatible tile that
+works in the find my iOS ecosystem that
+seems great right it works great for the
+users they take advantage of that better
+network but now that means a portion of
+new tile customers who were going to buy
+a regular tile that plugs into and
+improves the tile network will actually
+be plugging into and improving Apple's
+network instead the plug-in to find my
+and they won't use the Tile app for
+locating a device which means now tile
+is selling a product that actively hurts
+their own business and makes their own
+network less desirable over time so the
+other choice is to not participate in
+the find my network and not offer a tile
+that works with it
+which just means you're missing out on
+those sales and they're less appealing
+Network slowly dies over time as people
+just buy the ones with the more deeply
+compatible iPhone but hey technically
+it's a choice
+right look look how friendly this guy is
+he would he would never force you to do
+anything he didn't want to
+you can just you can choose to work with
+the iPhone or not
+it's up to you
+could also choose to swim off into the
+rest of the ocean
+or you could stay swimming with me the
+shark
+makes sense right I'd actually argue
+this Paradox of choice happens twice
+with air tags so once with Kyle as we
+just saw but also again for the customer
+so if you're an iPhone user now
+technically you have a choice between
+the two different options which one is
+going to require a separate app and has
+a much smaller Network and the other
+just kind of plugs right in and
+seamlessly works in the background and
+not much thought to it and they're
+around the same price
+see what I'm getting at now apple apple
+will always repeat day in and day out
+there is competition we have competition
+and you can always choose our
+competition over the product we make
+but Apple's smart so obviously they know
+they have deep Market penetration with
+the iPhone
+and so when they want to leverage that
+to jump into a new product category
+they'll do it every time they've done it
+before Apple watch is maybe the most
+popular watch on Earth I think they've
+said this before and airpods are
+honestly some of the most popular
+wireless earbuds ever made that's
+because of the iPhone but it's even more
+fascinating when they literally kill
+whole companies like when the shark
+decides to close its mouth and eat the
+fish that was cleaning its teeth Apple's
+done this so many times I've got four
+more examples for you uh each one of
+them a little bit more brutal than the
+last so I'm going to rank them on a
+scale of one to ten one being a light
+scratch 10 being absolutely finished on
+how bad apple left them after they
+jumped into the new product category and
+if you'll notice they're all on the back
+of this Paradox of choice so flux or F
+dot Lux you might have heard of them
+they are an app that lets you change the
+color temperature of your screen right
+so it'll adjust to have more or less
+blue light output and it can
+automatically make your screen warmer
+and dimmer the later it gets in the day
+flux used to be in Apple's app stores
+but then in 2015 they were kicked out
+and Apple's reasoning was developers
+can't take advantage of the use of
+certain private apis so it seems
+reasonable we all know Apple's been very
+specific about the way you know Macs and
+iPhones and iPads should look and feel
+but what feels weird about that one
+specifically is later that year Apple
+came out with an update or they built in
+that exact functionality into the OS
+themselves
+it's on the Mac behind me it's called
+night shift so with night shift your
+iPhone or iPad or Mac can get warmer or
+cooler based on the time of day or where
+you're at and it can set a schedule for
+when you want that to happen super
+useful of course and convenient now that
+it's baked in so now you're a Mac User
+you've got a choice you can you can go
+to the flux website and download it
+since it's not in the App Store anymore
+and then approve it through security and
+then set it up and get the schedule
+going
+or you can just use the one built into
+system preferences
+but she have a choice I'm giving this
+one a 5 out of 10 only because Apple
+could only kill half the company when
+it's also available on Windows and on
+Android if you root but also Android's
+added some of this functionality Windows
+10 has added some of this functionality
+so all of them combined would make it
+about a 10 out of 10 but Apple could
+only kill half all right so then there
+are iPad styluses and this isn't one
+company so much as it's like a whole
+product category that sort of got
+pummeled when Apple decided to enter so
+there's a big Variety in this space
+there's the markers and pens and pencils
+and styluses that can all write on the
+iPad Surface and so you can get anything
+from Ultra cheap to Ultra Premium
+depending on what you want it to do and
+then Apple just drops in at the high end
+with the apple pencil now the apple
+pencil as we all know works with and
+plugs into the iPad Pro better than any
+other stylus I would say literally
+because of the first gen apple pencil
+but no other iPad Pro stylus slaps onto
+the side of the iPad pad magnetically
+and pairs instantly and charges while
+sitting there it works with all of iPad
+os's built-in tools and minimizes
+latency with that high refresh rate
+display it is the best possible
+implementation of an iPad Pro input
+device plus I can imagine in future
+versions of the apple pencil having a U1
+chip right it would make a lot of sense
+you can add it to the find my network
+you can direct your iPhone to find it
+when you lose it we all know we've lost
+that pencil before there's just no way
+to justify buying a different stylus for
+100 bucks for the iPad
+I mean you can
+you have that choice so I'm going to
+give this one like a six six or seven
+just because you can still buy the
+cheaper ones if you just want a very
+simple input device normal stylus but
+the second you go 100 bucks plus that
+whole category
+really hard to compete with the apple
+pencil so okay then there's duet display
+so you might not have heard of this one
+but you probably have heard of sidecar
+the feature right that lets you use your
+iPad as a second display for your Mac
+what you might not know is duet display
+is an app and a company that's been
+built to do exactly this for a long time
+much before a sidecar existed and just
+like flux you know it still exists still
+got Windows and Android and even Chrome
+OS versions and it actually does still
+work for iPad but you can imagine most
+people who are just searching for
+something on Google like how to use an
+iPad as a second display sidecar is
+going to come up the majority of the
+time and it's going to be the easiest
+way to do it plugging straight into iPad
+OS the majority of the time so duet
+display does have a couple extra
+features on top of sidecar like you you
+can use the touch screen while you're
+mirroring but still like flux and like
+tile
+but most people are just going to be
+satisfied with the first party built-in
+version so I'm going to give this a
+seven because there's still the windows
+users with iPads we're still going to
+make that happen so last but not least
+there is Watson
+and this one probably hurts the most so
+this was a Search tool in the Mac that
+let you search the web and and search
+all kinds of other things without
+actually having to open up your browser
+and their tagline was actually an
+Innovative utility that bypasses the web
+browser but as you probably already know
+Apple came out with Sherlock 3 which was
+then called a spotlight which is in
+everything they make now I use it all
+the time and it does exactly the same
+thing search the web search your Mac
+search whatever also the Mac does it the
+iPhone does it the iPad does it Android
+phones do it like you can still
+technically choose to download This
+original but look at their website like
+you can imagine there hasn't been a good
+reason for people to download Watson in
+a long time if this is what their
+website still looks like that that I'm
+going to say is a 10 out of 10 rip
+completely gone right alongside like the
+flashlight app you remember those when
+you used to be able to download a
+flashlight app on the iPhone then Apple
+literally built it into the lock screen
+on iOS and now there's no reason to
+download a flashlight app I mean you can
+choose to
+technically
+but you're not going to so all this is a
+dynamic I encourage you to pay attention
+to the shark and the Remora of the tech
+world right and there's a lot of this
+talk going on in in the public sphere
+already with the the whole Anti-Trust
+and the Walled Garden talks funny enough
+the day after air tags were announced
+tile testified in front of Congress to
+explain how Apple was leveraging an
+unfair advantage to enter that market
+but of course Apple would argue no we
+didn't
+we let people choose we gave people a
+choice everyone had a choice you could
+plug in to the find my network if you
+wanted to or not that's up to you you
+can do it the apple way or not and
+whichever product people decide to buy
+so be it so I don't think there's any
+correct answer there's no easy right
+answer but what do you think should
+Apple not be allowed to plug into their
+own ecosystem and leverage that to make
+new great products or does Apple have
+too much power in that way but I
+encourage you to pay attention to when
+Apple inevitably enters even more new
+product categories like when they make
+an AR headset or a camera or whatever
+other new product they do end up making
+watch how much they plug in to that
+ecosystem in ways that their competition
+literally can't and watch how those fish
+respond to the shark but either way it's
+crazy to think about how far Apple has
+come from being a small company out of a
+garage to literally one of the biggest
+companies ever to exist mostly on the
+backs of the iPhone speaking of which my
+friend Renee Ritchie also he's made a
+nebula original on the introduction of
+that original iPhone with a bunch of
+Industry folks including myself talking
+about you know the fact that that made
+such huge Ripples and the first keynote
+and what that original iPhone meant so
+you can watch that whole thing on nebula
+a video streaming service built by
+independent creators including myself
+and that is bundled with this video's
+sponsor curiosity Stream So nebula is
+already pretty dope there's a lot of the
+smartest creators I know on their minute
+physics Tech alter Renee Ritchie as I
+mentioned all using nebula to share
+their best stuff and sometimes even
+trying new stuff that doesn't quite work
+on YouTube so I've been putting my
+videos on nebula ad free so you're
+welcome for the info on how to watch the
+videos without sponsors as a sponsor
+it's getting pretty meta but besides
+that Curiosity stream is a subscription
+service sort of built to like my exact
+tastes it's a home to all kinds of
+thousands of documentaries and shows
+about technology and futurism and
+culture and invention and the Social Web
+all that kind of stuff just look at this
+category drop down on the site I mean
+that's pretty amazing I feel like I'm
+perfectly in the Target demographic and
+if you watch my videos or enjoy them you
+probably would like these too there's
+one called Shark family tree which looks
+at how incredible great white sharks are
+they're all in 4k there's also plenty
+more where I can learn way too much
+about sharks so I encourage you to check
+them out so since the two together are
+kind of a no-brainer you can use my code
+or the link below to get both nebula and
+curiosity stream bundled together I have
+a feeling I'm going to be recommending a
+lot more of this stuff in the future
+either way that's been it again let me
+know what you think of the Apple Paradox
+of choice I'll talk to you guys in the
+next one
+peace
+[Music]

@@ -1,0 +1,125 @@
+# HD Tutorial: TweetDeck
+# https://www.youtube.com/watch?v=vVYo5LhBTYw
+
+[Music]
+Hey, what's up everyone? Welcome to
+another HD tutorial from MKBHD. And this
+one I'll be showing you guys how to
+download and install Tweet Deck. Uh so
+basically Tweet Deck is obviously a
+Twitter client. Um if you haven't used
+Twitter before, my Twitter link is on my
+page. You can uh follow me on Twitter to
+get basically exclusive updates when I'm
+uploading a video, when I'm uh when I'm
+away, stuff like that. So, um basically
+go to any major search engine you can uh
+AOL, Yahoo, Google, anything like that,
+and type in Tweet Deck, and it will be
+the first link there, tweet.com.
+Once you click on tweet.com, it'll take
+you to the beta website. It's version
+0.2.5.
+And uh basically, just hit the download
+now button. It is free. It is a very
+full version and it runs on the Adobe
+Air platform for Mac OS 10, for Windows,
+and for Linux. So, here we go. It'll
+open up the Adobe application install.
+Um, you're going to have to install and
+allow everything and just hit continue.
+And if UAC does pop up, just hit
+continue. So, uh, yeah, we're going into
+the uh, installation process here. It's
+installing the application. And as it's
+doing this, I'll talk a little bit about
+Tweet Tech. It is it has a big it's a
+really nice powerful and fast uh Twitter
+client. Um it does have Facebook
+integration. So you can update your
+Twitter status uh or your Facebook
+status through here. So um now that it's
+been fully downloaded and installed, I'm
+going to exit out of our web browser.
+And what we can do, see we've uh got an
+icon on our desktop. And first thing it
+does is open up Tweet Deck. So here's
+what it looks like.
+All right, let's wait for it to finish.
+Actually, I'm not signed in, but um I'm
+just going to uh see this icon here. I
+am signed in. So, uh here's what it
+looks like when you're fully signed in.
+Obviously, I have a ton of messages and
+replies and stuff. I'll just click on
+it. So, uh basically um Tweet Deck is a
+really full-fledged uh Twitter client.
+Right now, I have three columns open.
+The all friends uh people who I'm
+following, whatever you want to call
+them, those are all their updates. In
+the middle, I have replies, so people
+who have replied at MKBHD. And on the
+right hand side are all the direct
+messages. So, um, if you have were
+wondering why I haven't answered any
+direct messages, it's cuz I was I
+uninstalled Tweetex to do a redo. Um,
+I'm doing a tutorial on it. So, I'm just
+going to minimize it here. And it does
+minimize to the system tray. And I see
+this icon here on our desktop. We're
+going to want to put that up in our
+communications tab somewhere next to
+Skype. All you got to do is just drag it
+in. So, there we go. Um, and it's it's
+in the communications folder. Now, a lot
+of people say, "Well, I want Tweet Deck
+to start um with my computer, kind of
+like a IM used to." Uh, all you have to
+do is take the Tweet Deck icon, drag it
+to the start menu, uh, hold it, hover it
+over all programs, and you have to uh,
+go and just drag down all the way until
+you get to the startup folder. And the
+startup folder is where you have all the
+things that um that start with Windows.
+So, like um, maybe you have a IM
+starting with Windows, maybe you have
+Skype, you can get Skype to start with
+Windows. So, I'm just going to scroll
+down and drag drag tweet deck to the uh
+the start menu uh the uh startup folder.
+So, just hover over startup
+and then drag it somewhere inside there.
+Let go. So, uh Tweet Deck is now in the
+startup folder. So, now whenever you
+start up your computer, Tweet Deck will
+uh open up. So, if you're wondering
+where it went that I minimized it down
+here in the system tray, you see this
+little icon right here. Double click it
+and Tweet Deck opens up. So, uh you now
+have Tweet Deck. You can obviously tweet
+using the tweet button right there.
+Doing uh recording a video. Hit the
+enter button. It sends your tweet out.
+If you do uh on the right hand side want
+to attach Facebook to this. You can also
+that would be your Facebook status. If
+you have a URL you want to share, you
+can post paste that URL there, shorten
+it and then send your tweet. Uh you can
+also attach a picture. You can obviously
+shrink the update if it's more than your
+140 characters. But I basically this is
+just an installation video. So if you do
+want a full review video, I'm planning
+on getting to that very soon. Uh anyway,
+this has been a brief tweet deck
+installation tutorial. I hope this was
+helpful to you. And uh if you're not
+already following me on Twitter, the
+link is in the description in this
+video. And that's basically it. So
+thanks for watching. Peace.

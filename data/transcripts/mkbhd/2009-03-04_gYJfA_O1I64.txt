@@ -1,0 +1,207 @@
+# HD Tutorial: Diskeeper Pro Premier
+# https://www.youtube.com/watch?v=gYJfA_O1I64
+
+hey everyone and welcome to another HD
+tutorial and um class I was just
+wondering how often do you defragment
+your hard drive about once a month every
+other weekend every day
+um what's the
+fragmenting all right class it's time
+for another HD tutorial
+all right guys thanks for tuning in and
+um I just need to point out that a lot
+of people don't know how often to
+defragment their hard drive a lot of
+people don't know how to defragment
+their hard drive a lot of people like
+someone I know never has defragmented
+their hard drive so no but um it's
+really necessary to keep your computer
+fast and running I'm work working on a
+laptop here and if I want to save
+battery like you saw on my battery
+saving t video uh video series it's
+really necessary to keep your hard drive
+defragmented and running smooth so
+computer isn't draining batteries
+searching searching through all those
+jumbled files so I'm going to show you
+here a really cool program that I use uh
+to speed up the process of defragmenting
+it's not actually the built-in Vista
+defragmenter and I hope you like this
+tutorial so thanks for watching and
+enjoy all right welcome to my desktop
+here we're going to go over the exact
+defragmenting program that I use it's
+called disc Keeper Pro 2008 so if I just
+go to my start men men here here is the
+icon now I know this is paid software
+but I paid for it in 2008 and I haven't
+upgraded so I'm just going to click on
+it here and it's going to open it
+up and if UIC does pop up which it
+normally does for a defragmenting tool
+like this one then just hit allow so
+here is the interface okay what I'm
+going to do for you guys is just go over
+a very general look at the interface of
+disc keeper 2008 Pro Premiere and how it
+actually helps you to keep your hard
+drive clean now the first thing that's
+fairly obvious is that it's going to
+defragment your hard drive
+it has several features that actually uh
+do different things as it's
+defragmenting your hard drive such as
+creating it um oh also you can set up
+automatically defrag but if you just
+click on your C drive once and click the
+def fragment button you'll come up with
+a separate window that automatically
+when number one begins analyzing your
+hard drive and number two begins the
+process of defragmenting it so I'm going
+to close because I'm actually doing a
+recording right now but when if I when I
+go to the quick start guide it's going
+to tell me a whole list of the different
+features use dis keeper it's going to go
+to show you the quick launch pane which
+is this uh this line of uh action
+buttons along the top here um so that's
+a very helpful button that you can
+always go to if you're stuck or if
+you're trying to figure out how to get
+it to do something now a frequently
+Asked question about dis keeper is can
+you set up automatic defragmentation and
+that is very true if you go to the
+configured dis keeper
+button no I'm pretty sure it's analyze
+and defragment volume here we go it's
+under volume properties and there's 's a
+big button here that says automatic
+defragmentation and it says that
+automatic defragmentation maximizes the
+performance of your hard drive using
+boot time defragmentation ifast and frag
+shield and frag Shield is basically what
+keeps it from ever fragmenting again so
+I keep it running on the weekends right
+now it's a Monday so it's not running in
+the background but it's very good
+because if I cancel here you can see it
+says um invis tasking is what it's
+called it uses barely any system
+resources if I were to scroll down
+there's even a graph of how much system
+resources it's using so that's quite
+useful that I can do that for me so I'm
+going to keep scrolling down here are a
+list you get a list of the most re
+recently defragmented files so when I
+last uh defragmented my dis uh my dis
+drive you saw I had a uh screen capture
+that was recording to all different
+parts of my dis when I ran this the file
+had six fragments it threw it all
+together in one smooth file and that's
+that worked very fine so um and also at
+the end you can always just click
+recommendation to see if you should or
+shouldn't defragment your hard drive um
+it'll give you a little diagnosis here
+now on my old desktop computer which is
+sitting downstairs with 128 megabytes of
+ram it was crucial that I defragmented
+my hard drive however I never
+defragmented my hard drive in the years
+that I had it and it would have had down
+here something like crucial or deadly
+Health okay it was very bad condition
+and I ended up running this a few times
+on and about six times over the course
+of one day and got it back to tip Toop
+top shape so manual defragmentation will
+do that for you and then keep on
+automatic defragmentation to keep your
+hard drive running well now ifast
+technology is basically what is going to
+keep your most recently accessed files
+closest to the front and closest and
+most actively maintained so I really
+like that feature because it holds my
+files together really well also at the
+top there's a file action View and help
+let's go to file file you get an options
+window which is basically whether or not
+you want to permanently delete console
+saved files like the history of your
+defragmenting Etc not much options there
+and you can obviously exit if you go
+under action here's the here's the big
+one you can refresh using F5 just like a
+browser okay getting started with quick
+the quick start guide that I showed you
+as well as an overview and FAQs um you
+can check out the properties of a
+certain uh drive so if you were to right
+click on it you could always go to
+properties here or you could just um go
+up here have it selected go to op opt
+action here and configure disc keeper is
+also another thing where you can um
+basically you can change different
+things there's a lot more options here
+um than the actual options menu but it's
+licensed it's got a whole ton of
+different things about dis keeper and
+what it's actually doing for your
+computer file exclusions if you want to
+exclude certain files proxy settings so
+it's really good so if you ever uh
+actually edit any of these preferences
+or properties just hit apply and then
+hit okay last but not least or second to
+last we have View and customize where
+you can actually customize what is up
+here in the launch pane so if you want
+to have the standard toolbar here we go
+the standard toolbar just pops up I
+uncheck it and it's gone the status bar
+okay you can have a status bar a
+description bar which is this little
+thing up here it's not actually telling
+me anything's happening but so different
+things like that you can change the
+actual interface of disc keeper so I
+really really recommend it for anyone
+who's looking into a dis keeper or a
+disc defragmenting program now if I exit
+out of here you'll be able to see if I
+go into all my programs and find it it
+actually replaces the buil-in windows
+disc defragmenter so if you do go to all
+programs accessories and I believe it's
+under system tools so if I go down to
+system tools
+here and I go down to disk defragmenter
+it's not actually there okay so it's
+it's replaced it with dis keeper 2008
+dis def fragmentor it's replaced it
+completely I really don't like the
+built-in Windows Vista or Windows XP
+DISD fragmenter just because they are so
+unbelievably slow but you know if you
+can't if you don't want to buy it then
+that's for you so there we go I
+recommend defragmenting your hard drive
+as often as possible and if you have any
+other tutorials or requests or requests
+or ideas for me for a tutorial go ahead
+and subscribe and send me a personal
+message and I will get back to it thanks
+for watching And subscribe peace out
+guys

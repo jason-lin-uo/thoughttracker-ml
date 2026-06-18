@@ -1,0 +1,226 @@
+# The Chromebook Pixel: Explained!
+# https://www.youtube.com/watch?v=xU2fB0pQJkA
+
+[Music]
+Hey, what's up guys? MKBHD here. And how
+about those Chromebooks, huh? Many of us
+have thought that Chromebooks were a
+dead or dying breed. But one of them has
+been the number one bestselling laptop
+on Amazon since the first day that it
+was introduced. So, what's going on
+here? Chromebooks have been doing really
+well as very cheap, but also very easy
+to use laptops. They're basically a $250
+laptop that you can get for mom or
+grandma or something like that, and it
+just runs Google Chrome. you can use all
+the Chrome web apps and everything like
+that and it's been doing pretty well
+just as a basic product like that. A
+couple of weeks ago, a very interesting
+video came out uh that sort of showed a
+high-end looking Chromebook with a sort
+of a retina display and all these really
+interesting things that we would have
+loved to see but never really happened
+but it was sort of dismissed as sort of
+a a nonreal product. But yesterday
+Google came out with announced and made
+available the Chromebook Pixel. It's
+real and uh looks sort of a bit like a
+squared off MacBook Pro. It looks good
+and uh the specs are actually high-end.
+So, I'll start off with the display.
+That's basically the highlight of the
+hardware. This thing is called the
+Chromebook Pixel because it is a 13-in
+2560x700
+display, which gives it a pixel density
+of 239 pixels per inch. That makes it
+the number one highest pixel density on
+any laptop display out there. It's also
+a 3x2 aspect ratio, which you might
+think is a little bit weird, especially
+if you're going to do media consumption
+on this thing. But when you think about
+it, it's a Chromebook. you're going to
+be using this thing entirely for web
+browsing and media consumption. And for
+that, extra vertical pixels are better
+than not enough, especially when pretty
+much every website scrolls down. You
+want to be able to fit as many things as
+possible on that display. So, the extra
+pixels are definitely helpful. And then
+it's a 400nit display. That's the
+brightness level. This here happens to
+be a 300nit display. And it's a high-end
+display. So, the display on the
+Chromebook Pixel is already very
+high-end, and it's touchscreen. So the
+touchcreen layer adds a whole new level
+of interaction and sort of immedia
+experience. You can, you know, tap it
+just like it was sort of an Android
+tablet. You can tap to play and pause
+videos. You can tap to actually click
+the way you'd use a mouse. The sort of
+the same way we've seen Windows 8
+touchscreen laptops. So this is
+absolutely a really high-end display and
+that's probably why they named it the
+Chromebook Pixel. Inside is a dualcore
+1.8 GHz Core i5 processor with
+integrated graphics. And around the
+outside it does look pretty good. It's
+made of anodized aluminum. It has two
+USB 2.0 ports, a mini display port and
+an SD card reader. And up top is an HD
+webcam. There is a Wi-Fi only version of
+this guy for 32 gigs. And that's
+basically $1,300. And there's an LTE
+version of this guy that has 64 gigs of
+storage. All the links for that will be
+down below right below the like button
+on this video. So, it seems like in
+terms of pure specs, this thing is
+shooting at the 13-in Retina MacBook Pro
+plus a touchcreen. But then you consider
+the fact that this entire package fits
+in a 3.4 pound body that's just 16.2
+millimeters thick, which is actually
+thinner and lighter than that 13-inch
+MacBook Pro. There's been a lot of talk
+about the price of the Chromebook Pixel
+at $1,300 base price. It seems a little
+bit high, very high, actually. But when
+you think about it, it still seems very
+high. But let's take a step back and
+consider the purpose of this machine.
+The real reason it actually exists right
+now. And for that, we take a look at a
+quote from Google's blog which says,
+"This brings together the best in
+hardware and software and design to
+inspire the next generation of
+Chromebooks."
+H this is a Halo product. This is the
+Nexus 10 and the Nexus 4 of Chromebooks.
+This is the inspiration for the next
+hardware manufacturers to start making
+Chromebooks that are actually high-end
+and from high-end specs. Right now, all
+we've seen so far is $250 and $300 cheap
+plastic HP and sort of basic
+Chromebooks. This is the inspiration for
+the next generation of high-end
+Chromebooks. So, in its creation, it's
+not even really made for the typical
+consumer. It's not made to sell well.
+It's not a flagship. It's just a
+Chromebook. So, what is the real purpose
+of this Chromebook Pixel? Well, Gene
+Lewis Guen on Google+ put it best in his
+post. The Chromebook Pixel is really
+just an experiment, but it's one that's
+crucial for Chrome OS. It may not sell
+well at all. In fact, it probably won't.
+And the Chrome team may not care how
+well it sells after all. What they will
+watch closely is what happens next,
+specifically in the Chrome web store.
+This is similar to what this Nexus One
+did for Android. Consider the two
+biggest complaints you've heard about
+Chromebooks in the past few years. One,
+it's cheap hardware, and two, it lacks
+powerful apps. So, the critics have
+called it just a glorified web browser.
+And to them, the Chromebook Pixel looks
+exactly the same as the rest. Most early
+reviews will conclude that it's too
+expensive or the hardware is premature.
+But as we've seen repeatedly in blog
+posts and videos from Google, the Pixel
+really is for what's next. What today's
+announcement shows is Google has chosen
+to address hardware first. In doing so
+on its own, they're not relying on
+Samsung or Acer or HP or anyone else.
+And they're doing so boldly. No longer
+are Chromebooks synonymous with budget
+hardware. they can be cutting edge and
+specs are no longer an excuse. Now we
+have high-end hardware. So now the
+hardware is out of the way. Chrome OS
+really needs to step up. It needs
+cutting edge applications to make it
+more than just a glorified web browser.
+The Chrome team has known this for a
+while and they certainly know it today.
+It's the missing element what they need.
+It's what consumers have said are
+keeping them from adopting Chrome OS or
+switching completely from Windows or
+Mac. Users need powerful productivity
+apps and games and even photo and video
+editing apps. And the web store has to
+be better. It has to offer that. The
+groundwork has now been laid over all
+these years with the cheap Chromebooks.
+And Google needs the developers to make
+the rest happen. They also need a
+Chromebook to get excited about. That's
+the Pixel. So, over the next few months,
+you'll see Google doing its best to get
+the Pixel in the hands of and the minds
+of as many developers as possible. In
+fact, the Pixel will probably be given
+out for free to developers at Google IO
+this year. Meanwhile, the Chrome team
+will continue to push development until
+the web is all users really need,
+reducing hardware dependencies and
+bringing in things from Android like
+notifications and Google Now. So, when
+the apps become powerful enough and the
+Pixel is powerful enough, Chromebooks
+will become more than just a glorified
+web browser in the eye of the mainstream
+consumer. And that is the gamble that
+Google made today. So, in the end, the
+Chromebook Pixel is a Halo product. It
+is sort of a beginning and a sort of an
+entry into a new market that doesn't
+really exist yet. But it's Google
+pioneering the way where it wants others
+to follow. It's paving that path that it
+wants manufacturers of other Chromebooks
+to start to follow to make high-end new
+generation of Chromebooks. And the
+reason sadly that it is so expensive is
+that touchscreen. It's that better be a
+really good touchcreen in order for it
+to be so expensive. My biggest problem
+with touchscreen laptops was actually
+pressing it. The hinge would bend and it
+would wobble back and forth. This needs
+to be a great touchcreen to justify me
+paying $1,300 for it. Now, all that
+being said, I still haven't held one
+yet. I haven't actually held it. So,
+expect a video on it coming up in the
+next few days when I get my hands on
+one. Until then, I will leave you with
+my Chrome OS explained video, which is
+down below, first link in the
+description. But yeah, that's it. So,
+hopefully I'll see you guys in the next
+video. And this was the Chromebook Pixel
+Explained. Thank you for watching and
+I'll talk to you guys later. Peace.
+Heat.
+[Music]
+Heat.
+[Music]

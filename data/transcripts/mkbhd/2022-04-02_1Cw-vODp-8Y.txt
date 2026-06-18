@@ -1,0 +1,306 @@
+# YouTube Needs to Fix This
+# https://www.youtube.com/watch?v=1Cw-vODp-8Y
+
+[Music]
+okay so i was at this meeting a long
+time ago with google and youtube i don't
+even know if i'm allowed to talk about
+this yet but it was so long ago proud it
+doesn't matter uh but eric schmidt was
+there and he said something that
+i
+remember super clearly to this day i'll
+never forget the quote which was
+every problem that we have
+is a problem at scale and the more i
+think about that
+the crazier it is i mean it makes a lot
+of sense youtube is a huge site so
+youtube right now in 2022 has 2.6
+billion
+monthly active users
+that means that if there's a problem
+that's so small it only affects
+0.1 percent of people on youtube
+that problem now affects 2.6 million
+people so if you're running a company
+that big that affects this many people
+like there's gonna be a lot of decisions
+that come across their plate that are
+going to affect large groups of people
+and obviously there's got to be a
+threshold
+that you set where you can't do tons of
+things every single day but once it
+reaches the threshold then you got to
+make a choice so maybe oh you know
+something comes up that's affecting a
+third of youtube users that makes 4k
+videos loads slowly or something all
+right we'll do something about that or
+hey looks like three percent of youtube
+users are getting dislike bombed so
+we'll do something about it we'll just
+get rid of dislikes from the whole site
+but there are still going to be small
+little issues all the time that are
+below that threshold that affect a tiny
+tiny fraction of the site
+0.1 0.01 percent
+and that isn't a big enough issue to
+spend money on fixing but it's still
+affects millions of people but this
+issue i really just from my experience
+on youtube i have to think that it has
+gotten above that threshold
+and that is comment spam
+so really any recently uploaded video
+you go to on youtube by a relatively
+active creator you will undoubtedly come
+across comments with duplicate names and
+profile pictures like this thanks for
+watching message right away i have
+something for you thanks for the
+feedback expect more videos very soon
+send direct message i have something for
+you congratulations you've been selected
+amongst our shortlisted winners and
+they're usually the first or only reply
+on a lot of the most recent and most
+popular comments on any video doesn't
+really matter what the comment is about
+they'll figure if you're leaving a
+comment you're engaged enough to see it
+and fall for it and their goal is to get
+you off of youtube onto a telegram
+message or whatsapp message now if
+you're thinking well damn that's stupid
+that's obviously not going to work it's
+clearly fake
+well that's what i would think too but
+i started getting emails and tweets
+first it was like one email a day or
+someone once would tweet at me
+and then it was two a day or three a day
+and then it was several every day
+now at this point every day i wake up to
+at least a dozen new emails of people
+sending me screenshots of conversations
+they think they've had with me just
+checking to make sure they sent the
+money to the right place or whether or
+not the paypal payment went through
+these people are claiming to have a
+giveaway prize ready to ship and they
+just need you to pay one or 200 bucks
+for shipping and if that's just the
+people who have thought to email me
+imagine how many other people are
+falling for this and not emailing me
+that i'm not seeing like that is a
+serious bummer and the crazy part to me
+is you would think the comment section
+would be this precious
+priority for youtube because it's such a
+unique feature of the site this is one
+of the only places that you can
+facilitate real conversations between
+the creators and the audience between
+you and i
+it's what makes youtube youtube like i
+remember back when i started on youtube
+i had email notifications turned on for
+everything so every new comment and
+every new subscriber i got an email for
+it and i would reply to every single
+comment on every single video
+for years actually but this was my
+portal into the community now these days
+obviously i can't reply to everything
+but i do still try to spend a lot of
+time in the comments section and talking
+to people but i end up spending most of
+my time blocking channels of people
+trying to scam my audience out of money
+and keep in mind this is just the spam
+flavor of the moment like these spammers
+like any other bad actors are always
+going to try to adapt and evolve and be
+as effective as possible all the time so
+like on my channel if i'm doing a
+giveaway or even if i'm not they'll know
+they can slip in and talk about like
+maybe doing a tech giveaway but on
+jacksepticeye's channel he just did a
+video about a month ago talking about
+how commenters will try to get you to go
+to their adult sites with just copying
+and pasting another highly rated comment
+and then just getting a bunch of bots to
+upvote it to the top linus made a video
+this year on comment spam his channel
+gets plenty of crypto stuff along with
+pc related giveaways and you can imagine
+on any mr beast video or any channels in
+that cinematic universe there's just
+going to be money giveaway spam there's
+just so much spam and with the number of
+places the number of channels that i've
+seen this comment spam running rampant
+on i feel like it has to be associated
+with
+some level of negative sentiment of just
+a bad feeling
+of spending time in the youtube comments
+section so now there are moderation
+tools that youtube has built to help
+keep comments and check right they've
+gotten better over time there's an
+automatic spam filter that does a pretty
+decent job and catches a lot of stuff
+and just recently this button to hide
+user from channel will actually work
+retroactively so it'll block the channel
+but then also remove all the comments
+they've ever made on any of my videos
+but i've spent a lot of time doing this
+and the more time you spent trying to
+keep up with the spam the more you
+realize that not enough is being done so
+now youtuber theo joe you might have
+heard of him he's made an open source
+tool that will scan for spam comments
+and is much better than youtube at
+identifying all of them and just on my
+last video alone out of around 6 000
+comments scanned it found that nearly 2
+000 of them were identified as spam 2
+000
+spam comments look i don't know how bad
+something has to get to get on youtube's
+radar to cross that threshold but if 30
+of the comments on my new video are spam
+that's just not a good look so okay what
+should be done that's the real question
+right
+uh and i think there are two things
+one is a community built solution
+and two is a youtube built solution
+but only one of those things actually
+exists effectively right now so the
+community built solutions can actually
+put a dent in things by users that are
+active and and going through and doing
+this type of stuff all the time so that
+tool by theo joe that i mentioned
+earlier it's multi-platform it works on
+windows and on mac and if you plug in
+your youtube info you can purge youtube
+comments according to its much more
+accurate filters and criteria which is
+super helpful for creators that
+implement it i am definitely going to
+try it and then other people can
+download it and run other videos through
+it to mass report comments on other
+videos and other channels
+now that doesn't delete those comments
+but hopefully
+the mass reporting of these types of
+comments can help train youtube's
+automatic filters to more effectively
+remove them will it actually work
+i don't know but i promise you no matter
+how good these community built solutions
+get
+nothing can touch the effectiveness
+of youtube building a fix themselves
+and we know that to be true because the
+community built solutions are amazing
+and the problem's still here so
+youtube has to do something about it now
+i'm not expert but i have been on
+youtube longer than i haven't been on
+youtube
+crazy to say that
+so looking at these youtube comments
+even though these are all pretty
+obviously spam comments to me clearly
+they're getting through the spam
+detection filter that youtube's built
+so a comment moderation tool to nuke
+them all would be the ideal right now
+like i mentioned earlier they steal the
+uploader's profile picture to try to be
+convincing but then they also make
+literally dozens of accounts really
+quickly so blocking one of them and
+hiding all of their past activity from
+the channel which works
+it only works for one set of spam
+comments that one spam account left on
+my last video alone like i said tons of
+spam there's almost 40 different
+accounts leaving comments and each one
+of them has left anywhere from 1 to 111
+spam comments so as of right now you can
+already block certain words from
+appearing in the body of a youtube
+comment so if somebody leaves a comment
+with a certain word in it it will just
+not show up and that makes a lot of
+sense it works for like if someone tries
+to put an address or your phone number
+or an offensive word or any number of
+things that may be part of the spam
+flavor of the moment that you can just
+nix right in the bud
+that's super useful but like i said
+these bots are smart or at least the
+people making them are they're already
+adapting to that by cramming as much
+information as they can into the
+username now so not just the body of the
+spam comment itself so the best solution
+i can think of right now would be for
+youtube to let us
+ban
+words from user names so that right off
+the bat i can just ban anyone who tries
+to use my name in their own username
+it's the easiest way to stop
+impersonation type spam from occurring
+and i know it might sound messy or brute
+force and you might be concerned about
+innocent users getting caught in the
+crossfire hey what if someone has the
+same name as me but listen
+this is the same company that saw a
+fraction of users getting dislike
+brigaded and decided to turn off
+dislikes for the entire site so to me
+this tool seems to be not that bad and
+who knows maybe someday in the future
+youtube's ai will get advanced enough
+that if you make a brand new account
+with the same profile picture and name
+as the person whose videos you're
+commenting on and then leave a hundred
+comments in an hour that it'll trip
+something and it'll recognize it as spam
+and delete it but in the meantime a psa
+myself and other creators will never ask
+you for money or for a shipping address
+or to dms on telegram and if we do have
+a giveaway going out we have verified
+accounts and will never message you from
+any other account so if you click on an
+account and it doesn't go to our channel
+that's a pretty good sign
+okay
+that's it for now youtube
+get on it
+that's it thanks for watching
+catch you guys the next one
+peace
+[Music]

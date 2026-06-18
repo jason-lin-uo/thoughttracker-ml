@@ -1,0 +1,380 @@
+# Mac Studio Review: Double Trouble!
+# https://www.youtube.com/watch?v=wvhP1al3Ur4
+
+[Music]
+welcome to the review of the MAC at the
+studio I mean welcome to the review of
+the Mac Studio
+[Music]
+[Applause]
+[Music]
+all right so this is the computer I
+personally got really excited about when
+they announced it because we've built a
+video Studio here and this computer is
+literally called the Mac Studio so the
+entire purpose is to be the ideal
+computer that is small and powerful
+enough to be in a studio environment and
+had all these example studios in the
+Apple event from music studios to Design
+Studios to specifically video Studios
+and so they made a little Cube the size
+of Two and a Half Mac minis with a bunch
+of i o some new Cooling and an M1 Max or
+an M1 Ultra chip inside specifically to
+live in these Studio environments and so
+now
+I've got one here in our studio so I've
+been throwing all types of tasks and
+projects and accessories at this thing
+including this new studio display which
+I also plan on making a separate review
+about because it's pretty weird make
+sure you get subscribed for that and I
+actually have two but I've mostly been
+putting my time into testing this M1
+Ultra version because it's the newest
+biggest baddest chip so I call this the
+2x machine basically everything about
+this machine is doubled now I'm going to
+be referring to the M1 Max chip a lot
+during this review so if you haven't
+already seen the MacBook Pro review with
+the M1 Max chip in it that's going to be
+very helpful I'll leave that link below
+the like button this one basically
+doubles all the things so physically
+speaking it's basically like two Mac
+minis stacked on top of each other
+melted into one thick Mac Mini three C's
+and this is incredibly small for the
+amount of power it puts out it can sit
+on any desk alongside speakers or a
+monitor or whatever you set it up with
+also it is a total coincidence but I set
+mine up on this desk I got from Blue Dot
+which already has a bunch of these
+perforated holes that remind me of the
+mac and it fits absolutely perfectly
+underneath the shelf so that a monitor
+can sit on top of the Shelf without
+actually sitting on top of the computer
+anyway this is the back of the computer
+which has a full Suite of i o even more
+ports than the Mac Mini there are four
+Thunderbolt 4 ports a 10 gigabit
+Ethernet port the power plug two usb-a
+ports an HDMI 2.0 Port not 2.1 again for
+some reason and a headphone jack that
+can support higher impedance headphones
+just like the MacBook Pro now it's not
+kicking out world-class audio by any
+means it's not going to replace my
+universal audio DAC but it is convenient
+to have kind of the same way HDMI is
+convenient although I'm kind of
+surprised this one doesn't do HDMI 2.1 I
+get it on the laptop that's just so you
+can plug in a random monitor on the go
+but this is going to sit at your desk
+and it would be nice to have high
+refresh rate but at the same time the
+Ford Thunderbolt ports will support up
+to four Pro display xdrs which are all
+6K so I guess he got back on for you but
+then at the front Halo look look at that
+front i o which is nice because this is
+going to sit on a desk not under it so
+up front here that's going to be two
+USBC ports if you get the base M1 Max
+version but those graduate to two
+Thunderbolt 4 ports if you get the M1
+Ultra version because there's literally
+more buses available and then an SD card
+slot because every Studio I know has
+tons of SD cards lying around somewhere
+so it turns out if I wanted to replace
+my Mac Pro today that is enough I O for
+me to actually do that so I've got two
+Thunderbolt displays and then one
+Thunderbolt raid array and the DAC the
+universal audio DAC is also Thunderbolt
+so all together plus a couple card
+readers I'd be set now Apple did use the
+word modularity in their presentation
+I don't know if that word means what
+they think it means I mean maybe if
+they're just trying to say because it's
+not connected to a display and you can
+choose your own unlike the iMac that's
+what they're considering modular if not
+then I have no idea what they're talking
+about because this thing is absolutely
+not modular at all all of the parts
+inside are soldered in there is no
+upgrading of the Ram or the GPU or any
+parts of this thing ever for the entire
+lifetime of the machine I'm not even
+sure there's any reasonable way to
+actually open up and get into the Mac
+Studio so yeah I can't give you modular
+on this one apple but also this level of
+vertical integration is basically
+required to get a computer to be this
+small and this efficient like I've seen
+some small PCS before this one is Tiny
+also the power supply is built in so
+there's no wall wart it's all just in
+this little box and also fun fact Apple
+did send both the M1 Max and M1 Ultra
+versions here to the studio to test and
+the M1 Ultra version is in fact notice
+possibly heavier than the max it's two
+whole pounds heavier it turns out that's
+because the heatsink they used in the
+ultra version is made of copper instead
+of the aluminum one they put in the M1
+Max it's much more dense it's heavier
+that's pretty serious but I think that's
+my cue to talk about the inside of this
+machine a little bit more because that's
+where the 2x theme starts up again so
+you remember the event the M1 Ultra is
+literally two M1 Maxes basically fused
+together with a high enough bandwidth
+between them to behave like one huge
+mega chip which is awesome because that
+means two times the CPU cores two times
+the GPU cores two times the memory
+bandwidth and two times the total memory
+so in applications I can take advantage
+of this stuff well this should be twice
+the machine now Apple did the whole
+thing they always do with graphs and you
+know you can never really take these
+completely at face value I did do some
+synthetic benchmarks though and for a
+lot of them it does behave like twice
+the computer it it absolutely blew the
+doors off every other Mac ever made
+especially including the iMac Pro and it
+even flirts with the 28 core cheese
+grater Mac Pro that I've been using so
+in geekbench it ties the highest single
+core score I've ever seen and then it
+drops a multi-core score literally
+double the M1 Max MacBook Pro and yes
+that also makes it more powerful in the
+CPU Department than any other Mac ever
+including 28 core Mac Pro then in the
+cinebench test which I think is a little
+more realistic ran it for 10 minutes and
+it gave me around 24 000 which again is
+about double the M1 Max and is right in
+line between a 16 core thread Ripper and
+a high thread count Xeon chip like the
+Mac Pro basically the CPU benchmarks are
+killer until could never but then we got
+to talk about GPU stuff it gets a little
+more interesting so you might remember
+Apple's graphs were comparing at one
+point the ultra to an RTX 3090 they kept
+saying it'll have the same performance
+as an RTX 3090 but at 200 Watts less
+power and that's very impressive but it
+turns out the graph should continue a
+little something like this because the
+RTX 3090 will happily continue to draw
+way more power up to 400 watts of power
+it's one of the power hungriest cards
+ever so shout out to heimgartenberg at
+The Verge for this chart inspiration so
+it turns out it doesn't beat the RTX
+3090 at anything that you would buy an
+RTX 3090 for which I didn't really
+expect it to because that card is almost
+exclusively for gaming like you buy that
+to play games and you would never buy
+this to play games but hey double the
+cores still do double the work so on
+geekbench's metal Benchmark which
+measures GPU performance with things
+like image processing I got nearly
+double the score of the M1 Max MacBook
+Pro cracking a hundred thousand which is
+around what a Radeon Pro Vega 2 Duo in
+my Mac Pro scores but the Mac Pro has
+four of them now synthetic benchmarks
+are cool and everything but you don't
+buy a computer like this to just try to
+get the highest benchmark scores you buy
+a new computer to see if that new power
+can translate to real world performance
+and real world workflows and so
+basically what I've noticed most is the
+more well-optimized the app the closer
+you get to those 2x performance numbers
+nothing really typically hits exactly 2x
+but the M1 Ultra does feel faster a bit
+sometimes than the M1 Max I mean in
+everyday performance just zipping around
+the Mac yeah this thing slaps it makes
+me really wish I had a high refresh rate
+monitor here that plays nicely with the
+Mac because that would actually feel way
+more responsive like the MacBook Pro
+with its Pro motion screen but you know
+5000 plus megabytes per second read
+write speeds from the drive things open
+instantly it's great and then in my own
+workflow you might know by now I'm a
+Final Cut Pro editor here it did give me
+more Headroom and it did perform better
+than the M1 Max MacBook Pro but again it
+didn't quite beat the Mac Pro I'm
+currently using basically it's gotten to
+the point where I can drop fresh 8K raw
+files on the timeline in better quality
+playback mode immediately hit play and
+start tweaking color and messing with
+raw settings and it plays back perfectly
+at 30 frames without hesitation minimal
+lag when I hit the play button I love it
+it's when you start adding layers of
+objects and plugins and animations and
+trackers on top that things do start to
+slow down and I can still bring it to
+its knees with enough layers of moving
+objects like I had I had six at the
+beginning of the iPad Air review but
+then when I got to the export at the end
+of the video it took the Mac Studio 7
+minutes and 30 seconds to export my
+iPhone SE review which is pretty
+impressive but interestingly this same
+project took 6 minutes and five seconds
+to export from the Mac Pro so it's still
+more powerful it just has more raw
+horsepower but of course not everybody's
+using Apple's own apps like I do with
+Final Cut there are plenty of Premiere
+Studios there are lots of DaVinci
+Resolve Studios hell even in this studio
+we've got people using heavy Photoshop
+and after effects stuff for thumbnails
+and Motion Graphics so I am happy to
+report that adobe has been working
+through their Suite the newest After
+Effects beta is dramatically faster on
+Apple silicon so that's awesome and I'm
+gonna link an article from Scott Simmons
+where he went through a bunch of tests
+between Premiere and resolve comparing
+the M1 Ultra with the M1 Max and you can
+see a consistent performance improvement
+with all the heavier stuff like adding
+warp stabilizer rendering a heavy clip
+Etc the only thing I did find where the
+M1 Ultra didn't beat the M1 Max was
+interestingly just a straight up prores
+video export sorry for the tons of video
+comparisons but hey it's a video studio
+so this was one area where it did smoke
+the Mac Pro because the new prores the
+media engines in these Apple silicon
+products are great the M1 Ultra has
+literally double the media engine of the
+M1 Max so I thought it would be twice as
+fast
+while they both beat the Mac Pro it was
+roughly the same time to export a single
+prores clip but generally yeah it might
+not have matched the Mac Pro at every
+single little thing I threw at it but
+yeah if you're not a video person I'll
+let you find The Benchmark that applies
+best to your workflow but generally with
+the stuff I threw at it M1 Ultra heavily
+outperformed M1 Max and it did it all
+very quietly with very little heat in
+this tiny little box that just sits
+inconspicuously on your desk I mean this
+computer makes it so obvious why they
+were eager to ditch Intel also let me
+give a shout out to the sustainability
+element here too so they use recycled
+materials inside these computers that's
+cool and then even the packaging I don't
+think people understand how hard this is
+the packaging for these computers is
+absolutely incredible fully recyclable
+lots of padding moving parts and then
+with a literal floating cardboard
+platform in the middle for shock
+absorption it's wild I would not be
+surprised if just this box added like 50
+bucks to the price of the computer just
+to engineer such a ridiculous package
+but as far as real world impact the
+biggest chunk of that will come from the
+efficiency of these chips of course
+Apple says that it'll use over a
+thousand kilowatt hours less energy per
+year than an average PC desktop that's
+good for your electricity bill but
+that's also good for the environment but
+at the end of the day look this is just
+a tool right just like the app or
+program you're using already is just a
+tool and so I think people look for the
+The Benchmark that will prove that this
+machine will make them better at what
+they do it can't do that like just
+because it's fast if you're bad at
+editing and you get this machine you'll
+still be bad at editing but just faster
+but I am really happy to see new
+machines like this still coming out that
+do make big leaps in performance and
+capability sort of raises the ceiling
+for what you can do now all that being
+said
+the Apple silicon Mac Pro is still
+coming
+and I say that not even like as a
+warning to most people but just to
+remind myself because honestly most
+workflows are covered with the Mac
+Studio like if I today if I'm a YouTuber
+and I'm just editing 4K or 8K even
+prores all the time
+this will be able to handle it but if
+you're doing large 3D modeling projects
+or tons of tracking and layers and after
+effects or even in audio projects lots
+of plugins and video stuff if you're
+really pushing the limits of your
+machine the Mac Pro platform still does
+offer the most horsepower so I mean it
+shouldn't it shouldn't be surprising
+that the current 40 pound 28 core you
+know 768 gig of RAM Mac Pro manages to
+slightly outperform this little tiny box
+here but when we do get the new Apple
+silicon Mac Pro I do expect performance
+to double this one up again which is
+crazy to say out loud but for everyone
+else
+this thing is overkill and I love that
+that's the narrative around this
+computer like do you really need that
+much power probably not but hey at least
+it's five thousand dollars of Overkill
+versus
+25 000 of Overkill so
+it's a bargain
+either way that's been it thanks for
+watching catch you guys the next one
+peace
+[Music]

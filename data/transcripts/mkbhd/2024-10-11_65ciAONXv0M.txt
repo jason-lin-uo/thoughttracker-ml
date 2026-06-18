@@ -1,0 +1,435 @@
+# Let's Talk About Panels
+# https://www.youtube.com/watch?v=65ciAONXv0M
+
+so last week I launched a project that I
+was really excited about that we've been
+working on for a while a wallpaper app
+called panels and I made a lot of
+mistakes along the way including the
+fact that I didn't really explain
+anything I didn't explain the UI what
+was in it the point of the app and most
+importantly why it had a freaking $50
+price tier and so appropriately the
+entire internet was very disappointed
+and that's 100% on me I think that
+that's part of what can happen when you
+spend a long time building something
+that you forget that other people don't
+have that context but the point of this
+video is not to make excuses it's to
+actually break down and explain
+everything so that you have it straight
+from me now first of all and I'll get to
+pricing in a second but just right from
+the top a wallpaper app pretty Niche
+thing right like most people just use
+one of their own pictures as a wallpaper
+or grab something cool from Google
+that's something I've done many times
+over the years so it's a very small
+fraction of people who will actually
+download an app let alone pay for a
+wallpaper on their phone but the reason
+I decided to try and make a wallpaper
+app is because for years I've been
+answering this one very common question
+which is where' you get that wallpaper
+like in videos and screens and devices
+I'm reviewing where'd you get that piece
+and so if I could always have some place
+to point to that's on IOS and Android if
+I could have a link in every description
+then that would be awesome and if I can
+leverage this incredible platform you
+guys have given me to give way more
+eyeballs to the artists that make that
+art that I'm using I felt like that was
+something worth building it's actually
+an idea that's been floating around the
+studio for years and we never really
+knew where to start but then like a year
+and a half ago a developer reached out
+to us with a similar idea and we were
+like all right this is great let's
+collaborate and let's actually build
+this thing so that's when we set off to
+actually start making it so many months
+ago myself and a developer team of two
+along with some others on my team here
+at the studio set off to build this
+thing and this is what we ended up with
+it's a fresh new app there's a few
+hundred pieces in here by a bunch of
+different handpicked artists that I've
+used art from in the past plus a few
+people in the studio here submitting
+their own and then on any page if you
+like it you can get it but you can also
+click on the artist name and see more
+from that person including their socials
+so this is something specific that sets
+it apart now again most people like 99%
+99.9% of humans do not buy wallpapers
+but there is a pretty awesome community
+of artists making sick art sometimes
+free sometimes a few bucks I know from
+being in the thick of it for many years
+I've personally gotten very used to
+fking around and finding a sick
+wallpaper or icon pack and go straight
+to the source and it's a few bucks and
+you download it straight from there and
+we wanted to support both of those in
+this app free art and paid art so this
+is where a lot of the pricing
+conversation comes in and this was a
+misjudgment on my part like this is also
+terribly communicated so I want to make
+super clear this should be a free app
+this should be a great free app
+experience for the vast majority of
+people who use it and I really dropped
+the ball there and obviously I've never
+made an app before I make videos and
+review products but the people are right
+like if I was reviewing this app I would
+not have been very nice but this is this
+is the two-sided coin of you know
+deciding to not go build something in
+public is if we're going to Dish it we
+got to be able to take it too and so
+there has been no shortage of tons of
+actually constructive feedback that
+we've taken in Taken notes on and sort
+of started to turn into this app that we
+had pictured in our heads we're sort of
+dialing in what we actually want to make
+but hey a lot of people have a lot of
+questions now so for the sake of
+transparency let me just go over the
+biggest questions give you the answers
+to those questions and then some of the
+biggest updates that we've made so far
+so number one pricing nobody wants to
+pay that much for wallpapers totally get
+it and there are so many reasons why we
+failed on the price front so three steps
+that we're taking here so first of all
+just to bring it back a wallpaper app is
+Niche paying for a wallpaper is even
+more Niche and so like a subscription to
+wallpapers is something that I think
+less than 1% of 1% of people would ever
+even consider so if you're looking at
+panels and find yourself thinking this
+seems crazy paying for a wallpaper
+you're not wrong you are most people so
+our first priority is we want to make
+sure the free experience of the app is
+great it's got to be way better so I'm
+getting rid of those third party in feed
+ads this is one of my misjudgments like
+we just don't need those they feel cheap
+and they're also harder to attribute to
+specific artists anyway so now the feed
+is clean and then all non-collection
+wallpapers are available for free in
+1080P no ads and if you want the full
+res sometimes 4K sometimes 8K depending
+on the art you can get a full resolution
+version with a single 30- second ad to
+try to offset server costs and pay
+artists so if you really want it for a
+like a high res tablet or a computer
+wallpaper or some big screen in your
+life then you can get all of it any of
+it for free now even though
+subscriptions are incredibly unpopular
+uh we wanted to at least offer one that
+made sense for the wallpaper power user
+for how few of you actually exist uh so
+first of all we have a new tier that is
+two bucks a month which is everything I
+just mentioned completely ad free and
+full resolution everything across the
+board so that means you never have to
+see another ad never have to worry about
+that and you always get the highest
+resolution version no matter what screen
+you're downloading for I think this is
+really fair and should hopefully
+continue to help pay to keep the app
+running as well secondly we also offer
+for those of you who are really into
+this world like I said earlier we
+support paid art uh collections is what
+they're called so there are artists who
+have really gone out of their way to put
+a ton of work in on certain pieces
+they've made made and have decided to
+charge for those collections of pieces
+totally cool there's a whole world of
+those to so if you're using panels and
+you jump in and decide to buy one single
+collection for three four five bucks or
+whatever that's cool but if there's a
+bunch of these that you really like we
+wanted to give people an option to just
+unlock literally everything so that's
+panels plus so you can subscribe and for
+12 bucks it unlocks literally every
+single collection in the whole app plus
+anything premium that gets added while
+you're a subscriber I think as of right
+now that entire value of every artist's
+paid packs if you paid them individually
+is about 100 bucks even before any new
+art drops so we settled that $12 because
+that's around what it would cost if you
+were purchasing more than two
+collections straight up and then in case
+you're someone who really loves to
+change your wallpaper say you're a tech
+reviewer or something or you have a
+whole bunch of devices um then you know
+you're already going to commit to this
+for more than a few months we wanted to
+give people the option to just pay for
+panels Plus for a year and we made that
+50 bucks so I think that Nets to the
+equivalent of like roughly $4 a month
+but that's the point of why that exists
+and I understand that most people will
+still find Forever the $50 number crazy
+because it's for power users and it
+seems crazy but if you happen to be one
+of those power users then that's why
+this tier exists so at least now you
+know why and the third important point
+is that we're splitting profits with the
+artist 50/50 this is something I
+mentioned in the original video and
+there's a lot of initial discussion
+around if this is fair I think it is I
+base this on to be totally honest on
+YouTube which actually I believe theirs
+is 4555 but I did 50/50 to be simple but
+the idea is the same which is that
+hopefully this whole thing can bring a
+bunch of extra eyes to the art the same
+way YouTube drives to frankly there's
+another thing I'm open to changing like
+we've set it at that and now are
+collecting as much information as we can
+but I'll be in touch with artists about
+that too I do think it's worth noting
+that this is the main point of the app
+like this is what I hope it can be which
+is a platform for discovering new
+artists and what they make and I haven't
+told anyone this but I might as well the
+artist agreements that we've made none
+of them have any exclusivity at all in
+them which means they can artists can
+host the exact same art and stuff on
+their own website it so if you find a
+piece from watching a video or whatever
+you go into panels and then you find
+their socials and then go find a whole
+bunch more stuff from that artist and go
+buy a bunch of that without the 50/50
+split I still consider that a win for
+everyone involved so number two privacy
+what is going on with all that tracking
+great question a lot of people have been
+rightfully concerned with the one
+sheater that the App Store shows which
+at launch showed this huge list of like
+things the app might track which
+included things like location and
+tracking across apps another blunder by
+us this was way too broad for clarity
+this was not actually the set of
+permissions that the app would ask for
+the app would never once ask for your
+location it's actually a list of things
+that you as a developer provide to the
+app store for things that the app May at
+some point ask just to tell people ahead
+of time just to be safe and we just
+checked way too many boxes so for
+transparency most of these boxes were
+checked because of broad suggestion from
+the ad service ad Mob We AED on the side
+of just leaving them all there to be
+safe but that was a dumb choice no other
+way to say it so to be clear I do not
+want your data actually you can use the
+app without ever logging in like you
+don't even need to give us so much as an
+email address to actually use it and get
+a wallpaper and save a wallpaper like
+obviously you need to make an account to
+sync across devices and stuff like that
+but yeah that that was my B on the
+disclosures and that's been fixed so
+number three it's a bad app so okay once
+we get past all of the rest of the
+constructive criticism that the app has
+rightfully gotten then you get to the
+enormous variety of opinions about the
+app itself and of course in the chaos of
+launching like this and ending up like
+in the top 10 of the App Store is we get
+a lot of information about usage and
+responses from people and we find all
+kinds of bugs bugs were always expected
+we're already on that but also for the
+design itself My Philosophy actually was
+to just try to make as close to the same
+exact experience as possible between IOS
+and Android same UI same feature set
+same everything and some people like
+that some people don't obviously a lot
+of this is a matter of taste but some
+people like especially want an Android
+app to feel like to use the slideout
+menus and to feel like a native Android
+app versus iOS so that's that is
+something I'm thinking a lot about and
+there are also pieces of it like image
+preview and onboarding that we want to
+improve a lot uh one of the weirdest
+things I saw was this rumor that we'
+bought an old existing app and then
+repackaged it and slapped my face on it
+this is very false I actually found
+where this came from basically people
+saw that the panel's Twitter account
+appears to be from 2021 that's literally
+because we repurposed an old and
+inactive Twitter account I hope you know
+that that sounds as ridiculous to me as
+it does to you but the other thing that
+came up was that the app being filled
+with AI generator art that's also not
+true but I should explain how we got to
+this so there are a few pieces that were
+edited using AI like some of these
+skyscraper Pieces by Chris hea are a
+really good example where he's taken his
+own images these photos of historic
+buildings used AI trained on them to
+generate new ones and then refine them
+with Photoshop and they look so sick so
+anyway I did respond to a tweet like
+this but obviously that's my fault again
+for not explaining everything super
+clearly so we we've made sure to label
+anything that has any AI involved at any
+step in the process as AI enhanced so
+that's very visible and if you're
+curious about how they're using AI again
+a lot of the social media Pages linked
+to the artist they actually explain how
+they're using some of this stuff which
+is super cool so to answer the question
+of how do we know that this app won't
+someday just be filled with AI generated
+slop that's the curated part so every
+piece of art that goes into the app is
+actually gone through us and so I can
+personally promise that will never
+happen but then aside from that I'm
+obviously pretty biased but I think the
+app itself is a pretty solid start
+there's reviews out there already like
+there's a review from zone of tech where
+he Compares it to his own wallpaper app
+and notes some cool features like visual
+search that our app has that his doesn't
+even though there's a lot of work we
+still have to do on that it's cool to
+see and his is also Awesome by the way
+it has some interesting UI ideas and
+nice haptic touches uh this channel
+juxtaposed did a great review it's
+actually like a like a constructive
+facelift for a lot of UI elements and I
+just want to say thank you for that
+video like there's a lot of really
+helpful stuff in there this is literally
+one of my favorite videos of the week
+and I subscribed after I watched it I
+also want to improve the code to be much
+more native to each OS um this should
+help with just memory efficiency in
+general but that's something I can put
+on our developers but this is the stuff
+that takes longer this takes more time
+so this is something like we know most
+of the hard hard work is ahead of us and
+this app should be improving over time
+clearly so then number four the future
+which brings us to that thing I keep
+saying which is never buy a product
+based on the promise of future software
+updates buy it for what it is today and
+I'm never going to stop preaching that
+that is still extremely true but the
+irony is not lost on me that I've also
+made a lot of references and promises
+about the future of this app in this
+video so I'll still say if you want to
+grab a wallpaper or download this app
+and check it out get it for what it is
+today which is a wallpaper app like if
+if you see a link in the description of
+any video with a cool piece that you
+like you can just jump over there and
+that's that's what panels is today I
+actually didn't want to make this video
+Until we'd actually fixed and shipped
+and gotten approved all the updates to
+the app that I talked about in this
+video so you can see now exactly what it
+is today but I also want to shed light
+on our plans for the future it's not
+something you always get to see
+and hey if those plans do materialize
+then maybe you'll down the road pick up
+that app for what it becomes we are
+committing to doing weekly drops every
+Friday of new art into the app so we
+have a ton of stuff in que that we're
+going to be going through that's super
+sick and also if you are an artist and
+want to be in panels I'll have a link to
+a Google form below this video where you
+can fill it out and then we can be in
+touch I don't have a timeline for when
+we're going to get through everyone but
+we do have a lot of good stuff incoming
+and we'll also regularly be updating the
+app in the app store and the Play Store
+I'm not going to like detail every time
+there's a new update to it here but if
+you want to follow that stuff you can
+follow the panels account on Twitter and
+that'll be when there's new art in the
+app with the weekly drops and when
+there's big new features and stuff like
+that so yeah we may we may forever be
+cursed by a one star rating and I know
+that the comments and memes will
+probably never actually end even though
+some of them were pretty funny uh but at
+least hopefully we can with enough
+transparency earn your respect and your
+trust back and ideally they people who
+want the wallpapers now they got
+somewhere to get
+them truly thanks for listening thanks
+for watching catch you guys in the next
+one peace

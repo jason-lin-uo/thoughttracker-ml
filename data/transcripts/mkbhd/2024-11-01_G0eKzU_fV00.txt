@@ -1,0 +1,550 @@
+# I Tried Real Augmented Reality Glasses!
+# https://www.youtube.com/watch?v=G0eKzU_fV00
+
+[Music]
+[Applause]
+[Music]
+this might be the best look into the
+future of tech that I've ever
+seen so I am one of a very very small
+number of people who now has tried both
+of the new and very rare real augmented
+reality glasses in 2024 The Meta Orion
+smart glasses and the Snapchat AR
+spectacles neither of them is available
+to the public and you'll see why in a
+second but also they're both pretty
+incredible in very different ways I made
+a whole video a few months ago about
+this idea but in case you missed that VR
+headsets are over here smart glasses are
+over here and they're both racing
+towards this goldilock Zone in the
+center somewhere which would be ar
+glasses like virtual reality headsets
+are incredible they have tons of tech
+amazing immersion super wide field of
+view but also they're absolutely massive
+and you don't really just go walking
+around in public with them at least most
+people don't want to but then smart
+glasses are the exact opposite they look
+like something you might just wear out
+in regular everyday life but they can't
+really fit that much Tech in them so
+you're limited to maybe a camera and
+some batteries and speakers and a little
+computer inside that's about it so VR
+headsets want to shrink down more and
+more until they can compact all the tech
+and actually look like regular glasses
+while smart glasses want to add more and
+more Tech as much as they can to be
+better while still looking like regular
+glasses and so somewhere in the middle
+is this fantasy product called augmented
+reality
+glasses but what if we could pull back
+the curtain a little bit and see what
+that looks like with today's Tech that
+is what these are So Meta and Snapchat
+have taken two very very different
+approaches to Bringing these creations
+to life and neither of these will be
+sold to the public and I think that's
+probably a good thing neither of them is
+exactly ready yet but I still think
+they're both super cool and now that
+I've used them both I kind of can't help
+but compare them to each other so let's
+start with meta's Orion Project so they
+unveil these on stage at their connect
+event a few weeks ago and they've let a
+few people try them since then and
+they're actually a three-part system it
+is the glasses that you wear on your
+face and there's also a wireless
+computer Puck that must be within about
+15 ft of the glasses at all times and
+there's also a wrist strap that's
+measuring electrical impulses through
+your arm and that's used as an input
+device Yes you heard that correctly so
+combined these three things form an
+augmented reality experience unlike
+anything I've ever experienced before
+now yes there was magic leap and yes
+there was Hollow lens and things like
+that but now just wearing a pair of what
+feels like just transparent glasses
+that's actually overlaying tracked
+digital things onto the real world in
+front of me kind of feels like something
+out of Science Fiction the main
+challenge actually with making a video
+about these things is there isn't really
+like screen recording cuz like I said
+it's literally I'm looking through glass
+and seeing things overlaid onto the real
+world which is crazy but the best we can
+do is take a firstperson video and then
+overlay the graphics from the glasses on
+top of the video to sort of give you an
+idea of what it looks like to my eye but
+it it's really hard to do ad justice but
+either way with the meta Orion glasses I
+got to walk through three basic demos
+here so the first one was just a kind of
+basic usage so just imagine sitting down
+in some coffee shop or somewhere on a
+bench and just scrolling through
+Instagram which was a window floating in
+the middle of the room that only I could
+see and then I did a little bit of
+multi- window here and there so I had a
+video call going in one spot some other
+floating windows with messaging and
+Instagram floating around me pretty
+basic but still pretty cool the glasses
+they're pretty light on my face they
+weigh around 100 G the audio from
+Instagram since I'm watching reals it
+was playing through the built-in
+speakers that were right above my ears
+and I scrolled through them by making
+this gesture with my thumb and swiping
+on my own hand so now seeing that you
+might believe that uh the cameras and
+the sensors on the front of the glasses
+are picking up you know my hand doing
+this gesture and then doing the scroll
+in sync with it there is hand tracking
+but it's not for that this gesture would
+be picked up anywhere if it was in my
+sweatshirt pocket behind my back because
+I'm wearing that wristband and this
+thing may be the coolest input device
+the coolest piece of tech I've tried in
+a long time this is the EMG wristband
+that they've built EMG stands for
+electromyography it's about the size of
+a whoop as you can see it has
+Electronics built into the textile weave
+it has an onboard machine learning
+computer that connects via Bluetooth to
+the puck and is able to measure the
+electronic signals being sent from your
+brain to your fingers and it's pretty
+great actually if you think about it I
+mean your tendons sort of run through
+your arm and they're connecting all the
+way through your nervous system to your
+brain and so the set of electrical
+impulses that go through your tendons to
+do this gesture is very distinct and
+different from the set of impulses when
+you do this gesture and also different
+from when you do this gesture and so the
+wristband can measure those electrical
+impulses and pick them up on the way to
+your hand and map that to the controls
+so even in this prototype version I'm
+using it felt like it's getting about
+80% accuracy and it was also it had
+haptic feedback as well to confirm when
+it was getting things right but people I
+talked to at meta including CTO BOS say
+things like they love this as a really
+high sealing new input method and they
+could see it developing massively over
+time potentially even getting to the
+point where they say they could measure
+you draw draw letters in midair with an
+imaginary pen and it uses those
+electrical impulses to map that to real
+letters as text input with
+handwriting it's crazy so either way
+it's working for scrolling through
+Instagram here as I'm looking at it in
+the glasses I'm also looking at the
+Instagram app with my eyes to make sure
+that's what I'm controlling because
+there is eye control and scrolling with
+the gesture it's working that by itself
+is pretty cool but they weren't done the
+second demo was walking up to a table
+with a bunch of ingredients on it
+looking at it and doing a gesture and
+then asking the built-in AI what type of
+smoothie could I make with this stuff
+and of course you know there's cameras
+on the front meta AI looks at the camera
+feed sees a bunch of clearly labeled
+ingredients and then the most
+recognizable fruits of all time sitting
+on a contrasty table and then decides
+you know oh you could make a pineapple
+smoothie with matcha great but that's
+not what the most impressive part of
+that was to me what was impressive was
+the nice little touch of AR which was
+these little blue dots that appeared and
+then tracked onto the ingredients on the
+table labeling each thing and then
+staying on those things as I moved
+around and looked around the space it's
+such a little thing but it made a big
+difference again you have to realize it
+it doesn't look amazing through this
+video but in real life just picture
+yourself looking at objects through your
+glasses and seeing labels pop up over
+them like that was like sci-fi it was
+amazing but so then the third and final
+demo was probably the coolest because it
+was also a shared spaces demo so there's
+two people with classes on so both
+people walk up to this QR code in the
+middle of the room stare at it for a few
+seconds and then that becomes the Anchor
+Point for a shared experience in 3D
+space which in this case was a game of
+3D pong so with the sensors at the front
+now it's just shifted to visually
+tracking my hand through the air and
+mapping that to a paddle and I let me
+hit this ball back and forth so I
+started getting kind of good at it not
+going to lie sorry Ellis competition is
+competition going hard in the paint but
+yeah this is just pong in real life that
+only the people wearing the glasses can
+see it's also funny because we felt kind
+of cool playing this game but yeah this
+is how it looks to people not wearing
+the glasses not so fun there is a lot of
+complicated technology and Material
+Science that goes into making these
+glasses work just from the sensors at
+the front and at the back pointing at
+your eyes pointing at the real world to
+the micro LED projectors inside to the
+wave guides the silicon carbide material
+that's allowing us to refract the light
+at an extreme angle without Distortion I
+went way into the weeds with this with
+CTO of meta BOS uh and I'm going to put
+that whole segment on the waveform
+podcast it should be out by the time you
+watch this but I'll leave a link below
+to subscribe to waveform so you can get
+into the weeds with us this week on that
+stuff but I think what you should take
+out of this is this is a this thing is
+packed back to the gills they have seven
+small sensors and cameras that are
+custom designed to do the eye tracking
+and environment tracking there's custom
+silicon in here to bring all the data
+together there's batteries split up to
+weight them evenly across your face
+there's speakers the frames themselves
+are made of magnesium both because it
+had to be rigid enough to keep the
+lenses in alignment but also because
+that made for a good thermal conductor
+as the literal heat sink to the Entire
+Computer inside they actually made a
+working see-through version to help get
+us a better idea of how squashed in
+there everything is and it overheats
+faster because the transparent plastic
+is not as good of a heat syn so yeah
+these glasses are absolutely thermally
+constrained using today's technology and
+they have a battery life of about 2 to 3
+hours and that's not even to mention the
+completely separate compute Puck with a
+co-processor where they're offloading
+the app logic that is truly a technical
+Marvel but all of that adds up to a set
+of glasses that was mostly pretty
+transparent uh pretty lightweight
+comfortable enough to wear for the two
+hours before they started to get a
+little warm and a little bit heavy on my
+ears and then the graphics themselves
+that it's overlaying were tracked pretty
+well not the highest resolution I've
+ever seen but pretty respectable and
+with a 70° field of view which meant I
+could look around a bit and the graphics
+would mostly stay in my line of sight
+you can see them start to get cut off at
+the edges a little bit and that's
+actually how I saw it in real life but
+in total it felt like just wearing
+slightly thicker slightly heavier than
+normal glasses with a little tint and a
+little bit of flare but delivering the
+most convincing demo of a post
+smartphone augmented reality future that
+I've ever seen of course none of that
+matters right now because met is not
+shipping this ever it's kind of a weird
+move for a tech company to announce and
+show off and demo a new product but then
+never actually plan on selling it to
+people but
+think of it as PR again you can watch
+the entire chat with BOS but basically
+what I got out of talking to him was
+that they believe that continuing to
+iterate on this thing that they've made
+behind the scenes without all the extra
+attention to packaging and marketing and
+selling the first thing will allow them
+to make something even better in a
+second or third iteration that may be
+good enough to actually sell ideally it
+can be brighter and can have better
+battery life of course and have a higher
+resolution tion potentially and still
+work towards all those things to be a
+real shippable deliverable thing for
+early adopters especially those wave
+guides and the silicon carbide and the
+price there's just an immense assumed
+price tag for this low volume prototype
+that they've made but that's the idea
+and I think I actually agree with that
+so
+these These are the Snapchat AR
+spectacles
+and uh right off the bat they look
+dramatically more like a piece of
+technology on my face but
+fundamentally same thing is happening in
+here I am looking through these glasses
+at the real world I can open this up in
+front of you the lens there is a menu
+right now that you can't see and it's
+stuff overlaid over on top of the real
+world and it's actually incredible that
+it works but there are a few fundamental
+differences between these and metas that
+I think are really interesting so
+difference number one is no separate
+computer Puck everything is in these
+glasses so I think we can safely assume
+that that's why there's so much more
+mass here in general um meta's glasses
+looked much more like normal glasses but
+had an entire separate smartphone size
+computer paired to it the entire time
+Tethered to it basically these you can
+connect to your phone but otherwise they
+do operate without any other additional
+Hardware everything's in the glasses so
+that's definitely way more Hardware on
+your face but then difference number two
+is materials and build uh most of what
+you're looking at here all the way
+around is just it's black plastic all
+the way around and that's actually kind
+of interesting that's not to say that
+they're built worse or poorly at all
+they're still actually very rigid but I
+actually think this is more of a weight
+saving measure but then they still
+needed a highquality heat sink which is
+why there's this metal band on each side
+so you can still dissipate heat from the
+hottest components using the cooler air
+outside of the glasses but in total
+these still weigh
+228 G and when you put them on they are
+I mean they're huge they are massive you
+can see the arm extends way back beyond
+my ear I mean there's a lot of Mass on
+the front of my face they're trying to
+be more balanced but I mean there's some
+level of appreciation for the fact that
+there is no separate computer Puck of
+course but like yeah this is this is
+today's Tech we're talking about so
+there's a lot going on here um but then
+that brings us to number three which is
+when you actually turn them
+on and there's two immediate differences
+with the display again I'm I'm not
+looking at a lens right now I'm looking
+at a menu in front of the lens but it's
+the resolution and the field of view now
+this is obviously really hard to explain
+and show on video and show you what I'm
+seeing uh no eye tracking it's just
+going to be hand based and gesture based
+but on the Snapchat glasses the
+resolution of the menus is dramatically
+higher everything is much sharper than
+the very pixelated looking metag glasses
+honestly close to like what Vision Pro
+looks like when I'm wearing those but
+the field of view is significantly less
+I think the number is
+46° versus meta is 70° and uh candidly
+you notice that a lot now field of view
+is normally not so bad that there's any
+Interruption of the thing that you're
+looking at like straight ahead of you
+but it's actually close and this is one
+of the biggest differences between them
+as some who happens to have used these
+and The Meta glasses back to back now I
+don't know if immersion is the right
+word here but my main way of describing
+it is when you're actually using the
+glasses you're doing whatever with them
+whatever software you whatever overlay
+you have pulled up you're not really
+thinking about field of view you're just
+immersed in the thing using the app
+looking forward but the second you start
+poking around or moving your head a lot
+or observing more of what's around right
+in front of you then things get cut off
+uh you can actually see this a little
+bit at the edges of some apps with the
+meta Orion Graphics actually right here
+right there at the edge you saw the UI
+kind of get clipped off a bit and that's
+how it looked to me too my eye sees that
+and that was with metas which have the
+70° field of view this is even more
+restrictive it's really only going to
+Overlay things directly in front of you
+and if you even turn a little bit it
+gets clipped uh there's a golf game in
+here which I was playing for a little
+bit and it's fun but you know you have
+your phone which is mapped to the golf
+club and you look down and you can see
+the golf ball but you can't see anything
+else in in golf your peripheral is very
+important so you look up to see the hole
+and then look down to see the club and
+there's just you keep having to look
+back and forth and you hit it and it you
+have to track it with your eye just
+right so it doesn't leave the field of
+view there's just yeah it's it's much
+more noticeable with these but probably
+my favorite difference actually with the
+display or whatever you want to call it
+here is the electrochromic tint because
+the Snapchat AR spectacles have a
+built-in tint made from the same Tech
+that snaps the sunroof of the new rivan
+from clear to tinted and back it's
+actually built into these glasses as
+well and so that helps them go from
+clear to tinted and that helps
+dramatically with readability and
+contrast of the things that aren't
+supposed to be overlaid over your rear
+world so I guess immersion is actually
+the right word here maybe it's just a
+scoreboard floating in place or a social
+media feed or maybe you're on an
+airplane and just want to watch a couple
+videos you can add the tint and then it
+kind of feels a little closer to a VR
+headset where the background is faded
+away and you're just looking at
+something in front of you floating it is
+crazy how much Tech is built into these
+glasses and then probably the last major
+difference here with these is on the
+subject of developers developers
+developers see both of these glasses are
+not real products that are you know
+going to ship and be in stores ever uh
+but one of them the metag glasses feel
+like a super high-end Tech demo and it's
+incredible that it works but the other
+one these actually these are actually a
+developer kit you could theoretically
+get your hands on these today and start
+making apps for them I mean you'd have
+to spend 100 bucks a month and be locked
+into the developer program with a
+minimum one-year commitment but then you
+get these and you're Off to the Races
+building lenses for SNAP OS and there's
+a bunch of them actually already
+available there's that golf app I told
+you about there's also a browser app and
+a Music Creation app and a Beat saer
+equivalent called beatboxer and dozens
+more that I can already play with and
+there's even more really impressive
+shared space experiences like snaps
+glasses they don't even require you to
+scan a QR code they will actually just
+map the room you're in actively as long
+as you're looking around with the other
+person and it immediately matches you up
+and you can now both see and manipulate
+the same floating object in 3D space
+it's kind of awesome so the golden
+question with ar glasses at least for
+now is what can you even do with these
+things uh then I do like Snap strategy
+of just getting these out to people as
+early as possible and then just seeing
+what they make now me personally I
+actually have two dream use cases for uh
+AR glasses here the first one is I just
+want like any instrument being able to
+learn any instrument by having the
+visual like the Guitar Hero overlay
+piano that's the one you've probably
+already seen where the piano notes come
+down and you can just sort of match it
+up and play piano any instrument I think
+that would be incredible but my other
+one is so you know how when you're on an
+airplane and you look out and you see
+like a cool Monument or some like visual
+thing that you recognize how super cool
+that is what if hear me out you've got
+the glasses on it's like glasses AR
+airplane App whatever you look out the
+airplane window and it outlines like the
+territory outlines or the state outlines
+or whatever and you can see the scale of
+things and it pops up little
+monuments and landmarks and things that
+you may recognize just by looking out
+the airplane window that I think I would
+I think that was awesome so you know
+clearly more development is needed for
+both of these glasses the metag glasses
+they have a separate computer in your
+pocket right they only have a 2-hour
+battery life and an estimated $25,000
+retail price thanks to materials and the
+Snapchat glasses they have a 45 minute
+battery life and they look like this so
+yeah the tech the Tech is clearly not
+ready to start selling this to real
+people yet but you almost can't help but
+picture the future that we might have
+that we could have maybe even looking at
+our phones less if we have this AR
+glasses thing actually come to life
+maybe someday could be cool thanks for
+watching catch you guys the next one
+peace
+[Music]

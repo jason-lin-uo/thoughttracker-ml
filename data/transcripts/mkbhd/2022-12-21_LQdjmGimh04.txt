@@ -1,0 +1,383 @@
+# The Best Smartphone Camera 2022!
+# https://www.youtube.com/watch?v=LQdjmGimh04
+
+[Music]
+all right so we wanted to answer the
+question once and for all what is the
+best smartphone camera out right now
+maybe you think it's the iPhone or maybe
+it's a Samsung Flagship or maybe it's
+one of those pixels now in years past
+we've done a blind voting using social
+media polls which was really fun and
+yielded some surprising results but that
+would still depend on the matchups that
+I planted at the very beginning so I
+specifically put the iPhone and the
+pixel on opposite sides of the bracket
+expecting the best ones to hopefully
+meet in the finals but they never did
+and there's always a bit of human input
+it's actually possible I could have
+accidentally put the second best phone
+up against the best phone in the first
+round and it got eliminated so this time
+we're going to solve all that once and
+for all welcome to the blind smartphone
+camera test scientific Edition so here's
+the idea we took 16 smartphones that
+came out during this year the flagships
+your expected Heavy Hitters but then
+also some mid-rangers as well all the
+way down to the unexpected and then we
+took the same exact photo with each one
+of them harder than a sound because you
+have to hold perfectly still for several
+minutes straight but we actually did
+this for three different types of photos
+a standard daylight photo a low light
+photo and a portrait mode snap and then
+we take all these images compress them
+strip them of their exif data and
+assigned each one a letter now for
+maximum statistical confidence we would
+have to ask you guys to vote on every
+single possible matchup at least once so
+a versus B then a versus C then a versus
+D all the way through and then B versus
+C B versus D over and over 16 choose two
+for my stat heads but that's clearly a
+bit too much I mean we want to be
+scientific but having you sit there and
+vote over a hundred times for each
+category was a bit of a tall ask so
+instead we got a little clever with it
+and we built a power ranking system
+actually an ELO rating algorithm which
+you might have heard of they use this in
+chess they use this in table tennis and
+basically in any video game you've
+played where there's a bunch of
+different match UPS all happening at
+once and you need to form a ranking of
+them but this time we'll be using it to
+sort of form a power ranking of
+smartphone cameras so basically when you
+hit enough sanctioned matchups you're
+given a rating based on the ratings of
+your matchups so you along with
+everybody else gets shown comparisons at
+random and we have this little progress
+bar along the bottom you vote for the
+better photo each time and then after a
+little while we have enough information
+to determine your individual customized
+statistically significant winner so we
+built this whole site with the ELO
+rating system in there we loaded up all
+the photos and then we actually tossed
+this first into our Discord to have some
+of you beta test this before anyone else
+knew it existed so we could experiment
+with the data formatting on the out end
+so we could make sure it was all
+organized so actually shout out to
+Discord for sponsoring this portion of
+today's video so with the launch of
+their new server subscription feature we
+opened up an exclusive premium area on
+our Discord server where members can ask
+the team including me you know general
+questions about tech or any of the
+content and getting exclusive Insider
+info that you won't find anywhere else
+like this test and also if you're
+wondering Discord does it right with
+Revenue split it's 90 10. so 90 going to
+the Creator so your subscription
+directly supports us and if you're a
+Creator looking for more information on
+this particular feature and adding it to
+your own Discord definitely check out
+the link below so anyway I dropped the
+site in there a bunch of you got in
+there quick and voted and basically we
+got the data back in this text format it
+looks kind of messy at first but
+actually it's super helpful and we can
+work with this a summary of how many
+times every single matchup got voted on
+and the votes for each side and also
+since I had a lot of help with building
+this site and loading up all the
+pictures even though I know which phones
+were involved I don't know which phones
+took which pictures so I could blind
+test myself and it was every bit as
+engaging as I was hoping I could kind of
+tell some of the phones that I think
+took certain pictures but for the most
+part I would just take a glance and if I
+was seeing those two pictures side by
+side on like Instagram or Twitter I'm
+just picking the better one no pixel
+peeping or thorough inspection it's just
+picture on the internet vote and in the
+end my standard Picture Winner was G my
+low light winner was K and my portrait
+mode winner was also K so everything
+looked like it was working the data
+processing was working as we wanted so
+the only thing left to do
+was send it live and here we go so as
+soon as it went public you guys jumped
+right on it it peaked at around 35
+000 votes per minute and then ended up
+totaling more than 21 million votes in
+about three days there were essentially
+zero Bad actors and now we have a load
+of data many of you may have gone
+through this which means you've done the
+voting and now you have your letter
+which means it's time to reveal all the
+smartphones that were involved in this
+test
+and here you go a through P that's all
+16 phones right there in their orders
+which means the winner when I blind took
+the test myself for my standard photo
+was the pixel 6A
+my winner for portrait mode and night
+mode was the pixel 7. but what were the
+overall winners according to Statistics
+over the 20 plus million votes according
+to science
+I don't know if there's any other
+collection of data like this anywhere on
+the internet so this is super cool to
+get into so let's dig into it so first
+of all overall winner so with the
+highest average ELO rating across all
+three categories in third place is the
+Asus Zenfone 9 in second place is the
+pixel 7 Pro and first place is the pixel
+6A The People's Choice camera of 2022
+but there is a lot of fascinating
+information to unpack here so first of
+all doing well in one category did not
+necessarily guarantee doing well across
+any of the other categories right so the
+pixel 7 Pro came in second fourth and
+first in the three categories the pixel
+6A came in third second and second but
+the Oppo Find X5 Pro actually came in
+first for standard then third for low
+light and 15th for portrait mode this
+basically means that if you wanted you
+could argue for the the importance of
+this standard photo over the low light
+or the portrait mode photos so let's say
+the standard photo is like three times
+as important to most people as the other
+two categories which feels about right
+with that weighted importance on
+standard photos then the Oppo Find X5
+Pro becomes the overall winner which is
+interesting and in case you're wondering
+where the iPhone was and all this the
+iPhone 14 pro tested in sixth place
+tenth place and fifth place but in
+Natural Curiosity for me anyway was to
+ask what were the biggest losers which
+ones got absolutely destroyed the most
+in this test
+and your Undisputed winners of losing
+the most is the Sony Xperia 1 mark IV
+and the Moto Edge 30 Ultra these phones
+performed terribly in these tests so the
+Sony despite its world-class sensor and
+extremely Advanced apps when in full
+auto like the rest of these phones did
+not produce good pictures and ended up
+with the lowest average ELO rating
+across all three categories and then the
+Moto Edge 30 Ultra actually had the most
+overall losses it took a bizarre
+sequence of photos including an
+extremely dark standard light photo and
+an incredibly over sharpened low-light
+photo that it's the only one to have two
+million total votes against it now
+here's another interesting thought
+votes per dollar if we wanted to sort by
+bang for the buck basically which ones
+if we account for the launch price the
+MSRP which one was performing the best
+relative to its price and the two
+winners for votes per dollar by far are
+the pixel 6A no surprise over 4 200
+votes per dollar and the realme 10 Pro
+Plus also sneaks in there the only other
+phone up over four thousand votes per
+dollar sneaky good camera phone for 379.
+and then the obvious losers again are
+the 900 Moto Edge and the one thousand
+six hundred dollar Sony Xperia one four
+also I just had to I had to look through
+the text files and find the biggest dunk
+just the biggest overall match-up
+discrepancy between two phones in any
+category and I found it that would be
+portrait mode pixel 7 Pro versus Sony
+Xperia 1 mark IV with the pixel winning
+98 of the votes here so to the 1523
+review that voted for the Sony here not
+sure what you saw that the rest of us
+didn't but overall just more than seeing
+which ones got the most votes is seeing
+why certain phones and certain pictures
+got the most votes and the best way to
+do that was actually just putting all of
+the photos in order side by side in
+order of how many votes they got and
+that's how we started to see some really
+interesting patterns so like for example
+last time in the head to head we kind of
+established that in a case of a versus B
+if one photo's a little brighter than
+the other it'll probably win
+but how far can that go is there a such
+thing as too bright in this case and it
+turned out yes this is all the standard
+Mode photos in order and yes the three
+darkest photos are the three biggest
+losers hands down they crushed any
+Shadow detail in my hair and the
+extremely comfortable sweater I'm
+wearing on shop.comphd.com but right
+above that is three of the absolute
+brightest photos like these were just
+Overexposed straight up matter of fact
+it looks like we kind of got this order
+of great photos then too bright then too
+dark so it shows me that good exposure
+wins but if you're gonna miss then yeah
+people would rather have it be too
+bright than too dark with night mode
+altogether and in order you can kind of
+see a bit of the same thing so the most
+neutral correct exposures generally one
+if they were sharp this time there's
+about four good exposures Vivo x80 Pro
+pixel 6A Oppo Find X5 Pro and pixel 7
+Pro then there's the two brights which
+people mostly preferred over the two
+darks also there were some seriously
+wild things happening with some of these
+photos in low light the Vivo I mean it
+absolutely nailed it it's clearly the
+low light King the s22 ultra
+interestingly came in fifth place even
+when completely missing focus on my
+stationary face and hitting the
+background for some reason uh the iPhone
+14 pro did an enormous amount of HDR
+that had me looking kind of green like a
+zombie but it still came in 11th place
+here
+the Moto Edge Plus as I mentioned kicked
+out maybe the most over sharpened photo
+the world has ever seen and then in dead
+last is the iPhone SE the only phone in
+this test that does not have night mode
+and the sad thing is like it does have
+ois it does have a decent sensor and it
+does have a new processor but Apple just
+feels the need to protect their more
+expensive phones with more premium
+features so they didn't give the SC
+night mode and it suffered big time here
+then in portrait mode we have the most
+variety of them all because not only are
+we judging things that we normally would
+about a photo like sharpness color
+exposure Etc but we are also now adding
+cut out quality and artificially blurred
+background quality and every phone uses
+a slightly different focal length for
+their portrait mode by default some of
+them do a 2X portrait mode some of them
+2.5 some of them 3x some of them even do
+1X but combining all of these factors
+the pixel 7 Pro absolutely dominated
+portrait mode this was The Runaway
+winner here in this category great
+cutout great exposure great colors and a
+nice soft background it nailed it but
+guess what the pixel 6A was in second
+and the real me 10 Pro Plus snuck in
+there in third right above what I
+consider the best cutout of the entire
+competition which came from this Galaxy
+s22 Ultra I think it's pretty close to
+perfect at Edge detection here pretty
+Sim similar to the Zenfone 9's cutout
+but a better overall photo so it got
+fourth place instead of seventh I was
+also curious if there would be a
+correlation between how many votes a
+phone got and whether or not they used
+more of a telephoto focal length just
+because it maybe would feel more natural
+having a blurred background if you're at
+3x but when we lined it all up there was
+almost no trend line at all and no
+correlation so that was interesting
+really the only other definite thing I
+noticed about portrait mode photos is
+that the three worst photos that got the
+fewest votes by far were also by far the
+brightest photos so see it turns out you
+can overdo the brightness and that I
+think that is basically it
+so summary time just from all the data
+that we have things that we learned
+number one is that being really good in
+one of these categories did not
+necessarily guarantee being good at the
+others that's clearly reflected in the
+data
+two is that pixel 6A and the real me 10
+Pro Plus turned out to be the best bang
+for the buck as far as a smartphone
+camera from the phones that came out in
+2022 and the pixel 6A being the overall
+winner actually matches with it winning
+our bracket style social media polling
+blind test from last year which the
+pixel 5A won and last but not least yeah
+brighter photos do typically win but you
+can in fact be too bright so I think
+this mission was a success we learned a
+lot I will say congrats to the pixel 6A
+on the People's Choice Awards so to
+speak and you know what we're going to
+leave up the voting website till let's
+say through the end of this year till
+the end of January how about so January
+31st is the last day you'll be able to
+go to vote.mkbhd.com and blind test
+yourself and I think we'll replace the
+letters now with the actual names of the
+phones now that it's been revealed but
+we don't want to have to pay for all
+this terabytes of data processing
+forever so that's deadline so thanks to
+y'all on the Discord for helping us beta
+test this thing thanks to Zach for
+helping us build this site and implement
+the ELO style power ranking system
+and thanks to you
+for watching
+catch you guys in the next one
+peace

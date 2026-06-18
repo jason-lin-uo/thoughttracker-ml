@@ -1,0 +1,1911 @@
+# #AIS: Palmer Luckey on Anduril
+# https://www.youtube.com/watch?v=nK0NfL2M5L4
+
+hey everybody hey everybody we have an
+exciting show for you today this is the
+15th
+and the final episode from the all in
+summit 2022
+i wanted to take a quick moment to thank
+my team they worked tirelessly over a
+hundred days to make the event magical
+for everybody who is able to make it
+thanks to the audience for coming next
+year we'll try to have twice as many of
+you there just a quick thank you to
+amber ashley jackie nick fresh marine
+molly big mike andre times 2 rachel
+reporting producer justin jamie jimmy d
+my brother josh everybody who came and
+supported the event we had an incredible
+crew we had an incredible time and of
+course i would be remiss if i didn't
+thank the amazing speakers who joined us
+from all around the world so candid so
+insightful my pal bill gurley brett
+gerstner edina mark tandis tim elon
+antonio nate ryan claire
+my boy or a boy antonio garcia martinez
+joe lonsdale james mattaiby glenn
+greenwald and of course
+today's guest the one and the only mr
+palmer lucky
+and most of all i'd like to thank my
+besties saks and freeberg who did an
+amazing job of hosting the event
+now a little preamble here before we
+start this episode many of you have
+heard
+uh that this is a controversial episode
+it is a little controversial there may
+be a little twist in it so i will be
+coming back after palmer lucky's talk to
+give you a little context because it
+might get a little confusing i don't
+want to spoil the surprise for you so
+enjoy this episode
+but before we go to this episode
+a lot of you have questions
+you have questions about the future of
+the online podcast and those questions
+are important
+and um they're never going to be
+answered
+they're never going to be answered but
+just so you know
+i'm not leaving
+[Applause]
+the show goes on this is my home they're
+gonna need a wrecking ball to take me
+out of here they're gonna need to send
+in the national guard because i ain't
+going nowhere the show goes on
+[Music]
+all right everybody pommeler lucky
+fantastic
+um
+so hang on did a video play that showed
+my stuff or no that was going to play at
+some point
+you guys want to play that video
+all right all i can do is stand here i
+don't have actually any power
+[Music]
+so
+[Music]
+now that the comedy routine is over we
+can get started
+so my name is palmer lucky i founded two
+companies my first was a company called
+oculus vr that i founded when i was 19
+years old and living in a camper trailer
+thank you thank you
+um
+sold that to for a few billion dollars
+to facebook and then got fired a few
+years later and then started andrew
+because i wanted to work in the national
+security space for a variety of reasons
+and i'll get into some of those reasons
+today so the technology industry for
+many years has prided itself on being
+the first to understand where things are
+heading so they can build the things
+that are going to be relevant for the
+future
+on national security though and on the
+rise of our strategic adversaries it was
+one of the last industries to realize
+where things were going due to a variety
+of ideological reasons but also business
+reasons now silicon valley didn't just
+predict the importance of defense in the
+2020s it largely took the exact wrong
+position the opposite position
+first of all you have the obvious
+examples like big technology companies
+explicitly refusing to do work with the
+department of defense google is one big
+example but the worst examples are
+really in the startups that don't exist
+because people didn't want to even get
+into such a controversial space unless
+it ruined their careers
+you know when i
+started anderl i had already sold a
+company for billions of dollars and
+investors still didn't want to invest i
+still had a tough time in a lot of
+meetings with venture capitalists and
+none of the conversations with vcs that
+i had were about my ability to hire or
+execute or build products everyone
+believed that i could do those things
+even the ones who didn't like me much
+the vast majority of conversations that
+we had were about whether or not it was
+even ethically okay to ever build a
+company that would build weapons and the
+people who turned us down the ones who
+decided not to invest in anderl actually
+believed that we had a good team and
+good people and good product market fit
+the issue is that they thought that it
+was inherently wrong to build tools
+capable of being used for violence
+because they believed that the idea of
+deterring violence through having a
+strong arsenal was fundamentally
+obsolete and itself wrong
+uh even you know imagine how hard it
+would have been to raise money if i
+hadn't found it oculus would have been
+impossible even after we raised money
+and got traction the negativity
+continued there was a really interesting
+uh cover story in bloomberg in 2019 they
+called us tech's most controversial
+startup
+this was a year where tick-tock was
+banning users for calling attention to
+the weaker genocide in in china and
+banning users for posting homosexual
+content this is a year in which adam
+newman paid himself tens of millions of
+dollars for the right to use the word we
+it's a year that uber was under a
+federal investigation for its workplace
+culture immediately after a board coup
+that ejected much of the leadership it's
+a time where facebook was getting hauled
+in front of congress to testify
+but of course as a tiny defense company
+making a handful of purely defensive
+base security systems that committed the
+crime of building technology for the
+military andrew was the one that claimed
+the belt for the world's most
+controversial technology company
+i'd say that the war in europe has
+totally shattered the idea that we live
+at the end of history every few decades
+we start to believe that economic ties
+have ended all prospect of war and every
+few decades reminded this isn't true
+that's a very popular idea especially in
+dc that we live at what they call the
+end of history it's this idea that
+economic ties and interconnections make
+the prospect of conflict fundamentally
+unthinkable ignoring the fact that many
+people see this as a matter of destiny
+in economics in 1909 english economist
+and politician norman angel published an
+entire book called the great illusion
+and it was entirely about how war in
+europe was impossible and that spending
+money on building militaries that could
+deter conflict was a waste of time that
+could be better spent building utopia he
+specifically argued that any european
+country annexing another would be as
+absurd as london annexing hertford and
+the book was actually the number one
+bestseller in 1909.
+now we've had some version of this
+argument for a few decades now ever
+since the cold war started and luckily a
+lot of people are waking up but
+unfortunately it's not because they've
+come to a reasoned decision based on the
+fundamental principles at play it's
+because right now supporting the
+military supporting defense and
+supporting ukraine in particular has
+become the current thing
+and in current year current thing is the
+thing that you have to support
+regardless of what you think of the
+underpinnings
+unfortunately for issues like defense
+and national security the stakes are too
+high and the relevant timeline is far
+too long for people to start caring
+about things at the moment that they
+need to start caring about them so today
+i want to talk a little bit about why i
+started anderle and why you should all
+think exactly the same way that i do
+so why i founded anderall i thought that
+i would work on virtual reality for my
+entire life i had no plans on leaving
+oculus at all and i loved virtual
+reality i loved virtual reality i
+started oculus as a teenager and i would
+have been there for another 50 years i
+said as much less than 30 days before i
+was fired
+there's
+there's a lot of reasons for that some
+of which i'll get into later uh but the
+decision was made for me i gave nine
+thousand dollars against the wrong
+political candidate and it was pretty
+unpopular in silicon valley before i
+worked on oculus i actually worked in an
+army affiliate research center on a
+program called bravemind which was an
+army project to treat veterans with
+post-traumatic stress disorder using
+virtual reality exposure therapy
+basically putting them into virtual
+reality environments that would set off
+their symptoms and then under the
+guidance of a licensed therapist who's
+also in the simulation they could be
+taught coping skills it would reduce
+their dependency on medication and
+medical aid it was a really fantastic
+program i wasn't doing anything
+important on it i was just a lab
+technician a cable monkey but i got a
+lot of exposure to both the virtual
+reality technology side but also how
+broken defense procurement was how slow
+it was how old a lot of the technology
+was how the incentives were totally
+misaligned and ever since then i'd
+always wanted to make a contribution to
+national security
+if i could just took a few years for the
+right for the right set of circumstances
+to come up the defense industry in
+america is fundamentally broken uh you
+know before even getting into the
+specific problems of our defense
+industry the united states has the
+strongest commercial artificial
+intelligence industry in the world
+followed closely by china but at the
+same time the united states military and
+the prime contractors that dominate the
+military industrial complex have none of
+the right tools talent or incentives to
+apply autonomy to the system to do
+there's no reason to save costs because
+they don't get paid for making things
+that work they get paid for doing work
+and in a world where you get more
+prestige and more money by having more
+people working on bigger things there's
+no reason to use autonomy to reduce
+costs and increase capability the us
+military is well behind the chinese
+people liberate people's liberation army
+and the implementation of artificial
+intelligence
+there's more better ai in john deere
+tractors than there is in any u.s
+military vehicle there's better computer
+vision in the snapchat app on your phone
+than any system that the us department
+of defense has deployed
+and other countries are taking notice of
+this countries like russia and china do
+not want to compete with us toe to toe
+with the tools that we have people will
+make fun of china and say oh they have
+they don't have a blue water navy they
+only have one aircraft carrier coming up
+on two
+they could never fight us the reality is
+that that's not where they're going to
+fight us they're going to arm proxies or
+if they engage directly they're going to
+use technologies that give them an
+asymmetrical advantage in the areas
+where we are the least competent
+these are the areas where they are
+putting a lot of their resources the
+reason vladimir putin is saying that the
+ruler of the world is going to be the
+country that masters artificial
+intelligence is not because he thinks
+that they're going to lose at this it's
+because he thinks that that is one of
+the only ways that they're going to be
+able to get the best of us
+now
+the people who are building technology
+for our military the large defense
+primes i won't name any names because
+i'm not i i i don't wanna i don't wanna
+wrestle too many feathers in that area
+and i've never known who's in the room
+but the people who are building the
+technology for the united states
+military the people who spend all their
+time do not have access to the best
+talent they do not have access to the
+people of the technology industry has
+largely had a monopoly on in areas like
+autonomy artificial int intelligence
+sensor fusion high-end networking and
+then at the same time the people who can
+build who can build good software the
+ones who do work in these technology
+companies are largely prohibited from
+doing so and even if they're working on
+something that military buys let's say
+all the people at apple who are working
+on an iphone that can be sold to the us
+air force that same iphone is also being
+sold to russian intelligence that same
+iphone is being sold to the chinese navy
+working on technologies that help the
+united states don't give us a strategic
+or competitive advantage if everyone
+else is getting the exact same thing
+the other problem to consider is that
+asymmetric technologies like artificial
+intelligence are almost certainly going
+to empower nations that we aren't
+thinking about today some of them are a
+little more obvious like iran it was a
+close u.s ally until the late 1970s and
+today obviously isn't a very different
+position there's about a dozen countries
+in africa south america and asia that
+were they to acquire extremely advanced
+artificial intelligence either through
+coincidence or by proxy arming would
+almost certainly start to wage war on
+their neighbors in a very destabilizing
+way
+it would have been a mature bet for me
+to found a second unicorn in a different
+industry that wasn't so fundamentally
+broken uh gaming fast casual dining
+fintech i could have made some apecoins
+but there have actually been more
+mattress unicorns than defense unicorns
+in the last 35 years
+but i decided the best thing that i
+could do to try and solve this problem
+was to
+use the fact that i had a bunch of money
+and i had a bunch of credibility to do
+something that was hugely
+popular to ignore the fact that people
+were
+belittling me for it and tried to
+convince a bunch of brilliant people to
+come along with me so they wouldn't
+waste their lives spending augmented
+reality mustache emojis and instead they
+could do some work for our armed forces
+but it's worth looking at the past and
+realizing that this is a recent problem
+it's not something that has been the
+case for a very long time
+silicon valley was largely built on the
+back of defense in 1947 half of
+stanford's engineering budget came from
+the department of defense fred turman
+stanford dean brought dod contracts and
+interest to the west coast in a way that
+had fundamentally been limited almost
+entirely to the east coast and silicon
+valley helped power a lot of the things
+that are powering the modern military
+machine in the 1950s alone
+we built the pentagon well sorry
+i i i i have an error in my notes this
+is wrong um
+in the lead up to the 50s and the early
+50s we built the pentagon in 16 months
+we completed the manhattan project in
+three years we put a man on the moon in
+under a decade and just between 1951 and
+1959 we built five generations of
+fighter jets three generations of
+bombers two classes of carriers nuclear
+powered submarines and ballistic
+missiles to go on top of them if you
+look at the current state of the
+industry we're lucky to do even one of
+these things in a decade
+and i can't really blame the the defense
+industry for not working with the dod
+entirely it's not just an ideological
+problem it's also an economic problem
+when the cold war ended the government
+really became a pretty terrible customer
+the technology industry drifted away
+most engineers in silicon valley do not
+remember a great power conflict because
+they haven't lived in a world where a
+great power was an existential threat to
+the united states
+and so you have a lot of people who are
+ideologically opposed to working with
+the military now we could spend an
+entire talk i only have a few minutes to
+talk today we talked we spent a whole
+talk talking about the ethics of defense
+and you know what what the reasonable
+critiques of the military are and how
+you can change what you build for them
+in a good way
+but i'll i'll throw out a factor that i
+think most people don't think about
+enough even the people who do agree on
+working with the military
+there's a lot of companies in silicon
+valley and and and elsewhere who look at
+those employees who are ideologically
+opposed to working with the military and
+they use them as a smoke screen
+pretending that it's principled
+opposition that drives their decision
+when in reality they want access to
+chinese markets they want access to
+chinese investment they want access to
+other countries that are tied into these
+things and so they're able to use these
+people who are ideologically opposed to
+working with the military which actually
+make up a pretty small fraction of the
+u.s population as a smoke screen for
+their real intention which is to
+preserve access to those markets
+preserve access to those capital
+our largest companies are not making
+these decisions based on what is best
+for the united states certainly not what
+is best for the united states in the
+long term they're largely making the
+decisions based on short-term ideas that
+are not based in any kind of long-term
+thinking if you look at the recent ships
+bill that congress passed saying that
+they're the the united states government
+is going to put
+uh 50 billion 52 billion dollars into
+building semiconductors in the united
+states you have to compare that with the
+recent news that well it leaked it
+wasn't what wasn't news on purpose but
+apple has pledged to put 275 billion
+dollars as one company into chinese
+manufacturing you have one company
+putting in more than five times as much
+money into manufacturing advanced
+technology as what is supposed to be a
+landmark piece of u.s legislation the
+situation that we're in is is pretty
+weird uh
+this is going to sound hyperbolic but
+bear with me
+the situation we were in right now would
+be like if in the build-up to world war
+ii general electric had said you know
+what we really like the united states
+but we're actually very bullish on
+imperial japan we think it's going to be
+a huge growth opportunity for us and our
+metrics just aren't going to look the
+same if we wipe those off of our road
+map
+imagine if in the build up to the cold
+war if you had had westinghouse and
+other major u.s technology companies say
+ah you know we love manufacturing in the
+united states but we actually think
+communist manufacturing is a really
+interesting experiment that we need to
+see through and you know we're not sure
+that we really want to take a side on
+this uh the situation that we are in
+today is as dire or worse the only
+reason that it seems ridiculous and the
+only reason it seems hyperbolic is
+because conflict has not actually broken
+out yet if a conflict does break out
+we're going to look at the current
+situation where we are hugely
+strategically and economically dependent
+at the highest levels of our technology
+industry and government on an adversary
+that is literally committing genocide
+and slaving millions of people we are
+going to look back on ourselves and feel
+really stupid
+now the good news is that because of
+russia's invasion of ukraine defense is
+now the current thing uh in the united
+states
+there is this idea
+that any problem can be fixed
+at the last second with just a really
+incredible twist if we just come up with
+the right thing but there's a lot of
+problems out there that cannot be solved
+that way national security economic
+policy environmental policy these are
+things that require non-political
+bipartisan agreement on the problem
+decades before it becomes a really big
+problem those are not things that are
+acceptable current things uh shape
+rotation this is an acceptable current
+thing to debate uh whether or not will
+smith was wrong to uh to to wrong to
+take the slap or if he's just you know a
+representative of warrior culture you
+know that's that's a that's a fair
+debate to have the idea of the united
+states having a military that is strong
+enough to deter conflict should not be
+in that category
+so why is it two why is it too late to
+care about defense now at this exact
+moment in time why is it too late for
+everybody to suddenly change their minds
+uh well a few things one you go to war
+with the tools that you have not the
+tools that you wish you had or the tools
+that you start working on when things
+become a problem if you look at the
+weapons that were given to ukraine they
+were built in the 80s 90s and 2000s 40
+billion dollars plus worth of them and
+for all their differences defense is one
+of the few things that republicans and
+democrats alike have realized transcends
+the partisan divide on one level it's
+obviously very bad that we don't have
+more modern weapons to give to ukraine
+but on the other it shows a level of
+foresight and planning that we've been
+stockpiling and building these legacy
+weapons systems for decades explicitly
+for a situation like today which has
+been
+war gamed out to the nth degree imagine
+if the department of defense had done
+nothing to prepare for war for 40 years
+and then as soon as war broke out they
+started tweeting a lot and changed their
+profile pictures to ukraine flag and
+then started saying you know we stand
+with ukraine uh the the people who are
+actually tasked with
+solving these problems are uh they
+generally have good planning but there's
+only so much they can do without good
+technology
+so
+i want to reiterate if you only start
+building now you've lost the chance to
+deter war from happening that's the real
+purpose of the defense industry it's not
+to fight wars it's not to win wars it's
+to prevent wars from happening wars
+happen when one or both sides
+misestimate their probability of winning
+if both sides agree that one side or the
+other is going to win typically you end
+up with diplomatic resolution it's when
+both sides disagree about the
+possibility of winning that conflict
+actually actually breaks out and so if
+you actually want to prevent conflict
+from happening in the first place you
+have to get involved well ahead of time
+if you get involved after conflict
+breaking out breaks out like so many
+companies have you're ensuring that
+you're only going to be a part of the
+killing you're only going to be a part
+of the bloodshed you're only going to be
+a part of the war you're not going to be
+a part of preventing the war from
+happening in the first place
+so
+i would argue that people in the
+technology industry need to work on
+defense not because it's the current
+thing but because it's the right thing
+i have one more thing that i want to say
+[Applause]
+thank you
+i talked earlier about npc thinking that
+prioritizes popularity over principles
+what i'm about to do is in very very bad
+taste but i'm going to do it anyway
+yeah we'll see
+one of the people
+who i think embodies this type of npc
+thinking of going with what's popular
+and not being willing to to to ever
+reverse their position even when they're
+proven wrong is jason calcanis
+let me read about some of the things he
+said about me over the years just just a
+small sampling
+palmer lucky
+hideous
+what an idiot
+a [&nbsp;__&nbsp;]
+this guy parker lucky parker lucky a
+complete and utter [&nbsp;__&nbsp;]
+jesus this kid is an idiot
+palmer lucky is just an idiot and a
+troll he is dumb so so
+so dumb
+oh no we got to keep going
+for him to pull the plug in the palmer
+lucky experience was brilliant kudos
+zuckerberg a complete lack of moral
+character and leadership
+palmer lucky a complete [&nbsp;__&nbsp;]
+palmer doesn't care about any of his
+employees family members or team members
+now this doesn't include any of the lies
+that he's told about me this doesn't
+including the lies he's told about my
+businesses this doesn't include any of
+the terrible things that his co-hosts
+and guests have said about me over the
+years that went unchallenged and egged
+on
+if i'm a hideous stupid person with no
+morals who doesn't care about my family
+or my employees i shouldn't be invited
+here no matter how relevant ukraine is
+he's had many chances to retract or
+apologize these statements and rather
+than taking any of them he keeps telling
+people that the reason i won't be on the
+show is because i'm too thin-skinned
+because i
+disagree with him on some of the things
+he said about oculus this is not the
+case i've explicitly told him why i've
+refused to be on a show it's because he
+and his crew of bullies have been
+vicious liars who've attacked me for
+years and berated me for years and
+spread lies about me for real years in a
+way that i've been able to overcome that
+very few entrepreneurs would have the
+money or the resources or the
+credibility to do
+and being nice to a few people like i'm
+sure he's being nice to you does not
+excuse this this isn't
+debatable whether it happened or not it
+clearly happened it's these are all
+direct quotes from things that he said
+over the years both while i was at
+oculus and during my time after oculus
+and jason like many influential people
+some of them even in this room who have
+treated me like [&nbsp;__&nbsp;] for years
+suddenly changed their tune as soon as
+andrew was on the upswing as soon as we
+were doing good things they started
+inviting me on their podcasts liking all
+my social media posts putting me on
+their innovator lists all without any
+acknowledgement whatsoever that they
+were the ones that were attacking me
+when it was popular kicking me while i
+was on the ground and treating me like
+garbage it's really pathetic because a
+lot of my remaining critics at least are
+basing their opinions on some kind of
+consistent world view
+a lot of other people are attacking me
+and the work that i do because it's
+popular when it's popular to attack me
+they attack me when it's unpopular to
+attack me when ukraine is being attacked
+they are suddenly friends and those are
+the same people that i know are going to
+go back to [&nbsp;__&nbsp;] on me the second
+that it becomes popular again
+um i'm coming to the end of this and i
+know that you guys are probably thinking
+wow this guy's pretty thin skin for a
+billionaire
+that's fair that's fair
+[Applause]
+but i want to remind you something
+jason and the people like him are the
+reason i was fired for my from oculus my
+own company the company it was my heart
+and my soul for my entire teenage and
+adult life for him it was a game it was
+his show and for me it was everything
+and i lost everything
+it almost destroyed me i'm still filled
+with rage about it i always will be
+i'll end with this
+i was able to create andro because a
+small group of people were willing to
+give me a second chance to let me build
+something great in an important but
+controversial industry that was being
+constantly berated by people who thought
+we lived at the end of history they
+invested in me while jason was trying to
+poison my career and keep me on the
+ground
+thank god he failed
+thank god for investors who ignore him
+and people like him
+the market conditions suggest they're
+going to be a lot of founders hopefully
+none of the people in this room losing
+their startups over the next year or so
+and i pray that they get a second chance
+like i did i pray they aren't deterred
+from working on important but unpopular
+problems
+i pray that they will successfully claw
+their way back to success
+that they aren't deterred from
+working on things that really matter
+i pray that they manage to do this
+despite the inevitably stupid and hot
+takes
+sorry inevitably stupid and spiteful hot
+takes
+that jason his associates and the many
+people like him who make money spewing
+[&nbsp;__&nbsp;] are certainly going to be
+putting out there amen thank you
+[Applause]
+join us
+[Applause]
+great to meet you in person
+um jason what lessons have we learned
+here today
+well i mean i guess we were talking
+backstage and jason's like oh you know i
+had to do so much to get this guy here
+because i think he hates me and this was
+before this [&nbsp;__&nbsp;] happened and i was like
+well maybe you shouldn't talk [&nbsp;__&nbsp;] about
+people
+well the good thing is i was able to
+make it to this stage to say this most
+of the people that you've gone after
+this way will never have that
+opportunity because they won't start a
+second unicorn i'm only here because i
+managed to claw my way back and remember
+this is personal because it's not just
+you it's you you're one of the most
+influential certainly but it's you and
+really a small cadre of people that by
+attacking me ceaselessly made it
+impossible for me to continue my tenure
+at oculus i'm really lucky i clawed my
+way back because that's exceedingly rare
+for a company to do the person to do
+that
+[Applause]
+what
+i was hoping to talk about your new
+thing but i guess since we have no
+choice but go here what happened
+at facebook
+and maybe you can just explain that and
+what i i got wrong about what happened
+well it's not just what's wrong this is
+actually why i i went out of my way
+there's actually a lot of lies you told
+and spread
+and your co-hosts and your guests uh but
+i'm not even talking about those the
+things that i listed you'll notice these
+aren't material accusations these are
+just personal attacks you've made on my
+character these are just things you've
+said about me personally as a founder
+and entrepreneur vicious personal
+attacks separately there's all of the
+lies you've said about how oculus didn't
+have any differentiated technology it
+was totally commoditized anybody could
+have done it it really was just right
+thing at the right time
+we could spend all day talk about why
+these aren't true but the real reason
+that it became untenable for me and the
+real reason that i'm not in the vr
+industry is because people like you were
+enabling those lies and then being
+vicious about it and attacking me
+personally it became clear i couldn't be
+a representative in an industry where
+people are going to treat me like fairly
+or not imagine doing a podcast with them
+what's that impact you're doing a
+podcast
+i guess if you have no choice but to
+keep i'll just ask you
+do you want us to just describe what
+palmer's talking about can i can i try
+my best no no hold on what what what
+because my memory of of the events uh
+you just read all the things you said
+right but what is the what were we
+talking about at the time well there was
+a lot of controversy at facebook about
+some donations anonymous accounts things
+just said well so those that wasn't one
+thing that was over the course of years
+so that was just a small sampling um i
+had to really find a small sample you
+know you can't you can't ever do it but
+i'll tell you what this would be fired
+from facebook what was the controversy
+there because that's what i was
+commenting on in this well no some of
+those were after i was fired and you
+were saying it was great that i was
+fired um and actually by the way it's
+like one of your one of your co-hosts
+said on your show that they're glad i
+got fired from my politics and that line
+is mysteriously missing from your
+transcripts by the way um and there's
+never ever we don't edit any of the
+things and i didn't have a coast at the
+time it's probably just one of the news
+reporters who came on we would have
+interviewed them but there was a lot of
+controversy here's what happened i gave
+9 000 to a group that ran a single
+anti-hillary clinton billboard that was
+actually the extent of it and then a
+huge number of people in the tech
+influencer space the social media
+talking heads and media they started
+saying palmer lucky is this terrible
+person who's funding sorry just to be
+clear so you made a donation and it was
+on an fec filing somewhere somebody
+pulled it out and then basically said
+like to a pack or something it was so it
+was too it was to a 501c4 i believe who
+used that for their political arm um so
+but it was it was public this was it
+wasn't public filing yeah yeah and so i
+and i actually ended up giving a quote
+to a reporter about it uh so you know it
+wasn't it wasn't uh it wasn't something
+that people understood what it was right
+but then a bunch of people just lied
+they said palmer lucky was funding uh
+people who are attacking hillary clinton
+supporters online there were a lot of
+people who i think were looking for a
+scapegoat to kind of be the right wing
+the right wing
+reaction to correct the record which
+actually was paying people to attack why
+why did zuck fire you what's that why
+did zafari oh no zuck didn't fire me
+he's waiting why did
+face
+face why did i'll just ask the third
+time why did facebook fire you
+there's a lot of reasons
+i always had good performance reviews uh
+but
+here's what it what it really boiled
+down to was this my favorite talk by far
+what it really boils down to is this uh
+it was clear that there were a lot of
+people in the media and in the tech
+industry who were going to continue
+attacking me we hoped it would blow over
+but they kept attacking me for months
+and months and months and months i was
+put on leave for six months i don't know
+if you know that uh right this is all on
+the heels of this one political donation
+correct nine thousand dollars yes
+and so on the heels that the hope was
+that it would go away now i think here's
+the real problem i think if trump had
+lost people could have said oh well you
+know he's just one of those eccentrics
+impact no he's a loser
+loser but whatever uh trump winning is i
+think what made it so you're because
+people continued to attack me not for
+the nine thousand the nine thousand
+dollar donation was the reason you were
+fired just for uh just for supporting
+trump
+[Music]
+as you know these things are very
+complex but more or less yes i mean like
+there's
+there's a direct causal line from that
+to me being put on leave to me not being
+allowed to come back and then pushed out
+we talk a lot about this on the pod on
+um
+mob behavior and i think uh marc
+andreessen said the smartest thing i've
+read on twitter in the year i retweeted
+it and i took it away and i think he
+pointed out that it's it feels safer to
+be in the mob than to not be in the mob
+well it always is
+because when you're in the mob
+you're part of the group but you also
+get to attack and it's safe to attack
+when you're in the group right and i
+think by the way what you did there one
+of the things i i will highlight
+irregardless of the content and the
+thing that was very brave and we don't
+see a lot of bravery nowadays
+and uh
+um
+i i i don't mean that i honestly i don't
+mean that to disparage jason but like
+that sort of behavior where you stand up
+and you say something that will be
+highly controversial and go against the
+mob and against the tide and maybe piss
+off an entire room is something that we
+don't see a lot of and i think that that
+level of bravery is also what's missing
+going back to the mid-20th century which
+allowed us to do all the things you
+highlighted as a country last century
+that we're not doing anymore i
+appreciate your bravery more than
+anything thank you
+yeah
+[Applause]
+yeah but but look i i don't know about
+the specifics with with j cal but it
+certainly seems that there's a lot of
+this we talk about this like with with
+brian armstrong standing up at coinbase
+and all the stuff that's gone on that we
+think i i would argue probably made
+twitter a highly complacent place is
+everyone wants to be
+you know
+you don't want to stand up and you don't
+want to make that change and you don't
+want to be brave and you want to be part
+of the mob of the of the crowd attacking
+the right well people see what happens i
+mean
+what happened to me
+has like this is this is i can't i can't
+back this up obviously this is getting
+into personal anecdote which is never a
+good way to support any idea but you
+know i know a lot of people who remain
+at facebook
+and they will not say anything and they
+will not donate to any politician yeah
+it's crazy who's left of bernie because
+they saw what happened to me and they've
+explicitly said i saw what happened to
+you because remember it wasn't just the
+public it was the internal reaction
+where people
+were saying oh my god like i will not
+work for a trump supporter this is
+terrible i mean actually one great
+example andrew bosworth
+he ran ads at facebook for 14 years he
+was put in after my departure as the
+head of oculus and he was the guy who
+was putting things on social media like
+i think the exact wording was if you
+support donald trump because you don't
+like hillary clinton you are a shitty
+human being and he's the person who's
+allowed to lead oculus now so it's not a
+problem of being aggressive being on the
+right side it's being on the right side
+of the politics and so there's a lot of
+people where they're just they're not
+going to say anything because they see
+what happens to me now sax is loving
+this
+and i tell when i hear somebody disagree
+with i'll let you guys know
+[Applause]
+the real irony here is my contributions
+have been very open but my advice to
+founders who are on the right has
+actually been don't be public about your
+political leanings because you won't
+accomplish anything you will just you
+will be terminated by the mob you should
+focus on building you should focus on
+creating value and then after you don't
+need the rest of the industry
+you can kick him to the curb and do
+something how do you how do you
+implement
+that philosophy
+um differently now
+at anderl so that you have a more
+inclusive place where
+folks on the left and folks on the right
+come together work on things that really
+matter i mean i think everybody agrees
+you're building really important things
+in the world so how do you do that this
+time around that's different from the
+facebook experience so a few things one
+i think that building working in
+national security has been a great
+filter where
+people aren't going to come work for you
+unless they're okay working in a bit of
+a controversial field i'm actually
+somewhat concerned about the ukraine
+conflict in that regard in that in the
+making
+of in in making defense mainstream it
+makes it possible for people to
+potentially say oh that isn't
+controversial now i'm going to go to
+this place and then i'm going to
+potentially attack people with their
+views but i think when you run a company
+that is inherently working on something
+that's controversial people on the right
+and on the left both feel like they're
+on the side of this important bipartisan
+issue and all of these other policy
+differences can kind of go to the side
+and the culture at anderle is everyone
+is free to have whatever politics they
+want like i'm a republican our ceo brian
+chimp is a democrat we both make
+significant contributions to our
+respective sizes and we have employees
+across spectrum
+and i think also it's nipping it in the
+bud you know it's about when somebody
+says something that is out of line it's
+about getting in early and saying hey
+that's not okay at this company we're
+we're here to talk to work on a common
+mission for example if we had a manager
+who then publicly went and said the half
+of my employees who support this
+political candidate they're terrible
+people they're shitty humans
+they'd be fired yeah yeah i'll give you
+a counter factual to what this is which
+is very aspirational which is
+seven or eight years ago we funded a
+business that actually makes seafaring
+drones and the whole point was to
+actually measure the surface flux in the
+oceans yeah which you can use to get a
+really good sense of climate change and
+somewhere along the way we had the
+chance to to do a contract with the dod
+but invariably there's a
+faction of folks inside this company
+that said under no circumstances are we
+going to put our efforts towards that
+and as a result then the company spent a
+three year detour
+trying to build a weather app
+which turned out to not be the right
+thing and
+and three years later
+um you know they're doing a bunch of
+stuff now with these government agencies
+um
+and it turns out that's the right thing
+to do because now they're that much
+closer to actually mapping the world's
+oceans which creates a repository of
+data and there's all these positive
+knock-on effects that sometimes folks
+don't see and you need strong leadership
+to kind of say it's what elon said
+yesterday you know companies are there
+to make products that people and
+organizations want to need
+not necessarily to fight over political
+ideals well i think one of the
+interesting things in the example you
+just gave like i mentioned earlier i
+have some empathy for people who work in
+companies who don't want to work on
+defense like i think broadly the
+technology industry needs to support the
+military and i'm glad that the conflict
+in ukraine has changed at least the
+thinking around that uh but at the
+individual level people should have the
+right to choose to work on what they
+think is important and so the google
+example was interesting because it was
+google employees saying hey i didn't
+sign up to work on weapons and i can
+understand that maybe they're pacifist
+and they say you know for religious
+reasons for philosophical reasons i i
+cannot work on this and they were upset
+that their work was put to work on
+defense without it being clear and i
+suspect that when the situation you're
+talking about it's similar objections
+were raised hey this is what i joined
+the company to do this isn't what i
+signed up for and so at andrew one of
+the ways that we've been able to get
+around this is being very clear like you
+are signing up to work with the
+department of defense that is that is
+the mission that you're signing up for
+and uh
+i mean we're we're about a third u.s
+service veterans at andro which is
+higher than any company that i'm aware
+of and we're about a thousand people now
+um and so these are people who they
+understand the importance of the mission
+right
+uh just shifting gears for a second i
+want to ask you about first let me just
+say that
+the first time i tried vr which was
+oculus i thought it was one of the most
+magical computing experiences i've ever
+had so i don't have you guys try to you
+you put the goggles on
+i did that and you're in the oculus
+trailer and it's like it was amazing i
+did the thing where you show like a big
+hole
+like facebook had this demo for a while
+or whatever and i thought i was going to
+fall into the hole and then i fell
+forward
+you're on the ledge of the cliff
+and i didn't i didn't want to like
+tiptoe beyond it i'm like i don't know
+i'm like wait i know this is not real
+but anyway vr is the yeah it's so funny
+these are i feel these mental circuits
+that haven't activated for years
+activating so i've got my talking points
+but yeah vr is the final computing
+platform it's not the next one it's the
+final one and people talk about
+augmented reality and it's very
+interesting i love ar we did a lot of
+great ar foundational work but at the
+end of the day if you can make a tool
+that allows you to experience anything
+and in any way that can emulate every
+other medium it is going to be the whole
+park
+caught on
+go ahead yeah well i was gonna actually
+ask about drones um so it's
+um well maybe you should answer why
+isn't it caught on yeah it's not it's
+not good enough yet people ask
+i'll have this debate people like well
+i'm not sure vr is ever really going to
+be a thing but explain the dimension
+when you say it's not good enough okay
+is it weight is it physical interface
+it's a whole bunch
+it's content being available you need a
+self-sustaining ecosystem of a broad
+enough variety of content that enough
+people can use it to create further
+network effects so that's part of it
+it's just a content thing you have to
+build a self-sustaining flywheel until
+you have that yeah apps aren't good
+enough yet to draw people in they're not
+good enough and they don't they don't
+have broad enough appeal there's a
+particular niche where we have a
+flywheel like there's a dozens of
+developers that are making many millions
+of dollars making games for quest too
+but that's its own little niche the
+other thing is quality its weight and
+its cost like the example that i like to
+use when arguing with people who say
+that vr is not going to be a thing that
+they spend their whole life in say okay
+wait imagine this what if for 99 you
+compare it buy a pair of sunglasses and
+it gives you an experience the quality
+of the matrix or sort of a line or
+whatever your sci-fi pick is
+and you can do anything and there's
+endless content it'll get there and it's
+like people like oh well of course i
+would use that right but but but but
+that's what vr is well then that's just
+a tech disagreement philosophically so
+how how fast we'll get there
+so i mean listen you created the
+category how far away are we
+it depends on the experience so the
+hardest things to simulate are going to
+be the ones that are kind of like these
+multi-haptic multi-element things that
+rely on scent and motion like surfing is
+going to be really really hard uh
+on the other hand being able to
+perfectly simulate the experience of
+being in a brightly lit fluorescent
+fluorescent conference room that's going
+to happen within 10 years like the
+resolution will be there the weight will
+be there you'll be able to perfect
+seamless experience you know how much of
+my life i've spent flying to the other
+side of the world to sit in fluorescent
+light conference rooms and then flying
+back if i if i can just eliminate that
+part of my life totally it's way better
+for me but it's going to start by
+simulating that experience where it's
+low dynamic range you don't need tons of
+haptics and then it's going to go from
+there exactly wait it's actually going
+to talk about drones yeah let's just
+shift gears for a second to drones so
+um obviously in ukraine right now the
+um the
+russian military and specifically their
+armors has been pulverized by the
+combination of the javelin plus this
+turkish drone this i guess
+yeah
+so
+i guess this has raised the profile i
+would imagine it's raised the profile of
+drones and the use of drones in the
+military also it points out the weakness
+of
+having kind of a large platform strategy
+in the case of the russian military
+their platform is this russian tank but
+so is our military we're built around
+air ventures big iron and the f-35 yes
+um and you know the abrams tank all
+these things i would imagine are
+susceptible to drones and the thing
+that's destroying the russians is their
+tank costs a couple million bucks and it
+can be destroyed by a drone that costs
+200 thousand oh many more than a million
+even tens of millions throughout emp
+we just won a billion dollar contract
+with us socom special operations command
+to do counter drone work and so to a
+certain extent that what you have to do
+is then say okay we're gonna have these
+these armored systems are going to have
+these vessels and then we need to have
+technology that allows us to counter
+drones and it is possible to counter
+drones what's going on with russia is
+they don't have the technology to
+counter drones and so they're they're
+largely just totally can can i ask you
+something about this contract just
+general terms you said something very
+important before which is the military
+industrial complex today is basically
+paid to do work right not to get to a
+result yes how do you fight that when
+you're like when you when you hear a
+billion dollar contract is that cost
+plus that dod just is willing to give
+you so this is i mean we could do a
+whole talk on this but fundamentally for
+people don't know a cost plus contract
+structure is the way that most work for
+the department of defense is done that
+means you get paid for your time your
+materials your people and then a fixed
+percentage of profit on top even if
+you're way way way way over your budget
+until congress eventually takes
+something and then there's layers of
+subcontractors so the costs all out
+exactly and so the bad the bad thing
+about this is that not only the prime
+contractor owns the contract but
+everyone under them is incentivized to
+come up with the most expensive way of
+solving a problem that they can convince
+the government to fund so they wanted to
+build the most expensive system with the
+most expensive parts with as many hours
+as possible and the bids are so complex
+that you're only going to have one or
+two real bids yep
+and they're basically gonna be the same
+price and those top bids the worst part
+is they're not just trying to come for
+the most successful solution they're
+even encouraging the subcontractors
+yeah because they get a percent of that
+and so if i'm getting let's say six
+percent profit margin i want to make it
+as big a number as possible and i want
+to drag it out like and that's why this
+budget is ballooned like crazy despite
+the lack they make more money when they
+do poorly because they're not being paid
+to make things that work they're being
+paid to do work that's what i said it's
+just the act of the doing is what gets
+up
+for you what do you do so we use our own
+money to decide what to build how to
+build it when it's done we're using
+building our own products and when we're
+going to the customer we're not going to
+them like first of all i can't just
+build whatever i want i can't build a
+batmobile and then try to sell it to the
+army but i i we we talk to them about
+their problems they understand their
+problems they don't it would be cool be
+so big
+but
+i'm sorry sorry would you build someone
+in this room at batmobile if he could
+come up with the money
+look if it's if it solved a real problem
+if if that was the right way to solve a
+process
+all right
+i'm probably not but the nice thing
+about this is that when we go to
+customers we're not going to them in the
+white paper saying hey let the taxpayers
+pay for us to try this out for years and
+years we say we've already proven that
+this works it will not be a boondoggle
+for you it will work we go to them with
+a working system with a full delivery
+goods and services already de-risked
+exactly yeah and the thing is this is
+popular with the customers and
+politicians alike because it removes the
+risk of them getting into political
+boondoggles like the f-35 program being
+a trillion dollars so this creates this
+creates new budget line items because
+now folks are saying i can actually get
+[&nbsp;__&nbsp;] out of this i'm going to move money
+from whatever [&nbsp;__&nbsp;] pot of money i'm
+spending over here move it into this
+sort of a structure and then that
+creates competitive dynamics market
+that's right yeah so how does it how
+does it actually close the loop so for
+example you deliver a drone to the dod
+it costs ten thousand i'm making up a
+number it costs ten thousand dollars and
+it works on abc dimension
+and then there's whoever makes general
+dynamics makes the hellfire drone uh
+again i don't know the specifics of
+course uh
+and they want to charge 90 000 or 110
+000
+how do they still not get picked because
+it seems if you look at their
+um
+performance as public companies yep
+it's an incredibly steady it's almost
+like an inflationary line item you know
+that you can predict six eight nine ten
+percent growth consistently every year
+correct it is i mean the the defense
+companies are not high growth high
+margin companies they're extraordinarily
+predictable people basically see them as
+an extension of the us government it's
+like buying books the u.s federal budget
+yes exactly
+and when the budget goes up you see a
+direct proportional and linear increase
+let me ask you hold on hold on let me
+ask you a question about uh something
+very pragmatic knowing what you know in
+the in the twos you're building and uh i
+do appreciate the work you're doing
+defending the country i think it's
+important
+i told you that um
+and uh i lobbied you to be here
+uh to have your platform and to have
+your voice and i've probably sent you no
+less than 30 or 40 invites to come on
+the pods can't deny that and so i told
+you i'm willing to have any debate at
+any time i'm going to put aside the
+personal stuff but knowing what you know
+doing this very good work
+the situation in taiwan
+if it does materialize what would it
+look like
+today
+given the tools we have
+and would we be able to
+would taiwan be able to defend itself
+what would that look like because that
+seems to be the next hot spot that we
+may have to do well weapons get shipped
+in there like they are in the ukraine no
+that we were able to ship weapons into
+ukraine because we had countries like
+poland that were willing to at massive
+existential risk to themselves step
+forward yeah poland has been so pain to
+pick an unsung hero in this and getting
+weapons through but taiwan what's gonna
+happen is there's a few ways this could
+go it could either be just a blitzkrieg
+where they go in destroy the ports
+destroy the airports immediately occupy
+that's that could happen the other way
+this could happen could be a more drawn
+out blockade where they blockade the
+island like is the us willing to pull
+the trigger on a blockade it's unclear
+but if you can stop trade if you can
+economically strangle them make sure new
+weapons don't get to them they can be in
+a very very bad position and it's not
+clear that we or anyone else be able to
+do that no there's different opinions on
+how things are going to go i can't
+pretend that i know exactly what it is i
+can say taiwan does not have the tools
+today that they need to deter chinese
+aggression they might have had the tools
+they needed to deter it a decade ago but
+chinese chinese military has been
+ascendant they've been investing so
+heavily in new technology distribute
+distributed swarms high-end electronic
+warfare systems and all of the
+amphibious landing craft that they're
+going to need to perform an invasion
+they've just they've built the
+capability that they need it's just how
+vulnerable are our aircraft carriers
+how vulnerable are aircraft carriers
+they're extremely vulnerable to the
+point where we feel like we can't use
+them the problem is aircraft carriers
+were not designed to be a peer-to-peer
+uh
+appear to appear great powers tool for
+us to go toe to toe with the soviets or
+the chinese like the reality is if each
+side launches 200 missiles one of them
+is going to get through and it's going
+to end up hitting and this is especially
+true with satellite targeting systems
+they were designed in the modern day to
+project power to places where you have
+air superiority uncontested so there
+it's great to have a mobile base that
+can go somewhere and project power but
+it you you you cannot stop the chinese
+that way and also if we send a carrier
+out there uh and they managed to sink it
+that's 5000 lives lost in one hit hey
+farmer we got a rap but i'll say this
+wait i got to say one more thing on
+taiwan hold on a second oh not about me
+great go no no no
+not this time not this time
+i was bracing for impact i don't have
+any anti-palmer drone systems
+but i will be working on them next i
+will say this about j cal if you did
+that to kara swisher she would have she
+would have like not she would have
+pulled you off stage
+keep
+um he's an incredibly loyal friend he's
+got an incredibly um good heart
+and i think that you know whatever he
+said or did
+it was really brave of him to come out
+here and also have the conversation and
+he wants to have the conversation he
+wants to have a dialogue and he always
+wants to do that with all of us
+sometimes he conflicts a bit and he and
+he butts heads but i will say this about
+jay cal he means well and i want to kind
+of say that
+but anyway what is important about
+taiwan let's talk about the important
+stuff
+kira says i'm a douchey man boy and a
+fourth reich bro nazi
+so not that you remembered
+a lot of memory i think your cosplay
+stuff is cool
+i was brave enough to do cosplay i'm a
+little jealous
+of that i'll be honest and i would love
+to go cosplay with you sometime but tell
+us about a point on taiwan
+not the way to wrap the the i want to
+hear
+taiwan okay all right yes the big
+difference between taiwan and ukraine is
+that we still have a chance to make a
+difference so what i'm so terrified of
+is that all these people who say oh we
+stand for ukraine we have to do this
+this is the fight of fight of you know
+fight of our generation and then they're
+not going to do anything and then
+immediately after taiwan is invaded
+they're going to change their profile
+pictures to a taiwanese flag and say oh
+man we stand with taiwan no that's not
+good enough if you care about this issue
+there's things you can do
+right now and what's really amazing to
+me is you have people who are saying
+like oh man i stay with ukraine we're
+cutting off all of our russian business
+i'm like oh wow so brave you cut off an
+entire country that's a regulatory
+nightmare has an economy smaller than
+most u.s states sorry not most
+many uh yeah it's like oh wow you're so
+so brave for cutting off the russians
+and then at the same time they say oh
+but uh all of our expansion is in china
+and and i'm not gonna say anything about
+that i think that worse than the people
+who change their profile pictures are
+going to be the people who remain silent
+when taiwan is invaded and they say they
+just can't say anything because their
+business interests are so intermeshed
+and so intertangled and that like that
+china has been fighting a strategic and
+economic war against us for a long time
+and it is extremely good the last thing
+i'll say on this i talked about it
+earlier there's a uniquely american
+delusion probably from our own hollywood
+films that we can solve any problem the
+last second it will come in and we can
+speak boom deus ex machina
+that isn't how taiwan is going to go
+there is no deus ex machina we know
+exactly what's going to happen the war
+planners have figured out exactly
+one of several scenarios that's going to
+go and when it's happened we can't
+pretend like we didn't know um and and
+there isn't going to be anything that
+flies into safety so okay so i just want
+to say one more thing and then i'll let
+you close you and i can debate
+anti-hillary ads the donald trump
+subreddit all of those things what we
+cannot debate is how important it is
+that the united states win and that
+democracy wins and that freedom comes to
+all of these countries you and i are 100
+aligned on that even if we disagree
+about the anti-hillary ads or any of
+that stuff
+amen i appreciate you coming
+and i'll debate you on anything anytime
+anywhere i do care about my family by
+the way that was the worst thing you
+said okay and fair enough
+i will apologize for that statement if i
+did say it wait jkl say it louder say a
+letter i just said if if i said
+something that hurt your feelings about
+that and it was out of line i apologize
+but what's more important right now is
+that you're here
+talking about the work you're doing and
+you and i will debate to the cows come
+home this other stuff i can't stop you i
+can't stop your credit no commentator no
+journalist can stop a founder i disagree
+with that um oh i just want you guys
+you can stop a lot of people i think
+we're overestimating my influence in the
+world you're a force of nature the work
+you do is undeniable
+we can debate politics as much as we
+want this country needs to be protected
+the people at google are cowards for not
+doing dod contracts you're not a coward
+you came out here you you take me on
+straight up as a man i appreciate it it
+was a little bit of a blind side but i
+could take it
+what's most important is the work you're
+doing
+that's what's most important
+i mean this is a soccer punch but i
+would say i'm from brooklyn thank you
+we appreciate you coming we appreciate
+you coming bottom line
+[Applause]
+[Music]
+hey everybody that was pretty crazy what
+an amazing moment i think we all learned
+a lot but i actually wanted to show you
+the clip of the comments that palmer
+referenced just to provide some context
+uh for those of you who are unaware the
+clip was from a show uh in march of 2017
+episode 721 of my other podcast this
+week in startups and listen i'm super
+aware that this could come across as
+defensive but i think some people might
+not know what palmer was talking about
+so i'll let you decide for yourself we
+recorded um
+uh that episode episode 721 the day
+palmer lucky was fired from facebook and
+uh it was a news roundtable of the
+podcast i'm talking to austin peter
+smith who worked at inside at the time
+and ian thompson of the register he's a
+great journalist
+and just to clarify some uh facts here
+in the timeline these are from the daily
+beast article in which palmer was
+interviewed you can go read that it's in
+the show notes um and the facts are
+pretty basic palmer lucky donated some
+amount of money to a pro-trump political
+organization it was called nimble
+america right before the 2016 election
+and as you just heard during the all in
+summit talk palmer said it was like nine
+thousand dollars nimble america was part
+of the infamous subreddit page the
+donald if you remember that nimble
+america
+they basically made anti-hillary and
+pro-trump memes and they were
+self-proclaimed [&nbsp;__&nbsp;] posters as we uh
+now talk about on the internet the
+organization said it was dedicated to
+proving quote [&nbsp;__&nbsp;] posting is powerful
+and mean magic is real
+uh palmer was posting to the r donald
+under the anonymous reddit account
+called nimble rich man here was one post
+which palmer confirmed writing that was
+referenced in the clip you were about to
+see the american revolution was funded
+by wealthy individuals the same has been
+true of many movements for freedom and
+history you can't fight uh the american
+elite without serious firepower they
+will outspend you and destroy you by any
+and all means and here is what palmer
+told the daily beast in 2016 when asked
+about supporting nimble america i've got
+plenty of money money is not my issue i
+thought it sounded like a really jolly
+good time again
+if you're listening you might hear some
+other voices talking those are the two
+guests that i mentioned before
+you can watch this three minute and 22
+second clip which is just a mashup of my
+commentary i'll see on the other side of
+three minutes
+he was supporting
+like
+i was a violent trolling but extreme
+trolling would be the way to do it
+that's right and his comment about it
+was really insensitive kind of that it
+was it was almost maybe not super
+um ideologically driven as much as it
+was like fun for him what an idiot
+well it actually lost and lost them a
+fair amount of business there are about
+three or four game studios that said
+right we're no longer developing for the
+oculus on this one because he came out
+and said basically well to overturn a
+trench delete then you need to be able
+to fund it and and fight back and you're
+like what an idiot that's not you're not
+a revolutionary this is just
+hit posting about politicians this is
+not constructive dialogue this is not an
+attempt to get
+reform the american political scene this
+is just oh let's be a troll yeah if you
+want to see like a person's true
+character give them a pile of money or a
+bunch of power
+and then you will see two bottles of
+vodka works very well on that as well
+it's like the sort of quick way of being
+a billionaire or whatever but i mean can
+you imagine i just want to stop for a
+second and just give everybody in my
+portfolio or the people i work with
+just a public service announcement if
+you are lucky enough to hit the jackpot
+and make hundreds of millions of dollars
+behave yourself
+you
+[&nbsp;__&nbsp;] you hit the jackpot
+it's like somebody winning the mega ball
+lottery
+and then just going on the street and
+randomly punching people in the face
+like this guy parker lucky
+is a complete and utter [&nbsp;__&nbsp;]
+for somebody to be a visionary to create
+something like oculus and make vr i
+bought the oculus it's pretty impressive
+i have to say
+i believe that vr is at least two years
+away from being a meaningful
+business opportunity but that's about
+the window where i like to invest so
+it's kind of on my radar now in fact we
+have one company in our incubator
+but jesus this kid's an idiot but this
+case
+palmer lucky's just an idiot and a troll
+so dumb here's the other thing i think
+on a leadership basis if you represent
+the company
+so you represent your company first
+oculus and your vision of the world
+behave yourself
+number two
+if you represent the company that's
+worth a couple of hundred billion
+dollars that made you a billionaire and
+you represent mark and jason who
+invested in your company and jason
+harwicks and you represent all the
+employees and all their families and
+everybody whose
+entire net worth is locked up in this
+you have a higher
+uh duty of service
+and this is a complete
+lack of moral character and leadership
+for someone like palmer lucky to be
+doing this
+[&nbsp;__&nbsp;] posting effort i'm going to say so
+let's move on to the next facebook story
+now that we got over the palmer lucky is
+just a complete [&nbsp;__&nbsp;] who doesn't
+appreciate his success or care about any
+of his employees family members team
+members if you're gonna do that kind of
+shenanigans if you here's a clue i hate
+to get totally crazy if
+you're doing something like this
+anonymously
+you might want to think that the
+anonymity
+plus read it
+plus you would be ashamed about it like
+think about what you're doing if it's
+anonymous in other words if you have to
+put a mask on and then you throw the
+brick through the window
+you may not want to throw the brick
+through the window because you weren't
+willing to do with your mask off
+okay so closing thoughts
+i respect palmer lucky uh for his
+incredible innovations both with oculus
+and his new company we actually agree on
+many things uh which actually people in
+the tech industry might not which is hey
+producing weapon systems to protect
+america and democracy
+around the world is a beautiful and
+important thing i respect palmer for
+what he's doing there and we have a
+disagreement about uh you know this uh
+meme action that he did but
+yeah all's well that ends well it was an
+interesting moment in time i don't
+regret exactly what i said i think what
+i said was fair
+and when i talked about it in context i
+was you know coming from a place that if
+you're gonna post stuff post it on your
+real name not anonymously and so there
+you have it folks that's the entire
+controversy uh thank you to palmer lucky
+for coming thanks to my besties for
+having my back uh there was this big
+question of if i would go out and engage
+the discussion of course i want to go
+out and engage the discussion i want to
+talk i don't mind a hard discussion and
+in fact that's what this podcast is
+about having hard discussions and then
+keeping our friendships and keeping it
+moving forward i look forward to hosting
+this podcast forever they're gonna have
+to take drag me out of here and i hope
+we can host another all-in summit and
+all of you can attend either virtually
+or in person it's great to uh have had
+farmer at the event and actually i hope
+he comes next year and shares more of
+the exciting work he's doing at andrew
+and i wish him the best
+[Music]
+and they've just gone crazy with it
+[Music]
+we should all just get a room and just
+have one big huge orgy because they're
+all just useless it's like this like
+sexual tension that they just need to
+release
+[Music]
+your feet
+[Music]
+we need to get
+[Music]
+okay wait jkl yeah
+hey nick nick can you queue the uh can
+you cue the photo
+what photo oh no backstage
+this is what happened at the last break
+i think we got there well this is what i
+said i said
+you're you don't have drones over my
+house right just to confirm
+and he said uh can i someone tagline
+that said cannot confirm or deny

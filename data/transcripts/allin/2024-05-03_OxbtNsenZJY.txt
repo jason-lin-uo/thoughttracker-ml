@@ -1,0 +1,2256 @@
+# Sheryl Sandberg, plus open-source AI gene editing explained
+# https://www.youtube.com/watch?v=OxbtNsenZJY
+
+David Sacks had a last-minute board
+meeting. So, he will not be joining us.
+I'll be David Sacks. Please do your best
+impression. Can you imagine? Hi, Jason.
+Hello, sister. How are you? Jason, do
+you know what I'm about to do? I'm so
+excited. I'm so excited.
+Tell me.
+Do you remember fake Chamath? Of course.
+Yes. Do we have a log in?
+Do you know who that is? Of course,
+right? Oh, you're going to reveal who
+fake Chamath is?
+I'm revealing. Oh, wow. It's a big
+reveal. Nine years later. I want that
+handle. I I would like to get that
+handle and give it to someone to be I I
+can get it to you, whoever you want.
+Well, trust me, there's a lot of people
+who would love to have the fake Chamath
+handle. Well, how do I get it? Do I ask
+the Can I ask Linda at Twitter for it?
+Yeah. I You know, we might know somebody
+at Twitter who can reach out to them.
+can help me. I'm so credible as the
+person who deserves that password. Of
+all the people who've suffered spending
+time with Chamath, you're you're at the
+top of that list.
+Anybody has the right
+to mock Chamath. I mean, you've had to
+watch his growth over 20 years. You've
+had to suffer. I raised him. I raised
+Chamath and he raised me right back.
+All right. Welcome back to the program,
+everybody. One of the guests we've
+always dreamed about having on the show
+is considered one of the great business
+operators of all time in Silicon Valley.
+For the past 20 years, Sheryl Sandberg
+was a key some might say the key piece
+in building the two largest advertising
+and technology companies in the world,
+Google and Facebook.
+Paradoxically, they they don't go by
+those names anymore, Alphabet and Meta.
+When she joined Google in 2001, it had
+20 million in revenue. They were
+private. And when she left in 2008, they
+had 22 billion dollars in revenue. When
+joined Facebook in 2008, it was at $270
+million in revenue. When she left, it
+was at $117 billion.
+Market caps of those two companies have
+grown 100 billion and 950 billion during
+her tenures.
+And today, both are worth over $3
+trillion combined and are the number
+four and number seven market cap
+companies in the world.
+However, to our crew, she will always be
+Besty Dave Goldberg's dream girl, as he
+once described it to me.
+He told me he pursued her relentlessly
+until she finally gave in,
+dated, and then married him, and started
+a beautiful family together. Dave
+Goldberg passed away 9 years ago this
+week uh in 2015.
+In an alternate universe, on a different
+timeline, Goldie would have been one of
+the four people on this panel.
+Because he was the most wise, funny,
+supermench of the entire 10-person core
+poker group, the original poker group.
+In fact, he was twice the man of any of
+us, which, given the low benchmark we've
+set,
+isn't that difficult. We can get at
+least three shows worth of wisdom from
+our current guest.
+But that's not why she's joining us
+today. She made a documentary, and we're
+here to talk about that.
+And we'll have some time for business
+talk at the end, which is going to be a
+very hard pivot, uh given the nature of
+the doc.
+The doc she co-produced is called
+Screens Before Silence. I watched it
+on the flight back from New York. I had
+to take three breaks,
+and it took a lot of tissues, if I'm
+being honest.
+It is one of the most difficult hours of
+viewing I've ever had in my life.
+It is focused on the sexual violence
+committed by Hamas during and after the
+October 7th attacks, and which,
+tragically,
+in all likelihood, continues today with
+the hostages who are still somewhere in
+Gaza. The documentary also takes on
+claims in our polluted journalistic,
+conspiracy-filled media landscape that
+claim none of this happens. She traveled
+to Israel to conduct interviews for it.
+And outside of comforting the victim,
+she spends less than 90 seconds speaking
+in it herself. The stories, of course,
+speak for themselves.
+Now, this isn't a disclaimer, but some
+context about this podcast for those of
+you who are here for the first time
+might be helpful. We realize we're
+wading into a conflict that is thousands
+of years old and it's shrouded in pain
+and suffering with a foundation
+on the most deeply held religious
+beliefs humanity has ever formed. When
+we do podcasts like this and have
+guests,
+we'll be championed by one side and
+divided by the other. But I should note
+we don't shy away from the hard
+discussions on this podcast. We go all
+in on them. Equal time will always be
+given,
+and we welcome all sides on these
+difficult discussions. It goes without
+saying
+that we're not here to be your expert or
+final authority. We're here to have a
+first principle discussion and to
+personally learn alongside each other in
+good faith.
+In good faith, this is a really
+important concept because it's hard to
+have these discussions in good faith
+today.
+So, with that, I'll welcome to the
+All-In podcast our bestie, Chamath
+Palihapitiya. Well, saying two things
+you just said that Dave would have been
+on this podcast, I've thought that
+actually.
+Um and calling me a bestie cuz I've been
+friends with all of you for so long
+means a lot to me.
+Yeah. Uh Jason, you dedicated your book
+to Dave. That meant everything to me.
+David Friedberg and I have been
+traveling around together to
+conferences, sitting in the backseat of
+cars.
+And Chamath, it's really a special
+moment to be here with you. We We lost
+Dave
+9 years ago yesterday.
+We were at our dear friend Phil Joyce's
+50th birthday party. It happened
+suddenly.
+Uh I was in shock. Everyone was in
+shock. Chamath sprung into action, took
+care of every logistical thing you could
+have possibly needed.
+But then he did something you did
+something, Chamath, even more important,
+which is you showed up for my children.
+Not just for the days and weeks, but for
+the months and years afterwards. And one
+of the many things you did is you taught
+them to play poker.
+Because what you said is if Dave were
+alive, he would have taught them play
+poker. And last night, on the ninth
+anniversary of his loss, my kids
+were in that room playing poker. And
+that is very much to your credit,
+Chamath, and I will always
+always be grateful for that. And
+grateful, Jason, to David and all of us
+for
+for Dave. Um
+So, the world lost something really big
+when we lost Dave.
+And I think a lot of people know a lot
+of the things we lost. I lost an amazing
+husband and father
+to my children. You all lost a best
+friend.
+The world lost a lot of wisdom. But
+there's actually one thing that the
+world also lost that we've never shared.
+And I'm prepared to reveal right now.
+Right here, right now.
+Cuz last night Rob Goldberg, Dave's
+brother, and I decided
+we decided it was time to share. People
+may have known there was a fake Chamath
+Twitter handle. I built Facebook, rocked
+the angel world, and now I'm on the
+Warriors. My motto, don't be a
+douchebag. That's my job.
+And people have questioned who this was.
+I mean, some people think it was Jason
+Calacanis. Some people think it was Reed
+Hoffman.
+All right. I got to say some people
+think it was Chamath himself.
+But you know what?
+The number one choice.
+Dave was fake Chamath.
+Now, he didn't write all the tweets
+himself. I know all of you helped him,
+but he wrote a bunch of them and he used
+to literally lie in bed next to me,
+write something, and just
+big belly. Remember Dave's big laugh? He
+would laugh out loud.
+And there are so many things the world
+lost. But can you guys imagine the field
+day Dave, aka fake Chamath, would be
+having with this podcast? Field day.
+Field day.
+Field day. This is a great All he'd have
+to do is just take excerpts from the
+show and put them on Twitter.
+I mean, it's one of the great things
+about the great challenge. I remember
+workshopping some tweets here with Dave,
+with Goldie.
+And the the the the big laugh we would
+have and David Lee from the Warriors was
+involved in this mishigas. I mean, we
+just had like a whole group who lived to
+write these tweets.
+And sometimes Chamath's tweets
+were so insane and deranged
+that we couldn't top them.
+So we tried to come up with like this
+one from fake Chamath.
+Pinterest is the new hot company. This
+is a great one. Pinterest is a new hot
+company in the valley.
+I don't understand why a site for girls
+with cats is worth 300 million.
+Now that's something that would be a
+benign tweet from real Chamath.
+Here's a great one from October 29th,
+2011. A lot of demand for me to appear
+in commercials like others, but I am
+holding out for Cartier. Mercedes is
+beneath me. I mean, this predated all
+uh Loro Piana.
+Loro Piana, yeah. Chamath, you got this
+next one. Give us this next one,
+Chamath.
+There is a Loro Piana one in there.
+Yeah.
+Yeah, reason number 756 to go to Vegas.
+No sales tax on Loro Piana. This is in
+2012, by the way, very precious.
+Yes. If you dress like me, I won't
+initially think you are a D-bag.
+And there's no way Dave knew what Loro
+Piana was. There's no way Dave wrote
+this. Someone else wrote this one for
+sure.
+Absolutely.
+Who was ahead of the time on Loro Piana
+at that time? Very good.
+I mean, it's just incredible. People
+think the Loro Piana thing is like
+recent history. It was 12 years ago. I
+mean, this is when Get at me, Chamath.
+Before we get started here, Chamath.
+Wait,
+Chamath should read that last one.
+That's really good.
+Chamath, you got the last one.
+My newest investment is so good. Jet
+time. You can random video chat with
+other people who are also on their
+private jet. G55 to Hawker. Yeah, Dave
+Dave loved this group of friends and he
+loved being fake Chamath. Yeah. Loved
+it.
+Anyway, the the secret's out. The
+secret's out.
+My guess is that site that that Twitter
+handle's about to get popular again.
+It's going to get pretty popular and I
+will just say
+as much as Dave loved being fake
+Chamath, he he couldn't it's like half
+the amount Chamath loves being at
+Chamath. So, let's just
+Let's just keep that in mind here,
+folks. Oh my god, I haven't cried
+and laughed so hard in 5 minutes as I
+did just now. I mean, actually in some
+way, Sheryl,
+you're you're you're our fifth bestie as
+well. You're You're always welcome to
+come on the pod. And I I just also for a
+little bit of housekeeping here, when
+guests come on this podcast, we don't
+pre-vet questions, no questions are
+off-limits, and nobody gets to strike or
+or do anything nonsensical with the
+product. Everybody comes here to have
+We're not
+We're not journalists. We're We're not
+traditional journalists. We're friends
+talking, trying to understand stuff, and
+just to be clear, I know a lot of
+commentary comes back, well, why didn't
+you say this or ask this? And you know,
+I think we're just when we have guests
+on, we just want to talk with them like
+we would in a living room and have a
+conversation, so. All right, which means
+no gotcha journalism, although I'll ask
+a tough question once in a while that
+may get me in a little bit of trouble.
+David Friedberg, you
+set this all up, and I I know you and
+Sheryl have been talking about these
+important issues.
+And of course, we're going to have all
+sides on, so you don't have to email me
+and and say, "What about this side? What
+about that side?" All sides are welcome
+to come on the pod. But Friedberg, why
+don't you kick us off here? We're going
+to talk about this important film
+and a lot of the debates going on about
+this horrific attack on October 7th, and
+and then what's going on in Gaza today.
+But then we also I'm going to try to
+make that hard pivot to business and and
+get some of Sheryl's insights on what's
+happening in the world today of
+business. So, Friedberg, why don't you
+kick us off? Well, I just want to zoom
+out because I think Sheryl,
+we had I I believe it couple
+conversations
+after October 7th.
+Amongst other folks, I've heard that
+there's been a lot of disappointment
+that institutions, organizations,
+ideologies that have been supported by
+folks like yourself or maybe you can
+speak I don't want to put words in your
+mouth.
+Suddenly emerge to be something quite
+different when
+threads of anti-Semitism started to
+emerge and folks began
+to deny certain things
+based on their ideology about the
+oppressor oppressed
+concept being applied to Israel and
+Palestine.
+And
+and maybe you can tell us a little bit
+about the surprise and journey that
+you've been through since October 7th
+with respect to some of the groups that
+you've supported that suddenly seem
+quite different than what maybe we all
+thought they were
+prior.
+Look, it's a great question cuz
+I mean
+I sorry and and that's the conversation
+Cheryl and I have been having that led
+to saying, "Hey, why don't you come on
+the show this week and let's talk about
+this and and other topics particularly
+given the timing
+with the release of the film."
+It's a great question. I mean, if you
+had told me on October 6th the following
+is going to happen.
+Terrorists are going to parachute into
+Israel.
+They are going to kill 1,200 people.
+They are going to sexually brutalize,
+brutalize and rape multiple women and
+men.
+I would have said, "You're crazy." Then
+if you would have told me
+that people were going to deny the
+reports were going to start coming out.
+People were going to say, "I'm a first
+responder. I saw naked bodies. I saw
+women bloodied.
+Legs spread." But then people were going
+to deny that this happened. I would have
+said, "You were crazy." And then if you
+would told me that what we would be
+doing on college campuses is not
+protesting sexual violence as a tool of
+war
+by the hands of Hamas. Hamas,
+misogynistic, homophobic terrorists who
+are right now holding not just Israelis
+but Americans hostage.
+Yet we would be protesting and college
+kids would be screaming, "We are Hamas."
+I would have said you were crazy.
+And that's hit me hard. And for me as a
+woman, as a very outspoken feminist,
+it's all hard. But the part that has hit
+me the hardest is the denial of the
+sexual violence.
+That has just been
+horrible. And so, the reports were
+coming out in November. I wrote an
+op-ed. And what my op-ed said was, "No
+matter what you believe should happen in
+the Middle East, I believe in a
+two-state solution. No matter what flag
+you're flying, march you're going to,
+you can all be united on one thing,
+which is sexual violence should never be
+used as a tool of war."
+Then I did a video
+that went pretty viral.
+But people are denying it and they're
+attacking articles and attacking
+reports. And so, I went to Israel.
+And I sat down myself
+with a video crew. This was
+generously financed by this great
+philanthropist Joey Low and his wife.
+And I sat down there and I asked people,
+"What did you see with your own eyes?"
+We sat down with a released hostage who
+told her story.
+And this is because people are actually
+denying or ignoring this.
+And that is a horrible place for us to
+be and truly shocking. Truly shocking.
+Let's double click into that word
+denial. So,
+it's a very heightened moment.
+Everybody
+is taking sides. Everybody's trying to
+interpret what they think is the right
+point of view, whether it's in that
+moment or historically in the arc of how
+Israel and Palestine have been in
+conflict.
+Where does that aspect of denial come
+from? Have you Have you spent time
+trying to unpack like
+how do you start to get to a place where
+you say, "Clearly people were killed."
+But then when it goes into
+war crimes and sexual violence, we're
+actually going to stop it there because
+it basically pulls our cause back. So,
+we can't agree that that actually
+happened. How How does that happen? Why
+is that happening? I mean, you're
+framing exactly right, Chamath. That's
+exactly what happened. So, I mean, you
+all talk about this a lot, but there's
+huge polarization. What does that mean?
+Polarization means I have a view that is
+so firmly entrenched that I see the
+world as black and white. Everything has
+to fit into my view and my narrative.
+And when it doesn't fit, I don't know
+what to do, so I reject it. And that's I
+think what's happening. That there is
+There are people out there who believe
+that October 7th was resistance. I want
+to be clear, I'm not that person. I do
+not believe that.
+I'm horrified by what's happening in
+Gaza. Every life lost is too much. I
+want two states living peacefully beside
+each other.
+I really want that. But let's say you
+think October 7th was resistance.
+Then all of a sudden you're like, wait a
+second.
+Mass rape.
+Genital mutilation of men and women,
+women and men.
+Women tied to trees, naked, bloodied,
+legs spread. That doesn't fit your
+narrative. So, what can you do? You can
+well think, maybe the world isn't so
+black and white. Maybe I have to rethink
+my narrative. Or you can say this didn't
+happen.
+And I think it is a travesty and a
+tragedy that anyone could say that. And
+I want to be clear, Jason, you started
+this by saying you always have
+positions. You always give people room
+for two sides, and that's fantastic. I
+think there are not just two sides,
+multiple sides to the Middle East story,
+multiple sides to the history, multiple
+sides to what's been going on.
+There are not two sides on this. This is
+sexual violence. There is one side. One
+side, and we are against it. And that's
+relatively new in the world. To take you
+back, quick history lesson, which you
+all know, but I'd love for all your
+viewers to know.
+For a long time, the history of
+women's bodies were part of war. You got
+the village, you got the gold, you got
+the women. And it was only 30 years ago
+after the mass rapes of the DRC, Bosnia,
+the former Yugoslavia,
+that people said, "No, rape is not a
+tool of war. We will prosecute it as a
+war crime and a crime against humanity."
+And the feminist groups were the ones
+who made that happen, the civil rights
+groups, the human rights groups.
+They've held since then in this moment,
+if our politics drive us to give that
+up, think about what we give up cuz as
+we're doing this podcast right now,
+there are hostages in Gaza that we know
+are being sexually assaulted. There are
+women in Ukraine, Sudan, Ethiopia,
+around the world who are being sexually
+assaulted right now.
+Right now.
+And we can't let that go. This is the
+one place we need to be united. Why are
+the feminist groups
+finding themselves aligning more
+with Hamas than they are with this core,
+what seems to be and should be a core
+ideology?
+So look, we can't paint them all with
+one brush. There are feminist groups
+that have spoken out on this, that have
+said,
+you know,
+Now did it, the new Na'aleh did it. They
+said, "We are against the sexual
+violence." CARE did it. There are groups
+that have done it, no matter what else
+they're working on.
+A bunch of them have said to me
+privately, "I know you're right. Of
+course sexual violence isn't okay, and
+of course this happened, but I can't
+speak out because all my employees are
+going to get upset. I can't speak out
+because the young people." And that
+makes me really sad. Well, explain that.
+What does that mean, young people will
+be upset to know that
+that both things happened?
+You've got to be able to hold two
+thoughts at the same time. Again, not my
+thought, but if you believe October 7th
+is resistance, you can still believe
+sexual violence happened.
+The fact that a group of feminists, none
+I'm
+particularly close to, have actually
+signed letters saying this didn't
+happen.
+Is crazy. Absolutely crazy. I mean,
+look, I'm going to read this. The UN
+special representative on sexual
+violence, Pramila Patten, traveled to
+Israel and here is what she wrote. She
+said, "Witness I witnessed in Israel
+were scenes of unspeakable violence
+perpetrated with shocking brutality.
+Catalog of the most extreme and inhumane
+forms of killing, torture, and other
+horrors, including sexual violence."
+That's the UN. They're not exactly a
+pro-Israel group.
+Sheryl, let me ask cuz I I think it's
+important to note some people will
+counter and say, "Look at this article
+from Grayzone."
+Grayzone said Western media concocted
+evidence that the UN report on October
+7th sex crimes failed to deliver for
+March 7th. They said Western media
+promoted a UN report as proof Hamas
+sexually assaulted Israelis, yet the
+report's authors admitted they couldn't
+locate a single victim, suggested
+Israeli officials staged a rape and
+denounced inaccurate forensic
+interpretations. I just want to give you
+an opportunity to respond to Grayzone's
+article because I think a lot of folks
+have pointed to that article and the
+articles that that organization has put
+out
+as being representative of an
+alternative view that the sexual
+violence may maybe didn't happen as
+evidence in your film. Maybe you can
+address it. Give you a chance to do
+that. Yeah, well, the key thing you said
+there is where are the They're asking
+where are the victims. Well, let me tell
+you where the victims are. They're dead.
+They're dead.
+That is why we call this film's Sorry.
+Screams Before Silence.
+I have a story in this film, this woman
+Tally.
+I went with her to the trailer where she
+hid. She was at the Nova Film Festival.
+She's a nurse. She hid in a trailer.
+I walked in with her to that trailer the
+first time she'd been in there and you
+could see her body like shake and she We
+didn't This didn't make the final cut of
+the film, but she picked up a black
+sweater and I think she might have been
+wearing that sweater. I was afraid to
+ask her, but she was like shaking.
+She hid in that trailer for I don't
+know, 5, 6, 7 hours and she heard
+sometimes she would hear like a little
+scream like "Ah, someone's pointing a
+gun at you." and a shot.
+But sometimes she would heard scream
+over and over and over "Stop, stop."
+And then
+for like long period like 15 minutes and
+then a shot. And then when she got out
+of that trailer
+there were naked bodies where she heard
+those screams.
+The victims are dead.
+Most of them are dead. There is exactly
+one person who is an escapee or a
+released hostage. Her name is Amit
+Soussana. She gave a video interview.
+You all saw it. We have the only video
+interview in this documentary.
+And she tells her story very clearly.
+She was held hostage for months. She was
+chained to a bed.
+And as she said it, he her captor forced
+him to do a commit a sexual act on her.
+This woman is so brave and she told me
+she's speaking out because there are
+still hostages there, but she is the
+only living witness to speak out. We
+think there are a few more
+who are in deep trauma.
+But there were 1,200 people killed.
+And at least dozens of them were
+sexually brutalized, assaulted.
+And that is why they're not speaking
+out.
+Just as a follow-up, what is the social
+and political motivation of a group like
+Grayzone and other appointed deniers?
+What are they trying to accomplish by
+denying? They're trying to accomplish
+their narrative that October 7th was
+justified resistance.
+Because
+even they understand that it is not
+it because the sexual violence taints it
+in a way, right? As opposed to just
+being soldiers killing soldiers, the
+sexual violence aspect of it taints the
+valor of the resistance. Is that a fair
+way to sum up what you're saying?
+Yes. Even they don't believe and it's
+interesting Hamas
+has been proudly talking about who they
+killed, but even they deny the sexual
+violence. That wouldn't happen. It's
+against our religion.
+The sexual violence doesn't fit the
+narrative. But I want to be clear, the
+sexual violence was multiple locations,
+systematic,
+meets the definition of a war crime, a
+crime against humanity, and was part of
+the plan. If there was no sexual
+violence, would it be fair to call it a
+resistance?
+I would not call it a resistance.
+One of the things that happened after
+the Holocaust
+was there was still a small core of
+people that denied that it ever
+happened.
+And I think that there was, to use the
+word systematic again,
+a systematic effort to document.
+Right?
+There's pictures, there's museums,
+there's memorials.
+You can think what you want of World War
+II or Jews in general, but you can't
+deny that that happened. And the
+documentation of it is pretty
+unambiguous or completely unambiguous.
+When you spent time there, is there an
+effort to start doing this? And here is
+where I'm getting to, which is kind of a
+morbid question, but there was a moment
+in this documentary
+where this woman who was the doctor in
+the morgue, I guess, is talking about
+all of these bodies.
+And unfortunately, where my mind went
+to,
+but I think it's the kind of the right
+thought, is I hope that there was
+rape kits done,
+even if it's posthumously,
+because that's the trail of evidence
+that allows one to know,
+squarely inside of a box, this is the
+totality of what happened, as a learning
+lesson for everybody, including not just
+the people that disagree, but the people
+that agree,
+and then to reinforce some of these
+basic rights that we thought we've all
+signed up for.
+I mean, it is such an important
+question. There were not rape kits done.
+1,200 people killed in one day. I don't
+anyone was people they bodies were
+burned. People were trying to identify
+them. I've actually looked into this a
+bunch and in a lot of sexual violence in
+war situations, there are no rape kits.
+So, that's actually sometimes they're
+used, but often in chaos, there is none.
+There are very few pictures. There are
+some and I saw them in this documentary
+and they are
+Sorry, they are
+naked women with nails in their groin,
+like
+I'm sorry. I saw these pictures. But,
+what's interesting about it is the
+people who are the first responders are
+taught not to take pictures particular
+particularly of gruesome things. They
+don't have the victims the victims, you
+know, victims victims rights.
+Yeah. But, the man I interviewed, he
+said 24 hours in, he thought to himself,
+"No one's going to believe this. I got
+to take pictures." And against the
+training he had, he took the pictures
+and he showed me on his phone. He was
+like, "I took this." And another guy
+from ZAKA, they're a first responder
+group that goes in.
+This is an unheard of situation. I mean,
+I said to him, "You've been processing,
+sorry, maybe that's not the right word.
+You've been I guess processing dead
+bodies all over the world."
+How many times in your experience are
+they naked?
+And he just looked at me and said,
+"Never. They're never naked." And what
+meets the legal criteria for proving
+crimes against humanity are witnesses,
+eyewitnesses. And what's important about
+the documentary
+that we did, but also important about
+the efforts Israel is doing. Israel is
+doing that documentation. Not Israel the
+country, a woman in Israel named Kochav
+Levy, who's fantastic. She is from a
+private university with private funding
+doing that documentation, which at this
+point are mostly considered of
+interviews.
+But, there are hundreds of them.
+And look, I hope people watch. In the
+documentary, I go into a field with this
+guy Rami. I'm sure you guys remember
+this. He cuz he's huge, right? He Yeah,
+huge.
+He stands like this tall over me.
+Private citizen, this guy is the biggest
+hero I've ever met in my life. Sirens go
+off, he gets into his car, takes his
+gun, and drives
+to where
+Incredible bravery.
+Rescued hundreds of people himself.
+Himself.
+But he got to a field and I stood in
+those trees. And he said, "These trees,"
+he thinks about 30 women were there and
+raped or sexually brutalized. When he
+saw them,
+they were naked, tied to trees, legs
+spread bloodied. Like bloodied in the
+regions you would be bloody if you were
+raped.
+And he what he said in the film is, "I
+got there, I covered their bodies so no
+one else would see." He didn't take
+pictures. I wish he had.
+But well, I I guess I don't know. Do I
+wish he had? I don't know. But you
+understand why. But
+he said, "I saw this with my own eyes."
+And what you saw in the film is this
+huge man who's
+so brave, fought terrorists himself,
+crying cuz he didn't get there early
+enough to save those women. But the good
+news is
+while the victims were killed,
+the good news is the first responders
+are alive and their testimony, which is
+eyewitness testimony, meets the criteria
+of any international or or global court.
+Absolutely, crimes can be proven
+by I by by eyewitnesses, for sure. Sure,
+what is the response What is the
+response in Israel?
+How do you How do you judge what
+Netanyahu's doing?
+Both
+in reaction to the events,
+but then in reaction to these specific
+aspects of the events. What are they
+doing
+that's different or what would you wish
+they were doing differently or can you
+just give us a sense of how people are
+processing this aspect?
+I mean, look,
+we need peace. We need two sides and two
+leaders that are committed to peace.
+Like long-term peace, and there's a lot
+going wrong, you know? But on this
+aspect,
+you violate Someone said it in the film,
+you violate a woman, you violate a
+country. There's a reason sexual
+violence is used as a war crime. There's
+a reason it was used in the DRC and
+Bosnia, and it's being used in Ukraine
+today because And I can see it in your
+reaction. I mean, Yeah, it's to
+humiliate It's to humiliate a people,
+right? It's to humiliate a country.
+Right. You humiliate Look at Look at the
+three of you. Like, you all don't cry a
+lot. Like, this is traumatic because you
+all have mothers
+and daughters. Like, you can feel what
+happens to a country, and that's why
+this was done. This was not an accident.
+This was on purpose. And unfortunately,
+it works.
+Sexual violence
+I I think I think a like
+for us to have a path towards peace,
+there has to be a degree,
+despite the pain
+being felt,
+a degree of empathy for the other side's
+desires, the other side's pain, the
+other side's
+feeling that they
+were enacting a resistance against an
+oppression. How does one side embrace
+that aspect having gone through this?
+How How do we get to a point
+that a people
+can say, "I have empathy for the
+resistance after feeling this sort of
+pain?" And this is the age-old story of
+war,
+eye for an eye, it never ends, it always
+goes on.
+What's the right path here to hear the
+other side, to hear the kids on
+campuses, to hear the the people in
+Palestine, uh to hear the the world
+saying, "We feel free Palestine"
+um after going through this?
+I can tell you what I believe. I believe
+we need peace. I believe we need two
+states. I believe that those states need
+to be run by peaceful leaders who want
+prosperity for the other side.
+Look, I believe we should be able to
+look at anyone anywhere in the world,
+but certainly the Palestinian people
+living in Gaza and say any death is too
+much.
+One death is too much. No innocent lives
+should be killed. No women, no children,
+no innocent lives should be killed.
+But I think also as path to that path to
+peace, there needs to be forgiveness.
+But there needs to be a clear clear
+articulation of what is not acceptable
+ever.
+And the sexual violence is not
+acceptable
+ever.
+If you were Netan If you were Netanyahu,
+what would you do differently? Sorry for
+getting you off. No, no. I mean
+I don't have an answer to peace in the
+Middle East. I don't. I mean, I wish I
+did, but I do have a very strong view
+that we are not going to get to peace
+when we are apologizing or denying
+crimes against humanity and crime mass
+rape of women. Well, that is not the
+path to peace.
+The path to peace is not saying this
+didn't happen.
+The path to peace is saying this
+happened, no matter what side of the
+fence you're on, no matter what side of
+the world you're on, if you're the far
+right, the far left, anywhere in the
+world, we're not going to let this
+happen again, and we're going to get to
+peace to make sure.
+Denial is not going to get us there. Why
+has the other side captivated so much of
+the youth in the United States? What
+You're very close to Harvard. Maybe tell
+us what's going on at Harvard over the
+last few years. How did we end up in
+this place where so much of the youth is
+so sympathetic
+to the Palestinian cause
+and not as moved as you are um by the
+trauma experienced on the other side.
+I mean, y'all are I would throw that
+question right back to you. I know
+you've talked about
+you know, narratives and oppressor and
+oppressed. And again, polarization is
+where
+you can only have one view, and you
+cannot tolerate anything that doesn't
+fit one view, and I don't know of
+anything that's that clear and that
+simple.
+I mean, I'll throw that right back to
+you. You all have been articulate on
+this, and I think have a lot to say.
+Well, I mean, this you said it earlier,
+Cheryl, this tolerance for ambiguity,
+this ability, the cognitive dissonance
+to be able to hold in your head that the
+people of Gaza are suffering. Perhaps, I
+guess the other side would say, you
+know, they would they would start down
+this whataboutism. It's not my position,
+but what about what Netanyahu is doing?
+What about aid to people suffering Gaza?
+You've addressed that. You don't believe
+anybody should suffer.
+But, I just want to
+talk a little bit about
+this conspiracy theory that it didn't
+happen.
+Also, in the documentary,
+the savagery,
+you chose not to show the graphic
+photos that you saw, and that you're
+clearly traumatized by. And a lot of us
+New Yorkers
+had a similar experience with 9/11 and
+watching that up close. It is what
+terrorists do. Terrorists do these
+things to cause massive trauma to make
+it impossible to de-escalate. That is
+the sadism, that is the the pure evil of
+of of this brand of terrorism is to make
+it impossible for the good people of the
+world to unwind or or de-escalate. And
+it's
+I think part of the process
+is accepting what happened
+and coming to some truth. And the truth
+can be there are people dying
+unnecessarily in Gaza. There are people
+starving in Gaza. There are children who
+are not getting food and water. All of
+those can be true, and this
+horrific sexual
+sadism and violence that occurred is
+also true.
+You And I in the documentary
+I couldn't have said that better. That
+that was exactly right, Jason. That is
+exactly the point and the path. Sorry.
+Please continue. That was perfect. I
+mean, I'm I'm trying to make sense of
+this. I And I and I come to you with
+humility, you know, uh you know, this
+podcast, you know, hits a certain notes
+with people and oh, how can people in
+Silicon Valley or whatever discuss these
+topics? Listen, we're all discussing
+them. We're all trying to make sense of
+of a very confusing world. But you made
+two choices in the documentary. One was
+to leave yourself out of it largely.
+Your role in the documentary is,
+you know, to hug people and and to cry
+alongside them and to witness this
+stuff. You talked for I think 90 seconds
+in the whole documentary. I think this
+was a important decision you made. I
+mean, then you made a decision which I'm
+not sure if I agree with, which is to
+not show the photos.
+I am of the belief
+that people should see what happened on
+9/11 as a New Yorker who witnessed it
+and my brothers in the fire department
+and I had PTSD from it.
+I think people have to see these things.
+You chose not to out of respect for the
+family. She put a note at the end.
+Explain this choice cuz I know you must
+have struggled with it and there are
+photos that you've seen
+of women with their breasts cut off. I
+hate I I I don't want to say these
+things. I know it's very traumatic, but
+I believe people have to understand
+what's in these photos that you saw.
+Nails in women's private parts. Breasts
+that have been cut off. This is
+undeniable. If you want to deny the
+rapes happened or whatever, you cannot
+deny the photos that you saw.
+You chose not to put them in. I
+understand that decision, respect for
+the family. Is there a not a Take us
+into that decision because maybe there's
+a maybe you need to
+and the and the and the woman who who
+chose to do the interview with you,
+she's so brave. She said, "I had to do
+this because I wanted to combat the
+denialism." And I I don't know who the
+Gray Zone is, you know, the the
+I don't know why people are giving it a
+ton of attention, but they you know,
+they are considered the first line of
+the Wikipedia page is it's a fringe
+website. So, just let's leave it at
+that. I don't know if it is or if it
+isn't, but that that's the first line of
+the Wikipedia page.
+Is there not a case to be made for
+making a second version of the
+documentary
+that shows exactly these things so
+people can stop denying it cuz then they
+you would have to come to the place that
+these
+that that the people who are one-sided
+created fake images? Well, that's what
+Is that Is that where we're
+we're getting to in this conspiracy the
+the film world that the dozens of people
+you interviewed are part of a grand
+conspiracy and the photos are doctored?
+So, just talk about that decision. You
+you must have had an important meeting
+about that.
+Look,
+we didn't really have a choice. I agree
+with you. I think the world seeing this
+would probably be necessary at some
+point. I do think the deniers will deny.
+They'll say, "Oh, you can doctor any
+photo."
+So, you're going to have to believe the
+person who took them anyway. We didn't
+have that choice. These photos are held
+by
+people who have taken a vow as part of
+their work as first responders of
+processing and getting bodies ready for
+burial that they won't show them.
+Uh it also, you know, we've made this
+freely available on YouTube so anyone
+can watch it. No firewalls, you know,
+anyone can watch this thing if you're
+over 18.
+It wouldn't meet YouTube standards so
+that would be taken down. I mean, we we
+can't show them right now for those two
+reasons. But, I think over time we the
+world may have to see some of them. But,
+I also want to go back to what Chemat
+said because there are not that there
+are photos. There are clear photos and
+there are clear witnesses.
+But, Rami's story, he took no photos and
+he will tell you why he took no photos.
+He covered those bodies so no one would
+see. Yeah. It's traumatic.
+it's traumatic and and
+Yeah. and that's why Israel is
+documenting this or not Israel actually,
+I should say it's someone in Israel is
+documenting this. But again,
+no matter what else you believe, I love
+the way you said it, Jason. You can
+absolutely believe I absolutely believe
+that every single person,
+particularly the private citizens, not
+the terrorists, in Gaza should live in
+peace and harmony. They they should, of
+course, get aid, but they shouldn't need
+aid because they should have a thriving
+economy and a state that's their own.
+That doesn't mean sexual violence didn't
+happen because it is clear it did. And
+the denial is crazy. I was in France. I
+did a I took some of the witnesses to to
+different parliaments, including in the
+French parliament, and
+um
+Maurice Levy hosted this beautiful lunch
+for us.
+And there were all the people who work
+in civil society. And this woman stood
+up at this lunch, and she stood up, and
+she said,
+"I'm French. I'm not Jewish.
+I run a nonprofit that works on sexual
+violence in conflict. I've done this
+work for 30 years.
+No one's ever
+questioned my work, ever, until now."
+And she said, "I think it's
+antisemitism."
+You look at that New York Times article,
+and I know there's different views of
+the New York Times. I'm not defending
+the paper. But that article written by
+Jeff Gettleman
+and others, he has covered sexual
+violence for decades. He won a Pulitzer
+for his coverage of this in Somalia. A
+Pulitzer.
+I did a search. No one's ever questioned
+it before.
+Something is going on here, and it is a
+combination of narratives and
+polarization and antisemitism,
+which is getting us to a place
+where we lose. Yeah, sorry. Let's
+explore that for a second. So, when you
+see the videos, what you see
+are young people, but
+you see a lot of young women. And many
+of the leaders of these
+of these movements on campuses now,
+the spokespeople are women. The
+leadership seems
+mostly to be women.
+Do you have a reaction to that? Do you
+have a thought on that when you see
+these folks and that that
+they should be closer to this
+realization maybe than
+a man could theoretically overlook it or
+try to block it out, but
+it's actually the leadership of these
+organizations tend to be mostly women
+led and they're basically like, let's
+keep going and it's about this
+resistance. How do you react to that
+when you see that?
+It really depends what I see. Like when
+I see someone peacefully protesting and
+saying free Palestine.
+Sure, why not?
+That's That's good.
+I want free Palestine. When I see people
+protesting and saying, you know, we need
+peace on all sides. We need a ceasefire.
+Of course we need We need a permanent
+ceasefire that lasts I'm for that.
+Ready? When I see people saying, the
+rapes didn't happen. That's
+unacceptable.
+You know, you saw a student at Columbia.
+I saw it on video, I'm sure you did too,
+screaming at a Jewish kid, go back to
+Poland. Right, I saw
+Or
+So, October 7th going to happen to you
+over and over. That's not okay. And so,
+it really depends what they're saying.
+But again, I'm hoping people watch this
+documentary so they can see it for their
+own eyes. I'm hoping people wake up and
+realize that they are capable of holding
+two thoughts at the same time. They just
+are. What's going to happen at Harvard?
+What's going to happen at the Ivy
+Leagues?
+I don't know what's going to happen at
+any of these schools, but I'll tell you
+I'm a
+parent of college age kids.
+You know, I've got a kid who was in
+college for a year. I've got a kid going
+off this year in the fall.
+Colleges have a responsibility to keep
+our kids safe. Full stop.
+And protect them from hate. Full stop.
+And they have the ability to do this.
+They have the ability to do this. It's
+up to them.
+Do you think Columbia has done a good
+job? Well, if you were president of
+Harvard, what would you have done
+differently, Sheryl?
+I I'm not close enough It's all merging
+together in my mind. I don't know
+exactly which protest has happened at
+which schools, but here's here's what I
+would do. Yeah. I would have
+very clear rules, which by the way all
+the schools have. It's a question of
+enforcing them. Right.
+The schools that are letting this happen
+are not enforcing their own rules.
+Schools are actually I think look, free
+and open dialogue is important. College
+is the place you should go to talk about
+the issues from all sides, to have
+thoughtful conversations, to have deep
+conversations, even maybe to have angry
+conversations. Yeah. But not violent. I
+went to Berkeley. It wasn't lunch
+without a protest. I mean, that's like
+the daily thing you do there. You know,
+you go grab a sandwich and you go
+protest, you go back to class. Like that
+was our
+Great. Yeah. I bet you had thoughtful
+conversations cuz that's what's made you
+you. Look how Look how compli- Look at
+your views, David. You're able to
+articulate multiply complex views, and I
+bet some of that was from Berkeley where
+you probably sat with your fellow
+students and talked to them, right?
+That's not what's happening here.
+Yeah, I think things are very different.
+These colleges have rules. Some of the
+colleges that Most colleges have a rule
+that you can't protest in the
+president's office. There are colleges
+where the faculty and administration,
+when people are protesting in the
+president's office, they're serving them
+food.
+There are colleges that say you're not
+allowed to protest here, go outside. But
+if you feel if you feel deep down in
+your heart that it's a matter of life or
+death,
+don't you feel justified that having an
+encampment, setting up a tent, living
+there, showing that that degree of
+conviction is necessary because you're
+saving lives versus hey, I think
+something is a good idea, let me go
+protest for an hour during lunch, and
+then I'll leave. It's never going to
+move the needle. The question I'm asking
+as a young person is how do I move the
+needle? And there's not a lot of ways
+that people feel empowered to move the
+needle. So, it seems rational to me to
+some degree that they want to go into
+these encampments and they want to do
+something strong and show their
+conviction. But again, I think that
+there's a question on how much truth
+there is anyone willing to see, how much
+are folks willing to embrace the other
+side, how much are they willing to
+listen. I I I see very little listening,
+very little dialogue going on because
+then you put up a list of demands that
+are unmeetable.
+And you know, you deny anyone to have a
+conversation and you deny listening to
+the other side. And you take this
+hardened view that doesn't allow for
+progress. And I think it's the hardened
+views on all sides that's limiting
+progress entirely. Unfortunately, the
+youth have been subsumed by this.
+And it's really frustrating to see
+because I worry about what that leads
+to.
+I think it's not necessarily the youth,
+meaning
+I think you're seeing it in some very
+specific places that cater to a very
+specific kind of youth. You see them at
+Columbia, Harvard. There are these
+specific Berkeley, UCLA that are
+bastions of
+privileged kids for the most part. These
+are extremely elite institutions that
+typically
+allow in kids that have been coached
+their entire lives to get into those
+schools. And I think that they're coming
+there
+with a lack of fulfillment. And
+it reminds me at some level
+of how people reacted to occupy Wall
+Street.
+Meaning there were a whole bunch of
+young people there that probably didn't
+even know what the whole occupy Wall
+Street movement was about.
+Yeah. Well, they showed them themselves,
+Chamath. It was a platform for whatever
+your grievance was. That was their
+stated mission. Yeah. And I think what
+they found
+a decade and a half ago or so was
+community in this weird way. Yes.
+Right? The physical interaction of other
+people where you had this intimacy
+around a thing. I'm not condoning occupy
+Wall Street just like I'm not condoning
+what's happening on campuses, but I
+think psychologically what kids are
+looking for is that level of attachment.
+And to your point, David, something that
+they can feel strongly about.
+And I think they end up getting to the
+age of 18 and 19 not having felt
+strongly about anything cuz they were
+working on playing nine sports and 14
+instruments and all this other
+to go to these schools and then they get
+there and they feel a little empty. And
+sometimes negative things can fill the
+void. What I was going to say is I think
+the answer lies in what you're in what
+we're saying.
+David, you started out by saying, "How
+are we going to get to progress?" Well,
+screaming at each other is not going to
+get to progress.
+I don't have an answer for peace in the
+Middle East, but you know, universities
+play roles in getting there.
+Thoughtful, hard conversations. Let's
+look at the real history. Let's look at
+who the leadership could be. Let's look
+at what kind of leaders we need on both
+sides. Let's look at what the
+international community could be doing.
+Those answers could come out of
+universities. Some of those college
+students, if they weren't reading five
+things they don't understand, could help
+us get there.
+And I think these protests are getting
+in the way of the thoughtful dialogue.
+And I honestly think part of what
+happens with cancel culture, I don't
+want to listen to another view. Right.
+On all sides.
+Really, why don't you say,
+"I want to listen." My friend Adam Grant
+wrote a great book called Think Again. I
+wish everyone in the whole world would
+read that damn book. Think Again. Think
+Again means you like might not be right
+about everything.
+Think Again means you need to like
+listen to the other side. We're never
+going to get there without that kind of
+thoughtful dialogue. Well, yeah, and
+that's that's exactly where I wanted to
+go with it, Sheryl, which is if you if
+you steel man, if you
+look at their perspective and you look
+at the beauty of feminism and
+femininity.
+Um, and you wrote a book Lean In.
+And you are an expert on this.
+Having compassion for people who are
+suffering is absolutely beautiful. It It
+is the best of humanity and I think it's
+the best of femininity and women.
+Is that they have this incredible gift
+of of empathy that as men maybe we we
+are so far behind.
+And so it does not surprise me that
+women lead these organizations when they
+see suffering. And if you see children
+suffering, women are in a unique
+position in their life experience to
+understand the value of children, of
+family, and of suffering. And
+you know, I I can understand an
+impressionable young person seeing the
+videos coming out of Gaza of a baby
+dying in a bombing and collateral damage
+and being devastated and saying, "You
+know what? I have to fight for these
+poor children."
+It is completely noble in their mind. In
+fact, it might be noble. I mean, it's to
+to fight for
+peace.
+And so,
+you know, I I can understand their their
+positions and I I don't actually
+disagree with them.
+But then, you you start looking at the
+reality of getting the hostages back.
+And if this was an American situation,
+and and we actually have a corollary in
+9/11.
+We we didn't go to Afghanistan to get
+hostages. We went there to get
+retribution.
+So, if America went there to eliminate
+this
+threat,
+and and we also took out another country
+just for good measure that wasn't even
+involved in it.
+You know, it it's such a complex issue
+and we're in the fog of war. I think
+everybody pausing for a second here and
+just remember how confusing it was after
+9/11.
+How confusing it was and and we had to
+figure out, "Wait a second, these were
+Saudis.
+These were this radical group, this
+splinter group." Like, it takes a while
+to figure out what's going on here.
+And
+I I do think on these campuses, they
+should allow them to protest, but
+there's outside agitators. That seems to
+me to be completely unacceptable to have
+40, 50, 60-year-old lifetime agitators
+on these campuses.
+Allow these kids to to
+protest, but to chase Jewish kids around
+the campus and then surround them and
+threaten them in 2024?
+I I mean,
+I I I can't understand what's happening
+and how
+How we got here.
+How could an administration, Cheryl,
+allow students to threaten other
+students and not immediately snap
+a snap decision. It's a decision. You
+just said it. It's a decision. It is a
+decision. absolutely expelled if a
+Jewish a set of Jewish students
+surrounded a Palestinian student
+an Islamic student a Muslim
+and chanted at them
+about what happened October 7th and made
+them feel threatened, expel them as
+well. There's just some basic
+basic rules of the game they're not
+enforcing. It's absolutely infuriating.
+Uh but I just want to make sure I steal
+them in that other side and you did you
+know I think very eloquently say you
+also agree with the suffering in
+Palestine needs to end.
+I know we're out of time. Can I say one
+thing? I really want to say this. Say 10
+things Cheryl as much as you like. You
+have time. I really want to thank you
+all for this because two things happened
+in the last hour with you.
+One is that you were really passionate
+against this sexual assault and really
+clear.
+And as much as we need women to believe
+this, we need male and male leaders and
+so your voice is like I could feel the
+passion on this and I'm really grateful
+cuz that that gives me hope.
+Like I am it's such a dark moment. It's
+such a dark moment for democracy. It's
+such a dark moment for Jews. It's such a
+dark moment for women, but this really
+gave me hope.
+And the second is um your tears for
+Dave.
+Thanks.
+It's been 9 years. A lot of we've moved
+on. You have friends.
+Um I have a wonderful life that I'm so
+grateful for. Um but the world still
+lost
+a really really really special person
+and I
+I can see how much that means to I knew
+this, but There there are very few
+things as you get older that you realize
+in life that matters and
+Thank you. friends are
+that's it.
+It's just friends.
+You know at the end of the day Tirmidhi,
+what do you have?
+and your friends. That's all you have. I
+I
+I I I think about Dave frequently and
+um
+I just think at the end of the of your
+life
+what you have
+is but a collection of memories.
+And the memories we have with Dave, the
+laughter, the joy
+that Thank you, Chamath.
+Thank you, Chamath. He's just his wit,
+his insights, you know, we would be
+sitting at that poker table
+and it was like we're all like 15,
+16-year-olds and we got this big brother
+who's 20.
+And you know, we'd be bickering and
+laughing whatever. He'd come in and say,
+"Hey guys,
+how about this and this?" So, Chamath
+and I would be jawing at each other.
+He'd say, "Hey guys, let's calm it down
+a little bit.
+Thank you. Let's have a good time,
+whatever." Thank you guys so much. I
+have to go to my board meeting. This was
+this was like as deeply meaningful as it
+could have been. Seriously. We We didn't
+get to talk about anything business. I I
+I I'll be back I'll be back to the
+Come to the summit and
+Are you long or short in video? I We
+just need to
+It's a hard pivot to business. It's It's
+a hard pivot to business. Also, what's
+your view on crypto?
+Uh if you were to change any paragraph
+of the Lean In book, what would you
+change? We'll save all this for the
+summit. Completely big hug. Thank you,
+guys. And thank you for watching. Thank
+you. We love you, Chamath. Thank you so
+much.
+Wow, I need to take a deep breath here,
+Chamath Freeburg. This was um
+super emotional for me. Ah, man.
+I didn't know if I could do it, I'll be
+honest. I have so many emotions,
+Chamath, about Dave. I have
+so many feelings about this situation.
+When I watched the documentary
+I thought the most important thing is
+there are these You said it, Jason, in
+the fog of war, there are things that
+happen that are just wholly
+unacceptable.
+I remember
+when I was getting older and I was
+curious, why did my family
+not go back to Sri Lanka?
+And
+what do the Tamils, which is a small
+minority, Hindu minority in the majority
+Buddhist population?
+Why did they feel so out of sorts? And
+we were part of the Buddhist majority.
+And when you insert yourself into that
+struggle and understand where they're
+coming from,
+it's jarring because you have to really
+like re-underwrite, okay, what are we
+fighting for? What are they fighting
+for? And the most important thing that I
+got to is what is allowed?
+Because then you would see things.
+And the unfortunate part of Sri Lanka
+Sri Lanka's history was
+in the final parts of the war that ended
+it,
+there were some incredible atrocities
+that were committed.
+And, you know, the United Nations and
+international court system
+tried to find justice for the Tamil
+minority population in what happened in
+those final hours of that war. I I don't
+think that they did for for for the most
+part.
+But it's just to show you that these
+things leave deep wounds that, frankly,
+can be reopened Mhm. in a moment. So,
+it's very important that I think these
+things are, and I hate to say it so
+unemotionally, but documented.
+Absolutely.
+Absolutely. For those that have that
+don't even understand the Holocaust, if
+you go to the Holocaust Museum, if
+you're lucky enough to do it in Israel,
+I would encourage you to do it, but even
+in Washington,
+you know the totality of what happened.
+There's there's certain places that
+document these important moments in
+history, and if and if this is one of
+those moments to the Israeli people, I
+just encourage them, please make sure
+that you minimize the mis- and
+disinformation
+as complicated as that may be to do.
+It is incredibly important so that you
+can create
+And doing so does not dissolve empathy
+for the other sides Not at all. or for
+the other sides motivations or
+objectives. Having empathy for the
+circumstances that happened here is the
+equivalent of having empathy for the
+plight of the Palestinian people and
+what they're dealing with today
+following October 7th. And I think that
+we need to recognize that both things
+can be true. We can have empathy for
+both sides. Yeah. And by the way, humans
+have a way of making decisions, which I
+think is
+pretty predictable, which is once you
+have a point of view,
+there are things that you believe are
+facts,
+and then there's all this other stuff
+that you have degrees in which you
+believe that are essentially conjecture.
+The most important thing in really
+important debates is to move something
+from that gray zone into the box of
+facts,
+so to speak. And that is the only way
+that causes people to re-underwrite
+their principal views. It doesn't matter
+what topic we're talking about.
+So, the more that we're able to document
+and actually make these things
+unambiguous, I think it actually has a
+really important role to play in how
+these young people view what it is that
+they're part of.
+I'm totally pro protesting.
+I'm totally in support of, you know,
+standing up for the things that you
+believe in.
+I'm not in support of overlooking
+atrocities.
+I mean, it's it's well said, Chamath,
+and you know,
+the response I I can tell you to, you
+know, this this episode and the response
+I got for just tweeting, you know, hey,
+this is important documentary to watch,
+is, you know, the what aboutism aboutism
+and the other side and documenting
+what's happening in Gaza. And, you know,
+we we have this search for truth right
+now,
+which is very difficult because
+institutions
+have a lot of self-inflicted wounds. We
+live in an age of conspiracy theory,
+you know, and and
+there are reports of crisis actors, you
+know, in Gaza
+creating fake
+deaths and fake videos. So, you know,
+you have one side saying, "Oh,
+the the people of Palestine or Hamas are
+the numbers aren't correct of the number
+of people died. The the suffering's not
+correct. These images aren't correct."
+The fog of war is going to be thick for
+a while here, folks, and it's going to
+take us a while. And Chamath's exactly
+right, you got to document this, you got
+to get to some ground truth. You got to
+get to some common facts.
+So, we can all objectively look at those
+common facts. And you know, listen, um
+it's it's a shame David Sacks couldn't
+make it today, but I would have really
+he's really missed here because, you
+know, we have that same thing with the
+the the war in Ukraine. And we it's very
+hard for
+us in this current media landscape where
+we're quoting from new sources and
+anonymous Twitter accounts, fake videos.
+It's going to get worse with AI.
+It's going to be harder and harder to
+discern the truth. And this is where
+your own personal morality, ethics, and
+and I'm not sure who
+brought this up during our our talk cuz
+I'm emotionally spent. I got to be
+honest. Um it's a little hard for me to
+collect myself here, but
+man, you know, it you you have to have
+some basic moral principles here.
+Children,
+women, rape, sexual assault.
+We we all can agree on this. You said
+this in the week after October 7th,
+Friedberg. You had a very powerful
+moment on the show.
+That that you don't want to have to
+decide between between October 7th being
+horrific
+and children dying in Gaza being
+horrific. And you don't want to have to
+be painted with one side or the other.
+You want to believe as a moral person
+that all suffering
+needs to end. And we collectively as a
+species
+in 2024 on this planet can work together
+to to just agree that certain things
+should never happen and and and to try
+to resolve these horrible conflicts. I'm
+I'm I'm so spent right now. And I I it
+was just very difficult for me to watch
+that documentary. I don't know where we
+go from here, gentlemen. I I I'm fine
+ending the show here or taking a
+10-minute break and then maybe doing one
+or two news stories.
+Take a break, we'll come back. Let's
+take 5 10 minutes.
+All right, everybody. Welcome back to
+the program.
+Yep. Not easy to do a pivot here, but we
+collected ourselves.
+Took a deep breath and you've all been
+asking for a science corner and so
+there's a really important story that
+Freeberg has been educating us about in
+the group chat. There's a startup that
+just open-sourced an AI gene editor.
+Yes, you heard that right, open-source
+gene editor
+powered by AI. It's called Profluent
+Bio, am I correct? Profluent uh Yeah,
+Berkeley-based startup Profluent Bio.
+Great.
+Have we talked about CRISPR and gene
+editing before on the show or not? I
+think we have mentioned it. It would be
+good as a primer for you to just explain
+from first principles. What is CRISPR,
+why it's important, and then get into
+this. So, there's debate around who
+discovered CRISPR-Cas systems first and
+found their application. But but
+generally
+are you on? The Jennifer Doudna side or
+the
+MIT is it is it Profluent Bio?
+guy, which is why I'm excited about this
+topic today cuz I I don't give a I
+think things that are in nature are in
+nature. And I don't think you should be
+able to pat- I don't think you should be
+able to patent stuff that you discover
+in nature. So, Okay. So, let's step back
+for a second. Freeberg, explain what
+CRISPR is to somebody who's heard the
+term but doesn't actually know in your
+unique ability to explain science.
+Yeah, so
+CRISPR-Cas CRISPR-Cas CAS
+Cas proteins CAS proteins
+are
+proteins that can
+go in
+to a cell
+and they have what's called a guide RNA,
+little piece of RNA attached to them
+that allows that protein to find its way
+to a specific point in DNA in that cell,
+in the nucleus of that cell.
+And when that protein hits that specific
+location, it cuts it like scissors.
+And so the protein finds the part of the
+DNA it's looking to cut, attaches
+itself, cuts the the DNA, and a cut is
+made.
+And so this capability was discovered
+actually in bacteria, and it was an
+evolved system that bacteria developed
+to actually protect themselves from
+viruses.
+So the CRISPR-Cas complex emerged
+through evolution
+where bacteria started to figure out
+that they could cut up viral DNA. So
+they made these proteins, these proteins
+would attach to viral DNA and destroy
+the the viruses that came into the
+the um
+uh the bacteria cells.
+So scientists, arguably from Harvard,
+from Berkeley, and from other places
+around the world,
+in the early 2010s, started to do
+research and identified ways that we
+could leverage these proteins that we
+were discovering in nature
+to do targeted DNA editing
+in human cells and plant cells and other
+cells. So rather than them just being
+used as a defense mechanism by bacteria,
+that we could harness these proteins and
+make them useful to go in and do
+specific gene editing. Now, why would we
+want to do gene editing?
+Gene editing, if done
+precisely enough and efficiently enough,
+would allow us to go in and fix genetic
+diseases in humans, for example. It
+would allow us to take T cells
+and reprogram them
+to go and attack cancer cells back in
+the human body. It would allow us, in
+the case of agriculture, which I'm very
+close to and what I work on every day,
+to figure out ways to make specific
+changes to the genes of a plant to make
+that plant grow in higher yield or
+change itself to be disease resistant or
+drought resistant or other features that
+might be helpful to agriculture and to
+humanity. So gene editing became this
+amazing toolkit that emerged around
+2012-2013
+and just blew up on the market. And the
+main original foundational patents,
+which are now mostly held after a lot of
+litigation, by the Broad Institute,
+which is you know, there's this kind of
+joint patent arrangement with the Broad
+and MIT and Harvard,
+are being used in medical applications,
+are being used in agriculture
+applications, they're being used in all
+these different tools, but they're
+patented, there's royalties, there's
+fees, all this stuff. And in the years
+that followed, many other Cas proteins
+started to get discovered. All these
+different types of proteins were
+discovered. And the reason you want to
+use different proteins is you want to
+improve the efficiency, so how
+frequently or how good are these
+proteins at editing the cell,
+and
+eliminate off-target effects, meaning
+the protein isn't making cuts or making
+changes to other parts of the DNA that
+you don't want it to. So, there's been
+this search underway for the last decade
+for new Cas proteins and developing new
+Cas proteins, and dozens have been
+discovered. People are trying to patent
+them, people are trying to make them uh
+do special things, they can only change
+one letter.
+All these different tools are emerging.
+So, we went from having absolutely no
+ability to do gene editing just over a
+decade ago, to suddenly having all of
+these different tools that could do gene
+editing really efficiently, really
+cheaply, really really affordably,
+really scalably, and more precisely. So,
+this company Profluent, they actually
+used an AI model, what they call a
+protein language model, to create and
+train an entirely new library of Cas
+proteins that do not exist in nature
+today.
+So, they basically took 26 terabases,
+that's 26 trillion
+letters of assembled genomes and
+metagenomes, this is uh from other uh
+from various species, and start to
+simulate new Cas proteins that could be
+useful to replace the ones that are on
+the market today or improvements on
+what's in the market today.
+And they found one that they called open
+CRISPR 1, and they made it publicly
+available under an open source license.
+So, any startup, any research lab, any
+individual, any scientist can use this
+particular Cas protein to go in and make
+edits without having to deal with patent
+and IP and claims on who owns what that
+they found in nature. And this
+particular
+protein that they identified is 400
+mutations away from anything that they
+seen in nature. So, basically the AI
+model started to learn what sequence of
+DNA generated what structure of protein
+that was really good at being a gene
+editor.
+And they started to discover and iterate
+on building new ones and the AI started
+to predict, "Hey, this would be a good
+gene editor. This would be a good gene
+editor." And they came up with dozens of
+new gene editing molecules that don't
+exist in nature today. They identified
+one that they then sequenced, they
+created it, they put it in a lab, they
+tested it, and it turned out to be much
+better than Cas9. So, they
+Which is the main one you talked about.
+So, they used an AI model to
+find a new guide RNA.
+To find a new Cas protein. So, the guide
+RNA is just RNA that's like a that's
+like the key.
+Think about a CRISPR Cas system has two
+components. One is the Cas
+protein. That's the giant protein that
+goes in and cuts DNA. And it attached to
+it is what's called a guide RNA. I see.
+That guide RNA is the specific letters.
+And those specific letters are like a
+key in a lock. They go attached to a
+particular part of the DNA and then that
+giant protein cuts in that exact spot.
+Mhm.
+And so, what they what everyone's been
+working on is new proteins. And they've
+been trying to find new Cas proteins
+that aren't going to go do off-target
+cutting, that aren't going to make
+mistakes, that are going to be perfect
+at making the exact cut you want to
+make. So, everyone's always trying to
+improve the efficiency and reduce the
+off-target effects of these systems. And
+so, what they did is they tried to
+create a new protein that doesn't exist
+by learning from all of these other CAS
+proteins that exist in nature today and
+identifying the three-dimensional
+structure of them and allow the model to
+predict a CAS protein that might
+actually be better than anything that's
+found in nature today.
+around every single existing patent.
+Well, that's going to be tested in the
+courts later, I'm sure, but they
+open-sourced it. So, they they're not
+claiming any IP on it. They're not
+making any claims on it with the patent
+office and they're saying, "Look, it's
+free and available." I'm on the same
+page as you. This is This This was
+occurring billions of years ago.
+And it just took us billions of years to
+actually observe it occurring naturally
+in nature. It's absolutely ridiculous
+that a patent would be granted on that.
+Now, the implementation of that in a
+commercial use case, that's fine. Be
+able to patent this is happening, I
+guess, in the
+psychedelic space with psilocybin, MDMA,
+and some of those. That's such a leap.
+No, no, I'm just saying there are uh
+drug companies now that are real
+realizing the efficacy at Johns Hopkins,
+Stanford, where they're doing these and
+then they're trying to figure out how do
+we take something that's occurring
+naturally, psilocybin in mushrooms,
+referred to colloquially as magic
+mushrooms, and then how do how do we get
+our How do we bear hug this so that we
+can patent it? How can we own the
+implementation of it, as as you're
+saying?
+Yeah. And so, they're they're It's
+really
+It's fascinating to me taking nature and
+trying to patent nature. Right. There's
+a simple truth to all this, which is
+every single life sciences lab on Earth
+is using this technology today. It has
+absolutely revolutionized life sciences.
+It has changed everything. It has reset
+the trajectory of human health, of
+agriculture, and of industrial
+biotechnology. Those are the three major
+markets where gene editing is useful. It
+is changing everything. And so, it is
+already a ubiquitous tool. We basically
+created software engineering for DNA,
+for life. Let me ask you.
+And so, this system that these guys just
+published on, I think, is a really
+wonderful manifestation of how AI is
+allowing us to open source and create
+improved tools
+and it's uh
+it's really important for humanity. And
+so I think it's just great to to see
+happen. Yeah. Okay, two questions for my
+baby brother with the with the science
+brain. Number one, the LLMs here
+how
+maybe you can speak to the efficacy of
+LLMs when applied to this vertical
+because it's a constrained data set I
+believe. So it feels to me analogous to
+code. Whereas like human language,
+images, videos, you know, building an
+LLM around them, you have like pretty
+large corpus.
+It seems to me code is constrained,
+video games constrained, and of course
+maybe maybe gene editing is constrained.
+I'll let you answer that and and the LLM
+component here. And then maybe you could
+speak to what this will do to the
+startup community being able to leverage
+this open source tool. How have startups
+started to pop up around this yet? Is
+there a dot org dot com kind of
+equivalent here where you have
+wordpress.org
+open source version of WordPress,
+wordpress.com the hosted paid version,
+and are we going to see a bunch of dot
+com versions of this in different
+startups? Take it whichever way you
+like. The two questions. I'm not super
+familiar. I've met the Profluent guys a
+couple times. I'm not super familiar
+with what their business model is going
+to be. Mhm.
+But
+I hate
+that startups are worried or feel
+encumbered
+by
+the patent landscape Mhm. associated
+with CRISPR-Cas systems and that they
+can't build novel products and move
+humanity forward. Okay, so it's a
+blocker for humanity.
+I'm hopeful that we do see more of these
+open source like tools become available
+and ubiquitous.
+It's almost the equivalent of having
+Linux where everyone can now
+you know, as an operating system or HTML
+being, you know, standard code. I don't
+know if you remember
+to use um
+before HTML 5, a lot of people were
+using Macromedia Flash. Of course, yeah,
+that was a huge blocker, yeah. It was a
+huge blocker. So, you had to pay the
+license fee to to create Flash content
+and then you had to I don't know if they
+sold consumer plugins. Well, yeah, and
+then they could get rug pulled, right?
+They could change their mind on you.
+and they were trying to make money on
+both sides. And so, in order to show
+did ActiveX to try to be a blocker and
+own the open source stuff.
+order to put Yeah, in order to put
+multimedia on the internet, you have
+used to have to pay license fees.
+And then HTML 5 basically created
+multimedia capabilities native to the
+HTML, which is open source, and so
+everyone could do it. And I think that
+it's really important that we see that
+happening with gene editing. I think all
+the applications of gene editing should
+be patentable and protectable, but the
+core tools are so powerful and important
+that I think it's very difficult and
+hard to see
+how we are accelerating humanity's
+progress by keeping these things at bay.
+And I'm it's really great to see open
+source tools like this hit the market.
+Okay. And I think it's really important
+to And I I think it's really amazing to
+see
+AI create them. Yeah.
+Yeah, tell me about the LLM side here,
+the the large language model being built
+around this data. How how what's the
+efficacy of that going to be like? And
+it is my analogy of a constrained data
+set meaning it it'll be able to perform
+at a higher level like we see it with
+code and then copilots for code.
+Well, they created their
+their own
+LLM. They call it a a protein language
+model. So, they took all of this genome
+data that is generally very publicly
+available. There's a lot of this stuff
+published in open genome databases. You
+can download it, ingest it, and use it
+for whatever purposes you want as a life
+sciences researcher. So, they took 26
+trillion base pairs of data and
+basically
+used that to train their model.
+And then using that trained model, they
+then started to run inference on it to
+say come up with CAS systems that are
+are novel
+that could theoretically have efficacy
+greater than what we see in nature with
+the natural CAS systems. And then the
+model started to output all of these
+novel proteins, then they started to
+test them and they found that this one
+worked really really well after testing
+in the lab. So actually, here's a great
+image. So here you can see
+basically in training the model, so it's
+it's a little bit technically
+complicated what they did in the steps
+to generate this system, but ultimately
+the system yielded something that they
+could then create, put in a lab
+environment, and in the lab environment
+test how well it worked. And what they
+showed was that it actually worked
+better than CAS 9, which is the primary
+gene editing protein used today. So, you
+know, pretty powerful set of steps and
+all unlocked by again, freely available
+data and building their own model and
+now
+ultimately open sourcing
+the best output of it.
+So cool.
+Okay. Amazing job. If you missed any of
+those graphics, you're listening to the
+podcast, go to YouTube and search for
+All-In podcast if you want to see those
+graphics.
+All right, gentlemen, this has been
+another amazing episode of the All-In
+podcast for your sultan of science,
+David Friedberg, the chairman dictator,
+uh and David Sacks who couldn't make it
+today.
+I am the world's greatest moderator.
+Rest in power,
+Dave Goldberg, Goldie. We love you. We
+miss you. And we'll see you all next
+time on the All-In podcast. Love you
+boys. We miss you. Bye-bye.
+Let your winners ride.
+Rain man, David Sacks.
+And as I said, we open sourced it to the
+fans and they've just gone crazy with
+it. Love you, bestie. I'm queen of
+quinoa.
+Besties are gold.
+That is my dog taking a dump in your
+driveway, Sacks.
+That is my dog taking a in your
+driveway.
+Oh, man.
+We should all just get a room and just
+have a one big huge orgy cuz they're all
+just useless. It's like this like sexual
+tension that they just need to release
+somehow.
+What your big feet? What your big feet?
+Big feet. What?
+We need to get merch. I'm going all in.
+I'm going all in.

@@ -1,0 +1,3153 @@
+# SoTOF-plFwc
+# https://www.youtube.com/watch?v=SoTOF-plFwc
+
+Sacks, have some tequila. I tasted 10
+samples the other day.
+One was heads and shoulders above the
+rest, which was a good sign. Oh. So now
+we're taking that and making it the new
+baseline and I'm going to try 10 more
+samples and we're going to go from
+there. I think we're very close to
+having something excellent. Great.
+I did a a side-by-side taste test of the
+sample I liked the best compared to
+Clase Azul Ultra.
+And it was already better than Clase
+Azul Ultra, which retails for like 3,000
+a bottle. Really? Yeah.
+Holy So it's going to be better.
+V1's better than their final product is
+what you're saying.
+Yes. And that was not just your taste
+test, but like you and several people.
+It's me and two other guys who I trust,
+so we we did it together.
+Now, when you say trust, you mean
+underlings or do you mean actually like
+No, he means alcoholics. Yeah.
+Where in your pay hierarchy are they?
+He recruited them at Alcoholics
+Anonymous in in West Hollywood.
+Are they level two employees or level
+four employees?
+No, one one works for me and one's a
+consultant. I say both work for you.
+Should they both be on the payroll?
+You let your winners ride.
+Rain Man David Sacks.
+And I said We open-sourced it to the
+fans and they've just gone crazy with
+it. Love you, Sacksy. Queen of Quinoa.
+Okay, are we over or underestimating the
+impact of the AI boom? Nvidia's been on
+an all-time heater. If you don't know,
+its market cap is now 1.8 trillion,
+Friedberg.
+This week it surpassed Google and Amazon
+as the fourth most valuable company in
+the world. There it is, folks.
+Right behind
+Saudi Aramco. 16 months ago, stock was
+trading about $112 a share. Since then,
+share price has gone up 6.5x on a big
+number. Shares went higher this week
+after it was reported that Nvidia plans
+to build custom AI chips with Amazon,
+Meta, Google, and Open AI.
+In other news, Financial Times reported
+Open AI hit a $2 billion run rate for
+their reoccurring revenue. It's about
+165 million a month and they think they
+can double that number in 2025.
+Tons of competition coming out. If you
+didn't see, Google rebranded their
+generative AI suite to Gemini and
+they're charging 20 bucks a month for
+it.
+And then there was this bizarre Wall
+Street Journal headline that Sam was
+going to raise $7 trillion. That makes
+no sense. Maybe that was the TAM.
+We'll get into that. Friedberg, your
+thoughts on this ascension. Are we
+underestimating or over-hyping AI? I
+mean, it seems like the compute
+build-out is underway.
+So this is going to continue for some
+time. I think the real question that
+keeps getting asked is, you know, when
+do you really see the tides recede and
+what's what's there? The compute
+build-out is underway, but are we seeing
+application and productivity gains
+associated
+with the capability of that compute?
+Some would say yes, some would say no,
+but you've got to build out the
+infrastructure if you're going to assume
+that there's going to be these
+productivity gains in the application
+layer.
+And
+everyone's assuming they'll be there, so
+we need to meet the demand, which is
+almost like building out an entirely new
+internet. And so the core of AI
+is this matrix multiplication problem.
+And you need these chips that do that
+really efficiently. They're not
+traditional CPUs, which are general
+purpose chips, but they're chips that
+are very special purpose for a
+particular set of applications
+that render the output of whatever model
+is being run. It's sort of like the
+internet. Like you could pretty much
+create a bogey of any number on how big
+this can get.
+At the same time, you're seeing some of
+the other players
+with different architectures and
+potentially that are going to be
+beneficiaries of this build-out because
+they're participants in other parts of
+the data center
+or alternative solutions like ARM. And I
+don't know if you saw this, but in just
+the last couple of weeks or last week or
+two, ARM's valuation
+doubled. It's come down a little bit
+since that big doubling. Today ARM is
+sitting at 140 billion valuation.
+Last week it got as high as 156. And
+remember, it was only last August. So if
+you guys remember, ARM was bought by
+SoftBank and the Vision Fund.
+And then I think 25% of ARM was held by
+the Vision Fund and 75% was owned by
+SoftBank. Last August, SoftBank bought
+from the Vision Fund the 25% that the
+Vision Fund owned at a valuation of 64
+billion. So now SoftBank owns 90% of
+ARM. The last 10% trades publicly. So at
+a $140 billion valuation, SoftBank's
+position in ARM is 125 billion. And I
+think it really begs the question, did
+Masa have a masterful move here yet
+again?
+Because everyone said for years
+with all the bets this guy was making in
+the Vision Fund and some of the mis-
+guided bets he was making with SoftBank
+and the leverage he was applying on
+himself and SoftBank to deploy all this
+capital during the ZIRP era,
+everyone was saying, you know, this guy
+had a one-hit, it was Alibaba and that
+was it. And clearly he doesn't know what
+he's doing. But now all of the sudden,
+his bet on AI was fairly prescient
+and it's paying off
+pretty powerfully. He bought the whole
+business for 32 billion
+and now he has a a stake that's worth
+125 billion
+seven years later. Yeah, I mean, chip in
+a chair, right? I mean
+Well, it's really begging the question,
+we need one, the power law, right? When
+you're making a long-term investment,
+you can very easily look like a
+over the short term. And to your point,
+the power law, all it takes is one of
+them to work out and it can wipe out the
+losses on the rest of the portfolio. And
+we may be seeing Masa with his whole AI
+vision story that he's been telling for
+seven years, we may see Masa clawing his
+way out of the hole. You only look like
+a to losers.
+Meaning
+when people were throwing shade at Masa,
+it wasn't anybody that's any good. I
+didn't see headlines that said John
+Malone thinks Masa is a fraud. Warren
+Buffett thinks Masa is a fraud. Nobody
+was saying that. Because those guys know
+what the game is and the game is exactly
+what you said, Chamath. You must always
+survive.
+And you need to keep your wits about you
+and over time, if you're prepared and do
+enough good work, you'll get waves of
+good luck that amplify your hard work.
+And Masa is an example of an incredibly
+talented person that has found a way to
+survive more than anything else. And so
+waves of success will hit him.
+The people that complain are the ones
+that are sort of a little bit stuck on
+the sidelines and are more frustrated
+with their own impotence and inability
+to do anything. Now, on ARM
+specifically, the thing that I would
+keep in mind is that those guys floated
+I think about 15 million shares. So
+there's about 100 45, 150 million shares
+outstanding. 90% owned by them. So
+there's about 10 or 15 million shares
+outstanding. And there was about 12 and
+1/2 million shares short going into the
+earnings report.
+And so the thing to remember is that
+there was almost an entire turn of the
+float that was short.
+So I don't know how much of this
+reaction
+was just an enormous short squeeze
+of people that were largely long other
+chip companies and so they thought they
+could short ARM essentially as a spread
+trade to minimize volatility. But this
+is an example of where if you don't do
+this analysis properly,
+GameStop was another where you misjudge
+or you
+sub-analytically look at the actual
+share count and what's actually free
+floating, you can get caught on the
+wrong side and these things can be very
+violent. And to explain the float to
+folks, you can make a certain number of
+shares available to the public to trade.
+When you have a small number of those,
+correct, Chamath, available to the
+public, weird things can happen because
+there's not enough available to short.
+That's exactly right. And so that could
+have been the situation here with this
+run-up.
+But I think I think the overall point of
+placing bets and being a capital
+allocator
+is the important one to discuss here.
+Sacks, what are your thoughts on
+all the crazy bets
+that Masa made. We watched a lot of our
+companies or companies adjacent to our
+companies get massively over-funded.
+Some of them literally got drowned in
+capital. But then you only need to hit
+one and and maybe win it all back. What
+are your thoughts on this high
+alpha, you know, betting style of his?
+Look, I mean, he's a gambler and he is
+playing a power law, so he only needs
+one really big return to basically make
+up for all the mistakes and it seems
+like he's hit that.
+Once again. He did it with Alibaba, too,
+right?
+Yeah, I mean, he's a major gambler. Most
+people would be a little bit more
+risk-averse.
+I don't think it was a great strategy to
+be pumping $500 million checks into what
+were effectively seed companies like
+they were doing with the Vision Fund.
+However,
+yeah, obviously he made enough good bets
+that they're going to pay off that fund.
+Well, it's a good point, Sacks. I mean,
+none of the big I don't I I I probably
+need to be careful
+cuz I'm not super familiar with the
+portfolio, but it doesn't seem like any
+of the big winners
+were those seed bets. Like he doesn't
+have any returns coming out of that kind
+of investment strategy. DoorDash.
+DoorDash.
+DoorDash. Yeah. DoorDash was not Like
+what point did they invest? Billion or
+two billion dollar round was it?
+Yeah, pretty important moment. We've
+heard at dinner, Jason and I at dinner,
+we've heard the
+the waterfall from the SoftBank side and
+it sounds like it was an enormous
+number.
+Yeah. That was definitely their their
+biggest win.
+business. It was a scaling business.
+Seems a little different than some of
+these companies that were fairly early
+on that got monster valuations and large
+chunks of capital and then struggled to
+find ways to deploy that capital.
+Which led to unhealthy behavior. I think
+the thing you have to give him a lot of
+credit for is
+it's so easy to give up
+when the peanut gallery is chirping.
+And so
+the thing that you have to give him a
+lot of credit for is
+he has the ability to tune those people
+out. Now, he probably isn't even living
+in a world where any of those people
+that chirping even gets to him. And I
+think that that's a very important
+thing.
+But kudos to him. I mean
+Yeah.
+to be able to tag something for 100
+billion here, 70 billion there.
+I mean, keep swinging. And by the way,
+at the end of it all
+what is it going to change for him?
+Absolutely nothing except he'll have
+some incredible stories to tell about
+the ball that he took and the roller
+coaster ride he was on. And I think
+that's going to be the most valuable
+thing. He's going to be able to tell his
+grandkids these stories and his their
+eyes will just be like, what?
+And his friends, you know, I mean, I
+would love to have a dinner with him. I
+don't know him.
+it. We should have him on the pod. Come
+on the pod, Masayoshi. Let's talk about
+it. I've only met him once by the I have
+a great story to tell about Masayoshi
+when I was at Facebook. I met him once.
+But anyways Yeah, tell it. I mean, can
+you tell it? All I'm saying is I would
+love to have dinner with him cuz I just
+want to hear these stories of ball. Like
+up and down and up and down and
+in amazing
+lunches with him. We had lunch one day.
+We had such a good time. He said, "Can
+we have lunch again tomorrow? How long
+are you in Tokyo?" I said, "Yeah." And I
+came back the next day and I had lunch
+with him twice.
+And it was great. Like talking two or
+three hour lunches
+where we're just talking about every web
+2.0 company. This is in you know, the
+2009 Uber kind of Robinhood period. And
+he was just fascinated by what was going
+on and and all the disruption happening.
+DoorDash series D, 1.4 billion dollar
+post 2018 he did. Well, the question I
+was asking is like DoorDash
+was a lot like an arm. There's a point
+of view that the business is proven that
+there's a market that it can grow into,
+that there's a management team that
+knows how to deploy capital.
+Versus a lot of these early stage bets
+where when they got too much money
+they ambled about Well, they didn't
+amble about. They
+kind of incinerated it. Incinerated
+because what do I do with this money? I
+don't yet have a machine or an engine
+that can grow with this money.
+And until the engine can handle the
+capital
+Like the pizza thing. Zoom pizza you're
+talking about. Yeah. I mean, if you give
+dozens of them in that portfolio, right?
+Yes. If you don't have a business
+that can handle the gas you're putting
+in the tank
+the engine's going to blow up.
+The engine has to grow. It has to build.
+The volume has to build so that it can
+actually handle the fuel.
+And I think that's been part of the
+challenge. And I will just say, I've
+said this in the past, but there was an
+era in Silicon Valley that started
+around 20
+10, 2009. Kind of right after right as
+right as web 2.0 was starting to venture
+into more traditional markets, meaning
+tech companies were becoming other
+companies. Kind of the mobile local
+era was was kicking off. And there was a
+strategic concept that got popular in
+Silicon Valley on take the market. Which
+is when you feel like you could be the
+winner
+give the person all the chips and say,
+"Now, go over bed and take the whole
+market because these are going to be
+winner take all or these could be winner
+take most markets. So, get first mover
+advantage. Here's more capital than you
+need." And I remember being pitched this
+when I was raising my series B that I
+should raise more than I was trying to
+raise because I should use the extra
+capital to take the market. And then
+that mantra just became the de facto
+standard, which is, "Oh, you have
+something that has something. It has
+some edge. It has some advantage. It
+started to move in the market. Here's a
+ton of capital you don't really need.
+Now, go take the market." And the
+reality is most of those businesses had
+absolutely no way of using that capital
+to quote take any market cuz they didn't
+even know what their market was yet.
+Yeah, they when you're in the product
+market phase product market fit phase
+and you don't have the engine as you
+called it
+how do you make the engine go faster?
+You're literally trying to take a bunch
+of car parts and then
+run a Formula 1 race. The car's not even
+track worthy yet. And Katerra, you know,
+not to not to pick on any companies, but
+I remember Katerra
+which was doing construction and they
+just thought they're going to take over
+the whole construction
+you know, industry with this company.
+Raised like 900 million dollars and I
+believe it's like a zero the whole way.
+You cannot
+you can't put the money to use. Capital
+as a weapon maybe works if you're Uber,
+Lyft and DoorDash and you have customers
+and you can reduce the price, but Well,
+you know what's interesting is when you
+now look at all a bunch of these AI
+companies every day
+what you see is every round is a minimum
+of 100 million dollars.
+But the the dirty little secret is not
+that these companies have found product
+market fit or are scaling revenue
+massively. I'm not talking about OpenAI.
+I'm talking about these other long tail
+businesses.
+The 100 million dollars is largely going
+to compute.
+But as we know and I think
+we'll talk about this next week when all
+these announcements are done, but
+you're about to see a 1/10 thing of the
+compute cost.
+And so what's interesting for those
+companies is they're going to be left
+with a lot more money, but back to
+Freeburg's point they may be ambling
+about with too much money at that point.
+So, today you raise 100 million dollars
+because you need to spend 70 or 80 on
+compute. Tomorrow when you only need to
+spend seven or eight for the same amount
+of throughput
+on one hand you could say, "Well, this
+is great. I have so much more money I
+can spend."
+But again, we've seen example after
+example where if you raise too much
+money when you don't need it, you will
+just run yourself into a brick wall.
+You'll over hire. You'll miss hire.
+You'll misallocate. And it just goes
+back to the same thing that we've said
+before, which is there's just not enough
+people that actually know how to run
+companies. Yeah, and it just becomes a
+huge distraction. Did you see Sacks
+today? Sora? Did you see Sora? Control
+by OpenAI?
+this is breaking news right now. Yeah,
+this is unbelievable. If you haven't
+seen it, Sora is the text video model
+from OpenAI. They've been talking about
+this.
+I guess this would compete with
+Does Stable Diffusion do video as well?
+Anyway, you give a prompt. I'll just
+read this one out loud. Beautiful snowy
+Tokyo city is bustling. The camera moves
+through the bustling city street
+following several people enjoying the
+beautiful snowy weather and shopping at
+nearby sta- stalls.
+Gorgeous sakura petals are flying
+through the wind along with snowflakes.
+And this
+if you weren't studying it would look
+like a major feature film.
+Or TV show. Yes, Sacks?
+Yeah, I mean, it's unbelievable. I mean,
+it looks to me like 4K video. I mean,
+I'm not sure it actually is 4K, but it
+looks pretty darn close.
+Yeah, the rendering resolution can be
+whatever you want it to be.
+Right. The fact that you can describe
+the
+the way that you want the camera to
+move.
+So, I'm going to speculate on this. You
+guys know I talked about this quite a
+while ago on how
+I think we're going to be at prompt to
+video, meaning people are going to have
+personalized video games and
+personalized movie experiences and music
+eventually
+where rather than everyone watch the
+same product made centrally by a
+producer, we'll all make our own product
+locally. I spent some time digging into
+this over the last year.
+And the big challenge was that the
+traditional approach for rendering video
+is you create three-dimensional objects
+and then you have a rendering engine
+that renders those objects and then you
+have a system that defines where the
+camera goes. And that's how you get the
+visual that you use to generate a 2D
+movie like this.
+And the best tool out there is Unreal
+Engine 5, which is made by Epic Games. I
+don't know if you guys have ever seen
+the demos of it.
+I've seen it. Is that what Star Wars
+uses with their like virtual sets now
+when they did the Mandalorian? I think
+they're using the Unreal Engine or
+Unity.
+They probably are. And then there's
+other tools. If you're in movie
+production, you'll use different stuff.
+But Unreal Engine is just so incredible.
+But it requires the placement and the
+rendering of 3D objects. So, where do
+those objects go? And then the physics
+of the light moving off those 3D objects
+to generate a 2D
+video is pretty straightforward. That's
+been done for 20, 30 years.
+And so the the density that the rate of
+improvement, the color contrast, etc.
+has all improved, made it look
+incredible. Now, it's super photo
+realistic. You create photo realistic
+video. But it still requires this
+concept of where are the 3D objects in
+3D space.
+This doesn't do that. This was a trained
+model. So, we don't know what's going on
+in the model. So, how would you train a
+model to do this without having a 3D
+space? Because clearly there's thousands
+of objects in that rendering. If you
+look at that video, thousands of little
+objects. The compute necessary to define
+each of those objects, place them in 3D
+space is practically impossible
+today.
+So, this is being done through some
+model that starts to render all of these
+things together. So, it is very likely,
+my guess is that OpenAI used a tool like
+Unreal Engine 5 and generated tons and
+tons of video content tagged it, labeled
+it Mhm. and were then able
+to use that to train this this model
+that can for whatever reason that we
+don't understand do this.
+output. But what's interesting is that
+this output underneath
+You're referring to synthetic training
+data. And yeah, exactly. Exactly. And
+and but what's amazing about this model
+is that underneath this this model on
+its own has rendered physics. So, all of
+the rules of physics, all of the rules
+of motion, all of the rules of
+perspective, all of the rules of how
+objects sit upon one another next to
+each other, how fluids move. If you look
+at some of the other demos on this tool,
+you can actually see fluid moving. It's
+rendering the movement of fluid or
+rendering the movement of hair. Those
+are like physics models that would
+typically be deterministically written.
+Meaning that a programmer, an engineer
+writes the physics and then the the
+Unreal Engine renders the physics. In
+this case, the model figured out the
+physics. And the model probably did it
+in such a reduced way that you can use a
+reduced amount of compute to generate
+something that would otherwise take a
+ton of compute time. I mean, look at
+this. It's truly amazing. Nick, find the
+one of golden retrievers playing in the
+snow. This is way better than this one.
+But what's amazing is that the And by
+the way, if you're listening to this, I
+really recommend going on Twitter and
+typing in OpenAI Sora, s o r a, and
+looking at some of these demo videos.
+It's bonkers. And I think it really
+speaks to what's so incredible right
+now, which is that software is writing
+itself. And it's replacing a lot of
+human determinism. The way that humans
+think about constructing software is
+being completely redone with these uh
+uh learned models. This model learned
+physics on its own. Yes. It renders this
+thing that looks like the only way we
+know how to do this today is to create
+3D object models in 3D space and use
+tons of compute to render the
+And just to to translate that from geek
+to you know, people listening,
+this is incredible because Pixar spent
+years, maybe a decade, trying to figure
+out hair. I remember talking to Ed
+Catmull, and he told me hair was just so
+hard to get right with wind and
+lighting.
+They've literally built the physics
+engine for years, like maybe even a
+decade, to make hair cross the uncanny
+valley. What you're saying here,
+Freeberg,
+is somehow this language model, this
+image model, just outputs it.
+And it doesn't actually have a physics
+model. It just outputs it, correct?
+Yeah, it it Well, we don't know, but the
+model
+I there may be some determinism built
+into it. So so I don't want to assume
+anything.
+But the general approach Determinism
+means you write the physics and you
+write the formula of the physics Yep. so
+that the software can execute the
+physics and render the thing.
+But in this case, it may very well be
+the case,
+like a lot of the other models that are
+being trained today, when you create a
+model, they're trained, that it's being
+trained and on its own, it resolves to
+figure out how to do the physics. Is
+there a limit on the length of these
+Sora videos that you can
+generate right now?
+minute right now.
+60 seconds today. Obviously, that'll
+come off at some point.
+way, if you can do 60 seconds, you can
+do 2 hours. Right. The problem that you
+have is, I mean, if we're talking about
+creating a movie, is making edits. So, I
+I obviously haven't used Sora yet cuz it
+just came out today, but I've used
+DALL-E, which is just their prompt to
+image service.
+And I was designing the label for or the
+bottle for the All-in Tequila for you
+guys. Yeah. And what I noticed is that
+it would spit out a bunch of ideas,
+and then I would take one, and then
+wanted to just make little changes,
+and I would just say, "Okay, keep this,
+but just change this one detail." It
+would give me a completely new image.
+So,
+the AI doesn't realize the layers
+inherent in what it's producing.
+Somehow, it takes this prompt and
+generates a response.
+And if you give it that same prompt 100
+times, it'll give you 100 different
+answers.
+And if you'd say, "Just modify this,
+this, or this," it can't do it. Can't
+reason. It can't take criticism.
+Well, it seems like on some level it's
+unaware of the output that it's created.
+Again, Yeah. a human creating this in
+Photoshop would have a lot of layers,
+and every object in that image would
+have its own layer, and you could have a
+layer for text, and just quickly modify
+the text. When I wanted to do something
+as simple as edit the text or change the
+font, again, it would give me a
+completely different image. And I just
+wonder about these videos. If you want
+to create a movie,
+I think you're probably going to be
+stuck with like the
+what they give you, and then
+maybe you could import that at some
+point into an Unreal Engine and then do
+work from there. The editing part is it
+doesn't exist yet. When you do text,
+it's easy cuz you just ex you cut and
+paste it into your Grammarly or your
+Notion or whatever you use, and you
+start editing. Here, there's no
+exporting, like you're saying, to Final
+Cut Pro or something.
+bet that when they turn this into an
+API, that when you're working in Unreal
+Engine,
+you know, if you're like a VR designer
+or something like that, or you're like a
+um a filmmaker,
+you could probably just get it started
+with a prompt, and that could be
+hugely time-saving if they can make that
+integration work.
+I think that's pretty interesting. I
+looked at this a lot over the last year.
+This was one of the biggest challenges
+is in order to have an interactive
+approach to video
+production or video game production, you
+have to be able to say, "Well, take that
+out, put that in."
+But like like you said, the model
+doesn't distinguish
+the objects. It doesn't distinguish each
+of those little flowers or each of those
+little cherry blossoms, or doesn't even
+distinguish if there's two people
+walking down the road. The model doesn't
+have this concept of objects when it
+renders.
+And so, um the traditional model,
+where you have objects in a 3D model
+that then get rendered into a video,
+allows you to do those sorts of things.
+So, what may end up happening is a
+fusion, and this is something we talked
+about with Stephen Wolfram and others,
+that there are these models that are
+called compute models that do
+deterministic compute tasks. Then there
+are these
+AI-trained models, where we don't really
+have a sense of how they work.
+But the fusion of the two will unlock a
+lot of opportunities, and that's very
+likely the next generation of models is
+not just purely um non-human intervened
+trained models, but the integration of
+those models with these deterministic
+models, with these compute models. And
+then you can start to do things like
+instead of saying, "Hey,
+render this whole scene," you're saying,
+"Render all the objects that would go in
+the scene." They get placed in an Unreal
+Engine.
+And then the Unreal Engine outputs the
+the video. Right.
+that integration work, I think, is the
+next big phase in AI model development,
+and that'll unlock like insane Yeah, cuz
+right now you can't use this to create
+dialogue, like actors in a movie scene
+talking to each other and acting,
+especially like close-ups
+of those actors with their facial
+expressions. I don't at least I don't
+see any examples like that.
+humans want to have a creative process,
+it doesn't work. That's right. Yeah,
+it'll get there, though. And if you put
+something like this out there to the
+public and said it's 20 bucks a month to
+do this, or 50 bucks a month,
+you're going to have a lot of consumers
+who want to buy this product. So, when I
+see this, I think people are going to
+pay for this, and then
+going back to Nvidia or ARM,
+okay, more infrastructure to your point,
+Freeberg, is like what infrastructure do
+we need for everybody to have Pixar on
+their laptop or on their, you know,
+phone. And people people are willing to
+pay for these
+know if you guys saw this, but there was
+another big breakthrough announced today
+with the um the new Gemini
+Pro 1.5. Can you just pull up Sundar's
+announcement on it? Yeah, Sundar now is
+found the password to his Twitter
+handle. He's he's tweeting. Yeah. The
+reason I want to talk about this, if you
+just scroll down. So, when you prompt an
+AI model,
+you put in a certain number of words
+into it, like an LLM model today, and it
+spits words back out. The more words you
+put into the model,
+the more compute-intensive or
+challenging it is to do the compute work
+needed to render the output.
+So, OpenAI, their GPT-4 Turbo model
+has 128,000
+tokens, which means about 128,000 words
+can be fed into the model to get an
+answer back out. So, you could put like
+a whole essay or 100 pages of text, and
+it will read a document for you. You
+could get a whole book, and and it could
+give you a summary in a couple seconds.
+What Google just announced with Gemini
+1.5 Pro is a 1 million token context
+window, up to 10 million token context
+window in total.
+I don't know what's going on here.
+Because the problem is the way these
+models are
+kind of traditionally built is that that
+creates a non-linear scaling in compute
+needs to be able to increase that that
+context window like that. So, there is
+some architectural work that's gone on
+to allow these models to scale up in a
+way that we did not think possible when
+these models first came out, which is
+crazy to think was only like 24 months
+ago that they started to get kind of
+looked at like this. 18 months ago,
+yeah. Yeah, and so
+there's two kind of things that are
+happening. One is that these models are
+getting chopped up in a way that you can
+run small models in a highly trained way
+locally, and you don't need a massive
+general-purpose model. And so, that's
+going to make compute needs very small
+for very specific tasks. And the other
+one is that there's other architecture
+that's happening in deploying the models
+that's allowing massive context windows
+like this. So, it totally changes how
+scalable they are with the same number
+of chips or the same amount of computer
+or the same amount of power. So, there
+are all these amazing Moore's law
+effects happening right now in AI
+technology development on the chip
+level, on the architectural level, on
+the how they're being built and how
+they're being deployed that completely
+changes the concept that I think most
+folks had when these first came out 2
+years ago and the potential. So, I think
+sky's still the limit. We don't really
+know how big this is going to get.
+But all of these efficiency gains mean
+that we can do so much more with so much
+less.
+And by the way, when you can do more
+with less, it doesn't mean you need less
+chips. It means you need a lot more
+chips. Because the fact that you can do
+a lot more with much fewer chips means
+everyone's going to want to do it now.
+More people can afford to do it. So, it
+unlocks the opportunity for for compute.
+And so, it really starts to rationalize
+the Nvidia
+thesis that it could be worth $10
+trillion potentially. And for people in
+the audience to understand what this
+context window means,
+if I was too technical.
+No, no, no, no. I'm just I always like
+to just give an example or two after you
+explain it. The context window,
+for example, you could upload the
+transcript of this podcast, right? And
+there were only certain services, like
+Claude, maybe, where you could put a PDF
+attachment, boom, you put it in there
+and say, "Hey, summarize this using your
+language model and using this content."
+Now, you could be able to say, "Hey,
+take me every Mr. Beast video. Take me
+you know, take the top 10,000 videos on
+YouTube. Take the transcripts, summarize
+them for me, give some analysis on it."
+And that was only available to
+developers prior to these large context
+windows being open.
+And that's going to just
+open up a massive amount of application,
+right, Chamath? The results actually not
+that much better. There's these
+third-party service benchmarks. Lambda
+is probably the most often referred to,
+but what you see if you just look at for
+example, all the GPTs, even as they
+increase the number of parameters in a
+model, the quality of that model doesn't
+necessarily increase with the rate of
+parameter increase. So,
+you have this thing of a little bit of
+diminishing return, which is more a
+problem of what we said before, which is
+eventually when you're scouring the open
+internet, doesn't matter how fast or how
+how big you scour the open internet. The
+open internet is a bounded space, and so
+you get the same answer. So,
+all of these things are they're
+interesting marketing wear,
+but I would just encourage us all to
+keep in mind that
+the shift is not necessarily
+these kinds of things.
+It's kind of like saying, you know, in a
+chip like, "Oh, wow, we built this chip
+on 3 nanometer." Okay, what does it
+mean? Well, no, I think the piece,
+respectfully, you might be missing here
+is like your proprietary data
+might not be in that language model. So,
+by having this context window and you
+can add something that you have on your
+hard drive.
+how it works. So, my point is the
+context window is not correlated to the
+quality of the model outputs. Correct,
+but
+consumers and business users haven't
+been able to put their data into the
+models cuz they're not conditioned.
+window. That existed when the context
+window was smaller. That that's what you
+think you do things like rag with.
+Right, but most people don't have access
+to that. This is like consumers can now
+just take something off their hard drive
+I have something to say.
+Rag is different than what this is.
+Okay. Like this is
+this, what what you guys just spent all
+this time talking about, is equivalent
+to saying I built this chip with on a 7
+nanometer process or a 3 nanometer
+process. And what I'm saying is
+it is technically more burdensome, as
+Friedberg said. It's technically much
+more sophisticated and complicated,
+but the
+the translation to quality
+in the consumer
+is not what that means.
+So, a 3 nanometer chip is not two times
+better than a 7 nanometer chip for the
+consumer. Similarly,
+a context window that's five times
+bigger than the one before it doesn't
+make a model five times better to the
+consumer. These are orthogonal ideas.
+It's not to say that it isn't an
+important thing,
+but I I I would say that it's a reminder
+for me that we're in the early phases
+where
+there's a lot of hay that people can
+make,
+but it's important to look at these
+third-party benchmarks that try to sort
+through and sift through
+what matters and what doesn't matter.
+And one of the interesting things that
+third-party benchmark services have
+figured out
+is that irrespective of the exponential
+growth of these things like parameter
+size,
+quality is only growing linearly and now
+sub-linearly.
+So, just an interesting point.
+I understand your point now.
+My point is
+man, when we when you are a consumer of
+this and I've been talking to people
+trying to get their data into, you know,
+the context window to be able to ask a
+question. There was like, "How do I put
+more in there? How do I put more in
+there?" And then these language models,
+because of the copyright issues, they're
+not able to upload Blade Runner and then
+say, "Hey, make me something." But I was
+able to and just to give a very real
+example, I did um a podcast around the
+Ray Kroc movie, The Founder, that we
+were referencing earlier.
+I uploaded the screenplay. I found a PDF
+of the book and I found two other like
+essays about Ray Kroc, like HBS studies.
+And I said, "Give me like a timeline of
+it." And I used something called Google
+Notebook, which has a big context window
+and you can upload all this stuff.
+And that's where I'm seeing consumers
+and what these things are capable of
+vis-à-vis the context window,
+it it just unleashes in people's minds
+so many applications that you can do.
+There are two examples today that caught
+my eye
+that I think are worth bringing up. The
+first one is from Meta. Meta published
+this paper today, which is like
+pretty crazy. And essentially what they
+said is that for the realm of the
+software worker, the software engineer,
+what they basically built is this LLM
+tool that runs over Llama called
+TestGen, and it essentially does
+automated unit testing
+to such a high degree of accuracy. So,
+you know, in the software development,
+if you want to spit out a product, you
+have to go through this thing where you
+have to functionally run unit tests and
+make sure the thing works
+as advertised. And this paper
+essentially now allows you to traverse a
+code base, understand it, generate these
+unit tests with high accuracy. So, where
+is this valuable? Think of remember the
+software bugs in like the Boeing 737 Max
+issue, Jay Cal, where it turned out that
+it was just bad software.
+Tools like this now will able will be
+able to run unit tests where you will
+not be able to get out get that plane
+out the door unless all of these
+functional unit tests
+not only have been written, but run and
+have been passed successfully. And it'll
+all be done by bots, which means that
+you can't game that system.
+So, that's that's something today that
+Meta released.
+thing developers get to is writing the
+unit tests, right? It's always like
+Which is why there's all kinds of bugs
+and security holes in code. Now,
+I thought that that was a pretty large
+breakthrough, and I think we're going to
+go through a bunch of fine-tunes on this
+that make it interesting. And then I saw
+this other thing which caught my eye
+even more,
+which is this thing that Nat Friedman
+tweeted out, which is this thing called
+magic.dev. And what essentially it is is
+like a co-worker. And what they are
+claiming, and I don't know if it's true,
+is that now you can basically
+have this thing understand your style of
+code
+and actually be able to write code that
+is just as good as the way you write
+code. So, now it's not a co-pilot, but
+effectively a co-worker.
+And this is the first real example of
+what I've seen of a claim that basically
+says, "Hey, you know, we can now
+be an add-on to your workforce."
+And this to me is just so gargantuan
+because like if you look at
+the amount of OPEX inside of any company
+that sits inside of R&amp;D,
+if you look at the amount of stock-based
+compensation,
+right? If you replace humans with bots,
+which is what this is,
+you're going to crush those things. SBC
+at the limit goes to zero because you
+don't have to give stock to a bot,
+right? You have to give stock to people.
+And OPEX it gets shrunk because now you
+just pay a license to magic.dev or I
+don't know how they're going to make
+money on this, but
+really, really, really fascinating
+stuff. It is a scary
+But there was another open-source
+project, uh I think it's called Maggie,
+MGI E. I don't know if you saw that,
+Friedberg, but Apple has been working on
+an open-source image project. And so
+you're kind of going to see, I think, in
+iOS 18 or the next iPhone 16,
+they're going to have an image model on
+on that phone. Where is Where is Apple
+in all of this? It's unbelievable. No,
+they they're Where are they? They are
+building an image model and you're going
+to be able to talk to your phone and
+say,
+anything. I think you're going to see a
+chip
+on the next set of mobile devices by
+Apple that will run models locally. Yep.
+And so, this goes back to the point
+about how the hell is the government
+going to regulate AI models, which is
+the stupidest thing I've ever heard.
+Um well, not the stupidest. It's
+probably, you know, probably top 20. But
+the fact that they're going to like be
+able to be fully vertically designed,
+that they can have the hardware
+and the software and integrate all the
+way through to the application layer,
+they're going to have I would imagine
+incredible intuitive AI features built
+into all of their products that can run
+locally rather than all the other stuff
+that's going on where you've got to make
+a request on the internet and get the
+results back over the internet.
+It'll be pretty powerful.
+But obviously no data, right? We don't
+know what they're doing.
+We're just speculating here. Well, no, I
+mean, you have breadcrumbs. And the
+breadcrumbs are they have an image model
+and I just dropped it in the hugging
+face of it. You can basically upload an
+image and just give it a text prompt of
+how to change the image.
+So,
+you know, if Nick were to use this, he
+could upload a picture of you, Chamath,
+and say, you know,
+give him 5:00 shadow, give him a
+mustache, whatever. And actually
+Nick, Nick, will you do that real quick
+while we're talking? While you're doing
+that, can you bring up the video of the
+robot's life in a cyberpunk setting?
+Yeah, it's beautiful.
+Sora rendering? Yeah, this is Sora. So
+beautiful. So It's really cool. So, but
+here's the the limitation. And this goes
+back to what me and Friedberg were
+talking about earlier. Okay, so
+you've got these people in the
+background. Let's say that you're trying
+to make a movie.
+theater backwards, by the way. You can
+see the human feet aren't correct. Sort
+of like a Dolly problem. What what's
+cool is that Okay, so those cars aren't
+moving. They're static. You've got some
+movement of these background people,
+right? At least so
+they're kind of they're the extras in a
+movie.
+But if you wanted to tell
+Sora, this is just my guess, that,
+"Okay, I want the people in the
+background to be doing this." It would
+render a whole different image. Like
+your robot might change, too.
+Right?
+Well, Sax, this is where your context
+window matters. So, if you repeat the
+statement, if instead of writing and
+then iterating, if you just re-prompt it
+and your prompt got longer and longer
+and longer with the degrees of
+specificity you needed, that's the way
+you use these models today. And to your
+point, what humans are looking for from
+a UX perspective is an iterative
+approach
+to rendering. It's an iterative
+approach,
+which isn't feasible in a world where
+the This is This is all a matrix. It's a
+three-dimensional matrix. There's two
+dimensions of pixels, and then the third
+dimension is the next image and the next
+image and the next image. And so, that
+matrix is re-rendered from scratch. It
+doesn't have a concept of what are the
+objects that I'm rendering. It has a
+concept of a matrix of pixels. And so,
+it will re-render a matrix of pixels
+based on a redefined prompt, but what
+you're describing would require a very
+different model architecture than the
+way all of these train models operate
+today.
+This is going to revolutionize
+pornography. I think it's the first play
+No, no, no, I'm not saying it as a joke.
+I think that's where you're going to see
+this first because then all these
+issues, potential issues of underage
+people or exploited folks, it goes
+completely away. You're the VR guy's
+going to cut this
+No, and and you know, it it'll kill only
+fans. Yeah, I was about to say end of
+thing is where every revolution starts.
+That's where
+Technological That's where payments
+That's where the web started. That's
+where payments got refined, but I I
+think that in pornography
+you're going to see this basically
+destroy pornography and only fans.
+Well, I don't I don't want to bring up
+something uh that's super offensive, but
+there was a certain pop music star who
+had a bunch of images just a couple of
+weeks ago
+that were AI generated.
+deep fakes, right? Yeah, there were a
+bunch of deep fakes of a pop star. I
+don't want to like actually highlight
+the person's name cuz then it just I
+think it sends more of it,
+but X did a really good job of blocking
+all of them, watermarking them, and
+saying you can't do this. And so this is
+like a whole new world. You can take any
+person on the planet and make porn out
+of them that is realistic. Well, I don't
+I don't mean that. I just mean that
+you'll be able to make
+pornography in a way that is totally
+non-human involved, which is generally
+better, I would say, for
+all humans involved. What's great about
+the deep fakes is that if you have a sex
+tape come out, you can just say it's a
+deep fake.
+Totally. I was about to ask you,
+Chamath, what is the prompt you're going
+to use to make love to yourself tonight
+with the new Sora model?
+Chamath embraces Chamath. All I hope is
+I I may just need to publish some data
+so that whatever deep fake gets some
+parts accurate. This is Apple? Oh, short
+Apple stock. This is terrible. It's not
+a very good Yeah, what is this model?
+This is an Apple model? It's called
+Maggie, MGI E. This is Apple's
+open-source image model. It's way
+behind.
+This looks like GPT 0.1. They got work
+to do, but it's open-source. It's going
+to go faster. It's very hard to make
+fine-tune changes in these models or to
+get the result that you want, but that's
+fine. This is just a This is V0.9, so
+If you guys want to see a great
+fine-tune, the Juggernaut XL fine-tune
+Uh-oh. I would just say try it. It is a
+fine-tune that
+does not allow
+bad-looking people.
+The whole The whole concept is only
+beautiful people. So it doesn't matter
+what your prompt is, but these people
+come out with the most incredibly
+good-looking people I've ever seen. As
+if the standard wasn't already high
+enough with filters and everything else,
+but This is going to be revolutionary
+for independent film. I mean, this is
+obviously just tip of the iceberg, but
+you know, the problem with independent
+film right now is that the economic
+model literally doesn't work. It's too
+expensive to make an independent movie
+relative to the return.
+And so
+the independent movie business has
+almost dried up almost completely.
+This is going to revolutionize it
+because it'll bring the cost down close
+to zero.
+Now, I I don't I don't agree with
+Friedberg that everyone's going to
+design their own entertainment because
+most people are lazy. No, I'm not saying
+design. Exactly, the way you think about
+creative production processes is what's
+going to change. It's all going to
+reduce down to sitting down and it's
+like when you ask your spouse or partner
+or whatever, "What do you want to watch
+tonight?" and they answer something,
+that something will then be delivered to
+you instantly.
+That's what's going to be so powerful.
+Well, you mean the AI's going to create
+it on the spot for you? It certainly
+will, but I I think that there's a
+certain element of culture that gets
+integrated into personal
+I I mean I I I don't think we have time
+for this, but I have like a whole
+philosophy. People still want curation.
+I mean, if you look at something like
+YouTube,
+um or really any user-generated content
+site, there are roughly 100 times more
+people who are passive than people who
+are active and actually create stuff.
+Whatever the ratio is, there's always a
+lot more passive viewers than there are
+creators. So there's I'd say most of the
+content will be created by people who
+actually care enough to do it. Again,
+let's call it 1 or 2% of the population.
+And then of those 1% might actually be
+really good at it.
+Yeah, but here here's where Friedberg I
+think has a really good point cuz I have
+been looking into this. Imagine if you
+took The Sopranos, something you and I
+love, Zach, and you just said, "Hey, for
+each season give me 10 more minutes per
+episode and give me like two more
+characters or whatever." Now you when
+you watch it the next time, you can say
+just fill it in. I want every episode to
+be 90 minutes instead of 50 minutes. Or
+I've been doing this thing with my
+daughters, we're into uh Star Wars and
+The Clone Wars, etc. People have been
+cutting
+shows like Andor or Rogue One,
+Clone Wars, the prequels, etc. and The
+Bad Batch, and they're putting it
+together like timelines and they're
+making their new versions of it
+by supercutting the different series
+that are filling things in. So you're
+going to be able to say, "Hey, tell me
+the whole Star Wars saga
+with a little more perspective from
+Obi-Wan or give me a little more
+perspective from this person." And that
+that's going to just make these things
+like these franchises so much more
+watchable and deep and rich.
+Yeah, so this is my point, Zach, is I
+don't think it's about ground-up
+personal media creation. I think that
+it's about the curation model changes.
+The creator or the central creative
+force comes up with a genre with a bunch
+of characters like a Star Wars and
+general like arcs of stories, and then
+you can go in and you can view it from
+any character's point of view. Imagine
+watching the Star Wars movie from Darth
+Vader's point of view. Imagine watching
+the Star Wars movie where you just
+stayed on Andor the whole time and you
+watch the news on the TV while you're
+hanging out at the bar. That's your
+fantasy, you with the you with the
+Ewoks?
+So you're right that there's a great
+opportunity for some of these cinematic
+universes to kind of open up the
+creative assets and let the fan base do
+whatever they want with them or create,
+you know, these alternatives. I still
+think that it's that 1% of the
+viewership that actually cares enough to
+do that. And the reason is because that
+I think what you see with all these uh
+demos is that it's really easy to get
+the first 90%. It's really hard to get
+the next 9% and then the final 1%. You
+know, to get to the level of Of course,
+yeah. To get it dialed in to the point
+where again, the the first thing it
+gives you
+But the the benefits could outweigh
+those costs, and this is true in 3D
+video game playing. I don't know if you
+play Fortnite, but there's all sorts of
+stuff that you feel could be better, but
+the overall value of that experience far
+outweighs the missing elements of it not
+being truly photorealistic. And I think
+that's where the stuff goes. It's ski
+week next week.
+And I've done this for
+all both of my older boys, and I'm doing
+it now for my youngest boy who is 4 and
+1/2, almost 5.
+We are going to watch this entire week
+all of the Star Wars movies. Fantastic.
+And then I got it downloaded history all
+the movies, yeah, from and I got them
+ordered. The order was not what I
+thought. It's not as released,
+obviously.
+No, you want to do timelines, so you
+want to have the prequels. I did that
+once, and I will tell you it was super
+disappointing. Rogue One uh the Star
+Wars, the original sequel.
+Wait, you're saying this order is not
+good? Here's what I was told. This is
+what was the internet was the most
+popular.
+You start with The Phantom Menace,
+then Attack of the Clones, then Revenge
+of the Sith,
+then Solo is optional,
+Rogue One optional,
+Rogue One not optional. Then four, five,
+and six, obviously, A New Hope, That's
+when your kids will lose their mind.
+They'll be like, "What is this?" It's
+like Empire Strikes Back, Return of the
+Jedi. Four, five, and six are too slow
+for kids. Yeah, that's the problem.
+Seven, The Force Awakens, and eight, The
+Last Jedi, then nine, The Rise of
+Skywalker. Skip the last three. Yeah,
+the last three are garbage. They fall
+asleep during four, five, six. Yeah,
+God, four, five, six are the best.
+are probably the most watchable. They're
+very They In In retrospect, they're
+great, but there's also The Clone Wars,
+which is absolutely fantastic. I would
+sprinkle in some Clone Wars episodes.
+us for this entire Nat's going to watch
+all this? No, she's ready to shoot
+herself in the face.
+Yeah, this is her worst nightmare. She
+and my daughters are like this.
+I put the over/under on Nat sticking
+through maybe 100 minutes of this. And
+she's done. She's done. Amare, why do
+you poison the kids with this a nerd
+stuff? And they're never going to get
+the girls. Is that Federico Fellini?
+What is this not a Fellini? This is a
+How about they watch something where the
+people make a love instead of the
+lightsaber cut up people hand off?
+this? Exactly. It's a no, there's a no
+love and a joy. There's people with a so
+like lightsabers. It's a no fun.
+But to bridge the gap between your two
+visions, Zach's and Friedberg's, sorry.
+It's Nat's voice is so great.
+It's Chamath and I will talk
+when we talk to each other for literally
+20 minutes as Nat. We'll just have a
+conversation. But it's a conversation
+we're having. I don't know why Chamath
+this idea has
+such a high interest rate on the
+convertible note. So why would you do
+that to me? I'm a your friend. Who's it
+going to be on the board? This the
+person looks like a dum-dum. What's
+going on? I don't understand. Well, it's
+a independent seat, Chamath. You don't
+need to have a put the super smart
+person, just a different perspective. Is
+it the opposite of a white truffle? The
+white truffle is a delicious. This a
+product that smells like a poo.
+But anyway, between Zach's and
+Friedberg's,
+we're literally just talking.
+Hey, when are you coming tonight, ask
+Are you making it for dinner or not? I
+have to I'm not I'm I'm going to try to
+make it by dinner. I just have I have to
+give a keynote at a podcasting
+conference. Oh my God. Are you Wait,
+sorry, are you kidding me? No, I'm not
+kidding.
+You guys banned me from having
+advertising here. I have to make
+cheddar. I got bills to pay. Just
+because there's an eight in front of the
+Uber stock price doesn't mean I can
+retire. Plus it does. Yeah.
+by 7:00 p.m. or not? I'm going to make
+it by 7:00. Yes, I do. Keep me informed.
+are going to start dinner when you get
+there. Perfect. I will not do David
+Sacks time, okay?
+Thank you.
+But between Free Bird and Dave, you
+know, Sacks you said it's like 1 or 2%
+of the audience for, you know,
+a show with a million viewers or 10
+million viewers, that could be tens of
+thousands of lunatics.
+And I don't know if you knew this, but
+you remember when Luke Skywalker showed
+up, spoiler alert, in The Mandalorian?
+Everybody was like, "Oh, his young face
+does not skip the uncanny valley." This
+is why you got to watch The Mandalorian.
+So then some kid did his own AI
+re-rendering of Luke Skywalker, you
+know, after Return of the Jedi, but
+you know, after he
+defeats the emperor, and
+they then hired that kid to work at
+Disney and Lucasfilm. So what's
+happening is all these people who are
+making content for the Star Wars
+universe, they are going to be the next
+generation of creators. So between a Mr.
+Beast way over here
+and Lucasfilm, there's going to be a new
+villain, and it's going to be all these
+great 1%ers making interesting with IP
+that's owned by other organizations.
+I think it's a whole new paradigm for
+media and content. It's going to be so
+different.
+stuff that's customized for you. It's
+almost like what YouTube and Instagram
+did for user-generated content, there's
+going to be this whole new model of AI
+generated content. The the real winners
+are going to be the technology platforms
+that bring these tools in a simple,
+intuitive way that to Sacks's point
+doesn't challenge the user to do work,
+but makes their life feel easier and
+better, and brings them a more rich
+experience than they're getting today
+from any other media source, and that's
+going to be a game changer. All right,
+lots going on in AI. I thought I'd bring
+up a really interesting
+story that happened
+just around stock options and employees
+and advice you're going to get,
+generally speaking.
+Just tons of chaos at the startup Bolt.
+If you don't remember, that's a
+one-click checkout startup. It was
+founded by a guy named Ryan Breslow.
+He's been on my other podcast, This Week
+in Startups.
+He went viral in 2022 after he called YC
+and Stripe like mob bosses and had this
+whole conspiracy theory of how they were
+trying to kill his company. Don't know
+if it's true or not.
+But at its peak, Bolt was valued at $11
+billion, Chamath, and
+they're buying back shares at a $300
+million valuation, down 97%, yada yada.
+What makes this interesting was that in
+2022, Breslow announced a new stock
+option program
+for his employees on Twitter, and he did
+this in a very bombastic, lecturing kind
+of way to the entire industry, saying
+that Bolt would offer loans to any
+employee to exercise their options
+early. We all know about these type of
+loans.
+their balance sheet? That is the idea
+here, yes. And he called it the most
+employee-friendly plan possible, and
+said that half of Bolt's 600
+plus employees took the deal.
+Yeah, he since deleted the entire
+thread, but at the time, a lot of VCs
+who'd been through this before, you
+know, explained to Ryan, "This is a
+terrible idea." Here's GGV's Jeff
+Richards. For what it's worth, almost
+every private company Silicon Valley did
+this in the '90s, it was an absolute
+disaster. Employees spent years paying
+back loans for worthless stock, tax
+bills from merely exercising, etc., yada
+yada. And
+his
+now-deleted tweet was, "Over half our
+employees chose this, plus I would
+strongly encourage my family and friends
+to choose this." But VCs say it didn't
+work in the '90s, so it's a disaster. VC
+Twitter pumps the tweet. This is why
+VC-run companies are never able to make
+strides for employees. Obviously, all
+those options at 11 billion are
+worthless now. But sorry, they did this
+when they were worth 300 million? 11
+billion.
+And it was reported that at the same
+time in a new industry publication that
+Breslow
+was selling his shares in secondary.
+Breslow confirmed with that newsletter
+that he
+had sold 10 million, and uh
+sources, uh anonymous sources, yada
+yada, take that for what it's worth,
+said he didn't tell the team he was
+doing that.
+Two investors also accused the company
+of misleading shareholders in raising
+capital on inflated metrics.
+SEC investigated, but did not recommend
+any action. Sacks,
+Chamath, I don't know if either want to
+take this. This is really mechanical,
+but it does speak to what happens when
+things implode.
+Should employees be taking loans to buy
+these kind of stocks? Yeah.
+At a minimum, hopefully these loans are
+non-recourse.
+And at the maximum, if they were
+recourse, but it looked like these guys
+were doing these kinds of shady things,
+they have to kind of forgive the loans
+and eat it. There's a reason why almost
+no one does these types of exercise
+loans anymore. I mean, whoever the VC
+was who pushed back was right. I mean,
+these things were common 20 something
+years ago. People stopped doing it, and
+the reason why is
+that Well, there are a couple of
+reasons. So, the mechanics
+of the loan are that the company loans
+you the money to pay down the exercise
+price, the strike price for the options,
+and then you're supposed to pay the
+company back at some future date,
+basically when you can sell the shares.
+And in effect, from the point of view of
+the balance sheet of the company, this
+was cashless because it would loan the
+exercise price to the employee who would
+then exercise and pay that money back to
+the company. So everyone's like, "Well,
+what's wrong with this? This just seems
+like
+simple mechanics where no one loses. The
+employee gets to start the clock on
+their shares for long-term capital
+gains. That's why they would do it." The
+problem is that what people discovered
+is that
+if
+then the employee is still on the hook
+for the loan, and if they
+don't pay the loan back,
+then there's a loan forgiveness issue.
+In other words, the forgiven amount of
+the loan or the defaulted amount of the
+loan becomes ordinary income.
+And so what happens is you end up having
+to recognize as income the loan that you
+never pay back. So you can lose.
+Furthermore, if there's spread
+at the time that you exercise between
+the strike price and the fair market
+value of the shares,
+then although if if it's the right kind
+of option, if it's an ISO, you can defer
+paying tax on that spread. However,
+people got whammy'd by the AMT, that
+that spread still counted for
+alternative minimum tax. So there were a
+lot of people during the first dot-com
+bubble who exercised thinking they can't
+lose because the market was always up
+into the right.
+And then the company would go bust, and
+they would get hit with a big AMT, and
+then they would get hit with a loan
+forgiveness issue. So that's why
+everyone stopped doing these things.
+Yeah.
+Yeah, I mean, really importantly,
+getting taxed on that spread, you owe
+that money no matter what.
+No matter what. No matter what. The IRS
+demands that money, and the California
+Franchise Tax Board demands that money.
+So I I I I I just want to be very
+specific so people understand this. If
+the value
+of your company's gone up
+to $2 a share as a private company, and
+your options are 10 cents a share. You
+pay 10 cents a share to get those
+shares. You owe tax on the $1.90
+difference.
+And ultimately,
+if the company's now worth less than a
+dollar when you're finally able to sell
+or shuts down,
+you actually have money you have to pay
+to the IRS, the Franchise Tax Board, and
+you did not make enough money to cover
+the tax bill. The way a lot of these
+companies do this is they do a cashless
+early exercise or cashless exercise
+loan.
+Meaning you don't even have to put money
+up to to pay the 10 cents a share, the
+company is just covering it for you.
+To Sacks's point, you end up getting
+taxed for that later
+if you don't pay it back. So the whole
+thing creates a lot of tax obligations,
+and it's a very complicated structure
+and system, and the reason options exist
+is so that people could buy their
+options and not have to pay taxes at the
+time that they receive them. Because if
+you just get shares in a company rather
+than options,
+the value of those shares is your tax
+bill, even if you can't sell the shares.
+Well, it's income. So it's income. And
+so options were created as a way that
+you would have a strike, and the strike
+was the fair market value. So you're
+actually not getting any value today,
+and so you can avoid the tax bill. But
+now it leads to all these other tax
+loopholes and other tax stuff.
+for rank-and-file employees is what it
+comes down to. Like I I I saw all this
+with like senior executives trying to
+get like the top five positions, you
+know, a CFO or something. Or CTO might
+do this.
+it's to reduce your tax bill from 50% to
+20%, and at the end of the day, you open
+up all of these other problems if you
+try and do that. Completely. One of the
+stupidest things about the way this was
+used is that they would give the
+exercise loan to employees who were
+leaving the company
+because they said that, you know,
+normally when you're a
+departing employee from a company, you
+have 3 months
+to exercise your options or you or you
+lose them.
+So they were saying that this would be a
+solution to that, right? We'll loan you
+the money to exercise.
+All they're doing is creating a huge tax
+problem for that former employee. And
+you're right, the average employee is
+not sophisticated enough to
+navigate all of these issues.
+It's not clear also why you'd want to
+create this complicated benefit for
+departing employees. Seems like if
+you're going to do this, it you would
+want to do it for a key exec who's
+joining the company. That's the only
+context in which I've seen it, by the
+way. Yeah, same. Yeah. So they were
+trying to solve a problem using this
+complicated device that that really
+backfired, but it's not even a problem
+that you should try and solve in that
+way. I mean, there's a much simpler
+solution, which is extend the period of
+time that employees have to exercise. If
+you don't want them to lose their option
+if they don't exercise within 3 months,
+give them 10 years. And there are a
+bunch of companies that have done that,
+where they give you a lot longer to
+exercise the option. The trend I'm
+seeing with startups, like early-stage
+startups, seed-stage startups, which are
+really indicative of what startups will
+do later on,
+hiring people, cash basis, paying them
+hourly, outside the United States, not
+having to worry about stock options, not
+having to worry about
+healthcare, just finding a global
+workforce and using these third-party
+tools. There's a lot of third-party
+tools to manage employees in Portugal or
+Manila or Canada or whatever, South
+America. And they're just saying, you
+know what, stock options are going to be
+for like an elite group, the top 10% of
+the company, and then we're going to
+automate the rest of the jobs with AI,
+and we're going to outsource and have
+hourly workers or full-time contractors
+outside the United States. It's the
+undeniable trend.
+Why? That's throwing the baby out with
+the bathwater. One of the most magical
+things about startups in Silicon Valley
+is that when it worked, everyone got
+rich. I mean, you have the story of the
+Google chef who made a hundred million
+dollars or the secretary at Microsoft
+who got to retire. It, you know, those
+are extreme examples, but
+artist at Facebook. The graffiti artist
+at Yeah.
+He did really What was his name, David?
+David Choe. David Choe.
+of the matter is that Silicon Valley had
+a share-the-wealth mentality where the
+rank-and-file employees did participate
+in the ownership of the company and they
+got equity.
+And it was highly motivating or it is
+highly motivating
+Sure. for not just like lower-level
+employees, but mid-level employees and
+senior employees to basically get equity
+in the company. That's one of the things
+that makes Silicon Valley companies
+special or companies created outside
+Silicon Valley, but using
+this
+Yeah, the philosophy.
+getting rid of options altogether is a
+terrible way to actually
+doing is more like
+for the core team that's in Silicon
+Valley, options. But then like for work
+that is not considered as essential,
+you know, just hiring people offshore
+who don't
+come back to the company then to work
+nights and weekends the way that you
+might be if you're the owner of the
+company. They're not going to have an
+ownership mentality.
+Yeah, I agree. I mean, I I guess you get
+9-5 workers that way. And I think what
+people are starting to realize is like
+maybe there's with these remote workers,
+a lot of people are doing 9-5 work.
+And maybe that like hard-working culture
+just doesn't exist in Silicon Valley
+like it used to. You may be able to find
+hard-working entrepreneurial like folks
+that don't necessarily speak English
+that now with these AI tools
+basically become some of your best
+folks, but there are many countries that
+don't value equity, don't have an
+understanding of it, and so
+to Jason's point, it's almost more of a
+complication to try to give it.
+So, that may be the balancing thing
+Sachs that happens, which is that all
+these tools actually allow somebody in
+some country that speaks some language
+that's not English, but who can be
+completely committed, who becomes this
+linchpin of a business and gets paid an
+extremely great salary
+in American terms that makes them rich
+in their country, get to the same place,
+maybe. Maybe, I don't know. Their
+infrastructure needs to be built for
+stock options in other countries cuz I
+don't know that that exists. And more
+cash because a lot of folks have
+different Again, stock options make
+sense when you have a a differential in
+taxation between stock equity and
+capital gains, yes. But in other places
+where you have a flat tax or
+no income tax whatsoever,
+what's the difference? Yeah, if you're
+in Dubai paying 1%,
+like you can just ship it, right? Yeah.
+You ship it. I mean, you can always
+go back to a model where people vest
+shares rather than vest options, and
+those shares vest on a trigger of time
+and a liquidity event. And that way they
+can't exercise or real or they won't get
+taxed prior to the liquidity event
+happening, but then they will have to
+pay ordinary income tax rates on their
+shares. Hold on, we're making it sound
+like exercising options is a bad thing.
+It can be a very good thing. I mean, if
+you're an early employee of a startup
+and the options are worth pennies,
+and you can exercise for, I don't know,
+a few hundred dollars, then that's a
+great tax benefit because you start the
+clock ticking on long-term capital gains
+treatment. And when you sell those
+shares eventually, if there's a
+liquidity event, you get taxed at a
+capital gains rate, not an ordinary
+income rate. That's the tax benefit.
+That's why people
+want to be able to exercise their
+options in the first place. The problem
+is that as you join the company later
+and later, the strike price of the
+options goes up. And so therefore, if
+you want to exercise,
+you're going to have to write a pretty
+big check, and so you're going to take a
+meaningful risk. Some people do that,
+and that's fine. The trouble comes in
+when you try to get cute and go around
+taking that risk by saying, "Okay, well,
+the employee doesn't have to go out of
+pocket for their exercise price. We're
+going to loan them the money." Well,
+they thought that they had figured out a
+way to avoid taking that risk, but as it
+turns out, all you end up doing is
+potentially incurring AMT and a loan
+forgiveness issue. So, there's no way
+around the fact that if you want to
+exercise your options to get
+the potential tax benefit of a lower tax
+rate, you have to also take the risk of
+losing the strike price, that that that
+check that you write into the company.
+That's a fair trade, right? If you want
+the potential benefit, you take the
+potential risk. But that doesn't that
+doesn't mean that you should never
+exercise. There's a lot of cases Again,
+I think if you're early at a company,
+you should exercise. Low thousands of
+dollars, low hundreds of dollars, go for
+it. There's all kinds of ways where when
+the basis is extremely low,
+it's nominally not a lot of money, so
+you can take the risk. But when you
+start talking about tens of thousands or
+hundreds of thousands of dollars or
+millions of dollars and then using loans
+and leverage and the risk of ruin coming
+out. Bad news bears all the way around.
+No bueno. All right, Sachs, here's your
+red meat. Did you see the poll about
+Biden's age and his the unfavorable
+percentage of people who think he is too
+old? How can I not see that? I think the
+most important thing that we should talk
+about is
+that President Biden has decided to not
+go through a cognitive test as part of
+his annual physical. It's the first time
+it's ever happened. Joe Biden now 81
+years old, 82 at the start of his second
+term if he wins. He'll be 86 at the end,
+making him by far the oldest president
+ever. Trump is 77. He would be 78 and a
+half when he gets his second term if he
+won, 82.5 at the end of his term. Here's
+a histogram of age of presidents. These
+are the oldest. Just to give you a
+Everybody obviously refers to Reagan as
+the oldest president prior to this.
+He was a spry 69 at the start of his
+presidency, and by the end he was 77,
+which is younger, obviously, than Biden
+and
+Trump today.
+So,
+Sachs thoughts?
+Or Chamath thoughts? Let's just say that
+we've had a bunch of these issues over
+the last few years.
+President Trump didn't disclose his tax
+returns.
+Is that a huge issue?
+I think people made it to be a huge
+issue, but it's more of an issue of
+judgment, but I don't think it
+fundamentally compromises his ability
+to lead the country.
+You had a different issue not with the
+president, but with the current sec-
+defense secretary who had prostate
+cancer. The disclosures were,
+let's just say, somewhat sub-optimal.
+He had a UTI. He got
+emergency admitted to the
+hospital. He just had another acute
+issue,
+and those disclosures weren't good.
+But you're talking about an acute kind
+of a thing where if you're
+incapacitated, there's a chain of
+command that immediately kicks in.
+Those are a class of issue that I think
+people can find
+things that are wrong with,
+probably correlated to one's political
+affiliation. The other side probably
+cares more than the side that the that
+the leader's on.
+But I think this issue is a really big
+one,
+and I posted this clip of
+KJP basically saying, "Nothing to see
+here, move on." And the first comment
+was Elon, which
+I think nailed it. He said, "A basic
+cognitive test
+should not be something that someone who
+controls nuclear strikes is allowed to
+skip."
+And I think that that is part of the
+fundamental issue that I have with what
+they decided to do here,
+which is that it just massively
+increases the risk that you could have
+somebody that was fundamentally
+unelected
+running and making decisions. And I
+think that is a huge issue, and it's an
+enormous reason why for me this was sort
+of the straw
+that broke the camel's back and why I
+just absolutely cannot vote for Biden
+anymore. I was trying to find every
+I was trying to find a lot of good
+reasons to support him.
+Stability, normalcy, all of this stuff,
+but this is not what stability looks
+like.
+And I go again back to this very simple
+thing, a cognitive test for somebody
+that can control the ability for us to
+go to war
+or for us to completely eviscerate
+entire populations through weaponry that
+he and he alone controls
+should be something that is just
+mandatory. You can't skip it. This is
+not a
+thing where it's a nice to have. I think
+it's a must-have, and in the absence of
+it, I think it compromises his ability
+to be a legitimate choice. And we do
+have a minimum age. Sachs, and what
+Chamath is saying is what the majority
+of Americans are saying. ABC News ran a
+poll.
+86% of Americans, across both parties,
+think Biden is too old to be president.
+59% vote said both Biden and Trump were
+too old. You said on a previous episode,
+Sachs, that you thought the public
+should decide not a and that that
+doesn't need to be a cognitive test. Are
+you sticking with that or do you think
+you're going to maybe move to Chamath's
+position and mine? Cognitive test should
+be mandatory to be president.
+Well, I think it's a tell that they
+won't take the cognitive test because
+they're worried that he might fail. Just
+like it was a tell
+that they refused to do the Super Bowl
+interview, which the president always
+does. That's the most softball interview
+that Biden could possibly have and they
+refused to do it obviously because his
+aides and advisors are nervous about how
+that might go. We had the her report
+come out where the special counsel
+investigated the classified documents
+case for Biden said that we can't
+prosecute this guy. He'll be too
+sympathetic a defendant because he's
+manifestly senile and he'll come across
+as an old man who can't remember what
+happened. So that's why they decided not
+to prosecute him. The Babylon B had a
+hilarious headline or take on this which
+was man deemed too senile to stand for
+trial still fit to run country. That's
+the situation we're in. He can't stand
+for trial but he's still running the
+country. Yeah.
+And the thing that was most damning
+about the her report was not just what
+the special counsel wrote but it was
+Biden's reaction to it. Apparently he
+demanded that he wanted to go out and do
+a press conference
+that very day to refute the idea that
+his memory was bad or that he was senile
+and he then did this press conference
+and it completely backfired. He came
+across as kind of an old man shaking his
+fists yelling get off my lawn. I mean
+that was basically the the vibe that he
+gave to the press
+and then the thing that he got wrong was
+he confused Egypt for Mexico in regards
+to the whole crisis in Gaza.
+So it would have been one thing if it
+was just her saying
+that Biden was senile but then Biden
+himself came out and seemed to confirm
+it by making these mistakes and gaps.
+So they know they have a problem. So to
+my original question, would you be in
+favor and will you change your position
+here that we should have cognitive tests
+for the presidency of the United States?
+Yes or no?
+I think that the real issue is that
+Biden would fail such a test. I mean
+that's the problem is that he is
+cognitively impaired and the thing to
+realize about these sorts of conditions
+is they're not static.
+There's a trajectory to them. So in the
+same way that Biden is
+manifestly worse
+than he was a year ago or 3 years ago.
+Yeah, when he took office he was
+obviously sharper, yeah. Whatever this
+condition is it's going to be worse
+Okay.
+I won't ask you a third time to answer
+the question but you're choosing not to
+answer the question. So free what do you
+say? When you say that Should the
+president take a cognitive test? Sure,
+he should take a cognitive test.
+Should it be the law of the land just
+like we have a 35-year minimum age. I'm
+just asking you to be specific.
+You could make him take a cognitive test
+but the point is that let's say the
+doctor says yeah, he's cognitively
+impaired. Is that going to bar someone
+from running for office
+constitutionally? No, that's not going
+to be part of the the constitutional
+requirements. You you have to pass a
+constitutional amendment. Yes.
+Would it be a good idea for someone to
+take a cognitive test part of their
+physical to be president? Sure. But is
+that going to be a constitutional
+requirement? No, you can't have some
+doctor say
+by the way that that's my whole point.
+Like you you could take a a physical
+Bill Clinton did and people used to joke
+about his cholesterol levels and he
+would go for a jog and stop at a
+McDonald's. So I'm not saying by any
+means that the results should bar you
+from the ability to run. It should still
+be up to the voters. But just like we
+would make sure that acute or chronic
+health conditions were well understood.
+Right? The idea that this entire body of
+judgment which is around your brain,
+around the judgment of the president of
+the United States
+to basically say no, we're good here. We
+can skip it. I think that that's really
+dangerous and it's part and parcel of
+a systematic
+set of behaving now by the Democratic
+Party which I think is really not where
+they want to be. So the only person
+that's really stood up to all of this is
+Dean Phillips. Yep. But he is being
+prevented and railroaded from even being
+able to put that issue on the table so
+that the voters can decide. My
+fundamental view is the voters should
+decide but all of these tests should be
+done and skipping them is a form of a
+tell as David said and I think that this
+is the most important tell that we've
+been given about the amount of cognitive
+decline that he's suffered. And Jon
+Stewart by the way had the funniest
+version of this. Jon Stewart's
+essentially monologue was like, hold on.
+Everybody is out here giving sound bites
+that say he is a chess grandmaster in
+private but then he shows up in public
+and it looks like he can't even play
+checkers.
+Yeah, Freeberg let me let me jump to you
+there. You shared the clip with us. What
+what are your thoughts? What are your
+thoughts on this whole issue? Cognitive
+test
+I mean I don't think a cognitive test
+should be the law cuz you're starting to
+get into edge cases where you'll create
+lots of different requirements. Like
+what's the strategic test and you know,
+what's the under pressure test and
+there's obviously a a lot of ways that
+folks can game and challenge and create
+new systems for
+um and new criteria. The system of
+democracy however is meant to solve
+these problems. The system of democracy
+is meant to allow individual voters to
+say
+we judge that someone is not equipped or
+prove us wrong which is what the voters
+are saying and doing right now based on
+the polling data.
+The majority of voters in the United
+States are saying we do not think that
+this individual is equipped to be
+president.
+Rather than respond to that with a
+cognitive test
+we are stuck with a single candidate and
+I think it speaks more to the problem of
+the Democratic Caucus
+and how the electoral system works in
+the United States today
+where the insiders get to decide who the
+nominee is for the party.
+And those insiders are self-dealt. They
+are getting benefits by putting someone
+in the seat for next term because that
+person is in the seat this term and is
+approving things that they want this
+term.
+And so it feels very corrupt and it
+feels very unfair and very undemocratic.
+I think it leads to either a sense that
+the individual voters rise up and say we
+want a third party because the way that
+this two-party system works and the way
+that the caucus system works isn't fair
+or we end up seeing a really unfortunate
+outcome where you have a similar sort of
+like January 6th type event where folks
+are just fed up with the whole system
+and don't trust it and if the citizens
+lose faith in democracy we're we're in
+peril. But as Jon Stewart said in his
+monologue, it is the responsibility of
+the citizens of this country to step up
+and not lose faith but to take action
+and to resolve to a solution. We have
+the power, we have the authority as
+voters. And if enough of us get together
+and say there should be a third party or
+we do not want this individual to be the
+candidate, something will change rather
+than just resolve to letting the
+insiders set the terms of the caucus.
+Third party is seeming more and more
+viable as uh we've talked about here.
+People forget the case of Ross Perot
+getting 19%.
+RFK looking pretty favorable and the
+third party candidate something I think
+the two parties dismiss all the time but
+it is completely possible. So
+maybe this is the time that this is the
+breakout season for as Sachs
+alluded to the her report also came out.
+It was released.
+Special counsel Robert Hurr, Republican
+and Trump appointed AG
+declined to prosecute Biden
+because he feared they couldn't reach
+the standard of reasonable doubt as
+Sachs pointed out.
+And I'll just quote from the report. We
+conclude that the evidence does not
+establish Mr. Biden's guilt beyond a
+reasonable doubt. And they also
+said he was
+an elderly man with a poor memory or
+that's how a jury would view Biden.
+Democrats felt this was partisan
+obviously
+and then pointed out a bunch of
+times that Trump has
+misstated people's names or been
+confused. Is there any
+correlation here between the two
+candidates in your mind? Chamath is
+Trump right behind Biden in terms of
+this and is he too old to run as well
+and do you think the gaps that he's made
+are comparable?
+I think that
+he looks much younger and sprightlier
+than Biden does to be totally honest.
+Yeah, and look at the schedule he
+maintains. It's nothing like Biden's. I
+mean look, Democrats are trying to both
+sides the issue because it's their only
+choice. They're stuck with a candidate
+who's in obvious decline and the problem
+for Democrats wasn't just the her report
+which like you said Jay Cal, they can
+dismiss as partisan cuz they control the
+media. The problem is that Biden himself
+demanded to go out in front of a press
+conference to refute the her report and
+he ended up confirming it. And the
+people of the United States can just
+look at Joe Biden and every time he
+talks no matter how much they try to
+hide him. When he does speak, the
+American people are left with the
+impression that this is somebody who's
+in visible decline. Trump although he
+does misstate a word or two here and
+there does not give that impression.
+Trump maintains a vigorous schedule. Not
+only is he running a presidential
+campaign, he's battling he's in court
+every other day fighting all this
+lawfare. He is willing to give
+interviews. In fact, he barely turns
+down a press interview and most
+importantly he's willing to do a hostile
+interview. He's willing to step into the
+lion's den. He's willing to go on CNN to
+those town halls and basically battle
+with these reporters.
+Whereas Biden won't even sit down for
+the Super Bowl interview which is as
+much of a softball softball interview as
+you're ever going to get.
+Yeah. Yeah, no no. I mean that's your
+that's your best point. I think who's
+the who's who
+who does a two or three if you can't do
+a two or three-hour interview I don't
+think you could be president.
+do you think is going to run the country
+in the second term if if Biden were to
+win?
+You know, that that is the question. Is
+Biden?
+No, the staff wants it. Listen, this
+will be this will be a regent president
+where the presidency becomes an office
+instead of a person and it's run by
+powerful ministers
+like in some sort of European system.
+That's what we'll get.
+Or happened under Reagan. And the fact
+of the matter is look
+Or or Sachs as happened under Reagan.
+Only in the last couple of years of
+Reagan's
+did senility start to or not senility he
+had Alzheimer's and it really I think
+started to become a factor in the last
+couple of years.
+Last two it was the last two years. But
+the first six years were very strong.
+25% of his presidency it who was running
+the country is the question. Yeah.
+So it's a valid question.
+Do you think there's a difference Jake
+Cal between 25% and 50%? No no it I I
+think it's like we only have I'm just
+looking for other correlaries where this
+happened and what happened. Who who is
+Well no I think that this isn't a
+correlary exactly because when he ran
+when Reagan ran for a second term he was
+cognitively sharp. It was true that he
+was diagnosed with early onset
+Alzheimer's in the second year of his
+second term.
+And then that was not properly disclosed
+to Americans.
+That was just it was just the beginning
+in the last two years. If you look at if
+you look at the 1984 campaign the
+morning in America campaign Reagan still
+did debates. He was still sharp on his
+feet. He was debating Mondale remember?
+Yeah.
+He gave speeches all the time. He
+maintained a vigorous schedule. There
+was no evidence of there being a
+problem. My only point here Chamath is
+like does the public has a right to know
+when these things happen and it seems to
+have happened a couple of times in
+history. Well so I would take
+Friedberg's side. I'm not sure that the
+public
+you could say irrespective of whether
+the public has a right to know the
+public has a right to judge.
+And I think in order to judge you have
+to make yourself available so that you
+can actually see it in front of your own
+eyes or hear it or listen to it or watch
+it or what have you.
+And that's the second problem that I
+think we're starting to see which is
+it is so controlled
+how we get to interact with with
+our leader.
+And I think that should give people some
+pause so that they ask themselves
+why would this happen?
+And I think that that's worth
+internalizing here.
+Friedberg would you vote for
+a presidential candidate who does not
+debate or who does not subject himself
+to
+you know serious strenuous
+confrontational adversarial interviews.
+Those two things. Are those two things a
+requirement for you to vote for
+somebody?
+I don't know how much that matters
+anymore. Problem with the two-party
+system is you vote for your party.
+No I know but to you.
+If like a Trump or Biden they just
+refuse to do it cuz we're we're getting
+to the point where maybe they're just
+going to refuse to actually Biden or
+Trump Trump has refused to do any
+debates. So maybe they're just both
+going to refuse to debate. Would you
+vote for a candidate
+if they refuse to debate is my question
+to you Friedberg.
+I mean I'm just in a very different
+mindset on this stuff. I'm not
+excited to vote for a candidate that's
+not making their priority to fix the
+fiscal problem of the US. All right so
+you're back to that that topic. Yeah.
+It's not that topic. It's like for me
+it's like there's a car driving towards
+a wall
+and you've got your foot on the gas
+pedal. It's like which guy do you want
+to keep the foot on the gas pedal? Like
+I don't care. Like we got to take the
+foot off the gas pedal. That's the
+point.
+there's a difference between the two in
+spending. You're talking you Okay so
+you're you're you're voting for a
+third-party candidate that would lean
+towards Chamath. You would you vote for
+somebody
+can't win in this system.
+Well I mean they can't until they can
+right until they do. So we'll see.
+Chamath
+would you vote for
+a candidate who didn't debate or subject
+themselves to a rigorous adversarial
+interview?
+Not unless I wanted a shadow government.
+Okay. Sachs same question to you. Jason
+you're acting as if we need to have all
+of these tests because we don't know
+whether Biden has a cognitive problem or
+not. We
+was including Trump in this. I'm
+including Trump in this like the debate
+issue.
+Well I think we also know about Trump.
+Trump maintains a vigorous enough
+schedule. He takes enough difficult
+interviews. He does enough speeches.
+What about the debate part? That's the
+one I'm curious. If he refuses to debate
+would you would you still be willing to
+vote for him? You know or any candidate.
+You're acting like we need to judge this
+question based on proxies for the real
+issue when the real issue is that we
+know one of these candidates
+has basically dementia.
+He's in visible decline. I'm not asking
+you this about Biden. I'm asking you in
+general.
+Cuz we're talking about norms. One of
+the norms of you know releasing your
+taxes. I mean I'm not asking you about
+Biden. I'm asking you about presidential
+norms.
+from the core substantive issue. We have
+already all agreed that Biden is in
+cognitive decline. I'm asking you
+another question. I'm opening up the
+aperture as the moderator here and I'm
+asking you to address another question.
+I think candidates should debate period.
+Candidates should debate.
+what I'm asking. I don't know why you're
+going back and telling me what I think.
+Because I think that the tactic of
+Democrats the mainstream media right now
+is that they can't
+there's no way for them to paper over or
+deny the visible reality of Biden's
+decline. So they're trying to muddy up
+the waters. They're trying to claim well
+Trump is old too or that Trump refused
+to debate too. They're trying to both
+sides the issue. I think we all know
+that Biden has a problem that Trump does
+not have.
+Now I think that Chamath is also right
+that there's a lot of Democrats who are
+comfortable voting for a shadow
+government. They're fine with the
+presidency being a figurehead or rubber
+stamp. And I think the reason why
+they're fine with it is cuz Democrats
+basically control most of our ruling
+institutions really all of them. I don't
+think you can name one major institution
+run by Republicans and they don't need a
+president to do anything other than be a
+rubber stamp. Republicans are looking
+for something different. Republicans
+need a president who's willing to push
+back on the permanent bureaucracy in
+Washington push back on
+the deep state or the State Department
+creating new wars. They want someone to
+push back on Wall Street. They want
+someone to push back on all these
+institutions. Republicans are looking
+Populists are looking for a tribune of
+the plebs basically to push back on this
+senatorial class that runs Washington
+for their own benefit. Democrats are
+different. Democrats are the ruling
+elite and they're fine
+with
+the president basically just being a a
+figurehead who will sign their
+legislation. Does he drop out Chamath or
+veto bills they don't like? Does he drop
+out Chamath at this point? Is is this
+the moment we're going to look back on
+and say this is the peak when that 86%
+poll comes out and all this negative
+press. Do you think Biden is there's an
+exit ramp here? And do you think
+there'll be a different candidate
+fielded by the Democrats?
+No this is this was their way of saying
+we're going for it. Okay.
+Friedberg you have any thoughts on that?
+Do you think they'll make a switch? On
+Biden? I think there's a chance.
+I think there's a chance. Last week I
+had a few conversations that led me to
+think that there are not super
+influential people in the party but
+people that are in the party
+that
+you know have connections to people of
+influence in the party. I'd love to hear
+Chamath's like
+conversations he may have had around
+this stuff too. But people are not happy
+in the party. They're very like very
+much unhappy.
+And everyone would love to see someone
+else. Now the assumption is Gavin is
+going to be
+shoved in that seat and that's also a
+losing proposition. So if you shove
+Gavin in the seat they're in a worse
+place than you are with Biden in the
+seat with respect to your shot at
+winning.
+And it's a little late now but I still
+think that there's a chance. Sachs what
+do you think?
+Biden drops out?
+First of all the only reason these
+people are unhappy is cuz they think
+that Biden's problems have become so
+manifest that it might cost them the
+election. That's what they're worried
+about. They don't care about the fact
+that the Biden Biden presidency will be
+run by staffers. As long as those
+staffers will basically do what they
+want sign their legislation or veto the
+wrong legislation.
+is the question we're asking you. Will
+he drop out? No he's already said he
+won't. Look the problem that people in
+the Democratic Party have who have this
+concern about Biden Biden losing the
+election because of this cognitive issue
+is that there is no mechanism to replace
+a candidate who has won all the
+necessary
+primary votes
+against his will.
+Biden has said he's going to be the
+nominee. He has no desire to to drop
+out. So unless he changes his mind or
+there's some act of God he's going to be
+the nominee.
+The time for Democrats to make this
+change was a year ago. It required
+mounting a primary challenge to Biden
+the way that Dean Phillips has done.
+The problem is that the Democratic Party
+elders and the powerful people in the
+party said we're going with Biden. And
+so no one wanted to run against him and
+they basically
+set up the primary calendar so that
+Biden would win. And he is going to win.
+He'll have all the primary votes he
+needs locked up by the end of March.
+And Dean Phillips is not going to be
+able to basically stop him.
+So there is no mechanism to remove
+Biden. He's going to be the candidate.
+You know barring act of God.
+Unless he can be persuaded to step down.
+So it's not going to happen. What do you
+think about this new third-party effort
+in DC
+No Labels. Have you heard about it? Have
+you been pitched it?
+I've heard of it. I've been pitched it.
+Chamath have you been pitched it? I
+hosted a dinner at my house with some
+folks about it. And? Yeah I mean I think
+like
+it could be interesting. I think that
+the Is there room for a third party in
+the country you think? Yes and I and I
+think that there is a very reasonable
+chance and I would put reasonable
+somewhere between 30 and
+50%
+that this third party gets created after
+the presidential election.
+And that is the
+one of the very likely outcomes of RFK's
+candidacy.
+Because it is an infrastructure
+that will have
+gotten on presidential ballots in 50
+states.
+And it's an infrastructure that if
+people are willing to fund specifically
+No Labels and other people I think the
+artifact could be a third party.
+And if if RFK can get
+30 plus percent support which in some
+states I think he will
+I think that there's a decent chance.
+That would be an enormous outcome.
+Obviously the most disruptive outcome
+for RFK would be that he won the
+presidency but I'm just saying that
+a very powerful outcome that has huge
+longitudinal benefits to America
+would be that his candidacy essentially
+is the is the founding story of a third
+party.
+Yeah.
+And that was the shame of what happened
+with Perot. I think that there was a
+chance that Perot could have done that
+and he must have been under just an
+enormous amount of pressure. I can't
+even imagine what he must have dealt
+with.
+But that could have been the artifact
+back then, but it definitely can be the
+artifact today.
+So
+we'll see. They haven't announced either
+and there's no timeline for them
+announcing. They've asked to come on
+this program many times to just talk
+about the concept. I think like they
+they want to have like the executive
+director on or
+Yeah, they they they've asked over the
+years.
+Yeah. And I was like, well, maybe when
+you pick a candidate that would be a
+better time than just talking about it
+in the abstract.
+I think it's a great idea. I think
+that's what Americans want. So
+maybe we'll get to the
+in 9 months. We're running out of time.
+I mean, it's entirely too late to be
+talking about new candidates who aren't
+even in the race.
+Not going to happen. I mean, this whole
+Gavin Newsom thing is a fantasy. Even if
+Biden were to see the light and step
+down, be pressured to do that. Kamala
+Harris just said, "I'm ready to serve."
+She wants to be president.
+And even though she's not senile, she's
+actually even more unpopular than Biden.
+So you have that huge problem in the
+Democratic Party that even if somehow
+they could prevail on Biden to step
+down, now you have Kamala Harris ready
+to serve. So how do you pass over her?
+He's not stepping down. He didn't go
+through all of this craziness this past
+week to step down.
+They didn't evade the cognitive test for
+him to step down. They're not doing all
+of that. They're not
+keeping him away from the media so that
+he can step down. None of that is
+happening. They're not having people
+come out with the sound bites about how
+he's got mastery of everything in
+private so that he can step down. He's
+running.
+Donald Trump is running
+and RFK is running. Those will be the
+three people
+on the ballot in November of 2024.
+Biden's staff are the absolute last
+people who would ever pressure him to
+step down. Why? Cuz they'd be out of a
+job.
+I mean, from the staff's point of view
+having a weak president who basically
+they administer
+It's not just a job. It's like you you
+allocate the future as the president of
+the United States. You It's the It's the
+best It's the best situation possible
+for a staffer to have a president who is
+borderline incapacitated and you get to
+just do whatever you want. You are the
+president.
+Yeah. Chamath, I'll give us a rundown of
+the Tucker Putin thing. What do you
+think? Just as a programming note, it
+came out, it dropped right after we
+taped. We would have covered it.
+Obviously, we're not covering it for a
+reason.
+I give him a B on it. Could have been
+better, but it wasn't bad all things
+considered. I don't think any journalist
+is ever going to
+be able to trap Putin or get good
+information out of him or any of those
+things.
+And if you have somebody like Tucker who
+is obviously very sympathetic to Russia
+and who believes that, you know, the
+West forced Putin to invade Ukraine, you
+know, you're not going to get like a
+really great interview.
+I did think he had a great moment where
+he asked for the Wall Street Journal
+reporter back at that moment to take
+back with him.
+He did a lot of softball questions. He
+asked 43 questions during the interview.
+About 15 of them were kind of softballs
+and he had about six fastballs. But he
+lost control over the interview
+very early. Obviously, if you watched
+it.
+And that's just kind of like losing
+asking for like a
+I'm You're like Chris Collins with you.
+I'm not asking for a technical analysis
+of the play. I'm asking you what did you
+think of the interview? What did you
+take away from it? What did you think
+going in? Nothing. Was there a delta and
+a change going out? Just a normal
+No, cuz I I've watched the other
+interviews. I watched Megan Kelly's. I
+watched NBC's. He's done
+I did a research on He's done about nine
+interviews in the last 10 years.
+So it's not like this was anything new.
+And when you watch the other ones, it's
+just Putin spinning and pontificating
+and nothing gets accomplished. He
+doesn't answer hard questions. So
+I had six questions. I I said he should
+ask him. He did ask two of them.
+But he didn't ask the other really hard
+questions I had. And so you know, he's
+not
+I wouldn't say Tucker is like the useful
+idiot like Hillary Clinton said, but he
+is biased and he didn't ask enough hard
+questions. I would have asked three or
+four harder questions, but you're not
+going to get a lot out of Putin. This
+guy is like a KGB Stasi trained
+manipulator of media. It's his
+specialty. I had two really interesting
+takeaways.
+The first was
+if you had wanted to see some crazy
+madman
+you actually left that interview
+thinking, "Okay, this is a person that's
+leading a nation that has a deep
+historical context that goes back to
+basically the dawn of Christianity
+of which he has a pretty deep grasp of.
+And it seems that his decisions are
+rooted in a multi-thousand-year history.
+I didn't know that. And that was an
+interesting takeaway for me. So that was
+a broad strategic takeaway.
+So he was a little professorial, he was
+a little historical. And all of that to
+me
+made it harder for me to leave that
+interview thinking that he was a crazy
+person. In fact, it's more like
+he's a bit of a methodical
+thinker, I guess.
+The second is much more tactical and I
+thought super salacious and I wish
+Tucker would have dug into it.
+Which is that in 1999 when he was
+meeting Bill Clinton, he asked Bill
+Clinton, "Can we join NATO?"
+And Bill Clinton said to him, "Yes, and
+let's go hash out the details over
+dinner."
+And then that night they have dinner and
+Clinton says, "My team says no."
+And
+to me when I looked at the arc of that
+interview, that was one of these really
+unique moments where it explains to me
+so much.
+Which is a country that's at the that's
+birthing a democracy
+where
+Putin transitioning from Yeltsin had to
+make a lot of very important, difficult
+decisions. The idea that he would have
+made an entreaty to Clinton to say, "Can
+we join NATO?"
+And then to be told yes and then
+rebuffed
+I suspect has an underlying amount of
+emotion that explains a lot of what's
+happened since.
+And I think that that should have been
+explored much, much more. I think they
+glossed over it and they went on. But it
+was a really important moment. Those
+were my two big takeaways from from that
+from that interview. Did you watch it,
+Freeberg? Any thoughts? I don't
+understand. I think when he said that
+point, he was talking in the
+theoretical, not in the I'd like to join
+NATO because the intention of NATO was
+to create a unified defense against the
+Russian
+armament, which is the most significant
+besides the US and at that point uh
+before China's rise, um ahead of China.
+So I think it doesn't make sense to be
+like, "Hey, there's two sides
+of this defense system. Let's unify the
+two sides of the defense system." It it
+literally is a nonsensical proposition.
+Not true in 1999. That's totally not
+true.
+What was the other side? 1999 was where
+we've tore this whole thing down. It's
+no longer the Soviet Union. Right, so
+what is Russia? We're going to
+democracy. It's probably just an
+organization that looks like any other
+organization. Like ASEAN. What's ASEAN?
+Well, ASEAN is an organization. Could
+they have military defenses? Supposedly.
+It's but it's a grab bag of countries.
+What's the BRICS? It's another grab bag
+of countries.
+this is a defense
+alliance. This isn't an economic
+alliance. But in that moment, the the
+the justification for NATO was the least
+powerful it's ever ever been. So in in
+some ways joining NATO would have been
+akin to dismantling NATO and saying, "We
+don't need this anymore." That's the
+point. Like why would he say why would
+the US and the Western Europe allies
+say, "Let's dismantle NATO?"
+He did cuz the historical context of
+that moment is important. He did it at
+the moment where they were transitioning
+to a democracy. I don't know. It's like
+saying, "Let's get rid of the defense
+system."
+When Russia was transforming into a
+democracy? Well, when the USSR was
+breaking down and transitioning to a
+democracy, yeah. How did that democracy
+go? If there was Yeah, if there was
+massive disarmament in Russia The
+question The question is what would have
+happened had they said yes and Clinton
+took a different path. All I'm saying
+is, guys
+without prejudging it, that that was a I
+think a very important context that is
+not understood in history.
+I wouldn't dismiss it. No, no, I
+certainly I think everybody raised their
+eyes like, "Really? That happened?"
+What did you think of that moment?
+And and and and also Clinton, who is so
+steeped in history
+and policy
+is not somebody that would say something
+like that in an uncalculated way only to
+pull back. That does not seem and I know
+Bill Clinton, that is not who he is.
+So just in that context, he's a very
+thoughtful person. So he would have said
+that thinking, "Wow, this makes a lot of
+sense on many dimensions." And again
+the concept was
+it was a it was kind of like, "Let's sit
+down for dinner and figure out the
+details." And it's like, "My team says
+no."
+And of course the team would say no
+because it's like, "Well, I don't know.
+I also We haven't heard from Clinton,
+you know, confirming this or how it was
+structured. This is Guys, it it sounds
+like it was a theoretical like That's
+That was my interpretation that this
+feels like a weird he said it and kind
+of shocked Clinton. He's like, "Let me
+look into that." That's crazy. What did
+you think of that moment, Sachs? And
+then overall? Well, Jason, the fact that
+Putin sought to join NATO or at least
+made that offer is a well-known,
+well-documented historical fact. This is
+definitely not the first time this has
+been raised.
+More generally, I think what you heard
+in that interview, once you got past the
+the sort of the ancient history lecture
+is that Putin, when he first came to
+power, sought cordial relations with the
+US and with American presidents and he
+was rebuffed. His uh attempt to join
+NATO was rebuffed. More generally
+the US reneged on its promise to
+Gorbachev not to expand NATO 1 in
+eastward and instead we began multiple
+waves of of NATO expansion. And I think
+it's very important to understand that
+you don't need to believe Putin on this
+or trust Putin. American diplomats were
+saying at the time what the
+ramifications of this would be and I
+just want to put two data points in
+evidence. One is George Kennan who is
+the father of the containment doctrine
+during the Cold War. He was our most
+respected Cold War diplomat said in the
+late 90s when they were first debating
+on NATO expansion. He said that quote
+expanding NATO would be the most fateful
+error of American policy in the entire
+post-Cold War era. So think about it.
+This is somebody who's been around since
+the 1940s. He was our chief diplomat and
+defined our containment policy towards
+the Soviet Union and he said that
+expanding NATO would be the most fateful
+error of American foreign policy. And he
+said that a decision like that would
+inflame the nationalist, anti-Western,
+and militaristic tendencies in Russian
+opinion. It would have an adverse effect
+on the development of Russian democracy
+and it would restore the atmosphere of
+the Cold War. So this is somebody who
+really knew what he was talking about
+and warned us not to go down this path.
+And then in 2008, second data point, is
+that Bill Burns who was our ambassador
+to Moscow who is now Joe Biden's own CIA
+director wrote a memo to Condoleezza
+Rice who was then Secretary of State
+called "Nyet Means Nyet". And what he
+said in that memo
+is that NATO expansion to Ukraine
+specifically is the brightest of all red
+lines for the entire Russian elite, not
+just Putin. In other words, the idea of
+bringing Ukraine into NATO was an idea
+that was rejected not just by Putin or
+by hardliners but even by liberal
+reformers
+inside of Russia. And nevertheless we
+persisted in this policy and so I think
+what you hear in that interview are a
+lot of points by Putin around how he
+sought good relations with the West but
+what was our reaction to him? Pressure,
+pressure, pressure. We supported
+the Maidan coup in 2014. We tried to
+expand NATO into his backyard on his
+most vulnerable border and then finally
+we supported these hard-right,
+ultra-nationalist, neo-Nazi elements in
+Ukraine.
+Now
+whether or not you believe everything
+that Putin said, uh my takeaway is that
+this was a rational actor. This was not
+a madman. This is somebody who we could
+have negotiated with and in fact there
+was still an opportunity before this war
+to prevent the war by taking NATO
+expansion off the table. We refused to
+do that and even today
+there was this new press story that in
+the wake of this interview the Biden
+administration still rejects entering
+negotiations with Russia even though
+Putin held out that olive branch in that
+interview. So
+you know, again, it's just very sad how
+we have conducted American
+Russian relations over the last 25
+years. We turned what could have been
+an ally into an enemy and proven George
+Kennan correct. I think this has been
+the most fateful error of American
+policy in the last 30 years.
+All right, what an amazing episode this
+has been. I think we talked about Tucker
+and Putin enough.
+Love you boys.
+For the Sultan of Science, the Dictator,
+and the Rain Man
+I am the world's greatest moderator.
+We'll see you next time. Bye-bye.
+Bye-bye.
+Let your winners ride.
+Rain Man David Sacks
+And I said we open sourced it to the
+fans and they've just gone crazy with
+it. Love you guys. I'm Queen of Quinoa.
+Let your
+winners ride.
+Besties are gone.
+Let us watch my dog taking a in
+your driveway.
+Oh, man. My ambassador will meet me at
+the club. We should all just get a room
+and just have a one big huge orgy cuz
+they're all just useless. It's like this
+like sexual tension that we just need to
+release somehow.
+Let your beat beat.
+Let your beat beat. Let your beer beat.
+Beat. What?
+We need to get merch. Besties are gone.
+I'm going all in.

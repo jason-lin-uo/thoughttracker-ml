@@ -1,0 +1,98 @@
+# HQ Tutorial: Ccleaner
+# https://www.youtube.com/watch?v=oP41yum-wFg
+
+Hi again. Um, I'm going to make a
+tutorial today. Well, not a tutorial,
+but a review on a program I'm using
+called Sea
+Cleaner. This is uh this is what it
+looks
+like. Uh, a little pair there. It tells
+you your specs. Yeah, you can look at
+it.
+Um, first I will show you where to get
+it. Open your internet browser. I have
+to use Safari. You can use any of um or
+others and type in just
+ccleaner. The first result will be
+secleaner.com. You can also get this
+from uh like download.com or techra or
+any of these sites file hippo. Just
+don't torrent it. It's it's free
+software anyway. Um click here for a
+quick tour and click here to download
+cleaner. Um you can read all about it.
+It's ecleaner.com.
+um go download it there. And once you do
+install it, the instructions are
+extremely simple. You'll have it'll
+probably give you
+um little thing on your desktop or you
+can just go to your start menu and type
+in C cleaner to run it for the first
+time. Comes up. Click on it. Then USC
+comes up of course and C
+cleaner. What it does, um it's exactly
+what it says. It cleans your C drive. it
+um it removes temporary internet files.
+I haven't run it in a few minutes and
+it's already going to pick up a few
+megabytes. It'll remove your uh your
+cache like recently uh used documents.
+So, if you go into here, recent items,
+this will be gone.
+Um it'll it'll just remove uh junk
+basically the the crap that makes
+Windows run slower after a while. You
+can check and uncheck certain things and
+that's like an advanced thing. So, I
+won't check it because I like my
+autocomplete. Um, it'll take away
+cookies. It'll take away download
+history, internet history, cache, saved
+information, etc. as well as recently
+used applications. This is for the
+cleaner part. So, I'm going to hit
+analyze. If you don't want to analyze it
+before you run it, just hit run cleaner.
+So, it says you can remove 4 megabytes.
+Not a big deal, but I will run it
+anyway. It says they have been removed
+now. Very quick actually. Very very
+quick. I don't have that fast a
+computer. It's a laptop. Secondly,
+there's a registry change. I have I have
+not run this in a while, but I will I'll
+leave all these checked. Will basically
+look in your registry, find unused
+shortcuts, errors, issues, missing DLS,
+uh installers that are no longer needed,
+and delete/fix. So, I have a few unused
+file
+extensions.0.xpi. I don't know if I
+don't even use those. So, it's just
+about
+finishing and it only found four issues.
+I'm going to hit fix selected issues and
+not backup changes. Um, fix all selected
+issues and then they're gone.
+Done. Tools. Um, you can uninstall
+programs. Here's a list of all your
+programs instead of going actually into
+the control panel waiting for that to
+load because you know Vista takes ages
+and then finding programs and features
+and everything. It's right here. It's
+right here for you. You can rename it,
+uninstall it, or just delete it
+completely. And also you can remove
+startup items. So I have a few enabled
+and a few disabled. You can select one
+and disable or delete it completely all
+in C cleaner. and a few other options
+here that I don't really make much of a
+difference. You can run it when the
+computer starts or when it shuts down.
+Add it. So, pretty
+cool. That, ladies and gentlemen, is CE
+Cleaner. Have fun.

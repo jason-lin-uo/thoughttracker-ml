@@ -1,0 +1,3276 @@
+# Understanding & Treating Addiction | Dr. Anna Lembke
+# https://www.youtube.com/watch?v=p3JLaF_4Tz8
+
+Welcome to the Huberman Lab podcast,
+where we discuss science and
+science-based tools for everyday life.
+I'm Andrew Huberman and I'm a professor
+of neurobiology and opthalmology at
+Stamford School of Medicine. Today I
+have the pleasure of introducing Dr.
+Anna Lemi. Dr. Lemy is a psychiatrist
+and the chief of the addiction medicine
+dual diagnosis clinic at Stamford
+University School of Medicine. She's a
+psychiatrist who treats patients
+struggling with addiction. She has
+successfully treated patients dealing
+with drug addiction, alcohol addiction,
+and behavioral addictions such as
+gambling and sex addiction, as well as
+other types of addiction. In fact,
+during our discussion, I learned that
+there are a huge range of behaviors and
+substances to which people can become
+addicted to, and that there is a common
+biological underpinning of all those
+addictions. I also learned that there is
+a common path to the treatment and
+recovery from essentially all
+addictions. Dr. Lemi explained that to
+me and explained how to think about and
+conceptualize our own addictions as well
+as the addictions of other people who
+are struggling to get treatment, move
+through treatment, and stay sober from
+their addictions. In addition to
+treating patients, Dr. Lenkkey is an
+author and was featured in the 2020
+Netflix documentary, The Social Dilemma.
+I'm excited to tell you that she has a
+new book coming out called Dopamine
+Nation: Finding Balance in the Age of
+Indulgence. The book comes out August
+24th and is an absolutely fascinating
+read into addiction and ways to treat
+various types of addiction. I've read
+the book cover to cover and all I'll
+tell you is that at the very first
+chapter and throughout, you are going to
+be absolutely blown away. The stories
+about her patients are extremely
+engaging. It brings forward the real
+struggle of addiction and the
+incredible, I think it's fair to say,
+heroic battles that people fight in
+order to get through addictions of
+various kinds. And all of that is woven
+through with story, with science in ways
+that make it very accessible to anyone,
+whether or not you have a science
+background or not. I can't recommend it
+highly enough. So again, the book is
+Dopamine Nation: Finding Balance in the
+Age of Indulgence. It comes out August
+24th of this year, 2021. And you can
+pre-order that book by going to Amazon.
+We will provide a link to that in the
+show caption. Before we begin, I just
+want to mention that this podcast is
+separate from my teaching and research
+roles at Stamford. It is however part of
+my desire and effort to bring zero cost
+to consumer information about science
+and science related tools to the general
+public. In keeping with that theme, I'd
+like to thank the sponsors of today's
+podcast. Our first sponsor is ROA. ROA
+makes sunglasses and eyeglasses that are
+of the absolute utmost quality. Founded
+by two all-American swimmers from
+Stamford, everything about the
+sunglasses and eyeglasses that ROA makes
+was designed with performance in mind.
+First of all, they're very lightweight.
+You don't even really notice that
+they're on your face. Second of all,
+even if you get sweaty, they don't slip
+off. In fact, they were designed to be
+worn at work or around the house, but
+also if you're running or biking, so you
+can move seamlessly between different
+activities without having to change your
+sunglasses or eyeglasses. In addition,
+the lenses are designed with the science
+of the visual system in mind. I've spent
+my career working on the science of the
+visual system, and I can tell you that
+it's not trivial to build a lens that
+allows you to see with perfect clarity,
+whether or not you're in bright sunshine
+and then move into shadows. But the ROA
+glasses allow you to do that. you always
+see things with absolute clarity.
+Another terrific thing about ROA
+eyeglasses and sunglasses is the
+aesthetic. A lot of so-called
+performance sunglasses and eyeglasses,
+they're not really built with the best
+aesthetic, and they kind of make people
+look like cyborgs. With ROA, they have a
+lot of different styles to choose from,
+but all those styles of the sort that
+you could wear out to dinner or to work
+or when engaging in physical activity.
+If you'd like to try ROA glasses, you
+can go to ROA, that's roka.com, and
+enter the code huberman at checkout. And
+if you do that, you'll get 20% off your
+first order. Today's podcast is also
+brought to us by Inside Tracker. Inside
+Tracker is a personalized nutrition
+platform that analyzes data from your
+blood and DNA to help you better
+understand your body and reach your
+health goals. I'm a big believer in
+getting regular blood work done and I've
+been doing that for a number of years
+for the simple reason that most if not
+all of the factors that impact your
+immediate and long-term health can only
+be analyzed in detail with a quality
+blood test. And now with the advent of
+modern DNA tests, you can get further
+insight into what's going on beneath the
+hood, so to speak. The problem with a
+lot of blood and DNA tests, however, is
+you get numbers back. you get the levels
+back of various things and you find out
+if certain things are too high or too
+low or right on target, but there are no
+directives about how to move those
+numbers in the direction that you would
+want them to go. With inside tracker,
+they have a dashboard that makes all of
+that very easy. And that dashboard takes
+your numbers and can help direct you
+towards particular lifestyle factors,
+nutrition factors, exercise,
+supplementation, etc. that can help you
+bring those numbers into the ranges that
+are right for you. If you'd like to try
+Inside Tracker, you can go to
+insidetracker.com/huberman.
+And if you do that, you'll get 25% off
+any of Inside Tracker's plans. Just use
+the code hubman at checkout. Today's
+episode is also brought to us by
+Headspace. Headspace is a meditation app
+that's backed by 25 published peerreview
+studies and has over 600,000 five-star
+reviews. I've been meditating for a very
+long time. I'm 45 years old now, almost
+46. And I started meditating when I was
+about 15 years old. The problem,
+however, is keeping up a meditation
+practice. I've experienced this myself.
+I've had periods of time where I'm
+meditating regularly and then periods of
+time where I just kind of fall off the
+rails and I'm just not doing it at all.
+There's now tons of evidence, evidence
+from neuroscience, evidence from
+psychology, evidence from areas of
+biology focused on stress and the immune
+system that a meditation practice when
+done regularly is extremely beneficial
+for mental and physical health and
+things like focus and creativity.
+However, you have to do the meditation
+practice and so if you're not doing it
+regularly, that's a serious problem. And
+if you are doing it regularly, great.
+With Headspace, I find that I can stick
+to a meditation practice very easily. In
+fact, that's why I started using it and
+that's why I continue to use it. I try
+and get a meditation practice in every
+day, but sometimes that requires that it
+be a brief meditation practice. With
+Headspace, they have a huge range of
+different meditations of different
+durations. And so, that's really helpful
+in building and maintaining these
+powerful meditation practices. If you
+want to try Headspace, you can go to
+headspace.com/special
+offer. And if you do that, you'll get a
+free one-month trial with Headspace's
+full library of meditations. This is the
+best deal offered by Headspace.
+Basically, you get access to everything
+they've got completely free for a
+one-month trial. So, if you'd like to
+try that, go to headspace.com/sp
+specialcial offer. And now for my
+discussion with Dr. Anna Lumpkkey. All
+right. Great to have you here.
+Thank you for having me. I'm excited to
+be here.
+Yeah, I have a lot of questions for you.
+I I and many listeners of this podcast
+are obsessed with dopamine. And what is
+dopamine? How does it work? We all hear
+that dopamine is this molecule
+associated with pleasure. I think the uh
+the term dopamine hits like I'm getting
+a dopamine hit from this from Instagram
+or from likes or from praise or from
+whatever is now um commonly heard.
+What is dopamine? And what are maybe
+some things about dopamine that most
+people don't know and probably that I
+don't know either.
+So dopamine is a neurotransmitter and
+neurotransmitters are those molecules
+that bridge the gap between two neurons.
+So they essentially allow one neuron,
+the presinaptic neuron to communicate
+with the postsaptic neuron. Um, dopamine
+is intimately uh associated with the
+experience of reward but also with
+movement which I think is really
+interesting because movement and reward
+are linked, right? If you think about
+you know um early humans, you had to
+move in order to go seek out the water
+or the the meat or whatever it was. Um
+and even in the most primitive
+organisms, dopamine is released when
+food is sensed in the environment. for
+example, sea elegance, a very um
+primitive worm.
+So um dopamine is this really um
+powerful important molecule in the brain
+that helps us um experience pleasure.
+It's not the only neurotransmitter
+involved in pleasure, but it's a really
+really important one. And if if you want
+to think about something that most
+people don't know about dopamine, which
+which I think is really interesting, is
+that we we are always releasing dopamine
+at a kind of tonic baseline rate. And
+it's really the deviation from that
+baseline rather than like hits of
+dopamine in a vacuum that make a
+difference. So when we experience
+pleasure, our dopamine release goes
+above baseline. And likewise, dopamine
+can go below that tonic baseline and
+then we experience a kind of pain.
+Interesting. So, is it fair to say that
+one's baseline levels of dopamine, how
+frequently we are releasing dopamine in
+the absence of some uh I don't know drug
+or food or experience just sitting being
+uh is that associated with how happy
+somebody is their kind of baseline of
+happiness or level of depression? There
+is evidence that shows that people who
+are depressed may indeed have lower
+tonic levels of dopamine. So that's a
+really reasonable thought and there is
+some evidence to suggest that that may
+be true. The other thing that we know,
+and this is, you know, really kind of
+what what the book is about, is that if
+we um expose ourselves chronically to
+substances or behaviors that repeatedly
+release large amounts of dopamine in our
+brain's reward pathway that we can
+change our tonic baseline and actually
+lower it over time as our brain tries to
+compensate for all of that dopamine,
+which is more really than we were
+designed to to experience.
+Interesting. And is would is it um the
+case that our baseline levels of
+dopamine are set by our genetics, by our
+heredity?
+Well, I think, you know, if you think
+about sort of, you know, the early
+stages of development in infancy,
+certainly that is true. you're kind of,
+you know, born with probably whatever is
+your baseline level, but obviously your
+experiences can have a huge impact on
+where your your dopamine level
+ultimately settles out.
+So, um if somebody's disposition is one
+of um constant excitement and
+anticipation or easily excited, uh these
+are I think about the kind of people
+where you say, "Hey, do you want to
+check out this new place for tacos?" And
+they're like, "Yeah, that'd be great."
+And other people are um a little more
+cynical, harder to budge like my bulldog
+Costello. Um very very stable, low
+levels of dopamine with big inflections
+in his case. Um
+is that do you think that's uh set in
+terms of um our parents and obviously
+nature and nurture interact, but is that
+is dopamine at the core of our
+temperament?
+I don't really think we know the answer
+to that. But I will say that people are
+definitely born with different
+temperaments and those temperaments do
+affect their ability to experience joy.
+Um and and you know we've known that for
+a long time and we describe that in many
+different ways. One of the ways that we
+describe that in the modern era is to
+use psychiatric nomenclature like this
+person has a dishyic temperament or you
+know this person has chronic major
+depressive disorder. Um in terms of
+looking specifically at who's vulnerable
+to addiction, um that's an interesting
+sort of mixed bag because when you look
+at uh the research on risk factors for
+addiction. So what kind of temperament
+uh of a person makes them more
+vulnerable to addiction, you see um some
+interesting findings. First you see that
+people who are more impulsive are more
+vulnerable to addiction. So what is
+impulsivity? That means having
+difficulty um putting space between the
+thought or desire to do something and
+actually doing it. And people who have
+difficulty putting a space there who are
+who have a thought to do something and
+just do it impulsively
+are people who are more vulnerable to
+addiction.
+Interesting. Could I in terms of
+impulsivity, is this something that
+relates literally to um the startle
+reflex? Like I for instance, as a uh lab
+director, I'm familiar with walking
+around my lab and um when I decide
+deciding I'm going to talk to my people.
+Of course, when they knock on my door,
+it's always like, "Wait, why am I being
+bothered right now?" Even though I love
+to talk to them, but I walk around my
+lab from time to time and some people I
+notice I'll say, "Um, do you have a
+moment?" And they'll slowly turn around
+and say, "Yeah," or no in some cases. Um
+and other people will jump the moment I
+say their name. they actually have a a
+kind of a heightened um startle reflex.
+Is that related to impulsivity or is
+what you're referring to um an attempt
+to uh withhold behavior that's very
+deliberate under very deliberate
+conditions?
+Yeah. So, I don't think that that
+startle reflex is is necessarily related
+to impulsivity. That that can be related
+to anxiety. So, people who are high
+anxiety people will tend to have more of
+a startle reflex. Impulsivity is a
+little bit different. And by the way,
+impulsivity is not always bad, right? Um
+impulsivity is is that thing where
+there's not a lot of self-editing or
+worrying about future consequences. You
+know, you have the idea to do something
+and you do it. And of course, we can
+imagine many scenarios where that's
+absolutely wonderful. um you know there
+can be a sort of uh let's say intimate
+um interactions between people where you
+wouldn't really want to be super
+inhibited about it right you would want
+to be disinhibited and and impulsive um
+there I can also like imagine like sort
+of um fightor-flight scenarios like
+battle scenarios right where where it
+would really be good to be impulsive and
+just go you know just
+where hesitation can cost you your life
+yes that's right that's right but you
+know and I think this brings up a really
+something that I've come to believe
+after 25 years of practicing psychiatry
+is that what we now conceptualize in our
+current ecosystem as mental illness are
+actually traits that in another
+ecosystem might be very advantageous.
+They're just not advantageous right now
+because of the world that we live in.
+And and I think, you know, impulsivity
+is potentially one of those, right?
+Because we live in this world that's
+sort of like you have to um constantly
+be thinking sort of rationally about the
+consequences of X, Y, or Z. And it's
+such a sensory rich environment, right,
+that we're being bombarded with all
+these opportunities, these sensory
+opportunities, and we have to constantly
+check ourselves. And so so so
+impulsivity is something that right now
+um can be a difficult trait but isn't in
+and of itself a bad thing.
+I see. Yeah.
+Yeah. And it's I I'm beginning to
+realize it's a fine line between
+spontaneity and impulsivity. Uh
+what is pleasure and how does it work at
+the biological level and um if if it
+feels right at the psychological level.
+I think we and um if you don't mind u
+painting a picture of sort of the the
+range of things that you have observed
+in your clinic or in life that people
+can become addicted to but just to start
+off really simply what is this thing
+that we call pleasure? Well, I think
+it's it's actually really hard to define
+pleasure in any kind of succinct way
+because certainly there is the seeking
+out of um a a high or a euphoria or or I
+think you know the kind of experience
+that most anybody would associate with
+the word pleasure. But but also um the
+seeking out of of those same substances
+and behaviors is often a way to escape
+pain. So, for example, when I when I
+talk to people with addiction, um
+sometimes their initial foray into using
+a drug is to get pleasure. But very
+often it's a way to escape their
+suffering, whatever their suffering may
+be. And certainly as people become
+addicted, even those who initially were
+seeking out pleasure are ultimately just
+trying to avoid the pain of withdrawal
+or the pain of the consequences of their
+drug use. So I I think it's, you know,
+very hard to actually, you know, define
+it as this unitary thing. And it's
+certainly not just getting a high. There
+are so many ways in which people sort of
+want to escape which is not the same
+thing as sort of this hydonic you know
+wanting to feel pleasure.
+So someone could decide that they want
+to go out and dance or get up and dance
+because of the pleasure of dancing. I
+can imagine that. Um
+but uh and maybe it's very difficult for
+them to stay seated when a particular
+song comes on for instance. But um
+seeking what we would call pleasure in
+order to eliminate pain. That evokes a
+different picture in my mind. That
+evokes a picture of somebody that um
+feels lost or depressed or underwhelmed.
+Um I definitely want to get into the
+precise and general description of
+addiction and what that is. But in a
+previous conversation we had, you said
+something that really rung in my mind,
+which is that many people who become
+addicted to things, let's call them
+addicts, um have this feeling that
+normal life isn't interesting enough,
+that they are seeking a supernormal
+experience and that the day-to-day
+routine um balance, which is actually in
+the title of your book, uh Dopamine
+Nation: Finding Balance in the Age of
+Indulgence, that the word balance itself
+can sometimes be a bit of a a an
+aversive term for people. And um
+I I'm struck by this idea and the reason
+I want to explore it is because so much
+of what I see online is about generating
+a lack of balance about being tilted
+forward at all times really leaning into
+life hard experiencing life you know
+living a full life. uh even the
+commencement speech given by Steve Jobs
+on this campus was really about finding
+passion digging you know that's so much
+in the narrative now um so maybe you
+could just tell us a little bit about
+your experience with this assoc
+association if it really exists between
+uh people's sense of the normaly or
+maybe even how boring life can be and
+their tendency to become addicts of some
+sort.
+Yeah. Well, I mean, I I think that life
+for humans has always been hard, but I
+think that now it's harder in
+unprecedented ways. And I think that the
+way that life is is really hard now is
+that it actually is really boring. Um,
+and the reason that it's boring is
+because all of our survival needs are
+met, right? I mean, we don't even have
+to leave our homes to meet every single
+physical need, you know, as long as
+you're of a certain level of financial
+well-being, which frankly, um, you know,
+that we talk so much about, you know,
+the the income gap, and certainly there
+is this enormous gap between rich and
+poor, but that gap is smaller than it's
+ever been in like the history of humans.
+Um even the poorest of the poor have
+more um excess income to spend on
+leisure goods than they ever have before
+in human history. Um if you look at
+leisure time for example, so people
+without a high school education have 42%
+more leisure time than people with um a
+college degree. Um, so, so what my my
+point here is that
+life is hard now in this really weird
+way in that we don't really have
+anything that we have to do. So, we're
+all forced to make stuff up, you know,
+whether it's being a scientist or being
+a doctor or being an Olympic athlete or,
+you know, climbing Mount Everest.
+And people really vary in their need for
+friction. And some people need a lot
+more than others. And if they don't have
+it, they're really, really unhappy. And
+I do think that a lot of the people that
+I see with addiction and other forms of
+mental illness are people who need more
+friction. Like they're unhappy, not
+necessarily because there's something
+wrong with their brain, but because
+their brain is not suited to this world.
+And do you think they have that sense my
+brain isn't suited to this world or they
+simply feel um a restlessness and
+they're constantly seeking stimulation?
+I think that's right. Yeah. I think it's
+it's not really knowing what's wrong
+with me. Um why am I unhappy? Um how can
+I be happier? And of course, as you talk
+about what what's so pervasive in our
+narrative now is like find your passion,
+you know, um you know, find your you
+know, whatever it is to save the world.
+And in a way that's good because it has
+people out in the world and seeking. Um
+but but in a way it can also be
+misleading in the sense that um I think
+people aren't entirely aware that that
+the world is a hard place and that and
+that life is hard and that you know like
+we're all kind of making it up. Do you
+know what I mean?
+Yeah. Well, there's a a book by Cal
+Newport. I don't know if you know Cal
+Newport's work, but you guys are um very
+symbiotic in your messages, but uh he's
+a professor of computer science at at
+Georgetown. uh yes at Georgetown and
+wrote a book some years ago really ahead
+of its time called so good they can't
+ignore you which is about not um
+meditating or uh doing much work to try
+and figure out what one's passion is by
+thinking but rather go out and acquire
+skills
+and get develop a sense of of passion
+for something by your experience of hard
+work and and getting better and feedback
+a little bit of the growth mindset thing
+of our colleague Carol Dwek but he's
+gone on to write books um deep work and
+which is all about removing yourself
+from technology and doing deep work.
+Yes. Right.
+And he's been a big proponent of the
+evils of context switching too often
+throughout the day.
+Yeah.
+For sake of productivity mostly. His new
+book is called um a world without email.
+I'm beginning to realize as I site off
+these books and your book, Dopamine
+Nation, uh finding balance in the age of
+indulgence, that um maybe the reason why
+you two don't know about one another is
+because neither of you are on social
+media. That's it. Right. And yet you're
+two of the most productive people that I
+know um including productive authors. So
+that's a discussion into itself. But I
+find this fascinating. So um let's talk
+about the pleasure pain balance and
+addiction. And I've heard you use this
+uh seessaw or balance scale um analogy
+before and I think it's a wonderful one
+uh that really for me clarified what
+addiction is at least at the mechanistic
+level.
+Yeah. So to me, one of the most
+significant findings in neuroscience in
+the last 75 years is that pleasure and
+pain are colllocated. Which means the
+same parts of the brain that process
+pleasure also process pain. And they
+work like a balance. So when we feel
+pleasure, our balance tips one way. When
+we feel pain, it tips in the opposite
+direction. And one of the overriding
+rules governing this balance is that it
+wants to stay level. So it doesn't want
+to remain tipped very long to pleasure
+or to pain. And with any deviation from
+neutrality, the brain will work very
+hard to restore a level balance or what
+scientists call homeostasis. And the way
+the brain does that is with any stimulus
+to one side, there will be a tip an
+equal and opposite amount to the other
+side.
+It's like they have principal laws of
+physics.
+Yes. Right. Right. So like I like to
+watch YouTube videos. When I watch
+YouTube videos of American Idol, you
+know, it tips to the side of pleasure.
+And then when I stop watching it, um, I
+have a comedown, right, which is a tip
+to the equal and opposite amount, um, on
+the other side. And that's that moment
+of wanting to watch one more YouTube
+video, right?
+Yeah. And I I just want to um interject
+there. So this moment of of wanting to
+watch another that is associated with
+pain. I I think is are we always aware
+of that happening? because you just
+described it in a very conscious way,
+right?
+But when I um indulge in something I
+enjoy,
+I'm usually thinking about just wanting
+more of that thing. I don't think about
+the pain. I just think about more.
+Right? So, really excellent point
+because we're mostly not aware of it and
+it's also reflexive. So, we it's not
+something that consciously happens or
+that we're aware of unless we really
+begin to pay attention. And and when we
+begin to pay attention, we really can
+become very aware of it in the moment.
+Again, it's like a falling away like
+that. You know, you're on social media
+and you know, you get a good tweet of
+something and then you can't stop
+yourself because there's this awareness,
+a latent awareness that as soon as I
+disengage from this behavior, I'm going
+to experience a a kind of a pain, right?
+falling away, a missing that feeling, a
+wanting more of it. And of course, one
+way to combat that is to do it more,
+right? And more and more and more. So, I
+think I think that is really what I want
+people to tune into and and get an
+awareness around because once you tune
+into it, you can see it a lot. And then
+when you begin to see it, you have and
+if you, you know, keep the model of the
+balance in mind, I think it it gives
+people kind of a way to imagine what
+they're experiencing on a
+neurobiological level and understand it
+and in that understanding get some
+mastery over it, which is really what
+this is all about because ultimately we
+do need to disengage, right? We can't
+live in that space all the time, right?
+we have other things we need to do and
+there are also serious consequences that
+come with trying to repeat and continue
+that experience or that feeling.
+Yeah. So if I understand this correctly,
+uh when we find something or when
+something finds us that we enjoy that
+feels pleasure, uh social media, food,
+sex,
+gambling, whatever happens to be
+we will explore the full range of these
+there's a some dopamine release when we
+engage in that behavior.
+And then what you're telling me is that
+very quickly
+Yes. And beneath my conscious awareness,
+there's a tilting back of the scale
+where pleasure is reduced by way of
+increasing pain.
+Right.
+And I've heard you say before that the
+pain mechanism
+has some competitive advantages over the
+pleasure mechanism such that it doesn't
+just bring the scale back to level. It
+actually brings pain higher than
+pleasure.
+Mhm.
+Could you tell us a little bit more
+about that? Yeah. Yeah. So, so what
+happens again? So, the the the hallmark
+of any addictive substance or behavior
+is that it releases a lot of dopamine in
+our brain's reward pathway like right
+like broccoli just doesn't release a lot
+of dopamine. Just doesn't. Right.
+I'm trying to imagine I was about to say
+maybe the and I I stopped myself because
+no broccoli is good. It can be really
+good, but broccoli is never amazing,
+right? Broccoli's never amazing.
+Honestly, we can probably find somebody
+on the planet for whom broccoli is
+amazing. And of course, if I'm starving,
+broccoli broccoli is amazing.
+Rich roll. Rich Roll is big on plants
+and he he has a good relationship to
+plants. Rich I tell us how to make
+broccoli amazing. If anyone could do it,
+it' be Rich.
+Um but but what happens right after I do
+something that is really pleasurable and
+releases a lot of dopamine is again my
+brain is going to immediately compensate
+by downregulating my own dopamine
+receptors my own dopamine transmission
+to compensate for that. Okay. And that's
+that come down or the hangover that
+after effect that moment of wanting to
+do it more. Now if I just wait for that
+feeling to pass then my dopamine will
+reeregulate itself and I'll go back to
+whatever my chronic baseline is. But if
+I don't wait, and here's really the key.
+If I keep indulging again and again and
+again, ultimately I have I have so much
+on the pain side, right, that I've
+essentially reset my brain to what we
+call like an anhidonic or lacking in joy
+type of state, which is a dopamine
+deficit state. So that's really the the
+the way in which pain can become the
+main driver is because I've indulged so
+much in these high reward behaviors or
+substances that my brain has had to
+compensate by way downregulating my own
+dopamine such that even when I'm not
+doing that drug I'm in a dopamine
+deficit state which is akin to a
+clinical depression I have anxiety
+irritability insomnia dysphoria and a
+lot of mental preoccupation with using
+again or getting the drug and so that
+that's the piece there. There's the
+single use which easily passes, but it's
+the chronic use that can then reset
+really our dopamine thresholds and then
+nothing is enjoyable,
+right? That then everything sort of
+pales in comparison to this one drug
+that I want to keep doing
+and that one drug could be a person,
+right? I mean, I I know people in my
+life that are still talking about this
+one relationship, this one person that
+was just so great despite all the
+challenges of that thing that it's
+almost like they're addicted to the
+narrative.
+Yeah.
+Uh they were maybe still are addicted to
+the person. So it could be to any number
+of things, video game, sex, gambling, a
+person, a narrative. Yeah.
+To me and because of the way you
+describe this mechanism, this pleasure
+pain balance
+that all speaks to the kind of
+generalizability of our brain circuitry.
+And this is something that fascinates me
+uh and I know it fascinates you as well,
+which is that um nature did not evolve
+20 different mechanisms for 20 different
+types of addiction. Just like anxiety is
+a couple of core sets of hormones and
+neurotransmitters and pathways and one
+person is triggered by social
+interactions, another person is
+triggered by uh spiders, but the
+underlying response is identical. It
+sounds like with addiction as well,
+there there may be some nuance, but that
+there sort of a core set of processes.
+So, it doesn't really matter if it's
+gambling or video games or sex or a
+narrative about a previous lover or
+partner, whatever.
+It's the same addictive process
+underneath that. Is that correct?
+Yes. Exactly. And that's where this
+whole idea of cross addiction comes in.
+So once you've been addicted to a
+substance, severely addicted, that makes
+you more vulnerable to addiction to any
+substance.
+And when you say substance, does the
+same is what you just said also true for
+behaviors?
+Yes. So when I when I use the word drug,
+I'm talking about substances and
+behaviors really. And I'm talking about
+behaviors like gambling, sex, um you
+know, gaming, porn, absolutely shocking
+work.
+You've accused me, I'll just for the
+record,
+uh Anna, Dr. Love Gay has accused me,
+not accused me, has um diagnosed me
+outside the clinic uh in a playful way
+of being work addicted. You're probably
+right. I The first thoughts I have when
+I wake up are typically about work,
+certainly within 50 milliseconds or so
+of waking. And um probably the last
+thoughts I have I would hope are not
+about work, but yeah, I work constantly.
+I I don't I do other things, but I have
+to actively turn that off.
+Yes, that's exactly right. And you're
+certainly not alone in that. And of
+course
+at Stanford. No,
+I mean here in Silicon Valley, right,
+it's highly rewarded, right? So that
+kind of that kind of embedded in the
+culture. Absolutely. Yeah. And and
+there's this other city, I think it's
+called New York, where they also work a
+lot out here and it's heavily rewarded.
+Um,
+I once said, and I'm sure that I'm not
+the first person to say it, but um, I
+was thinking about addiction and I was
+thinking about the underlying circuits
+and it and I posted something to the uh,
+to the to social media which said that
+addiction is a progressive narrowing of
+the things that bring you pleasure. That
+was the way that I kind of crystallized
+the literature in my mind. And then we
+met and you and you of course came and
+uh gave these amazing lectures in the
+neuro anatomy course for the medical
+students and and the rest is history.
+But I uh I
+tossed out a kind of mirroring statement
+for that as well which was a bit um
+overstepping I admit which I said
+addiction is a progressive narrowing of
+the things that bring you pleasure. And
+I said, dare I say, enlightenment is a
+progressive expansion of the things that
+bring you pleasure. Not that anybody
+knows what enlightenment is, but it was
+my attempt to take a little bit of a jab
+at the fact that nobody knows. And so,
+why not why wouldn't I throw in a
+biological explanation just to just kind
+of sample the waters?
+Um, and people had varying levels of
+response. But I would, the reason I
+bring that up is that I would imagine
+that being able to derive pleasure from
+many things would be a wonderful
+attribute. We know people like this that
+um can experience pleasure in little
+things and in big events. Uh not just,
+you know, the big milestones of life,
+but also the the subtle, you know, as
+the like the the yogis would say, the
+subtle ripples of life. Uh I if such an
+ability exists, would do you think that
+that reflects a healthfully tuned
+dopamine system? One that can engage and
+enjoy but then disengage. Is that what
+we should be seeking? And and to to
+underscore I know nothing about
+enlightenment meditation or the or any
+of it. I just I use these as
+opportunities to explore.
+Yeah. So it's a great question. Um I
+mean and I I understand the question as
+so where what should we be striving for
+right where where should we settle out
+and you know in my book I really hold
+out people in recovery from severe
+addiction as sort of modern-day prophets
+for the rest of us because I do think
+that people who have been addicted and
+then go get into recovery do have a hard
+one wisdom um that we can all benefit
+from and and the wisdom
+I guess you know to distill it down I
+mean it's it's many things but in terms
+of
+you know dopamine the wisdom is there
+are adaptive ways to get your dopamine
+and there are less than adaptive ways
+and in general um you could describe the
+adaptive ways as not too potent so not
+tipping that balance
+too hard or too fast to the side of
+pleasure.
+So, does that mean never allowing myself
+to be absolutely in complete bliss or
+does it mean not allowing myself to stay
+in that state too long?
+The latter. I think the latter. So, and
+then that gets to temperament. So, I'm
+going to get that to a second. So, so in
+general, what we want is some kind of
+flexibility in that balance and the
+ability to re easily reassert
+homeostasis. We don't want to break our
+balance, which is possible if we
+overindulge for enough period of time
+and end up with a balance tipped to the
+side of pain. This dopamine deficit
+state we've been talking about. We want
+to we want a flexible, resilient
+balance, right? Which can be sensitive
+to things going on in the environment,
+which can experience pleasure and
+approach, which can experience pain and
+recoil, right? This is all adaptive and
+healthy and necessary and good. We would
+never want a balance that doesn't tilt.
+that would be a disaster. We wouldn't be
+human.
+Um, and we wouldn't want that. It would
+be really, really boring.
+On the other hand, what people in
+recovery from addiction talk about is to
+some extent having to learn to live with
+things being a little boring a lot of
+the time, right? So, trying to avoid
+some of this intensity and thrillseeking
+and escapism that really is at the core
+of addictive tendencies. Sorry to
+interrupt, but when you say boring, um,
+can we add stressful and boring?
+Yes.
+Because there are days where I'm not ex
+I have to I'm one of these people have
+to remind myself to have fun because I
+sort of forgot what the term means
+because I've I like to think that I
+experience a lot of pleasure in little
+things, but I I'm pretty hard driving
+guy. I like goals and big milestones,
+all that stuff. Anyway, um
+the point being that many days I'm not
+bored thinking, "Ah, there's nothing to
+do." But I am kind of overwhelmed by the
+number of things that are really not
+pleasureful that I have to do,
+right?
+I won't mention what they are cuz I I
+don't want my I don't want my colleagues
+to be like, "So that's why you don't
+respond to emails." Um, no, just your
+emails. Um, not yours, Anna, but theirs.
+Um, in any event, um, so anxiety and
+boredom can hang out together, right? Am
+I correct in
+Oh, for sure. I mean, actually, boredom
+is highly anxietyprovoking.
+Okay. That's good to know cuz I think
+people hear boredom and they think
+like, "Oh, there's nothing to do here.
+There's not." It's I feel like we have a
+ton to do. We just don't really want to
+do it
+as opposed to something that we're
+excited to do.
+Right. Okay. So, so this gets to sort of
+some of the core things also we were
+talking about earlier about finding your
+passion. So, I'm going to try to link it
+all together. Um, but but basically is
+boredom. First of all, boredom is a rare
+experience for modern humans because
+we're constantly distracting ourselves
+from the present moment and we have an
+infinite number of ways to do that,
+right? Um, but boredom is really, I
+think, an important and necessary
+experience,
+but it is scary because when you allow
+yourself to be bored, um, let's say you
+were had that list of all the things you
+hate to do, but you actually got them
+all done. Imagine that. and you got your
+forthcoming book done and you did all
+your interviews and
+it could happen. Lightning could
+and you walked your dog and you cleaned
+your house and you went shopping.
+Imagine that for a moment. You would be
+sitting in your house and my guess is
+you would be terrified
+because wow, what am I supposed to do
+now? Right? There's nothing I really
+have to do. And that is really really
+scary. that can feel like freef fall and
+yet that's really an important and good
+experience to have and I think that is
+an experience out of which we can have a
+lot of creative um initiative but also
+really consider our priorities and
+values okay here I am on planet earth
+what the hehaw am I going to do with my
+life what do I really care about how do
+I really want to spend my time when I'm
+not distracting myself you know in order
+to to spend it and the you know Then
+this gets back to our conversation a
+little bit earlier about finding your
+passion. So I think that one of the big
+problems now that's very misguided about
+this idea of finding your passion. It's
+almost as if people are looking to fit
+the key into the lock of the thing that
+was meant for them to do
+and then everything will feel like a
+natural progression,
+right? And then everything will be
+wonderful.
+I can attest to the fact that is not how
+it works in any endeavor,
+right? and that you'll have all this
+great success or you know but and here
+here's where I really think the answer
+lies and I really really believe this.
+Stop looking for your passion and
+instead look around right where you are.
+Stop distracting yourself. Look around
+right where you are and see what needs
+to be done. So, not what do I want to
+do, but what is the work that needs to
+be done? And more importantly, it
+doesn't have to be some grandiose work
+like does the garbage need to be taken
+out, right? Is there some garbage on
+your neighbor's lawn that someone threw
+there that you could actually bend over
+and pick up and put into the garbage
+can? Look around you. There is so much
+work that needs to be done that nobody
+wants to do. That is really, really
+important. And if we all did that, I
+really think the world would be a much
+better place. And this is what people
+who have severe addiction who get into
+recovery realize. They're like, it's not
+about me and my will and what I'm going
+to will in my life or in the world. It's
+about looking around what needs to be
+done. What is the work that I am called
+to do in this moment? which also is
+incredibly freeing because I don't have
+to search for the perfect thing. There's
+a lot of burden now on young people that
+they have to find that perfect thing and
+until they found that perfect thing,
+they're going to be miserable. You don't
+have to do that. Look at the life you
+were given. Look at the people around
+you. Look at the jobs that present
+themselves to you and do that job simply
+and honorably, one day at a time in a
+with a kind of humility. I think this is
+really what what's so striking to me
+about the wisdom of people in recovery.
+There's this incredible humility that
+comes out of that experience. You feel
+so broken, so ashamed, but you pick
+yourself up one day at a time, and you
+build a life that's around what can I do
+right in this moment that might benefit
+another person and thereby benefit me.
+Yeah, it's um a really important point
+and um and if you're willing, I'd like
+to actually stay on this issue of of
+passion. Um because uh I think the
+dopamine systems, if I understand them
+correctly,
+the dopamine systems merge with this
+work that you're referring to, this
+immediacy of things calling to us, like
+taking out the trash, which sounds
+frankly really boring. Um, to be honest,
+I I hate taking out the trash, but I do
+it
+cuz I like a clean home and I like a
+home that the home that smells good.
+Um, or at least doesn't smell bad. Uh,
+so we do these things and um, not that
+we want to offer some larger carrot as a
+consequence of doing those things. But
+if I understand correctly, what you're
+saying is in the act of looking at one's
+immediate environment, acting on that
+immediate environment, we cultivate a
+relationship to these circuits in our
+brain about action and reward that, at
+least to my mind, spin the range of
+small things being rewarding and then
+lead us to bigger things being
+rewarding. It's not like all we're going
+to do is take out trash and and tend to
+house. we eventually will venture out
+and we eventually will find careers and
+and work on those. But if I understand
+correctly, you're talking about getting
+into a sort of functional or adaptive
+action step and it's the action step
+that these days we tend to overlook
+because most of our mindset is in things
+that are truly in outside of the our
+immediate reality. Do I have that
+correct?
+Yeah, that was beautifully said and I
+would just add to that. I see a lot of
+young people who, for example, spend
+most of their waking hours playing video
+games and they come to me and they say,
+"I'm anxious and depressed. I'm majoring
+in computer science. I hate it. I
+thought I would like it. You know, if I
+could only find that thing that I was
+really meant to do, my life would be
+better." And my first intervention for
+the many, many people like that that I
+see in clinical care is you have it
+backwards. I don't say it quite like
+that. You were waiting for that thing to
+pull you out of the video game world and
+you're never going to find it as long as
+you're playing video games because video
+games are so powerfully dopamineeric
+that you have this distorted sense of
+really pleasure and pain and you you
+will not be able to find that thing that
+you enjoy. And so, of course, the
+intervention is abstain from video
+games, reset your reward pathways, start
+with a level balance, and what
+invariably happens, and I've just seen
+it over 20 years so many times, I've
+become really a a believer in this. Um,
+all of a sudden, it's like, oh, wow, my
+computer science class is interesting
+this quarter. It's like, okay, you know,
+you you have a receptivity then to
+experiencing pleasure and reward in a
+way you just don't have when you're
+bombarding your reward pathways with
+these high dopamine drugs.
+Very interesting. Um, and just to
+underscore this notion that tending to
+the immediate things can lead to super
+performance. Um, uh, I may have
+mentioned it earlier this episode, um,
+but if I didn't, I'll mention it now,
+which is I have the the great privilege
+of having some close friends that were
+in the SEAL teams and doing some work
+with those communities. And it's a
+remarkable community for reasons that I
+think most people don't understand.
+People think they see the images
+carrying logs down the beach and all the
+blowing stuff, all the all the stuff
+that's that's fun for guys like that,
+but uh, all of the guys I know who are
+in the SEAL teams have this sense of
+duty about immediate things. M
+um and not just holding the door and
+doing the helping with the dishes and
+moving things around. They are
+constantly scanning their environment
+for what can be done.
+They essentially conquer every
+environment they're in. They are also
+some of the the most competitive human
+beings, but they do it in the world. And
+they do it unless they're they're in the
+act of war fighting, which is their
+their real job. Uh they do it in every
+environment in a very benevolent way.
+And it's a remarkable thing because it I
+think it's what is part of what they're
+selected for.
+And um and you know that there's a range
+there, but I think when we hear about
+tending to the immediate things
+or this phrase uh you know how you do
+one thing is how you do anything. That's
+a tricky one for me because there are
+certain things I just don't do well. Um
+but but should we always be trying? I I
+think that the tending to setting the
+horizon in closely um and tending to
+things in one's immediate environment I
+think it is very powerful and translates
+because again I think the nervous system
+it performs algorithms. It has action
+steps. The brain doesn't
+evolve to do one thing. It evolves to be
+able to use the same approach to doing
+lots of different things. Yes.
+Um
+I I just want to add so even beyond that
+cuz that that totally resonates for me
+and is very consistent with people in
+recovery from addiction who learn to
+take it one day at a time which is one
+of the you know standard lingo from
+Alcoholics Anonymous and other 12step
+groups. But but I think also as you say
+you know our brain is really wired for
+the 24hour period. We're not very good
+at sort of the you know 10 year 20 I
+mean we have these huge frontal loes and
+yes we're great planners and we can but
+if we live too much in that space we can
+really get very anxious and depressed
+and lost and either catastrophize or get
+grandiose but if you can chunk it down
+to a day what people in recovery talk
+about is how if I can just do today
+right then I will get a chain of days
+that seem ins significant in their
+individual units, but after six months
+or a year or two years of those good
+days, I've got two very good years,
+right? And I look back, it's like, oh,
+wow. Well, I I guess I I did all that.
+But I think that's really, you know, one
+of the keys is is really taking it one
+day at a time, which which your seals
+and also this connecting with the
+environment, right? So, being awake and
+alert to your environment and connecting
+with your environment, not trying to
+escape it. And of course, escapism is
+what we all want and desire, that
+experience of non-being. And we get it
+from the internet or from drugs or
+whatever it is. But it is it's the booby
+prize. We because ultimately it takes
+you further and further away from your
+immediate environment, which is where we
+really have to connect to get that sense
+of groundedness and authenticity and
+like of being in our own lives. Well, I
+think the unit of the day is something
+that comes up again and again of in my
+discussions with colleagues who are
+extremely uh successful and who also
+have balanced lives, right?
+Uh this actually came up in the
+discussion with Carl Dyeroth who is also
+a successful scientist and clinician and
+and you know manages a family etc. So
+the unit of the day I think is
+fundamental and those stack up as you
+mentioned. So along those lines, I've
+heard you say that in order to reset the
+dopamine system, essentially in order to
+break an addictive pattern, to become
+unaddicted,
+30 days of zero interaction with that
+substance, that person, etc. Is that
+correct?
+Yeah. and and 30 days is in my clinical
+experience the average amount of of time
+it takes for the brain to reset reward
+pathways for dopamine transmission to
+regenerate itself. There's also a little
+bit of science that suggests that that's
+true. Some imaging studies showing that
+um our brains are still in a dopamine
+deficit state 2 weeks um after we've
+been using our drug. And then a a study
+by Shucket and Brown which took a group
+of um depressed men who also were
+addicted to alcohol put them in a
+hospital where the they had received no
+treatment for depression but they had no
+no access to alcohol in that time and
+after 4 weeks 80% of them no longer met
+criteria for major depression. So again,
+this idea that by depriving ourselves of
+this high dopamine, high reward
+substance or behavior, we allow our
+brains to regenerate its own dopamine to
+for the balance to really equilibrate
+and then we're in a place where we can
+sort of enjoy other things.
+So that progressive narrowing
+of what brings one pleasure eventually
+expands. So I'd like to um dissect out
+that 30 days a little more finely. Um,
+and I also want to address how does one
+stop doing something for 30 days if the
+thing is a thought.
+So, we'll kind of put that on the shelf
+for a moment.
+So, days 1 through 10
+I would imagine will be very
+uncomfortable. Yes,
+they're going to suck basically to be
+quite honest because what if the way you
+describe this pleasure pain balance
+to my mind says that if you remove what
+little pleasure one is getting or a lot
+of pleasure from engaging in some
+behavior
+that's gone the pain system is really
+ramped up and nothing is making me feel
+good. I'll just use myself as an
+example. I'm not in recovery,
+but you know that 10 days is going to be
+miserable,
+right?
+Anxiety, trouble sleeping,
+um physical agitation to the point where
+you know um maybe impulsive, angry,
+should should one expect all of that?
+Should the family members of people
+expect all of that?
+Yeah. So, what I say to patients, and
+it's a really important piece of this
+intervention, is that you will feel
+worse before you feel better.
+For how long? This is probably the first
+question they ask, right?
+And and I say usually in my clinical
+experience, you'll feel worse for 2
+weeks. But if you can make it through
+those first two weeks, the sun will
+start to come out in week three. And by
+week four, most people are feeling a
+whole lot better than they were before
+they stopped using their sub substance.
+So, um yeah, you have to it's it's a
+hard thing. Like you have to sign up for
+it. And I will say obviously there are
+people with addictions that are so
+severe that as long as they have access
+to their drug or behavior, they're not
+able to stop themselves. And that's why
+we have, you know, higher levels of care
+or residential treatment. So this is not
+going to be for everybody, this
+intervention. But it's amazing how many
+people with really severe addictions to
+things like heroin, cocaine, you know,
+very severe pornography addictions. I
+posit this and I do it as an experiment.
+And I said, you know, let let's try this
+experiment. I'm always amazed, number
+one, how many of them are willing, and
+number two, how many of them are
+actually able to do it. They are able to
+do it. And and so that little nudge is
+sort of just what they need. And the
+carrot is,
+you know, there's a better life out
+there for you. And you'll be able to
+taste it in a month. You really will be
+able to begin to see that you can feel
+better and that there's another way.
+So, the way you describe it, um, seems
+like it's hard,
+but it's doable for most people, not
+everybody,
+right?
+And we'll return to the that category of
+people who can't do that on their own.
+Um,
+well then days 21 through 30,
+uh, people are feeling better. The sun
+is starting to come out as you
+mentioned. They which translates in the
+narrative we've created here in support
+by biology that dopamine is starting to
+be released in response to the taste of
+a really good cup of coffee for
+instance.
+Exactly.
+Whereas before it was only to
+insert you know addictive behavior.
+Whichever it is.
+Of course coffee can be addictive too
+but but we'll leave that aside.
+Yeah. I feel like coffee has a kind of
+um consumption limiting mechanism built
+in where at some point you just can't
+ingest anymore. Yeah. Um but maybe
+that's wrong. Sorry to give lift to the
+caffeine addicts out there as I as I
+clutch my my mug. Um so days 21 through
+30. Um I've seen a lot of people go
+through addiction and addiction
+treatment. I've spent a lot of time in
+those places actually um looking at it,
+researching, I've got friends in that
+community. I I'm close with that
+community.
+One thing I've seen over and over again,
+sadly, often in the same individuals, is
+they get sober from whatever they're
+doing great. These are people with
+families. These are people that you
+discard your normal image of an addict
+and insert the most normal typical
+whatever healthy person you can imagine
+because a lot of these people you
+wouldn't know were addicts.
+And then all of a sudden you get this
+call. So and so's back in jail. So and
+so's wife is going to leave him because
+he drank two bottles of of wine and took
+a Xanax at 7:00 a.m. crashed his truck
+into a pole. has got two beautiful kids.
+Like, how did this happen again? To the
+point where by the fourth and fifth
+time, people are just done. I mean,
+maybe people, you might be able to
+detect the frustration in my voice. I'm
+dealing with this with somebody that's
+like, I I don't even know that I want to
+help this time.
+It's been so many times to the point
+where I'm starting to wonder, is this
+person just an addict? This is just kind
+of what they do and who they are. And I
+and you never want to give up on people,
+but um and I'm hanging in there for
+them, but I will say that um many people
+have given up on them. And so what I'd
+like to talk about in this context is
+what sorts of things help other people
+that we know that are addicted. What
+really helps,
+right? Not uh not what could help, but
+what really helps? And are there certain
+people for whom it's hopeless? I mean, I
+don't like to hold the conversation that
+way, but I wouldn't be close to the real
+life data if if I didn't ask, is it is
+it hopeless? Are there people who just
+will not be able to quit their substance
+use or their addictive behavior despite,
+I have to assume, really wanting to.
+Yeah.
+Yeah. So, there there are people who
+will die of their disease of addiction,
+you know, and I think conceptualizing it
+as a disease is a helpful frame. There
+are other frames that we could use, but
+I do think given the brain physiologic
+changes that occur with sustained heavy
+drug use and what we know happens to the
+brain, it it is really reasonable to
+think of it as a brain disease. And and
+for me, the real window of let's say
+being able to access my compassion
+around people who are repeat relapsers
+even when their life is so much better
+when they're in Yeah. It's like it's
+like a no-brainer, right? um is is to
+conceptualize this balance and the
+dopamine deficit state and a balance
+tilt tilted to the side of pain and to
+imagine that for some people after a
+month or 6 months or maybe even 6 years
+their balance is still tipped to the
+side of pain that on some level that
+balance has lost its resilience and its
+ability to restore homeostasis.
+It's almost like the hinge on that
+balance is messed up.
+Exactly. And so I mean for for someone
+who's never experienced addiction like
+yourself, maybe one one way to
+conceptualize it is
+Well, I didn't say that.
+Okay.
+No, I was not to be clear, I would I was
+not referring to myself, but I I I in
+this example I was given, I if I were, I
+would I would um come clean. I I would
+reveal that. Um but I I think that
+especially after hearing some of your
+lectures and descriptions of the range
+of things that are addictive, I think um
+I I've been fortunate. I don't have a
+propensity for drugs or alcohol, right?
+I'm I'm lucky in that way that
+frankly if they remove all the alcohol
+from the planet, I'll just be relieved
+because no one will offer it to me
+anymore.
+So, don't send me any alcohol. It won't
+go to me. Um but uh but I don't have
+that um I like to think I have the
+compassion. Um but I don't have that uh
+empathy for
+you know taking a really good situation
+and what from the outside looks to be
+throwing it in the trash.
+Yeah. So okay. So, so let let me and
+this is really I think important because
+I I also had to come to an understanding
+of this and I feel that I have in my 20
+years of seeing these patients and of
+course addiction is a spectrum disease,
+right? And so you've got the severe end
+of things. Um imagine that you had an
+itch somewhere on your body, okay? And
+it was I mean we've all had that like
+you know whatever the source it was
+super super itchy. You can go for uh you
+know if you really focus you could go
+for a pretty good amount of time not
+scratching it but the moment you stopped
+focusing on not scratching it you would
+scratch it and maybe you do it while you
+were asleep right that and that is what
+happens to people with severe addiction
+that balance is essentially broken
+homeostasis does not get restored
+despite sustained abstinence they're
+living with that constant spectre of
+that pull. It never goes away. So let me
+say there are lots of people with
+addiction for whom that does go away and
+it goes away at 4 weeks for many of
+them. But in severe cases that's always
+there and it's lingering and it's the
+moment when they're not focusing on not
+using. It's like a reflex. They fall
+back into it. It's not purposeful. It's
+not because they want to get high. It's
+not because they value using drugs more
+than they do their family. none of that.
+It's that really they they they
+cannot not do it when given the
+opportunity and that moment when they're
+not thinking about it. Does that make
+sense?
+That's a great description. And actually
+in that description, I can feel a bit of
+empathy because the way you describe
+scratching an itch in your sleep.
+Yeah.
+You know, I've I've done that with
+mosquito bites in summer. You're
+scratching. You're like, you wake up
+scratching that that that mosquito bite.
+And I also have to admit that I've
+experienced not feeling like I want to
+pick up my phone because it's so
+rewarding, but just finding myself doing
+it.
+Yes, of course.
+Like I'm not going to use this thing.
+I'm not going to use this thing. And
+then and then just finding myself doing
+like what am I doing here?
+Sort of the how did I get back here
+again?
+And I I know enough about brain function
+to understand that we have
+circuits that generate deliberate
+behavior and we have circuits that
+generate reflexive behavior. And one of
+the goals of the nervous system is to
+make the deliberate stuff reflexive so
+you don't have to make the decision
+because decision- making is a very
+costly thing to do. Exactly. Decision
+making of any kind.
+Right. Right.
+So that does really help um
+the I I want to just try and weave
+together this um this dopamine puzzle.
+However, because if by week, let's so
+first phase of this uh 30 or 40 day um
+detox, it's like a dopamine fast. Right.
+Right. Okay.
+First 10 days are miserable. Middle 10
+days, the clouds are out. There may be
+some shards of sunlight coming through
+and then all of a sudden sun starts to
+come out. It gets brighter and brighter.
+Why is it then that people will relapse
+not just after getting fired from a job
+or their spouse leaving them, but when
+things are going really well? Is it this
+unconscious mechanism? Cuz I've seen
+this before is uh they have a great win.
+I have a friend who's a
+really impressive creative um I don't
+want to reveal any more than that, but
+uh and relapsed upon getting another
+really terrific opportunity to create
+for the entire world. And I was like,
+how can that happen? But now I'm
+beginning to wonder, was it the dopamine
+associated with that win that opened the
+spigot on this dopamine system?
+Because um it happened in a phase of of
+a really great stretch of life.
+Yeah. Right. Yeah. So you you raised
+that great point about triggers, right?
+And triggers are things that make us
+want to go back to using our drug. And
+the key thing about triggers, whatever
+they are, is they also release a little
+bit of dopamine, right? So just thinking
+about um whatever the trigger is that we
+associate with drug use or just thinking
+about drug use can already release this
+anticipatory dopamine, this little mini
+spike. But here's the part that I think
+is really fascinating. That mini spike
+is followed by a mini deficit state. So
+it goes up and then it doesn't go back
+down to baseline. It goes below baseline
+tonic levels. And that's craving, right?
+So that anticipation
+is immediately followed by wanting the
+drug. And it's that dopamine deficit
+state that drives the motivation to go
+and get the drug. So many people talk
+about dopamine is not really about
+pleasure but about wanting and about
+motivation. And so it is that deficit
+state that then drives the locomotion to
+get it. And earlier your description of
+dopamine being involved in the desire
+for more, giving the sense of reward,
+but also movement.
+I have to assume that those things are
+braided together in our nervous system
+for the specific intention of when you
+feel something
+good, then you feel the pain or maybe
+you don't notice it and then the next
+thing you know, you're pursuing more of
+the thing that
+and I love the way you use the word
+braided together. That's beautiful. And
+let me also just say something that I
+find also fascinating in my work with
+patients and I see this all the time.
+There are people for whom bad life
+experiences, loss, you know, in any
+form, stress in many different forms,
+that's a trigger. But there are
+absolutely people for whom the trigger
+is things going well. And the things
+going well can be like the reward of the
+things going well. But very often what
+it is is the removal of the
+hypervigilant state that's required to
+keep their use in check. So, it's this
+sense of I want to celebrate, you know,
+or I want to this reward happened. I
+want to put more reward on there. And
+it's really really fascinating because
+when people come to that realization
+about themselves that they're most
+vulnerable when things are going well,
+um that's really a valuable insight
+because then they can put some, you
+know, things in place or barriers in
+place or go to more meetings or whatever
+it is that they do, you know, to protect
+themselves.
+Along those lines, I have a friend uh 40
+years sober, was a severe drug and
+alcohol addict from a very young age, a
+really impressive person, does a lot of
+important work in the um kind of at risk
+youth community out in Hawaii. And he
+said something to me. He said, uh, as
+former addicts often do, they got these
+great sayings. Um, but I think it fits
+very well with what you're describing.
+He said, you know, no matter how far you
+drive, you're always the same distance
+from the ditch. And I and and I said,
+"Well, that's kind of depressing." And
+he said, "No, that's actually what gives
+me peace."
+Yeah.
+Because what would happen is for so many
+years of relapsing and relapsing,
+getting recovering and relapsing,
+he felt like it was hopeless.
+And then somehow conceptualizing that
+the vigilance can never go away.
+Instead of making him feel burdened,
+yeah,
+it made him feel relieved. So, I often
+think about that that statement, you
+know, no matter how far you drive,
+you're always the same distance from the
+ditch. Because in my mind, I
+conceptualize that as gosh, that's a
+that's a tough way to drive down the
+road. But actually, on a road where you
+know where the ditch is and where you
+know where the lane lines are, it's
+actually a pretty nice drive. It's when
+you don't know where the shoulder is
+that you constantly have to be looking
+around. So there's this we're we're
+speaking now in in analogies and and
+imagery uh and science. But I one of the
+things I find so incredible about this
+community of 12step and there are a
+variety of them are the um the
+communities that they create for
+themselves um and some of these things
+which I do believe link back to really
+core biological mechanisms.
+Yes. Yes.
+I do want to ask about those
+communities. Uh I have a question which
+might be a little bit um controversial
+uh for
+which is
+is it possible that people who were
+addicted to drugs or alcohol or some
+gambling or some other behavior get
+addicted to the addiction community?
+Because one thing that I think I observe
+over and over is that there's some
+circuit in the brain of human beings
+that has to tell you about the dream
+they had the night before for whatever
+reason.
+Um, there's another circuit that leads
+people to uh wake you up if they
+themselves can't sleep. I don't know
+what circuit is. I'm being physicious
+here. But there does seem to also be a
+circuit in the brain of addicts to
+discuss
+and want to
+kind of talk about their recovery a lot.
+And I mention this not to poke at them,
+but rather the opposite because I think
+that one thing that is challenging, at
+least for me and having friends that
+that have a propensity for drug or
+alcohol addiction, not all of them, but
+certainly some of them is when they're
+talking about their recovery, I feel
+like it's all they talk about. this
+meeting, that meeting, that meeting. Um,
+how are we? So, what I'm really asking
+here is, um, is that some can we become
+addicted to sobriety,
+right? So, this is a great question and
+it links into some of the other things
+we've been talking about having to do
+with where do we settle settle out, you
+know, what is the way to live between
+pleasure and pain? And I implied earlier
+that ultimately we want a resilient
+balance that's sensitive to pleasure and
+pain, but that can easily restore
+homeostasis after we indulge, even when
+we indulge greatly. Um, but the truth of
+the matter is that people with severe
+addiction, I believe, temperamentally
+want those extremes and they're wired
+for that kind of intensity that is more
+than just these slight adjustments
+around the fulcrum, right? It's like
+they want the big highs and the big
+lows.
+They'll say, "Great meeting." They're
+like, "That was such an amazing
+meeting." Or they find a group. They
+find a group in a location.
+Like we see I this is almost an inside
+joke in those communities. Again, I'm
+not reporting. I'm not talking about a
+friend in quotes. This isn't me
+reporting. Well, they'll um they'll talk
+about how attractive people are at a
+given meeting or how how bonded they
+feel to people at a given meeting that
+the meetings themselves become their own
+form of dopamine.
+Yes. Yes. And and again, I'm not being
+disparaging. I just I I want to
+understand this,
+right? So, yes. So, so a lot of times
+patients will say to me, "Oh, you know,
+I don't want to go to AA. It's a cult."
+And my response to that is
+because it's a cult is exactly why it
+works. Okay? Because yes, it is much
+better for you to be addicted to AA and
+to recovery than almost any other
+addiction I could think of. And we know
+from Rob Malanka's work who's here at
+Stanford that oxytocin um you know is
+the hormone that's involved in human
+pair bonding and relationships and love
+and it directly links to dopamine
+neurons and causes the release of
+dopamine. So yes, when we connect with
+other humans, especially in a kind of
+transcendent spiritual way, that's a
+huge dopamine hit and it does replace
+the dopamine that people get from drugs.
+And for people who have this uh
+addiction temperament, they need it on a
+more intense level. They're not going to
+be generally satisfied with kind of, you
+know, an a sort of acquaintance ship,
+right? They they they want that
+intensity of the intimacy that you get
+with people when you're cathartically
+exposing, you know, warts and all. So,
+yes, people can get addicted to recovery
+and good for them. go for it. You know,
+and of course, this can be disruptive
+for friendships and and relationships
+where the one person is not in recovery,
+like you're going to so many meetings,
+you're always talking about recovery,
+but you know what? Much better than them
+being intoxicated, right? I mean, so
+although you may tire of your friends
+talking about their their, you know,
+meetings all the time, I'm sure you
+would rather have them do that than
+than, you know, be in their addiction.
+So,
+absolutely. And um this is now the
+second time you've done this during this
+discussion. But now I have empathy
+because the way you describe their
+enthusiasm about meetings. Yes. Is
+probably the way that people feel about
+me and your work
+and my in neuroscience. I mean I've been
+getting up in front of the class since I
+was 8 years old and talking about things
+I read over the weekend. Now I just
+happen to have this thing called a
+podcast. I've been doing it since I was
+little and it annoys a lot of people,
+right? I've learned to suppress it a
+little bit. Some people like it, but I
+I'm poking fun at myself just to say
+that I now can uh understand that the
+way I feel about their reports about yet
+another amazing meeting or
+and or for this is a different form of
+this, but there are some people for
+which they just love intense
+experiences. They're always like trying
+to pull me off to Bali because they're
+talking about how sensual it is all the
+time. I'm sure Bali is wonderful, but
+there's this kind of ratcheting up. It's
+like seeking Burning Man all year long.
+I've never been to Burning Man. No
+desire to go to Burning Man.
+Um,
+but inside of academia, I mean, if I
+were to just turn the mirror at myself,
+inside of academia or here in Silicon
+Valley, work and the pursuit of more
+success, even if money is kind of
+divorced from that, sometimes it is,
+sometimes it isn't, academic work is,
+you know, for sake of pursuit of
+knowledge. It sounds to me like the same
+mechanism. In fact, it feels to me very
+much like the the the same mechanism.
+So, Andrew, here's what I love about
+you. First of all, you're willing to
+bring your own flaws and foibless to
+this conversation.
+They're everywhere.
+Well, you know what? It's wonderful. And
+then you're really open and curious and
+wanting to understand because I can't
+tell you how many people I have met who
+really see addiction as some kind of
+otherness. But the truth is, we're all
+wired for addiction. And if you're not
+addicted yet, it's it's just it's right
+around the corner. Do you know what I
+mean? Especially with the incredible
+paniply of new drugs and behaviors that
+are out there. So, I love that you're
+willing to take a moment and really try
+to understand this because it is it is
+we can all relate and you're relating it
+to your essentially your work addiction
+is right and and apt. you just happen to
+be addicted to something that is really
+socially rewarded. You know, you figured
+that out at an early age. Oh, when I do
+X, Y, and Z, all these people go, "Look
+at that smart kid." Or whatever it is,
+you know?
+Well, for me, it made me feel safe.
+Okay.
+I felt like um
+yeah, I just felt like this. And I pause
+there cuz it's like it's like peace. I'm
+like, I can relax for a moment.
+When you're talking about neuroscience,
+no. or just when I'm when I've when I
+feel like I'm on the right path
+and I'm on to something or if I see
+something that I'm excited about,
+I'm like I feel um filled with it must
+be dopamine. I feel flooded with
+pleasure literally from head to toe
+and then my next thought is more.
+So true. You're you're really you're a
+true addict. you are. You are, but you
+just got really you really got lucky
+with the fact that that what you know
+what you're drawn to
+is is adaptive essentially, you know. Um
+and and then your challenge is going to
+be that your life doesn't get too out of
+balance in the sense that your 24/7 work
+and you don't stop and do some other
+things or think of other
+and my life and my life admittedly is
+somewhat asymmetric. I mean it has other
+components of physical health etc but it
+is um somewhat asymmetric. Um, which is
+why I got a dog, although I talk about
+him an awful lot. So, um,
+but the dog is good because that draws
+you out of yourself and a little bit
+away from the work. But again, you know,
+I think the key here is for people who
+feel like they don't they've never
+experienced addiction or they don't know
+anybody with addiction or if they do,
+they don't get it. Just think of that
+one thing that is the most important
+thing in your life that you do that
+gives you pleasure and meaning and
+purpose. And then imagine if you
+couldn't do it.
+Oh yeah, let's not talk about that.
+Right.
+Well, I appreciate the the feedback and
+uh you can send me a bill at the at the
+end. Um
+what is the most ridiculous sounding
+addiction that you've ever witnessed
+that was actually a real addiction along
+these lines? Um because I I think we all
+know the standard heroin pill. you've
+been very I should mention um because
+it's important your previous book um and
+we we'll try to link to that as well
+focused on the opioid crisis and um what
+we thought was medication turned out to
+be just as bad if not worse than a lot
+of so-called street drugs. Uh so we
+understand those those you know
+gambling, sex addiction, porn addiction.
+Now video games, we'll talk about social
+media a little bit more in depth, but
+what's the most like wow I didn't
+realize people could get addicted to
+that?
+Water.
+Really?
+Really? So, I had a very lovely patient
+who was had a severe alcohol addiction
+and she got into recovery from her
+alcohol addiction um for many years, but
+she kind of had a sort of a polyypsia or
+an urge to be drinking something a lot.
+And so, she drank a lot of water and
+slowly over time she realized that if
+she drank enough water she could become
+hyponetriic and delirious and be out of
+herself,
+die from it. Right.
+Right. which is what she just wanted to
+be out of her own head. And so she would
+periodically intentionally overdose on
+water in order, you know, to to I know
+it was so sad. So sad.
+What happened to her?
+She eventually to took her own life.
+Wow. Yeah. It was really
+That's rough.
+She was a lovely woman. She was so
+bright. She had so many interests and
+passions and
+and of course it was very sad when you
+know when she died but but I that was a
+wow to me. It was like wow if you have
+this disease of addiction you can even
+get addicted to water.
+Wow. And I think it just underscores the
+the generalizability of these circuits
+right
+there. There isn't a brain circuit for
+addiction to water that she happened to
+have. There's a brain circuit for
+pleasure and pain and addiction and
+water plugged into that circuit.
+Right.
+Wow. That's that's intense. Um, in your
+book, uh, Dopamine Nation, you also
+describe some amazing
+paths to recovery, people that, um, you
+know, from reading it, I would I won't
+say which ones and who, cuz there's some
+great surprises in the book, too, both
+um, tragic and and and triumphant, as
+they say. Um, you've often described
+your patients as your heroes. Yeah.
+Yeah. Tell us a little bit more about
+that.
+You know, when you think about how hard
+it is to give up a drug or a behavior
+that you're addicted to, how much
+courage that takes and fortitude and
+discipline and stick tuitiveness. These
+people are really amazing people. I
+mean, that's I I don't know that I could
+do it what they what they do, you know?
+It's and like you know we talked a
+little bit about you know just the
+constant everpresent
+urge to use even after sustained periods
+of abstinence for some people that's
+really really hard and of course then
+you double down on the shame that that
+they feel because of that urge even when
+their lives are so much better. I mean
+these people are really really
+remarkable and you take their remark
+remarkable accomplishment and then you
+imagine the world that we live in now
+where we are constantly invited and
+tempted and really bombarded with
+opportunities to become addicted at
+killing an itch everywhere.
+Oh yeah. I mean, you can't escape it,
+you know? You cannot escape it that
+you'll get an email in your inbox
+inviting you to do X, Y, or Z. And if
+you're addicted to that thing and you
+know, you tried to like delete all your
+apps and not go here, all of a sudden
+your work inbox, you're, you know,
+you're getting those images, let's say,
+really, really, really hard. And yet,
+these people find a way to do it. I
+think it's absolutely amazing. And
+they're really wise people. They have so
+much wisdom to offer. They've taught me
+a lot. You know, as I talk about in my
+book, I have my own addictions. And I
+really just like took a page right out
+of their book. Okay, what do I do now?
+All right, what did this patient do?
+What? Okay, I'm going to try that.
+It is it is an amazing community of of
+the people that they are very sage.
+I wanted to um just touch on something
+that you mentioned which is uh the
+shame.
+Yeah.
+Uh you know, you can't go to a meeting
+uh or talk to addicts without um
+detecting or or hearing about like lies,
+shame, etc. I heard you say um in an
+interview with somebody else recently
+that truthtelling and secrets are sort
+of at the core of recovery and um yeah
+tell us more about that.
+Yeah, so one of the things that I found
+really fascinating about working with
+people in recovery was how telling the
+truth even about the meest detail of
+their lives was central to their
+recovery. And I became really curious
+about that. like why would truthtelling
+be so important? And of course, there is
+the obvious thing that when people are
+in their addiction, they're lying about
+using, you know, so part of getting into
+recovery is to stop lying to the people
+they care about about their use. But
+it's really more than that because what
+what people in recovery have taught me
+is that it's not it's not even just not
+lying about using drugs. I I have to not
+lie about anything. I can't lie about
+why I was late to work this morning,
+which we all do. Oh, I hit traffic.
+know, I didn't hit traffic. I wanted to
+spend two more minutes reading the paper
+and drinking my coffee, right? Um or
+just lying about, you know, I don't know
+where I had dinner. Like, so people with
+addiction will get into, you know, the
+lying habit where they're lying about
+random stuff because they're sort of in
+the habit of lying and how recovery is
+really about
+telling the truth, you know, in all
+ways. And so one of the things that I I
+had a lot of fun with in writing the
+book is sort of exploring the
+neuroscience around why truthtelling is
+important to leading a balanced life.
+And we know like every religion since
+the beginning of time is all about
+telling the truth. Well, why? Right? And
+there's really interesting neuroscience
+behind it that suggests that when we
+tell the truth, we actually potentially
+strengthen our prefrontal cort cortical
+circuits and their connections to our
+limbic brain and our reward brain. And
+of course, these are the circuits that
+get disconnected when we're in our
+addiction, right? Our balance in our
+reward pathway or limbic brain, our
+emotion brain is doing one thing and our
+cortical circuits are completely
+disengaged from that, ignoring what's
+happening, which is easy to do because
+it's reflexive. We don't need to think
+about that balance for the balance to be
+happening. But we have to re-engage
+those circuits. Anticipate future
+consequences. Think through the drink.
+You know, not just how am I going to
+feel now if I use, but how am I going to
+feel tomorrow or 6 months from now? And
+that telling the truth is in fact a way
+to do that to make these connections
+stronger. And there I talk about some
+studies in my book that that kind of
+indirectly show that. So I find that
+really fascinating. Plus that just that
+like being open and honest with people
+really does create very intimate
+connections and those intimate
+connections create dopamine. So we were
+talking a little bit about how you you
+know know a bunch of people who need
+like intensity in their lives. For me I
+need a lot of intensity in my human
+connections. like I'm really not
+interested in and bored by and made
+anxious by um casual um interactions,
+but you know like having this kind of
+discussion with you that's very intense
+and also intimate and self-disclosing
+is very rewarding for me. So that's an
+important source of dopamine. Thank god
+I became a psychiatrist. Absolutely
+right. like I can't disclose all my
+stuff, but I am quite transparent with
+my patients, which is a slightly
+unorthodox. Um, but you know, when I
+think it's right, I'm also transparent
+with them. So, that that's, you know,
+that's a source of dopamine, too, when
+we're honest and we disclose and that
+you think people are going to run away
+from you if you tell them about all like
+your weird neurosis, but really they
+don't. What they're like is, "Oh, thank
+God I'm I'm not the only one." Right.
+Well, what I love about I love many
+things about your book. I I read it in
+one sweep. Thank you.
+And and I was like, "Wow." is um I I was
+a s pleasantly surprised but I was like
+wow she's really opening up in this book
+from the very beginning. Um, and I don't
+want to give uh it away, but it's yeah,
+you're you're very open uh where it's
+appropriate. And um and also I think
+that this question about truthtelling. I
+I I always think about like tell the
+truth, be, you know, 100% about the
+truth, but there's also this element
+about do you report previous lies,
+right? Like what about prior behavior?
+And and I'm I'm fascinated by this
+because to me telling the truth is has
+many facets but the the three sides of
+this thing uh in my mind are one is
+reporting everything accurately. The
+other is what do you withhold what do
+you not withhold right because some
+people say um tell the truth or at least
+don't lie. That's sort of a
+lies lies of omission.
+Yes. Lies of omission.
+Uh lies of omission. And then there
+there's the what I have to assume for
+most people is a small to enormous batch
+of things that they lied about in the
+past
+that still thread into the future.
+So how important is it for the the
+addict or the every person really to um
+cuz it sounds like cultivating the
+circuitry between prefrontal cortex and
+the dopamine system would be great for
+anybody. Um since we're all addicts,
+everyone should do it. But in in all
+seriousness, it sounds like a good thing
+for everybody to do.
+how um how much work needs to be done on
+all the priors, all the stuff we've
+hidden
+and um I mean not me but all the all the
+stuff that everybody else has been
+Yeah. So the you know the steps of the
+12 steps of Alcoholics Anonymous um a
+good number of those steps are about
+that very thing. the past, the ways that
+we've harmed people in the past. And one
+of the fourth step is about making
+amends. Um, you know, by admitting the
+ways in which that we've contributed um
+to harming others. Um, and it is a
+really big piece of recovery. So, you
+know, how important so, so for people
+with addiction, it's really really
+important to go back and make amends.
+And you know you the the the the the key
+idea there is you just go back and you
+apologize you know and you don't you
+don't have to get any particular kind of
+response or you don't need to be
+forgiven. It's the act itself of
+apologizing about the ways in which
+we've harmed or lied to people uh in the
+past that is cathartic and renewing and
+allows us to kind of shed this skin and
+be be new in our lives and begin again
+sort of absolved um you know of past
+sins so to speak. Um so so it is really
+important. Um you know are there
+situations when it's maybe not a good
+idea because of the that person or the
+nature. Sure. You know there are always
+going to be it doesn't have to be like
+it's not we're talking about like not
+like Kant's idea about like never lie
+you know robber's in your house and he's
+you know you're stow away. You can't lie
+even about that. It's like no there are
+probably situations where absolutely you
+know um
+for sake of other people's safety
+children
+safety right right I mean there there
+you can think of a million scenarios but
+um but but in general you know when
+we're taking stock because I don't know
+about you but I have a lot of regrets
+and guilt about a lot of things in my
+life and and um and they kind of haunt
+me
+you know sometimes I'll have nightmares
+right um and I think that's true for
+most people. I mean I occasionally will
+meet somebody who's like I don't have
+any regrets in my life. I'm like wow
+like I I cannot relate to that at all.
+Um so you know this idea of like
+catharsis and well I mean in the 12
+steps it's telling telling God or your
+higher power telling another human being
+the ways in which you've wronged others
+considering your own character defects
+and how those have contributed. To me,
+that's a really important piece and
+something that we don't do enough in our
+current culture, especially in
+psychiatry, frankly, where there's like
+a lot of eternally empathizing with
+patients, but not a whole lot of like
+going, well, you know, actually, you
+kind of messed that up or like that was
+really bad on you, you know, and and in
+my work, I don't necessarily use that
+language, but, you know, patients might
+say like, I I really feel badly about,
+you know, this thing. I'll be like,
+yeah, I get it. Mhm.
+I I understand that you feel
+well guilt is a is a there's a circuit
+for that too,
+right? And it's it's important, right?
+And it's also important to um recovery
+and to not becoming addicted is you know
+experiencing a certain amount of
+appropriate shame for things that we
+have done and you know feeling the pain
+that comes with shame which is an
+incredibly painful emotion right and I
+think that may be the one that we all
+try to avoid more than any other is like
+that shame um of not being liked or not
+being accepted or not being
+celebrated that we did is is really
+despicable
+right it's really Yeah. Like, oh my god,
+I did that horrible thing. Right. Right.
+And then So, I mean, I've done horrible
+things that um I haven't gone back and
+said, I did this horrible thing, but I'm
+maybe I've tried to pay it forward.
+Like, I've told my kids, you know, when
+I was younger, I did this horrible thing
+and it still haunts me. So, if you're
+ever tempted to do something like what I
+did, you might think about my situ. So,
+you know, some kind of way. But I think
+wrestling with that is is important.
+I think it's a really important element
+to all this. And there's not um I love
+that there's neuroscience being done on
+truthtelling and the value of
+truthtelling. I I think uh I if I were
+to predict a new and truly exciting area
+that people are going to be really
+curious about and um in this huge sphere
+we call neuroscience, I I hope they'll
+continue to do more work. Also speaks to
+I'm so glad to hear that's happening
+here at Stanford. Uh, no that's that
+that the well the the the literature
+that I look at isn't Stanford work but
+um but there's work it might be it might
+be people
+regardless of where it's happening more
+of that and all the rest please. Um I
+want to ask you about using drugs to
+treat drug addiction. Um these days
+there's a growing interest or at least
+discussion about Ibagain people going
+down going out of country because I
+think it's still illegal here um or is
+illegal here going out of country to I
+don't know either um inject it or smoke
+it or whatever it is or people going and
+doing Iaska journeys or um MDMA which is
+still an illegal drug in this country
+but there are clinical trials there are
+people on this campus doing experimental
+studies I don't know if clinical trials
+but at Johns Hopkins there are clinical
+trials etc.
+So this um this is a vast area right
+different chemistries for different
+drugs and different purposes. But the
+the rationale as I understand it is take
+people who are in a pattern of addiction
+launch them into a experience that's
+also chemical and extreme often of the
+extreme serotonin andor extreme dopamine
+type. So MDMMA, ecstasy for instance,
+tons of serotonin dumped, tons of
+dopamine dumped,
+how neurotoxic, if neurotoxic,
+debatable, etc., etc., not a topic for
+now,
+but a lot. And then somehow that extreme
+experience wrapped inside of a a
+supported network in there, whether or
+not there's just someone there or
+whether or not they're actively working
+through something with the patient, is
+supposed to eject the person into a life
+where drug use isn't uh as much of
+interest. This violates at at a at a r
+purely rational level, this violates
+everything that we've talked about in
+terms of dopamine biology. It would if
+this arrangement is the way I described
+it
+cause more addiction is anything but a
+dopamine fast. It's a dopamine feast.
+So we hear about successful transitions
+through this at least anecdotally and
+may um maybe some clinical say what is
+going on
+what is going on doesn't make any sense
+to me. Uh
+yeah.
+Yeah. So I think it's good that you're
+skeptical. Um I think we all should be
+skeptical. Having said that, um there
+are clinical studies showing um you know
+and these are small studies and they're
+short duration, small number of
+subjects. But you know taking people for
+example who are addicted to alcohol and
+then having them have this let's say
+psychedelic experience in a very
+controlled setting.
+So either typically it's a highdosese
+psilocybin or or three dose as I saw it
+for the MAP study of of MDMA of ecstasy.
+Those are sort of the seem to be the
+kind of the kind of bread and butter of
+this kind of work. Right. But the thing
+to really keep in mind is that this is
+completely interwoven with regular
+psychotherapy and that these are highly
+selected individuals
+and clinical trials.
+Right. Right. And these are individual
+clinical trials. Right. And and and so
+you know I want I think the metaphor
+that I that that helps me think about
+this is there are many ways to the top
+of the mountain and these are sort of
+like taking the gondola instead of
+walking up. It's sort of instead of
+doing like a year of psychoanalysis
+where you're sitting on the couch every
+week reflecting on your life, it's a
+condensed version of psychoanalysis or
+psychotherapy plus you know MDMA which
+gets you there faster. creates the
+intimacy presumably because of this. I
+think the main thing that happens when
+it's beneficial
+is it just allows the person to get
+outside of their own head and look at
+their lives on a much broader sweep and
+to consider themselves
+not mired in the you know quotidian sort
+of details of their life but rather as a
+human on a on the large planet Earth in
+the vast universe.
+So I think it takes it it's like when it
+works it's a transformational experience
+because it gives the person another lens
+through which to view their life their
+lives which which I think for some
+people is positive and powerful because
+they can come back from that and be like
+oh my gosh I care about my family and I
+don't I want X Y or Z for them and I
+realize that my continuing to drink is
+not going to, you know, achieve that.
+So, it's it's almost like a spiritual or
+values-based. So, I think it can be very
+powerful. But, but having said that, I
+truly am quite skeptical because, you
+know, addiction is a chronic relapsing
+and remitting problem. It's hard for me
+to imagine that there's something that
+works very quickly, short term, that's
+going to work for a disease that's
+really longlasting.
+Yeah. The two addicts I know that that
+did MDMA MDMMA assisted psychotherapy as
+far as as part of this um thing both got
+worse.
+Yeah.
+Um but the people I know who had severe
+trauma
+Uhhuh.
+who did this who took this approach seem
+to be doing better.
+Okay. Interesting.
+And so I um I think that uh the
+discussion as we hear it now is just
+sort of psychedelics which is a huge
+category of that includes many different
+drugs and compounds with different
+effects. And we hear about trauma and
+addiction lumped together.
+And I think that um I'm a splitter, not
+a lumper,
+as we say in science. Um
+uh and I think it's going to be
+important for people to know that this
+is definitely not a one-sizefits-all
+kind of thing, but it sounds like it may
+have some utility under certain
+conditions.
+Yeah, I think so. I I think we I'm I'm
+trying to be very open-minded about its
+potential utility for certain
+individuals. But I can tell you in my
+clinical work, what is a very concerning
+um unintended consequence of this
+narrative is I have a lot of people who
+are looking for some kind of spiritual
+awakening who on their own not in the
+context of any kind of therapeutic
+psychological work, you know, micro dose
+or want to try, you know, psilocybin or
+MDMA with a friend or wherever. so they
+can have this, you know, spiritual
+experience that they can figure out
+their lives. That that's a disaster and
+and almost never works out well. And
+I've then had people who literally
+supposedly you can't get addicted to
+psychedelics because, you know,
+something with the biochemistry, which I
+don't fully understand because it
+doesn't make any sense to me, but I have
+patients clinically who definitely are
+addicted to, you know, MDMA to micro
+doing. So that's very concerning for to
+me cuz like you know Pollins's How to
+Change Your Mind that that you know I I
+respect that work but on the other hand
+it's penetrated the
+culture Michael's book.
+Yeah. Well and and and I I don't know
+him and so um I don't have a problem
+taking a taking a stance um uh so I'll
+just say my stance on that is the
+narrative
+of popular authors can expand and wick
+out so fast.
+Yes. that pretty soon people are
+essentially taking their mental health
+into their own hands. And I I actually I
+have great optimism for this uh business
+of of clinical use of um psychedelics
+including MDMA. Matthew Johnson at Johns
+Hopkins is doing fabulous work on this
+um and and there are others too of
+course but those are controlled settings
+right
+and the pharmarmacology is being tuned
+up and one thing that I think is coming
+uh there are several papers published
+recently in great journals like nature
+and science etc where there are
+scientists who are removing the
+hallucinogenic components of these drugs
+and finding that they still have the
+anti-depressent cent effects and so the
+experience of a psychedelic
+and the long-term effects of the
+psychedelic might actually be
+dissociable. And so I again I um and I'm
+always careful to say I'm I'm neither
+for something or against it. I I just
+think that um treading carefully is
+what's important. I I I agree with you
+and I can just tell you that the the
+downstream effect for the average person
+um for many of whom present in our
+clinic is that they've misconstrued the
+data on the use of psychedelics for
+mental health conditions um to this idea
+that they're safe or that anybody can
+take them in any circumstance and have
+this kind of awakening and and that
+that's not what the data show, right?
+the data are these highly controlled
+settings um you know carefully selected
+patients. So that's my worry you know.
+Sure. And um I'm going to be sitting
+down with Matthew Johnson at some point
+and we we'll discuss this and I think
+that uh that care and that um that
+cocoon of of real clinical care does
+seem to be an important component. Uh
+well, I'm glad we could touch on it and
+um you know, I'm sure I'll get a bunch
+of comments telling me that, you know,
+uh you know, but but I but I think it is
+important to explore things from all
+sides and that's that's what we we do as
+scientists and if Michael Pollen wants
+to chat, we can do that too.
+Um that's fine. I I very much enjoyed
+the book actually. Um but I think that
+uh
+people run with ideas. That's right.
+They don't walk with them, they sprint.
+Um,
+yeah,
+there are a couple other things I just
+want to touch on. Um, but they all
+relate to social media.
+Okay.
+You were featured in The Social Dilemma.
+Um, was a powerful movie. I think many
+people avoided seeing that movie because
+it it reflects back on us just how
+addicted we all are and how manipulated
+we all are.
+But it doesn't seem to have changed
+behavior much. I I I have to say that
+that the the movie changed my
+understanding and my perception but not
+my behavior too much.
+If we look at addiction as a maladaptive
+thing, something that's making our lives
+worse or our our us less functional at
+work and in relationships, I could
+imagine a version of social media where
+it's making me more connected. I mean,
+this is a podcast after all. I post
+videos. this will show up on YouTube and
+um and elements of it on Instagram as
+well.
+So much like uh sugar or um other
+things,
+I have to imagine that we need to
+regulate not necessarily eliminate this
+behavior. So, I want to talk about what
+that looks like and I want to talk about
+what you've referred to as this
+narcissistic preoccupation
+that social media is creating that we
+are all far more keenly aware of how we
+look and how we sound and how we are
+being perceived than we
+were 10 years ago.
+Right? So, first of all, social media um
+how addicting is it really and what is
+healthy social media behavior?
+So,
+the first message I would want to get
+across about social media is that it
+really is a drug and it's engineered to
+be a drug. Um, and it's based on, you
+know, potency, quantity, variety, um,
+the bottomless bowls, the likes, the way
+that it's enumerated, all of that, which
+doesn't mean that we can't use it. Um,
+but we need to be very thoughtful about
+the way you we we use it, just like we
+need to be thoughtful about the way we
+use any drug. Um, and so that means with
+intention and in advance, planning our
+use, right? and trying to use it in as a
+as a as a really awesome tool to
+potentially connect with other people
+and not to be used by it um or get lost
+in it. And of course, you know, people
+are going to come with different
+propensities for addiction to any drug.
+And that's true for social media, too.
+Some people will have no problem using
+it in moderation or using it in a way
+that's adaptive. and other other people
+will immediately get get sucked in. And
+the key thing about getting addicted is
+when it's happening, we we nobody who's
+getting addicted thinks they're getting
+addicted, right? Let's face it, it's
+only after the fact that we go,
+"Whoops." You know, what was that about?
+Well, remember texting and driving.
+There were all these books about texting
+and driving, how terrible it was.
+Yeah.
+Even the governments have largely given
+up. You see these these billboards like
+don't text and drive or any text can
+wait or not worth dying for but
+everybody's texting and driving
+right and if you look at young people
+today teenagers I mean they're basically
+cybernetically enhanced that the phone
+is there you know it's like they're
+talking to you and texting 12 friends at
+the same time and there's no stopping
+it. I mean the genie is out of the
+bottle where you know it's not we're not
+going back you know. So we we do need to
+figure out, you know, how to make this
+this tool something that's, you know,
+going to be good for us and and not
+ultimately harmful. And I I don't have
+all the answers by any stretch of the
+imagination. But I do think you know
+some of the wisdom that we have learned
+from using other drugs also applies to
+social media which is to say that we
+have to again put barriers in place that
+allow us to remain in control of our use
+which means not not too much you know
+not too often not too potent. Um
+do you think in going back to this idea
+of the the unit of the day being a good
+attractable unit a manageable unit of
+time for most people. Um, so you're
+saying in advance, so allocating 2 hours
+in which you're going to allow yourself
+to have free reign use of the phone and
+all its apps and all its things or um
+even more restricted than that, meaning
+okay, I'm I'm only going to allow myself
+30 minutes a day to post and comment and
+then that's a close out completely.
+Yeah. So, I think it's it's it depends
+on the person and sort of a combination.
+We talked earlier about, you know,
+having an itch and scratching yourself
+at night. We've gotten to a point with
+smartphones, people are pulling them out
+and they are utterly unconscious of
+doing so. Pulling them out, you know, a
+couple texts, a couple swip, they don't
+know.
+I have a friend who who works in uh does
+delivers babies.
+Yeah.
+And um many pregnant mothers won't
+actually deliver without their phone in
+hand. And this used to be the hand that
+was connected to their spouse. This may
+be a comment on on on spouses more than
+on phones, but um but uh it sounds like
+there's it's a kind of a security
+blanket,
+right? Like a transitional object. Yeah.
+Yeah. Actually, that reminds me, you've
+referred to um the phone. I think it's
+the phone, but maybe it's our online
+persona or our selves as we've become
+sort of infantile
+in our need for it's like a baby in a
+bottle, right? And so I do wonder if if
+we have regressed and I do think we've
+regressed a bit um in terms of our
+online behavior, our inability to act
+like I thought an adult was somebody
+that can control their behavior. That's
+the difference between a baby and adult.
+You have to be a developmental
+neurobiologist for very long to
+understand that a young organism can't
+control its behavior, an older one can.
+So to me, a a mature organism, mature in
+years organism that can't control its
+behavior is a baby. It's it's an
+immature version of itself. And there's
+neural there's neuroscience to support
+that statement.
+Um I look at my own behavior with the
+phone sometimes and I think
+I'm a grown man. Like what is the
+problem here? Right. Um you know I don't
+eat baby food but I'm acting like a baby
+with the phone.
+All right. Um in the sense that I'm
+reflexively picking it up.
+I'm I'm not being intentioned and
+deliberate with it.
+Um do I need a full 30 days, Anna?
+So So yes. So, so 30 days away from as
+you know that's my recommend the full 30
+days to reset. I you know if you're if
+you're severely addicted that I I
+recommend the 30 days but if you're just
+a little bit addicted like most of us
+you probably don't need 30 days. In fact
+a single day not only would be
+challenging but um but probably maybe
+sufficient.
+My phone is off for substantial segments
+of the day.
+Okay, that's great.
+And it drives other people crazy. people
+expect me to respond.
+Uh but I don't care.
+I really don't. And I actually take a
+little bit of pleasure in the fact that
+well because I think the point I'm
+trying to make is the right one, which
+is that it's not just right for me, but
+like why I don't see a clause on text
+messages or emails that say must be
+responded to within x amount of time or
+else,
+right?
+Um or else. Yeah.
+So, I take the liberty of replying when
+I when I'm able to.
+Yeah. That's right.
+Or want to.
+Yeah. Right. But which touches on one of
+the big challenges about social media is
+that as more and more of us are spending
+more and more time on social media,
+we're divesting our libidness energies
+etc. from real life interactions. So
+that means even when we want to choose
+to not be online connecting, we go
+outside and there's there's no there
+there, right? there's nobody else there.
+So I think our collective challenge and
+it should be our mission is to make sure
+that we are preserving and maintaining
+offline
+ways to connect with each other because
+if if we don't do that then we'll be
+very lonely, right? If we were not
+online. But if you have a tribe of folks
+that you can be with, none of whom are
+on their phones while you're together
+for that discreet amount of time, then
+it's wonderful and liberating and
+nobody's distracted. And I think that's
+really the key. And I think young people
+are figuring that out. You know, they're
+trying to create these spaces or try to
+let's say instead of doing a dopamine
+fast by yourself, do it with your
+friends, right? Then there's the FOMO is
+less, the fear of missing out because
+Oh, you're all doing the dopamine fast
+together. So, these are some of the
+tricks that, you know, we can come up
+with. But
+I like that.
+Yeah. Okay.
+I like that. I don't allow I have a home
+gym and I I love working out. I I just
+enjoy it and always have and I I don't
+allow my phone in my gym anymore
+and I live in an area where I don't get
+any reception like 2 m outside my door.
+So, all my dog walks now are just with
+the dog and they were boring as hell. I
+also have a bulldog. He doesn't like to
+walk. really slow. Uh, and it was so
+boring for a while.
+Yes.
+Cuz I was so used to taking calls while
+I walk and it's super efficient. Why
+wouldn't I do that?
+Yeah.
+The walks now are some of my favorite
+part of the day because and if the phone
+were if I were to get a call on one of
+those or they brought reception to the
+area, I would be very dismayed. So, I
+can attest to this and um I I don't
+think I'm a phone addict. Um, but I do
+put work into regulating my
+Yes. So this is the key. You have to
+with intention prior to being in that
+situation think of literal physical and
+metacognitive barriers that you can put
+between yourself and your phone or
+whatever your your drug is to create
+these intentional spaces where you're
+not constantly interrupting yourself
+essentially and distracting yourself
+because I really do think you know I
+think we talked just just before we we
+started with the interview you know
+we're losing the ability to have a
+sustained thought, right? I mean, we we
+get so far and then then you get to that
+point in the thought where it's a little
+bit hard to know what's coming next and
+it's very easy to check your phone or
+check your email or look something up
+on, you know, the internet and then you
+never get that opportunity to finish
+that thought, which is really the source
+of creative energy and an original
+thought, right? You're not just reacting
+to,
+right? and something that could
+contribute to the world. I'm a big I'm
+I'm a big believer that you're either
+consuming or you are creating.
+Uh and there there is I should mention
+uh it's important. I do believe in
+neutral time. I think sleep is great.
+I'm a big proponent of sleep and talked
+a lot about it on the podcast. I care a
+lot about sleep. Uh and not just for
+sake of performance. I actually just
+really like sleep. Um, I think that
+being a constant consumer of visual
+information and information of all kinds
+can can be a problem, but but there's
+some really great sources of information
+on the internet and um
+uh and I I certainly benefit from from
+the fact that that those channels exist.
+Um, narcissistic preoccupation.
+Am I a narcissist?
+You know, I first of all, there there's
+there's healthy
+or is the fact that I asked does that
+take me out of would a narcissist never
+ask that question?
+Oh, yes. A highly sophisticated
+narcissist would know to do that.
+I'm not very sophisticated.
+So, there's healthy narcissism, which
+means that we all invest our personal
+energies into things that we care about.
+And if our competence in that arena is
+threatened, we we would all experience a
+narcissistic injury. And that's normal
+and healthy. Um but but but we are
+living in a narcissistic culture. I mean
+that's not news. This preoccupation with
+individual achievement and individual
+self-worth and individual
+self-confidence.
+And I think all of that is just fueled
+by social media where we're not just
+seeing ourselves but we're seeing
+people's reactions to ourselves and
+every single, you know, thing we say or
+do, you know, we get likes and this and
+that. It's really insidious and it
+contributes, I think, ultimately to a
+lot of personal shame because we're not
+really meant to be individuals bouncing
+around in the universe. We're social
+animals and we've we're probably
+generally happiest even for natural
+contrarians among us when we're part of
+a tribe, right? And if we do too much to
+kind of separate ourselves from from
+that tribe, I think that the brain's
+natural and instinctive corrective
+mechanism against that is self-loathing
+and shame. So, you know, it's so ironic
+because the the culture tells us if we
+just achieve more, we'll like ourselves
+more. But the truth is actually the
+opposite. that that I think when people
+get these pinnacles of personal
+achievement, you know, you have things
+like the imposttor syndrome or what
+whatever, you know,
+where you just, you know, we're at
+Stanford after a lot of high achievers
+here, right? Um some phenomenal
+amazing people like yourself and other
+colleagues of mine that just I'm always
+in awe like it's just amazing like the
+mean is shifted so high and also people
+who have amazing sto paths to get here
+uh coming from very little accomplishing
+so much
+but it's also the pressure. Yeah.
+Right. Um, you know, the way that this
+career was described to me the day I got
+my job was one colleague of mine, the
+late Ben Baris said, "Welcome to
+schizophrenia because you're never going
+to be able to complete anything for
+without getting interrupted." That was
+partially true, although I've created
+buffers. And the other one, um, very
+successful scientist, a member of the
+National Academy, etc., said to me, you
+know, just remember it's pinball. You
+never win.
+The best you can do is just keep
+playing. Yes.
+And I thought,
+Wow. Okay.
+Mhm.
+Okay. And then you just go,
+right?
+But I think that
+as we achieve more, not just academics
+of course, but as anyone achieves more,
+there's the relishing and the
+accomplishment,
+there's often the desire for more, but
+there's also the pressure of, well, now
+I have to do this for the next 30 years,
+even though I love it. It's the pressure
+of, well, if the mountain is this high,
+then
+how do I get here and here and here? And
+then you start more dirt on so you can
+keep climbing and it's a lot of work.
+And I think that the
+um the perception of success is that
+there's a roar of the crowd and you
+cruise.
+You don't cruise that they just give you
+more to do or you give yourself more to
+do.
+Well, what I think is at least in my my
+life experience and I've heard this from
+other people as well. You know what?
+It's that prize that we're going for
+that if we get it is so unsatisfying and
+it's the prize that we never imagined
+that we kind of go, well, how did that
+happen? But gee, you know, that feels
+good. And so I'm very, you c what's the
+it's like a mirage in the one case and
+it's like a um like a Yeah, it's on the
+one. It's almost like dopamine can
+create these miages. Yes. That there's
+some place.
+That's right. And if I just It's that
+pot of gold, right? If I just constant
+dopamine,
+right? That's right.
+Yeah.
+And and I think this, you know, this
+really I think is related to our our
+talk our discussion earlier about this
+taking it one day at a time or paying
+attention to that, you know, 24-hour
+period in your environment. I am
+absolutely fascinated by the ways in
+which we accumulate success when we do
+that totally independent of the desire
+for success. It's really
+processoriented. It's like
+where am I today? How can I make today a
+good and meaningful day? A little bit
+better or as good as some other days
+I've had. constantly tweaking and
+experimenting with this experiment that
+we call you know our human existence.
+And when we do that in a way that's
+authentic and paying attention and
+valuedriven whatever our you know values
+are informed by it is very very
+interesting how those days again
+accumulate and you find wow I guess I
+contributed something of value there but
+I wasn't trying to do that you know I
+think that's really I mean what what I'm
+so amazed by is like you know 20 years
+ago when I went to Stanford medical
+school 25 years ago Um, you know, I just
+I was happy to just be a good doctor. I
+was like, I I guess I'm just going to
+try to figure out how to be a good
+doctor and I'm here to learn that. And
+now I see these medical students and
+they're wonderful. They're brilliant and
+they're well, they're well intentioned,
+all that, but they're like, um, how can
+I, you know, write the great American
+novel, do my startup, go to Africa,
+apply for that grant. You know, it's
+like really, I was just trying to learn
+how to be a doctor. And it's, as you
+say, it's a lot of pressure on them
+and it's also kind of a weird
+leaprogging of the real way to
+accomplish something, right?
+By which isn't about like, oh, how can I
+accomplish something? It's like what can
+I do today that would be of service,
+right? And then finding that of trying
+to be of service, you know, and and not
+really going for recognition can
+sometimes lead to what people call
+success, although that wasn't what you
+were aiming for.
+And it's all the more beautiful when
+it's not what you're aiming for.
+It's so much better. So much better.
+Yeah. I'm a big believer that when one
+can um align their compulsion with some
+greater good,
+yes,
+a service to humanity or the planet or
+animals, whatever it is,
+that um that's the that's where the the
+really good stuff emerges because it
+there's a lot of reciprocity there. The
+world starts to you're supporting the
+world and then it starts to support you
+in a way that feels very forward
+and it comes back, right? And I mean
+that speaks to like your generosity to
+me visav my book and I have to say
+well I love the book. There's like we're
+not in a business deal folks. It's just
+purely that I heard Anna lecture in my
+course. I wanted to learn more about
+dopamine. She taught me. I asked her if
+she would come on the podcast. Turned
+out she wrote this amazing book. She
+sent me advanced copy of the book. I
+read it in one sweep. It's incredible
+and I love it. So just like the
+8-year-old version of me uh now the 45
+version uh of myself. I can't stop
+blabbing about the things I love.
+Well, it's awesome, but I have to say I
+have been surprised by your generosity.
+It's not something I've encountered
+frequently
+at Stanford.
+Um, which is a wonderful place, but
+there
+there there is a general sense that if I
+give away to somebody else, I've lost
+I've lost something.
+um which is not the right way to think
+about it, not how you are. And also not
+how the world works because when we give
+away to other people, we we get back so
+much more. But it it takes a long time
+and it might not come through that path.
+I never think about the about
+reciprocity.
+Yeah.
+But I was um weaned by good advisors.
+That's very nice. Yeah.
+I think I just sort of got drilled into
+me that the more the more you give, the
+better your immediate life is.
+Yeah.
+But I also don't have a long-term
+vision, you know.
+I I just I'm I'm just excited about the
+book. I'm excited that people are are
+learning about the brain and dopamine. I
+have to admit, having grown up in
+neuroscience essentially, I did not
+understand that pleasure and pain were
+orchestrated the way that they are. I'm
+very mindful of it now.
+Oh, good. Um, and it's changed a number
+of my behaviors. I know a number of
+people are going to have questions and
+want to get in contact with you. You are
+not on social media.
+That's correct. Yes.
+You are true to your you are true to
+your ideology. That is that's great.
+And and the reason for that is just I I
+wouldn't be able to control myself. I
+mean, that really would be my drug.
+People are my drug. Intimacy is my drug.
+And and I wouldn't be able to manage it.
+And so, just it was just easier for me
+to not do it at all rather than try to
+moderate it. Well, the book as you um
+mentioned before and as I can attest to
+is it has a certain intimacy. People get
+to know you through the book. So,
+definitely check out the book. Um if you
+have questions about the book, etc. You
+welcome to send them my way. I I will
+buffer you from all those questions.
+I'll filter them. Um
+Anna, Dr. Lumpky, I I should be formal.
+Forgive me. I've been referring to you
+the whole way through because we're
+colleagues. But thank you so much for
+sharing this information and um I know I
+learned a ton and I know everyone else
+is going to learn a lot more about
+addiction and the good side of dopamine.
+That's right. Thank you for having me.
+It's been really really great to talk
+with you.
+Great. Thank you. Thank you for joining
+me for my discussion with Dr. Anna Leky.
+I hope you enjoyed it as much as I did.
+Please be sure to check out her new
+book, Dopamine Nation: Finding Balance
+in the Age of Indulgence. You can
+pre-order it on Amazon or any places
+where books are sold. It's an absolutely
+fascinating and engaging read all about
+addiction and dopamine. If you're
+learning from andor enjoying this
+podcast, please follow us on YouTube by
+subscribing to the Hubberman Lab
+channel. In addition, you can subscribe
+to the podcast on Apple and Spotify. And
+on Apple, you have the opportunity to
+leave us up to a five-star review. If
+you have comments or suggestions for
+topics for future podcasts, please put
+those in the comments section below this
+episode on YouTube. In addition, we have
+a Patreon. That's
+patreon.com/andrewhuberman.
+And there you can support us at any
+level that you like. Please also check
+out our sponsors that we mentioned at
+the beginning of the episode. That's a
+terrific way to support our podcast and
+our ability to continue to bring you
+zero cost to consumer information about
+science and science related tools. And
+last but not least, thank you for your
+interest in science.
+[Music]

@@ -1,0 +1,930 @@
+# All-In Summit: Gene therapy and a new era of medicine with Dr. Nicole Paulk
+# https://www.youtube.com/watch?v=381sguwAS9c
+
+next up is Nicole Paul I'm really
+excited for this talk I think you guys
+will find a lot of optimism in where
+technology is playing out in um in
+biology and bioengineering to cure
+fundamental human disease
+for nearly 20 years she's been
+developing Next Generation aav platforms
+for Gene repair Gene transfer and Gene
+editing and chief directed Evolution for
+novel engineered capsids and comparative
+multiomic approaches to interrogate
+translational aav biology she's going to
+share a little bit about her work with
+her startup siren biotechnology which
+came out of stealth last year please
+join me in welcoming Dr Polk to the
+stage
+we'll let your winners ride
+Rain Man
+[Music]
+[Applause]
+we open source
+and they've just gone crazy
+[Music]
+all right quick show of hands how many
+of you have ever even heard of the
+phrase gene therapy or viral gene
+therapy before Oh My Gosh would you guys
+read in Wall Street Journal and The
+Economist all right pretty good usually
+it's like two hands
+um so who the heck am I why am I up here
+talking to you about this so like I said
+my name is Dr Nicole Paul come until
+like a hot minute ago I was a professor
+of viral gene therapy at UCSF in San
+Francisco and decided to spin out a
+company based off some work in my lab
+and I'm here to talk to you guys a
+little bit about using viruses as
+medicine so so what is gene therapy
+broadly speaking uh this is using
+viruses as medicines so historically we
+have used these to treat single Gene
+genetic disorders but we can use these
+much more broadly now and I'll share a
+little bit about that but historically
+we've used these when you were born
+either missing a gene in your genome or
+you had a mutation in a particular Gene
+in your genome and all you needed in
+order to be completely healthy was to
+have a functional copy of that Gene
+given back to you or to have
+um that the particular mutation in that
+Gene corrected and restored for you and
+we can do all of these with viruses
+and so if that sounds a little bit crazy
+and a little bit new and a little bit
+revolutionary it's because it is we're
+kind of quite literally living through
+um one of the most recent and kind of
+newest eras of modern medicine and so in
+order to talk about where we are we kind
+of need to understand where we came from
+so nearly every one of you in this room
+this first era of modern medicine
+started probably with your either your
+parents or your grandparents this is
+with chemical medicines this is when we
+realized that gosh every time I have a
+stomachache I can go eat this one
+particular Leaf from a tree
+and when I eat that leaf I feel much
+better and then the scientists realize
+well we don't have to eat the leaf we
+could isolate the chemical compound that
+comes from that leaf and then we could
+produce that in mass synthetically in
+large Vats in the lab and that way we
+don't have to all go outside and eat and
+eat leaves all the time
+um and so the Advent of chemical
+medicines and realizing that we could
+isolate these and synthesize these in
+Mass was an absolute transformation this
+is nearly every drug you've ever taken
+in your life these are all the pills you
+can go find at your local pharmacy uh
+particularly the ones that are over the
+counter and so this is the vast majority
+of medicines you've ever taken in your
+entire life
+and the way these chemical medicines
+work right you take that pillow you
+swallow it it goes into your stomach it
+gets dissolved by the acids in your
+stomach it then gets absorbed into the
+bloodstream in your GI tract and then
+goes throughout your entire body and it
+will bind to and affect kind of either
+the shape or the function or the ability
+of various proteins in your body in a
+way that's useful to reduce your
+symptoms
+and so then in the next kind of era of
+medicine we had the brilliant idea well
+let's just cut out the middle man let's
+not give you a chemical that alters the
+shape or function of a protein let's
+just give you the protein let's let's
+advance to protein medicines and let's
+now take a protein that has the
+particular shape in the function that
+you might need in order to provide some
+kind of therapeutic benefit for the
+disease state that you have and give you
+that as a drug and so that's kind of
+been the next kind of most recent wave
+of modern medicine and so this is things
+like enzyme treatments and antibody
+therapies many of you in the room have
+probably heard of the most successful
+drug of all time anyone know what it is
+anyone want to shout out a guess what's
+the most successful drug of all time
+that's raised the most money
+it's not Viagra guys
+Humira someone said it so this is an
+antibody
+that's used to treat a particular form
+of arthritis
+this antibody cells on average a little
+over 21 billion dollars worth of just
+that drug every single year and has been
+the most successful drug for the last 20
+years this is what we call a blockbuster
+this is what everyone is shooting for in
+their portfolio is a blockbuster drug
+and it's an antibody
+but now we're entering kind of this
+newest third modern uh form of medicine
+which is what we call living medicines
+this is using things like viruses
+bacteria cells things that are quote
+unquote alive that we can now use to go
+in and impart changes in your body why
+would we do that well both chemical
+medicines and protein medicines we
+typically either give orally or we give
+intravenously which means they're going
+to go throughout your entire body but in
+some cases we don't want a drug to go to
+your entire body like for example when
+you take chemo boy you feel like trash
+right it's because it's also affecting
+healthy cells in your body so sometimes
+we want the medicine to only go into a
+simple place in your body or a single
+place so that way you only experience
+the therapeutic effect in a single
+location the other really cool thing we
+can do with things like viruses and
+cells is we can engineer I know many of
+you here are like Tech or Tech adjacent
+we can engineer in logic circuits so we
+can add things like if then or and and
+all these types of kind of Boolean logic
+we can engineer those circuits into
+viruses and cells and have them perform
+those same types of decisions uh within
+your body like if you experience this
+release the drug If you experience this
+don't
+so you can engineer in these types of
+circuits in order to get this really
+really precise delivery of any
+particular medicine that you're
+interested in delivering and you can
+package almost anything in a virus
+and so a really common misconception is
+that all viruses are bad for you all
+viruses make you sick
+couldn't be farther from the truth the
+vast majority of viruses on the planet
+are very good at getting inside of you
+but very few of them make you sick I bet
+most of you can't name more than 20
+viruses and all the viruses you can name
+are viruses that make you sick right
+measles mumps small polio smallpox these
+types of things we only know of them
+because we study them because they make
+us sick but the vast majority of the
+viruses on the planet can actually kind
+of be considered our allies they're
+tools that we can use that don't make us
+sick but they're still very good at
+getting inside of us that we can use to
+deliver all kinds of medicines
+so all of this is talk much more fun to
+look at as an actual video of this in
+action and so what I'm going to show you
+on this screen is a patient from a
+clinical trial
+from a patient that has a rare form of
+inherited genetic blindness this is a
+disease called Libra's congenital
+amaurosis these patients are born
+basically medically blind they cannot
+see at Birth and you're going to see two
+videos the one on the left is going to
+be this patient pre-treatment attempting
+to navigate a maze you can see that maze
+on the floor at very very low light so
+the reason that this looks very yellow
+is because it's taken at one luminal
+unit or low light all of us have much
+poorer visual Acuity at low light than
+we do at highlight so it's not that this
+video is taken in 1985 it was just in
+very very low light that's why it looks
+yellow
+so I'm actually going to start that
+video
+and I'll kind of talk over this this
+patient while they're going so this
+patient's medically blind they cannot
+see the arrows on the ground that
+they're being told to navigate nor can
+they see the little obstacles that
+they're being told like you should step
+over so they're feeling for them with
+their feet just like you would if you
+were blind and you didn't have your
+walking stick you would just kind of
+feel in front of you to see what was
+there so that you wouldn't manage to
+trip and fall
+so I'm not actually going to show you
+this entire video because it took this
+poor patient 214 seconds to attempt this
+navigate this eight foot eight foot by
+eight foot maze
+and all this patient needed they were
+missing a single protein in the back of
+their eye all they needed was a single
+viral infusion for that virus to express
+a single protein that that patient was
+missing in their eye
+and this is that exact same patient
+again this was a 10 year old just one
+year after treatment they would have
+been able to do this within seven days
+though
+so they have absolutely perfect vision
+so we're able to
+see pure blindness
+this same young patient has now gone on
+to get their driver's license
+they are they are walking quite
+literally they are walking amongst us
+leading a completely normal life so this
+feels crazy and revolutionary like oh my
+gosh I hadn't heard about this when is
+this when is this coming for the rest of
+us and all of our indications
+soon
+where are we now this is a one-year-old
+Slide the next prospectus from Wells
+Fargo is expected to come out any day
+now I was hoping it would come out
+before this talk but it didn't but this
+is the annual prospectus they put out
+every year of kind of the advancement of
+these gene therapy companies they do
+this for every industry but this is for
+gene therapy so this is all of the logos
+of all of the companies that are working
+in gene therapy for various diseases the
+outer rings are kind of the earliest
+stages of development those phase one
+phase two trials and as you move towards
+the center towards the bullseye that's
+when you're FDA approved and you can
+sell your drug for hopefully 21 billion
+dollars a year and be a Blockbuster but
+as you can see right there is a wave of
+Gene therapies coming from so even those
+few of you who didn't raise your hand
+earlier that you had ever heard of gene
+therapy before I promise you in your
+lifetime no matter how old any of you
+are in this audience in your lifetime
+you are going to receive a viral gene
+therapy as medicine
+so there's a particular virus Dave
+mentioned it earlier that I like to work
+on this virus called aav and it's
+typically used like we were mentioning
+before to treat rare genetic disorders
+some of the disorders that we've been
+able to cure are the ones shown here on
+this slide
+and again we've typically only done rare
+single Gene disorders and in my lab at
+UCSF and now at the company we wanted to
+ask a little bit Bolder question
+typically we've only used these to treat
+rare genetic disorders could we use
+these to treat other indication spaces
+ones with many more patients where the
+need is much greater and the benefit to
+humanity would be much more so we wanted
+to ask a rather audacious question
+rather than having a virus that might
+cause cancer could you use a virus to
+cure cancer Could you actually use a
+virus as a medicine that could be used
+to treat cancer
+so we've been working on this for the
+last seven years to try to go against
+conventional gene therapy so every gene
+therapy on the planet all the ones on
+that Bullseye I just showed you on the
+last slide whether they're from Academia
+industry big Pharma doesn't matter
+every one of those is bespoke and
+personalized for a single indication so
+that virus that you make can only be
+used to treat that one disease and no
+other disease and every one of those
+viruses takes about 10 to 15 years to
+develop so this is very time intensive
+usually on average about two to three
+billion dollars so maybe not necessarily
+as expensive as the gentleman who just
+left the stage but a very very expensive
+technology nonetheless and typically
+treat very very small patient
+populations the definition of a rare
+disease in the United States is anything
+that occurs in fewer than 200 000
+patients a year but most of those Gene
+therapies are going after indications
+with like a hundred patients 200
+patients so very very rare disorders
+and so we wanted to go after something
+that would help much more of humanity
+and so we wanted to ask the question
+could we make a single gene therapy that
+could be used to treat millions of
+patients across a variety of indication
+spaces things like cancer where they're
+often very similar to one another
+could you make a universal gene therapy
+is that even a thing
+and so we wanted to kind of set out on a
+fairly audacious project to not only
+bring viral gene therapy to the oncology
+world but to blend it with one of the
+newest forms of oncology which is this
+idea or this concept of immunotherapy
+many of you have maybe even heard of
+this before there's a variety of
+different ways you can accomplish this
+they all essentially work the same way
+where they retrain your immune system to
+fight cancer and I'm using that word
+retrain very purposefully
+every single one of you in this audience
+has a tumor you've had a tumor every
+single day of your life
+it's usually a single cell you often
+have many of them throughout your body
+your immune system is doing what's
+called background cancer
+immunosurveillance your immune system is
+circulating throughout your body every
+single day and it's actually able to
+detect and find and sniff out where
+those tumors are and get rid of them why
+they are while they are still single
+cells
+how do they do this so that single tumor
+cell wherever it is in your body it
+sends out little chemical cues to the
+local environment as well as the immune
+system and the healthy cells that
+surround that tumor are also able to
+detect something's weird about that guy
+and they'll send a little message over
+to the immune system and they'll be like
+come over and do an investigation check
+him out what's up with him
+your immune system will come over sniff
+it out and be like yeah I agree
+something's up with him and they'll kill
+that cell
+and this is happening all the time
+throughout your entire body
+it's your immune system right now today
+your immune system knows how to fight
+cancer it's Exquisite at it so how in
+the heck do you ever get a
+baseball-sized tumor how does that
+happen it happens because that
+individual tumor cell through a variety
+of different mechanisms there are many
+ways this happens but typically somehow
+through one or two mechanisms it will
+end up basically randomly generating a
+mutation that will give it essentially
+an invisibility cloak that invisibility
+cloak makes it so that those neighboring
+healthy cells can't detect that
+something's up with it so they don't
+send a message to the immune system and
+because it's a little bit invisible your
+immune system also can't just like
+randomly swim by and detect it and see
+that something's wrong and so because it
+can't be seen it can't be destroyed and
+so then it starts to grow and become
+your big baseball size mass and then you
+become symptomatic right and then you go
+to the doctor
+but you can retrain your immune system
+to be able to see that invisible tumor
+and if you can do that with
+immunotherapy then now you've got a way
+to destroy a tumor that doesn't involve
+chemo that doesn't involve radiation
+but basically uses your own immune
+system to fight Cancers and so we wanted
+to blend the power of viral gene therapy
+and the Precision delivery and kind of
+those logic circuits around like do this
+when you experience this these types of
+things with immunotherapy to see if we
+couldn't do something
+important in the cancer space so we
+developed a platform a variety of
+different Universal Gene Therapies in my
+lab at UCSF and spun those out into the
+company and the name of the company is
+actually based off the mechanism of
+action here so we can take these viruses
+have them deliver a variety of different
+kind of cancer announcing payloads that
+will announce to immune system the
+cancer is here and so that way both the
+cancer cell as well as the neighboring
+cells will basically set off the fire
+alarm pull the fire in and let the
+immune system know this is where the
+tumor is come in and fight it and you'll
+have these three different waves of
+tumor killing that can happen both with
+your innate and your adaptive immune
+system
+so while we were still at UCSF we were
+like okay we have this really cool idea
+we want to try this but we're agnostic
+to any particular cancer type because
+again we weren't an oncology lab we were
+a viral gene therapy lab so we went over
+to our colleagues at the Cancer Center
+and we're like what's the gnarliest
+cancer what's the one that nothing works
+we love a challenge tell us something
+that we can work on that will be
+interesting and they said go after brain
+cancer so we decided we'd start
+collaborating with Folks at UCSF to
+determine a brain cancer kind of path
+but how do you test a drug
+in order to make sure it works on human
+brain cancer when you can't test it yet
+on humans because the FDA wants you to
+have a data package before you go up for
+your clinical trial
+so the way you test it is you actually
+make mice with human brain cancer so you
+can take brain cancer samples from
+humans from biopsies and resections
+Transplant those into mice they'll grow
+a mini human brain tumor you can come in
+and now treat them with your human drug
+not your mouse drug your human drug to
+test if it works and look to see whether
+or not you get a response
+and this is a quick little sample from
+three Mice from a treatment group where
+you can see uh those big colored blobs
+or the tumors and the brains of these
+myosis is live non-invasive
+bioluminescent Imaging where the control
+treated mice that receive either a
+control virus or just receive sterile
+saline have massive tumors these mice
+die versus the mice that have been
+treated with our virus where we can
+completely eliminate these tumors as you
+would imagine if you can eliminate the
+tumors with imaging that might just
+correspond to improvements and life
+expectancy so this is the one and only
+graph that I'm showing you very simple
+it's a survival curve the line is
+vertical you died the line is horizontal
+you lived so we can massively improve
+the lifespans of these animals and for
+all intents and purposes cure these mice
+of brain cancer and we're cueing up for
+a clinical trial in 2025.
+so we're excited to start our clinical
+trial in 2025 and very quickly I'm going
+to share with you guys maybe like 15
+three little 15 second vignettes on what
+else could we do with viruses so we see
+a gentleman here sleeping
+how many of you are short on sleep
+every one of you raise your hands come
+on uh so there is a rare mutation that
+happens in patients these are people
+walking amongst us who have a mutation
+in a gene called dec2 these patients
+again single mutation single Gene these
+patients only need four hours of sleep a
+night to be completely rested the same
+way that we have the need for eight to
+nine hours of sleep a night
+you interested in getting this gene
+therapy
+we could do this today
+we haven't yet but we could do this
+today another example most of us in the
+room pretty probably interested in
+longevity
+um we could use viruses to regenerate
+the tissue in your in all of your joints
+maybe get rid of things like cellulite
+viruses brain fog all these types of
+things this is probably a few more years
+out where we're probably five to ten
+years out on being ready to do this but
+this is absolutely coming in your
+lifetime you could get a Rejuvenation
+gene therapy
+you really want to talk far out we could
+talk about maybe 30 years from now we
+could absolutely engineer Humanity to
+withstand life in much more drastically
+harsh environments so we could alter
+your skin color to be able to reflect
+more UV light so you wouldn't get as
+much damage if perhaps say you were
+living on Mars we could engineer the
+cells in your immune or in your gut and
+the bacteria that live in your gut to be
+able to metabolize foods that are more
+easily grown on a martian environment
+and these types of things so really your
+imagination is the limit so could we
+enhance human potential we absolutely
+can it's just a matter of are you
+interested in when
+so happy to discuss the future
+foreign
+[Music]
+times yeah
+can you just
+um
+help everyone understand the
+timing and the regulatory hurdles
+um
+viral gene therapy had a moment where
+there were setbacks
+and just share that with everyone how
+that's affected how this technology has
+been held back how it's progressing now
+and what timelines generally look like
+for getting these uh these uh
+breakthroughs to Market
+absolutely so today if you were to start
+a brand new gene therapy company called
+siren biotechnology or anything else and
+you wanted to develop a viral gene
+therapy and you wanted to get to Clinic
+you're still probably looking for that
+first program in like a 10 to 15 year
+mark and it's not because it's going to
+take you that long to run the clinical
+trials it's not because it's going to
+take you that long to grow up the Vats
+of the drug it's it's mostly going to be
+a regulatory timeline so in between each
+one of these clinical trials even before
+you do your very first ones I mean we're
+ready today we could start our brain
+cancer clinical trial today but we're
+looking at 18 months of paperwork in
+order to file to do that first phase one
+and then you need to do your data
+readouts in between each one of those
+trials there's this kind of massive
+amount of paperwork that goes in front
+of the FDA that needs to be reviewed and
+there's back and forth and so the
+regulatory hurdles both from
+if you weren't even doing anything you
+know really drastic like those last
+three vignettes that I talked about is
+still going to be 10 to 15 years but if
+you wanted to propose something like the
+Sleep one that I mentioned that I think
+we'd all I'm certainly interested in
+um there you're probably looking at an
+ethical review board and whether or not
+they let you do something like that
+because that's not a disease so fun fact
+the FDA only lets you queue up clinical
+trials to test drugs that are for
+diseases but aging is not a disease
+state
+wanting to sleep fewer hours is not a
+disease State insomnia is but wanting to
+just sleep fewer hours and be fully
+rested is not a disease state so we kind
+of have to get to this moment where
+does the FDA start changing their
+definition of disease do we have a new
+regulatory body who will review these
+types of things that are more like
+augmentations and enhancements how are
+we going to Grapple with this as a
+society are we are we okay with this and
+let me just ask one more question it's a
+great it's a great question you pose
+because there is
+increasing consensus that maybe we
+should think about aging itself as a
+disease obviously and that there's a lot
+of approaches now to addressing that
+what about the other challenges to
+completing the research and the trials
+and scalability what are the bottlenecks
+we've talked about I've talked on our
+show about car T therapy and the
+challenge and getting manufacturing
+scaled up to treat enough patients each
+year even though the Technologies here
+it's FDA approved those drugs are in
+Market we just can't make enough what
+are the chat and I've heard a lot about
+uh lentovirus production and all these
+other kind of viral vectors being 18
+month delay super bottleneck how
+bottleneck are we in being able to do
+the research that you guys are doing and
+ultimately to get these products to
+Market make enough of the stuff to treat
+patients so the single biggest
+bottleneck is actually not technological
+at all it's Financial it's access to
+Capital
+um right so these are like I said very
+very Capital intensive the average viral
+gene therapy is about two to three
+billion dollars that's about three times
+more than making one of those chemical
+medicines some of that has to do with
+time how long that process takes right
+every year your company is operating uh
+that GNA oh it's expensive
+um it adds up really fast and so some of
+this is just access to Capital and
+there's right the any company every one
+of us in this room this has a company
+there's depending on your sector there's
+a valley of death for some of you it's
+very very early stage for some of you
+it's a little bit more later stage but
+there's a valley of death where you just
+can't access Capital before you hit this
+like big de-risking milestone where the
+bigger checks will come in and private
+equity and those types of groups and
+crossover funds in your IPO so there's a
+value of death for many of these early
+stage companies where usually either
+after your seed stage or your series a
+but before you've got clinical trial
+readouts where people are very nervous
+to give you a really big check so that's
+certainly the biggest hurdle right now
+and why you see many companies going
+under across the biotech space
+regardless of if they're selling Gene
+therapies and then from the
+technological side it's still
+manufacturing is just like the drum beat
+being able to manufacture these things
+at scale continues to be a challenge we
+need folks who come from like the
+mechanical engineering and these types
+of backgrounds who don't historically
+necessarily think of Biotech as a place
+where they could apply their their
+knowledge and Technologies to please
+come over to biotech and help us make
+you know new generations of bioreactors
+and types of things that will allow us
+to produce these at scale cleanly
+cheaply and easily and it's just not
+intuitive making chemicals at scale is
+something that we've been doing for 40
+years so we're really good at it genenta
+can make kilos of drugs in an afternoon
+with a robot but viruses are still
+something like if I queue up the biggest
+cdmo in the world
+catalent Pharma and ask them to make us
+a 5 000 liter bioreactor a virus they'll
+absolutely say yes but they won't even
+touch it for two and a half years
+um because I wanted to double click on
+the
+concept of making life better for people
+who aren't sick the Marty Seligman from
+the American Psychological Association
+actually posed this question 20 years
+ago and he said well we try to make all
+of psychology and Psychiatry is taking
+depressed people and anxious people and
+making them less depressed and anxious
+what about meaning and fulfillment for
+people who are content what about more
+joy and so when you look at the field
+and it's amazing the progress you're
+making and thank you for doing all that
+work aside from hey can we sleep less
+what else is you know do you do you talk
+about wow if we had the mandate to take
+healthy people and and give them a gift
+of augmenting them making them into
+superheroes almost when we're talking
+about like X-Men mutations here what are
+the fun things that you dream about that
+you could do for Humanity could we all
+just have Vision like Hawks or oh night
+vision is totally possible night vision
+yeah easy
+not literally without the goggles yeah
+easy I mean a world in which that's just
+an FDA like I need a I need the green
+light but no that's easy
+so okay that feels like Professor X kind
+of level I like it what else you
+got keep going
+um night vision would be possible the
+ability to metabolize
+um you know a food that grows perhaps in
+a different environment that not only
+you can't get any nutrients from but you
+can't even absorb it um so we could make
+it so that you could you know pretend
+pretend Soylent tasted good
+um you know uh you could eat anything
+and not only could it taste good to you
+but it could provide you all the
+nutrients that you need and be able to
+grow with you know much less much less
+water and in the types of environments
+that we'll have in in the future planets
+that you know given the climate change
+challenges that we all have
+um as far as other augmentations I mean
+there's there's all of the obvious
+Beauty applications uh that I think all
+of us are already doing uh now this we
+would just be doing this with a
+different modality right so removing you
+know there's a there's a gene therapy
+company in San Diego working on male
+pattern baldness uh there are folks
+working on you know all the wrinkles and
+cellulite and you know getting your hair
+color back and like all of the normal
+Beauty things that you would expect
+that's absolutely coming but as far as
+beyond the obvious Beauty things like
+what other types of augmentations I
+think the mental Health space is a huge
+one because it's it's usually a very
+very simple thing and it's complex but
+it's simple they're usually missing a
+single receptor or a single protein
+somewhere in their brain and if we were
+just able to restore that for them in
+just that location and not everywhere in
+their body
+um you could restore Joy you could
+restore happiness all of these types of
+things do you want to talk about the
+capital markets piece because you
+mentioned you need Capital yeah we're
+fundraising hi yeah and uh tomorrow
+maybe maybe you can help out here but
+you know the biotech Market's been
+decimated oh yeah since November of 21
+and it's really intricately linked to
+interest rates because of how far out
+you have to make a bet on a biotech
+company and so as a result the
+valuations have plummeted 80 90 percent
+in many cases a lot of stuff just not
+getting funded right now
+um maybe tomorrow you can share your
+point of view on where things are headed
+there and um Nicole maybe you can share
+a little bit about what the experience
+has been fundraising even though you
+have a great technology that's got some
+proof points how hard it is well I I
+have a I have a kind of a technical
+question but which is just
+you had to when you picked aav
+you had to make a decision about small
+edits and not large edits I guess right
+so just explain to these guys about what
+payloads are actually possible in AV and
+are you thinking about what happens if
+you actually have to go beyond four KB
+and how are you going to solve that
+so because a lot of the diseases that
+these guys will actually probably
+understand are not small Snips they're
+going to be large you know
+cut and paste two types of gene therapy
+there's Gene transfer gene therapy where
+we give you the whole Gene that you were
+missing like perhaps you were missing
+that portion of your chromosome at Birth
+so that's Gene transfer gene therapy
+we're literally transferring a
+functional copy of the gene back to you
+and then there's Gene editing gene
+therapy where we go in and actually
+correct a mutation in place uh within
+your genome and don't give you anything
+extra so every virus on the planet has a
+carrying capacity it has a size just
+like a sedan can't carry as much as a
+minivan and so aav viruses the viruses
+that I work on are amongst one of the
+smaller viruses so it can only package
+about 4.75 KB so the numbers of
+nucleotides that you can fit inside of
+it and different viruses have larger
+packaging capacities and can fit more
+studs that's 4700 letters of DNA and so
+different viruses will have different
+packaging capacities and so if you're
+doing Gene transfer gene therapy where
+you need to provide the entire copy of
+the gene you can only put in genes that
+will fit with all of the other
+regulatory elements for expression
+within that virus so of all protein
+coding genes since we're typically going
+after diseases that are in influencing a
+protein of all protein coding genes
+eighty percent of those genes can fit
+within my virus so actually the vast
+majority of genetic diseases can be
+treated with aav gene therapy with Gene
+transfer gene therapy with Gene editing
+gene therapy we can treat anything
+because now we're not size limited we
+only need to deliver either the knicker
+or the cutter right many of you have
+heard of things like crispr that's one
+of the many tools we can use to Nick or
+cut DNA and we can either make a Nick
+and have your body repair the mutation
+we can go in and make a Nick or a cut
+and we can cut something out that wasn't
+supposed to be there or we can go in and
+Nick or cut something in your genome cut
+something out and then put something
+that was meant to be there the whole
+time back in all three of those forms
+those Gene repairs and Gene edits are
+all kind of broadly classified as a lot
+of Gene editing gene therapy and all of
+those would fit within a lot of any
+virus there's a high percentage of
+disease I don't know the percentage you
+probably know which is really just like
+one point mutation right yeah huge
+transcribe AC or something is typically
+the biggest one right can you just
+explain to folks in when you think the
+tool chain will exist for us to do those
+single point edits and actually just
+today you can actually go in and
+accurately rewrite an a to a c okay
+today there's a yeah there's a few in
+yeah there yeah
+um guys we got to wrap and I want to
+really thank Dr Nicole Paulk for her
+amazing work
+um
+fantastic thank you so much thank you
+thank you thank you
+[Music]
+[Applause]
+[Music]
+rain man
+[Music]
+we open source it to the fans and
+they've just gone crazy
+[Music]
+I tried

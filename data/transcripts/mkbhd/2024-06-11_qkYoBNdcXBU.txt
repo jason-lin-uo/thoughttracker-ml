@@ -1,0 +1,509 @@
+# WWDC 2024 Recap: Is Apple Intelligence Legit?
+# https://www.youtube.com/watch?v=qkYoBNdcXBU
+
+[Music]
+so we just got done with possibly one of
+the biggest apple WWDC Keynotes of all
+time maybe just because of the state of
+the world and what everyone expects from
+tech companies in 2024 which is AI at
+the front of what you do interestingly
+with apple this time Apple had AI at the
+back half of what they did literally the
+entire first half of the keynote they
+didn't say AI once zero times then the
+second hour they just went all right
+yeah we we actually do have a lot of AI
+stuff to share with you and they just
+spit it all out and of course they did
+manage to Brand it because of course
+they did AI for them is now Apple
+intelligence but look I watched and live
+tweeted the entire 2hour long keynote so
+you don't have to and I've gathered all
+my thoughts and all the most important
+announcements so this is everything you
+need to know that's new and some of my
+takes on it so I'm going to go in the
+same order that Apple went I'm going to
+start with vision OS and we're already
+on somehow Vision OS 2.0 less than half
+a year after the Vision Pro first got
+announced and there are some solid new
+features but I don't know if I would
+call this 2.0 worthy it feels more like
+a 1.2 update but okay whatever we'll go
+with it so there's a new wrist turn
+gesture to quickly see the time and your
+battery percentage and then you can jump
+right from there into the control center
+instead of having to like look way up at
+the ceiling like you had to before every
+time kind of reminds me of the Oculus
+Quest that is easy that's an upgrade
+there's a bunch of immersive media
+features like they let you go through
+your old photos and use Advanced machine
+learning to turn them into spatial
+photos which is really interesting if it
+works and there are also new tools to
+help people create spatial videos and
+immersive videos on cameras other than
+the iPhone but then of course you can
+only view them on a Vision Pro so who
+knows how valuable this will actually
+turn out to be but then this year Mac
+mirroring will get way more resolution
+thanks to it now doing the fiated
+rendering on the Mac so basically it
+frees up a ton of resources and it lets
+you do up to double the resolution so
+you could do a gigantic ultrawide if you
+want it to be that is way more room for
+Windows and activities love that and
+that's pretty much it again it's not the
+biggest 2.0 update we've ever seen but
+it does feel like there's some nice
+updates in there including some new
+environments and the ability to
+rearrange your home screen believe it or
+not you couldn't do that before now you
+can but speaking of rearranging your
+home screen iOS just got one of the
+biggest or at least most interesting
+updates in a long time and I'm just
+going to if you're an Android User I'd
+say for the next like 2 minutes 3
+minutes just go ahead and unplug your
+keyboard for a second and just relax cuz
+yes we've had these features for a long
+time but now it's the iPhone's time to
+shine all right so officially you will
+finally be able to put icons wherever
+you want on the iOS 18 home screen grid
+and it was hilarious that this got a
+whole Applause moment from the audience
+during the keynote as if they just inv
+vented a new feature but fine you've
+been waiting for a long time for this
+have your fun but they didn't stop there
+they added a whole bunch of other
+customization features to the iPhone
+home screen 2 and it started to get a
+little more interesting see there's this
+new theme engine now that lets you go in
+and change the color of every icon and
+widget on your home screen to the same
+color so you can really you can match
+your wallpaper with your icons to frame
+it nicely and have matching colors
+everywhere it's a simple thing and we've
+been doing it on Android with launchers
+for years but the thing about these is
+before this moment basically every
+iPhone home screen look the same we've
+been saying that they've just given you
+the ability to go crazy and kind of ruin
+your home screen if you want to and
+people seem to absolutely want to I have
+seen some rough home screens people are
+making on Twitter a lot of them just
+look terrible and I think the main thing
+I noticed is it seems like there are
+apps that support this whole
+colored thing well and then there are
+apps that don't that just looks like it
+tints the entire it just literally
+applies a color cast to the entire icon
+on your home screen which causes all
+kinds of legibility problems doesn't
+look good there are widgets that look
+horrible that it's just unreadable so
+yeah you can make some some pretty
+looking home screens if you want but you
+can also make some really ugly looking
+home screens and I was trying to decide
+if I like this more or less than what
+Google did on the pixels with material U
+I think technically technically it's
+better because it works on all of the
+icons I don't know how many setups I've
+tried where I wanted to the monochrome
+icons but there are just a few of my
+apps that aren't supported so they end
+up looking kind of like they stick out
+like a sore thumb so at least apple is
+letting you change all of the icons at
+once but anyway Apple's also redesigned
+the control center to be fully
+customizable across multiple pages so
+again there's a lot more going on here
+and there are many more customizable
+shortcuts in more places including
+finally replacing the flashlight and
+camera on the home screen without
+jailbreaking finally and the list keeps
+going stop me if you've heard these
+before but there are you can do hidden
+apps now inside your app drawer so you
+can lock apps into a hidden folder that
+makes it easier than ever to hide Tinder
+from your wife there's also scheduled
+text messages an iMessage great finally
+they're having some fun over there
+there's also text formatting there's
+messages via satellite RCS support was
+very casually but briefly mentioned uh
+the photos app is redesigned there's
+also a game mode that now minimizes
+background activity and minimizes
+Bluetooth latency for peripherals great
+and a new automatic categorization in
+the new mail app so you can tell there's
+there's been a whole bunch of stuff I
+will definitely be doing a larger more
+Focus just iOS 18 video so you can see
+everything that's new there's plenty of
+little stuff that didn't make it into
+the keynote so I'll do a whole Deep dive
+just for that make sure you subscribe to
+be among the first to see that I believe
+we are catching up to Apple and
+subscribers be kind of nice if we pass
+them that'd be sick so then airpods got
+minor updates like voice isolation
+during phone calls spatial audio during
+games and the ability to respond to a
+prompt just by nodding or shaking your
+head taken right from the Sony
+headphones I kind of like it though
+controlling it without using your voice
+is nice then Apple TV gets this new
+feature where you swipe down on the
+remote at any point during a show and it
+just shows you all the actors and
+character names of the people on the
+screen and any song that's playing in
+that moment in real time and there's
+also a feature that boosts people's
+voices so you can always hear them over
+the music and then watch OS they got
+this little training mode that sort of
+balances the trends in your training
+over time and evaluates how hard a
+workout was versus how hard it could
+have been and then iPad OS so this was
+supposed to be Apple's big chance to
+really convince us that the iPad is it's
+something special that's got a little
+something to it that would make us
+convinced that we'd want to get the
+newest one the M4 one that just came out
+over
+just your phone or over a Mac and I'll
+say it did get one incredible
+feature but it didn't really do much
+more than that so the iPad it you know
+gets all the stuff I talked about with
+the iPhone right full home screen
+customization customizable control
+center the new photos app Etc it's all
+great there's also a feature in share
+playay that lets you go in and actually
+remotely control someone's iPad when
+they allow it which seems like a small
+thing but I promise you that is massive
+for family tech support you know who you
+are but the one massive actually
+impressive new feature on the iPad in
+iPad OS 18 and you think I'm joking but
+I'm dead serious when I say this it's
+the calculator app it's the new
+calculator I promise you I was so ready
+to dunk on this like I had had a tweet
+like drafted up as they were talking
+about it we finally brought the
+calculator the iPad and there were
+screenshots of it and it looked just
+like the iPhone app and I was like
+really this is this is what you were so
+hyped about had that clip CED up ready
+of Craig federi being like yes we had to
+do something super special to finally
+bring their calculator to the iPad but
+then then they pulled the apple pencil
+off the side and they pulled up what's
+called math notes and it was pretty sick
+so now on the iPad you can actually
+write down equations in handwriting and
+it will understand what you wrote and
+it'll answer the question in your
+handwriting and then if you adjust the
+equation or add new information or
+something it automatically updates the
+answer which was so sick I don't know
+why I'm so impressed with this but it
+was really cool to play with and look at
+so if that wasn't impressive enough it
+also supports variables so you can have
+variables written all over the page so
+look at this it has G and X and A and H
+and then it's a labeled y as the height
+here so you can ask for an equation
+using these variables and it can give
+you an answer and if you want you can do
+a y equals equation and it'll give you a
+graph with real time adjustment of any
+of the variables in your equation I mean
+I I wish I was in sixth grade again so
+this could be my full-time calculator
+this is sick now at this point in the
+keynote they haven't even actually said
+the word like AI a single time yet I
+think this is pretty clearly AI this is
+like handwriting recognition this is
+like semantic understanding of all the
+things happening on the page it's good
+AI well played Craig you did it okay but
+this is before the actual AI section but
+also this wasn't mentioned on stage but
+this is also coming to the iPhone's
+calculator app as well but then Mac OS
+Mac OS has its newest version It's
+called Sequoia and it does also get a
+nice little grab bag of new features
+there's uh automatic window snapping now
+finally built-in you don't need a third
+party app to do it anymore sherlocked uh
+there's built-in backgrounds for any app
+that uses the webcam feed there's also a
+new password app that basically just
+takes what was buried in the settings
+before and just makes it its own
+Standalone app so it's actually on Mac
+iPad and iPhone but probably the biggest
+thing is iPhone mirroring so this is
+another continuity feature that
+basically just lets you wirelessly
+always see your iPhone on your Mac it
+merges your notifications and audio with
+your Macs and lets you drag and drop
+things back and forth between your phone
+that's sitting next to you and your Mac
+I kind of wonder if this hits your phone
+battery harder than normal they didn't
+really say Obviously so I'm going to
+have to test this but I imagine if
+you're just sitting on a wireless
+charger then it won't matter but I'll be
+checking that out but then we arrived
+they did all the sections with all the
+other operating systems and now we got
+to the part where Apple's going to talk
+about AI stuff kind of now I don't know
+if you remember this but a couple months
+ago not that long ago I did an entire
+video on all of these phrases that it
+seems like apple refused to say on stage
+they just would not say them and AI is
+one of them they just didn't say it
+they'd say anything else neuron Nets
+machine learning all sorts of other
+things like that
+but the times are the times people want
+to hear Apple talk about AI so they
+finally did and they also like I said
+they they rebranded it just for
+themselves just to just comedere the AI
+name and so now it's called Apple
+intelligence in apple land so here's
+basically what you need to know about
+Apple intelligence right so Apple has
+already had AI features on their devices
+before they've had the neural engine
+inside of their chips and they've done
+things like you know smartly cutting
+subjects out of photos they've done
+things like autocomplete on the keyboard
+that's already existed but this new
+Apple intelligence is basically a bucket
+of these new generative models and what
+they do on your devices so there's these
+new diffusion models generative models
+and large language models that are all
+built by Apple that bring new
+functionality to the supported devices
+and actually I'll just get that out the
+ra right off the bat these are only
+supported on the highest end versions of
+currently available Apple silicon so
+that just means iPhone 15 Pro and any
+iPad with M1 or later and any Mac with
+M1 or later so what does that look like
+well basically starting with these new
+os's there's a small Suite of tools
+that's kind of sprinkled across
+everything it's not like there's one
+apple intelligence app or something like
+that they're just kind of sprinkled
+throughout so here's an example writing
+tools you know we all know how powerful
+these large language models can be so
+anytime you're writing in you know Pages
+or keynote or basically anywhere where
+there's a cursor you can use the writing
+tools to summarize or rewrite something
+that you've already written it can
+change the writing style or just
+proofread just basic useful stuff here's
+another one remember the Magic Eraser
+Tool in Google photos and these Android
+phones that use it Apple's finally doing
+that too built into their own photos app
+is a cleanup tool and it's basically the
+same idea this will identify background
+items it'll let you Circle items you
+don't like in your photos and just get
+rid of them fill in the background with
+gener to fill super quick and there's
+also gen emojis generative emojis and
+this may feel really old cuz I would
+never use this but apparently there's a
+whole group of people who go through
+searching for emojis and then they find
+that there's one that doesn't exist and
+they're like dang I wish I could just
+make an emoji for this moment right now
+and for those people yeah now now you
+can you can generate a new Emoji you can
+literally type it fit in like a prompt
+and the diffusion model will create that
+new emoji from scratch in the style of
+all the other emojis and they had an
+entire thing called the image playground
+that's built into a bunch of Apple's
+apps but also has its own separate app
+that lets you create these nice little
+square images with prompts in three
+different styles sketch illustration and
+animation and yes there are also Siri
+improvements that's using the large
+language models to generally understand
+context better and just generally be
+better and more natural at being an
+assistant that isn't garbage and later
+in the year it will also be able to pull
+info from inside of apps and take
+actions inside of apps for you too I
+remember when this was like a huge Bixby
+feature on Samsung phones so that's cool
+to see plus there's also this like big
+pretty new full screen animation when
+you're triggering Siri to tie it all
+together its vo is apparently slightly
+updated and you can now also type to
+Siri instead of talking to it out loud
+every time which is long overdue but
+also nice there's Notes app summaries
+there's phone call summaries just all
+kinds of you know features sprinkled
+around like I said definitely I want to
+I think I'll end up making a video just
+summarizing or testing or reviewing all
+of the Apple intelligence stuff cuz it's
+kind of all over the place but now you
+know what it is but one question that's
+been floating around the internet is
+what stuff is happening on device versus
+things that have to go to the cloud and
+this is also come up a lot because you
+might have also heard about Apple
+partnering specifically with open AI to
+integrate chat GPT 40 into this apple
+intelligence stuff so it's a big
+question everyone's wondering so I got
+the official answers from Apple and the
+answer is basically almost everything
+happens on device intentionally and
+those are from Apple built models so
+that should be the fastest stuff that
+happens but in the chance that there are
+things that are too complex or just
+outside of the area of expertise of
+Apple's models then it can basically go
+one of two ways one is it will go to a
+larger server-based model that's on
+servers that Apple has built with apple
+silicon using what they call Private
+Cloud compute so basically the info is
+never stored or sent to Apple it's still
+going to have the downsides of having to
+go off of the device up to the cloud it
+might take a bit longer if you're in an
+area with terrible internet might not
+work at all but in the chance that this
+is like a big complex thing that could
+benefit from those models that's what
+it'll try to do but the other is when
+you specifically ask it for something
+that chat GPT would be good at and if
+that happens then it will specifically
+ask you hey is it cool if I ask chat GPT
+for an answer to this question and then
+you can give it a yes or no on the spot
+so anytime it wants to do this whether
+it's to upload a photo that you're
+asking something about or just a complex
+prompt in general then this little
+dialogue box pops up and you have to say
+yes every time and then you can tap into
+everything that open AI model is capable
+of or generate even more realistic or
+varied random different styles of images
+that Apple's diffusion models would
+never make this is all free without an
+account um at no point is open aai
+allowed to ever store any of these
+requests and Apple has also said that
+they will obscure your IP address so you
+can't even open AI can't even connect
+multiple requests together to form a
+profile of you there's just a lot of
+thought that's gone into ideally making
+this as secure and private of a version
+of going to the cloud for AI features as
+they possibly can so yeah it's really
+interesting a lot of interesting stuff
+going on here I think my overall take
+with a lot of this WWDC announcements
+and with the the Apple intelligence
+stuff is that first of all is that like
+the Humane pin and the rabbit R1 they
+were so doomed from the start like
+there's no even if they were good up to
+this point there's just no way they
+could be as good as
+this stuff on your phone with all the
+personalization all the info that they
+already know about you so I guess that's
+confirmed but also it's it just kind of
+it does feel like we've entered a new
+age with apple I think the AI stuff is
+so important that it very much is what
+we're most interested in and it
+overshadows like honestly what what
+could possibly be your favorite non- aai
+feature from the past couple things
+moving home screen apps and icons
+everywhere like that might be the
+biggest thing but it's up to this point
+now all about what this intelligent
+stuff can actually do for you and what
+it can bring you so that's what I'm
+really excited about I'll be working on
+some videos very soon about a lot of
+this stuff so definitely like I said get
+subscribed if you haven't already but
+this has been your overview your what
+you need to know thanks for watching
+catch you guys in the next one peace

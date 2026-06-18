@@ -1,0 +1,155 @@
+# Internet Explorer 9 Beta
+# https://www.youtube.com/watch?v=ZrHSO3ZldEk
+
+hey guys MKBHD here back with another
+highdefinition video and today we're
+going to be taking a look at Internet
+Explorer yes I didn't think I would be
+saying this or ever doing a video about
+this but today we have the newest
+version of Internet Explorer 9 beta
+which is actually a humongous
+improvement over Internet Explorer 8 the
+final version so just so you guys know
+this yes is still in beta which means
+it's not meant to be your full-time
+browser but you certainly could go with
+this option if you're still using
+Internet Explorer 8 so this is the first
+page it greets you with you can see it
+says welcome to a more beautiful web you
+can see how it works and you can see
+it's actually pretty much broadcasting
+that fish tank test we looked at back in
+our Google Chrome 7 video so basically
+I'm going to give you guys a look over
+the overhaul of the user interface what
+I like to call an interface lift so
+we'll close out of that here so you can
+see there's a whole lot of screen space
+at the bottom and up here next to the
+URL bar there's a very nice usage space
+which I could actually get used to in
+something like Chrome or whatever who
+else uh decides to adopt this you have
+the URL bar on the left hand side with
+back and forward and your typical Omni
+bar here which you'll see uh with
+something like uh Google Chrome then you
+have the x button for stopping things
+and reloading then you have your tabs
+here you can open a new tab and you'll
+presented with this nice little most
+visited sites so you can see this is the
+least active I've only visited this once
+visited this once and I've visited
+Google a ton of times so that's
+basically uh how it'll sort your most
+viewed pages so you can open a new tab
+that way all the way over on the right
+hand side here there's your home button
+of course my home is google.com
+ironically enough there's also your
+favorites button typical Microsoft you
+can obviously obviously obviously move
+it over to the left hand side uh with
+that button and close your favorites
+here and it has a chrome like tools
+button with that little wrench so you
+can print and do all your different
+things I really think this is a much
+better implementation if you saw
+internet EXP Explorer 8 there was a
+giant uh area here where you would
+actually have all your tools and things
+uh you wouldn't be able to have them
+just behind one little button right here
+just like that so that's really nice so
+something else I want to show you guys
+is that fish tank test if you remember I
+did that in the Chrome 7 video it did
+perform relatively well not stunning but
+certainly better than the last version
+of Google Chrome so you can find this at
+the link in the description along with
+the download link to Internet Explorer 9
+and I'll make sure I get it right this
+time so you can see right off the bat
+with the screen recorder going you can
+see we're getting about 55 frames a
+second with 20 fish which is very
+impressive you're not going to get all
+those frames see we max out at 60 frames
+a second here we go to 50 fish with
+Hardware acceleration we still maintain
+that 100 fish with Hardware acceleration
+or over 30 frames a second so this is
+going to perform a lot better than
+Chrome 7 I never thought I'd say that
+but it's actually really uh basically
+with hard oil acceleration movements
+going on within your browser and things
+like this are going to perform much
+better so of course with one fish we're
+going to get a ridiculous frame count uh
+something else we want to show you guys
+is the acid 3 test a very popular test
+of course by standard it'll Bing search
+everything uh you can obviously well you
+can change this to be Google I haven't
+exactly gone through the preferences yet
+you can go to internet options just like
+you could in the last version and I
+suppose you can change that to Google
+but I'm actually fine with being I don't
+have a problem with it so let's go ahead
+and check out the acid 3 test you saw
+the scrolling bar up there uh and it
+looks like we are going to be stuck at
+an awkward 70 95 I do recall people
+saying in the Chrome video that they got
+95 out of 100 and that was just a quick
+little image rendering problem somewhere
+you're not really going to notice it in
+everyday browsing but there is something
+to notice that you're you're not going
+to get 100 out of 100 so like I said
+this is a much faster version of this
+browser I'm going to go ahead and uh
+exit out of it and actually bring a
+shortcut over to our desktop so you can
+see how how fast it actually opens up so
+here we go 3 2
+[Music]
+1 so it's actually pretty fast if you if
+you ask me it's not quite at the speed
+of chrome but it's definitely going to
+force me to drop something like Firefox
+uh not to make any Firefox fans mad out
+there but that does take quite a bit
+longer to open than Internet Explorer
+and you got to you got to admit that's
+that's something to to look up to so if
+we go to YouTube a site that we may
+visit every day it's still not the
+fastest browser out there but you can
+tell it's got a whole lot more
+enhancements especially in the user
+interface side of things than Internet
+Explorer 8 so overall this is definitely
+a thumbs up if you want to go ahead and
+try this if you're still using an older
+version of Internet Explorer you can go
+ahead and upgrade to this beta you won't
+have any problems so this has been my
+quick little overview of Microsoft's
+latest attempt at a decent browser and I
+have to say they've done a much better
+job than I had anticipated but it's
+still not going to be bringing me off my
+trusty Google Chrome just throwing that
+out there all right so MKBHD here with a
+video review of Internet Explorer 9 beta
+talk to you guys in the next video
+signing out
+peace

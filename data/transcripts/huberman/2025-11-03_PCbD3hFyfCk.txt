@@ -1,0 +1,3771 @@
+# How A Doctor Cured His Own Terminal Disease | Dr. David Fajgenbaum
+# https://www.youtube.com/watch?v=PCbD3hFyfCk
+
+My doctor explained to me that we were
+out of options. He said, "David, we've
+tried everything. You know, we tried
+these chemotherapies, we tried this one
+experimental drug. Um there's nothing
+more that we can do." There was a few
+minute period where my dad, my sisters,
+and and my girlfriend around me, and we
+were just um
+just bawling our eyes out. You know,
+we're This is the world's expert, and I
+kept probing him like, "Is there any
+cell type or signaling pathway? Or is
+there something we can target?" Like,
+anything. He said, "David, there's
+nothing." "Is there anything in early
+stage of develop David, there is
+nothing." I I heard what he was saying,
+but then I thought to myself,
+"You just gave me seven chemotherapies
+that were made for lymphoma and my
+multiple myeloma,
+and they've saved my life now three
+times. They're not It's not long-term.
+Like, I know I keep relapsing, but like
+if these seven chemotherapies are
+working, how do we know there's not an
+eighth chemotherapy or a ninth drug for
+something else? Like, you can't tell We
+haven't tried all 4,000 drugs. We've
+just tried the drugs that maybe we
+thought to try." And so, I just locked
+in right then, and I turned to my family
+and just sort of wiped away my tears and
+said, "I'm going to dedicate the rest of
+my life, however long that's going to
+be. It might be a couple days, maybe
+it'll be a couple months, but however
+long I've got to trying to find out, is
+there a drug out there that could help
+me and other patients with my disease
+that's made for another condition? I
+just believe that the 4,000 drugs we
+have today should help all the patients
+who can benefit from them."
+Period. Like, no one should suffer if
+there's a drug at your CVS to get help
+you.
+Welcome to the Huberman Lab Podcast,
+where we discuss science and
+science-based tools for everyday life.
+I'm Andrew Huberman, and I'm a professor
+of neurobiology and ophthalmology at
+Stanford School of Medicine. My guest
+today is Dr. David Fajgenbaum. Dr. David
+Fajgenbaum is a professor of
+translational medicine and human
+genetics at the University of
+Pennsylvania. His work focuses on
+finding novel cures to both rare and
+common human diseases by using drugs and
+other treatments that already exist and
+that are approved for use in humans for
+other purposes. As it turns out, most
+approved drugs impact at least 40
+different pathways and mechanisms across
+the human brain and body. But these
+drugs are generally approved for use in
+just one or two of those pathways. David
+shares with us the many commonly unknown
+yet powerful benefits of drugs that are
+already approved for things like heart
+health, combating cancer,
+neurodegeneration, and more. From his
+own near-death experience with
+Castleman's disease, David discovered
+that the medical profession already has
+in hand excellent treatments and perhaps
+even cures for many of the childhood and
+adult diseases that the medical
+profession deems incurable or
+untreatable. In addition to running his
+laboratory where they search for novel
+treatments and cures using already
+approved drugs, David has started a
+not-for-profit called Every Cure, which
+helps people find treatments and cures
+to diseases that the medical field has
+essentially deemed untreatable. And that
+work has already saved countless lives.
+Our discussion today is about how to
+navigate your health journey and how to
+approach the treatment of any illness
+that you or a relative may face. It's
+also about the fact that while the
+fields of medicine and science are truly
+incredible and well-intentioned, they do
+have a giant blind spot built into them,
+which is that many effective treatments
+and in some cases cures exist to
+diseases that we are told are hopeless
+to treat. And that even the best-trained
+and well-meaning MDs are often unaware
+of those treatments. Not because they
+are lazy or that they have some other
+agenda, but simply because of how
+medications are studied, patented, and
+categorized. As you'll soon learn, Dr.
+Faganbaum is on a mission to educate
+doctors, scientists, and most
+importantly you, the general public,
+about these facts. He has lived them
+directly. He's an MD who got very sick
+with what he was told was a terminal
+disease. And when the existing system
+left him at a cliff, he went about
+curing that disease using old
+medications in new ways. And he is now
+helping others who need to do the same.
+Before we begin, I'd like to emphasize
+that this podcast is separate from my
+teaching and research roles at Stanford.
+It is, however, part of my desire and
+effort to bring zero-cost to consumer
+information about science and
+science-related tools to the general
+public. In keeping with that theme,
+today's episode does include sponsors.
+And now for my discussion with Dr. David
+Fajgenbaum.
+Dr. David Fajgenbaum, welcome. Thanks so
+much for having me.
+These days people are very concerned
+about their health even if they're
+healthy.
+And I think the reason for that is ever
+since
+uh 2020,
+I think people have started to realize
+that they need to do
+more self-advocacy in terms of their
+health, whether or not it's behaviors to
+take care of their health, uh learning
+how to explore medical and health
+information online more effectively.
+No one knows who to trust.
+Um and yet people are realizing that
+they are a critical element in their
+health. And should they encounter
+challenges to their health,
+they realize they can no longer be
+passive participants and just go to
+their doctor. Um that doctors are human,
+too. Um So, you have a very unique
+health story and and we'll get into
+that. But
+maybe we can just start off by educating
+people a little bit about some of the um
+common misperceptions in order to uh
+give them more sense of agency
+uh about what they can do. One of the
+things that you've been uh very vocal
+about is that you believe through
+experience and observation that
+many of the treatments
+or even potential cures for the things
+that challenge people may already exist
+in the form of medicines that are
+prescribed or available, maybe even over
+the counter.
+But that people, including doctors, are
+not aware of that. Could you just
+elaborate on that? What we're basically
+saying is
+the answers may already be here. Sure.
+Well, first of all, I love that you're
+talking about agency in in health and in
+medicine, cuz I think oftentimes we talk
+about agency, you know, I can get a good
+night's sleep or I can exercise and eat
+well in the sense of wellness, but
+oftentimes when people get really sick
+with a horrible disease, whether it's
+cancer or Castleman's, feel like, "Well,
+we're just going to do whatever our
+doctor our local doctor tells us to do."
+Um but you're right. I think that um
+there's so much more that we can do and
+there's so much agency that we can take.
+And part of it to your point is that
+there are drugs that we have. There's
+4,000 FDA-approved drugs that are
+approved for about 4,000 diseases, but
+we know from laboratory work and also
+from clinical trials that many of those
+drugs can be used in more diseases, but
+unfortunately, the system really isn't
+set up to find new uses for old
+medicines. And so,
+that's the work that I do, but I also
+think it gives all of us uh really a
+sense of responsibility that if we're
+diagnosed with a bad disease, that we
+find out what's the disease organization
+advocacy group. Maybe they're aware of a
+drug being used in one part of the world
+that others aren't. Who's the leading
+expert? Can you go drive to see the
+leading expert? And can you make sure
+that once the expert tells you what to
+take, you ask questions like, "Is there
+is there potentially something else?"
+I think of aspirin for instance. Um most
+people think of aspirin as a pain
+reliever, yep, but aspirin is now used
+as a way to offset heart attacks mhm for
+its blood-thinning effects among other
+effects. Um
+just off the top of your head, I'm not
+not trying to
+test you here. You're you're the the MD.
+Uh I'm the PhD as we were talking about
+before. I'm not going to test you on
+medicine. I'm not I'm not equipped to.
+Um
+but are there other uses for aspirin
+that we perhaps haven't heard of or or
+similar drugs that might surprise
+people? Yeah, aspirin also has been
+shown to reduce risk of recurrence of
+colon cancer. Um particularly
+individuals colon cancer that have a
+mutation actually in the mTOR pathway.
+Um but because it's aspirin because it's
+sort of widely available and it's not um
+doesn't have
+uh maybe the same sort of system behind
+its use, it's really not actually
+utilized by all the patients that have
+colon cancer to reduce the risk of
+recurrence of colon cancer. And like
+that's sort of mind-blowing in itself.
+And there are other great examples. Um
+many
+folks have probably heard about how
+Viagra was repurposed from heart disease
+to its well-known use. Most people are
+aware of erectile dysfunction, but most
+people don't realize that it's also been
+repurposed for a rare pediatric lung
+disease. Kids were dying cuz they
+weren't getting enough blood flow to
+their lungs, and if they take Viagra,
+they can actually get blood flow to
+their lungs and and live full lives on
+Viagra. And that fortunately was
+discovered early on in the patent life
+of Viagra, so there was really a way to
+push it forward. A lot of times these
+happen after drugs are generic. Isn't it
+that the cousin of Viagra, Cialis, was
+initially tadalafil used to encourage
+prostate health, circulation to the
+prostate, and then only later was it
+discovered to have these other effects
+related to sexual function?
+&gt;&gt; That's right. Yeah, and you know, we
+talked about the side effect of a drug
+can be bad or can be good. We were
+chatting earlier, you know, the average
+small molecule, so a drug that's
+approved for a condition can bind
+between 20 and 30 different proteins in
+the body. So we call a drug, you know,
+we say it does one thing, but actually
+it's doing a lot of other things in the
+body, and unless
+that drug company began working on it
+early on for that condition, often times
+those insights and those other roles for
+the medicines just fall through the
+cracks.
+So the idea that a drug is useful for
+other things aside from what it's best
+known for Yep.
+&gt;&gt; is
+seldom discussed, whereas side effects
+are being discussed more and more
+nowadays. Yep. Tell us about lidocaine.
+Sure. This is fascinating.
+Sure. So yeah, I couldn't believe it
+when we came across this. So so I run a
+nonprofit called Every Cure. We scan the
+world's knowledge of every drug and
+every disease to find new uses for the
+medicines we have. And when we came
+across lidocaine, we were just sort of
+blown away. So lidocaine, of course, the
+numbing medicine you get if you go to
+the dentist, and you know,
+it's used all over the body for for
+numbing all kinds of things. There's
+interesting data, actually a large trial
+that was done in India um 1,600 patients
+where women who had localized breast
+cancer, if they had lidocaine injected
+around the tumor before surgery, 8 to 10
+minutes before surgery, there was a 29%
+reduction in mortality at 5 years versus
+those who did not have lidocaine
+injected. Now, lidocaine is already
+going to be used during the surgery.
+It's used at the site of the incision.
+It's widely used, you know, in so many
+cases. And what's so interesting, it was
+published in a great journal, the
+Journal of Clinical Oncology, yet
+there's still been barely any uptake all
+around the world. And so, this is just
+sort of another another example for us
+for why you've got to have an entity
+that's looking for these great
+opportunities and then actually doing
+the work to make sure that they get into
+patients. Cuz there's close to no
+downside of something like lidocaine.
+And and if the upside is high as a 30%
+reduction in mortality, I don't know how
+it's not being used all over the place.
+Is lidocaine an expensive drug? It's a
+very inexpensive drug. Um it's, you
+know, pennies an injection. And that
+doesn't mean anyone's hiding lidocaine.
+I'm of the belief that drug companies do
+such important work to develop brand new
+drugs. And they're so good at it. They
+do a great job getting those drugs to be
+used for the uses that they're intended
+for. And it's no one's fault. But once
+that drug becomes generic, like
+lidocaine's been generic for decades,
+that means that there's a number of
+other companies that make the exact same
+drug. And the profit for each of those
+doses becomes close to, you know,
+pennies an an injection. And so, again,
+it's not that anyone's hiding it, but
+it's just that no entity is incentivized
+to actually go call on doctors and say,
+"Hey, did you do the lidocaine before
+your surgery?" Or to like to really push
+to get them into guidelines. And I will
+say this was a really major study, this
+study that was published or that was
+done in India. It was published in a
+great journal. There's interesting
+laboratory data. But we at EverCure
+actually feel responsible to better
+understand the potential mechanism for
+how it might work. And also to review
+the evidence wholly before we actually
+go out and start, you know, encouraging
+everyone to do it. So, there's there's
+still steps that have to be taken. But
+but our belief is that when you come
+across something, you know, that looks
+promising like this,
+we need to have some group that's
+actually pushing and pushing to make
+sure that it actually gets to patients
+once you feel comfortable with the data.
+I'd like to take a quick break and
+acknowledge our sponsor, Eight Sleep.
+Eight Sleep makes smart mattress covers
+with cooling, heating, and sleep
+tracking capacity. One of the best ways
+to ensure a great night's sleep is to
+make sure that the temperature of your
+sleeping environment is correct. And
+that's because in order to fall and stay
+deeply asleep, your body temperature
+actually has to drop by about 1 to 3°.
+And in order to wake up feeling
+refreshed and energized, your body
+temperature actually has to increase by
+about 1 to 3°. Eight Sleep automatically
+regulates the temperature of your bed
+throughout the night according to your
+unique needs. Eight Sleep has just
+launched their latest model, the Pod 5,
+and the Pod 5 has several new important
+features. One of these new features is
+called Autopilot. Autopilot is an AI
+engine that learns your sleep patterns
+to adjust the temperature of your
+sleeping environment across different
+sleep stages. It also elevates your head
+if you're snoring, and it makes other
+shifts to optimize your sleep. The base
+on the Pod 5 also has an integrated
+speaker that syncs to the Eight Sleep
+app and can play audio to support
+relaxation and recovery. I've been
+sleeping on an Eight Sleep mattress
+cover for over 4 years now, and it has
+completely transformed and improved the
+quality of my sleep. If you'd like to
+try Eight Sleep, go to
+eightsleep.com/huberman
+to get up to $350 off the new Pod 5.
+Eight Sleep ships to many countries
+worldwide including Mexico and the UAE.
+Again, that's eightsleep.com/huberman
+to save up to $350.
+Today's episode is also brought to us by
+Aura. Aura makes what I believe are the
+best water filters on the market. It's
+an unfortunate reality, but tap water
+often contains contaminants that
+negatively impact our health. In fact, a
+2020 study by the Environmental Working
+Group estimated that more than 200
+million Americans are exposed to PFAS
+chemicals, also known as forever
+chemicals, through drinking of tap
+water. These forever chemicals are
+linked to serious health issues such as
+hormone disruption, gut microbiome
+disruption, fertility issues, and many
+other health problems. The Environmental
+Working Group has also shown that over
+122 million Americans drink tap water
+with high levels of chemicals known to
+cause cancer. It's for all these reasons
+that I'm thrilled to have Rora as a
+sponsor of this podcast. I've been using
+the Rora countertop system for almost a
+year now. Rora's filtration technology
+removes harmful substances, including
+endocrine disruptors and disinfection
+byproducts, while preserving beneficial
+minerals like magnesium and calcium. It
+requires no installation or plumbing.
+It's built from medical-grade stainless
+steel, and its sleek design fits
+beautifully on your countertop. In fact,
+I consider it a welcome addition to my
+kitchen. It looks great, and the water
+is delicious. If you'd like to try Rora,
+you can go to rora.com/huberman
+and get an exclusive discount. Again,
+that's rora, r o r r a.com/huberman.
+There are a couple avenues that we can
+explore given what you've said so far,
+but the one I'd like to drill into a bit
+is this thing related to drug companies
+and patents. I don't want to set up the
+idea that um everything is um
+conspiratorial. And yet, years ago when
+my laboratory was working on eye
+diseases, glaucoma in particular, I
+spent a lot of time around people
+working at companies that develop drug
+treatments for eye diseases. They've
+developed great drugs for the treatment
+of um over vascularization of the eye,
+for instance, that can cause blindness
+or it's related to some blinding
+diseases. And I learned that many of
+these drugs um go to market, they are
+quote-unquote blockbuster drugs,
+people's symptoms improve, these drug
+companies make a lot of money,
+and then the patent is headed toward
+expiration, and at that point the cost
+of the drug drops Yep. markedly.
+So, the drug companies are heavily
+incentivized,
+I learned, to find new
+uses for that drug to renew the patent
+under this new application. Yep.
+To basically keep the generics away.
+And on the one hand it makes sense
+because the the research and development
+for a drug is exceedingly expensive. And
+so if they can repurpose the drug and
+maintain the patent for two diseases
+essentially, one drug two diseases,
+this is kind of the the bread and butter
+of how drug companies get and remain
+very wealthy.
+It has two what I consider um kind of
+darker sides to it. One is that the
+generic cheaper drugs
+um don't arrive on market for a much
+longer period of time.
+The other
+side of the coin however is that
+you know, people suffering from a
+different disease now can take this
+drug. Yeah. But that second darker piece
+is that
+drug companies are not very incentivized
+to go look for new molecules to treat
+new uh conditions. They are heavily
+incentivized to use old molecules to
+treat new conditions and maintain
+control.
+There's a lot in in this statement but
+my understanding is this is how it
+works. And so how do you reconcile that?
+I mean, how is it that we should be
+exploring existing drugs for new
+conditions
+but do it in a way that's really driven
+toward curing a disease as opposed to
+just kind of finding a new purpose so we
+can keep the generics out for a while.
+Yeah, it's such a good question. So
+you're you're absolutely right that as
+drugs begin to reach their patent cliff,
+often times the drug we the dose might
+be changed slightly, the formulation
+might be changed slightly to create new
+intellectual property so that way this
+sort of new version can be used in that
+same initial disease.
+Um which to your point there's there's
+you know, I wouldn't say pros and cons.
+There's there's there's you know, side
+effects of that sort of a system. But
+what is pretty clear is that companies
+will typically not as it's getting close
+to patent exclusivity find a new disease
+to go after with that drug. It's usually
+the same disease, it's just a new
+formulation. Um so that way they can
+keep working that disease. And what that
+means is that
+though that drug might be able to use be
+used for a different disease, that's
+rarely explored. And so especially to
+your point, once it's generic, I mean,
+all all research and development
+discontinues. And even
+I mentioned earlier that there's 4,000
+FDA-approved drugs. They They work for
+4,000 diseases. That's incredible. Um
+but there's still 14,000 diseases that
+don't have a single treatment right now.
+And of the 4,000 drugs we have, 80% of
+them are already generic, which means
+that there is no incentive to find a new
+use for this medicine. So like, every
+time I walk past the CVS, all I think
+about is how many drugs are in there
+that are used for one condition, but
+could actually help so many more kids or
+or adults with other conditions. And
+we're hearing a lot these days about
+lithium Mhm. as a potential um
+protectant Yep. uh for Alzheimer's or
+other forms of dementia. I don't know
+that the data are so solid that I'm
+ready to run out and take lithium, so
+I'm not suggesting that to anybody. But
+I know a few psychiatrists that uh tell
+me for years they've been taking
+low-dose lithium for a couple months out
+of the year Mhm. based on their
+understanding of the data. So you've got
+doctors doing things. People don't often
+talk about this, but doctors often will
+do things that based on their read of
+the literature that they're not talking
+to their patients about because they're
+not in a position to do it ethically.
+They There's too much liability there.
+Where and how should the typical person
+without any training in medicine or
+science or even a little background in
+science go to find information about
+existing drugs, generic or otherwise,
+that could help them treat their
+ailments, be it a skin condition Yeah.
+or something as serious as cancer? What
+I'd recommend is The first is is to make
+sure that you're connecting with
+whatever the disease group is for your
+condition. They often times are so well
+connected physicians all over the world,
+they hear about what things are being
+tried. So connect with whatever your
+condition, whatever that disease
+organization is. Could you explain
+disease organization?
+&gt;&gt; like the Castleman Disease Collaborative
+Network is the group that's come
+together to support Castleman's patients
+and and to physicians and researchers.
+There's an ALS Association, for example.
+There's Michael J. Fox for Parkinson's
+disease. So, find that group that has
+coalesced around your condition cuz
+they'll often times have, to your point,
+understanding about, "Hey, I heard this
+one patient's using this one thing." So,
+I'd go to I'd go there first. The second
+is I would figure out where is the
+world's expert? Who is that person that
+really is is the guru? They'll often
+times have insights on these things. And
+then the third
+is to is to really keep asking
+questions. So, like even when they say,
+"This is the first that's recommended."
+Well, is there something else that's
+like used somewhere else and and
+Sure, one example of this,
+it's it's it's a bit heartbreaking, but
+also um
+really powerful and informative. And
+that's that there's a a rare condition
+called dada2. Basically, kids are born
+with a mutation in a gene that results
+in them having dozens and dozens of
+strokes from the time they're born until
+they usually pass away in their teenage
+years because of the accumulated effect
+of literally dozens of strokes. It's
+horrible. Well, about 20 years ago, a
+doctor apparently was treating a patient
+with dada2 and also treating a patient
+with a a form of vasculitis and and and
+treated that patient with vasculitis
+with what's called a TNF inhibitor. It
+inhibits this one side of kind called
+TNF. And he apparently had left TNF
+inhibitor in his vial. And he was like,
+"You know what? We've got this kid over
+here having all these strokes. Why don't
+I just try what I've got in this vial in
+this kid?"
+Well, the kid stopped having strokes.
+And that was amazing. And so, this
+doctor, the next few patients he had
+with dada2, he treated them for their
+strokes. But about 10 years went by.
+Meanwhile, hundreds and thousands of
+kids around the world are dying from
+dada2 where the word wasn't being spread
+until this amazing doctor named Chip
+Chambers sadly had two children born
+with dada2. And he started looking
+around to figure out and learned about,
+"Oh my gosh, TNF inhibitors." Um, was
+um, honored to be able to help Chip and
+his team to basically bring data
+together on the effectiveness of TNF
+inhibitors. Also, even come up with
+treatment guidelines for how do you
+treat data, too. And it turns out that
+if you start kids on a TNF inhibitor,
+they stop having strokes.
+All over the world, literally, it's a
+life-changer. And so, the reason I share
+this as an example is that
+the world knew, someone in the world
+knew that you could save kids' lives
+with a TNF inhibitor, but the world
+didn't know. And we hadn't gotten the
+word out about it. And to me, like,
+that's such that's so heartbreaking.
+It's almost like a travesty, you know?
+It's one thing if you have a horrible
+disease, um, and and everyone dies from
+it and there's nothing out there. But I
+think it's so much more heartbreaking
+when you think that, "Oh my gosh, there
+was something there. We just we as a
+system hadn't done the work to make sure
+people get the medicine."
+Yeah, I think it's a a harsh reality
+that one's knowledge network really has
+a big impact on outcomes to disease. I
+mean, I sit surrounded by MDs and PhDs
+and people working on disease and
+treating disease. And I'll tell you,
+there's no question in my mind that,
+because I've experienced it when a
+friend's spouse or kid is dealing with
+something,
+I
+I'm just one example of somebody who
+knows who to call
+&gt;&gt; Yeah. because I don't know the answer,
+but I know who might know the answer.
+And within two or three calls, that
+person is in touch with somebody who is
+is in communication with the five or six
+people who are best at this around the
+world. But most people don't have access
+to that. I mean, it's one of the reasons
+I started this podcast, frankly, uh, to
+get people like you on here, people like
+Eddie Chang, who's a lifetime friend and
+chair of neurosurgery at UCSF. Like, I
+always say, "May you never need his
+help." Right? You know, but these are
+the people that I call when friends have
+questions about things unrelated to
+neurosurgery.
+&gt;&gt; Yeah.
+For instance.
+So,
+it seems to me there there's
+a pretty straightforward solution
+that in addition to these these groups
+um
+that are centered around certain
+diseases, there should be databases.
+There should be ways that people can not
+just go online and and ask a question,
+but go to a database and say uh you
+know, I was just diagnosed with or I'm
+having symptoms that are the following
+and what are the existing prescription
+and non-prescription meds known to treat
+this. What are the side effects? But
+also, what are the potential pathways
+that overlap with other approved drugs
+that are prescription or
+over-the-counter. And then it should
+feed into a pipeline of how to get a
+hold of the people that could help treat
+that. It should be that straightforward.
+I mean, this is 2025. Like I mean,
+there's no reason why people should have
+to know somebody in the medical or
+scientific field at a major institution
+in order to be able to navigate this. I
+totally agree and I think that the more
+I've gotten into this, the more
+surprised I've been that there hasn't
+been something like that. Um this is not
+probably dimension every cure. So, we
+use this um
+we call they're called biomedical
+knowledge graphs. Basically, mapping out
+what the world knows about human
+biology. We use an AI platform
+and machine learning models to quantify
+how likely every drug is to treat every
+disease. And then we start at the top to
+go, you know, what match looks
+promising. We've got nine active
+programs and from those we're moving
+them forward to reach patients. And the
+idea is that, you know, let's hope all
+nine of them end up being effective in
+helping patients.
+That's sort of the start of this
+hopefully master list of additional uses
+for medicines that we already have. But
+to your point, it's not just
+that they are speculative, but really
+that the work's been done to really
+prove that they actually work.
+I can't help but ask of some other
+examples of drugs that have been shown
+to treat things other than what most
+people associate that drug with. Sure, a
+few come to mind. So, the the first
+one's thalidomide. You probably have
+heard about the horrible birth defects
+that thalidomide caused 50 plus years
+ago. Originally designed as a mis-
+anti-miscarriage drug. Well, it was
+originally designed as anti-nausea for
+um for pregnant women. Um so the thought
+was that it could help them with their
+nausea, but it ended up causing horrible
+birth defects. Um children were born
+without limbs, and so it was taken off
+the market, but then about 20 years
+later researchers figured out that it
+could be effective for leprosy. So it's
+FDA approved for leprosy, and then
+what's crazy is that shortly thereafter
+it got FDA approval for multiple
+myeloma, a rare or somewhat rare um
+hematologic blood cancer. And the reason
+that it can work for leprosy and
+multiple myeloma, and also the reason
+that it causes birth defects, is it has
+um a major anti-angiogenic effect. So it
+it reduces blood vessel growth. So in
+the same way that you need blood vessel
+growth to grow limbs, um you also need
+blood vessels uh or you need uh or over
+uh
+uh production or or increased blood flow
+for multiple myeloma cells to survive um
+and and also in leprosy. And so the same
+compound that causes birth defects helps
+treat leprosy, also treats multiple
+myeloma. It's It's saved thousands and
+thousands of lives of multiple myeloma
+patients. Again, the reason that that in
+particular has been utilized um in in
+multiple ways was that it had a full
+patent life when the work was first
+begun for leprosy, and then myeloma was
+discovered shortly thereafter. But you
+know, if a drug like thalidomide was you
+know, was discovered for leprosy and
+then 20 years later someone figured out
+it could be useful for multiple myeloma,
+patent is gone. Um and so there wouldn't
+have been an incentive to then figure
+out that oh, thalidomide could also be
+useful for multiple myeloma. Um the the
+the list sort of sadly um
+goes on and on. I mean, one of my my
+favorite examples is a drug called
+pembrolizumab that is now used for
+dozens of cancers, but initially it was
+uh first developed for melanoma and for
+lung cancer. And actually um the the
+work that we did in my lab um I guess
+this is 2016. Um and it was actually
+simple work. I I I
+A patient came to us in 2016 with
+metastatic angiosarcoma, which is a
+horrible form of cancer, and um
+his doctors told him that he was out of
+options, and we did something really
+simple. We went on PubMed and looked for
+like angiosarcoma treatment. I mean, it
+was that that simple, and we came across
+a paper from 2013
+where um
+a researcher had looked at five tumors
+from five different patients with
+angiosarcoma, and four out of the five
+tumors had increased expression of
+PD-L1, which is a marker that you might
+respond to a PD-1 inhibitor. And so,
+even though the paper was published in
+2013 and and this gentleman came to us
+in 2016, and of course, hundreds of
+people had died in the previous 3 years,
+no one had ever actually tested whether
+a PD-1 inhibitor could be useful for
+angiosarcoma, even though again, it was
+just it was a laboratory study published
+3 years earlier, but no one had ever
+translated that insight into using it in
+a patient. So, we treated Michael as the
+first patient ever that we're aware of
+with a PD-1 inhibitor, and he responded
+so incredibly well. A couple of things
+happened. One is that his doctors
+started prescribing it to all patients
+with angiosarcoma. It turns out it works
+in about 18% of patients. So, it was a
+uniformly fatal cancer within 1 year.
+Now, about 20% of people will live
+beyond a year, and it can be really
+transformative. So, it changed clinical
+practice for um for angiosarcoma.
+The other thing it did, specifically for
+um for Michael, is that it has put him
+into now a 9-year remission. Just last
+month, he walked his daughter down the
+aisle on her wedding day in Nashville,
+Tennessee, 9 years after he was told
+that this is it. And so, these drugs are
+out there, um and sometimes there's even
+breadcrumbs. Like, it didn't require any
+brilliance from my lab. We we literally
+just had to find a study that was
+published 3 years earlier, and that
+again is really what drives us with with
+this with this work now to say, "Can we
+find all these breadcrumbs? Can we put
+them together?" And can we make sure
+people actually benefit from all the
+great science that's being done all over
+the world? Let's actually translate them
+into patients.
+Yeah, it seems to me that PubMed and
+other sources of of science knowledge um
+are great for stacking papers and and
+they're pretty
+decent in terms of how they're
+organized, you know, by keyword search.
+I mean, they're not perfect, but you can
+find stuff.
+&gt;&gt; Yeah.
+And you get suggestions about related
+articles and and somebody with a little
+bit of time and energy
+will will get some degree of information
+there. But it seems to me that no one
+has really organized the the enormous
+database of information about science as
+it relates to disease.
+It It occurred to me a moment ago,
+there should be a database
+where one can enter
+whatever knowledge they have about how
+old their grandparents were when they
+died and of what, how old their parents
+are or were,
+maybe they're alive, maybe they're
+deceased.
+Any knowledge, any any kind of family
+history. This is the first thing a
+doctor would ask you. If I come in and
+you're the MD and if I say, "Hey,
+listen, you know, I've got like this
+swollen lymph node on the left-hand
+side." I don't I don't think you're
+going to say, "Hey, like go get it
+scanned." You'll say, "Any history of
+blank and blank in your family?" First
+thing, right? One should be able to do
+this from home and then
+enter any symptom profiles they might be
+having and with the appropriate
+cautionary notes,
+get some ideas back of what what might
+be going on. Now, that might sound like,
+"Oh, this is people playing their own
+doctor." But I'll tell you right now, if
+I put in
+left armpit lymph node pain
+or swelling into any online search
+engine, it's going to tell me
+some of the worst possible outcomes.
+&gt;&gt; Yes. So, it's not like we need to shield
+people from potential outcomes, but it
+seems to me that this should be pushed
+through an AI read of PubMed, which
+already exists, right? Most of the large
+language models are trained on the
+entire internet including PubMed.
+&gt;&gt; Yeah.
+And that it should point somebody in
+some actionable directions including
+which of these groups, I meant to ask
+this earlier,
+excuse me, which of the various groups
+for a given disease is the best one?
+&gt;&gt; Yeah, exactly.
+&gt;&gt; Like like if somebody is kid, you know,
+God forbid has a has a blood cancer.
+&gt;&gt; Yep. Which group do you go to? Is there
+a best one? Are these rated by anybody?
+I mean,
+I'm not trying to throw our arms around
+all of medicine here and all of the
+problems in the world, but it seems to
+me that all of this is tractable.
+Someone just needs to get organized
+about the databases. I completely agree.
+I think that there's such randomness to
+healthcare and to our biomedical
+research system. I think that's probably
+maybe the the most heartbreaking part of
+this all is it because it's so random,
+you know, Michael gets a drug and he
+walks his daughter down the aisle 9
+years later and a bunch of other people
+don't get a drug and they they aren't
+alive. And so
+I I love the idea of that centralized
+database. I think that there's a company
+called Open Evidence, which is trying to
+to basically create a GPT but for
+healthcare. I don't know if it's as I I
+don't think it's it's to where you
+described it where you can really put in
+your personal family information and get
+answers, but I'm hopeful that others
+will. Um, you know, the role that I see
+our work and and and in my work fitting
+into that
+is basically finding as many of these
+connections and proving them out in the
+lab and in clinical trials as possible.
+So that way when you type in your
+disease and your situation, that that
+drug that we worked on, you know, rises
+to the top because it wasn't just a
+connection in PubMed, but it was a
+connection in PubMed that we've
+validated in the lab and that we did the
+trial to prove that it works. Yeah, it's
+kind of wild that on a completely
+different end of the spectrum, um, you
+know, recently everyone's talking about
+creatine. Mhm, yeah.
+&gt;&gt; Creatine, creatine, creatine. Okay.
+Taking creatine since my teens cuz I
+heard back then that it would help make
+me stronger. It will make you stronger.
+Now people are talking about creatine
+for women, for men, for older people and
+under conditions of sleep deprivation,
+for cognitive support.
+Let's face it.
+The effects, while documented, are
+fairly mild for cognitive support, but
+they're there. Mhm. And
+this is not being touted as a treatment
+for like dementia, although it might
+help offset some minor dementia or
+something like that. I don't know. But
+the point is that people are talking
+about it. It's in the news. It's covered
+all the time.
+But we really should be talking about
+or also talking about drugs like aspirin
+that can be very useful for potentially
+for colon cancer and for heart attack,
+not just for pain. And all the other
+examples that are out there. But I think
+there's this fear that if you talk about
+a drug
+that people are just going to start
+taking it. Yes. Uh it as an an attempt
+at a prophylactic, right? And I think
+that um there's a lot of
+caution around that for understandable
+reasons. But I want to know, I just
+turned 50. I want to know
+all the things that I could be taking
+Mhm. to potentially offset heart attack
+because I'm already exercising and
+trying to get my sleep and doing all
+that stuff. And then I can make a
+decision. So, where is the database of
+information about as a 50-year-old male
+who does the following things to support
+his health, no history of heart disease
+in my family that I'm aware of. Well,
+what drugs are on the counter
+um or molecules that exist in
+behind a script from a doctor that could
+potentially extend my life. I want to
+know that information. Yeah. And we're
+talking about creatine. Yeah. So, for
+once I'm I'm kind of like uh I'm not
+being disparaging of supplements, but
+I'm like it doesn't make any sense. The
+conversation is skewed in in the wrong
+direction. Yeah, I mean I think that
+what we're trying to do with with every
+cure with our work is trying to start
+this conversation and keep the
+conversation going so that way you can
+go to your doctor with, you know, with X
+drug. Um you know, I mentioned that we
+have nine active programs. So, on the
+one end of the spectrum really common is
+is our program with lidocaine in breast
+cancer where we're doing laboratory
+work. We're also evaluating clinical
+data. And I hope at some point in the
+future that the data is strong enough.
+And if it is, then we'll we'll we'll
+work to to encourage every woman who's
+about to go in for breast cancer surgery
+to talk to their surgeon beforehand and
+say, "Hey, I want to make sure you do
+this." Instead of really empowering them
+in that way. But all the way through
+even to the rarest of conditions,
+there's a condition called Bachmann-Bupp
+syndrome where kids are born with a
+mutation that cause them to have
+elevated levels of an enzyme called OCE1
+and basically they're uh on feeding
+tubes, they are
+uh wheelchair or bed-bound um
+unless you give them a drug that was
+made for African sleeping sickness,
+which is a perfect covalent binder to
+OCE1. So, that enzyme that's too high in
+these kids, African sleeping sickness
+medicine actually binds to OCE1 and if
+you start it early enough in life, these
+kids get their feeding tube taken out.
+They might be able to sit up. They can
+even play with their siblings. And so,
+the reason I mention this is that there
+aren't that many people with
+Bachmann-Bupp. In fact, it's only been
+described in in 20 kids, which means
+there's probably hundreds of kids um
+because the medical uh literature's
+typically behind reality. But, let's say
+there's hundreds of kids.
+At some point, we're going to get the
+word out. So, that way, you know, we can
+find every kid possible, you know, with
+Bachmann-Bupp so they can get this this
+medication DFMO. And so, um that these
+are microcosms of what you're talking
+about, which is that like no one should
+suffer from Bachmann-Bupp without being
+on DFMO. No one should have breast
+cancer without having had lidocaine. No
+one should be a healthy 50-year-old man
+who might be able to have their risk of
+heart attack reduced. It might be that
+colchicine um is is helpful for um for
+reducing your risk of heart disease.
+But, to your point
+how can we get this more proactively so
+we're not just sort of like hoping and
+waiting that that all these random
+things line up?
+Let's use colchicine in the lab. So,
+colchicine's an interesting one. So, um
+colchicine uh is typically utilized for
+gout. Um it's this it's been around
+forever. Actually, I learned that it's
+like 3,000 years ago is when it started
+being used um because uh gout often
+occurs in individuals who consume too
+much alcohol. And so, like apparently
+in like Egypt 3,000 years ago, some of
+the um wealthy people were drinking too
+much alcohol and somehow they figured
+out that this
+molecule uh colchicine, of course, I
+think it was a a root at the time, could
+be helpful for reducing gout. Um and we
+should fact-check that that statement
+because I need know the exact details,
+but it's been around a long time. If
+there were a database, you could just go
+to the database. You know where You know
+where my mind's going.
+&gt;&gt; Yeah, exactly. So, so colchicine's
+around forever. It's been used for gout
+for many for decades. Um people have
+gouty arthritis, they get these painful
+joints, give them colchicine, helps them
+out. Well,
+a researcher a couple decades ago um had
+a hypothesis that because of its
+anti-inflammatory properties um and and
+a few other properties of colchicine
+that it might be able to reduce the risk
+of heart attacks in people who've
+already had a heart attack or or maybe
+in general, but in particular in people
+who've already had a heart attack. And
+um
+it because it's been around forever,
+they couldn't um they really couldn't
+raise the funding needed to do all the
+trials to prove it cuz um heart disease
+prevention trials are big expensive
+trials. You got to follow people for
+years to prove that they didn't get a
+heart attack versus people who did who
+got a placebo. So, they ended up
+changing the dose uh of that medicine of
+colchicine.
+So, it's a slightly different dose from
+the one that you use for gouty
+arthritis, but it has a very substantial
+reduction in heart disease risk if you
+had a prior heart attack, and in
+particular if you had a prior heart
+attack and you have diabetes. A really
+really meaningful reduction. So, it got
+FDA approval for for that particular
+subpopulation. But I mention it because
+if they hadn't changed the dose, it
+would have been a paper that some
+academic would have published that I
+think colchicine could help, and no one
+would have ever done the big trial. And
+again, that's sort of the tragedy here
+is that people are literally not having
+heart attacks right now cuz they're on
+colchicine, but if not for someone
+figuring out a way to make the system
+work, you know, they would have had
+their heart attack.
+We've known for a long time that there
+are things that we can do to improve our
+sleep. And that includes things that we
+can take, things like magnesium 38,
+theanine, chamomile extract, and
+glycine. Along with lesser-known things
+like saffron and valerian root. These
+are all clinically supported ingredients
+that can help you fall asleep, stay
+asleep, and wake up feeling more
+refreshed. I'm excited to share that our
+long-time sponsor AG1 just created a new
+product called AGZ, a nightly drink
+designed to help you get better sleep
+and have you wake up feeling super
+refreshed. Over the past few years, I've
+worked with the team at AG1 to help
+create this new AGZ formula. It has the
+best sleep supporting compounds in
+exactly the right ratios in one
+easy-to-drink mix. This removes all the
+complexity of trying to forge the vast
+landscape of supplements focused on
+sleep and figuring out the right dosages
+and which ones to take for you. AGZ is,
+to my knowledge, the most comprehensive
+sleep supplement on the market. I take
+it 30 to 60 minutes before sleep. It's
+delicious, by the way. And it
+dramatically increases both the quality
+and the depth of my sleep. I know that
+both from my subjective experience of my
+sleep and because I track my sleep. I'm
+excited for everyone to try this new AGZ
+formulation and to enjoy the benefits of
+better sleep. AGZ is available in
+chocolate, chocolate mint, and mixed
+berry flavors. And as I mentioned
+before, they're all extremely delicious.
+My favorite of the three has to be, I
+think, chocolate mint. But I really like
+them all. If you'd like to try AGZ, go
+to drinkagz.com/huberman
+to get a special offer. Again, that's
+drinkagz.com/huberman.
+Today's episode is also brought to us by
+David. David makes a protein bar unlike
+any other. It has 28 g of protein, only
+150 calories, and 0 g of sugar. That's
+right, 28 g of protein and 75% of its
+calories come from protein. That's 50%
+higher than the next closest protein
+bar. These bars from David also taste
+amazing. Right now, my favorite flavor
+is the new cinnamon roll flavor, but I
+also like the chocolate chip cookie
+dough flavor, and I also like the salted
+peanut butter flavor. Basically, I like
+all the flavors. They're all delicious.
+Also, big news, David bars are now back
+in stock. They were sold out for several
+months because they are that popular,
+but they are now back in stock. By
+eating a David bar, I'm able to get 28 g
+of protein in the calories of a snack,
+which makes it very easy for me to meet
+my protein goals of 1 g of protein per
+pound of body weight per day, and to do
+so without eating excess calories. I
+generally eat a David bar most
+afternoons and I always keep them with
+me when I'm away from home or traveling
+because they're incredibly convenient to
+get enough protein. As I mentioned,
+they're incredibly delicious and given
+that 28 grams of protein, they're pretty
+filling for just 150 calories. So
+they're great between meals as well. If
+you'd like to try David, you can go to
+davidprotein.com/huberman.
+Again, that's davidprotein.com/huberman.
+Well, I feel like we could spend hours
+going through the catalog of drugs for
+which uh these examples exist. Um and we
+may return to a few more, but I'm
+putting in a strong vote for this
+database. I know you're working hard on
+this. I'd like to talk about your
+journey into this because you are not a
+typical doctor.
+Um I think that's apparent to people
+already.
+Uh you care very much about human health
+and treating human disease.
+Uh but you have a very unusual and
+interesting trajectory into medicine and
+I do believe it's
+helped lead you to this uh very unique
+orientation within the field of medicine
+and science. So,
+tell us that story and uh
+teach us about Castleman's disease.
+Sure. Um well, my story um I think
+really starts back when I was 18 years
+old and um I was a a freshman at
+Georgetown. Um we were talking earlier
+about I I played football at Georgetown
+and that for me growing up, that was my
+dream to be a Division I college
+quarterback. That's all I could think
+about. I was not quite as jacked as you,
+but somewhere somewhere in that realm.
+&gt;&gt; larger than I was.
+We'll put up a a link to a photo. I
+David was 230. You're taller than I am.
+I'm 6'1", so you're probably about 6'2",
+6'3".
+I think you might be 6'3". Either that
+or I'm shrinking.
+Um and uh
+super large, fit, low body fat. I mean,
+you're you're you look um
+clearly you're a quarterback, but you're
+large even for a quarterback.
+&gt;&gt; yeah. Yeah. Okay. So, you know, that was
+my dream. I was, you know, I want to
+play college football and I got there
+and I was I'd been on campus at
+Georgetown for a couple weeks and um
+I got a call that changed my life. My
+dad called and and told me that my mom
+had brain cancer. And Andrew, I went
+from like all I could think about was
+football and like, you know, I'm finally
+at this like, you know, goal that I'd
+always set to oh my gosh, this is just
+just changed everything. My my mom
+uh
+my mom and I were so close, and I was
+heartbroken for it. Glioblastoma brain
+tumors are
+uh uniformly fatal. They're horrible. Um
+you know, I was only 18, so I don't
+think I I knew just how bad it was, but
+I knew it was really bad. And um
+watching her battle with cancer over the
+next 15 months um just changed
+everything in me. Um it it it completely
+locked me in, and I I told her just
+before she passed away that I would
+dedicate my life to trying to find
+treatments for patients like her. And um
+she she couldn't say many words um at
+the at the end, but she said
+unconditional love. Those were the two
+words that she said when I told her I
+would do that. And I was like, all
+right, I got to do this, you know. She
+she um you know, she wants me to do it.
+And for me, I I sort of haven't been
+able to stop thinking about helping
+people like her from the moment that I
+started seeing this um horrible cancer
+um
+uh you know, take her life in front of
+me. And um and of course the promise
+that I made to her, I also learned so
+much from her in watching her her battle
+against brain cancer. I mean, I'll I'll
+just tell one one quick story. Um
+so I got that call from my dad. I
+immediately came home to North Carolina.
+And within a few days, she was having
+brain surgery to get the tumor um
+resected. And they did a surgery where
+um
+they put you to sleep to open up your
+skull, and then they actually wake you
+up while your skull's open. And the
+reason for that, which you're very
+familiar with, is that as they're
+cutting out particularly on the left
+side of the brain, cutting out parts of
+the brain tumor, you want to be able to
+see where how far you want to go. Um you
+ask people to speak, and sort of when
+they start slurring their speech, you
+stop cutting. And so, they went through
+this whole surgery. It was like a 4 and
+1/2 hour surgery, cut out most of the
+tumor, but not everything. And um they
+you know, uh
+uh
+woke her back up after after the surgery
+and um she was in the waiting area and
+we went back to see her and I remember
+um my dad I've got two amazing older
+sisters and my dad and I we um went back
+to see her and we were you know so
+nervous like is it going to be our mom
+who's going to come out? They took out a
+lot of her brain um as part of the
+surgery and um
+so nervous and we walked back Andrew and
+pulled the curtain back and I'll never
+forget I saw my mom sitting there just
+about as far away as you are and she had
+a wrap around her head um
+bandages and she had this bulb coming
+out um those collecting fluid and she
+looked at her at her uh she looked at us
+and she pointed up to her head and she
+said Chiquita Banana Lady.
+And we just burst into laughter. She was
+saying she looked like the Chiquita
+Banana Lady and like that for me was
+this incredible moment of just like
+taking agency back from this like
+horrible cancer. Like you just went
+through surgery but like you're going to
+find something to laugh about and
+something to get your family to laugh at
+and to show that like you're still
+there. Um and so that was sort of the
+the the first of many lessons that I
+learned from my mom obviously in her
+health but also in her illness. And so
+that set me on this journey which is
+okay I'm going to dedicate my life to
+trying to find treatments for patients
+like my mom. I'm going to try to live um
+in in in in in the in the way that she
+did and um I was sort of well on my way.
+I um
+finished medical or sorry finished
+undergrad at Georgetown I had a a
+graduate degree at Oxford and then I was
+couple years into med school at Penn um
+when uh you mentioned Castleman disease
+when I went from being totally healthy I
+shared earlier I won a bench pressing
+contest right around that time I was so
+healthy to uh being in the ICU with all
+my organs shutting down.
+The story about your mom is a remarkable
+one. Uh my first thought when uh
+you mentioned the Chiquita Banana Lady
+reference is that uh even though she was
+the patient it seemed like she was uh
+successfully taking care of all of you.
+&gt;&gt; try She was trying to take care of us.
+&gt;&gt; Yeah, I know very little about her only
+what you've shared but she sounds like a
+very impressive woman. She was amazing.
+I so appreciate you saying that. Yeah.
+Um that comes through.
+So, Castleman's, I've never heard of it.
+Who's Castleman? And uh these physicians
+like to name diseases after themselves,
+um but my guess is that they're not the
+ones with the diseases, they're the ones
+that discovered the diseases, correct?
+That's right. Yep. So, Benjamin
+Castleman was a doctor in um Boston at
+Harvard.
+He'd been getting these cases of
+patients that were thought to have
+lymphoma, and they they appeared like
+they had lymphoma, getting very, very
+sick very quickly. Um but when he looked
+under the microscope at them, they
+didn't look like a typical lymphoma
+patient. And so, um maybe as I as I
+share, you know, sort of what my
+progression looked like. I mean, I was
+third-year med student. I just um
+finished uh an OBGYN rotation. I just
+delivered babies into the world, which
+is sort of a
+peak um moment in medical school. And
+then, within a couple weeks, I noticed
+that I had uh enlarged lymph nodes in my
+neck. Um I felt more tired than I'd ever
+felt. Um and you're tired in med school
+and grad school, you know, well, but I
+was more tired than ever. I had horrible
+abdominal pain. And I noticed fluid
+pooling around my ankles. And I was
+like, this is so weird. What's going on?
+Um but the fatigue got worse and worse
+and worse. Um and over the course of
+really just a couple weeks, um I got so
+bad that I went I took a med school
+exam, then I went down the hall to the
+emergency department. I basically
+stumbled down to the ER and and just
+told them my symptoms, and they ran
+blood work, and um
+I remember my my doctor coming back and
+um and looking at me and saying, "David,
+your liver, your kidneys, and your bone
+marrow are all shutting down. We have to
+hospitalize you right away." And I'm
+like, "What do you mean? Like, I was
+just like I delivered a baby a couple
+weeks ago. Like, how what all my organs
+are shutting down?" And so, they
+hospitalized me, and I and I
+deteriorated really rapidly. I had a
+retinal hemorrhage that made me
+temporarily blind in my left eye.
+I gained a total of about 100 lb of
+fluid because my liver and my kidneys
+stopped working. You saw that picture
+where I just fluid everywhere um
+because of the the multi-organ failure.
+And um I needed daily transfusions of
+red blood cells and platelets just to
+keep me alive. I was on dialysis at the
+time as well. So basically everything
+was shutting down and we had no
+diagnosis. So we didn't know what it
+was. My doctor Some doctors thought it
+was lymphoma, others thought it maybe
+was an autoimmune disease, others had no
+idea what it was. Um but over the course
+of about 11 weeks I got worse and worse
+and worse and at one point I was so sick
+that um I said goodbye to my my dad, my
+sisters, and my girlfriend at the time
+Caitlin, and um a priest came in my room
+and read me my last rites
+when I was 25 years old.
+Fortunately, right around the time um of
+having my last rites read to me, which
+was really the end. I mean I didn't
+didn't have more than a couple days
+left, that's when the diagnosis came in
+of Castleman disease. Um so basically a
+pathologist looked at my lymph node and
+they thought I had lymphoma. They
+figured it was a really aggressive
+lymphoma, which is a form of cancer. Um
+but they looked at it and just like
+Benjamin Castleman did, looked at it and
+said, "This doesn't look like lymphoma,
+this actually looks different. It looks
+like this thing called Castleman
+disease." Um which is basically um
+what we call it atypical
+lymphoproliferative disorder. So it's
+kind of like lymphoma, um but it's got
+features that are more like an
+autoimmune disease. And so basically
+your immune system becomes highly
+activated and starts attacking all your
+vital organs. So the reason that all my
+organs were shutting down is because my
+immune system was producing cytokines
+and other factors that were were
+basically um shutting it down.
+Do you think that the um long hours of
+medical school plus being athletic,
+they're very driven, contributed to the
+autoimmune flare-up? I mean we don't
+often discuss this, but anyone that's
+dealt with an autoimmune issue, even if
+it's like psoriasis or something, um
+which can be very severe, but in most
+cases it's kind of minor to you know,
+they're over-the-counter things you can
+use, things, but um
+it's associated with people who are
+pushing very, very hard and and uh tend
+to pull long hours and and as a
+consequence the immune system
+understandably ramps up its activity and
+then goes past a tipping point where it
+starts attacking one's native tissue.
+Yeah, it's it's funny. No No one ever
+asked that, but it's the right question
+to ask. And I think people are always
+sort of afraid to you know, get into
+like the whys of these things happening
+to you. I'm glad you asked because
+actually there was a paper that was
+published a couple years ago. Um I think
+it was in Cell where mice that were
+sleep-deprived, like significantly
+multi-day sleep-deprived,
+what actually killed them was a cytokine
+storm due to their immune system
+producing all these cytokines. Like they
+actually So like you know as we know
+that sleep deprivation is deadly, right?
+You don't sleep enough, you know this
+very well. But again, in these mouse
+studies, this the actual thing that
+killed them was their immune system
+producing cytokines, including
+interleukin 6, which is an important
+cytokine in Castleman's. Um
+And by just trying a couple medicines
+that basically blocked the production of
+some cytokines, you could keep the mice
+alive longer. Really pointing to this
+idea that it's sleep causing some
+disruption in immune balance causing
+excess production of cytokines causing
+death. And and so um I don't know if you
+Had you Had you seen I I can share the
+paper with you. It's it's it's pretty
+fascinating.
+&gt;&gt; with that one. I've just
+&gt;&gt; But it connects to your point, right?
+&gt;&gt; Yeah, I mean grow I mean again, this is
+all anecdotal coming from my side anyway
+is that, you know, but growing up in the
+in Silicon Valley and I've known a lot
+of people who've cancers and who seem to
+be dealing with autoimmune things. And I
+know a lot of very ambitious
+hard-driving people. It's baked into the
+culture I grew up.
+And you know, and um and sometimes I've
+just wondered about these naturalistic
+observations. Again, these are not
+controlled studies where some of the
+most um
+hard-working uh long-hour
+athletic academic hybrid founder people
+are the ones that
+often times are dealing with severe
+health issues. And you know, like how
+could that be? Well, maybe there's a
+relationship. And the more I learn about
+the kind of general backdrop of
+supporting health, sleep being
+fundamental,
+and all the rest, and you know, natural
+light exposure, but not too much UV, and
+you know, this kind of thing. You got to
+kind of wonder. You You I'm not saying
+people shouldn't work hard. I I
+Otherwise, I'm headed for a quick for a
+quick death cuz I've always worked very
+long hours at mostly from a place of
+enthusiasm, sometimes fear.
+Um, but
+I guess you know you the immune system
+is a is a highly uh conditional system.
+Yeah. I'm not saying mellow laid-back
+people don't get cancers, but has that
+ever been looked at whether or not
+temperament and and propensity for
+autoimmune-induced diseases uh
+correlate?
+&gt;&gt; seen it. I'm There There may be I mean,
+what I have seen and to your point, I
+think there's really strong data that
+among people who have autoimmune
+diseases stress results in flares of
+their autoimmune diseases. And so So So
+if you have it, stress, lack of sleep,
+all this reserve can can result in
+flares. I haven't seen data on whether
+it's sort of like at the ideological
+level of actually causing it, but I
+think that you know, this mouse study of
+these these mice was sort of you know,
+eye-opening for me. And I was, you know,
+working crazy hours and as as you heard,
+I was on a mission. And I'm still on a
+mission, which is to to find drugs for
+patients like my mom. Um, and that you
+know, that meant that I worked crazy
+crazy hours. I
+teach medical students and um they work
+crazy hours.
+&gt;&gt; It's It's really impressive and and
+striking and at times a little
+concerning, but um
+So you get this diagnosis. Thank
+goodness they figured out it wasn't
+lymphoma and it was Castleman's cuz that
+at least gave you a kind of a thin end
+of the wedge to start exploring various
+treatments. At the time was there any
+treatment for Castleman's disease? Known
+treatment? At the time there were no
+approved treatments. Um, but sort of as
+we were talking about earlier about like
+sort of information asymmetry, um, there
+was a drug that was um,
+uh originally developed in Japan uh for
+Castleman's. Um,
+but my doctors didn't know to try it.
+They gave a form of chemotherapy to me,
+um, which fortunately chemo sort of
+saved my life just in time, but there
+was this drug in Japan that like has
+pretty strong data that works for
+Castleman's, but that just like
+information hadn't and the drug is
+available in the US for another
+condition. That information exchange
+just hadn't happened. And actually I'll
+share a quick story about that drug.
+It's called tocilizumab and um
+it was made by a a doctor named
+Kazuyoshi Zaki or discovered by a doctor
+named Kazuyoshi Zaki, and um uh
+I had heard from a colleague that Kazu
+had given it himself before it was given
+to any other humans to prove that it was
+safe. And um Old school medicine.
+&gt;&gt; Right. This is the '90s, and and
+monoclonal antibodies were a new
+technology. And so, apparently, he was
+afraid to give it to patients cuz he
+didn't know what it was going to do. So,
+he's like, "I'll give it to myself." So,
+I heard that, and I said, "Kazu, I heard
+you gave your yourself tocilizumab." He
+said, "No, no, I didn't give it to
+myself. The nurse The nurse gave it to
+me."
+So, all right. All right, Kazu. I love
+the specificity.
+&gt;&gt; Um and so, he gave it himself, and he
+didn't die when he got it. Um but, you
+know, it it was safe enough for him. So,
+he studied it in Castleman's patients,
+he got approval for Castleman's in
+Japan, um and then it got repurposed for
+rheumatoid arthritis here in the US and
+a number of other autoimmune diseases.
+So, it's approved in the US for
+autoimmune diseases. Um but, like I
+said, it was made for Castleman's in
+Japan, approved and available, but my
+doctors didn't even think to try it. Um
+chemo saved my life, um
+but then I relapsed a few weeks later.
+We tried that drug from from Kazu from
+Japan. It didn't work for me. It works
+in about a third of patients. And so, um
+I ended up needing a combination of
+seven different chemotherapies:
+Adriamycin, Cytoxan, etoposide, Velcade,
+Revlimid, bortezomib. We're talking like
+the worst chemos out there,
+um was what I ended up needing to get my
+disease into into remission. And And
+just to give you a sense for how sick I
+was, this is now the third time that I
+almost died in a 6-month period. I was
+so sick that once they started giving me
+that combo of seven chemos, I started
+feeling better with every dose. And
+these are like the worst chemos in the
+world, but because they were killing my
+immune system, which was producing
+cytokines, which was killing me, I
+actually felt better on chemotherapy.
+And And eventually, um I got well enough
+to where I could be discharged from the
+hospital. And there's that picture I
+showed you from the book, which is me a
+couple weeks after I got out of the
+hospital. Um and I was just so thankful
+to be alive. Yeah, we'll post a link to
+that photo as well and your book. Of
+course, um
+yeah, that photo.
+If you show that
+photo to the typical person, they're
+they're not going to say that's a
+healthy-looking person, but you said you
+were so grateful to be alive because
+relative to where you were before, I
+mean, 100 lb of fluid
+accumulating in your legs and body prior
+to that.
+You were in a very unique position
+because you have this um
+inquisitive mind.
+It's very clear you were motivated, not
+just from your illness, but motivated
+generally based on
+the story about your mom. Um
+and people would listen to you, is my
+guess. They would at least listen to
+your questions. That's I'm I'm reading
+into this a bit, but
+I think many patients
+don't know what questions to ask. They
+don't know whether the person they're
+asking has access to the best answers or
+even the answers.
+Um
+I like to think most doctors are
+benevolent, so let's just assume that,
+but they're also busy and um they get as
+confused as anybody. I'm not trying to
+knock on medicine here, but this is just
+the reality. So, simple question,
+when a physician
+finishes their
+their training all the way through
+residency and they and they start
+practicing, let's say an oncologist or a
+general practitioner in the United
+States,
+but perhaps elsewhere, is the typical
+physician accessing the literature
+often? I know they're required to do
+some continuing medical education, but
+it could be the case that their
+education around a disease is just
+locked in at the time they finish their
+residency plus any major updates that
+come through. How does this work?
+Because I want to know when my physician
+finished training and I want to know how
+often they read papers and I want to
+know who else is on their committee of
+of of people that they share ideas with.
+I want the most connected physician in
+the world to be treating me.
+&gt;&gt; Yeah, and I do too, and I think that the
+problem is is that given all the
+constraints and requirements of a
+typical physician, they just don't
+really have that much time to do all the
+things that that we want them to be
+doing. So, um you're right, physicians
+are reading the literature, but
+typically it's because they have a
+patient with something that maybe led
+them to it or maybe
+um someone sent that paper to them. It's
+It's very random and sort of piecemeal.
+You know, no doctor can can look at
+millions of papers, for example, and
+they can't even look at the hundreds
+that they maybe would be relevant for
+the diseases that they treat. And so,
+they get sort of some watered-down
+summaries. They go to a conference and
+they hear sort of what's being told, but
+it's very piecemeal. And I think the big
+takeaway from from this whole
+conversation is that so much of this is
+piecemeal and it's not systematic and it
+is random and it's Did your doctor
+happen to come across this one paper? Um
+as opposed to the world that we should
+be in, which is where um where it
+shouldn't matter what doctor you go to
+see cuz the data's the data. I mean,
+this whole idea of like, you know, we
+talk about getting second opinions from
+doctors. It's like, for some reason we
+call it a second opinion, yet we believe
+that what's being told is like exactly
+what should be done. And it's like,
+well, it's an opinion, right? And and
+oftentimes second opinions, you know, um
+aren't consistent with the first opinion
+because they're opinions. I mean,
+they're educated, they're driven in
+science, and driven in um are oftentimes
+grounded in evidence, um but it's still
+you you just don't know if if your
+doctor's going to have the information
+that's needed for you. Which is sort of
+scary, right? Like, we we sort of we we
+we want to go to our doctor and believe
+that like we like, you know, full trust
+like you you know, you've got all the
+answers. And actually, I'd sort of have
+this concept that I I I talk about in my
+book, which um
+maybe you've already resonated with you
+in what we're talking about now. I
+called it the Santa Claus theory of
+civilization, which is before I got sick
+with Castleman's and when I was a
+medical student, I had this sort of idea
+that there were like rooms of scientists
+and doctors collaborating, working
+together to come up with solutions, kind
+of like Santa's, you know, workshop, and
+all the elves are working together. And
+as soon as they as soon as humanly
+possible that a drug could be
+discovered, it's at your doorstep. Like
+as soon as they can figure out but then
+I've I've sort of realized that actually
+like there isn't a you know, there
+aren't workshops. There aren't groups of
+of scientists and doctors, you know,
+sitting together to figure out
+solutions.
+Um and if they are, it's just not
+necessarily at the pace that you would
+hope that it would be at. And so I think
+that that's just, you know, one of the
+the many things that's been a bit
+depressing.
+Yeah, I mean I'll I'm going to resist
+the temptation to editorialize too much
+on that point because I want to get more
+information from you, but I can't resist
+saying that one of the things I've
+really wished for for a long time is
+that the the model of how biomedical
+research is done in the United States
+would shift from what we call the
+independent investigator model where we
+each have a lab, you know, Huberman lab
+is not just a podcast. It you know, was
+and to some extent still is a a
+laboratory space although I've certainly
+appeared down the size of my lab in
+recent years for the podcast reasons and
+other reasons, but the point is that
+in this country
+you get a PhD if you decide to do a
+post-doc and start a laboratory.
+You have a laboratory that's named after
+you. Yeah. You get funding to do things
+that are really associated with your
+name. It's like a small startup that can
+grow into a medium-size startup
+or a large startup, but you you stay
+independent. The whole notion of the
+independent investigator is it it's a
+very romantic model of science, but I
+think we've reached the point nowadays
+where the sharing of information and
+collaboration around a particular goal
+is far more powerful and I don't have a
+magic wand and
+the level of influence I will have over
+the NIH is questionable, but what I'm
+really pushing for is laboratories named
+after
+a puzzle
+or a disease or a
+Yep. and people coming together to try
+and solve those issues because it's not
+just a matter of naming and branding. It
+has everything to do with how willing
+people are to share ideas as opposed to
+feeling like they have to fight for
+their piece of the pie. That's exactly
+right.
+&gt;&gt; So, this is a perhaps a conversation for
+another time, but um
+you've done a marvelous job of not just
+trying to educate people about
+Castleman's, but your story, and we'll
+continue down that path in a moment, of
+trying to solve a problem that was life
+or death for you, and then taking that
+knowledge, and instead of just saying,
+"Hey, I'm going to help other people
+with Castleman's," which you have,
+to really say, "Hey, let's let's do this
+for all of disease, all of medicine."
+And it's just so admirable. Uh I have to
+ask, are there other physicians doing
+what you are doing, or are you the lone
+wolf out there? I think I'm I'm probably
+the lone wolf in the in the
+uh
+scope of what we're doing. It's all
+FDA-approved drugs, all 4,000, and all
+18,000 human diseases. So, I'm not aware
+of anyone else who's taking this sort of
+all versus all systematic, like, let's
+find the lowest-hanging fruit.
+But there are amazing colleagues of mine
+who work within hematology who the
+doctor named Luke Chen, who calls me up
+when he's got patients on death's
+doorstep to figure out, "What can we do?
+What can we try?" We're brainstorming,
+"Let's try this or try that." And and
+oftentimes they work, and this patient's
+alive because we tried a combination of
+five different chemotherapies that
+weren't made for that that cancer. And
+so, there are certainly, you know,
+really incredible and and there's so
+many incredible doctors all over all
+over the country. Um and there are some
+who are really, you know, pushing the
+boundaries of what's possible. But I'm
+not aware of any other effort that's
+being made that's really at the system
+level of like, "I don't care in
+particular the name of the disease or
+the name of the drug. I just believe
+that the 4,000 drugs we have today
+should help all the patients who can
+benefit from them."
+Period. Like, no one should suffer if
+there's a drug at your CVS to get help
+you. And so, the the problem is that's
+not the world we're in. The problem is
+that we got to we got to create that
+world. Um and so, that's what we're
+doing. Yeah, and most scientists are
+incentivized to find new things. Mhm.
+And most physicians are not scientists.
+That's right. not saying scientists are
+better, but they the two need each
+other. That's right.
+So, anyway, I I will now pull back on my
+desire to editorialize about how the
+system could be better.
+Um I hope is that it some of this will
+be implemented going forward, but
+if you would
+you're sitting here now very very much
+alive.
+How did the story progress? Sure. So, um
+you know, I mentioned I got that
+chemotherapy, got out of the hospital,
+um
+went back to med school at 10 um as a
+third-year med student um How much time
+did you Spent 6 months in the hospital
+and then about 6 months in medical leave
+just sort of building myself back up. Um
+uh amazingly I had this um girlfriend
+Caitlyn by my side through it all. Um
+Caitlyn never left my side. Um was just
+amazing. And um got back to med school.
+So, it was now a total of a year cuz 6
+months in the hospital, 6 months um
+recovering.
+And I was so excited to be back and to
+really get back on that path that I had
+before, which is that I'm going to go
+into oncology and I'm going to help
+patients like my mom. And um I was on an
+experimental drug. Uh it's actually a
+drug that's very similar to the drug
+that um that my friend Kazu made. And um
+unfortunately, about a year after I got
+out of the hospital, I was back in the
+hospital again with a relapse. And um
+that relapse is really tough um for a
+few reasons. One, I almost died again
+for the fourth time. Um and I was in the
+ICU for a month. Um
+All of my organs shutting down. But
+maybe what was even harder than that
+was that I was on that experimental drug
+that we had hoped would keep me in
+remission. And it was helping other
+patients.
+And um
+my doctor explained to me that we were
+out of options. He said, "David, we've
+tried everything. You know, we tried
+these chemotherapies, we tried this one
+experimental drug. Um there's nothing
+more that we can do." And um there was a
+a few minute period where my dad and my
+sisters and and my girlfriend around me
+and we were just um
+just bawling our eyes out. You know,
+we're This is the world's expert, you
+know, to use the Santa Claus theory.
+Like this is Santa Claus telling you
+like there's nothing more. And I kept
+probing him like is there any cell type
+or signaling pathway or is there
+something we can target like anything
+said David there's nothing. Is there
+anything in early stage develop? David
+there is nothing.
+And um so we just you know, we just
+balled um
+and then
+I had a really sort of moment of a
+moment of clarity where it was basically
+I heard what he was saying, but then I
+thought to myself
+you just gave me seven chemotherapies
+that were made for lymphoma and my
+multiple myeloma.
+And they've saved my life now three
+times. They're not it's not long-term.
+Like I know I keep relapsing, but like
+if these seven chemotherapies are
+working, how do we know there's not an
+eighth chemotherapy or a ninth drug for
+something else? Like you can't tell me
+we haven't tried all 4,000 drugs. We've
+just tried the drugs that maybe we've
+thought to try. And so I just locked in
+right then and I turned to my family and
+just sort of wiped away my tears and
+said I'm going to dedicate the rest of
+my life however long that's going to be.
+It might be a couple days. Maybe it'll
+be a couple months, but however long
+I've got to trying to find out is there
+a drug out there that could help me and
+other patients with my disease that's
+made for another condition. And um
+I became just totally locked in on this
+and and part of it too for why it had to
+be a repurposed drug is that I didn't
+have a billion dollars and 15 years to
+make a new drug from scratch. I mean I
+wouldn't even known where to start,
+right?
+But I had examples where my life was
+saved by drugs that weren't made for me.
+And so I just said well
+we should do everything we can to find
+something else. And so I started storing
+blood samples on myself every couple
+weeks um shortly thereafter started
+doing some work in the lab. I was
+literally an MD who had a masters in
+public health who knew nothing about the
+lab um but started working
+&gt;&gt; that uh dangerous.
+&gt;&gt; Yeah, exactly. Very dangerous. And and
+with a clock ticking, right? So you got
+a lack of skills which is the clock's
+ticking down. Um
+very dangerous. And so I'm starting
+doing uh
+laboratory experiments.
+Did a lot of flow cytometry to
+characterize the immune immune cells
+that were activated. Did something
+called serum proteomics where I measured
+a thousand proteins in my blood. Who's
+letting you do all I mean who's lab
+space are you using?
+&gt;&gt; So a colleague No, I wasn't breaking in.
+A colleague was very generous.
+&gt;&gt; it.
+A very very kind colleague gave me some
+space in her lab. And so
+I was doing this work in the lab and
+also trying to look at other drugs that
+were being used for
+related conditions to see you know what
+what could work for me. And we were
+making progress. I started a foundation
+called the Cast Disease Collaborative
+Network. We really were were pushing
+things forward. And I was optimistic
+that we would find something.
+And then I relapsed. Fifth time. Back in
+the ICU. Organs shutting down. Doctor
+explaining to my family that this is it.
+In fact, it was so bad at one point that
+for some reason over these years I think
+it was maybe a bit of denial. I'd never
+put together a will. But this time, the
+fifth time, my doctor told family like
+you need this you need to put down. And
+so
+I like had a printer piece of printer
+paper that the nurse gave me and I sort
+of wrote down who I wanted my things to
+go to. And I didn't have much but but
+um
+cried, hugged my girlfriend. We were my
+she was my fiance at that time, Kaylin.
+Like just
+so disappointed that like I hadn't
+figured something out cuz what I didn't
+mention is that from that lab work I
+thought two drugs might be able to work
+and we tried both of them. We tried
+cyclosporine and we tried IVIG and it
+didn't work.
+And I got worse and I ended up you know
+back in the hospital. And so the two
+drugs we tried I thought I that was it
+like I got my shot and I and I missed.
+Um
+and
+I felt so disappointed. Um
+and I remember saying goodbye to
+everyone and and and starting to sort of
+have life fade away.
+And I thought that was it. And they gave
+me all the chemo. They gave me the
+highest dose of topoisomerase horrible
+chemo that you can imagine.
+And Um, two days later I started to wake
+up. And uh Andrew, there's this sense I
+I
+I call it overtime and it's basically
+like it's like extra time in a game
+where like
+it every second counts and I can't tell
+you the joy that comes from like getting
+Like when you start to wake up after
+you've said goodbye to the people you
+love and you're looking at them and like
+my sister Gina is here and Caitlyn's
+here and my dad's there and I'm like
+oh my gosh. Like when you start getting
+life back that you thought you lost and
+this is now the fifth time
+I I can't put into words what it was
+like, but I remember like as soon as I
+started waking up, I saw them and I was
+like
+Gina
+I need you to get the lymph node that's
+in North Carolina to Philadelphia.
+Caitlyn, you need to get my serum
+samples that are downstairs in Little
+Rock, Arkansas to Philly. Like I got
+another shot at this. Like and I
+remember like starting to wake up and
+being like, oh my gosh, I'm going to get
+another shot. And so um
+about 3 weeks later I was out of the
+hospital. I was back in Philadelphia and
+um that started about a month-long
+period where I thought all those
+samples, I did more flow cytometry, I
+did more serum proteomics, I did
+immunohistochemistry on my lymph node
+and when you put all the data together,
+um what I discovered was that a
+communication line in in your immune
+system or in all of our immune systems
+called mTOR um was turned into overdrive
+and I had a lymph node that I had
+resected during my last relapse where I
+actually looked at it I stained it for
+mTOR activation and it came back
+blazingly positive. And um
+so I took the data to my doctor and um
+you know, said what do you think about
+trying an mTOR inhibitor on me.
+Sirolimus had never been used before.
+Rapamycin is the other name for this
+drug. It had never been used before for
+Castleman's, but it's approved for organ
+transplant rejection.
+And um
+I had sort of had nothing else to try
+and so my doctor prescribed it to me and
+um you know,
+rapa at the dose of a transplant dose.
+So I take rapamycin at the same dose
+that a kidney transplant patient patient
+would take. So, a lot higher than the
+typical longevity dosing that people do.
+My dose of rapa for longevity is zero.
+&gt;&gt; Yeah, I'm not a fan. I We can talk about
+that a little later.
+&gt;&gt; Yeah, we we definitely
+&gt;&gt; of people that were taking rapa for
+for longevity purposes. I don't want to
+cuz I'll get it wrong. Like I don't know
+what Peter Attia is doing right now.
+He's a friend. We could call him, but
+my understanding is that a number of
+people who were very bullish on rapa for
+longevity
+are no longer bullish on rapa for
+longevity.
+&gt;&gt; Yeah, I've definitely seen that that
+shift, and I'm not sure if it's based on
+human data cuz I don't think anyone's
+ever done the data the study in humans,
+but but the reason that people were
+bullish on it is that every organism
+that you give rapamycin to, the earlier
+you give it to them, the longer they
+live. Now, these are organisms that are
+in caged settings that are not getting
+exposed to viruses and pathogens. So,
+that's probably part of it. I mean, I
+think that whatever maybe longevity
+benefit you get from the metabolic
+aspect of of rapamycin, I think that's
+counteracted by the fact that we don't
+live in cages, and we actually get
+exposed to to pathogens. And so, there's
+probably a a negative effect in terms of
+survival um because rapamycin is a very
+potent immunosuppressant. The doses that
+I take I take such a high dose that if I
+were to get your kidney transplanted in
+me, my immune system wouldn't notice
+your kidney in my body. I mean, that's
+that's the the level of dose I take. And
+so, um
+So, uh
+sirolimus is approved for organ
+transplant rejection. As you mentioned,
+it's used sometimes um in the setting of
+longevity. Um
+And it had never been used before for
+calcimims. In the three and a half years
+before I started taking it, I almost
+died five times from my disease. I said
+goodbye to my family on five different
+occasions, and my doctors were sure I
+wasn't going to survive.
+Since starting rapamycin, it's now been
+11 and 3 1/4 years that I've been in
+remission on this drug, and it's just
+sort of like it it feels like such a
+dream.
+Awesome.
+I mean, just no other word for it.
+Uh
+Your description of
+over time. Yep. It
+uh I think a very apt one.
+Um and I find it uh equally
+apt that when you're emerging from near
+death
+you're calling plays like like a
+quarterback. You're telling your sister
+what she's going to do with the lymph
+nodes. She's going to run the lymph
+nodes downfield, right? You're calling
+plays. And like to me I like you know,
+you're the quarterback playing
+quarterback again. And I can't help but
+ask, you know, the past that you had as
+an athlete uh
+do you think it served you? I mean, the
+the level of drive and determination to
+say like, "Oh, these eight drugs helped
+me for a while. They're no longer
+helping. There's got to be a ninth. Try
+the ninth. Doesn't work. Okay, let's try
+something else." Almost dead. Come out
+of near death. All right, you run the
+lymph nodes this way. I mean, it's
+almost impossible to not wonder whether
+or not you learned some of that
+resilience
+playing sport. A lot from playing
+sports. I mean, I think that uh uh your
+listeners may not know Georgetown even
+has a football team, but we do have a
+football team. Um Is it any good? Uh I'm
+just kidding. It depends on who you ask.
+&gt;&gt; I'm sure it's very good. We're good
+enough to be in in some some league,
+right? Yeah, this division we we play
+Ivy League schools. It's like Patriot
+League Ivy League schools. Um but the
+reason I mention that is that um
+we lost a lot of football games. Um so
+uh you know, certainly
+there there's a bunch of things I
+learned from football. I mean, first off
+I decided when I was 8 years old that I
+wanted to be a Division 1 college
+quarterback. I decided as an 8-year-old.
+And Andrew, I literally had posters of
+words all over my walls with how far I
+could throw a football, how accurate I
+was, how fast my 40-yard dash time was,
+how fast my my mile dash for the next 10
+years. And this literally that's all I
+could think about. I was just locked in.
+And that sort of like 10 years of like
+working towards a mission is sort of the
+same sort of approach you need to take
+to solve a massive problem in
+healthcare, you know, to discover a
+drug. It's that same sort of of you
+know, just constant drive. So I think
+one part was that it was the the first
+of what's now been a few of these like
+sprints that I've gone on. So, I think
+that was that was part of it. Another is
+um
+mentioned sort of loss and resilience.
+You know, we lost a lot of football
+games. You get back up and you just sort
+of keep fighting. Um but also um
+physical pain and um
+and challenges. You know, broken both my
+collarbones, broken both my hands
+um at different times. I mean, I
+remember that there were times when for
+punishment for the team, we did
+something called rolling. We're like
+literally like you just start rolling on
+your side on a football field until
+everyone like gets sick and then like
+and then you stop rolling. And like but
+that's like you're rolling for like many
+like for a long time until everyone gets
+sick. Um that's the kind of like
+physical like I don't know I wouldn't
+say use the word abuse, but it's a sort
+of physical like demands that get put on
+your body
+that enable you to then gain 100 lb of
+fluid in the hospital and be in the
+worst pain you could ever imagine. I
+mean, it was way worse pain than
+breaking my collarbones. But like I'd
+felt bad pain before. And so like I can
+feel some bad pain now. And I think that
+a lot of that came from football. I also
+think that
+when I was in the ICU for that that
+first 6-month period, I learned a lot
+about myself and I learned a lot about
+how do you overcome challenging
+situations? And um
+I think there were three things that
+really helped me. So, the first was that
+the whole time I was in the ICU for that
+6-month period, I had this clear vision
+for the future which was a family with
+Caitlin who I was dating at the time and
+a career discovering drugs for patients
+in memory of my mom. So, that like clear
+vision for the future helped to deal
+with what was just horrible excruciating
+pain cuz of the fluid that you gain
+around your organs, it felt like I was
+getting basically simultaneously stabbed
+for for, you know, months at a time. So,
+one is vision for the future.
+Two was that I got so much strength from
+my family around me. Like my dad, my
+sisters, Caitlin, like they were holding
+my hands and I could feel their strength
+in my hands and like I I could they were
+like literally helping me to keep going.
+And I remember there was a moment um
+during the when I very first got in
+sick, so the first time I I almost died
+from my disease and doctors came in,
+said I wasn't going to make it. We had
+no diagnosis at this time. Said goodbye
+to my family.
+You know, just heartbroken. And I
+remember with every breath I took just
+just the horrible pain. And so, when
+when you have that much pain with every
+breath, you start slowing your breathing
+and um I was starting to let go. I was I
+was just I I was, you know, letting go
+and I thought that I was maybe going to
+miss out on a couple days of life, but
+you know, I'm in a lot of pain. I'm I'm
+I'm just going to slow down and let go.
+And I remember hearing my sister Gina
+was on on my left side. She was holding
+my hand. I remember her looking at me
+and everyone else was crying and sort of
+like I think it was maybe um
+had had an idea for what was going to
+happen, but Gina was holding my hand and
+she said "Just breathe, Dave. Just
+breathe." And I remember when I heard
+that, I was like, "All right, I'm going
+to do one more breath and it's going to
+be really painful, but I got this." And
+I I did one more and I did another one.
+And fortunately, the medicines that I'd
+received helped me to to to make it a
+little bit longer. And so, the key
+takeaway for me was that like you can do
+anything for like 1 minute or 1 hour or
+1 day.
+But you can't do like I If you told me
+at the beginning, "David, you're going
+to be in the worst pain of your life for
+6 months. It's going to be horrible.
+You're going to suffer. Your organs will
+be failing." No way I would have the
+strength to survive that. But I could
+survive for 1 minute and 1 hour and 1
+day. And I think that I think a lot of
+that you learn I think I learned some of
+that from playing football and I think
+that um just this sort of like putting
+your body um uh
+through a a lot of challenges I think
+helped me a lot.
+Older sister or younger sister?
+&gt;&gt; Two older sisters, yeah. Allison and
+Gina are 7 and 5 years older than me.
+&gt;&gt; Awesome, man. As the younger brother of
+a older sister
+&gt;&gt; They're the best.
+&gt;&gt; They're the the
+&gt;&gt; Yeah. Big big big shout out for the for
+the sisters, older and younger. Yes. The
+best.
+I'd like to take a quick break and
+acknowledge one of our sponsors,
+Function.
+Last year I became a Function member
+after searching for the most
+comprehensive approach to lab testing.
+Function provides over 100 advanced lab
+tests that give you a key snapshot of
+your entire bodily health. This snapshot
+offers you with insights on your heart
+health, hormone health, immune
+functioning, nutrient levels, and much
+more. They've also recently added tests
+for toxins such as BPA exposure from
+harmful plastics and tests for PFAS or
+forever chemicals. Function not only
+provides testing of over 100 biomarkers
+key to your physical and mental health,
+but it also analyzes these results and
+provides insights from top doctors who
+are expert in the relevant areas. For
+example, in one of my first tests with
+Function, I learned that I had elevated
+levels of mercury in my blood. Function
+not only helped me detect that, but
+offered insights into how best to reduce
+my mercury levels, which included
+limiting my tuna consumption.
+I'd been eating a lot of tuna. While
+also making an effort to eat more leafy
+greens and supplementing with NAC and
+N-acetylcysteine, both of which can
+support glutathione production and
+detoxification. I should say, by taking
+a second Function test,
+that approach worked. Comprehensive
+blood testing is vitally important.
+There's so many things related to your
+mental and physical health that can only
+be detected in a blood test. The problem
+is blood testing has always been very
+expensive and complicated. In contrast,
+I've been super impressed by Function's
+simplicity and at the level of cost, it
+is very affordable. As a consequence, I
+decided to join their scientific
+advisory board and I'm thrilled that
+they're sponsoring the podcast. If you'd
+like to try Function, you can go to
+functionhealth.com/huberman.
+Function currently has a waitlist of
+over 250,000 people, but they're
+offering early access to Huberman
+podcast listeners. Again, that's
+functionhealth.com/huberman
+to get early access to Function.
+You have an amazing team. So, in another
+parallel to to football and um
+and another signal that for people um
+combating disease or just general health
+issues, that that social support piece
+is so key. I mean we I mean there's so
+much data on this and I mean we've done
+podcasts about this and we could
+probably do a hundred more and the
+message is always the same, which is
+do the best that you can, surround
+yourself with at least one person you
+can rely on and and be the best way to
+do that is to be that person to people.
+&gt;&gt; Yeah.
+&gt;&gt; You know, um should you stay healthy,
+you have that person. Should you not be
+healthy, you have that person. So,
+um
+yeah, and over and over.
+It's really um
+an incredible story because you you
+emerge from it with 11 years of
+overtime. Do you still think about it as
+overtime?
+&gt;&gt; Fifth overtime, yep. Do Do you
+&gt;&gt; Although, I I will admit, I I think to
+your question,
+I don't have the same sort of cuz
+there's this In overtime, there's a
+there's both fear and clarity and and
+the the fear, I think, drives some
+clarity and I think you'd be able to
+talk to the science of a lot more than I
+would. Um I will say as as 11 years and
+three three quarters of a year go by,
+um there isn't maybe the same heightened
+sense of like I'm in overtime, but you
+know, every once in a while I have a
+port where I get my infusion every few
+um months on my chest. I've got scars on
+my neck from where lymph nodes got taken
+out. And every once in a while, I just
+sort of put my hand here and here and it
+reminds me, okay, like I'm in overtime.
+Like I got to be really thankful um
+because, you know, we we don't know how
+much time we have. The brain is wild in
+this way. We had a guest on this
+podcast, uh Michael Easter. He wrote the
+book The Comfort Crisis. It's an
+incredible book really about how to
+navigate life generally and and doing
+really hard things
+um
+voluntarily. And uh and he go do really
+hard expeditions and then come back from
+them with a renewed sense of gratitude
+for like the smallest things. The
+smallest things. And I asked him, you
+know, how long does that gratitude
+last? And I think he said about 2
+months. You know, and then it resets.
+And of course, those weren't
+life or death circumstances of the sort
+that you're describing. So, he just goes
+on more of these things, right?
+And it's a wonderful book and an import
+dare I say an important book for people
+healthy and certainly healthy or sick. I
+think this this notion that you're on
+borrowed time or overtime. It's hard to
+hold on to because you also have to just
+live your life. Clearly, you're making
+the most of that and and as I mentioned
+earlier,
+you know, in service to others.
+So, your background as a as an athlete
+helped you
+navigate this health challenge. Then the
+health challenge dovetails with your
+work as a physician. And you're really a
+physician scientist cuz you you hold
+both titles and formally and
+and as a practitioner. So,
+nowadays, do you get contacted by people
+all the time whose kid or themselves are
+dealing with a with a challenging
+disease with the question, is there a
+drug that's approved that can help me?
+Or combination of drugs? We do. We get
+contacted a lot and
+to share sort of what the these last 11
+and a half years have looked like. So,
+I after medical school, I actually
+enrolled in business school in part
+because I
+realized that the greatest barriers to
+progress did not appear to be scientific
+or medical. They had to do with things
+like getting people to collaborate with
+one another, efficient use of resources,
+coming up with a strategy to solve a
+disease. So, it was actually in business
+school that I discovered sirolimus has
+saved my life. And after business
+school, I joined the faculty at Penn and
+set up a lab and um
+we got started out first focused on
+Castleman's and you know, first it was
+about understanding how does mTOR play a
+role in Castleman disease. Started
+treating other patients with the drug
+that I'm on, sirolimus. And so, I'll
+never forget we treated a patient in
+Brazil and then treated patient in New
+Zealand. And then but I just heard about
+them. I wasn't physically with them. But
+then the fourth patient we treated was a
+patient named Joey who was a child um
+who was a 13-year-old boy at um
+Children's Hospital of Philadelphia. And
+um
+it completely turned his disease around.
+He was He was literally dying in the
+Children's Hospital. We used sirolimus
+and I would come in every day to see him
+and I'll never forget um you know,
+seeing the blood work, seeing him the
+couple days after we started sirolimus
+and it was just Andrew, it was so
+incredible to like see this boy who was
+on death's doorstep start to turn around
+because of the drug that saved me and
+now we're saving other people. And
+again, we'd use it in Brazil, use it in
+New Zealand, but I hadn't seen them. I
+hadn't like felt like what his family
+was feeling. I actually just saw Joey a
+couple days ago and and his parents a
+couple days ago as well. Um he's a he's
+a college student at Temple University
+now, but
+so that for me was this huge moment.
+It's like, "Oh my gosh, like the drug
+I'm on is helping other people. It's not
+just this sort of one-off thing." And
+then we found a drug that's used for
+bone for bone marrow condition called
+myelofibrosis um that we thought could
+also treat Castleman's patients. So
+there's a young girl named Kayla in a
+hospital in Chicago wasn't responding to
+anything and she didn't respond to my
+drug either, sirolimus. And we
+recommended her doctor um try
+ruxolitinib first time ever for
+Castleman's disease and she responded
+incredibly well. She's in college now at
+Marquette University. She's going to be
+a nurse. And um that was amazing. I was
+like, "Okay, not only did we find this
+drug for me and give it to other people,
+but now we found another drug for
+Castleman's." Like, "Wow, maybe there's
+even more we can do." So our lab kept
+working and working and that's when
+Michael, the patient with angiosarcoma,
+came to us back in 2016 and we found out
+that this drug for melanoma could
+actually treat his angiosarcoma cancer.
+And then it's, "Oh my gosh, we can find
+for another disease." And this over the
+course of of the last 11 years is is
+totaled 14 drugs for diseases they
+weren't intended for. And with every one
+of them, we get so excited and then we
+also think to ourselves, "How many more
+drugs are there out there that are made
+for one disease that could actually
+treat more diseases?" And so
+that meant that 3 years ago,
+um as artificial intelligence was really
+continuing to move forward at an
+incredible pace, um my co-founders,
+Grant Mitchell and Tracy Zukerman, Grant
+um was utilizing um artificial
+intelligence uh to support drug
+companies with finding new uses for
+their medicines, to find sub-populations
+that might benefit from their medicines.
+But, we thought, what if instead of
+using AI one drug company at a time to
+find, you know, one new use for
+medicine, what if we could utilize
+artificial intelligence to scan across
+all drugs and all diseases to find the
+best opportunities? So, we started
+Everycure 3 years ago, and since
+starting Everycure, um you're absolutely
+right, we get contacted by lots of
+patients and families, and we try to
+help them any way that we can, and then
+I'll share a couple really exciting
+examples. And at the same time that
+we're having all these incomings about
+people that are on death's door,
+what we keep focusing on is can we find
+these matches, like lidocaine for breast
+cancer or DFMO for Castleman disease
+that syndrome I mentioned? Can we find
+these matches and do the work so that
+way people don't get to death's
+doorstep? Do the work to do the clinical
+studies, get the word out so doctors are
+prescribing them, so they're not coming
+to us for a Hail Mary, but we're
+actually getting the work done ahead of
+time. So, that way the drug is just
+being used. Can we match every drug to
+every disease that they can treat and do
+the work to get it to people? Um
+cuz that's really the I think the way
+that we really solve problems at scale
+as opposed to this sort of that one-off
+Hail Mary approach, but I'll share a
+couple um one-off approaches that I'm
+really, really proud of. One of them
+is a patient um named Al in Vancouver
+who wasn't responding to any medicines.
+He also has Castleman's and the subtype
+that I have, the really deadly one. And
+um
+the number one ranking uh number one
+ranked drug in our machine learning
+algorithm for Castleman disease, uh when
+we ran it for the first time 2 years
+ago, um was uh a TNF inhibitor,
+actually. Mentioned TNF earlier. And
+based on some other work in our lab, we
+thought that maybe we could try it for
+him. Um he received the drug, he
+responded really well.
+&gt;&gt; For Castleman's, yeah. Tumor necrosis
+Yeah, TNF inhibitor. Yeah, so sorry, not
+TNF directly, the inhibitor of TNF,
+exactly. So, we gave him adalimumab, and
+he responded incredibly well. He's been
+doing great now for 2 years, published
+in the New England Journal of Medicine
+earlier this year. Can I ask you,
+forgive me for interrupting. Okay, so so
+an inhibitor of tumor necrosis factor
+alpha. Mhm.
+TNF alpha is involved in an inflammatory
+response. Earlier you said that this
+inhibitor can help treat this condition
+of of multiple strokes. Yes.
+&gt;&gt; In childhood. Okay, strokes are
+basically bleeding out in in brain
+areas, essentially, right? Okay, uh I'm
+sure there's a mechanistic pathway that
+can be, you know, uh Connected, yeah.
+connected to that, all right? Um
+involving any number of things, uh
+and I'm sure there's a mechanistic
+pathway that can be linked to
+this other observation.
+Does it matter to you?
+Like, does it matter that uh like I I
+think I actually have seen papers where,
+you know, TNF alpha's involved in like
+kind of like
+endothelial neural interface, and then
+you have inflammation, and then you have
+some shearing, and then you have
+bleeding, and okay, so like I can it's a
+just-so story in my mind um that works,
+right? Um does it matter, or is the goal
+to screen drugs in patients um as these
+Hail Mary passes and figure out things
+that work, and then worry about
+mechanism later? I mean, this isn't
+typically not the way science and
+medicine is done, especially in this
+country. People don't like the notion of
+eating a plant or eating a seed and then
+seeing benefits and not knowing what the
+molecules are. I mean, we like
+reductionist science in this country.
+This is changing somewhat, but that's
+been the pattern.
+To you, for a patient that's suffering,
+is all that matters that they get
+better? I could understand why that
+might be the case. Yes, 100%. All ever
+since I saw my mom die from brain
+cancer, all I've wanted to do is think
+about how can we help people with these
+horrible conditions, and then when I
+went through my own experience, I
+realized that oh my gosh, helping people
+with these horrible conditions may not
+be spending my whole career to develop
+one drug. It might actually be spending
+my whole career finding out all the uses
+for all these other drugs. And to use a
+football analogy, it's like we've got
+all these drugs that are on like, you
+know, the one yard line that could be
+useful for a new condition, but there's
+no incentive to do that. So, can we just
+push them in? So, yes, it's
+all about can we help patients? And I
+think it goes bidirectionally. So, when
+a drug helps a patient like like that
+TNF inhibitor helped helped Al, we
+believe it's because
+T cells in Castleman's disease, CD4
+positive T cells, are producing too much
+TNF when they become activated. And
+we've shown that in the lab. So, you can
+actually start working backwards. So,
+like when a TNF inhibitor helps a
+patient, so let's look at their blood
+and let's figure out why. And then maybe
+I can learn something for the we can
+learn something for the next patient.
+So, I think it should be bidirectional.
+Clinical observations and in the lab,
+and let's go in both both directions.
+And then I also want to share about
+another patient named Joseph who
+has a rare cancer called POEMS syndrome.
+And so, his girlfriend Tara reached out
+to us in one of these sort of Hail Mary
+attempts because his doctors were
+getting ready to take him off life
+support because he was dying from his
+POEMS syndrome. And um
+we recommended three drugs that are
+typically used for multiple myeloma, and
+we mentioned myeloma earlier. Myeloma
+and POEMS are really really similar. So,
+again, it wasn't rocket science to
+recommend three drugs that are used for
+a really similar form of cancer for for
+his condition.
+Um but he was dying. His doctors were
+afraid to try chemotherapy. They were
+worried that that it would kill him, the
+drugs themselves. But they were going to
+take him off life support, so they tried
+it, and he responded incredibly well.
+He's been doing great. It's been over a
+year and a half of remission. And I
+mention all of these examples because
+like each one of them sort of
+teaches us something else about this.
+And that's that like they're similar
+conditions, yet they weren't being, you
+know, but we weren't thinking
+creatively. Yes, there were no
+treatments for POEMS syndrome, but there
+were treatments for myeloma. And so, you
+know, and there's shared mechanisms
+between the two. So, I think that um
+some doctors are doing this, but we have
+to create a system where we uncover
+these and then we can get it out to the
+masses so they use them.
+The fear is that you try
+one of these novel drug applications.
+Drugs aren't Sorry, existing drug
+used in a novel way to be very specific
+with the language here. And a patient
+gets sick or dies.
+&gt;&gt; Yep.
+You know, it wasn't but gosh, maybe a
+decade and a half ago that this kid
+was given gene therapy and died.
+&gt;&gt; And that delayed, setback, however you
+want to view it, uh the whole field of
+gene therapy by a very long time. All it
+takes is one patient death. Yep. I mean,
+and then in the supplement realm, I
+don't know if you remember this, but
+like um cuz we're about 10 years apart.
+You're younger than I am.
+Is uh
+tryptophan
+the amino acid to induce sleep because
+it's a you know, it's in the serotonin
+synthesis pathway and um but the binders
+used in a particular batch of tryptophan
+that I think was sold out of Japan
+although um ended up being contaminated
+and somebody got very ill and died.
+You couldn't buy tryptophan for a long
+time. Now, tryptophan not as critical as
+life-saving drugs in my opinion except
+the naturally occurring tryptophan. But
+all it takes is one bad situation
+and the whole thing gets vaulted for a
+very long time. So, how do you mitigate
+that risk? Is it by only focusing on
+patients that are really it you know,
+kind of at the end of their rope in
+terms of possibilities?
+And it seems to me that the medical
+community has been pretty
+um
+open to what you're doing.
+Uh but I have a little bit of a like a
+kind of like traditionalist fear voice
+in the back of my head. Like like what
+if you start giving aspirin to kids with
+this other condition and kids start
+getting really, really sick and you
+can't pull those symptoms back. Cuz it's
+one thing to halt a drug and symptoms
+stop.
+It's another to to halt a drug and and
+those side effect symptoms, whatever you
+want to call them, persist.
+And and God forbid a kid dies.
+Yeah.
+&gt;&gt; You know, so what you're doing is is
+extremely exciting, but um
+it's also risky. Yeah, you're asking all
+the right questions. I mean, I think
+that
+there's a couple ways that we think
+about this. And one is that we really do
+try to avoid the Hail Mary's. As you
+mentioned and as you as you thought,
+lots of people are reaching out to us.
+And unless we have solid evidence about
+a drug for that disease, we are we don't
+want to just speculate. Because to your
+point, speculation can actually lead to
+harm. So, and if there's a you know,
+fine line between you know, speculation
+that could save a life and and harm. And
+of course,
+we are only doing what we're doing to
+help people. It's a non-profit
+organization. We literally just exist
+just to help people. There's nothing
+else here to it. So, um we definitely
+don't want to cause harm. Um so, one
+part is that we focus on
+you know, we look across everything
+versus everything, every drug versus
+every disease to find the best
+opportunities, and then we move them
+forward in a really rigorous way. We do
+laboratory studies. We do clinical
+trials. We evaluate the results of those
+trials. We look in observational data.
+So, we can be really rigorous about the
+things that we do at the end of the day
+say we are advocating for this use.
+That's one way to do it. The other thing
+to consider is that
+there's always a physician that's
+prescribing the medicine to the patient.
+And so, the best thing we can do is to
+educate those physicians and those
+patients on what it is that maybe we
+found in a clinical trial or in the lab
+works, but it's still got to be decision
+between the patient and and and their
+physician.
+And what about outside the domain of
+disease in the domain of health?
+&gt;&gt; Mhm. Very brief anecdote, uh
+colleagues of mine
+some don't like it when I tell this
+story, but I'm going to tell it anyway
+cuz um
+many years ago I went to visit Columbia
+University School of Medicine. I was
+like, Columbia Med's fantastic place.
+And there's a Nobel Prize winning
+neuroscientist there. Met with him to
+discuss his work.
+He happens to be an MD,
+but he's a researcher. And I noticed he
+chewed six pieces of Nicorette inside of
+the 45 minutes we met. So, I asked him,
+like, "What are you doing?" Guy was in
+his late 60s then, now he's in his late
+70s. Very, very sharp. Nobel Prize
+wasn't an accident.
+He looked at me like this and he said,
+"Nicotine is protective against
+Alzheimer's and Parkinson's." He said,
+"Smoking
+and the vape wasn't really vaping then,
+but smoking will kill you, but it
+nicotine isn't carcinogenic. Nicotine,
+despite raising blood pressure,
+protects dopaminergic neurons and
+cholinergic neurons. So, that's why I do
+it." And he said that he used to smoke
+and he was much sharper. Now he uses
+Nicorette. And I thought, "Should I use
+Nicorette?" So, I said, "Should I be
+doing this?" He said, "You're young, you
+probably want to wait until you're in
+your 60s or 70s." He said, "But it's
+protective against Parkinson's and
+Alzheimer's."
+And he also said, "Don't get your head
+hit. Don't play football." You know,
+that kind of thing. Okay, so I took that
+and
+I decided, "All right, someday I'll chew
+Nicorette." Now nicotine is all the
+rage. I actually don't suggest that most
+people take nicotine because of the
+blood pressure effects. Yeah. It's a
+constrictor. There could be other
+things. It's very, very popular, but
+very, very habit-forming {slash}
+addictive. So, I want to be very clear
+about that.
+But I realized there are really smart
+people inside of my profession who have
+medical degrees, who are doing things to
+promote their health,
+like take lithium,
+not continuously, but for 1 or 2 months
+per year. I know a colleague doing that.
+Colleague like taking nicotine who's now
+in his late 70s and still very, very
+sharp. Now, you can't run the the other
+You can't be the control experiment for
+yourself, but what I want to know is
+do you think that there are things that
+are value
+that people can and should explore to
+maintain or promote their health, to
+avoid disease
+in the same kind of framework that
+you're approaching the treatment of
+disease? Absolutely. And I think we need
+to be
+as rigorous in this realm as in you know
+in in the in the world of treating
+disease. I think that the challenge is
+that there's such limited data, right?
+Like you said you you know
+your one friend is doing really well,
+but it's hard to know was it because of
+the Nicorette or is it you know that he
+was going to be fine either way. I just
+think we got to figure out ways and I
+think you've done such a great job of
+spotlighting these opportunities so that
+way people will think about it more and
+actually will do further investigation.
+Um
+And I was thinking in terms of this um
+prevention side of things of course
+about GLP-1s. And so of course there's
+interesting evidence emerging and you'll
+know better than I will. Um but around
+improvement in Parkinson's symptoms in
+patients that are on GLP-1s and have
+Parkinson's disease. Improvements or
+reduction in
+risk of Alzheimer's and also breast
+cancer people who are on GLP-1s. And so
+there's likely a very complex interplay
+between weight loss
+and maybe it's the GLP-1s are reducing
+risk of these things because metabolic
+effects maybe there's direct effects
+maybe it's anti-inflammatory. So these
+are you know preventative concepts with
+pharmaceutical products that
+that I think we we need to be thinking
+about and to your point
+you know there really isn't an actual
+line between natural and pharmaceutical.
+I mean think about the drug I'm on
+sirolimus. It's called rapamycin because
+it was found on the island of Rapa Nui
+in the soil of I don't know if you know
+that story it was found in So rapamycin
+or or sirolimus the other name for it
+was found in the soil of the island of
+Rapa Nui and there was a researcher at
+Wyeth Pharmaceuticals who was going all
+around the Pacific Ocean to a bunch of
+different islands and picking up soil
+samples. And he thought that you know
+maybe I could find some drugs in the
+soil. And he eventually found this
+molecule now called rapamycin where they
+synthesized a bunch of it. It's
+completely naturally occurring from the
+from and the other name for Rapa Nui is
+Easter Island. It's from the island you
+know from Easter Island. So
+synthesized it and they initially
+thought that it might be a good drug for
+as an anti-fungal but it's a lousy
+anti-fungal. And so they were trying to
+figure out like what else could it do?
+And they found out that it's a really
+potent immunosuppressant. And um and in
+fact the research into the
+immunosuppressant role ended up you know
+really accelerating understanding of how
+the mTOR pathway works in the first
+place. And it actually is an amazing
+story um that was was done on on
+RadioLab about how um it eventually um
+or at one point it was shelved. Wyeth
+and Pfizer decided not to study it, and
+then it sort of got taken off the shelf,
+and it got approved for organ transplant
+rejection. But I just think about
+something like that. I mean, if that
+scientist hadn't picked up the soil
+sample in Rapa Nui, I'm not sitting here
+with you talking to you, right? Um and
+of course there's thousands of people
+all over the world who aren't sitting
+here talking to anyone because you know
+that drug wouldn't have been discovered.
+And and it was in the soil. And it it's
+not some you know pharmaceutical
+synthetic thing. You know, this is a
+totally naturally occurring compound.
+So, I think our our the line that we put
+between creatine and you know, sirolimus
+and GLP-1s, there's a lot of overlap
+here. And yes, some of these molecules
+are are very much synthesized. And you
+think about the chemos that I've gotten
+are like horrible compounds that like
+you probably don't want to put in your
+body. But it's a lot grayer than I think
+we like to think it is.
+I think the term is bioprospecting.
+Uh when people from pharmaceutical
+companies go out and look for things in
+nature and then develop drugs from them.
+We had a a guy on here, very impressive
+guy, Chris McCurdy,
+who's down in Florida. He studies kratom
+and kratom leaf products. Okay. Um
+kratom is a
+is a it's being sold as a kind of
+natural opioid replacement. I I just
+should anytime it comes up I have to be
+very careful cuz
+y'all cut clips and you take them out of
+context. So, I'm going to just go I've
+learned how to guard that against that.
+Forgive me, but
+um kratom products and the kratom leaf
+have been used by some former uh
+prescription opioid addicts to get off
+those prescription drugs. However,
+it's very clear that a lot of these
+products which are sold over the counter
+in convenience stores, um corner stores,
+7-Eleven, etc., CVS, Wow. can also be
+highly addictive alone, and they're sold
+to kids. Um it's a serious, serious
+issue, but the kratom leaf, kratom I
+think is the way it's the traditional um
+uh pronunciation,
+uh contains a bunch of different plant
+alkaloids. Wow. And the synthesized,
+purified kratom is the one that has this
+uh pain pain relief aspect that's also
+can be very addictive. Um and he we
+discussed the coca plant and cocaine,
+but also other elements within the coca
+plant that his he runs a laboratory that
+are being isolated and being tested for
+different um pain relief and uh
+psychoactive properties that can be very
+beneficial to people. So, bioprospecting
+is something that drug companies don't
+really discuss a lot, but the way
+they're doing this is going into nature,
+looking at the kra- the kratom leaf,
+Yeah. the uh coca plant, um
+mucuna purines is this velvety bean Mhm.
+that um is 99% L-dopa. Oh, really? Wow.
+&gt;&gt; Yeah, which uh you can buy this over the
+counter. So, we think it So, the line
+between supplementation and prescription
+drug is very, very fine. It is. It's
+just that there's no control over the
+the over-the-counter stuff.
+Right. And so, this where it runs into
+problems and gets a bad reputation, and
+understandably so. We don't want people
+harming themselves with this.
+I'm beginning to think that what's
+really needed, and people in the current
+administration do listen, um
+to the podcast. I don't know if they
+what they do with the information, but
+um I think we need more thoughtful, safe
+bioprospecting to develop drugs that
+they can be tested in preclinical
+models, animals. Preclinical means
+animals, folks. Um
+and then
+eventually clinical trials,
+but I don't know that we have the time
+for clinical trials on all these
+bioprospected
+molecules or even the molecules that
+you're talking about, which are already
+FDA approved. It sounds like a lot of it
+just has to be run in real time in
+people. Like the experiment in some
+sense has to be done
+in humans. I just don't see otherwise
+it's going to be, you know, another 50
+years before we have a cure for
+Alzheimer's or or we solve some of the
+most serious psychiatric illnesses. I I
+agree.
+It the answer comes from actually
+testing these things in humans. There's
+so many things that cure mice and they
+don't ever translate to humans and and
+and and vice versa. So,
+um
+I think that I'm really bullish on the
+idea of leveraging the world's
+biomedical knowledge and using
+artificial intelligence to help to
+prioritize among all of these different
+things. And so, at the end of the day,
+you know, we talk about the 4,000 drugs,
+18,000 diseases. The reason we do the
+scoring on everything versus everything
+is so that we can just know where to
+start because, you know, I mean, we we
+rank everything versus everything and
+and maybe the fifth highest scoring
+thing is is the thing to go after but
+maybe the 10,000th highest scoring thing
+is a Point being is that AI can at least
+help us to to focus in on where do you
+start cuz to your point there's so many
+opportunities of the existing drugs that
+we have, of the molecules that are
+already available in nature, but you
+need you need somewhere to start and I
+think AI is is really well positioned to
+direct us humans to where to start.
+Amen to that um because in theory with
+AI you could um develop, I guess they
+call it in silico, you could say uh
+let's run uh 10,000 cell cultures in
+parallel. The graduate student costs is
+nothing. They don't need to sleep. It's
+AI after all. And um with all the
+properties of of, you know, this immune
+cell type, different uh concentrations
+of drug, and while it's not a real-world
+experiment, you can get an indication of
+what the outcome might be and what might
+be worth taking a better look at. Is
+that Is that what you're imagining?
+&gt;&gt; That's right and also um that that's a a
+true simulation where the work hasn't
+been done. What also is the case is
+that, as you know, there are labs all
+over the world running experiments all
+the time on various
+cell lines and animal models and in
+humans. All of that's happening and so
+what I've really emboldened on using AI
+for is not to simulate something that
+hasn't been done yet, but it's actually
+to find connections between what has
+been done. So we know you know the
+example earlier that one lab found
+increased PD-1 expression in this one
+form of cancer and this drug inhibits
+PD-1. So therefore let's make a
+connection that no one had made yet. So
+there are two truths that hadn't been
+connected, you know, A you know and B
+are connected, B and C are connected,
+let's connect A to C. And I think that
+AI is particularly well suited to to
+find these patterns of things that we
+know. So it's it's not a total it's not
+a simulation, it's actually just
+connecting
+really like breadcrumbs into one story.
+You're a parent. I am.
+Uh
+how do you navigate health care for a
+kid knowing what you know about medicine
+and knowing what you know
+about what medicine doesn't know?
+I'm a very rigorous parent of of two
+kids when it comes to health care. Yeah,
+I've got a 7-year-old and a 3-year-old
+which
+um
+it feels like a dream to be here talking
+to you 15 years after I went through all
+that I've gone through. Definitely feels
+like a dream that I'm able to tell you
+I've got a 7-year-old and a 3-year-old.
+I'm just I'm so lucky. But like you said
+um
+I'm really rigorous, you know, you know,
+one of my doctors suggest you know, try
+this for for my daughter. I you know,
+ask a lot of questions. I'm I mean I try
+to really stay on top of things and it
+sort of gets me thinking about something
+I was hoping to ask you about and uh
+it's that over the course of my
+challenges and sort of ups and downs
+that I've had in my health and and in
+the work that I've done to find
+treatments
+I've found that I think there's this
+circuit that I I again I'd love to get
+your thoughts on. So
+I find that
+it starts with hope. So I'm hoping for
+some future. so maybe it's that my
+child's health condition will be
+improved or my health condition will be,
+but you know, you start with some sort
+of hope that you hope something will
+happen, and then that drives some amount
+of action. So, like maybe in my case,
+you know, I would run experiments on my
+own blood samples, and then that results
+in some impact that um you know, maybe I
+get learn something, and maybe that
+drug's going to work for me. And that
+impact gives me more hope, and then it
+creates this this circuit. So, it's
+hope, action, impact, which gives you
+more hope, action, impact. And I haven't
+figured out exactly like if there's some
+some some neuroscience behind this, but
+I found that for me and and just
+thinking about, you know, the your
+question around whether that's, you
+know, helping your child with a medical
+issue that they're facing or again, my
+own, that that circuit has just been a
+game changer for me. I don't know if
+there's if there's some neuroscience
+behind that that you could help me to
+understand this this hope action impact.
+Uh there absolutely is, and uh the
+person who deserves credit for um
+revealing this circuit is my colleague
+Joe Parvizi at Stanford. He's a
+neurosurgeon. Wow.
+&gt;&gt; Who was in the brain of awake patients
+uh stimulating different brain areas uh
+in anticipation of a neurosurgery like
+you described earlier, and had
+electrodes in a structure called the uh
+midcingulate cortex.
+Um it's part of a larger network, of
+course, as is every brain structure. Uh
+and he noticed when he stimulated a
+subregion called the anterior
+midcingulate cortex
+that patients would report in real time
+that they felt like they were some
+challenge and a bearing down on them,
+like going into a storm. Each one
+described it differently. But that the
+stimulation also made them feel as if
+they wanted to lean into that challenge.
+Now, here's where it gets really
+interesting. If he marches the electrode
+back a millimeter or less,
+completely different set of effects.
+Laterally, completely different set of
+effects. So, the anterior midcingulate
+cortex seems to be the seat of some sort
+of sense of tenacity to lean into
+challenge.
+&gt;&gt; Wow. It gets really interesting when you
+start looking at the data of kind of
+volumetric imaging of the structure in
+people that for instance successfully
+overcome obesity through exercise and
+diet or people who decide to undertake
+some other challenge like a cognitive
+challenge or learning how to dance,
+something that's challenging. Yeah. And
+then you look at the literature on
+longevity and you look at this group of
+so-called super agers which is a
+misnomer because they actually age very
+slowly, Right.
+&gt;&gt; Yeah. Uh and what you find is that
+psychologically they report a very
+strong will to live.
+And their anterior midcingulate cortex
+is the one of just several areas that
+seems to maintain volume as they age
+&gt;&gt; Wow. relative to these age-matched
+cohorts. Now, none of these are perfect
+experiments on their own, but when you
+start to put these together as a
+collection of things, you realize that
+all the things that are the reverse of
+depression. So, what's major depression?
+A a lack of positive anticipation of the
+future.
+Um
+lack of understanding or belief rather,
+lack of belief that changing one's
+behavior could change circumstances like
+at a job or new relationship or overcome
+something.
+And you see the exact inverse of that in
+people with a kind of naturally large or
+perhaps um
+self-fertilized
+anterior midcingulate cortex. These
+people report a lot of positive
+anticipation about some hopeful future
+event. Wow. And it's not always a big
+monumental thing. Sometimes these are
+you know, closer milestones. Sometimes
+it's a bigger thing. And they live
+longer and they have this incredible
+will to live. So, it seems that you
+know, taking this to its kind of extreme
+conclusion that the will to live sits
+somewhere in the network of this
+structure. It's not just this structure
+and it's intimately con- related to
+dopamine
+networks. So, reward reinforcement and
+learning networks and all the rest.
+Yeah. Um but, you know, it's hard to
+pinpoint one structure, but if I had to,
+you know, put a pin in one structure, it
+would be Joe Parvizi's discovery of the
+anterior midcingulate cortex, and it has
+all the elements of you described hope,
+Yep. uh plan, Yep. and action.
+&gt;&gt; Repeat. Yes. And so, for people who are
+not ill or who are ill, having that um
+sequence, I had a good friend who was in
+uh Tier 1 Special Operations,
+uh in in the SEAL Teams, he described
+this as um when there's a challenge, you
+have to shorten the horizon, Mhm.
+get a forward center of mass, but think
+duration,
+path, and outcome.
+What path, how long, outcome, iterate.
+And it's the same way you work down a
+football field is the way you work you,
+you know, how lay through these
+challenges. So, um again, I'm I'm
+creating a tapestry from a bunch of
+disparate things here, but but none of
+it is is is outside the realm of of
+peer-reviewed science. It all sits
+there. Um so, uh we haven't scanned your
+brain. I don't think we need to to know
+that your anterior midcingulate cortex
+is clearly um very robust, and I would
+wager the hypothesis that it was
+probably um
+built and reinforced through your
+postering up of athletic goals on the
+wall of your childhood bedroom. I think
+you're right. I think you're right.
+Yeah, the
+the more you work, you know, the better
+your times get, the better those numbers
+get. And then, you know, as you said, it
+it it becomes a true circuit, you know,
+the thing you're hoping for, when you
+get closer to that thing you're hoping
+for, it drives you to take more action,
+and then and then you can you can keep
+going in that circuit. Well, clearly you
+are living in that circuit, and it lives
+in you.
+Could you tell us about ways that people
+can get involved with Everycure?
+Uh
+I have to imagine more information is
+better than less. Sure.
+&gt;&gt; So, what can people do? Sure. So, um
+anyone can go to everycure.org/ideas
+and tell us about maybe there's a drug
+that you were prescribed off-label by
+your doctor. Or maybe you're a
+researcher and you think that a drug
+could be used in a new way. So, you can
+go to everycure.org/ideas,
+tell us about that medicine, and and
+we'll look into it. We'll compare it
+next to our AI predictions, and and
+we'll determine whether maybe it can be
+moved forward. Um if you're an expert,
+say in neuroscience, or you name the the
+area, you can go to
+everycure.org/experts,
+and you can sign up so that if we find
+uh a drug that might be useful for a
+condition that you're an expert in, you
+might be able to give us advice and
+guidance on, you know, maybe what the
+right development path is. And anyone
+who's watching can help us to raise
+awareness about the work that we're
+doing. So, you can follow us on social
+media at everycure.org and and beyond.
+Um I had did a TED Talk recently. You
+can help spread the word and check that
+out. And finally, of course, people can
+support our work financially. We're a
+nonprofit organization. Clinical trials
+are expensive. You can go online
+everycure.org/donate
+and donate to our work. And we're just
+so excited for this opportunity we have
+to help people with the drugs that we
+have. But we realize that it we can't do
+it alone. We actually really need the
+whole community to get behind us.
+Where's funding currently derived from?
+Is it just public support? So, right
+now, um about half of our funding
+actually comes from the US government,
+from an agency called ARPA-H. Um they're
+one of our earliest supporters, and the
+other half um comes from individuals
+who've decided that this is important.
+Um it may be that they have a loved one
+that has a condition that they would
+love for us to work on, or maybe it's
+that they just want to see um you know,
+us be able to help patients with with
+the drugs that we already have. And um
+we are just so excited of that
+opportunity to match the drugs that we
+have to the patients who need them.
+Fantastic. And I should ask, um if a
+drug application is discovered, is there
+a feedback mechanism for you guys to
+derive income from it, or this is a
+completely nonprofit?
+&gt;&gt; It's completely nonprofit. So, I think
+by the end of, you know, let's say the
+next few years, I will guess that nearly
+all of the opportunities that we advance
+forward are the same dose, the same
+formula. No one makes any money off of
+them whatsoever. I I there'll be rare
+cases where, let's say the drug looks
+like it'll be effective, but it needs to
+get into the brain where a tweak will
+have to be made where a different dose
+or a formulation will be needed. I think
+they'll probably be rare cases where
+probably a company will be needed to be
+spun out to do it. But for the vast
+majority, we're nonprofit. We just want
+to take the drugs we already have to use
+them um for the diseases they could
+benefit from them. Terrific. We'll put a
+link to it in the show notes and
+caption.
+&gt;&gt; David, thank you so much for coming here
+today to share your story with us and a
+just a ton of actionable knowledge for
+people that are healthy
+continue to explore options safely. Yep.
+Think about what's possible, understand
+there are things that are known, there
+are a lot of unknowns, and again,
+explore safely. For people that are ill,
+find a disease-related group that really
+has
+um an eye on what's new, what's
+existing, who the best people are.
+Search for a few of those is kind of
+what I took away from that. And um
+thank you for doing the work you do.
+It's amazing. We need more people like
+you. Uh you're truly one of a kind. So,
+we're immensely grateful uh that you've
+taken hardship and transmuted it into so
+much good and love to have you back
+sometime to talk about all the
+millions of other things we didn't have
+time to talk about, but this has been
+incredibly enriching for me, and I'm
+certain it has for everyone else. Well,
+thanks so much for having me. Thanks for
+all that you do to advance the public
+health and also to get the word out
+about the work we're doing through
+EveryCure.
+Thank you for joining me for today's
+discussion with Dr. David Fajgenbaum. To
+learn more about his laboratory's work
+and his nonprofit EveryCure, please see
+the show note captions. If you're
+learning from and/or enjoying this
+podcast, please subscribe to our YouTube
+channel. That's a terrific zero-cost way
+to support us. In addition, please
+follow the podcast by clicking the
+follow button on both Spotify and Apple.
+And on both Spotify and Apple, you can
+leave us up to a five-star review. And
+you can now leave us comments at both
+Spotify and Apple. Please also check out
+the sponsors mentioned at the beginning
+and throughout today's episode. That's
+the best way to support this podcast. If
+you have questions for me or comments
+about the podcast or guests or topics
+that you'd like me to consider for the
+Huberman Lab podcast, please put those
+in the comment section on YouTube. I do
+read all the comments. For those of you
+that haven't heard, I have a new book
+coming out. It's my very first book.
+It's entitled Protocols, an operating
+manual for the human body. This is a
+book that I've been working on for more
+than 5 years and that's based on more
+than 30 years of research and
+experience. And it covers protocols for
+everything from sleep to exercise, to
+stress control, protocols related to
+focus and motivation. And of course, I
+provide the scientific substantiation
+for the protocols that are included. The
+book is now available by pre-sale at
+protocolsbook.com.
+There you can find links to various
+vendors. You can pick the one that you
+like best. Again, the book is called
+Protocols, an operating manual for the
+human body. And if you're not already
+following me on social media, I am
+Huberman Lab on all social media
+platforms. So, that's Instagram, X,
+Threads, Facebook, and LinkedIn. And on
+all those platforms, I discuss science
+and science-related tools, some of which
+overlaps with the content of the
+Huberman Lab podcast, but much of which
+is distinct from the information on the
+Huberman Lab podcast. Again, it's
+Huberman Lab on all social media
+platforms. And if you haven't already
+subscribed to our Neural Network
+Newsletter, the Neural Network
+Newsletter is a zero-cost monthly
+newsletter that includes podcast
+summaries as well as what we call
+protocols in the form of one to
+three-page PDFs that cover everything
+from how to optimize your sleep, how to
+optimize dopamine, deliberate cold
+exposure. We have a foundational fitness
+protocol that covers cardiovascular
+training and resistance training. All of
+that is available completely zero cost.
+You simply go to hubermanlab.com, go to
+the menu tab in the top right corner,
+scroll down to newsletter, and enter
+your email. And I should emphasize that
+we do not share your email with anybody.
+Thank you once again for joining me for
+today's discussion with Dr. David
+Faganbaum. And last, but certainly not
+least, thank you for your interest in
+science.

@@ -1,0 +1,309 @@
+# This is a Crypto Phone. Don’t Buy It.
+# https://www.youtube.com/watch?v=hRSMJGs0YMg
+
+foreign
+[Music]
+I know what you're thinking
+what the hell is a crypto phone and why
+would anyone want that
+and that's exactly what I was thinking
+when this first crossed my radar so this
+is an upper mid-range Android phone with
+crazy material choices from a brand
+you've never heard of with some specific
+crypto features built in that launched
+at a thousand dollars now I know I have
+been notably uh
+skeptical on crypto and web3 and
+blockchain and the metaverse and all
+that sort of stuff over the past couple
+years so you may consider me biased but
+I still think if you took the crypto out
+of this phone
+it would at least have potential
+I'm serious let me explain so the story
+of this phone actually starts all the
+way back with the essential phone so I
+don't know how many y'all remember the
+essential phone back in 2017 but that
+was a really interesting and exciting
+new development in the smartphone world
+we don't get that many genuinely
+promising new phone companies coming
+along and doing good things but that's
+exactly what this Andy Rubin startup was
+promising when they came out with their
+first phone it was a just this
+refreshing sort of minimal design there
+were no protruding camera bumps no big
+logos or branding they were one of the
+first to do this camera Notch here at
+the top of the screen with the thin
+bezels and they were one of the only
+ones using these super premium materials
+the titanium rails and Polished ceramic
+on the back and then it just had some
+pins on the back with some magnets for
+attaching some modular accessories just
+some genuinely interesting really cool
+ideas on top of some super clean
+software now unfortunately this
+experiment didn't really catch on you
+know this unfortunate combination of of
+high price
+mediocre cameras not that strong of a
+feature set for regular people to care
+launching as a Sprint exclusive all of
+this led to extremely low sales and then
+the company would go on to Dynamite
+itself after a bunch of info about Andy
+Rubin comes out and so we would not get
+to see a second try an essential phone
+too now it sucks to see a promising
+company with a ton of talent just
+disappear like that but something that
+happens a lot a lot of times when these
+businesses dissolve is the teams that
+worked on stuff sometimes will pop up
+somewhere else and work on something
+else and so sure enough in 2020 a bunch
+of the engineers from the original
+essential team got back together to form
+a new company called awesome and they
+would announce their first project the
+awesome ov1 basically the spiritual
+successor to the essential phone and you
+can see a lot of similarities and
+continuity in this announcement they
+talked about these crazy materials again
+this titanium and Polished ceramic and
+the rectangular design but they also
+then tried to correct a bunch of the
+things that doomed the original
+essential phone it is noticeably bigger
+and with a bigger screen bigger battery
+Etc but shocker they didn't really get
+enough interest in this brand new
+startup phone to be able to bring this
+whole idea back to life it's the classic
+Enthusiast phone problem where like it's
+a cool idea and some people really
+really want it but there's not enough
+hype to be able to make the whole thing
+happen
+that is until Solana came along so
+Solana is a web 3 company looking for
+new projects and awesome is this
+Hardware team looking for some backing
+to make this phone happen so Solana
+would bring the cash and bring their
+backing awesome would bring their
+Hardware talent and they'd partner
+together to turn the ov1 into this
+rebranded Solana Saga crypto phone and
+it would be a thousand dollars
+and uh
+that's this one right here so all right
+where do we start there's basically
+three things that make this a crypto
+phone instead of just another regular
+Android phone it's the Solana mobile
+stack the seed Vault and the d-app store
+so okay outside of those things this ov1
+or the Solana phone is actually a very
+average Android phone like specs Wise
+It's a Snapdragon 8 plus gen 1 so that
+would be last year's Flagship chip but
+then 12 gigs of RAM and half a terabyte
+of storage although it's unclear if it's
+fast ufs 3.1 but it's a nice big 6.67
+inch flat 1080p 120 hertz display at the
+front that gets decently bright but it
+is not ltpo it's just a fixed refresh
+rate and then it's powered by a 4100
+milliamp hour battery with wireless
+charging not great for the size of this
+screen but not tiny and then it's ip68
+water and dust resistant with a Micro SD
+card slot for storage expansion but then
+a pair of really mediocre cameras on the
+back it's got the same 50 megapixel main
+camera sensor that's in the Rog Phone 7
+and the Oppo Find X5 Pro but with worse
+software and that's paired with a 12
+megapixel Ultra ride camera both of
+which can pretty much only produce in
+perfect lighting after which Things Fall
+Apart very quickly with a lack of detail
+excessive noise just no really
+impressive strengths just a really very
+heavily mixed bag here but there are two
+things about this phone that actually
+I'm very impressed by that I really like
+okay number one
+is the materials again just this
+world-class build quality because like I
+said it's basically the same team the
+awesome ov1 team that came from the
+original essential phone and so they
+have this affinity for super high
+quality materials so we're talking matte
+stainless steel frame with colored
+titanium buttons and a full ceramic back
+which yes picks up fingerprints
+everywhere other than the fingerprint
+reader but dude this phone is a tank
+this phone is also very heavy it weighs
+like 250 grams which is more than an
+iPhone 14 pro Max it's got these nice
+squared off sides that I really like
+there's absolutely no squeaking creaking
+flexing at all it's just this
+hilariously well made packaging of these
+average specs but then two the other
+thing I really like aside from the
+crypto stuff the software itself once
+you get into it is actually
+extremely clean very clean like stock
+Android so it is Android 13 and who
+knows when it'll get Android 14 if at
+all but you can dig through everything
+and it is very quick and responsive and
+clean everywhere it's the stock Android
+Quick Settings the stock Android
+wallpaper and customization screens all
+these stock Google Apps the the clock
+the calendar Chrome everything now does
+any of this justify a thousand dollar
+price tag
+okay well let's see it's got last year's
+Flagship spec kind of weak cameras weak
+battery not that amazing of a screen but
+it's stock Android and good build not
+really worth a thousand bucks right so
+that's why literally less than a year
+after it came out the price plummeted
+from a thousand to six hundred dollars
+so now the real question is would you
+pay would anybody pay six hundred
+dollars for uh barely above average
+well-built Android phone that happens to
+have some crypto features built in
+no
+I guess this is the part where I have to
+go over all of the crypto and web3
+features so all right like I mentioned
+earlier there's three things that make
+this a crypto phone so the Solana mobile
+stack is an SDK for apps to connect to
+the Solana blockchain which I mean it's
+cool that it's built in but the obvious
+downside being this does not work with
+any other blockchain so no Bitcoin no
+Litecoin no ethereum this is just
+focused on the Solana blockchain then
+the seed vault is basically dedicated
+storage of a 24 phrase seed stored in a
+secure environment where the Android OS
+cannot see them so that would let you
+unlock your wallet and then the last
+feature is something I've been calling a
+d-app store which is literally a second
+App Store on this device that's
+specifically for crypto apps crypto
+Focus stuff so Phantom wallet is on here
+uh okx a crypto exchange is on here
+Brave browser things like that there's
+an app called minty fresh that lets you
+turn photos from your camera roll into
+nfts in a few seconds and a few clicks
+if you're into that I guess but those
+are the only three things that really
+make this a crypto phone and one of them
+the D app store is not really even that
+special because it is coming to other
+phones and you'll be able to get it on a
+non-crypto phone so there's that too now
+the other stuff I think you can actually
+make an argument is really really cool
+to have built into the phone and
+actually secure like that and if you are
+in the Solana ecosystem this is the only
+place you can get that stuff
+but man I feel like that's about the
+most Niche feature possible like
+remember we were just talking about the
+Zenfone 10 how I love that phone it's a
+super great phone it's just a shame it
+won't sell because not as many people
+like small phones
+do you think the number of people who
+are in the Solana ecosystem and want to
+buy a phone that has some of those
+features built in
+is greater than or less than the number
+of people who want a small phone
+basically the number one coolest thing
+to come out of this project to me is
+exposing me to this thing right here
+which is the uh the cable that comes in
+the Box for this phone this is a braided
+USBC a usb-c cable but not just any
+cable at the end here is a hard switch
+that blocks all data and only lets power
+through just just making it a charging
+cable and that's actually pretty sick
+highly effective for preventing
+something called juice jacking attacks
+where if you plug into like a public
+Outlet somewhere but that outlet is
+malicious and is going to try to upload
+malware to your device or download
+photos or something this cable will not
+let that happen just blocks all data so
+if you're plugging into an extremely
+rare public USBC Port this is actually a
+great tool to have but it's also not
+that special and it's available on
+Amazon for like 30 bucks so I'll also
+link that below so at this point I don't
+even have to really tell you but the
+crypto phone is basically a pretty
+standard Android phone with a couple
+kind of cool but extremely Niche crypto
+features for one specific crypto stack
+one that happens to also be tanking
+pretty hard and has been tanking for
+months and I also don't even really have
+to tell you that there's basically no
+reason for 99.99 of people to buy this
+even if you were to try to buy this
+phone just for a nice clean stock
+Android phone and just totally ignore
+all the crypto features you can get a
+lot more phone for 600 bucks for the
+same price you could get a pixel 7 or
+probably pixel 8 by the time it comes
+out you could get a refurbished Galaxy
+s23 you could get any number of OnePlus
+phones I just don't think this is
+anywhere near the top of the list for
+600 bucks and really that's that's the
+shame of it being a brand new phone
+company is really hard unless your name
+is Carl pay apparently and so I wish
+there was a world where the awesome ov1
+could just exist and could thrive in a
+small Niche Community could love it but
+now instead this
+becomes the perfect embodiment of crypto
+in 2023. at best ahead of its time
+but at worst
+completely useless to most everyday
+people and gives whatever else is going
+to follow it and even harder uphill
+battle
+thanks for watching
+catch in the next one
+peace
+[Music]

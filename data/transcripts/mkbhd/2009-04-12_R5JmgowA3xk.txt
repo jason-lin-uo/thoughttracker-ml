@@ -1,0 +1,161 @@
+# HD Tutorial: PIP Effect in Camtasia Studio 6
+# https://www.youtube.com/watch?v=R5JmgowA3xk
+
+[Music]
+hey everybody and welcome to another H
+tutorial in this tutorial I'll be
+showing you how to customize the picture
+in picture effect in Camtasia Studio 6
+now for this first clip I couldn't
+actually show you how to get the uh
+picture and picture effect using my
+screen capture software so bear with me
+here I'm just going to show you guys um
+when you enter the uh the recording uh
+basically the main menu where before you
+start recording in Camtasia Studio 6
+you'll come across a number of things so
+as I pick up the camera here uh pardon
+me this is not Camtasia Studio 6 but you
+can record a specific Dimension and
+normally this will be off right here and
+you will just have that big record
+button and you'll be able to record now
+this HP laptop actually has a built-in
+webcam so it recognizes it automatically
+so what we're going to do is come down
+here and hit the camera
+button there I am and it's recognized
+the camera so now I'm speaking to the
+camera up here and um it won't actually
+start recording but when I actually do
+go up and hit the record button it'll
+begin recording both the screen and my
+webcam at the same time so um I'm going
+to get and the audio actually so I'm
+going to get back to you guys and
+actually show you now a test video and
+just go over customizing the picture and
+picture effects in Camtasia Studio 6 so
+I hope you enjoy this
+tutorial all right we've switched over
+to the uh actual screen recording
+software here and what we're going to do
+is open up Camtasia Studio 6 and um in
+order to first of all modify the picture
+and picture effect we're going to go
+over to the import media Tab and import
+a little bit of media and make sure this
+is media that again you recorded using
+Camtasia Studio 6 um with the picture
+and picture effects so I'm just going to
+import this cam file it's very small
+file so it should load up quickly so
+here it is um just drag it down to the
+timeline and it will be on your timeline
+you will have um first of all you'll
+have to select your preset and I'm going
+to choose my HD preset because I like to
+make all my videos in 1280 x 720 uh if
+you want to know how to make that preset
+by the way I did a video on it and it
+got a lot of good ratings so that's a
+good the good idea to check that out so
+yes smart Focus now all right so here is
+our clip on down on the timeline it is
+aavi and you will see there's a video
+one and there is a picture and picture
+and audio now I didn't actually do any
+talking during this test so it'll be a
+very uh very flat line for the audio but
+there is a picture and picture video
+which is the webcam video picture and
+picture audio
+and the actual screen recording itself
+so what we're going to do is um if we
+want to customize a picture and picture
+effect which you can see down at the
+right hand side that's a little preview
+of what we've got here so there's me in
+the bottom right hand corner what we're
+going to do to customize is go over here
+to edit and go all the way down to
+picture in picture and select it and
+here we have one picture in picture clip
+which you saw I just imported and we're
+going to select modify selected pip clip
+and here's where uh it really gets
+pretty cool um what we can do here um is
+we can first of all over here on the
+right hand side you can modify and drag
+the size of what you want to be or so I
+have my uh key frame all the way at the
+beginning here I want uh I want to be
+taking up a good portion of the screen
+at the beginning of the uh of the screen
+capture however I'm a little blurry
+right there so I'm going to shrink it
+down a little bit uh it keeps the aspect
+ratio I'll put myself right in the
+middle of the screen hit okay then we
+hit finish we're going to play this clip
+a little bit and we got a to a point
+where we want to move myself out of the
+way pause and I'm going to actually uh
+make sure that key frame is selected
+then I'll go up to picture and picture
+again modify and here it is we're
+actually going to move oursel down to
+the bottom right hand corner and shrink
+down to a smaller size so it's a good
+high resolution like I'm all the way in
+the bottom of the screen right now and
+that's a good small size other things
+that we can change in the picture and
+picture effect um first of all the
+dimensions are right here we can change
+the opacity so if we want to complete
+completely disappear and show up later
+we can actually fade ourselves in right
+here and it'll be 100% opaque and um
+this this works if you're just a
+watermark or if you actually want to
+show yourself and something might be
+behind you and you don't feel like
+moving it you can just set yourself to
+be a little more transparent so you can
+see the entire uh screen recording next
+you can include a border and you can
+also select the Border color and
+thickness so here's the uh the palette
+for selecting your border color and you
+can also um fade the picture in picture
+in and out which is very useful and I do
+do that also what we can do is add a
+drop shadow to the picture and picture
+effect and I'll go to the top left since
+some in the bottom right hand corner of
+the screen and there you can see I'm in
+the bottom right hand corner other
+things you can do is show and high the
+picture and picture obviously that's the
+basic um the general uh dimensions and
+things you can do with customizing the
+picture and picture effect which I'm
+using right now um you can also hit the
+assist me button and uh uh Tex Smith
+will give you a whole ton of modifying
+picture and picture tutorials and if you
+hit the show me button and they actually
+have video tutorials using their own
+software demonstrating their own
+software so that's pretty cool so once
+you're done with all these changes just
+hit okay and finished and your picture
+and picture in has been completely
+modified as you can see by the preview I
+got the Shadow the red border and
+everything so I hope you like this
+tutorial and thanks for watching and um
+please subscribe peace
+[Music]

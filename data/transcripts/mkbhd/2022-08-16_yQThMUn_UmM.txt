@@ -1,0 +1,234 @@
+# Android 13 Hands-On: Top 5 Features!
+# https://www.youtube.com/watch?v=yQThMUn_UmM
+
+[Music]
+all right let's talk Android 13 hey
+what's up MKBHD here so I just did my
+iOS 16 Hands-On couple weeks ago did my
+walkth through and demo and everything
+so as I was digging through Android 13
+for a sort of similar demo two things
+struck me one the iOS videos always get
+just absolutely nuts views literally
+every single time and that's not just
+because the iPhone is already popular
+but iOS updates just get saturation so
+quickly there's a couple sources
+estimating iOS 15 was running on 90% of
+compatible iPhones well within a year of
+it going out so across the board most
+people who had bought an iPhone in the
+last four years knew that they're going
+to get this software now in Android land
+on the other hand as of a week ago the
+distribution chart looks a little
+something like this which shows that
+about 13 1 12% are on the latest version
+Android 12 a much larger 27% are on a 2
+gen old version Android 11 and then
+another 22% are on Android 10 and then
+the fragmentation just continues back
+from there so this Android 13 stuff I'm
+about to go over a few people like pixel
+owners in the beginning will be the ones
+to get this but then it'll it'll much
+more slowly trickle out to other phones
+as they get updated month by month and
+that's sort of a general theme here but
+then number two in both camps these
+updates are more minor than ever
+obviously they're both very mature in
+iOS you could consider the new lock
+screen overhaul pretty major but other
+than that bunch of smaller stuff and
+then with Android we just had the big
+material U overhaul with Android 12 so
+with 13 they didn't really have to
+overhaul things again it's a lot of
+smaller tweaks and so that's what we're
+seeing but I still do think a lot of the
+small stuff adds up to quality of life
+improvements the best analogy if you
+look at the Easter eggs this is the
+Android 12 Easter egg from last year and
+this is the Android 13 Easter egg it's
+almost the same thing but you can tell
+it's a little different but hey here we
+are with the very latest and greatest
+from Google I have it on my pixel 6 Pro
+and so I've gone through all of the many
+many updates and gone through the
+liberty of picking my top five best
+Android 13 features so I'm going to
+start at number five which is the
+clipboard there are a bunch of really
+solid improvements to the clipboard for
+copying and pasting with an Android so
+first thing you're going to notice when
+you go to copy something the new box
+pops up in the lower left corner whether
+it's text or an address or URL or
+whatever you copy when you copy text the
+phone will now give you a preview with
+the option to tap on that box and then
+edit the text in the clipboard so
+whatever you modify in here will be
+saved in your clipboard so that you can
+paste it later and then if you copy an
+image it'll automatically take you
+straight into markup so you can write on
+it or crop it or save it whatever you
+want to do and then your phone will
+recognize sensitive information if it's
+stored in your clipboard and
+automatically clear it after some time I
+believe it's 1 hour so for example my
+package tracking app every time I open
+it right away it just looks at C is
+what's on my clipboard in case I just
+copied a tracking number from another
+app and it asks me if I want to paste it
+but if I just copied like a social
+security number or a password or
+something else random like that I don't
+want that in there so anytime any app
+might look into your clipboard it'll be
+empty because of this new Android little
+clipboard update and Google is also now
+working on an official built into
+Android universal copy and paste between
+phones and tablets so it'll just work
+across we already know a pixel tablet is
+coming it's still a few months away I
+guess it's sometime next year but
+looking forward to that they've done a
+bunch of stuff in the tablet World in
+this Android 13 update but that's one of
+them the clipboard will now work across
+both so then number four is Security in
+general lots of nice security and
+privacy improvements I think my favorite
+is that when you give photo access to
+apps now you can just choose a few
+photos to give it access to instead of
+your entire Library so that catches up
+to what iOS has been doing for a little
+bit and also Now notifications are all
+opt in so apps have to ask you for
+permission to send notifications instead
+of any being allowed by default there's
+also now an active app indicator at the
+bottom of the notification slider maybe
+that's uh less security and just more of
+being able to see what's running and
+closing out anything that you might not
+realize is killing your battery but yeah
+it's also just convenient so then number
+three is some nice audio enhancement
+stuff so Android 13 will now natively
+support spatial audio and Bluetooth LE
+for higher quality low energy and low
+lower latency audio all good stuff side
+note I am testing the pixel buds Pro
+right now as of today when I'm using
+them they do not support spatial audio
+but there also is a blog post that says
+that they're going to be adding it later
+this year so maybe a firmware update
+will eventually give me that but so far
+they are pretty impressive stay tuned
+for that review cuz that's coming up
+soon but then number two this is a
+really interesting one apparently it was
+one of the most requested features in
+Android for the last little bit and now
+they're adding it which is app specific
+language support so if if you're
+bilingual you speak more than one
+language but maybe you only use that
+second language in a certain app maybe
+you have a family group chat and
+what'sapp or you have a very specific
+use case where you just use one app in a
+different language Now Android will
+natively support that exact switch
+without you having to work around it so
+you go to settings system languages and
+input and then app languages app
+developers will have to opt in to do
+this so not every app shows up here
+right off the bat but I believe this
+should be a pretty quick like checkbox
+that they flip and then they'll be
+supported in multiple languages the
+whole system UI changes to be the new
+language just for that one app that's
+sweet I'm not even someone who will
+actually use that feature but I can
+understand how that would be very useful
+so that's pretty cool so then last but
+not least number one is Aesthetics so
+material U was the big overhaul for
+Android 12 that was the big visual
+change that they' made so now they're
+down to tweaking a lot of the things
+that they'd you know initially changed
+for Android 12 and I think a lot of
+these changes are good so in the the
+customization section the theme picker
+for your wallpapers is much more precise
+there's 16 different multicolor options
+and 16 different single color options
+now instead of the four of each we had
+before and there's a lot more
+granularity between them then there's
+the media player this one's nice the
+notification is bigger and it changes
+color based on the media that you're
+listening to so if it's music or a
+podcast it's got the album art going and
+then it also has a squiggly line when
+there's actually something playing I'm
+not going to say what that looks like
+but yeah if you tap the playback
+location there's a bigger volume slider
+and you can quickly switch to or add
+more sources like headphones or speakers
+or your car or whatever but that New
+Media Player is sweet and then there's
+even just some tiny tiny visual stuff
+like there's a slightly new lock screen
+clock there's a slightly new unlocking
+animation if you'll notice that uh the
+shortcut to get to settings has moved
+from the middle to the bottom of quick
+settings to be much more reachable I
+actually like it here and the gesture
+bar at the bottom is now slightly larger
+and thicker see told you it was minor
+there's a lot of little stuff but again
+it adds up to quality of life
+improvements there's also a ton of bug
+fixes and performance improvements and
+Android runtime improvements hopefully
+things are generally less buggy and more
+smooth uh there's a whole page of just
+dozens dozens of bug fixes that they've
+added I'll link it below if you want to
+read through those but ideally I mean so
+far should be running better on phones
+like the pixel 6 than Android 12 was I
+do also want to mention though I think
+there's one thing that got worse I think
+they lowkey made some of the haptic
+patterns worse I hope they think a
+little bit about those but generally
+that's pretty much it that's Android 13
+for you let me know if you're uh hoping
+to get that update on whatever phone
+you're using and let me know what your
+favorite feature is in the comment
+section below either way that's been it
+thanks for watching catch you guys later
+peace
+[Music]

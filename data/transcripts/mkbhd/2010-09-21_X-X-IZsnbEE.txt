@@ -1,0 +1,191 @@
+# Google Chrome 7 Beta
+# https://www.youtube.com/watch?v=X-X-IZsnbEE
+
+[Music]
+hey guys MKBHD here and welcome to
+another highdefinition video and today
+we're going to be taking a look at
+Google's latest creation uh if you
+couldn't already tell Google is yes one
+of my favorite companies and today we're
+going to be taking a look at this
+magnificent browser here what you're
+looking at is Google Chrome 7 you may
+have noticed it looks just a little tiny
+bit different from other versions of
+Google Chrome but what are we going to
+be taking a look at today uh that
+includes benchmarking for some speed
+test test some opening tests uh and some
+other things like that and just getting
+to know this browser a little bit better
+first of all something I want to address
+as we go ahead and view about Google
+Chrome is that all your extensions will
+still work so as soon as you visit the
+link in the description and of course
+check out the latest version of Chrome
+uh note that unlike Firefox and unlike
+Opera and unlike Internet Explorer all
+those hundreds of thousands of
+extensions you have available are going
+to work so that's just great so the
+first thing I wanted to show you uh was
+the new ability to use side tabs say I
+have a number of tabs open here say
+Tumblr I have open you might have
+noticed I actually do have a tumbler now
+might be a little bit late what I want
+to do over here is uh right click on the
+tabs and what we can do is hit that use
+side tabs button and you can see it
+immediately switches to this interesting
+little view that I kind of kind of like
+kind of don't like but you know it's
+it's new and it's something most other
+browsers haven't had the ability to I
+believe Opera does and this ability
+allows you to just add new tabs simply
+just like this and uh X the mount on the
+left hand side here it does save some
+vertical screen space if you have a
+widescreen monitor this can be very
+helpful as you don't have a whole lot of
+room from top to bottom so this is
+really cool and of course in order to
+switch back you right click and uncheck
+use side tabs and Bam you're right back
+into this view of uh the top tab view so
+that's the first thing about Google
+Chrome 7 next thing I'm going to show
+you is over here on this wrench this is
+something that has been constantly
+evolving through versions of chrome uh
+and I'll go ahead and show you right
+here say I type in test of course we
+have Google instant up here what we're
+going to do is go to well first of all
+I'll walk you through this whole thing
+here you have the new tab button which
+is contrl T the new window and new
+incognito window button there still is
+no ability to use a new incognito window
+but or a new incognito tab you can also
+have this copy button edit copy and
+paste right here so if hit copy you can
+just go ahead and copy what is
+highlighted there
+and go ahead and paste it just like that
+oh didn't exactly work that time but if
+I had a text Field open it would
+definitely have worked
+hopefully oh well obviously these things
+are still in beta but obviously
+obviously obviously obviously obviously
+when you get this working together uh it
+should work when the full version of
+Google Chrome is out obviously I got to
+stop saying that by the way you have the
+full screen button you have the zoom
+buttons and you have all your typical
+buttons here now when you go under Tools
+you also have have the extensions button
+which was usually in the main section of
+Google Chrome but you have your
+extensions button over here on the left
+hand side under Tools now and you also
+have the ability to create an
+application shortcut which I'm going to
+do now when you click that I'll go ahead
+and just put it on my desktop I don't
+want it on my start menu or anything and
+click create it just makes a little uh
+little window here uh and it's actually
+just a program literally an application
+you don't have a URL bar or anything
+fancy like that it's just a Google a
+google.com box and you can of course use
+instant search in there and it could be
+a Nifty little application also you have
+uh that on your desktop which I'll go
+ahead and delete so that's a an
+interesting little feature that's
+adopted from Google Chrome 6 that
+they've carried along into version 7 so
+now something I want to show you is the
+fish tank test this is a performance
+test uh it's pretty much the next best
+thing to the acid 3 test and this tests
+Hardware acceleration I have this link
+here in the description it'll be
+shortened with bit.ly but trust me uh
+when you visit it it will be this link
+I'm going to go ahead and paste it up
+here in the top and we'll see if we can
+get Chrome to respond here and we'll go
+ahead and visit the Microsoft uh this is
+usually used to test Internet Explorer
+and basically what you can go ahead and
+do is test uh fish tank this fish tank
+animation here so typically it'll be
+running at a slightly higher frame rate
+but right now we have this little fish
+swimming around the tank in Internet
+Explorer uh when they introduced the new
+version this was a big deal with
+Hardware acceleration ation and if we
+were using Chrome 6 you would be able to
+tell uh this is 1280 by 720 I'm not sure
+oh it's smaller here uh it would be a
+much slower animation and if we got up
+to just 10 fish in Chrome 6 you'd be
+down to about 12 frames per second here
+and if we got up to 20 fish with a
+screen recorder going it would be almost
+unplayable you couldn't see movements
+it'll be in a single digit frame per
+second it would be really slow and with
+Hardware acceleration well it's just
+playable at a much High higher frame
+rate uh of course it's not a game but
+you can definitely see this is much
+nicer so the last thing I'm going to
+show you guys is the acid 3 test and of
+course uh Google instant takes us there
+immediately and Google has been pretty
+much mastering the acid 3 test for a
+while now Google Chrome pretty much
+dominated it Google Chrome 5 Google
+Chrome 6 they both killed it and Google
+Chrome 7 is no exception you'll get up
+to 100 out of 100 in the acid 3 test and
+one more thing I want to demonstrate to
+you guys is that yeah it does open
+really quickly you can see over on the
+side here I'm going to go ahead and drag
+a copy to my desktop so you can see how
+fast I actually open Google Chrome and
+uh you can count down the milliseconds
+from the time I click access the
+internet to the time I'm on the internet
+so it is a very fast browser there's
+been nothing to bring me back from
+Firefox nothing to bring me to Opera
+nothing that this browser can't do that
+any other browser can do so if you've
+been on Internet Explorer if you've been
+on Firefox or opera or something
+something just out there maybe chameleon
+or some other web browser I highly
+suggest you give version 7 beta of
+Google Chrome a try as it is pretty much
+the best software I have ever used and
+it's something I use more often than
+anything else on my computer so this has
+been MKBHD with a sweet little video
+about Google Chrome 7 I'm getting back
+into the screencast if you guys couldn't
+tell this one is a more casual video but
+I hope to talk to you guys in the next
+episode of MK K BHD and until then thank
+you for watching peace

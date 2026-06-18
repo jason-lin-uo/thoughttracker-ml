@@ -1,0 +1,648 @@
+# Apple Vision Pro Review: Tomorrow's Ideas... Today's Tech!
+# https://www.youtube.com/watch?v=86Gy035z_KA
+
+[Music]
+I actually love this thing I love this
+thing not because it's Flawless or
+anything it is far from Flawless but
+because it's actually interesting like
+don't forget the last two three years of
+Apple product review comments are just
+um that's boring oh it's just a spec
+bump there's nothing really new here oh
+they hardly change anything or try
+anything new these days but this this
+thing is interesting it's risky and most
+of all it's new now it's actually not
+fundamentally new it's a VR headset but
+it's new for apple and there are a bunch
+of things in here that are new in a way
+that only Apple would try and just as
+interesting as this individual product
+is the possible future that this implies
+like when you get a first generation
+product like this you sort of
+automatically assume that there are
+goals for its future that it'll have
+another generation and another one after
+that and that there is some goal for
+what this will turn into 10 years down
+the road because we saw what happened
+with the iPhone and the mac and the iPad
+and all sorts of other first generation
+products and on top of all of that as
+far as I know Apple has never released
+any other first generation product with
+the word Pro already in the name which
+comes with a whole another set of
+implications so is the world ready for
+all of
+this let's get into
+it
+[Music]
+[Applause]
+so I might be one of the 20 people
+outside of Apple who has been using the
+Vision Pro the most over the past two
+weeks like I've spent hours in this
+thing with both bands with multiple Macs
+in different setups different rooms
+indoors and Outdoors lightness and
+darkness there are parts of this thing
+that are absolutely amazing unparalleled
+best I've ever seen but the reason it's
+so interesting is because it's actually
+new and there are downfalls and flaws
+and tradeoffs that come alongside all of
+this stuff so at the end of the last
+video I gave you guys a sort of a
+preview of my pros and cons list if you
+haven't already watched that video it is
+definitely worth watching almost like a
+prequel to this one it is a 30 minute
+monster all about how to use this thing
+how it works what's inside what it's
+capable of and then at the end I got to
+my upsides which are immersiveness
+placement and space eye tracking and
+hand control pass through ecosystem and
+spatial audio and the downsides which
+are weight and comfort the eyes on the
+outside app selection right now battery
+life and price so okay for starters I
+want to amend immersiveness to Fidelity
+I think that's more accurate here I have
+used a bunch of different VR headsets
+now and this Vision Pro has has the
+sharpest best looking micro OLED display
+out of all of them the size of
+individual pixels on these displays is 7
+1 12 microns which means you could fit
+64 of them in the size of a single
+iPhone screens pixel you can't see
+individual pixels there's no screen door
+effect it's awesome the native refresh
+rate is 90 HZ and it will crank up to 96
+HZ when there's 24 FPS content playing
+to be an even multiple and apple says
+that they calibrate every single one of
+these Vision Pro displays
+from the factory for maximum color
+accuracy they're really good and this is
+a big reason why this headset is so
+expensive but then and this is going to
+be a recurring theme Here The Vision Pro
+runs up against the technology of today
+not being quite Advanced enough to
+accomplish what they were probably
+hoping as ideal so in the case of these
+screens right they're amazing there are
+so many pixels but because there's so
+many pixels the computer inside cannot
+actually render everything in high
+resolution all the time at 90 HZ so
+instead it does something clever it
+combines the insanely fast eye tracking
+with what's called fiated rendering
+meaning it's only actually rendering in
+high resolution exactly what you're
+looking at when you're looking at it the
+rest is soft and fuzzy that actually
+works really well because that's exactly
+how our eyes work it's really clever
+like you don't think about it but the
+thing that you're looking at at the
+moment is sharp but then the rest of
+your peripheral vision is is soft and
+fuzzy and that's fine so really now all
+the Computing work is being done to
+track your eyes as fast as possible so
+that there's no lag between when you
+look at something and when it becomes
+sharp fun fact you can actually see this
+in screen recordings from The Vision Pro
+you can see the piece of the screen that
+I'm looking at is sharp and then
+everything else around it even parts of
+the same window are fuzzy on purpose but
+to my eye that looks totally natural
+because I'm focusing on one thing at a
+time I found that you can also screen
+record with developer mode in xcode and
+that will make the clips 4K and it'll
+render everything in HQ all at once but
+every time I did that it would be choppy
+and scrolling would be slow and jittery
+and I'm thinking that's just because the
+computers aren't really used to
+rendering everything in high quality all
+the time so it looks like a higher
+quality recording but the second I did
+any scrolling it didn't look as good so
+I just didn't use those recordings as
+often so the screens are great the
+position tracking of objects in space
+are great the eye tracking is incredibly
+good the one ding against immersion on
+the Vision Pro though and not a lot of
+people are talking about this but it's
+the field of view see the first few
+times you use this headset you don't
+even really think about it that much
+you're so distracted by all the fun and
+the newness and how cool it is that your
+eyes are controlling the thing but
+eventually you start to poke around the
+edges and it turns out you know how
+people are saying this kind of looks
+like ski goggles from the outside well
+it also kind of looks like ski goggles
+from the inside a little bit too again
+the middle is super sharp and Incredibly
+impressive iive but if I can do my best
+here through a YouTube video the edges
+of the headset are a little bit further
+in than the edges of your vision and so
+there's a little bit of like a cone
+effect going on and there's some
+chromatic aberration around the outside
+so you kind of have this slight feeling
+of looking into a large tunnel at
+everything there are actually no field
+of view numbers published by Apple
+anywhere about Vision Pro as far as I
+can tell and I kind of think that's on
+purpose because I have noticed from
+using them both that the quest 3 has a
+better wider field of view just looking
+inside the headset so if I could change
+one thing about the Vision Pro to make
+it more immersive it would be a wider
+field of view no
+question Vision Pro has the best pass
+through of any headset I've ever used
+that much is super clear to me and
+weirdly enough this doesn't actually
+surprise me either maybe because this is
+one of the products that makes it so
+obvious that they're thinking a lot
+about the future like apple talks a lot
+about AR and how they want things to
+just be clear and just overlaying things
+onto your real world but with today's
+technology again that's not quite
+possible yet so instead they have a VR
+headset but they are using the highest
+quality camera feeds possible and the
+highest quality displays on the inside
+possible to let you almost feel like
+you're looking through it at the real
+world so you put this headset on and the
+first thing you see is pass through I
+mean you might as well call it
+transparency mode and the sharpness and
+the colors and the very low lat are all
+so good that I really don't experience
+any eye fatigue no matter how long I am
+in this pass through mode despite my
+eyes being inches from these screens I
+can interact with the real world around
+me pick things up and look at them I can
+walk around between rooms and not trip
+on things I tried having people throw
+things at me and I could just catch them
+I played table tennis successfully with
+the headset on which is crazy if you
+think about what's actually happening
+here the total latency Apple says is 12
+milliseconds that's from the outside
+light hitting the outside sensors to the
+inside image being updated and hitting
+your eyeballs that's incredibly fast
+that's and that includes the exposure
+time of the cameras that's the specially
+designed R1 chip at work but as Nei from
+The Verge has put it it's still cameras
+and screens like the technology of today
+isn't Magic so you still have to expose
+a camera sensor and set ISO and shutter
+speed Etc and you can kind of play
+around with this a bit just by looking
+around like at bright objects or high
+dynamic range environments and you know
+what for the variety of situations I've
+thrown at this thing it's handled it
+very impressively the whole time mostly
+prioritizing smoothness and high shutter
+speeds at the expense of cranking up the
+iso and getting way more noise
+especially in Darker environments but
+you can still see stuff like the hand
+occlusion break sometimes or look really
+janky when you put your hand in front of
+something you can still see objects
+start to float a little bit more an X Y
+and Z space swinger in much lower
+lighting as opposed to the usual perfect
+position again it's the best I've ever
+seen with today's Tech but it definitely
+still has a long way to
+go so honestly the ecosystem is I would
+say the strongest argument for a regular
+person going out and buying today's
+version of The Vision Pro like I I every
+time a new big product comes out or
+whatever I get like texts from people oh
+hey Marquez you know I know you already
+made like a 30 minute video about it and
+like unboxed it and did all that but
+like what do you what do you really
+think about the Vision Pro like is it is
+it good enough should I get
+one and truthfully probably not but I
+will say that there are a good amount of
+things that I do specifically look
+forward to using for it and uh most of
+those things are ecosystem related so
+obviously there's the built-in apps
+right iMessage works perfectly just like
+any iPhone or iPad on your account
+photos are all loaded up in here
+straight from your iPhone this is
+clearly the headset that is best for
+iPhone users Apple ecosystem people but
+also little things too like continuity
+so I can copy some text on my Mac or my
+iPhone and then hit paste and it shows
+up in the Vision Pro but there's two
+really impressive ones to me uh for very
+different specific reasons FaceTime and
+Mac virtual display see FaceTime is the
+most
+only Apple could ship this thing I've
+seen in a long time from the personas
+scanned in from the cameras on the front
+of the headset to the positional
+tracking and responsiveness of the
+spatial audio it's all so well thought
+out that you know once everyone on the
+call gets past the initial like ah what
+is this the shock the moment they first
+see the virtual version of you once they
+first get past that then it actually
+kind of slowly gets easier and it feels
+way more like a normal conversation than
+a normal FaceTime and it trades the
+downside of not being able to hold up
+objects to your camera for a button that
+can switch to a realtime firstperson
+view where you can use both hands
+instead of one does the audio from these
+speakers still bleed out into the rest
+of the world so anything over half
+volume is incredibly audible to everyone
+in the room around you yeah but does it
+also still sound really really
+impressive for not actually being real
+headphones yeah but the other thing is
+Mac virtual display this is my number
+one favorite feature of the Vision Pro
+even over like watching movies and stuff
+now first of all yes you can already do
+remote desktop viewing on something like
+a quest 3 it's great I love that too but
+this this one is way more interesting so
+this is connecting to your Mac and then
+intaking and rendering a new virtual
+display for your Mac not mirroring
+what's already being shown by your
+computer so you can use your Mac with
+all its existing controls you're already
+using with it but make your new monitor
+literally as big as you want and then
+you can open up simultaneous Vision Pro
+apps all around that Mac display and
+place them all around the room wherever
+you want over the walls floating in
+midair pin them to other objects
+whatever you can go nuts now is this
+perfect no there are definitely
+trade-offs from even the little things
+like not being able to see your keyboard
+when you're in an immersive environment
+to only being able to have a single
+virtual Mac monitor at a time to always
+having to look where you're controlling
+I keep telling you guys there's
+definitely extra brain Cycles involved
+here but I do still think that despite
+all that this is this is my number one
+favorite feature of this Vision Pro the
+number one thing that you can buy it for
+and do that you couldn't do with any
+other Apple product I mean it's the
+difference between looking like this in
+a coffee shop or looking like this in a
+coffee shop pick your poison I guess I
+also had a moment where I was using the
+VIS Pro for a while and I had my Mac and
+some other monitors around me and then I
+took it off and then I went and did
+something and then I came back and
+before I put the headset back on I
+looked up at the wall to where I thought
+a window was going to be but I
+hadn't I
+hadn't I don't know if that says more
+about the headset or about
+me but speaking of apps we got to get
+into the weaknesses and the app
+situation on Vision Pro right now is one
+of them so this is the home screen of
+the Vision Pro it has all of your apps
+you can't rearrange them it's always
+alphabetical and this is a developing
+situation that will record and improve
+over time but as of right now as I
+record this on launch day there are
+literally 600 apps made for the Vision
+Pro and that sounds like a lot at first
+but then kind of not a lot there are
+also the millions of other apps that are
+made for the iPad that are compatible
+with the Vision Pro that will show up
+but there's 600 apps made specifically
+for the Vision Pro the few apps that are
+showing up here are pretty incredible
+and they all kind of find unique and
+creative ways to take advantage of the
+3D space and I fully believe the rest of
+the developers are also kind of still
+trying to figure out what to do with the
+3D space in their own apps or even if it
+makes sense to do anything at all beyond
+the normal iPad app but at this point
+right now today I honestly believe that
+there are way more cool ideas about VR
+and AR experiences than there are actual
+apps now don't get me wrong there are
+some cool apps and like I said I've
+shown some in the past video there are
+some more in this video and there will
+be more of that pop up every day but
+have you seen that video of gamifying
+vacuum cleaning so that you can actually
+cover your entire floor space like a
+game it's not a real app but if it was
+it would be pretty sick and I would
+totally use it or maybe you've seen that
+other video of watching an F1 race in
+Vision Pro it is so sick it's like
+there's a virtual track over overlaid
+into your space so you can keep track of
+everything happening at once plus the
+times and you know smaller video feeds
+of the battles around different points
+of the track this looks genuinely better
+than the actual TV broadcast experience
+but it's also not a real app yet it's
+just a concept and I've seen all kinds
+of other stuff and I I want to watch an
+NBA game courts side in the Vision Pro
+too but that experience doesn't seem to
+exist yet either whatever it is about
+like apple jumping into this new space
+and all the implications of like oh okay
+the tech is going to start to get better
+now this sort of unlocked this new
+creative layer for people to dream of
+new AR and VR experiences and it'll be
+up to developers to actually make that
+stuff happen over time with the
+constraints of today's technology but as
+of right now not a lot of apps also no
+YouTube app no Netflix app there's no
+Spotify app there's no Tik Tock app yet
+I hope that Apple can sort of patch up
+the relationship with these developers
+because getting those apps will make
+this a better product but as of right
+now that is definitely a weakness of
+this first gen
+product all right I'm not the only one
+who's been saying this but this is not
+the most comfortable headset and I
+figured out why so first of all
+everyone's mentioned the weight and it's
+true it does weigh like 25% more than a
+lot of other headsets like take the
+quest 3 for example probably the most
+popular one familiar to most people
+that's mostly plastic and it weighs 515
+G so Vision Pro being made of metal and
+having all this glass weighing in at
+nearly 650 g it kind of seems like apple
+just didn't care about the weight but I
+don't think that's the case matter of
+fact if you've seen the tear Downs or if
+you've seen what's inside this little
+computer here on your face this is built
+incredibly efficiently there's carbon
+fiber in here magnesium all sorts of
+other lightweight materials now there's
+still lots of obvious heft on it but 25%
+more weight shouldn't be the difference
+between comfortable and like I need to
+do neck exercises no the problem is this
+strap this is the solo knit strap this
+is the strap that's in all the
+commercials that everybody sees this is
+what's on Apple's website it's in all
+the Apple Stores because it looks so
+cool and I think when Apple was probably
+first deciding okay we're going to get
+into this VR headset Market how do we
+differentiate ourselves we got to
+reinvent a few things like the input
+method and all this stuff I think they
+thought the strap had to be one of them
+and that's how we got this thing and I
+think Dave 2D was spoton in his recent
+video VR headsets just kind of all look
+dumb and the straps on them are all so
+universally lame looking and this this
+strap is just so much cooler you put it
+on it's the quickest to adjust it messes
+up your hair the least it obviously has
+this little adjustment thing on the
+outside so you can scroll this wheel and
+satisfyingly like tighten the cables
+inside like this this must have taken a
+lot of R&amp;D to get this thing to look
+iconic and actually be functional this
+is sick but when you put it on you sort
+of tighten it up against the front of
+your face and it's putting it's
+squeezing it up against your face all of
+the weight up at the front against
+basically these two pressure points
+right above your eyes and right on your
+cheeks and the more you tighten it to
+prevent light leak the more
+uncomfortable it gets and it's just it's
+so hard to wear this for more than about
+30 45 minutes after 45 minutes I really
+do need to take this off so it's not
+your neck as much as it's just all the
+pressure on the front of your face and
+apple knows this and that's why they've
+included in the Box this second band
+this is the Dual Loop band and it's
+super easy to pop this one off and pop
+this one on now it's not as cool looking
+as a solo knit band and it's going to
+mess up your hair more than the solo
+knit band and it's not as easy to adjust
+as a solo knit band you're literally
+like trying to find an attach velcro
+blindly at the top of your head
+basically it's almost as lame looking as
+every other VR headset strap but it
+turns out they all look like this for a
+reason and oh my God is it's so much
+better for wearing it for a long time I
+just recently did the last episode of
+the waveform podcast you can go
+subscribe over there I wore the headset
+for the entire thing a 2hour recording
+and I could never have done that with
+the solo knit band and that's because
+it's taking a ton of the pressure off of
+the front of your face and taking the
+weight and using the top of your head to
+support it instead it's so much better
+so if you're going to just hand the
+headset to someone to use it for like 5
+minutes this solo knit band is great
+because it's super quick doesn't mess up
+their hair easy to adjust boom but if
+you plan on using this thing for an
+extensive period of time yeah the the
+Dual Loop band is 100% the way to go
+so I don't know if the eyes on the
+outside of this headset are actually
+accomplishing what Apple probably wanted
+them to accomplish I think this again
+comes down to what we expect Vision Pro
+to be in the future see-through glasses
+way down the line but that's obviously
+not possible with today's Tech so the
+closest we can get is a lenticular
+display that shows your eyes to the
+outside world and so that you can see
+them and they can kind of see you I
+don't know at this point I've tried my
+eyes but also everyone else here at the
+studio has also scanned themselves in
+and tried it eyesight and it's just not
+very visible like the smooth glass of
+the headset is so incredibly reflective
+that there's almost always some light
+bouncing off it in a way that makes the
+eyes hard to see and even if you can see
+it it's pretty low resolution thanks to
+the lenticular display and the bottom
+line is it doesn't actually feel like
+eye contact most of the time which is
+very different from what you might have
+seen in the ads especially for darker
+skin tones and I was actually thinking
+about this like this is so far from what
+I think I expected that I was wondering
+does Apple in the Next Generation Vision
+Pro double down on eyesight or do they
+get rid of it and I think they have to
+keep it like it's such an iconic part of
+the headset that everyone's expecting it
+to stay so it's got to be there but also
+this is Vision Pro and it I think that
+implies that we're going to get apple
+Vision at some point down the road which
+is like a less expensive version of this
+and with that do you take out eyesight
+or does that still appear in the
+lower-end
+version I don't know only time will
+tell so all right look at the end of the
+day when I'm answering those texts about
+what do people want to know what I
+really think about Vision Pro I think
+the Vision Pro is a really expensive
+really fun toy like this is an
+incredibly fun piece of tech to play
+with and I am loving watching the pieces
+of media built specifically for Vision
+Pro I am loving playing some of the new
+early games that are taking advantage of
+the 3D space and the hand controls I am
+loving the idea of getting on a plane
+and editing videos on my Mac or watching
+a movie on a gigantic screen while the
+person next to me can't see any of what
+I'm doing that stuff is all so sick and
+if you're actually thinking about buying
+one I think you should be able to expect
+to enjoy all of that same stuff too but
+definitely still note that all of the
+symptoms of a first generation product
+are definitely also still here it's
+heavy it's not a lot of apps the battery
+life is meh and it's expensive so here's
+the bigger question is the Vision Pro a
+guaranteed success in the future because
+the first generation iPhone had all of
+the same downfalls in its generation and
+look at where we are now so also same
+with the watch same with the iPad but
+here's the thing you can't just say the
+other stuff had problems and it became
+successful therefore this one having
+problems also means it's successful it
+doesn't work that way there has to be
+something about this that people
+actually like that makes them willing to
+overlook the first generation downfalls
+and I think this has it I I think it has
+I honestly it's kind of just the Sci-Fi
+fun nature of like controlling things
+with your hands moving Windows around
+the room the sci-fi movie energy you've
+seen you're probably already thinking of
+a certain movie that has that sort of
+energy this has that and the fact that
+these ideas of what people want to do in
+VR are so universally well-liked and so
+cool that means that there's something
+here there's something that people want
+even in this first generation now will
+all this new attention on VR headsets in
+general shine a lot of light on all of
+the other much cheaper competitors that
+you should probably buy instead of this
+one like the $500 Quest
+3 yeah now will all this new developer
+attention in this VR AR space bring a
+lot of way cooler way more awesome
+applications that will rapidly improve
+the value proposition of this $3,500
+first gen
+headset
+yeah should you go out and buy one of
+these if you've got the money and you
+saw one or two really cool looking apps
+that you want to try from the
+videos sure why not it's your money but
+I'm already very excited for the Next
+Generation thanks for
+watching catch you guys in the next one
+peace

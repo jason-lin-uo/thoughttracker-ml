@@ -1,0 +1,173 @@
+# Youtube Mega-Widescreen Camtasia Studio 6 Settings
+# https://www.youtube.com/watch?v=8imsZ-ADhMM
+
+okay guys to put it simply
+i had to do this video i've gotten so
+many requests you see by the title it's
+a requested video but i can't put
+everyone who's requested its name in the
+in the description box because there's
+just too many have too many people and
+too many channels i've recorded who have
+requested this video i can't even talk
+so if you have requested this video this
+is for you and hopefully you'll be able
+to get the best recording quality out of
+camtasia studio six if you don't have it
+already i highly suggest you get it it
+is one of the best screen recorders you
+can get so um basically thanks for
+watching and i hope you enjoy and i hope
+you learn a lot so um enjoy this
+tutorial hello everybody and welcome to
+another hd tutorial and this one i'll be
+showing you exactly how i get the
+highest quality out of the recordings
+that i do with camtasia studio six um
+you may have noticed my past couple of
+videos about my past dozen videos have
+actually been recorded using camtasia
+studio 6 and i've gotten a lot of
+requests lately about um how i get such
+high quality and such good resolution
+when i actually record my videos so when
+we're going to
+produce a video in camtasia studio six
+first of all we have to make our videos
+so i'm not even going to do any editing
+i'm just going to drag in
+my intro
+okay
+and my outro now this first initial step
+that i'm doing right now won't actually
+happen with you where you search and you
+choose youtube 720p so we're going to
+create this so we're going under the
+produce tab and go to batch production
+and we're going to go to
+net actually we're going to go to add
+files and projects
+and just choose any video that you
+actually want to produce in hd i'll just
+choose the like video right here enter
+and go to next
+now we go to preset manager
+this is where we are going to create a
+new preset and this is going to be the
+preset we use for every single video
+that we produce in 720p
+so i've actually got it already i named
+it 720p so i'm just going to go going to
+edit for you so i can show you all the
+settings that i use and that you can
+copy them down and hopefully they'll
+work best for you so first of all the
+fire file format that we want to save it
+in is dot mov and if i haven't told you
+already you're going to need quicktime
+and i'll put the quicktime link in the
+description
+but basically you're going to go to
+apple.com and make sure you have
+quicktime so you can play these movies
+and use them so next we're going to just
+hit next and it'll bring us to the next
+step of publishing a video now this
+step here quicktime options is the most
+important part there's video settings
+and sound settings first go to settings
+for video and you'll see my compression
+type is h.264
+if it isn't all automatically just go
+from the drop down menu and take tick
+h.264
+also this should be current
+actually no this should be automatic
+so i'm just going to click automatic and
+this should be 30 frames per second okay
+if it isn't already go ahead and take it
+at 30 frames per second and
+that is basically it also you're going
+to want to make this 30 frames per
+second just to make sure the keyframes
+match up here
+and tick frame recording down here for
+the compressor go to best quality okay
+and i go for best quality multi-pass
+encoding
+so
+that's where that's basically what we're
+going to do for that so hit okay
+then we're going to go into sound
+settings
+and we hit settings again and just make
+sure it is 4800 kilohertz if it isn't
+already make it mpeg 4 audio and 4800
+kilohertz as well as 16 bit and stereo
+um stereo works very well especially if
+you have two mics like i do then you'll
+get the best quality sound out of your
+recording so hit ok for that
+and then we're going to hit ok and our
+settings are saved go to next
+and this is where um we basically we
+need to make sure this is 1280 by 720
+for the highest quality uploading to
+youtube now if you are recording a say a
+1900 by 1200 screen like i am you can
+set it to that but it will not translate
+completely to youtube the highest that
+you can actually watch on youtube is
+1280 by 720 if your screen is larger or
+smaller
+then the background color will be this
+so if you zoom out on your video like so
+then you will have uh this particular
+background color in the background of
+your video for something 16x9
+so i'm going to i'm not going to disable
+call out effects or zoom pan speed
+reduce because i'm i don't really mind
+the size of the video it never gets too
+big for me to upload then i hit next and
+that is basically all you have to do for
+the hd quality now if you do want to
+include a watermark like you may see at
+the top right hand corner of this page
+just hit options
+and i already showed you guys how to
+make a watermark now you can just choose
+how big or small horizontal anything you
+want about your watermark and just get
+your watermark from clicking this little
+open icon here so that's where you get
+it and then you just hit finish when
+you're done i'm going to hit cancel
+because i don't want to destroy anything
+and now whenever you want to encode a
+video in hd you go to produce
+produce video as and you select the 720p
+the youtube hd format that you've just
+created just click on it hit next name
+it and i always like to uncheck um the
+subfolders one so it just gives me the
+one dot mov file hit next and it begins
+to produce so i'm going to hit cancel
+because i don't want to just produce
+that random video but that is basically
+it so whenever you do upload my video to
+youtube just go check out my uh
+my uploading videos in hd tutorial if
+you like and that will give you a better
+idea of how actually to upload the video
+and make sure you're uploading the hd
+video and not the original um recording
+file and that's basically it so i hope
+you i helped you guys and um
+thanks for watching this tutorial if you
+have any other tutorial ideas for me or
+requests like this one then go ahead and
+subscribe to my page and send me a
+message and i will get back to it as
+soon as i can thanks for watching guys
+peace

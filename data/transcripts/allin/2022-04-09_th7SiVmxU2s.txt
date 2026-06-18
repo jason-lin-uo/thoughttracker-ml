@@ -1,0 +1,2468 @@
+# E75: Fast shuts down, board culpability, Elon buys 9% of Twitter, deplatforming's evolution & more
+# https://www.youtube.com/watch?v=th7SiVmxU2s
+
+Hey everybody, welcome to another
+episode of the All In podcast, your
+favorite podcast.
+And a lot of a lot of topics on the uh
+docket including
+Well, we'll get to that in a minute. Uh
+tons of stuff to talk about, not just
+politics, but a lot of tech news.
+You do sound really hungover today, J
+Cal. You sound like an old man that's
+been smoking cigarettes for 3 weeks.
+You sound wrecked. How big was your
+night last night? Admit it. I didn't go
+that big. On a scale of 1 to Charlie
+Sheen, it was like a six. It was like a
+Martin Sheen in his 30s. What does that
+mean, 1 to Charlie
+a couple of beverages.
+I'm sorry, on a scale of 1 to Charlie
+Sheen, I don't think I've ever been past
+the one in my life. So, what is a six?
+A six is like, you know, Paris Hilton,
+you know, in her heyday, or like Lindsay
+Lohan in Hollywood in the '90s. It's
+like, you know, like a good time, but
+not crazy. Mhm. Didn't they have to go
+to rehab?
+Yeah, they had to go to rehab. I'm super
+high five to me.
+Let me tell you something, Charlie Sheen
+cannot
+oh, it was just like Lindsay Lohan.
+Wait, Lindsay Lohan, the one who went to
+rehab like five times? Like, what are
+you talking about? That's a six?
+THAT'S WHERE WE ARE.
+I DON'T WANT TO KNOW WHAT SEVEN IS.
+Let your winners ride.
+Rain Man David Sacks.
+And I said, we open-sourced it to the
+fans, and they've just gone crazy with
+it. Love you, Wes Nimes. Queen of
+Quinoa.
+Joining us, of course, the Queen of
+Quinoa is here. The Thriller from Milla
+Valley. He puts the I in anxiety. Got
+his degree from his Google pedigree, the
+Sultan of Science, David Friedberg, with
+us again. All right, next up, of course,
+the Tsar of ARR. He perfected the
+flywheel with his boy, Peter Thiel. LPs,
+don't be nervous, cuz he's
+only investing in software as a service,
+the world's biggest [&nbsp;__&nbsp;]
+The Rain Man himself, David Sacks. He's
+an [&nbsp;__&nbsp;]
+Wait, you called me an [&nbsp;__&nbsp;] An
+[&nbsp;__&nbsp;]
+That might stick. I don't know. I hope
+like this might be heading towards kind
+of like a high school talent show kind
+of episode, but yeah, go ahead. And
+finally, the king of SPACs himself, the
+guru of growth, he puts the dick in
+dictator, he's going to upset her with
+his sweater,
+Chamath Palihapitiya.
+All right, boys.
+I I can't I'm just telling the audience
+now, I can't keep this up every week.
+Yes, yes, it's become a very anticipated
+new feature of the show. It is. It's a
+new feature. Wait, you know, I forgot we
+had like wet our wet your beak and you
+know, all this stuff and
+all these like
+how it flows. We come up with new
+things.
+We come up with new things. Yeah. All
+right, listen.
+Just a quick programming update. All-In
+Summit sold out, basically. And it's
+going to be a great show. We got about a
+dozen speakers lined up. All kinds of
+great folks. And three great parties I
+want to highlight. Monday uh Sunday
+night will be the poker tournament.
+That's going to be our Goodfellas
+Godfather kind of theme, dressed to
+impress the family.
+Night number two, Monday night is going
+to be our Havana white party, wear your
+best linens and whites. And then closing
+night party on Tuesday night is going to
+be our Miami Vice big '80s party, neon
+and
+t-shirts under suits. It's going to be a
+hell of a party.
+two million 999,700
+people don't give a [&nbsp;__&nbsp;] about what
+you're talking about right now.
+There's like maybe 300 people that are
+going to go to this party that you're
+throwing and they're the only ones that
+care.
+700 tickets. I think there's going to be
+700 tickets issued and there'll be a
+probably 400 people at the party. So,
+they're going to be pretty good parties.
+Uh-huh.
+We're in the party business here at the
+All-In Pod. Well, I mean,
+the world needs some good parties in my
+opinion. It's going to be three
+back-to-back great parties. And the
+theme of the conference is the problem I
+most want to solve in the world or the
+problem I most want to see solved in the
+world. So, we're asking every speaker to
+think about that. And we're going to
+kind of talk about the world's biggest
+problems and then who actually wants to
+solve them. The world needs more
+parties.
+Well, that's that's what I'm doing.
+That's my That's going to be my
+10-minute talk, my TED Talk.
+I've been I've been watching the WeWork
+show. Have you guys been watching it?
+Oh, fabulous.
+Apple TV Plus, yeah. Like elevating the
+world's Jared Leto is so freaking good
+in that as that character, by the way.
+Yeah, it's incredible.
+He got to get an Emmy.
+like elevating the world's consciousness
+as the mission and then just throw
+parties is the way to do it. I feel like
+you're you really have that vibe. Like,
+yeah.
+I It's aspirational for me.
+the world's consciousness with your with
+your summits. I I told Bill
+While pocketing millions of dollars.
+It's I It's not going to make a profit.
+Whatever profit it makes is going to go
+to Chamath's star chamber 50-person
+conference he's doing with the All-in
+brand. So, every everybody gets to
+leverage the All-in brand.
+Yeah. You First you did it, Sachs, with
+your call-in. Now I'm doing it with the
+summit. Chamath's going to do it with
+his think tank and
+I'm not going to do it. Coming soon from
+Friedberg, the All-in Munich special.
+Lose weight like your besties.
+He's going to the It's It's It's the
+All-in brand that allows you to lose
+weight in the following way. He brings
+his best vegan chef to you. Oh, yes.
+Tempeh
+[&nbsp;__&nbsp;] tempeh garbage.
+Tempeh and and vegan shakes, your
+favorite, Chamath. It's double [&nbsp;__&nbsp;]
+yuck, right? You vomit after you eat it.
+You're You're in a caloric deficit for
+the month that that person refuses to
+leave your house, boom. You lose weight.
+Everything's solved. You lose weight.
+They're like, "Hey, want some quinoa?"
+You're like, "No." And then you lose
+weight. No. That's pretty good. Avocado
+shake.
+me Give me my olive-infused beef,
+please. The olive-infused beef. No, I'm
+sorry, not olive-infused. Olive fed.
+This beef only ate olives, guys.
+Right. And then we murdered them and ate
+them.
+You know what You know you guys You're
+going to have a great life. Yeah. You
+guys need You guys need to elevate your
+consciousness, okay?
+And have a party. Let's go.
+We need to get some morels and some
+chickens and make some
+Yesterday we had morels. Chamath made
+morels white white asparagus with morels
+for you.
+So good. So good. The morel season has
+started. Everybody enjoy it.
+Lots of different news this week.
+You guys appeal You guys appeal to the
+common man. The morel season has
+started.
+Morels aren't that expensive. Tempeh is
+more expensive than both quinoa and
+morels.
+100%. That vegan [&nbsp;__&nbsp;] is way more
+expensive than normal people food.
+listen. We have to elevate the world's
+consumption of steak and meats.
+Um
+I think a good place to start is we've
+been talking about
+way, by the way, have you guys ever
+looked and on the back of
+any carton of oat milk, how much
+chemical nonsense is in that stuff?
+Yeah, no.
+really be Can that really be good for
+you?
+No. You know what I want? I want
+Give me
+Where's the oat milk that's just oats
+and water?
+Doesn't exist. It doesn't exist. It's
+like soy lecithin, xanthan gum. Like is
+that stuff can't be good for you? You
+know, Sachs drinks in a 12 oz glass of
+milk with every dinner. They just
+drink it.
+way, the almond The almond milk at like
+the Whole Foods is riddled with sugar
+and all this other nonsensical chemicals
+as well. Man, I mean
+I mean people trash milk, I get it, but
+like uh and as if you're lactose
+intolerant, I understand you're in a
+pinch, but
+like why go to an alternative milk that
+is just riddled with just all of this
+terrible, terrible stuff?
+You know, Sachs used to love to eat brie
+cheese so much that whenever we'd have a
+party, somebody would bring
+brie blocks with the sugar with the with
+the wheel of brie? He would literally
+eat an entire brie wheel on his own.
+sugar. No, they would put the brown
+sugar on top, they would melt it and
+Sachs Freeburg, Sachs has eaten an
+entire brick of brie in front of us. Oh
+my god. What was the origin of your brie
+obsession, Sachs?
+Stanford. Happened at Stanford.
+You just at some point became a
+francophile.
+The last guy I would think that would
+eat brie. What's the matter? You just
+don't have I mean what about cheddar?
+What a great American cheese. No, you
+just prefer the French, huh? Yeah, you
+know. You still got that fetish for
+brie? We start the a I got to go. Yeah,
+we got [&nbsp;__&nbsp;] to do. We got work to do. I
+got 45 minutes.
+Zack, Zack, is that fermented kombucha?
+Stop. Stop.
+This is just plain iced tea.
+Sometimes it's just good to be normal.
+Normal.
+Unsweetened. Oh, oh, you're back on
+trying to catch up?
+Trying to catch up? Okay, here we go.
+Listen, we've been talking a little bit
+about the contraction in tech, the
+growth stocks having their
+multiples
+um lowered, and we knew this was coming,
+but
+um it's been a horrible week uh for
+large companies uh starting the layoffs.
+We knew this was coming. We predicted it
+probably 6 months ago. fast.com is a
+one-click checkout startup uh fast.co.
+They announced they're shutting down on
+Tuesday. This after the company grew to
+450 employees
+and generated reported $600,000 in
+revenue. Uh I think that their employees
+could have made more money if they did
+one Gordashian day delivery.
+At its peak, Fast was burning $10
+million a month according to reports. I
+think The Information got most of this
+information. While only generating about
+50K a month in revenue.
+Their $102 million series B was led by
+Stripe in January of 2021. Company
+raised $124 million in total. Also,
+better.com, which we talked about, you
+remember?
+They had their uh horrific, cringeworthy
+founder
+lay off a bunch of employees over Zoom.
+Um and they laid off 900 people December
+1st, 3,000 people on March 8th according
+to TechCrunch.
+For the 5,000 remaining employees, on
+April 5th, better.com offered corporate
+and product design and engineering
+employees the opportunity to voluntarily
+resign in exchange for 60 days paid
+severance and health insurance coverage.
+Better CEO is Vishal Garg. Uh hopefully
+I'm pronouncing that correct. Noted the
+uncertain mortgage market conditions of
+the last couple of weeks have created an
+exceedingly challenging operating
+environment for many companies in our
+industry.
+And then going to Gopuff,
+which, you know, I had the founder on uh
+This Week in Startups, and he's a pretty
+good um
+you know, like pretty realistic about
+the margins in that business. They're
+making a modest cut of 3%
+of their 15,000 staff. Seems like a
+reasonable thing to do uh given how the
+market has changed. But again, their
+valuation was absurd, 1.5 billion at 40
+at a $40 billion valuation in December.
+Chamath predicted a lot of this uh and
+that people would have to sharpen their
+pencils. We had a discussion about this,
+you know, the the good times are IP.
+What's your take? Is this the the
+beginning of the end, the the middle?
+Where where are we at in this cycle? And
+what's the reasonable thing for founders
+to do here? I think uh so you we
+probably should take the the macro and
+then boil it down to the startup. So, at
+the at the macro level,
+I think that we're playing a very
+dangerous game of chicken with the Fed.
+And you can kind of summarize it in the
+following way, which is that, you know,
+three or four months ago, we only
+thought that there was going to be a
+handful of interest rate increases.
+And increasingly what has happened, the
+market has remained so resilient
+that the Fed has sort of put out more
+and more data as the data has justified
+them being a lot more aggressive.
+And it kind of crescendoed this past
+week, where they basically said,
+"Listen, you know, we're going to move
+by 50 basis point increments for the
+foreseeable two or three rate hikes, and
+we're going to start quantitative
+tightening." What does that mean? That
+means that instead of basically printing
+money and coming in and buying
+securities from the market, right? So,
+what happens?
+When they enter the market with money
+that they literally do print
+and buy your bonds, they're giving you
+cash in return.
+And typically what that has led to is
+the inflation of all assets, right?
+Equity assets have gone up, bond assets
+have gone up because there's just
+nothing else to buy.
+When quantitative tightening happens,
+they reverse that.
+And what they're going to do is about
+$95 billion a month of the opposite
+action, which means they're taking money
+out of the system.
+Right? Or in this case, what they're
+going to do is they're going to let a
+bunch of maturities roll off and not not
+renew them. Okay, so why is this
+important?
+Well, it's important because you know,
+we're still 4% from the highs.
+So, we have 7% inflation. We have all
+this crazy stuff happening. We have a
+war, you know, going on. We have massive
+price issues. We have supply demand
+issues. And the market keeps shaking it
+off.
+So, I think what the Fed's going to do
+is get even more aggressive. You're
+going to probably see, you know, a lot
+of 50s, maybe even a 75 point hike. You
+probably are
+going to see them, you know, even
+ratchet up quantitative tightening until
+there is a bit of a bloodletting in the
+equity market.
+They need to see that the market's
+cracked.
+And so, they literally need to see what
+percentage drawdown or just to go
+sideways? What do they need to see in
+order to Or is it inflation coming down
+a couple points? Well, the problem that
+we suffer from is that they're going to
+look at the highest level indexes,
+right? They're not looking at single
+stocks. And so, when they see like when
+you and I think the market is down 4%,
+we don't feel that cuz some of our
+companies are down 50 and 60%. Right?
+But that's because we're all focused on
+high-tech growth. But they look at the
+broad indices and the broad indices have
+held up really well and mostly
+it's because, you know, if you look
+inside the S&amp;P 500, 40% of every dollar
+is, you know, Apple, Amazon, you know,
+Microsoft, etc., Tesla. So,
+we're in a situation where I think until
+the Fed see that there's a massive
+trading of liquidity, which means like
+you see these indices crack big time,
+35, 3600 in the S&amp;P, they're just going
+to keep ratcheting things up.
+As it comes all the way down to our
+companies in Silicon Valley and tech,
+what that means is like you have to
+start planning for the
+worst, and I think the worst means that
+there's an 18-month period where you
+cannot raise money
+on your terms.
+You have to raise money on the market
+terms.
+Um and so if you're not in a position to
+show good growth over these next 2
+years, I would encourage you to just get
+your balance sheet in order to wait it
+out.
+Sacks, nuclear winter is a possibility
+here. Markets for startups
+raising money, again as you're trying to
+say, could be on the terms of the
+capital allocators. What what's your
+advice to founders? What are you seeing
+in the boardrooms that you're on the
+board of? And if you were running one of
+these high-growth companies for the past
+year, what are the first two or three
+things you do? I mean, the first thing
+you got to do is look at your burn
+multiple. I mean, how much are you
+burning relative to how much incremental
+ARR you're generating? You look at Fast,
+they raised 120 million what, like a
+year ago? They They're out of money now,
+so they burnt 10 million a month, like
+you said. Here's the crazy thing. If
+they had just slammed on the brakes
+three or four months ago, when we were
+talking on this pod about the coming
+downturn, they could still have $30
+million in the bank. That's a lot of
+money. The only reason it doesn't seem
+like a lot of money is cuz they've been
+burning 100 million over the past year.
+But objectively, $30 million is a gross
+series B, which is actually a lot of
+money for a company that only has
+100,000 in revenue. So they could have
+saved that company if they had slammed
+on the brakes 3 months ago and
+rationalized cost structure, and they
+didn't. So they hit the wall at 100
+miles an hour.
+something like that happens, David? Cuz
+you We've all seen it. What is this
+suspension of disbelief that creates
+this kind of stupidity? That I mean,
+that's what it is. I mean, you've got
+you've got people who are kind of
+drinking the Kool-Aid, and there's
+nobody advising them to stop, or if
+there is, they're not listening. I mean,
+look, PayPal had this situation back in
+2000, the year 2000, right after the
+dot-com crash. We were burning $10
+million a month like fast. We had no
+revenue and no business model, okay? We
+had said that the service would be
+always free.
+We had four months basically of life and
+we pulled up on the throttle and what we
+did is we basically introduced paid
+accounts. We started charging
+transaction fees and we cut the we cut
+the cost structure of the company and we
+made that last $40 million last a lot
+longer than four months.
+It lasted until we could then do another
+fund raise the following year and we
+were able to then raise with good
+numbers, real revenue, a business model,
+etc. So,
+you know, and that was because we were
+just paying attention to the changing
+environment. The world had changed from
+sort of the pre dot com crash, you know,
+1999, your business model didn't matter,
+your margins didn't matter, revenue
+didn't matter, none of that stuff
+mattered. All that mattered was growth,
+but by, you know, mid 2000, everything
+had changed. So, you have to be attuned
+to what the fund raising environment is
+looking like and if you're a high burn
+company right now that's not generating
+a lot of revenue to go along with it,
+you better slam on the brakes and
+rationalize your cost structure before
+it's too late. David, tell me like what
+what do you think is going on in this
+board meeting? I mean like this is a
+group of incompetent
+incompetence.
+I don't even know who's on the board
+because Stripe led two rounds, I think,
+and so look, when you
+of it, David, that you you and listen,
+we all love Stripe, it's a great
+company, it's it's a legendary company,
+but
+one of the reasons we don't like to have
+strategics is maybe they're not thinking
+the same as a a proper capital allocator
+and for them this is peanuts. Right,
+exactly. No, look, the reason why a
+strategic investor Sorry, go ahead. I
+think the reason why a strategic
+investor invests is because it's
+strategic for them. I mean, it was in
+Stripe's interest to try and back a
+winner in the whole e-commerce checkout
+line sort of payment space.
+And so they did that and I don't even
+know if they had a board seat. Um and so
+no one was really But I don't I don't
+understand that strategic decision
+because I I I suspect the rationale
+somewhere internally
+in Stripe which is pretty flawed is,
+"Hey, we can't do it ourselves because
+if we did we would be competing with our
+customers." But
+picking a winner and putting $120
+million is tantamount to the same thing.
+So I don't understand.
+I mean Stripe It doesn't make any sense.
+And so Stripe raised money at a what?
+$95 billion valuation. So look, it all
+flows down from you know, the the
+frothiness at the peak. No, I'm saying I
+think I would have It would have been
+much more credible for Stripe to say
+this is a critical piece of the
+infrastructure and value chain in
+payments that we want to own. So we're
+just going to go and put some of our
+better engineers as like a you know,
+side project and see if we can tack away
+at something that works. I mean I I
+think a lot of
+people would have adopted it.
+But I guess there was a board To be
+clear, Stripe was on the board. Index
+was on the board. Okay, that's
+interesting. I mean those are some good
+investors. Um there's a couple of people
+Index and who else? According to
+Crunchbase, Stripe was on the board. A
+business development person from there.
+Index was on the board and Dom, the
+founder
+uh and uh looks like Brian Sugar uh who
+I know uh who's an angel investor and a
+founder. Uh but who knows if that's
+outdated information in Crunchbase.
+remember when Philip Kaplan used to run
+a website called FuckedCompany?
+Absolutely. Good friend of mine, yeah.
+Do you want to tell the FuckedCompany
+story Jake out for all the people that
+have no idea what that is?
+basically what happened was dot com the
+dot com world was imploding. All the
+employees didn't have a voice. There was
+no social media at the time. There was
+no blogs at the time. The The only thing
+you could really publish on the in the
+world was like a a Geocities page. You
+could put up a homepage if you knew how
+to do HTML. It's even pre-MySpace. Um
+and so a friend of mine, Phil Kaplan,
+who does a very successful company
+called DistroKid now, started
+FuckedCompany and it was a message
+board. And what he basically let people
+do was he would write three headlines,
+one sentence each, kind of like before
+Reddit existed, where you just put a
+one-line hit. And then there was
+comments underneath them. They'd say,
+"This company, we just got an email,
+this company's laying off people." And
+he would beat all the news stories to
+the layoffs cuz he would just run with
+any email that came in. And then people
+would detail and savage the management
+of those companies underneath it for
+malfeasance and explain exactly how
+ridiculous the spending was in that era,
+where people were burning money like
+drunken sailors.
+I think this time around it's probably
+important for employees to understand a
+couple things. One is like, who doesn't
+know what they're doing, right? So, like
+companies that are making layoffs, those
+are those are happening, they shouldn't
+get punished for that. But you got to
+think like the fiduciaries that are
+ripping this money in, I mean, do you
+really want to be the person that goes
+to work at a company that's backed by
+these folks in round two?
+I mean, that's not a signal. Like Like
+the opposite has always been a signal,
+right? Meaning, when Mike Moritz makes
+an investment, we all pay attention.
+Because we all think, "Wow, there's a
+picker." You know?
+And he did that with Stripe and with so
+many other, you know, great companies.
+And so the likelihood of an employee
+wanting to work for a Mike Moritz-backed
+company or a Mike Moritz-governed
+company is very high. Right? Same thing
+with Gurley's, you know? Same thing with
+a lot of a lot of really, really good
+investors, John Doerr.
+But the opposite should also be true
+then. Because if it if you really want
+to work for a Peter Thiel-backed
+company, you should probably not work
+for one of these companies where these
+folks who are just completely absent are
+also governing the board. Cuz that just
+means like nobody knows what's going on.
+We haven't had proper governance for a
+long time in Silicon Valley, so I mean,
+I think that's what what we we crashed
+We crashed and the Dropout were, in some
+ways, about incompetent boards.
+Both of those TV shows. No, I mean, I
+definitely see this, um you know, I
+think you guys know the the incentive
+for a traditional venture capitalist
+that that that maybe isn't
+um
+you know, motivated by improving their
+craft,
+but they're motivated, you know, and
+incentivized primarily by making money
+is to to raise more capital and get in
+more deals.
+And as you guys know, like every venture
+firm has maybe one or two superstars,
+and then they fill out the ranks and
+hire a bunch of folks who are maybe not
+superstars,
+or they don't pay as much attention. You
+know, it used to be maybe a VC would sit
+on a handful of boards, and now it's
+like you're the board representative for
+12 companies. And that's a you know,
+you're not going to be able to provide
+quality time and service to to and
+support to the CEO and the and the
+company. And more importantly, as you
+guys point out, like not provide good
+governance. And governance isn't just
+about are you signing the DocuSigns as
+they come in to approve stuff, but it's
+about actually critiquing the business
+strategy with the CEO at the board
+discussion, critiquing the spending,
+reviewing the financial plan, making
+sure that everyone's aligned that this
+makes sense in this funding environment
+to continue to do this work. And I don't
+see that a lot. I I don't know about you
+guys, but I see a lot of VCs either
+pandering to the CEO because we have
+founder culture hysteria in Silicon
+Valley where it's true, the best
+founders make the 1,000 x returns, and
+that's it. But that doesn't necessarily
+mean that the rest of the businesses
+um should be left to their own vices
+just because there are a few um ultra
+successful founders, but there are a lot
+of businesses that actually need
+governance uh in order to achieve
+outcomes. And I see that lacking heavily
+in Silicon Valley because the VCs are
+more incentivized to raise more money,
+to make more investments, and then pay
+less attention, and just go raise the
+next fund.
+Well, I think I think you said the key
+thing. There are really very few star
+pickers in our business. Um it takes
+decades to really prove that out. And
+And those people But those people that
+are real pickers, I don't think put up
+with [&nbsp;__&nbsp;] from anybody.
+just pickers. Like so, John Doerr was
+deeply involved in Google in the early
+days. Like
+Yeah, you're right. I'm I'm I'm
+simplifying our job, but what I'm saying
+is our job, okay, at the end of the day
+is we're picking, okay? And then once
+you pick, you got to do the work. If you
+pick poorly and you do the same amount
+of work, it doesn't matter. Nobody's
+going to remember you. Yeah, and what
+ends What ends up happening is the VC
+flushes the deal cuz it's not going to
+be the 100 bagger. They don't pay as
+much attention. They let the thing ride
+into the sunset. And they're they're
+moving on to the next thing. But there
+is still a duty and a responsibility, I
+think, to the shareholders and the
+employees of that company to, you know,
+do what Sachs mentioned, which is can
+you reduce burn under these
+circumstances and can you actively
+engage as a board member to encourage
+leadership to do that? And that doesn't
+happen all
+But you said the key thing. There are
+few practitioners that really have the
+gravitas to actually enforce those
+decisions. So, you know, there's a
+reason why in during the Great Financial
+Crisis, there was only one organization
+that even had the courage, forget
+whether it was right or wrong at the
+time, to even write the RIP Good Times
+deck, right? It was Sequoia. Nobody else
+dared to even put that on the page, let
+alone give it to all of their companies
+knowing that it would leak lest they be
+wrong. And the reason Sequoia could do
+it is they're looking at a 40-year
+franchise and saying the integrity of
+our franchise is at stake. We need to
+keep doing what we've done before. And
+what it did, I think, in that case was
+pulled along a bunch of folks that were
+not as good as the top few folks,
+and it helped reorganize cuz if you see
+the three or four years after that GFC
+deck, Sequoia flushed that whole
+business, right? There's an entire
+turnover of that team. And so, I think
+what it speaks to is, and we talked
+about this in a few episodes ago,
+if you're seeking out AUM, you're going
+to hire a very different kind of person
+than if you're helping trying to help
+build companies. And the difference is
+that when you're trying to raise AUM,
+your customer is not the company, the
+customer is the LP. And what the LP
+wants to do is be able to write their
+investment memo and not get fired. And
+the way that you do that is by pointing
+to the team and saying, "Well, this
+person worked at this company. This
+person was a VP at that company."
+And it seems credible.
+But between but being able to invest
+and being able to actually be a good
+operator is so different.
+Look, I'll I'll also say one thing
+that's important. You know, I I don't
+like this celebration or sorry that the
+mockery and the entertainment that comes
+from failure. I I thought [&nbsp;__&nbsp;] company.
+Like I was young when it when it was out
+and you know, I would read it and kind
+of giggle at the stupid companies that
+got funding.
+You know, but to me it's not like the
+kind of thing that could should kind of
+be funny or or or laughed at or even to
+mock failed companies. I mean, it's
+cynical. I think the capital that's
+available in the markets today to
+support the building
+That wasn't that that's not what [&nbsp;__&nbsp;]
+company was. I don't I don't think it
+was people taking potshots as much it
+was people
+that. Oh, yeah. There was a lot of that.
+That that and cuz Yeah. But would you
+admit
+But would you admit in fairness that
+there was a lot of people telling the
+truth? Oh, yeah. Yeah. Totally. No. No.
+No. But but but but a lot of it was like
+this mockery. Like can you believe this
+[&nbsp;__&nbsp;] even existed? Yadada and the
+cynicism I think you know, kind of
+you know, it's it's steals out the
+opportunity for for capital to support
+you know, new new ventures new
+initiatives like this.
+You know, I also think that these
+businesses that today
+are looking to raise capital that are
+you know, let's call them
+good businesses. They have a good
+opportunity. They're going to be
+challenged in a marketplace where
+everyone is cynical. Um and I'll say
+like
+scarcity breeds success. When there
+wasn't a lot of venture money and there
+were only a you know, kind of a few
+investments that could be made each
+year.
+There was a decision-making process that
+says, you know, look how valuable could
+this be
+versus this other opportunity that I
+could invest my capital into? That says,
+okay, the best opportunity wins and gets
+picked and gets capital. In a world
+where everyone was raising a
+billion-dollar second fund or a
+three-billion-dollar fourth fund and you
+suddenly had an influx of a hundred
+billion dollars of venture money in a
+year, it's a lot like what we saw in
+crypto markets, which is an
+extraordinary explosion in highly
+speculative bubble assets. And a lot of
+these businesses maybe shouldn't have
+existed in the first place. Too much
+demand for the stock of private
+companies
+uh And all the hedge funds that came
+into it, all the mutual funds that came
+into it.
+supply of great founders and serious
+teams that are working hard on this. I
+think with the case to fast, I agree
+with your general sentiment about
+dunking. In In the case of fast, what
+you had was a founder who was on Twitter
+every day tweeting about how great the
+company was and giving startup advice
+while he was taking none of it and
+should not have been giving any of it
+because they didn't even have product uh
+market fit.
+Lesson learned. You know You know who
+You know who should be criticized? The
+next person that backs that guy.
+That's it. You know that guy is what he
+got he's got a very interesting history
+actually as well. I think if they'd done
+their due diligence
+They didn't do any diligence on him.
+Apparently, he had two companies that
+were kind of major red flags. And I
+think the diligence issue, Sachs, is one
+maybe you are having a similar
+experience to me on the early stage. We
+were seeing deals last year close in a
+week.
+We normally have 30 days to vet a deal
+and maybe a week or two to get our
+diligence wrapped up. Sometimes these
+things overlap, but it's What was it,
+you know, historically? A four to six
+week process and then it went down to a
+four to six day process and then people
+were meeting with you one day and saying
+they're closed the next.
+Were you Did you feel like over the last
+couple years people were doing proper
+diligence or not? And what impact did
+diligence have on any of this? You know,
+I certainly I I can't speak to what our
+competitors were doing. I don't think
+our diligence process changed much. We
+would just have a mentality of when
+there was a deal that was urgent, we
+would drop everything and focus on that
+deal and get our work done. And it can
+be done quickly.
+Although it's easier for SaaS companies
+because the metrics that you're looking
+at are so standardized, it's just
+It's an easier process. It's just
+easier. What's the most important thing
+in diligence? In your mind, what is the
+like bullet that like people can't the
+silver bullet thing people can't fake?
+Probably off-sheet customer references.
+So, the the first thing we do is focus
+on the on the metrics, right? And the
+the financials, the SaaS metrics, all
+that kind of stuff. But then, you want
+to talk to customers and you want to
+understand the value they're getting out
+of the product. And ideally, they're
+off-sheet customers. Explain what
+off-sheet means.
+Off-sheet just means that, you know, you
+frequently ask a founder
+to give you customer references.
+Those are on-sheet references. The
+off-sheet references are the ones that
+you find yourself that they never gave
+you.
+So, like the easiest off-sheet
+references to do are when your own
+portfolio companies are using some other
+like piece of software and they tell you
+about it. So,
+no you know, that it's a totally
+non-conflicted
+situation. So, that that's what you're
+looking for. So, one of your companies
+is using Stripe, they tell you how great
+Stripe is, they tell you what's good
+about it, what's bad about it.
+But references you're giving, so it's
+sort of like back channel references. If
+somebody tells you, "Here's my
+references."
+can do the same thing on founders, too.
+You can have on-sheet and off-sheet
+references for founders. And you can do
+it for VCs. Yeah, but but look, I think
+um
+I think it's probably a little bit
+unfair to blame the board of this
+company too much because the reality is
+that
+VCs don't have the leverage or the power
+in this business. I mean, it's found
+this this whole construction of the
+industry is set up around founders. And
+at the end of the day, it's up to the
+founder to run the company and they get
+to do what they want. Unless they do
+something criminal, otherwise they're
+going to be able to do whatever they
+want. And or I disagree. Hold on. Board
+Boards generally are very deferential to
+founders. And if the founder's not
+willing to listen to advice,
+what are you going to do about that?
+Well, that No, this is but this is the
+point you're making I think is not
+right.
+You think that if Peter Thiel gave some
+advice to slow the company down that
+this guy uh would have not taken it? Of
+course he would have taken
+know. I don't know about that. He we had
+to consider it. If Mike Moritz actually
+said it, he would have had to consider
+it. I think what you're actually
+speaking to is in the Hold on. In the
+rush to put so much money to work, we've
+elevated people who don't understand
+what the job is to do the job. And if
+they're not credible, of course they're
+going to be ignored. We all have ignored
+stupid board members. You've done it,
+too, David. But even, you know, let's
+let's actually look at Yammer as an
+example. There were one or two of us
+that you would talk to pretty
+consistently. You didn't talk to all of
+them. I would always seek out advice.
+Look, a good a great founder, a good
+founder always seeks out advice. No
+question about it.
+But look, this idea that it's governance
+versus advice. I mean, the problem with
+it being governance is all the
+institutional incentives for VCs are to
+be pro-founder. So, no one wants to jam
+a founder by making them do something
+they don't want to do.
+Well, I'm just saying that's that's the
+way it is now.
+way, no, to be clear, that became a
+competitive tactic that emerged as more
+venture capital funds were raised and
+more venture capital was raised from
+LPs. Prior to that, there was a scarcity
+of venture capital, and VCs could be
+could have good governance and not have
+to have this whole pro-founder model
+that became the thing that Founders Fund
+and Andreessen and others kind of
+proclaimed as being core to their
+advantage and the reason to pick them
+over some other VC who's going to meddle
+in your affairs. And by the way, both
+are true. There are most VCs, as Vinod
+has said publicly, add negative value,
+and I totally agree with him on this.
+Because they are many VCs, particularly
+the ones who aren't, you know, valuable
+and don't really have much to add, try
+to add stuff, try to say stuff, and they
+just, you know, create negative value in
+the process. But on the other hand, the
+whole pro-founder model led to the the
+WeWorks and Ubers of the world that, you
+know, I think we all agree.
+There's a trade-off. There's a
+trade-off. I mean, look, I remember in
+the 1990s, the default was that the
+founder just got replaced, right? Like,
+as soon as the company's successful, you
+hire a professional CEO. That was just
+like rule of thumb.
+Eric Schmidt, I mean, even the mighty
+Google did that. Yeah, no, I mean, that
+was By the way, that was pretty much
+last That was the point I was trying to
+make, which was like, so much of John
+Doerr's influence was in getting Larry
+and Sergey to take Eric on as CEO. And I
+really do think that that was like, you
+know, a critical move that created
+probably the that created the most
+valuable company uh in history. Um and
+you know, it's it it it it it was an
+important Imagine if you had one of
+these Founders Fund and by the way, you
+know, as you guys know, I'm very close
+to the the guys at Founders Fund and um
+but but imagine if you had a Founders
+Fund type approach where you said,
+"Look, Larry and Sergey are the
+founders. They know what they're doing.
+Let them do it." as opposed to the John
+Doerr nuance of let's make sure that we
+think about the development of this
+company successfully over time. And then
+convince Larry and Sergey through a
+bunch of meetings and riding bikes and
+whatever else they did with Eric, you
+know, to like And then And then what
+about Jim Breyer? Didn't he bring Sheryl
+over to Facebook? I mean, like, there's
+a lot of these stories of the really um
+you know, the VCs that really changed
+the trajectory of the business through
+their work.
+Right. And but look, all I'm saying is
+the the the good VCs can still have that
+influence, but it's in the form of
+advice rather than governance.
+Right. We we look, we just don't call
+the shots.
+right. You're right. It's It is It is
+advice. But But for example, governance
+as an example, in in in in every board
+that I take, the first thing that I say
+is, "Here's a template I want. I'm not
+going to ask you a bunch of stuff, but I
+just want some transparent reporting."
+And the first page is always, "How much
+money you had at the beginning of the
+month? How much money did you burn? You
+know, how much equity did we give out?
+How much is left in the pool?" Simple,
+basic checks and balances.
+Right? Where you're not asking all kinds
+of crazy questions. You're just like,
+"All right, how much money are we
+burning? How much dilution did we take?
+Now tell me what we've done." And those
+are simple elements of governance. Way
+before you get into advice.
+setting. What's the speed of the plane?
+What's What's the elevation? Where are
+we at? What's the altitude? And when you
+ask people for this today, it's
+do that, too. Yeah, I don't know anyone
+that doesn't do that. I'll be honest.
+Like,
+Yeah. Anybody that doesn't do it,
+honestly, is being completely
+irresponsible.
+know anyone that doesn't do that. I
+mean, I'm talking about I would love to
+see I would love to see a No, there's a
+little bit of that going on. There's a
+little bit of that going on.
+a fast board deck and to see if that
+first page is that page. The first page.
+And by the way, you know where I learned
+that from? From Sequoia and Kleiner
+Perkins. Because back in the day, what I
+saw from founders was oh, this is the
+first thing I have to report on. I was
+taught by founders when I was a when I
+was a principal at Mayfield. They're
+like, this is how you do the job. And I
+was like, great, thanks. I mean, I mean,
+I was, you know, sitting beside these
+guys that were old hands at doing it.
+And that's how I learned this business
+through that apprenticeship. But there
+was governance and advice. And the
+governance is just about being
+transparent about how much money are you
+burning. And so, you can't, you know, to
+David's point, if you had just seen that
+data, even if you take those board
+decks, by the way, because you have
+these information rights, I don't know
+about you guys, but we did it we did it
+as well. You take the board deck, you
+circulate it to your other partners.
+There's lots of times where I see board
+decks in companies where one of my
+partners are on the board and I send
+them an email of like, hey, here's some
+bullet points of things to think about
+that I've seen before, etc. etc. You
+don't think nobody at Stripe or Index
+could have said, uh you're burning $10
+million a month and there's no revenue?
+So, the point is that data was not
+there.
+30 or 40 million dollars in the bank.
+Give me a break, guys. So, this was a
+whole
+a cataclysmic failure at the advice
+level and at the governance level. And
+all I'm saying is it's a good lesson for
+folks to learn. Absolutely. Yeah, so
+many point people's attention to
+articles I wrote that I think are
+relevant. So, first, we actually
+published an article on the SaaS board
+meeting deck that we like people to use
+and obviously they're free to use or
+not. To Chamath's point, right up at the
+top as a context setter, we need to know
+what's your monthly burn and how much
+money is in the bank. And that and then
+we just divide those things to create
+runway. We don't like looking at
+projections for runway. Totally. We just
+look at how much you burned last month
+and how much money you got in the bank.
+Totally. Monthly cash flow Right,
+exactly. And when they were down to 30
+or 40 million dollars burning 10 million
+a month, somebody should have like
+thrown up a red flag and said, "You
+better slam on the brakes right now cuz
+you're going to be out of business in
+three or four months." So So that that
+that's that's sort of piece number one.
+The The other piece was an article I
+wrote a couple of years ago called
+Blitzscaling, which is how not to go off
+the rails because a lot There's a lot of
+literature out there about Blitzscaling,
+and a lot of startups think they need to
+scale as rapidly as humanly possible.
+And I wrote this piece about how
+fast-growing companies that raise lots
+of money at high valuations basically go
+off the rails and they end up imploding.
+And there's like 11 reasons why this
+happens. I sort of categorize them.
+One of the biggest ones is founder
+psychology. You have a founder who
+believes that things are always going to
+be up into the right. It's they they
+It's funny. They're always described the
+same way. Described as visionary,
+charismatic, and the word crazy is often
+used, but it's crazy good. And then when
+everything goes to [&nbsp;__&nbsp;] all of a sudden
+the word crazy means something
+pejorative and bad. And you know, the
+the problem is that, you know, these
+characteristics of being highly
+visionary and charismatic, they also can
+be combined with an unwillingness to
+listen to advice. And so, you know,
+founders who have those qualities,
+they're they can be a good thing, but
+they have to seek out advice from people
+who've had experience. Otherwise,
+they're going to make a mistake and hit
+the wall. Being delusional is you know,
+what you need to start these companies.
+Like I'm going to beat these incumbents.
+I'm going to change the world.
+A little bit of delusion is good, but
+not when you're looking at how the
+runway, right? Like That's when you need
+to be pragmatic. I think um
+you know, there's a term of
+coachability. You know, how how
+coachable is this person as as a CEO as
+a leader?
+Um and I do think that coachability goes
+hand in hand with intellectual
+curiosity. I mean, if you look at the
+Collisons, Patrick Collison, and and how
+much breadth he has in some of the the
+topics he's interested in and the things
+he writes about, it indicates to me a
+high degree of intellectual curiosity
+and people who are intellectually
+curious generally are very humble
+because they're they're constantly
+seeking things they don't know and they
+recognize that they don't know a lot of
+things and in that same kind of
+mentality they are willing to recognize
+that other individuals can have good
+points of view that can inform their
+perspective and they're willing to
+change their perspective. And I think
+that's a really key key key thing that
+if you look across the the the range of
+successful founder CEOs that scale to
+100 billion dollar plus valuations for
+their businesses, that to me is one of
+the more common threads
+is this kind of intellectual curiosity
+which translates into a coachability
+which translates into an adaptability is
+and being willing to take advice. And so
+your board is a tool not kind of a
+governance structure or sitting over
+you. We we we are like that the more you
+are likely to feel like your board is a
+governance structure or an umbrella
+sitting over you telling you what you
+can't do. I don't think that's what
+governance means by the way. Well,
+governance meant to it's it's meant to
+look out for the shareholders. That's
+the job.
+Right.
+Sure, but but to act as a fiduciary
+doesn't mean to like tell the CEO what
+to do. This is my point like I'm just
+saying like It's it's not say it's not I
+think I think he's right about I think
+Friedberg is right about how boards are
+often perceived by founders. I think
+there is an increasing
+let's call it a Hollywood director a
+Hollywood auteur mentality towards VCs.
+J Cal on the All-in podcast, right?
+Well, it's
+it's basically it's basically look there
+there are certain incubators out there
+and accelerators and whatever who teach
+these young founders that it's all about
+their vision and anyone who stands in
+the way of it is basically interfering
+with them. Totally. And they they are
+the auteur like a Hollywood director and
+you got to stay away from those suits
+the studio guys, right? That's the
+mentality they're trying to they're
+teaching them. An adversarial mentality.
+An adversarial mentality. And look there
+are to Chamath's point there are plenty
+of VCs who don't know what they're
+doing. They have no useful advice to
+offer. But the better mentality to teach
+a founder would be like look it the
+world is so complicated and building a
+company is so complicated, it's going to
+be 10 times more difficult if you don't
+seek out advice. So, go find board
+members who will let you ultimately do
+what you want, but will still give you
+the advice if something's going wrong.
+And what was true at one point in time
+when Paul Graham gave this advice and he
+set up Y Combinator, you don't want to
+say their name, but it is Paul Graham
+had a terrible experience in his company
+with venture capitalist. So, he set up
+that wartime stance between founders and
+the investment community and you know,
+Founders Fund became the antithesis of
+the traditional venture funds and they
+were going to be founder focused. So,
+but that advice then might have been
+true and now it's not. Now we've swung
+the pendulum too far the other way. We
+did two things cuz we saw this 10 years
+ago when I started seed investing and
+then when I started building positions
+of over 5% I just said to founders, if
+we own over 5 or 10% we should have an
+option of a board seat and we'll do
+board seat we'll do board training with
+you. We'll we'll just teach you, we'll
+take like here's some decks that we've
+seen from other, you know, here's some
+decks that are available and we'll show
+you what a board is like and then I
+would have three founders come, two
+would sit on one's board meeting and I
+would do three back-to-back board
+meetings, bring your counsel, bring your
+founders and sit in on the other two
+board meetings and we'll have a little
+Socratic discussion about what was good
+about each board meeting. We did board
+meeting training as a proxy for venture
+worthiness later on and when those
+companies did go out to get venture and
+they had an ESOP and they had board
+minute meetings, they just looked more
+impressive to the venture community. So,
+I know people say don't do a board, it's
+not cool. It actually turns out doing a
+1-hour board meeting four times a year,
+six times a year, even as a seed stage
+it it does differentiate you to the
+venture community, I find.
+All right, moving on and speaking of
+boards,
+Elon bought a
+chunk of Twitter last week, a 9% stake
+and he's joining the board. That makes
+him the largest individual or the
+largest shareholder
+individual or institutional. He bought
+the shares in
+March. Twitter CEO Parag Agrawal
+tweeted, "I'm excited to share we're
+appointing Elon Musk to our board.
+Uh, and then Jack
+tweeted in support, I'm really happy
+Elon is joining the Twitter board,
+exclamation point. Just to give some
+level setting here. Uh, in Q4 of 2021,
+Twitter had 1.5 billion in revenue, up
+22% year-over-year. They've really been
+starting to ring the register over
+there. Uh, daily active users are solid
+but modest, 217
+million uh, daily active users, 38
+million of which are in the US, 179
+million are international.
+And their stated goals uh, for Q4 of
+next year, 2023, so in a year and a
+half, they want to have 315 million. And
+they want revenue in 2023 to hit 7.5
+billion. Again, they're on a $6 billion
+run rate, so I guess that would be an
+increase of 25%.
+Uh, just general thoughts on
+uh, and Elon obviously has been making
+uh, some Twitter suggestions uh, for the
+product. Sacks, you worked with Elon at
+PayPal. Thoughts on what this does for
+That wasn't Why you're laughing? It's
+like such a funny transition. Sacks, you
+worked with Elon at PayPal.
+Worked for Elon, I guess.
+sure I'm sure he's going to have some
+great product ideas, but what this is
+really about is free speech, you know,
+right before Elon announces he was doing
+polling, asking the Twitter user base
+whether Twitter was succeeding or
+failing in its mission to be an open
+town square, an open marketplace for
+ideas. Something like 70% said they were
+failing at it. Elon on many occasions
+has spoken up for free speech. He
+believes that Twitter's historic mission
+is as an open town square, and I think
+he's going to bring that emphasis to the
+board, and it's a great thing. Now, I
+think the person who had the best take
+on the reaction to this was Mike Solana.
+And he had a few funny tweets about
+this.
+Who does he work for? Is he a Founders
+Fund guy? I think yeah, I think he he
+works for Peter at Founders Fund, but
+he's got a he also writes a great news
+Substack newsletter, kind of like a blog
+post called uh Wires.
+It's worth checking out. He's He's a
+pretty
+In addition to being a pretty sharp
+analyst, he's actually says a lot of
+funny things, too.
+He's iconoclastic and yeah, he he he he
+he'll he'll swing the sword. Yeah, so
+the way he put it is that, you know,
+Elon joining the board has all the worst
+people on Twitter furious. They think
+that this guy might actually save free
+speech, and for authoritarians, that is
+an existential threat.
+And then he added, um I don't get what
+the problem is, guys. If you want
+censorship, you can just go build a new
+social media company and do censorship
+there. It's a free market. Thereby
+turning on its head everything they've
+been saying, which is, you know, when
+the people who the authoritarian
+the authoritarian people who love
+censorship, whenever anyone complained
+about censorship, they would always say,
+"Well, just go create your own social
+network, you know, we're free to do what
+we want over here."
+truth, whatever. Exactly. Well, this is
+This is the free market acting in a way
+they don't like, which is finally
+somebody who believes in free speech is
+going to stand up, buy the largest stake
+in Twitter, join the board. I mean, this
+is fabulous. I think it's really
+fabulous. I think it's pretty amazing,
+yeah. And the stock went up 30%. What do
+you think, Chamath? Yeah.
+I texted you guys in the group chat. I
+think that if he is able to make free
+speech cool again, he'll he'll actually
+do more doing that
+than potentially through SpaceX and
+Tesla, and that's already saying a lot.
+Because free speech really is this
+fundamental principle of democracy, and
+it's been decaying. We don't know
+the implications of a large technology
+company
+keeping free speech as a principled
+pillar of their
+uh reason to exist. Right? Because we
+have seen free speech kind of decay, and
+we've seen sort of, you know, random
+decision-making that seems arbitrary by
+a lot of these technology companies.
+And, you know, the payments companies,
+Friedberg was mentioning Visa and
+MasterCard earlier in the group chat.
+But all of these things can change on a
+dime if Elon makes free speech cool
+again and figures out a way to make that
+a principle that everybody can embrace?
+Because then if you really believe in
+that, then you go to the next logical
+conclusion, which is what David has said
+for forever, which is the only solution
+to, you know, speech you don't like is
+more speech.
+And then that creates a surface area
+that I think you can technically
+maneuver around. So, meaning, what are
+the real problems in all of this speech?
+It creates It creates a, you know,
+content moderation issue, right? It
+creates a a spam issue, and it creates a
+sort of wisdom of the crowds ranking
+rating issue. So,
+Misinformation comes to mind. Yeah. But
+that's a that's a wisdom of the crowds
+ranking rating issue in my book. So, I I
+guess the point is that, you know, if he
+can get the Twitter employee base
+fundamentally on side of this idea of
+free speech as a principle,
+that's I think is enormous because you
+know that none of the other big tech
+companies will ever even do that. And
+the capital structures of those
+companies will never allow a single
+strong voice like his to enforce that
+idea. So, this is the only company where
+that could happen, and I think, you
+know, we want to see what this how this
+plays out. I think it's a really really
+big deal.
+All right, Freeberg. Yeah, I'll tell you
+what I think changes
+Facebook, Twitter, even Google all
+acquiesced
+to significant external pressure over
+the years. I've said this in the past. I
+believe the founders of those companies
+are all philosophically
+fundamentally philosophically aligned
+with the notion of free speech and um
+absolute freedom of information,
+you know, enabling truth finding over
+time. And the um the edge cases uh of
+those platforms ultimately um identify
+and uncover ways that they can be used
+uh against what, you know, many would
+consider kind of the the the the
+betterment of society, and as a result
+they acquiesce to external pressure that
+drives some of these censorship
+decisions and drives some of these
+um these behavioral uh changes by
+management.
+But I think that if you concentrate the
+ownership of those businesses, and
+rather than have kind of a distributed
+shareholder base, meaning the public
+markets where the largest single
+shareholder in Twitter to date uh has
+been Jack Dorsey at 2.3%,
+he actually serves the shareholders. And
+the shareholders ultimately want to see
+the stock price go up, and they
+ultimately want to see the business make
+more money, and as a result, they don't
+have the same sort of uh you know, the
+the the the stakeholders there have kind
+of a different set of alignments over
+time. You know, they're not necessarily
+the same long-term
+uh or focus, meaning does the philosophy
+come before the money? And I think as
+you kind of concentrate ownership, you
+have the opportunity and the option now
+uh to you know, make make those sorts of
+decisions that you can't make when
+you're a broadly owned stock. But,
+Facebook and Google are concentrated.
+They have a dual-class structure, and
+they're dual-class, yeah. So, what are
+you talking about?
+The issue, Chamath, is in those
+companies, they're scared to death that
+they'll lose their employees and have
+chaos at work.
+No, the issue is government. Well, it's
+both. Also, you can also lose all your
+employees. There's both. There's
+pressure from above and below.
+It's yeah, it's shareholders it's
+shareholders and government regulators,
+right? And so, in both cases, you have
+to acquiesce to the pressure. And
+employees, it's a good point, yeah. I
+understand, but I'm not sure how Twitter
+changes any of that. There it does. I'll
+tell you why. Because if we look what's
+happened is
+sometime last year, I think it happened
+around Chapelle, and I think it happened
+because of Coinbase, we saw a group of
+folks say, "You know what? Enough's
+enough. Yeah, we told you to bring your
+whole self to work. We told you we would
+do your laundry. And then at some point,
+Netflix was like, "Listen, you don't
+have to agree with every comedian on our
+platform. There's a range of comedians,
+and if you disagree with this one, you
+can do a walkout, you can protest, you
+can make your feelings hurt, or you can
+choose to not work here." And then,
+Daniel Ek kind of did the same thing. He
+said, "Listen, at Spotify, we're going
+to put labels on it. If you don't like
+Joe Rogan, don't work here." And then,
+of course, we know Coinbase did it, and
+Tobi from Shopify did it. And now you
+have Twitter doing it. And when you
+apologize
+and you start listening to this very
+vocal minority when they're upset and
+they want to cancel people or they want
+to de-platform people,
+what do they do? They double down.
+You've shown that you're going to listen
+to them. They're not doing it at
+Coinbase anymore. They're not going to
+do it at Spotify anymore. They're not
+doing it at Netflix. And Apple
+acquiesced, right? They're like, we
+don't like, you know,
+Antonio's book Chaos Monkeys and he said
+these three things in an award-winning
+book that we find are we're going to
+fire him. I think at some point Apple's
+going to have to say, you know what?
+Leave your feelings at work. And and
+this is a company Leave them at home.
+Thank you. This is why Elon is so
+dangerous to to these people is because
+he won't be pushed around. The fact of
+the matter is that this whole woke mob
+thing is a paper tiger. They don't have
+the support of most of the population.
+It's a handful of very noisy voices on
+Twitter and social media who insist on
+having a monopoly on the right to shape
+all of our narratives. You know, they
+they want a monopoly on moral outrage.
+They want a monopoly on moral outrage.
+They want a monopoly but they also want
+the monopoly on the ability to basically
+to to define
+what is acceptable and and and what the
+what the narrative on any topic is going
+to be. And all it takes is one strong
+person to stand up to the mob as we saw
+Brian Armstrong do at Coinbase and the
+mob dissipated. He took, you know, Brian
+had to suffer They target. They find
+another target. Exactly. So Yeah. Elon
+doing this is a really big deal because
+again, he cannot be pushed around and he
+is showing leadership here. And all it
+will take to end this woke censorship is
+for other founders to stand tall the way
+that Elon has. And let's let's go into
+the nuance.
+care what um employees kind of gripe
+about. I don't think he'll care what
+regulators gripe about. And I don't
+think he'll care what other shareholders
+gripe about. He'll talk about the
+long-term opportunity, the philosophical
+alignment with mission, and uh and plow
+forward. And I think that that level of
+leadership is what separates some, you
+know, great businesses from others. But
+this is a very
+there were moments of deplatforming that
+were earned by people like Alex Jones,
+who was saying that the
+you know, families of Sandy Hook were
+false flags and their children weren't
+murdered. There are, you know, Milo
+Yiannopoulos and some of these alt-right
+Nazi-sympathizing people throwing up
+swastikas, you know, people promoting
+violence or brigading on these services
+to attack people and to dox people.
+Those people, those were just
+cancellations, deplatformings from
+YouTube.
+in your opinion. Well, I mean, anybody
+inciting violence, I think we would all
+agree should be deplatformed. Jason,
+look at how it's evolved. We start with
+isolated cases like an Alex Jones, like
+a Milo that nobody likes and nobody
+supports. The next thing you know, the
+president of the United States is being
+deplatformed, but again, that's
+supposedly based on him inciting a
+crowd. Then, what's happening today? Now
+we have entire categories of of opinion
+being banned. It starts with COVID.
+Anyone who has
+Anyone who has a dissenting opinion now
+is invalid. Anybody who has a dissenting
+opinion
+on COVID gets banned. Now, anybody who
+has a dissenting opinion on climate
+change can be banned. There's a story
+this week on CNN where Pinterest of all
+Look, Pinterest is a photo-sharing site.
+I don't know No one's talking about
+climate change on Pinterest, and yet I
+was, but then I got deplatformed.
+I mean, it just shows this censorship
+now is on autopilot. I mean, even sites
+where the conversation is not taking
+place are banning entire categories of
+thought and opinion
+because it disagrees with, you know,
+what the experts say.
+And J Cal, you could point out your Alex
+Jones case to make the case that
+deplatforming should be allowed. The
+problem is as As as you make that case,
+it's only a slight degree it's a slight
+degree away from the next case and then
+a slight degree away from the next case
+and then fast forward 3 years and you're
+banning entire topics of conversation
+that ultimately may end up being proven
+to be a topic of conversation we should
+have had. And if you look back, by the
+way, what great movie, Woody Harrelson,
+The People vs. Larry Flynt. Larry Flynt
+was a pornographer. It was easy for
+everyone to chastise him and for
+everyone to say, "You know what? Let's
+go ahead and deplatform this guy back
+then and ban him and and charge him by
+the government. And at the end of the
+day, he fought for his rights for free
+speech." Now, all that being said, Larry
+Flynt was publishing using his own
+printers and selling on the street in a
+very legally compliant way. There is a
+difference in having someone else's
+platform be the mechanism that you use
+to promote your voice. If they choose,
+like Pinterest and Twitter and YouTube
+and Facebook and Google, to change how
+their platform operates, Zach, I
+actually think that's a commercial
+decision made by a private company. They
+should have the right to do that. But
+they're going to lose users over time.
+They're going to end up looking like
+idiots when they're wrong by banning
+certain topics that we should be having
+conversations about over time. And I do
+think that there are other mechanisms
+for us to use the free and open
+internet. This is why I think the free
+and open internet is more important than
+anything, to have conversations using
+other platforms and other means. I mean
+and and I'm I'm I'm I'm in Hold on, I
+just want to respond to to David as he
+did, you know, counter my point. I agree
+with you. I think it went overboard and
+I think there are more reasonable
+solutions. I think a time-based ban
+would have been better for somebody like
+Trump. Um and maybe waiting to see what
+happens with the January 6th Commission,
+putting that aside, I know it's very
+controversial. Um you know, when you
+just look at what Spotify did to our
+podcast, I don't know if you've looked
+at us in Spotify, every other episode
+says COVID-19 information here. I think
+this is one of the best things. If
+people want to talk about Ivermectin and
+it's an open science and Freeberg, you
+know more about it than any of us, and
+people want to debate it, why not link
+them to the most credible sources? I
+think that's a great solution. Have a
+question. Yeah.
+Is there an oat milk tag on Spotify?
+Yes, after all there is. Oat milk, oat
+milk, oat milk. Wait, when you listen to
+All-In Pod on Spotify, there's a tag
+that says there's COVID COVID-19? Yeah,
+get COVID-19 information here. Yeah.
+Okay, but back to Friedberg's argument
+about these companies should be free to
+do whatever they want. So, I know that
+Friedberg I want to make two points
+about this. First of all, I know
+Friedberg is sincere and genuine in that
+belief. However, most of the people
+making that argument are completely
+disingenuous about it because on the one
+hand, they say that these companies
+should be free to limit speech when they
+like the outcome of that censorship. But
+meanwhile, in Congress, they're pushing
+six bills forward to regulate these
+companies as monopolies. So, they don't
+believe that they should be free to do
+whatever they want. They believe that
+they're monopolies and indeed many of
+them are monopolies and even the ones
+that aren't monopolies act the same as
+all the other ones. They act as a cartel
+to limit speech. So, that's point number
+one is that nobody believes this
+argument that these companies should be
+free to do whatever they want. The
+second point
+is
+that listen, the founding document of
+our country the is the Declaration of
+Independence. It says that all of us
+have rights. They're inalienable. That
+means they cannot be taken away, okay?
+And in the first couple hundred years of
+this country, it meant that those rights
+meant that the government couldn't take
+away your right to free speech. But now
+today, where does speech occur? It It
+occurs on these giant social networks
+that are privately owned. They're owned
+by these large corporations. And the
+fact of the matter is, if they take away
+your right to free speech on these
+platforms, if they censor you, if they
+It's a great point, David. It's a great
+point. you do not have a right to free
+speech in this country. That right needs
+to be protected. The founding fathers
+did not anticipate that four people
+would be mitigating the majority of
+conversations online. It's you know,
+like if you're if you're taken off if
+you look what happened to Milo and Alex
+Jones. Like they don't exist in the
+public sphere anymore, right? Like they
+literally
+When these big tech companies all get
+together as a cartel to deprive you of
+your free speech rights, you have been
+depersoned. You've been digitally
+depersoned. And they're not just doing
+it on speech, they're also taking away
+your right to engage in payments, in
+transactions, to earn a living. And
+unless we stop this now, it'll keep
+going.
+We we have to address the giant elephant
+in the room. Huge, uh which is Trump. Uh
+I think a lot of this, uh you know, he
+hit its pinnacle when people were saying
+the the sitting president of the United
+States could not be on Twitter. That
+was, I think we all agree, ridiculous
+and absurd that the president who was
+duly elected couldn't have a Twitter
+account.
+But then, with the January 6th and the
+inciting of the violence and, you know,
+all the stuff that's coming out, and
+obviously we'll we'll see where that all
+winds up. I'm curious what everybody
+thinks here about
+should Trump or is Trump being put back
+and reinstated on Facebook or Twitter?
+And it's supposed to be a lifetime ban
+on Twitter, but if corporate governance
+changes and people lobby for that, do we
+think that there is any kind of
+situation where Trump has his Twitter
+handle or Facebook accounts
+reinstated, and should he have them
+reinstated?
+I think Jason, what you suggested is
+probably the most reasonable thing,
+which was there was a time-based
+penalty.
+You know, we're we're getting through.
+We're probably what, a third or
+two-thirds of the way through the
+January 6th stuff. So, that's going to
+come and go, and
+I think all roads will probably lead to
+a conclusion that after 3 years, it's
+probably okay to let this guy back and
+be able to tweet. I mean, it's not This
+is not
+you know, controversial stuff at this
+point.
+You know that the current thing is
+moving on from Ukraine when uh the topic
+all of a sudden is January 6th all over
+again and Trump, which it is on MSNBC.
+It's all January 6th all the time again.
+So, listen, I mean,
+this is not a justification for the
+widespread censorship that we've seen.
+Like I mentioned, we've gone so far
+beyond isolated cases. Now, it's entire
+categories of thought, and this has to
+be stopped.
+Well, what's your feeling on Trump?
+Should he be reinstated? Would you have
+running Twitter would you have done a
+time based? If you don't like Trump just
+don't follow him. I mean, but but
+frankly, it's it's um
+Listen, I don't miss the tweets at all.
+My thoughts have evolved. I don't miss
+the tweets at all. I really don't. Um
+They were damaging your party. That's
+how you felt. My thoughts have evolved.
+Before when he first got banned, I was
+really supportive of it. Um and there
+was part of me which was just afraid
+that he would get reelected, etc., etc.
+Now come 2 years later and to see all of
+the stuff and the escalation of
+deplatforming,
+I think the problem is exactly what you
+guys have just talked about, which is
+the person that does it today points to
+the person that does it yesterday who
+points to the person that did it the day
+before as the justification. And so even
+though we don't want to draw a straight
+line between an Alex Jones and a Trump
+and climate change, unfortunately, there
+is this line.
+And so in general now, I'm much more
+free speech because I think it's much
+more fragile than I thought it was
+before. Got you. Your opinion has
+evolved and intelligent people should
+respond to new data. I appreciate that.
+And I was a person that, you know, as
+David said was a little disingenuous in
+the sense that I kind of was for free
+speech as long as it was stuff that I
+agreed with.
+But 2 years later, I'm much more on
+David's original camp now, which is we
+just need to establish this as a pillar
+of society and not deviate and find
+credible voices on both sides and then
+algorithmically and through people
+power, meaning through crowd, you know,
+um wisdom of the crowds type stuff, help
+people figure out what is truthful and
+how much truth there is because that's a
+tractable problem.
+But the minute you start canceling stuff
+today as I sit in 2022, what I would
+tell you is I think it's very, very bad
+cuz it's going in a really bad place.
+Chamath, what are your thoughts on Trump
+specifically cuz it does seem like
+that's a part of the undercurrent here
+of, you know, he's going to be coming
+back, possibly going to be running
+again, and January 6th is concerned.
+He's got the Truth Social Network.
+Download the app. Listen to what he's
+got to say. It's rocking and rolling
+over there on the the Truth app. I heard
+they took it down like it wasn't even
+working, right?
+The uh the new thing he built. What is
+that What is that SPAC trading at? Was
+it at 20 billion or something? Still
+doing well. Um but look, they had
+you know, obviously a reaction a a
+market-driven reaction to the fact that
+he was taken off Twitter. He said, "I'm
+going to go make an alternative." And
+that's, you know, certainly proving to
+be technically difficult, but as we all
+know, it's not technically impossible.
+He just got probably the wrong people
+working on it. Um but if they wanted to
+have an alternative platform for hearing
+that voice,
+you know, have at it.
+Uh
+I don't know what else to say. I mean,
+it's Twitter's decision. They're they're
+curating their audience. All these guys
+want to be free speech advocates, but at
+the end of the day, they're all
+editorializing.
+And that's just the world we found
+ourselves in.
+I hope Elon takes a sledgehammer to
+that. Yeah. I mean, it's exactly what
+Chamath said is they're all they all
+believe in free speech and free markets
+when it produces the outcome they like.
+But when the outcome is not what they
+like, all of a sudden they're like,
+"Whoa, whoa, whoa, these companies are
+monopolies."
+Well, and here's another opportunity.
+If you're not libertarian and believe in
+like, you know, free speech and, you
+know,
+Constitution, like you could buy shares,
+you could lead a group, start a DAO,
+start a hedge fund, whatever, build a
+block to buy a bunch of shares, and then
+you can get a board seat on Twitter, and
+you can have this debate on the board of
+Twitter. And it's an important debate.
+You are absolutely right. And you can
+see, by the way, you know, small hedge
+funds with small amounts of capital like
+Engine No. 1, you know, they were able
+to go up against it Exxon and beat them.
+So, to your point, Jason, for the people
+that actually want to censor more,
+if they can organize the capital, they
+absolutely have the right to do that.
+And I And I think that they if they if
+they're able to do it, they should win.
+That's what That's That's what Mike
+Solana was kind of getting at. It's
+like, "Look, if you don't like If you
+don't like the the free speech that's
+happening on Twitter, go create your own
+social network cuz that's what they were
+saying
+Buy the shares and have influence.
+That's how corporations work. The shares
+are the votes. Yeah. Friedberg, update
+us on
+you know, the Ukraine is in month two
+now. Uh I'm sorry, Ukraine is in month
+two. Sorry for putting the the th before
+it. It's a tough habit to break.
+Friedberg, tell us um you know, the
+second-order, third-order effects of
+fertilizer and food at this point. We've
+had this back and forth. And now I think
+the world is starting to realize, hey,
+Friedberg was right. These downstream
+effects are going to be
+significant.
+I asked you a question about these,
+which is can the world not mobilize if
+these are about 1% of the calories, 20
+or 30% of the calories in certain
+country? Could the world not mobilize to
+find other caloric sources?
+Rice, fish, soybeans, whatever. Or is
+our system so fragile that we can't
+rally around sending food to anywhere on
+the planet despite the fact that we can
+fly anywhere and go on vacation for 2
+weeks anywhere on the planet? No, the
+food system is complex and efficient,
+but it um does not have strong um
+redundancy or malleability.
+Uh so, uh take for example, you know,
+how do you get flour?
+You get flour
+in um
+uh in your food from uh a food company
+that bought the flour from a miller.
+There are mills around the world that
+process flo- wheat into flour. You can't
+take that same mill and process corn
+into flour. There's different
+technology, different equipment that's
+used. Same with soybeans and so on. So,
+when you look at how the food supply
+chain is constructed, you know, there's
+a local point of consumption, which is a
+store, then there's a food processor,
+and you work your way kind of up the
+supply chain, and there's a certain
+input that's required to make the output
+that people consume. And so, calories,
+while they might be fungible practically
+speaking or or um philosoph- or
+fundamentally speaking, they're they're
+not necessarily fungible practically
+speaking on the ground when you actually
+try and plug in, let's say, soybeans
+into the milling supply chain to make
+the pasta or the bread that everyone
+consumes in Tunisia, it's not going to
+work. And the same is true with rice.
+And then the
+the more important um dynamic force
+that's underway is that these markets
+for food and commodities globally are
+not controlled by government, they're
+controlled by private businesses, and
+there's a market for these products. And
+so what happens is as the food supply
+chain threat hit, countries like China
+and others started to stockpile. They
+started to buy lots and lots of supply,
+drive up their stocks and their
+reserves, you know, for fear of the
+famine that's about to hit us in about 9
+months. And when they did that, there
+was now less food available to Tunisia
+and to Eritrea and to Egypt and so on.
+And so we're starting to see the effects
+of that dislocation driving dynamic
+market forces where certain buyers stock
+up, and then the folks that can't afford
+to step in not being able to acquire
+product and being left. So not only do
+we have a local production differential
+that makes it hard to have all calories
+be fungible, we're also seeing this
+dynamic where there's a bifurcation
+where the haves have more and the have
+nots have less. that's going to really
+make this famine kind of hit home in a
+in a really, really sad way in the
+months to come. We're already seeing as
+as I mentioned 2 weeks ago, yeah, I I
+as I mentioned a few weeks ago,
+the fertilizer problem driving acres
+down. So the USDA farm report comes out,
+they survey farmers and figure out how
+much they're going to plant every year,
+and they just downgraded the number of
+corn acres are going to get planted this
+year, which is happening starting this
+month, from 93 million acres to 89
+million. That doesn't sound like a lot,
+but 4 million acres
+4% yeah. 4 million acres coming out of
+production of corn in the US is an
+incredible amount of calories that are
+not going to be planted to corn. And so
+that has all these downstream effects.
+And again, this this crop doesn't come
+to harvest till, you know, September,
+October. Then it's going to get
+processed and it turns into food. So, by
+the time the the effect of this
+decision-making hit the marketplace, the
+availability of calories and the stock
+piling that's going on, it's like boom.
+Some countries are going to be, you
+know, they're going to have a limited
+budget. They're only going to be able to
+access so much food and they can't
+access any. And other countries are
+going to be fine. The United States is
+going to be fine. Western Europe will be
+fine. China will be fine. Sri Lanka is
+going to be a mess.
+Northern and Eastern Africa is going to
+be a mess. I mean, there's like places
+around the world that we are going to
+have to scramble. I don't have a real
+easy answer. There's no simple
+plug-and-play here. It's going to be a
+really complex set of problems that are
+going to need to be solved. Well, Sri
+Lanka does grow a lot of its own food.
+So, they may be okay cuz they also have
+a
+importer, right? I mean, they're pretty
+big net importer. So, they make a lot of
+food, but they they they rely on imports
+a lot for for calories there. So,
+yeah, I mean, that's the case with a lot
+of places around the world. A lot of
+people think, oh, we have farmers, but
+most countries,
+you know, particularly in the developing
+world, are net importers. They they they
+rely on third-party
+supplies of food. So,
+but a lot of what you're talking about
+though are not um
+they're they're processed foods that
+come into the country. Sachs, anything
+to add here? Well, I mean, I think that
+Ukraine war is kind of entering a a
+chronic phase. I mean, they're sort of
+sort of entering a new phase. The first
+phase, you'd have to say that Ukrainians
+won. You know, the Russia wanted to
+topple
+Zelenskyy's regime, maybe take Kyiv.
+They obviously failed in that. Now,
+we're in this phase where the fighting's
+over in the Donbas. It's basically the
+civil war that's been going on there
+since 2014.
+And
+and and really that's what it's now
+about. Zelenskyy has acknowledged that
+Ukraine will not be part of NATO. So,
+that issue is kind of off the table. And
+so, what they're really fighting over
+now is the status of these disputed
+territories in eastern Ukraine.
+And I think it's going to go on for a
+long time. That's what, you know,
+General Milley testified it could go on
+for years. I think it's going to become
+a sort of permanent feature in the
+background of Biden's presidency.
+And I mean, I think the good news is
+that hopefully the World War III
+aspect is off the table, it seems like.
+The calls for us to impose a no-fly zone
+or to put boots on the ground, which you
+you were hearing a lot of a few weeks
+ago, seems like that's off the table.
+So, now this is going to be a
+protracted, I think
+civil war going on in the Donbas
+with between Ukraine and and
+Russia and their proxies. Which would
+mean
+Sax, correct me if I'm wrong, that Putin
+will be hobbled forever. They're not
+going to be a world power, and his power
+is going to deprecate because he's going
+to be busy fighting this non-winnable
+war for some period of time, which is in
+a way saying Biden did it perfectly and
+checkmated him.
+So, I'm saying that's going to be your
+assessment if this actually goes down
+this way, that there's like a civil war
+going on, and and and Putin is crippled.
+That would be checkmate or no? I think I
+I think that clearly the the State
+Department's strategy here is to make
+Putin bleed in eastern Ukraine and to
+protract this thing and make it go on as
+long as possible. I think that's a risky
+strategy because this thing could always
+spin out of control.
+It's risky, but could it be effective?
+Is there a chance it could be effective?
+Well, I mean, if the goal is to bleed
+bleed Putin, yes, it could be effective
+at bleeding Putin. However, I don't know
+that that needed to be the key
+geostrategic objective of the United
+States right now. I don't I don't hold
+on. I don't know because look, China is
+our main threat. China is a pure
+competitor to the United States. Russia
+is not. Our economy is 15 times bigger
+than Russia's. China's economy is about
+the same size as ours. That is the real
+threat. So, you know, there are costs to
+us as well. There are clearly costs to
+Putin of this, but there are huge costs
+to us as well. Freebird described the
+risk to the supply chain. We've had to
+now spend a lot more money building up
+the defense in Europe. We're going to be
+pinned down in Europe.
+We should really be moving some of those
+resources
+from Europe to to East Asia. I mean,
+that's really where the pivot to Asia is
+what we thought we were supposed to be
+doing until quite recently. Now we're
+going to be bogged down there.
+And there's still risk of inflation and
+recession in the US. And I think if we
+are in a recession later this year, I
+think a lot of people in the US will be
+asking, "What was this all for?"
+And if you go read my article that just
+came out yesterday which was based on my
+speech, um
+it's published in the American
+Conservative. Look, this war was easily
+avoidable. I mean, the State Department
+could have avoided this war very easily.
+your I listened to your speech. I
+thought your points that you were very
+clear on, "Hey, Putin started this. He
+is the aggressor. It's his
+responsibility." But, you know, we do
+need to think about our foreign policy
+as a country and regime change is
+probably not a winning strategy for us.
+Although, in this case,
+it might It seems like it's a
+possibility now. So,
+who knows? Uh I don't I don't think
+we're going to get regime change, but if
+we do, there's no reason to believe that
+we're going to get something much
+better. In every case where we push for
+regime change, we've actually gotten the
+same or worse.
+Um so, yeah, I don't think that should
+be our objective. Um
+you know, I look, I think we have a
+bunch of bad options now that the war
+has already started. The best option
+would have been to avoid this war in the
+first place. And if this thing drags on
+for years and the US economy tips into
+recession, people will look back and
+say, "Why didn't Joe Biden's State
+Department in the year 2021 do a much
+more effective job preventing this war?"
+Let me ask you Let me ask this follow-up
+question as we wrap here. Um Chamath,
+uh I've been thinking about what it what
+should a strategic objective be for
+America? And the number one strategic
+objective I could think of was
+uh or one of the top ones would be to
+build a strong relationship with India,
+which obviously uh you know, it has an
+adversarial relationship with China
+already on the border of Pakistan and
+then obviously
+you know, has relations with Russia.
+What would be on the top of each of your
+list, Sachs and Chamath? Chamath, you go
+first on
+priority here if we're thinking fresh,
+looking at the world with China in
+retreat uh sort of disengaging from the
+West with Russia on their heels. What
+could the United States and the West do
+as a preemptive measure to really
+solidify democracy and you know, the the
+world order, a peaceful world order?
+I'll answer it slightly differently,
+which is we need to put ourselves in a
+position to not be dependent on any
+country.
+Because then we can actually dictate
+what we think the right approach and
+solution is from first principles and
+have the courage to stick it through to
+get to the other side of it. So, there
+are really two things we need to do. The
+first
+which we've kind of perverted
+unnecessarily is energy independence.
+And we've allowed too many people to
+conflate and muddy the water on what
+energy independence means. You know,
+nobody's Nobody was ever advocating for
+coal, but you know, the amount of coal
+that we could have burned as a bridge
+fuel to LNG, which could have been a
+bridge fuel to things like nuclear and
+and wind and solar, that path was pretty
+clear, but we got in our own way. We
+have to get out of our own way, okay?
+So, energy independence, I think beyond
+anything else
+strategic yeah
+probably an order of magnitude, it is
+the most important thing.
+And then secondarily,
+there are certain areas for the future
+of those future economies where we need
+to have complete capability and
+know-how, and the most important ones
+there are the specialty chemicals that
+we need, specialty chemicals
+that we need to basically support
+climate change writ large, to support
+battery production writ large,
+and then semiconductors. Get those two
+things completely under US control
+on top of energy independence, and
+honestly, we would be a dominant world
+power for the next 200 years on our
+terms. So, the road to resiliency,
+Sachs, you're now the
+Secretary of State, what are your key
+priorities? The US grand strategy has
+always been to prevent the rise of a
+pure competitor who can dominate their
+region and then challenge us for global
+hegemony. There's only one country in
+the world that can do that right now to
+us, which is China.
+So, the pivot to Asia, as Obama said,
+was fundamentally correct, but we have
+not followed through and executed it.
+And now, our attention is distracted and
+bogged down by what's happening in
+Europe. I would seek a negotiated
+settlement to this war. Now that the
+Zelenskyy government has survived, Putin
+has been unable to take Western Ukraine,
+and furthermore, that Zelenskyy has
+given up being part of NATO, the only
+thing left
+Okay, so wrap it up. is this is this
+fight in the Donbas. There's a There's
+an agreement already on the table called
+the Minsk Accords that could allow us to
+settle that. Meanwhile, pivoting to Asia
+Yeah. Wrap it up. Meanwhile, pivot to
+Asia, create a strong alliance of
+countries in East Asia who are
+threatened by China. We already are
+friends with many of them. You've got
+Japan, South Korea,
+Taiwan, you've got um Vietnam. Create a
+balancing alliance of those countries to
+prevent
+China from rising to the point where it
+can threaten us for global hegemony.
+That should be our main priority
+geopolitically. Great. Uh all right,
+there you have it, folks, for the Rain
+Man, David Sacks, the dictator Chamath
+Palihapitiya,
+and the Sultan of Science, David
+Friedberg. I'm your boy, J Cal, and we
+will see you all in Miami May 15th,
+16th, and 17th.
+Love you, boys. Bye-bye. Love you,
+besties.
+Bye-bye. Bye-bye.
+You got to let your winners
+Rain Man David Sax.
+And I said, we open sourced it to the
+fans, and they've just gone crazy with
+it. Love you as Queen of King Wah.
+Besties are back.
+And if my dog takes a dump in your
+driveway, Sax.
+Oh, man.
+Casheroo, meet me at the bunny ranch. We
+should all just get a room and just have
+like one big huge orgy cuz they're all
+just useless. It's like this like sexual
+tension that they just need to release
+somehow.
+What? Wet your feet, [&nbsp;__&nbsp;] Wet your Wet
+your feet.
+What?
+We need to get Mercy's
+Besties are back.

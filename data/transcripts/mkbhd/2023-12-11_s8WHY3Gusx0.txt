@@ -1,0 +1,544 @@
+# F1: Explained!
+# https://www.youtube.com/watch?v=s8WHY3Gusx0
+
+all right so you like me might have seen
+a lot of Formula 1 recently a lot of
+races a lot of famous drivers a lot of
+drama and exciting stories it's taken
+over my timeline on Twitter many times
+basically a ton of you guys have been
+sending it to me asking hey are you
+watching are you paying attention to
+this stuff and uh so I finally caved and
+I've started watching it and I'm really
+glad I did so in this video I'm going to
+tell you guys why I think corul 1 is
+super cool why I started watching and
+while you should probably be watching
+Formula 1 too from the stories to this
+to the tech to The Innovation to the
+race day
+experiences this is Formula 1 let
+[Music]
+play so shout out to sponsor bid
+Defender for making this video possible
+they reached out because they are a
+Ferrari team partner so they're on the
+Ferrari car and the helmet and they have
+a lot of parallels in the tech world
+with cyber security and safety so we'll
+talk more about that in a minute but for
+now I'm so glad that y'all put this on
+my radar because I love it now just
+because on the surface it is just a car
+race which is already pretty cool it is
+also at the same time the world's
+highest end Tech competition it's a
+science fair so at the most basic level
+the sport is a year-long season of car
+races on different tracks around the
+world and Formula 1 has a long and Rich
+history I don't need to give you a whole
+history lesson here but there's been a
+massive amount of changes going from
+stuff like this like a pretty simple
+looking tube with an engine and wheels
+to to this aerodynamic work of art made
+from the most advanced materials on the
+planet but the most interesting part
+about F1 that I love is that there are
+actually two championships at the same
+time each season there's the driver's
+championship and the constructor's
+championship so yes every driver is
+going to try to get around the track as
+fast as possible but the structure is
+there are 10 teams each team has two
+active drivers and so every race a
+driver can get points for how high they
+finish those add up at the end of the
+season to get a winner but there's also
+points for the engineering teams behind
+each car and they also get points that
+add up to a championship at the end of
+the year and this this is what I mean
+when I say it's a science fair cuz look
+every sport has rules right every like
+golf all your clubs need to be within a
+certain spec and the basketball hoop is
+standardized right but having the best
+equipment in F1 is incredibly
+advantageous as you might suspect and
+you're allowed actually encouraged even
+to improve your equipment between every
+single race you are constantly working
+on your equipment in so many ways F1 is
+the sport with the most tech involved
+like these teams are spending millions
+and millions hundreds of millions of
+dollars to find SL invent any little
+Improvement that they can come up with
+to give themselves The Edge every single
+week they're fighting for tenths and
+hundredths of a second it's incredible
+to see like you don't get from from here
+to here so quickly by accident there is
+a massive amount of engineering and
+experimenting that goes into optimizing
+every single little part of every car to
+be able to get around the track as fast
+as physically possible to get as many
+points for the championship every season
+within the rules and yes there are still
+rules this is important so the FIA is
+the governing body in charge of F1 and
+they are charged with the impossible
+task of maintaining a set of rules that
+keeps every fair and safe but still
+allows room for and encourages
+Innovation and tweaking things so you
+can actually look up the rule book
+yourself there's 183 page pdf online
+I'll leave a link below like button if
+you want to flip through it yourself and
+there are so many interesting rules in
+here some of them to keep racing
+strategies interesting like the
+requirement that every single driver
+uses at least two different tire
+compounds during the race I'll explain
+that in a minute there are also plenty
+of safety related rules which again is
+why a company like Bit Defender really
+makes sense to be here so so these are
+Open Wheel open cockpit race cars but
+every single one of them as you'll see
+no matter what has this titanium
+reinforced ring around and above the
+driver's head called a Halo this thing
+is not designed by the teams this is
+designed by the FIA and the teams get
+them from one of the approved
+manufacturers and they have to put them
+on their car there was initially some
+push back against the Aesthetics of it
+but every single year since its
+introduction in 2018 it's continued to
+prove its worth in the safety department
+like you can literally go watch race
+footage of incidents where the Halo
+saves lives since it can literally
+support the weight of another entire car
+on top of you or if it gets flipped
+upside down so you can bet that's why
+Bit Defender wanted their logo
+specifically on the Halo of the team
+Ferrari car so Bit Defender is a leader
+in cyber security which means they value
+innovation safety and quick reactions
+which is tied right into F1 so you can
+see why it makes sense for Bit Defender
+logo to be on the most important safety
+features of the cars they're also on the
+helmet too by the way there's some other
+highle rules around the turbocharged V6
+engines they all use and the gearboxes
+ETC my personal favorite and funniest
+rule to me is also one of the oldest
+which is under every single F1 car is a
+plank of wood bolted to the bottom
+because one of the OG rules is to
+restrict just how low the car can ride
+another safety thing and so after every
+race they can inspect the plank of wood
+on the bottom of your car and if it's
+too worn down then your car was dragging
+too low to the ground and you have too
+much downforce and your car is illegal
+disqualified so just think about that
+next time you see one of those jet
+looking Marvel of engineering carbon
+fiber masterpieces flying around the
+racetrack just know that every single
+one of them also has this plank now
+actually made of fiberglass bolted to
+the bottom of it so you've got this rule
+book everybody knows the rules and then
+you've got all these teams independently
+working spending millions of dollars to
+try to find any experiment any little
+thing that might give their car the
+advantage around the track and naturally
+since it's so competitive these teams
+are incredibly secretive about
+everything they're doing but then the
+beautiful thing is if some team actually
+comes up with something that's good
+enough to give them a real Advantage
+even if it's a tenth of a second a
+quarter of a second a half a second per
+lap that's
+massive eventually all the other teams
+will pick up on it and will find a way
+to build it and implement it themselves
+it's just this ecosystem of all these
+constantly improving features and you
+can see them stacking on top of each
+other over and over again so what
+exactly are these improvements you might
+be wondering great question here are
+some of the biggest ones and basically
+every single one of these has an amazing
+story behind it of how someone on an
+engineering team had an idea and then
+they decided to try it and then it
+worked and it stuck so one of the most
+obvious is the wings right of course we
+see Wings everywhere on today's cars but
+believe it or not F1 cars didn't always
+have wings they just relied on pure
+mechanical grip from the tires but you
+know how if you stick your hand out the
+car window and then tilt it it'll push
+your hand up or down same thing with a
+wing on a car it can push parts of the
+car up or down into the track for more
+grip and faster cornering so it started
+off as a very small experiment on the
+front axle and very quickly it started
+working and now they all have front
+wings and rear Wings fun fact one team
+did actually once try a mini extra front
+wing on a car in 2001 it didn't really
+work out so you don't really see that
+anymore the cars today have tons and
+tons of aerodynamic features
+multi-layered front Wings small air
+steering little bits like fins near the
+middle of the car it's crazy how many
+details there are if you ever actually
+get to look at one of these things
+another huge advancement is something
+called Kur an acronym for kinetic energy
+recovery system basically a system to
+capture energy created by the spinning
+wheel and turns it into energy in a
+battery that can be deployed as boosts
+later so the first teams to try this
+kind of stuff they actually found it was
+a little bit too heavy and it worked
+kind of sometimes didn't necessarily
+guarantee a win fast forward a couple
+years and it's developed over time and
+paved the way for today's hybrid F1 cars
+which use similar Tech called ERS and
+mguk now you might have also heard of
+this one DRS this one's pretty simple
+actually so yeah there's a ton of
+downforce from the aerodynamic features
+of this car and that helps it stick to
+the ground during these planted turns
+but that actually technically slows it
+down in a straight line so teams
+engineered a drag reduction system a
+button that you press that changes the
+arrow of the car opens up lets it cut
+through the air more quickly and it
+works really well so at this point not
+only do all the cars have it but it's
+actually literally written into the
+rules when you can use it to maximize
+racing excitement there have been plenty
+of other massive technological
+innovations over the years that have all
+been pioneered by just some engineer on
+a team who had a good idea that have
+turned out to be huge from putting the
+engine behind the driver to the monoco
+chassis to the ground effect
+aerodynamics to to paddle shifters all
+of them adding up to absolutely insane
+cars of today in 2023 these cars are
+clawing for maximum grip around every
+corner they're hitting 200 plus mph in
+straightaways and then pulling five to
+six G's under breaking and
+turning five to six
+G's is about as much as you can feel
+anywhere on Earth other than an airplane
+so this is why F1 is often called The
+Pinnacle of Motorsports and I totally
+agree like there are technically cars
+that are a little bit faster in a
+straight line from a standstill you
+might see some of these videos on
+YouTube my car actually is but the
+second you get to a turn it gets really
+obvious the difference in braking grip
+acceleration out of a corner just the
+control you have over the car it's
+honestly incredible and it's it's one
+thing to see it on TV like you can tell
+they're going pretty fast and the
+broadcasts are super cool there's sensor
+data everywhere live speed readouts
+cameras on every car but seeing it in
+person gave me an entirely new level of
+respect for all of it so this is the
+Ferrari car the day before racing
+started this past weekend in Las Vegas
+this car is so much lower and actually
+bigger than you might expect it to be
+there was also so many little
+aerodynamic shapes and pieces and carbon
+fiber everywhere as I mentioned before
+the tires are also gigantic and the
+driver sits so much lower than you might
+expect actually bid Defender also let me
+try a full-on F1 simulator in their
+performance zone out here in Vegas and
+the most noticeable thing actually is
+just how low you sit your feet are kind
+of back up in the air right below eye
+level which is where the pedals are in
+the car it's just funny picturing all
+the drivers now in their cars like this
+but what really got me is just seeing
+how fast they move I cameras just don't
+do it justice I promise it's really
+really impressive stuff and then there's
+obviously the noise and the smells and
+the the vibration through your chest
+like none of that happens through the
+broadcast so when Bit Defender reached
+out and offered to get me to the Las
+Vegas Grand Prix to help make this video
+I couldn't say no so this is the second
+to last race of this 2023 F1 season a
+super cool race built into the city of
+Las Vegas like one of the straightaways
+is literally the Las Vegas Strip and
+points are available for the driver's
+championship and the constructor's
+championship so what is a race day
+experience actually like well here's
+what to look out for so first of all an
+F1 Grand Prix is actually a several days
+long event uh first there's practice
+days then there's a qualifying day then
+there's the race day so the practice day
+is actually just a fascinating thing to
+watch on its own because it's a practice
+for both the drivers and the teams
+engineering the cars so there's a set
+amount of time that these teams get to
+send the drivers out in their cars to
+see how much faster or slower certain
+setups are they all go flying around the
+track at once for the first time and
+drivers will literally communicate with
+their teams from a radio in their helmet
+about how things are feeling oh you know
+a little more downforce here would be
+nice a little more stiffness here would'
+be nice so they might do a quick pit
+stop to swap out not just a different
+set of tires to see how those feel but
+they might completely bring it back into
+the garage and tweak some of the entire
+car setup before they bring it back out
+for another lap and try out some more
+major adjustments all within the rules
+of course you might have seen the
+headlines this Las Vegas one the
+practice day got a bit interrupted
+because one of the cars went over a
+manhole cover so fast that the ground
+effect aerodynamic force from the car
+sucked the manhole cover out of the hole
+in the ground and damaged the car and so
+they had to go around and weld all the
+manhole covers shut pretty insane so
+then the next night is one more practice
+session and then qualifying so
+qualifying is actually pretty simple
+it's go out and set your absolute
+fastest lap time with your car Whoever
+has the fastest lap time will start the
+race in first place and whoever has the
+slowest lap time will start in last
+place so even this gets pretty exciting
+because once again everyone is out here
+now trying to set their qualifying lap
+as fast as possible and they're all
+trying at once so sometimes there's a
+little traffic or a little bit of drama
+and there's actually three qualifying
+sessions in a row elimination style so
+you start with 20 drivers the first
+session eliminates the slowest five the
+second session which is a little shorter
+eliminates the next slowest five and
+then the third and final session is the
+top 10 fastest laps in order from 1
+through 10 and so everyone is after that
+precious first spot on the grid AKA pull
+position I think the real time all the
+data I went down to the garage when they
+were starting qualifying those guys are
+looking at monitors with everything
+about the car in real time as it's
+driving on a graph being traced on a
+screen it's sick it's a science fair so
+there's no screens out here so you kind
+have to follow like on the app you can
+only see the finish line but final
+qualifying Ferrari 1 Ferrari 2 I didn't
+plan that they're just fast so then the
+third and final day of the Grand Prix is
+the race and a lot of people will not
+get to go to an F1 race in person but it
+is really intense like every they're all
+dialed in now they're all rolling out
+their absolute best and final version of
+the science fair project with their best
+pilots and they're all going to now pit
+him against each other so race is
+typically about 90 minutes it's always
+190 m in this case 50 laps and if you're
+doing the math in your head yes that
+does mean they are averaging well over
+100 m an hour for the entire race pit
+stops included but then actually one key
+thing to look out for while you're
+watching the race is Pit Stop strategy
+so most pit stops during an F1 race are
+super quick 2 to 4 seconds and it's
+mostly Just Tires now they are capable
+of doing some more extensive repairs
+during pit stops but those also
+definitely take longer so sometimes if
+you have like a damaged Wing or
+something they'll just continue on with
+it because it's faster to not actually
+replace it the winner of the race this
+week actually did that and so one of the
+last biggest rules in F1 that I haven't
+even mentioned yet amazingly is the
+tires so there's a predefined set of
+tires available to all of the cars that
+are again not designed by the teams
+they're speced by the FIA under the
+rules to be exciting for racing and
+basically there's a set of them ranging
+from softest and grippiest all the way
+to hardest and most durable depending on
+the rubber compound so the softest tires
+are going to be by far the grippiest and
+fastest around the track they can be
+good for a few seconds faster per lap
+but believe it or not they're so soft
+that they will wear down incredibly
+quickly and can be completely cooked in
+10 to 20 laps and so you will need to do
+a pit stop which will cost you a little
+bit of time but then the hardest
+compounds are technically slower per lap
+less grip but they can go way more laps
+without a pit stop so these drivers are
+not only jocking for position to drive
+their best but teams are also putting
+together Pit Stop strategies because
+every car is required by the rules to
+use at least two different tire
+compounds during the race which produces
+a lot of really fascinating scenarios
+where one driver is ending the race with
+a different set of tires than another
+depending on their strategy it is wild
+it's super interesting to watch it's
+like chess but the pieces are moving at
+200 mil hour and in curves and
+everything it's amazing it's it's
+another reason why Bit Defender aligns
+itself so well with this stuff because
+again they're a leader in cyber security
+in cyber security you have to respond
+you have a strategy to start things but
+things can go very wrong and so they
+have to be able to adapt in real time
+and that's a lot of the same things
+these drivers are doing that these teams
+are doing when strategies fall apart
+they got to tweak things they got to
+adjust they got to edit it's Al it's
+very complicated so there's all this
+technology all this strategy all of
+these incredible machines but at the end
+of the day you just got to get out there
+and win the race you know so get in the
+slipstream play defense attack breaking
+zones use your machine's specific
+advantages to get that rare overtake and
+just all of this being put together it's
+like art on Wheels there's plenty of
+YouTube clips out there there's a
+Netflix documentary you've probably
+heard about it is amazing to watch and
+then the cherry on top for me is all the
+effects that formula one has on the
+world outside of Formula 1 it's a bigger
+thing you might think like the obvious
+one is that okay some of the highest end
+most amazing Innovations from trying to
+make the F1 cars faster will eventually
+maybe trickle down into the road cars
+that we have today and that's true
+that's real so the Ferrari team might
+find something cool that works on the
+racetrack in 2023 and then in 2029
+they're working on a simpler less
+expensive version but that's very
+effective for a Ferrari that someone can
+actually buy DRS paddle shifter
+carbon fiber all there's lots of
+examples of things that originated in F1
+cars that have made their way to cars
+that exist today which is super cool but
+then there's some of the less obvious
+things like a race kind of changes a
+whole city forever kind of like the
+Olympics now a lot of races are on
+dedicated purpose-built racetracks so
+the effect's not as huge but there are a
+few special races during the season that
+are built into the city streets which
+are way cooler in my opinion even if
+they present a number of very unique
+challenges and then the winning or even
+just participating is a huge marketing
+win for all of these companies obviously
+if you have a team dedicated to the
+highest end of Motorsport pushing the
+envelope with Innovation and
+Engineering the ad copy basically writes
+itself so thanks again to bid Defender
+and team Ferrari for helping make this
+video possible I got to learn a lot
+about them too and actually the fact
+that Bit Defender technology is actually
+used by Ferrari to protect their top
+secret Innovations but now
+I'm a fan I'm going to be watching F1 I
+hope you enjoyed this video I my goal
+for this whole thing was to hopefully
+have you be able to watch a video watch
+an F1 race and not necessarily know
+everything that's going on but to be
+able to better appreciate the race and
+the engineering and the spectacle of
+what might happen
+next thanks for watching subscribe for
+more catch you in the next one peace
+[Music]
+go

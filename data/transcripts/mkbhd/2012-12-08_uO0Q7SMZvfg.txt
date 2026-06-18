@@ -1,0 +1,130 @@
+# Rooting & Jailbreaking: Explained!
+# https://www.youtube.com/watch?v=uO0Q7SMZvfg
+
+The explain series is
+back. Hey, what's up guys? MKBHD here
+and ever since my Super Nexus project
+video, I've gotten a lot of questions
+about what exactly it means to root an
+Android device. And we'll cover the
+jailbreaking part in the end, but
+basically people want to know what
+exactly it means and what it entails to
+root an Android device. So, by
+definition, root is having the ability
+to write to the root of the system
+partition. That's the basic definition
+of what it means. And once you've
+rooted, you've opened up a whole bunch
+of different possibilities that allow
+you to do a ton of different things and
+allow a little bit more control over
+your phone or tablet or any Android
+device. Once you root, you can get rid
+of all those pesky carrier installed
+pre-installed apps that you don't want.
+And you can install and use a bunch of
+root only apps that only work on rooted
+phones, which give you even more control
+than you had before. And as Adrian from
+XDA developers points out, there are a
+ton of great root only apps for your
+device and for tons of Android stuff if
+you Google it. And frankly, it's these
+features from these root only apps that
+end up getting implemented into newer
+versions of Android. So, you used to
+need Routt to, for example, take
+screenshots. Now, that's built in to
+Android. You need to need root to tether
+with an Android device, now that's built
+into Android as well. So, if you want to
+be on the bleeding edge of features and
+new customizations and new things to be
+able to do with your Android device,
+whether it's a tablet, a camera, or a
+phone, or whatever it is, look into
+rooting and root apps. If you want to
+backup and restore app data, add themes
+to Android, change your boot animation
+or change your entire ROM altogether. If
+you want to take a device running one
+version of Android and flash and install
+a newer, more updated version of Android
+without waiting for your carrier to push
+it, you can do that if you're rooted.
+So, the most common question after that
+is how do I root my device? So,
+basically the way to find out how to
+route your device since it is just
+slightly different for every device is
+to Google the exact model of the device
+you want to route followed by, you know,
+rooting instructions. and chances are
+you're going to find the exact
+instructions you need. So, for example,
+I have a Verizon Samsung Galaxy S3. So,
+if I Google how to route Verizon Samsung
+Galaxy S3, chances are you're going to
+find a direct set of beginner level
+instructions that'll help you figure it
+out. Now, yes, rooting does void your
+warranty. But, as I like to say, you
+don't even really own the device until
+you've voided the warranty. But chances
+are if you do screw up, if you have a
+device even slightly newer than the
+original Motorola Droid, there is a
+community behind that to back you up and
+help you get fixed problems. Oh yeah,
+and you can unroot. So yeah, on the iOS
+side, it's called jailbreaking. As you
+probably already know, you can jailbreak
+iPhones, iPods, and iPads. There's also
+a huge jailbreak community as well. So
+if you want to jailbreak your device,
+it's similar to rooting. It's not
+technically the same, you know, gaining
+route, but it is very, very customizable
+and you can add a whole bunch of
+features and things to your device that
+weren't previously available. For
+example, in iOS, you used to need to be
+jailbroken to add wallpapers. Now that's
+built in, so go figure. Again,
+jailbreaking does void your warranty,
+but if you're up to it, Google the
+instructions for your specific device
+and you shouldn't have a problem. A lot
+of websites are really helpful. If you
+visit a very certain website on your
+device that you want to jailbreak, you
+can actually just push a button on the
+website and it'll jailbreak you through
+that website. So, it's really easy for
+both Android and iOS to get more control
+over your device. Whether you want to
+root or jailbreak, it's up to you. And
+for the most part, you can tell if a
+guide is trustworthy by reading the
+comments below it. If there are a lot of
+comments, a lot of success stories, then
+chances are it's trustworthy and you can
+go for it. So, get cracking. Either way,
+thanks for watching this quick video on
+rooting and jailbreaking explained. It
+was a pleasure. Hopefully you guys go
+out and uh get that customization going
+on in your devices. Again, the Super
+Nexus project, which you can click on
+this device to watch, was done after I
+rooted the device. So, once you root,
+you'll get the control and you'll be
+able to do all these things. Either way,
+thanks for watching. Hope you enjoy the
+video, and I will talk to you guys in
+the very next one, which should be sort
+of a collab video. So, hope you're ready
+for that. Peace.
+[Music]
+Heat.

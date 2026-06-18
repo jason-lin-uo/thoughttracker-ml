@@ -1,0 +1,308 @@
+# Mac Pro Unboxing & Second Impressions: The Power is Back!
+# https://www.youtube.com/watch?v=DOPswcaSsu8
+
+[Music]
+yeah it's a gas mkbhd here and yeah some
+secrets are harder to keep than others
+but this is a good one so for the past
+two weeks I've been using the new Mac
+Pro which means every video you've seen
+since then since the MacBook Pro review
+has been edited on the Mac Pro thank you
+very much for watching catch you later
+base but also low-key though you guys
+didn't know about this but that's
+another video so yeah this is something
+I've been personally waiting for for the
+better part of the last six years or so
+since the 2013 trashcan Mac Pro came out
+and in tech years that's like forever so
+while it's a bit early to do a full
+review I figure I might as well give you
+my second impressions or my impressions
+from using it daily for the past two
+weeks
+[Music]
+so the box is clearly really interesting
+there's some velcro on each side you get
+past that it's really sturdy it does
+kind of remind me of the original cheese
+grater Mac Pro box but a little nicer on
+one side got your magic keyboard in its
+own box and on the other side you have a
+Magic Mouse a magic trackpad and a
+braided black lightning cable and I'll
+get back to those in a minute then the
+last step to getting it out the box is
+gripping it by those top handles and
+this thing is pretty heavy it's solid
+metal so I guess I shouldn't be
+surprised but it is very dense and then
+in the Box we just took it out of on the
+bottom you have your designed by Apple
+in California pamphlet and underneath
+that is another braided cable this one's
+the power cable and it's definitely
+sturdy and high-quality for that 1400
+watt power supply and as a matter of
+fact in with the rest of the Mac Pro
+paperwork you do in fact get yes to not
+one but two gigantic black Apple
+stickers these are got to be the biggest
+Apple stickers I've ever seen maybe you
+can put them on your car or something
+so yeah new Mac Pro and as you can see
+two new protists play XD ours on their
+nifty thousand dollar stands that I've
+been using for the past two weeks we saw
+this already at WWDC and I gave my first
+impressions there I'll link it below if
+you want to rewind that a bit but this
+is like a second impressions so here's
+the specs of this machine that I've been
+using it's got a maxed out 28 core Intel
+Xeon w CPU 384 gigs of 29 33 megahertz
+RAM and two of the AMD radeon vega pro 2
+MPX modules with 32 gigs of VRAM on each
+card and then there's four terabytes of
+storage and it does have the afterburner
+card so not maxed out but as you can
+tell very nicely equipped I probably
+will end up getting something around
+this same spec and the 8 terabytes of
+SSD storage since that's just a massive
+amount of room and probably some more
+RAM and actually any about this Mac tool
+on the Mac Pro gives you this visual now
+of not only your storage but your DIMM
+slots of how you're using the 6 channel
+RAM you can see this one's using half of
+the slots right now and the PCI slots so
+you can see this top one is Apple's
+built-in card the afterburner card is
+below it and then the 2 MPX modules
+which are double height with the Radeon
+Pro cards below those and it even shows
+which unpopulated PCI slots is blocking
+so to share a few things we'll notice
+right off the bat first of all the
+accessories that comes with the mouse
+the keyboard the Magic Trackpad
+are all black so on my desk for a while
+I'd had the Space Gray keyboard and
+trackpad that came with the iMac pro now
+you have a black trackpad with a silver
+base and black bottom and a magic
+keyboard that's black keys with silver
+base and even the Magic Mouse that it
+comes with goes from a Space Gray top
+and bottom two silver bottom with a
+gloss black top now I don't know how
+many people buying a Mac Pro
+are sticking with the magic keyboard and
+Magic Mouse but hey it's a nice touch
+and then the thing is just I know it's
+off camera because it's under my desk
+right now but it is built really well
+and of course the cheese grater look we
+all refer to it as is very distinctive
+there's like little spheres in the front
+with circular cutouts on the edges of
+those spheres hopefully that explains it
+but all around
+tight tolerances not really any
+unnecessary gaps anywhere it's clean
+there's also an option to get it on
+wheels in the Apple store but as you can
+see this one that doesn't have the
+wheels just got metal flat feet but I
+think I might actually want to get the
+wheels possibly and then the ports so
+okay the main accessible ones that are
+on the top front are just your two
+Thunderbolt ports which are next to the
+power button and the little white
+glowing power indicator that's pretty
+basic then at the back you get by
+default to full-size and then two more
+Thunderbolt ports and a headphone jack
+and then each GPU module is given you an
+HDMI and for more Thunderbolt and then
+all the way at the bottom next to power
+is dual ten gigabit ethernet ports nice
+and that's not a sarcastic nice either
+that's like actually really useful for
+me for me that's the superfast internet
+we can go wired in and the jellyfish
+drives that we headed off but yeah only
+two full-sized USB ports I kind of would
+have liked to have seen a little bit
+more than that many many legacy
+peripherals at this point that a lot of
+mac pro users continue to use aren't
+updated to USB type-c yet so for me I
+instantly populated those that was the
+the receiver for my mouse and the SD
+card reader so already that's full there
+was also an internal USB a port but I
+found that when I put the mouse receiver
+inside it tends to start glitching and
+sort of get worst reception so I never
+really put that inside so yeah not ideal
+I wish there were like two more USB a
+ports on the back there maybe I should
+just get another USB C card reader
+because at this point this is my only
+USB type-c card reader and I kind of
+hate that anyway okay opening up the Mac
+Pro is really as simple as it looks
+there are no thumb screws like normal
+cases it's just a huge twist latch at
+the top rotate it half way and the
+entire shell slides off cleanly exposing
+the insides simple as that so that's
+where on one side you can see the
+motherboard the top containers on the
+right side here hold the RAM and then if
+you flip it around you can see there's
+your PCI slots the big MPX modules with
+the graphics cards at the bottom and on
+the long afterburner card right above
+them and a CPU and the heatsink for it
+are up at the top and you can also see
+that internal full-sized USB a port
+right above Apple's built-in card so I
+have two main takes that I've noticed
+from using this computer for the past
+two
+one it's really quiet and two it's
+really fast the quietness is pretty
+objective I mean you can put it it's
+four feet from the mic right now and you
+can't really hear it but in a normal
+office environment it's not the loudest
+thing in any room hard drives are louder
+than it any fans anything else in the
+area is louder it's very quiet I don't
+keep it on my desk because there's not
+enough room with the speakers but I
+could and I'd be fine really the main
+reason it's so quiet is because they've
+minimized fans there's really just in
+this Mac Pro one fan for the power
+supply on one side and then three large
+fans at the front just blowing air
+through all the time so there's no
+dedicated water cooling pump or CPU
+cooler fan or GPU fans or anything
+separate like that everything inside is
+passively cooled and just depends on the
+airflow coming through from the three
+big fans at the front that's what makes
+that cheesegrater hole design so
+important it's really an airflow design
+and that's also something to keep an eye
+on down the road and it's also
+potentially concerned as Linus mentioned
+in his first impressions video of dust
+getting in because there is no obvious
+air filter in front of or behind any of
+these fans I like that it doesn't intake
+air from the bottom that means I can put
+it on any carpeted surface and be fine
+but we have to keep an eye on dust that
+might eventually make its way into the
+Machine and affect thermals we'll see
+but also yeah it's really fast as you
+would expect from something with 28
+cores and 384 gigs of RAM here's the
+geek bench score you know it's great
+it's the highest I've ever seen on any
+computer love that I also did a black
+magic disk speed test and as you'd
+expect from the internal SSD three
+gigabytes per second again hilariously
+fast but if I can just hold off on
+benchmarks for a minute
+the main place I'm noticing the
+difference is the main place where my
+workflow is heavy the main reason I
+wanted a Mac Pro and that's in video
+editing so for me that's Final Cut Pro
+so if you remember the the rendering
+speed test I did in the MacBook Pro
+review I've rendered out this clip from
+red raw and I had my times for the
+MacBook Pro and the iMac Pro well I
+couldn't tell you guys in that video but
+I also tested the Mac Pro on that same
+test so the render speeds for this
+MacBook Pro were about 20 minutes
+they're under speed for the iMac Pro
+brought it all the way down to around 11
+minutes and
+MacPro did that same test and exported
+it in four minutes and 20 seconds Wow
+just for some reference for some people
+who might not appreciate that that's
+exporting that's transcoding an 8k red
+code clip I typically shooting around an
+8 to 1 compression ratio as I did with
+the test clip 2 to 1 aspect ratio no
+background rendering and just went
+straight through in faster than real
+time so it was a 5 minute clip on the
+timeline exported the whole thing in
+less time than it would take to just
+watch that clip so yeah that's pretty
+great I will get much more into detail
+in performance and how well it does in
+the full review which will be coming
+later and if you guys have more
+suggestions for different ways that you
+want me to test it that's welcome in the
+comments section below specific
+workflows and things like that but I've
+been very happy with the performance and
+none of this has even been taking
+advantage of the afterburner card yet
+because that's optimized for pro res
+footage and playback I've been shooting
+in our 3d read raw but I will of course
+give this shot with pro res footage for
+the full review as well that's what it's
+made to streamline but in the meantime I
+am super pumped about Mac Pro my two
+weeks with it have been relatively
+pain-free just setting everything up
+again I'm interested in what you want to
+see in the for review but my take is
+this is one of those tools that I'm just
+excited about as a creator I feel like
+at this point you know 2019 2020 it
+takes a lot to get me inspired as a
+creator because the tools I have in my
+disposal are so unlimited like there's
+no way I can take this camera to its
+full potential but I was pretty
+consistently pushing the iMac pro the
+fastest machine that runs Final Cut Pro
+to its full potential so it's not like
+magic it's not like having this Mac Pro
+is going to make my videos better or
+make anyone's videos better but it's
+just it's it's sort of a Headroom
+unlocker essentially it pulls down the
+barrier for what I'm willing to try as a
+creator because of power or speed or
+time and I think for a lot of other
+workflows this represents the same thing
+so yeah thank you Apple for making this
+and thank you for watching this second
+prescience video definitely be sure to
+get subscribed to see the full review
+when it comes out if you haven't already
+and uh looking forward to seeing your
+comments chat with you gather the next
+one
+base

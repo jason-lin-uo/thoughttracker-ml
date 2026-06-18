@@ -1,0 +1,826 @@
+# All-In Summit: In conversation with Vinod Khosla
+# https://www.youtube.com/watch?v=EIjxJM_KPsM
+
+please uh join me um welcoming venod
+kosla to Stage
+venod
+oh how are you how are you doing legend
+legend let your winners
+[Music]
+ride and in we open sources to the fans
+and they've just gone
+[Music]
+crazy
+wow thanks Legend how are you Legend
+venod good to see you just by way of
+background I think we all know venod um
+venod is a legend and a
+friend uh his Indian army officer dad
+wanted his kid to join the Army and
+venod decided instead to go into
+business after reading about Intel and
+getting inspired by co-founder Andy
+Grove an immigrant who got um funding
+for his startup in Silicon
+Valley venod later got a masters in
+biomedical engineering from Carnegie
+melon on a full scholarship Stanford GSB
+rejected him twice he finally got
+accepted and received his NBA 1980 and
+he worked at several startups some of
+which failed and then one of them worked
+out pretty good Sun Micro Systems
+started in
+1982 with his Stanford classmates Scott
+McNeely Andy beckim and um Bill
+Joy uh venod um raised $300,000 in seed
+capital from Venture firm Kleiner
+Perkins Cofield and buyers and within 5
+years son made a billion dollars in
+annual revenue he became a GP ecliner uh
+where he helped create an NextGen which
+he sold to AMD for 28% of its market cap
+the first successful Intel
+microprocessor clone company and his
+largest return to date maybe we'll talk
+about this today was Juniper Networks
+where the firm's $3 million investment
+in the 90s earned $7
+billion not bad in 2004 he launched
+coasta
+Ventures 2006 I pitched him and he
+rejected me me as an investor in my
+company I came back in 2011 and he led
+my series B and I had three competing
+offers and I picked V so um ven's been a
+great partner by the way I will also
+give you guys I had offers from um I
+guess I'll say it Founders fund and
+andron Horowitz for my series B venod
+gave me the lowest valuation and I still
+took his offer entry price matter did he
+add more
+value vod's whole point was VCS
+typically add negative value we're going
+to put a senator on your board that we
+know that knows this and that that firm
+and the other board members they brought
+and the partners they brought to the
+table for me were incredible and he's
+been a great um mentor and adviser I'll
+also say I always gave people advice on
+Veno because I get a lot of reference
+calls like should I take money from
+venod I heard he's pain in the ass
+sometimes and I'm like let me tell you
+something about venod I've never told
+you this in public but I said the thing
+about venod is you go into a meeting
+with venod and he's like the Oracle in
+Neo The Matrix you go in the kitchen and
+he's like you know she says no thyself
+she pulls out the chocolate chip cookies
+she said he says am I the one she says
+you're not the one kicks him out he has
+to ultimately decide what the right
+decision is and venod will cast for you
+a vision of all the things that you can
+become and and push you and try and make
+you extend your vision for your business
+and what is possible and through that
+thought through that conversation
+through the visioneering that he can
+help you do as an entrepreneur sometimes
+you need to listen and sometimes you
+need to ignore the advice he
+gives you but I will say that um the
+role he plays is is really important and
+I've seen it work across some of the
+most important companies in Silicon
+Valley in the world today so venot
+thanks so much for being can I just
+interrupt with one comment yes you know
+advice to all the entrepreneurs most
+we's want to be your
+friend and so they are hypocritically
+polite instead of brutally honest in a
+way that can actually help you make a
+better decision in in that's sort of
+religion for me I prefer brutal honesty
+to hypocritical politeness and when
+people don't do that they are actually
+harming the entrepreneur and having the
+entrepreneur like them more that's not
+my game and is that what you mean when
+you say V most VCS add negative value
+well they take a very shortterm
+approach uh just going through a
+situation companies being recapped they
+asked us to participate I
+said you are hanging on to revenue that
+is bad Revenue if you get rid of it and
+restart the company with positive
+Revenue in the right technology approach
+will partipate and even lead but they
+hung on to revenue since the beginning
+of this year by the way three years ago
+I asked them to take a technology
+approach as opposed to a people approach
+to the business they did not because
+Revenue came fast the technology took
+time to develop
+and they didn't invest in it now they're
+going back and I just got an email today
+saying they are happy to take our
+approach of really investing in the
+technology lower burn rate not try and
+show higher Revenue so they can be
+acquired instead build a company yeah
+that's fundamentally the kind of thing I
+run into constantly so I I want to start
+our conversation with AI um I'm going to
+kick this off you invested in open AI
+you've been in inting in AI technology
+as people are framing it today for some
+time can you share with us a little bit
+about how you became an investor in open
+AI in the context of the AI trajectory
+that you've been seeing for some time
+and also maybe give us a little color
+because we haven't had this question
+answered on our show about how open AI
+went from nonprofit to for-profit and
+what the future is for open AI well let
+me tell you a more General story first
+starting with the
+internet in 1982 when we started Sun we
+bet on on the
+Internet only company to bet on the
+internet 1996 since you brought up
+Juniper the internet was growing but not
+yet clear the the Senior Management of
+every major TCO in the United States
+told me they would never adapt tcpip on
+for the internet and I said fine will
+build Juniper to build tcpip Cisco told
+me they would never do tcpip above what
+is probably your home home service today
+oc2
+never um and so we built
+tpip why because we've seen the internet
+on an exponential and the flat part of
+the exponential looked very
+uninteresting and nobody believed in it
+we invest in Juniper it was a
+2500x return for us at Kleiner one of
+the largest returns in Venture at least
+when uh Wall Street journ J did a piece
+on the snap IPO of largest Venture
+returns ever but we believed in
+something and did that how it relates to
+open AI probably year 2000 I gave a
+interview with the New York Times it's
+my son just sent it to me so I remember
+it I said AI will be powerful enough we
+don't know
+when but it'll we'll have to redefine
+what it means to be
+human and I understand Steven Wolfram
+had some interesting comments in that
+area so happy to talk about 10 years ago
+I wrote two blogs the first one was
+called do we need doctors with a premise
+that AI would replace the expertise of
+doctors and let them do the things
+humans do really well so 20% doctor 80%
+AI is the thing I defined um and I wrote
+another blog called do we need teachers
+because the only way to scale education
+at an equal level for every kid was with
+AI that was 20 January of 2012 so about
+12 years ago so four or five five years
+ago late 2018 is when I started talking
+to Sam the opportunity came up to do
+something with open a eye I said this is
+a clear B I couldn't predict when things
+will Emer
+how much capability will happen how fast
+but you didn't know need to know that
+whether it was in 3 years 5 years or 10
+years I was pretty convinced it would be
+pretty phenomenal and there'd be
+practical applications along the way
+where it would have a large impact long
+before we got to AGI so we placed the
+back and we placed a long-term back you
+know this audience is going to hear from
+Bob mguard you know 5 years ago I played
+was a bet on Fusion for the same reason
+if we get it to work these are humongous
+returns big bats but reasonably high
+probability of success initially but
+very high payback and I was so convinced
+in open AI I placed twice uh our initial
+investment was twice the largest
+previous investment I'd made in 40 years
+in Venture Capital 2x the largest bet
+I'd ever placed initially in a company
+how did that go from nonprofit to
+for-profit and raise Venture money well
+you know those are
+details we don't understand but I would
+say the foll figure those out there are
+plenty of
+nonprofits in
+Europe that have for-profit arms right
+right it's a very good model to sustain
+and generate profit for a nonprofit to
+scale like I think the European model
+some of these examples are really really
+great Ikea Bosch they have very large
+nonprofit ownership and I think that's a
+very good model to scale I mean I just
+mentioned do we need doctors my son's
+building a primary care doctor AI my
+wife's doing a primary care or tutor
+AI as a nonprofit it really doesn't
+matter how you do it the question is how
+can you gather the resour resources to
+scale the social good you're tring to do
+whether with a doctor or with a tutor
+for every kid on the planet there's a
+lot of discussion about um how jobs
+might be displaced because of AI you've
+seen I guess three or four of these
+amazing um efficiency uh Cycles what's
+your take on that because this one does
+feel qualitatively different uh and it
+does seem to be moving at a faster pace
+so the speed at which AI is moving Ming
+uh and just the the Leaps and Bounds of
+how it's making people augmented you're
+saying 80% AI 20% doctor um what do you
+think this does to jobs and do you have
+those concerns of displacement that a
+lot of people seem to be concerned about
+I I think it's a genuine concern okay um
+the path to getting to that point so let
+me start with that 2025 years from now I
+think the need to work will
+disappear people will work because they
+want to work not because they need to
+work and nobody wants a job doing the
+same thing for 30 years on an assembly
+line at GM that there's a set of jobs
+nobody wants to
+do that we shouldn't really call jobs
+they're
+absolute treasury yeah so hopefully
+those disappear I love my job so 25
+years from now Health permitting I'll
+still be doing the same thing like
+I'm 68 so uh you know and Warren
+Buffett's gone a lot longer than I have
+I'm very passionate about what I do I
+enjoy it so much I do it for free and
+I'll keep doing it and other people
+will there will be new jobs um what you
+call jobs or what people get paid for so
+is X Games popent a job I I don't know I
+don't call it a job but it is a passion
+that can
+pay um so I do think the nature of jobs
+would will disappear now societies will
+have the the transition from today to
+that vision of not needing to work if
+you don't want
+to will be very messy very political
+very uh I would say controversial and I
+think some
+countries will move much faster than
+others I I suspect let's take something
+I'm very hawkish on China they will take
+a tanaman square tactic to enforcing
+what they think is right for their
+society over a 25e period we will have a
+political process which I prefer to the
+Chinese style you like the debate over
+the tanks well debate always improves
+things but it also does slow down and
+certain societies may
+choose not to adapt these
+uh and I think the societies that do
+that will fall behind and I think that's
+a
+massive uh disadvantage for our
+political system we may choose not to do
+it we've done it before but we've also
+seen massive transition before
+agriculture was 50% of us employment in
+1900 by 1970 it was 4% so most jobs in
+that area the biggest area of employment
+got displaced we did manage the
+transition well cost went down and
+productivity went up yeah so I do think
+we will have to rethink so the one thing
+I would say
+is capitalism is by permission of
+democracy and it can be revoked that
+permission and I
+worry
+that the this messy transition to the
+vision I'm very excited about may cause
+us to to change systems I do think the
+nature of capitalism will be will have
+to change I'm a huge fan of capital
+capitalism I'm a capitalist but I do
+think the set of things you optimize for
+when economic efficiency isn't the only
+criteria will have to be increased so
+disparity is one that will be increased
+I first wrote a piece of 2014 in fores
+it was a long piece that say AI will
+cause great abundance great GDP growth
+great productivity growth all the things
+economists measure and increasing income
+disparity that was 2014 and I think I
+ended that to close this answer off with
+we will have to consider Ubi in some
+form and I do think that will be a
+solution but meaning for human beings
+will be the largest problem we face
+which was my followup which is if you
+give people Ubi do you have
+concerns of you know the idle mind and
+what happens we've seen in other states
+when 25% of young men maybe don't have
+jobs their minds wander and bad things
+happen and so what do you think the
+societal issues will be if we do offer
+Ubi um I think we will have issues but
+we will eliminate other issues you know
+there's pros and cons to everything it's
+weird very hard to predict how complex
+systems
+behave and it's very hard for me to sit
+here and say I have a clear vision of
+how that happens but I for one am
+addicted to learning I know other people
+addicted to producing music uh all of
+those are reasonable things for people
+to find meaning in or personal
+meaning yeah there's others like I said
+just want to perfect their participation
+in in a certain sport or I love X Games
+because wasn't even remotely considered
+a sport not that long ago uh so things
+passions will emerge and I think if
+people have very early in their life the
+ability to pursue passions I hope that
+adds the meaning human beings will need
+and in some sense that's what I was
+talking about in 2000 when I said we'll
+have to redefine what it means to be
+human your assembly line job won't
+Define you for your whole
+life that'd be a terrible thing yeah in
+the VK in the AI landscape just going
+back to that for a second um you have a
+lot of these big companies who seem to
+have been caught flat-footed so they're
+acting pretty aggressively I think even
+yesterday there was a a leak of
+something where meta trying to really
+superpower llama 2 and then create some
+high performance Cloud that they
+effectively want to give away um we
+talked about this a little bit on the
+Pod but the idea seem seems like the big
+companies want to Scorch the Earth on on
+the foundational model set then you have
+some other big companies that are
+working on Silicon so can you just walk
+us through in your mind how you've
+organized where the where the value is
+getting created where there'll be
+product value but no economic value etc
+etc yeah look uh going back to openai
+part of my interest in funding openai
+was when we looked at it when I looked
+at it there was two major centers of
+excellence in AI there was Google gole
+they had Deep Mind and Google brain but
+Google and then there was an effort at
+Biden and it was very worried the
+Chinese might win that uh I'm hawkish on
+China I have no trust there um and I
+loved Graham Allison's book uh destined
+for war I'm a complete believer in that
+thesis
+um but I thought it'd be valuable to
+create a third Center and that was part
+of the motivation in funding open eye
+I'm really glad meta is doing it and
+others are trying to do it and you know
+there's efforts in every country every
+country wants their National AI I think
+more competition especially in the set
+of countries subscribing to Western
+values is good and I think that will
+sort of but I would say the following
+almost all the
+efforts I have seen are very limited
+they're all trying to scale
+llms and you know I spend my time
+looking at what besides llm will
+play an important role I haven't seen
+one effort among the majors that isn't
+following the same model yeah more
+Nvidia gpus scale the parameters more
+data um instead of saying are there
+other methods so so I'll mention you
+know we made an investment in a symbolic
+logic idea would that be dramatically
+additive in in you know just like open a
+ey didn't look that interesting for 5
+years ago 2018 late 18 is when we really
+uh made our decision to invest it got
+took a while to get
+organized but I'm saying what else would
+look like that in 2028 yeah you know
+would it be symbolic logic All In in
+anybody doing that probalistic
+programming is it completely otherwis
+like multi-agent systems is there are
+going to be other axes in which we will
+see progress said differently do you
+need to make sure there are other axes
+so that we we're not looking back a few
+years from now and there's just massive
+Cuda lock in and nothing can happen
+without one gatee keeper is that well
+the great thing about Venture and
+Venture capist is they like to play long
+bats yeah so I'll place all those long
+bats on alternative ways to learn yeah
+and not replace but add to llms I think
+is the more likely scenario though who
+knows yeah um but even among just if
+imagine llms do it
+all it's good that there's multiple
+plers and so more big companies pop up
+great uh I also do think governments
+will have their own efforts China of
+course has one but plenty of other
+Rumblings of governments trying to put
+together an effort in my country tell us
+the and that's all good tell us
+upleveling away from just AI but broadly
+speaking Venture give us the State of
+the Union of venture capital in
+September
+23 so let me give you a perspective I've
+been doing Venture for some 40
+years in that time I have not seen
+and people get surprised at this one
+example of a large
+Innovation that came from a large
+company or
+institution so the only thing you can do
+not
+one the the the only two examples I
+could find was in the early 70s which
+was if you go back 50 years when I was
+Bank of America put debit and credit on
+a plastic card like that wasn't even a
+major Innovation but I'll give them that
+but I couldn't think of examples like
+that apple with the iPhone maybe um that
+was Steve Jobs I think it was a Founder
+Le I should have said founder Le
+Innovation okay got it is a more
+accurate description I like that you
+know did General Motors do driver L cars
+or
+weo did
+uh would somebody at Avis do Uber would
+somebody at Hilton do Airbnb right would
+would somebody and Elon speaking next
+but somebody at blacked Martin do SpaceX
+or rocket lab we investors in rocket lab
+so I like it a little more
+um they do have a superior strategy but
+SpaceX has done a great job uh but
+think think of every large social change
+is there a large company that play you
+know the only thing somebody came up
+with was debt structur debt structuring
+that the bankers did uh and I
+said they didn't take any risk right
+right no ination they took a risk with
+somebody else's money other people's
+money easy to play with whether you're
+uh in finance or in government uh other
+people's money is easy uh but my idea is
+innovation comes from group like this
+and I'm completely convinced I lost the
+original question but this is where
+Innovation will come
+from on that yeah so any large area
+you'll be hearing from Bob mumar you
+know four five years ago invested in
+Fusion now we may fail I think we are
+much more likely to succeed sitting here
+today than fail but it's possible can
+you talk about that just while you're on
+Fusion that there we've got both Bob and
+David from here helon tomorrow morning
+yeah and there's broadly call it six or
+some number of General architectural
+approaches to solving the yeah there's
+six approaches a dozen companies I think
+it's well now there's 70 but yeah it's I
+mean it's just ballooning but how do you
+think about the role that a commonwealth
+or even an open AI I guess how big of a
+role does Capital play in getting there
+because what made what makes
+Commonwealth different is how much
+Capital they've raised Billion Dollar
+Plus at this point open AI similar the
+um the decision as an investor how much
+of it is predicated on this team or this
+architecture let me tell you the
+Commonwealth story before Bob has a
+chance to tell you is he here by the way
+to
+myad I'm sure he's here somewhere
+because I'm meeting him in half an hour
+okay
+backstage U but here's the thing they
+may have raised a lot of money it took
+double double digigit Millions to handle
+the single biggest risk in building the
+architecture right which was can you
+build a 20 Tesla magnet yeah the magnet
+right and Bob and I had this discussion
+I
+said if Fusion doesn't work but you can
+build a 20 Tesla magnet we got lots of
+interesting applications in nuclear
+medicine yeah you know a fusion reactor
+is a particle accelerator that technical
+breakthrough we can pivot somewhere else
+yeah nuclear Med MRI machines lots of
+areas so let's go build with double
+digit Millions which is not a huge
+amount in the context of the upside of
+maybe a bigger upside than the 2500x
+Juniper had if you solve the fusion
+problem there's still a 10x upside if
+you just solve the MRI machine problem
+so you're thinking of probabilities well
+in today we not but but when we stored
+it that was clearly to look at off RPS
+right like where else could we go if we
+only had double digit Millions we didn't
+we built the magnet if we didn't build
+the magnet we failed that's rent of
+capital so how do you know that that bet
+that investment at this point is still a
+good investment or you keep putting more
+capital in if there's now six competing
+architectures any one of which could
+have their own breakthrough that could
+yield better economics so we've
+continued to invest in it mostly because
+I think Bob's just a phenomenal
+CEO and if any body can make this happen
+and the world needs it to happen Bob
+can but I'm also optimistic and as you
+know we invested in Sam too he invested
+in
+helon I think there's more than one
+approach that could be successful in
+fact i' guess 15 years from now we'll be
+looking at one more than one company
+that's successful Sak you had a question
+I wanted to make sure you got to ask it
+well let's let V finish that that point
+I thought it was finished yeah anything
+else so my view is large problems like
+that yeah you'd think G would solve not
+a chance not a chance right seens not a
+chance um you know you take any of these
+one of my favorite you take large
+problems one of my biggest beefs is the
+traffic in cities I actually think we're
+very much on track to replace most cars
+in most cities in 25 years how by
+building a different kind of public
+transit system anybody want to invest in
+it I'm really excited about it um you
+know we went the way of autonomous
+cars for consumers or taxis aut
+autonomous cars in public transit will
+increase through the only thing fixed in
+cities is Lane wdth you have a road
+certain size you don't destroy buildings
+on both sides so if you can increase
+passenger per hour through it and by the
+way bicycles don't we love bicycles but
+they don't scooters
+don't public transit autonomously driven
+in small parts will make public transit
+on demand so unscheduled on demand any
+time of the day or night uh and point to
+point you don't stop for anybody else to
+get up it's a beautiful way to do change
+cities and I think it'll happen there's
+no question about it so like uber pool
+but with a larger Mini Bus type format
+no no no you don't want to go to mini
+bus because then you have to stop for
+other people to get out so just if it's
+two or four person Vehicles it's faster
+than your private car it doesn't stop at
+traffic lights it's on demand you don't
+have to park it I could go on and on uh
+I don't want to spend too much time on
+one particular idea but all I'm saying
+is whether it's Fusion or public transit
+and we're doing 3D printed buildings uh
+another one of my favorites is a
+new and you were asking about this a
+music model to produce music that is not
+trained on any YouTube or public music
+yeah so completely IP free of any
+constraints like I'm really excited
+about little outfit in Australia and
+they've just um produced a released a
+product that would be the mid Journey
+for
+music really exciting what's your
+favorite genre of music what do you like
+to I I'm not a huge music fan to be
+honest I Adit it but you know I I love a
+great challenge when this entrepreneur
+came to me and said hey in some period
+of time say 10 years and this was four
+or five years ago and long before AI was
+a big thing he said I want to produce a
+music a song a top 10 music song
+Untouched by a human I said I love a
+challenge like that let's go it
+literally took me half an hour to say I
+in no diligence didn't need all that
+David yeah I think where tth was going
+to go a minute ago about the state of
+the union and VC is that we talk a lot
+on the pot about the fact that we just
+been through an asset bubble that popped
+uh last year yeah and it you know really
+inflated during coid with all the money
+printing that went on and it may have
+been inflating before that with these
+Zer policies going back I don't know 15
+years um I guess my question to you is
+how much fakeness do you think that
+created in the ecosystem um you know or
+is there any way to even quantify it I
+mean I think we see now that the size of
+venture funds is Contracting that new
+funds are going to be smaller probably
+there's a lot of VCS who shouldn't even
+be in business I think you'll be happy
+about that um you know we've estimated
+on the Pod there's 1400 unicorns right
+now we've tried to sort ort of get all
+are half of them fake um I guess my
+question to you is how much did this
+asset bubble sort of inflate everything
+in VC and where do you think it stands
+right now you know it inflated things a
+lot in certain areas and it deflated
+things a lot in certain areas but let me
+give you two analogies to understand
+this you know investors only and there's
+a fair number of investors I hear here
+only care about two emotions fear and
+greed and they bounce between the two
+and there's nothing in the middle and so
+the key to being a good investor is
+staying focused on the long term in the
+middle so anytime you get a hype cycle
+you'll get inflation and then you will
+get deflation but let me ask you the
+following question 1998 there was a do
+com bubble or
+bust tell me and there was clearly a
+change in Wall Street prices and value
+valuations and all that there was
+absolutely no bust in the amount of
+internet
+traffic so if you look at internet
+traffic you can't tell when the dot bust
+happened so I'm saying the reality of
+using the internet didn't change just
+because people had inflated values and
+then deflated them that's just a fear
+reaction and a grade reaction same thing
+happened with the original bubble in the
+1830s in England if you got the right to
+build the railroad between two cities
+you could offer scripts on the market
+big bubble then a big collapse but more
+railroad was built in the 10 years after
+the bubble collapsed in England in the
+1830s than before my point is the
+reality of the underlying business if
+you're adding value does not change that
+much it can accelerate a little bit or
+slow down because less resources
+available but fundamentals is a good way
+way to invest sort of the Warren Buffet
+method not the shortterm hey he's
+valuing it twice so let me pay up and
+then you'll pay twice as much as that or
+soft M will uh later uh
+um I think I think it's a question of
+you can't time the market you as long as
+you know that this is a an investable
+technology an investable Trend timing
+what price you're coming in at I mean
+this is an old ad in in Market you know
+it doesn't really matter what price
+you're coming at it you know in
+inflationary times you pay a little bit
+more but you get less dilution later
+because other people are investing and
+then when it gets uh goes into a
+deflationary cycle you just have to
+learn to respond quickly and good
+investors will help guide entrepreneurs
+correctly through all those phases we've
+seen a lot of that in climate investing
+yeah for sure you know very low
+valuations look when we invested in
+impossible Foods it was a $3 million
+valuation pre money crazy idea crazy
+idea nobody thought plant proteins
+wasn't a word um another one of my
+favorite projects is replace soy as a
+protein Source on this planet and I
+think we are well on our way to do that
+right I'm very excited but at that level
+it doesn't matter whether valuation in
+the end goes up or down by a factor of
+two it doesn't really matter if you're
+adding fundamental value and long-term
+things but I just want I know that your
+long-term view is critical to making
+Silicon Valley work I think that we all
+kind of appreciate your leadership your
+support your mentorship and um and the
+fact that you're willing to make those
+big bets in very low probability
+outcomes but if they work the return is
+so much more um than that that that
+multiple um that ratio that you're
+getting and it matters so much I I just
+want to add it's just inspiring how much
+you share with all of us who are behind
+you and how much we've all learned from
+you and you've I didn't mention it but
+you've take a lot of time for jamath
+you've taken time for me in my career
+and I I just think it's like a great
+gift we end I can end with a quick story
+I when I when IED we really do have to
+jump I emailed I I mailed paper mailed
+been trying 40 or 50 people to try to
+get a job in VC in 2000 the only single
+person sent me an handwritten rejection
+letter VK
+hey give it up thank you
+everybody
+yeah another stand wow thank you thank
+you sir apprciate great
+[Music]
+great let your winners
+[Music]
+ride
+and instead we open sources to the fans
+and they've just gone crazy with
+[Music]
+it
+Bes my dog taking
+driveway
+man we should all just get a room and
+just have one big huge orgy cuz they're
+all this useless it's like this like
+sexual tension we just need to release
+[Music]
+some we need to get
+[Music]
+mer

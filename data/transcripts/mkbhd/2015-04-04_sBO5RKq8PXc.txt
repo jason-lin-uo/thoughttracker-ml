@@ -1,0 +1,149 @@
+# Oxygen OS on the OnePlus One!
+# https://www.youtube.com/watch?v=sBO5RKq8PXc
+
+[Music]
+Hey, what is up guys? MKBHD here and
+welcome to yet another video on the
+OnePlus 1. Probably the phone that I've
+done the most individual videos on on
+this channel. So, if you've owned a
+OnePlus 1 over the past couple of
+months, there's two things that you've
+been waiting for for a while. Number
+one, Cyanogen 12s, an extension, an
+update from Cyanogen 11s built on top of
+Lollipop. And number two, Oxygen OS. the
+update and the operating system built
+specifically for the OnePlus 1 by
+OnePlus. So, Oxygen OS is finally
+available for download and I had to
+actually flash the zip on my OnePlus 1.
+It's available. It's about a 750 megby
+download and the instructions I'll also
+leave linked right below the like button
+if you want to install it yourself. And
+I asked on Twitter if you guys wanted to
+see a video about it despite also saying
+that it's a pretty small update, a
+pretty simple thing, but a lot of you
+guys were interested. So, here is
+OnePlus 1's Oxygen OS 1.0. So, the first
+thing you'll notice about Oxygen OS is
+just how close it feels and looks to
+stock Android. So, if you've used a
+Nexus 5 or Nexus 6, that's what a lot of
+this is going to remind you of. And
+actually, it's built on top of Android
+5.0.2. So, it's not the latest version
+of Android like an actual Nexus would be
+built on. But, you'll notice basically
+all the user interface and Google Now
+and this launcher and everything here is
+just like stock Android. So, what I
+think is the biggest new feature of this
+OS, at least from what I've seen and
+used, is the quick settings. So, this is
+what the normal quick settings for
+Android 5.0 look like. And that's fine.
+But, if you hit this little quad box up
+here, you can actually rearrange where
+things are and what shows up here. So,
+you can tap, let's say, I don't use
+airplane mode very much or I don't use a
+flashlight, you can tap to toggle which
+things show up and which things don't.
+You hit save and there's your new quick
+settings. So, you can toggle and control
+this stuff really easily. Let's say I
+want all the stuff there. I can touch it
+all and toggle it all back. And if I
+ever want to reset it, I can do that,
+too. So, that seems like the main
+feature, being able to easily quickly
+customize what shows up in your quick
+settings box here since that's something
+I guess Android users use a lot. There's
+also a couple of other features from
+Cyanogen Mod 11s that you may recognize.
+So, if I go into the settings here, you
+have buttons and gestures. Buttons are
+just the buttons on the bottom of the
+phone. So, you can turn on or off the
+onscreen buttons. Let's say you want the
+offscreen capacitive buttons, you can
+use those, too. We're used to being able
+to switch those on the OnePlus 1. And
+gestures are the screen off gestures. So
+let's say you want to be able to draw a
+circle to quickly turn on the camera
+while the phone screen is off. Just draw
+that circle and it'll open you right up
+into the Google camera. So it's not uh
+the cyan mod camera or anything special,
+but that's what it'll allow you to do.
+So the gestures are there and I actually
+found that a lot of these were
+activating in my pocket when I was using
+cyan mod. So I turned the gestures off,
+but you can give them another shot if
+you think double tap to wake or drawing
+to open certain apps is uh worth your
+time. But everything else, like you can
+see here, the launcher, uh, the Google
+Now homepage being one swipe away from
+the regular apps and screens and
+everything like that, all of this is
+still very close to stock Android. So,
+almost nothing else is modified here. I
+did notice the multitasking. You get a
+nice little X button up here in the top
+to clear all your recent apps. That's a
+little bit different looking and it's
+new and it looks kind of nice. Uh, and
+like I said, you use a Google camera
+here and not any sort of special camera
+app. Uh, but it does look like the
+pictures it takes are just as good as
+you would get on previous ROMs from
+anything like Cyan Mod. Another thing to
+note is this comes with all the Google
+apps installed already. So, I did
+install the super user app here to get
+that root access, but it is a 750 megaby
+download and it doesn't come as an OTAA
+update. So, you'll have to download it
+and flash it yourself by following those
+instructions. Also, I know people are
+always interested in the wallpaper. This
+particular one I did add myself, but uh
+this does come with a couple of what's
+called OnePlus wallpapers. It's just a
+couple of them, but they are pretty
+good-looking, and these are the ones
+that come with Oxygen OS if you want to
+try those out. So, there you have it.
+It's a very small list of new things,
+but that is Oxygen OS for the OnePlus 1.
+Uh, it's a very simple, very clean, very
+nearstock ROM. It's not the only simple,
+clean, near stock ROM. You have Paranoid
+Android, you have Bliss Pop, you have
+Cyogen Mod, you have a bunch of other
+options, but I feel like they needed to
+get something out that's stable and a
+little bit before Cyanogen Mod 12.
+Otherwise, you'd have really no reason
+to check this out. Uh, that being said,
+I think this is a good place to start
+because it's so simple and so clean and
+at least so stable for right now. This
+is a good place to build on and they'll
+be able to add future things, add some
+new features and options and
+customizations uh further down the road
+with updates, but this is 1.0.0, so at
+least it works and hopefully it's more
+interesting with future updates. Either
+way, that's been it. Thanks for watching
+and I'll talk to you guys in the next
+one. Peace.

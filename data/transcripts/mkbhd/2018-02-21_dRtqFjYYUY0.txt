@@ -1,0 +1,158 @@
+# The In-Glass Fingerprint Reader: Explained!
+# https://www.youtube.com/watch?v=dRtqFjYYUY0
+
+[Music]
+okay so what just happened here what you
+just watched is me unlocking a phone
+with my fingerprint through the glass in
+the display
+which is pretty dope that's like a
+glimpse into the future of smartphones
+so for unlocking our phones lately for
+the last couple years we've gotten used
+to fingerprint readers touch id became
+that standard and now pretty much every
+phone that comes out has somewhere on it
+this fingerprint reader for unlocking it
+but lately they've gotten shoved to like
+the back of the phone or the sides or
+just off of the front entirely to
+accommodate these full screen phones the
+bezel-less revolution the infinity
+display now i personally love the idea
+of shrinking bezels and i can see that
+future smartphone being completely
+bezel-less all screen but that does of
+course come with a couple sacrifices one
+of which being
+where do we move the fingerprint reader
+you can put it on the back like we've
+seen a lot you could put it in the power
+button on the sides there's a couple
+possibilities you can even go the apple
+route and totally remove it iphone 10 of
+course has no fingerprint reader and
+they've moved over to facial recognition
+or face id but synaptics has been hard
+at work on their own solution and that's
+what you just saw working it's called
+clear id but whatever the name doesn't
+really matter what matters is it's a
+fingerprint reader underneath the
+display glass so the sensor itself is
+called the fs9500 it's made by synaptics
+and it's being shown in this vivo phone
+called the x20 plus ud it's a pretty
+weird name but it's on sale and
+everything it's the first phone that has
+this fingerprint sensor in it so does it
+work in the exact same way that all
+these previous fingerprint readers have
+in the past almost sort of so you enroll
+your fingerprint in the software just
+like any other fingerprint reader you
+can do more than one finger if you want
+and then you'll notice i didn't scan my
+finger until a little indicator light
+turns on this is kind of how you know
+it's ready to scan and where to put your
+finger and then this is literally an
+optical sensor so it's a cmos sensor the
+same type you'd find in a camera or in
+the smartphone camera itself actually so
+in order for it to work number one it
+has to be an oled display it'll only be
+found in phones with oleds and number
+two it has to be shining a light on your
+fingerprint for it to reflect back under
+the glass and read it so when i put my
+finger on that indicator which is
+basically a helper for guiding my finger
+to the right place you see a light shine
+for a second a sort of a pulse that's
+long enough for it to read the
+reflection of my fingerprint on that
+optical sensor it's literally lighting
+up my finger for the sensor to see so
+you go from the screen off to raising
+the phone which lights up the indicator
+touching your finger to it pulsing the
+light and reading the fingerprint reader
+plus this pretty slick animation
+all in under a second and a half which
+is not bad so all that's pretty
+impressive and it usually brings a
+couple of main questions to mine number
+one being does it affect the performance
+of the screen in any way no and number
+two
+can you see it like in the display at
+all if you tilt it to the right angle
+can you see the sensor and that answer
+is yes if you look hard enough and while
+the screen is off at the right angle
+with just the right amount of light you
+can see the little rectangular sensor
+under the display but it's definitely so
+subtle that you wouldn't notice it if
+you weren't looking for it and of course
+once you turn the display on or light up
+any pixels around it even at the lowest
+brightness it's completely invisible so
+this is definitely really promising i
+was personally impressed trying it
+myself and i think the biggest thing
+obviously for it to improve is that
+speed like i mentioned it's all about a
+second to a second and a half to do
+everything it's faster than face id but
+it's slower than touch id it's think of
+it as like a first gen of a new touch id
+in the future though consider this
+because this is just the first
+generation of what we're looking at it
+doesn't just have to be in that exact
+area it's not limited to just the little
+rectangle in the middle that's just
+where we're expecting it so that's where
+they put it but it's unlimited in size
+it could be the bottom third of the
+phone it could be the bottom half of the
+phone
+it could even be the entire display all
+of the glass could have a huge cmos
+sensor underneath it that reads your
+fingerprint so i could see a phone in
+the future where you just take it out of
+your pocket and just touch it anywhere
+and you're in you're unlocked because
+you touched the screen but anyone else
+trying it wouldn't get in that's kind of
+like the ideal biometric authentication
+it's what face id wanted to be so with
+that in mind this first generation being
+this good already is pretty promising
+and it means we're closer to our goal of
+course of a fully bezel-less phone as
+far as phones we could see this in in
+the future we're not going to see this
+in the galaxy s9 probably not going to
+see it for the next lg flagship or the
+note but maybe a little after that i
+mean the sensor's out there now it's in
+this vivo phone but like i said it's a
+bit slow so you know the big
+manufacturers the lg's and apples and
+samsung's of the world aren't going to
+put this first gen product in their
+phone but i could see even as early as
+next year us having a much better much
+more refined version of this start to
+show up in phones a lot more often so
+i'm looking forward to that let me know
+what you think is this what you're
+expecting in the future of the iphone
+and the galaxies let me know until the
+next one thanks for watching talk to you
+later
+peace

@@ -1,0 +1,2135 @@
+# E167: Google's Woke AI disaster, Nvidia smashes earnings (again), Groq's LPU breakthrough & more
+# https://www.youtube.com/watch?v=z6vrKA_L5pk
+
+all right everybody welcome back to your
+favorite podcast of all time the all-in
+podcast episode 160 something with me
+again chth poopaa he's a CEO of a
+company and invests in startups and uh
+his firm is called Social Capital we
+also have David freeberg the Sultan of
+science he's now a CEO as well and we
+have David saaks from Craft ventures in
+some undisposed hotel room somewhere how
+we doing boys good thank you this is an
+odd intro could your intro be any more
+low energy and dragged out I'm sick what
+do you want me I'm fake the effort all
+right here give me give me one more shot
+watch this watch this watch profession
+you want professionalism fake the effort
+come on here we go you want
+professionalism I'll show you guys
+professionalism is that banaka what was
+that is that Baka oh this the
+secret Banana
+Boat let your winners
+ride Rainman David
+and instead we open source it to the
+fans and they've just gone crazy with
+[Music]
+it all right everybody Welcome to the
+Allin podcast episode 167 168 with me of
+course the ringing man himself David
+Sachs the dictator chairman chabo poopaa
+and our Sultan of science David freberg
+how we doing boys great how are you high
+energy enough you is it 167 or 168 I
+don't know who cares can we at least get
+you to know the episode number who cares
+unfortunately or fortunately we're going
+to be doing this thing forever the
+audience demands that it doesn't matter
+this is like a Twilight Zone episode
+we're going to be trapped in these four
+bubbles forever you know like Superman
+it's a it is this is like the it is the
+gift trapped in that
+glass Zed was that his name Z Neil
+before Zod and he spun through the
+universe and the plastic being forever
+for for Infinity until until Superman
+took the new nuclear bomb out of the uh
+Eiffel Tower and threw it into space and
+blew it up and fre you know my
+background today I think I'm going to
+have to change now that you've
+referenced this important scene that was
+the best moment of that movie
+JC where teren stamp says kneel to the
+president and the President says oh God
+and then Terence St like
+Zod not God Zod Zod near before s that
+was Superman 2 or three yeah Superman 2
+is pretty much the best you know like
+Empire Strikes Back like Terminator 2
+it's always the second one that's the
+best one all right everybody we got a
+lot to talk about today apologies for my
+voice I a little bit of a cold Nvidia
+blew the doors off their earnings for
+the third straight quarter shares were
+up 15% on Thursday representing a nearly
+$250 billion jump in market cap so let's
+just let that sit in for a second this
+is the largest single day gain in market
+cap
+$247 billion added in market cap
+previously meta did something similar
+earlier this year remember everybody was
+down on that stock because they were
+doing all the crazy stuff with reality
+labs and then they got focused and laid
+off 20,000 people they added $196
+billion in other words they added like 2
+and a half airbnbs to their valuation
+but let's just get to the results the
+results are absolutely stunning and dare
+I say unprecedented Q4 Revenue 22.1
+billion that's up 22% quarter over
+quarter up 265 year-over-year the net
+income was 12.3 billion 9x
+year-over-year and the gross margin of
+76% was up 2 points quarter of quarter
+127% year-over-year but look at this
+Revenue ramp this is extraordinary q1 of
+2024 this Juggernaut starts and it does
+not stop and it doesn't look like it's
+going to stop just a run up from 7
+billion all the way to 22 billion in
+revenue for the quarter absolutely
+extraordinary and uh if you want to know
+why this is happening why is NVIDIA
+putting up these kind of numbers this
+chart explains everything this is all
+about data centers obviously if you
+heard of Nvidia before the AI boom it
+was gaming professional visualizations
+you know I think people making movies
+and stuff like that Autos uh used Nvidia
+for self-driving that kind of stuff but
+if you look at this chart you'll see
+data centers just starting four quarters
+ago starts to ramp up as everybody
+builds out the
+infrastructure for
+new data centers to deal with generative
+AI so just to add one point here Jason
+so what you can see is that Nvidia was
+around for a long time and it was making
+these chips these gpus as opposed to
+CPUs and they were primarily used by
+games and by virtual reality software
+because gpus are better obviously at
+graphical processing they use Vector
+math to create these like 3D worlds and
+this V Vector math that they use to
+create these 3D worlds is also the same
+Vector math that AI uses to reach its
+outcomes so with the explosion of llms
+it turns out that these gpus are the
+right chips that you need for these
+cloud service providers to BU build out
+these Big Data Centers to serve now all
+of these new AI applications so Nvidia
+was in the perfect place the perfect
+time and that's why it's just exploded
+and what you're seeing is the buildout
+of this
+new cloud service infrastructure for for
+AI yeah and um also helping the stock is
+the fact that they bought back 2.7
+billion worth of their shares as part of
+a $25 billion buyback plan but this
+company's firing on all cylinders revenu
+is obviously ripping as people put in
+orders to replace all of the data
+centers out there or at least augment
+them with this technology with gpus A1
+100s h100s Etc the gross margin's been
+expanding they have huge profits and
+they're still projecting more growth in
+q1 around 24 billion which would be a 3X
+increase year-over-year and this
+obviously has made the entire Market rip
+as Nvidia goes so does the market right
+now and the S&amp;P 500 NASDAQ are at record
+highs at the time of this taping chth
+your general thoughts here on something
+I don't think anybody saw
+coming except for you and your
+investment in Gro maybe and a couple of
+others I I think what I would tell you
+is
+that the bigger principle and we've
+talked about this a lot Jason is that in
+capitalism when you over earn for enough
+of a time what happens is competitors
+decide to try to compete away your
+earnings in the absence of a monopoly
+the amount of time that you have tends
+to be small and it shrinks so in the
+case of a monopoly for example take
+Google you can over earn for decades and
+it takes a very very long time for
+somebody to to try to displace you we're
+just starting to see the beginnings of
+that with things like perplexity and
+other services that are chipping away at
+the Google Monopoly but at some point in
+time all of these excess profits are
+competed away in the case of Nvidia what
+you're now starting to see is them over
+earn in a very massive way so the real
+question is who will step up to try to
+compete away those
+profits the Bezos quote right your
+margin is my opportunity and I think
+we're starting to see and you've
+mentioned grock who had a super viral
+moment I think this week but you're
+starting to see the emergence of a more
+detailed understanding of what this
+Market actually means and as a
+result who will compete away the
+inference Market who will compete away
+the training market and the economics of
+that are just becoming known to now more
+and more people freeberg your thoughts
+we were talking I think was last week or
+the week before about
+possibility of Nvidia being a 10
+trillion dollar company largest company
+in the world what are your thoughts on
+these spectacular results and then shat
+Point Everybody is watching this going
+um maybe I can get a slice of that pie
+and maybe I can create a more
+competitive offering obviously we saw
+Sam hman rumored to be raising 7
+trillion which feels like a fake number
+feels like that's maybe the market size
+or something but your thoughts here I
+don't think anything's changed on the
+Nvidia front there's this accelerated
+compute buildout underway in data
+centers everyone's building
+infrastructure and then everyone's
+trying to build applications and tools
+and services on top of that
+infrastructure the infrastructure
+buildout is kind of the first phase the
+real question ultimately will be does
+the initial cost of the infrastructure
+exceed the ultimate value that's going
+to be realized on the application layer
+in the early days of the internet a lot
+of people were buying Oracle servers
+they were like 3,000 bucks a
+server and they were running these
+Oracle servers out of an Internet
+connected Data Center and it you know
+took a couple of years before folks
+realized that
+for large scale distributed compute
+applications you're better off using
+cheaper Hardware you know cheaper server
+racks cheaper hard drives cheaper buses
+and assuming a shorter lifespan on those
+servers and you could cycle them in and
+out and you didn't need the redundancy
+you didn't need the certainty you didn't
+need the the runtime guarantees and so
+you could use a lower cost
+higher failure rate but much much net
+lower cost kind of approach to building
+out a data center for internet serving
+and so the Oracle servers didn't really
+take the market and early on everyone
+thought that they would so I think
+Chamas point is right now Nvidia has
+been at this for very long time and the
+real question is how much of an
+advantage do they have particularly that
+there is this need to use Fabs to build
+replacement technology so over time will
+there be better solutions that use
+Hardware that's not as good but the
+software figures out and they build new
+architecture for running on that
+Hardware in a way that kind of mimics
+what we saw in the early days of the
+build out of the internet so um TBD
+right the same is true in in switches
+right so in networking a lot of the
+high-end highquality networking
+companies got beaten up when lower cost
+Solutions came to Market later and so
+they looked like they were going to be
+the biggest business ever I mean you
+could look at Cisco during the early
+days of the internet build out and
+everyone thought Cisco was uh the picks
+and shovels of the internet and they
+were going to make all the all the Valu
+is going to AG to Cisco so we're kind of
+in that same phase right now with Nvidia
+the real question is is this going to be
+a much harder Hill to compete on than
+we've ever seen given the development
+cycle on chips and the requirement to
+use these Fabs to build chips it may be
+a harder Hill to kind of get up sex so
+we'll see your thoughts you think um
+we're getting to the point where maybe
+we'll have bought too many of these uh
+built out too much infrastructure and
+we'll take time for the application
+layer as freeberg was alluding to to
+monetize it well I think the question
+everyone's asking right now is are are
+these results sustainable can Nvidia
+keep growing at these astounding rates
+you know will the buildout continue and
+the comparison everyone's making is to
+Cisco and there's this chart that's been
+going around overlaying the Nvidia stock
+price on The Cisco stock price and you
+can see here the orange line is NVIDIA
+and the blue line is Cisco and it's
+almost like a a perfect match now what
+happened is that at a similar point
+in the original buildout of the internet
+of the do com era you had the market
+crash at the end of March of uh 2000 and
+Cisco never really recovered from that
+Peak valuation um but I think there's a
+lot of reasons to believe Nvidia is
+different one is that if you look at
+nvidia's multiples they're nowhere near
+where Cisco were back then so the market
+in 1999 in early 2000 was way more
+bubbly than it is now so nvidia's
+valuation is much more grounded in real
+Revenue real margins real
+profit second you have the issue of
+competitive mode Cisco was selling
+servers and networking equipment
+fundamentally that equipment was much
+easier to copy and commoditize than gpus
+these GPU chips are really complicated I
+think Jensen made the point that their
+Hopper
+100 product he said you know don't even
+think of it just like a chip there's
+actually 35,000 components in this
+product and it weighs 70 lbs this is
+more like a Mainframe computer or
+something that's dedicated to processing
+yeah it's somewhere between a rack
+server and the entire rack yeah it's
+Giant and it's heavy and it's complex it
+does say something here chamath I think
+about
+how well positioned big Tech is in terms
+of seeing an opportunity and quickly
+mobilizing to capture AP that
+opportunity these servers are being
+bought
+by you know people like Amazon I'm sure
+Apple obviously Facebook meta I don't
+know if Google's buying them as well I
+would assume so Tesla so everybody's
+buying these things and they had tons of
+cash sitting around it is pretty amazing
+how Nimble the industry is and this
+opportunity feels like everybody is
+looking at it like mobile and Cloud I
+have to get mobilized quickly to not get
+disrupted you're bringing up an
+excellent point and
+I I would like to tie it together with
+freiberg's point so at some point all of
+this spend has to make money right
+otherwise you're you're going to look
+really foolish for having spent 20 and
+30 and $40 billion do so Nick if you
+just go back to the to the revenue slide
+of Nvidia I can try to give you a
+framing of this at least the way that I
+think about it so if if you look at this
+like what you're talking about is look
+who is going to spend $22.1 billion well
+you said it Jason it's all a big Tech
+why because they have that money on the
+balance sheet sitting idle but when you
+spend $22 billion their investors are
+going to demand a rate of return on that
+and so if you think about what a
+reasonable rate of return is call it 30
+40 50% and then you factor in and that's
+profit and then you factor in all of the
+other things that need to support that
+that $22 billion of spend needs to
+generate probably $45 billion of Revenue
+and so Jason the question to your point
+and to Freed Brook's Point The $64,000
+Question is who in this last quarter is
+going to make 45 billion on that 22
+billion of spend and again what I would
+tell you to be really honest about this
+is that what you're seeing is more about
+big companies musling people around with
+their balance sheet and being able to go
+to Nvidia and say I will give you
+committed pre purchases over the next
+three or four
+quarters and less about here is a
+product that I'm shipping that actually
+makes money which I need enormous more
+compute resources for it's not the
+ladder most of the apps the overwhelming
+majority of the apps that we're seeing
+in AI today are toy apps that are run as
+proofs of concept and demos and run in a
+sandbox it is not production code this
+is not we've rebuilt the
+entire
+autopilot system for the Boeing and it's
+now run with agents and Bots and all of
+this training that's not what's
+happening so it is a really important
+question today the demand is clear it's
+the big guys with huge gobs of money and
+by the way Nvidia is super smart to take
+it because they can now forecast demand
+for the next two or three
+quarters I think we still need to see
+the next big thing and if you look in
+the past what the past has showed you
+it's the big guys don't really invent
+the new things that make a ton of money
+it's the new guys who because they don't
+have a lot of money and they have to be
+a little bit more industrious come up
+with something really authentic and new
+yeah constraint makes for great art yeah
+we haven't seen that yet so I think the
+revenue scale will continue for like the
+next two or three years probably for
+NVIDIA but the real question is what is
+the terminal value and it's the same
+thing that saak showed in that Cisco
+slide people ultimately realized that
+the value was going to go
+to other parts of the stack the
+application layer and as more and more
+money was acred at the application layer
+of the internet less and less Revenue
+multiple and credit was given to Cisco
+and that's nothing against Cisco because
+their revenue continued to compound
+right and they did an incredible job but
+the valuation got cut so freberg if
+we're looking at this chart the winner
+of Netflix the winner of The Cisco chart
+might in fact be somebody like Netflix
+they actually got you know hundreds of
+millions of consumers to give them Cash
+go and Facebook and then you have Google
+and Facebook as well generating all that
+traffic and then YouTube of course who
+do you see the winner here as in terms
+of the application layer who are the
+billion customers here who are going to
+spend 20 bucks a month five bucks a
+month whatever it is so here well I mean
+let me just start with this important
+point if you look at where that revenue
+is coming from to chat's point it's
+coming from big cloud service providers
+so Google and others are building out
+clouds that other application developers
+can build their AI tools and
+applications on top of so a lot of the
+buildout is in these cloud data centers
+that are owned and operated by these big
+tech companies the 18 billion of data
+center Revenue that Nvidia realized is
+revenue to them but it's not an
+operating expense to the companies that
+are building out so this is an important
+point on why this is happening at such
+an accelerated Pace when a big company
+buys these chips from Nvidia they don't
+have to from an accounting basis Market
+as an expense in their income statement
+it actually gets booked as a capital
+expenditure in the cash flow statement
+it gets put on the balance sheet and
+they depreciate it over time and so they
+can spend $20 billion of cash because
+Google and others have 100 billion of
+cash sitting on the balance sheet and
+they've been struggling to find ways to
+grow their business through Acquisitions
+one of the reasons is they there aren't
+enough companies out there that they can
+buy at a good multiple that can give
+them a good increase in profit the other
+one is that antitrust authorities are
+blocking all of their Acquisitions and
+so what do you do with all that cash
+well you can build out the next gen of
+cloud infrastructure and you don't have
+to take the hit on your p&amp;l by doing it
+so it ends up in the balance sheet and
+then you depreciate it over typically
+four to seven years so that money gets
+paid out on the on the income statement
+at these big companies over a seven-year
+period so there's a really great
+accounting and m&amp;a environment driver
+here that's causing the big cloud data
+center providers to step in and say this
+is a great time for us to build out the
+next generation of infrastructure that
+could generate profits for us in the
+future because we've got all this cash
+setting around we don't have to take a
+p&amp;l hit we don't have to acquire a cash
+burning
+business and you know frankly we're not
+going to be able to grow through m&amp;a
+because of antitrust right now anyway so
+there's a lot of other motivating
+factors that are causing this near-term
+acceleration as they're trying to find
+ways to grow yeah and all I I know that
+was an accounting point but I think it's
+a really important valid one if you if
+100 billion gets spent this year you
+divide it by four 25 billion in Revenue
+would have to come from that or
+something in that range yeah and so
+saaks any guesses do you have to just
+keep in mind I think freeberg what you
+said is very true for gcp spend but not
+necessarily for Google spend it's true
+for AWS spend but not necessarily for
+Amazon spend and it's true for Azure
+spend not true for Microsoft spend and
+it's largely not true for Tesla and
+Facebook because they don't have clouds
+so I think the question to your point
+that and for obvious reasons Nvidia
+doesn't disclose it is what is the
+percentage of that 21 billion that just
+went to those Cloud providers that
+they'll then expose to to to everybody
+else versus what was just absorbed
+because at Facebook Mark had that video
+about how many h100 that's all for him
+right but it is still it is still
+capitalized as my point so they don't
+have to book that as an expense it sits
+on the balance sheet they and they earn
+it down over time you're helping to
+explain why these big cloud service
+providers are spending so much on the
+cash because they're very profitable and
+there's nowhere else to put the money
+right well so that would seem to
+indicate that this is more in the
+category of one-time buildout than
+sustainable ongoing Revenue I think the
+the big question is the one that jamath
+asked which is what's the terminal value
+of Nvidia I think like a simple
+framework for thinking about that is
+what is the total addressable Market or
+Tam related to gpus and then what is
+their market share going to be right now
+their market share is something like 91%
+that's clearly going to come down but
+the remote appears to be substantial the
+Wall Street analysts I've been listening
+to think that in five years they're
+still going to have 60 something percent
+market share so they're going to have a
+substantial percentage of this Market or
+this Tam then the question is I think
+with respect to Tam is what is onetime
+buildout versus steady state now I think
+that clearly there's a lot of buildout
+happening now that's almost like a
+backfill of capacity that people are
+realizing they need but even the numbers
+you're seeing this quarter kind of
+understate it because first of all
+Nvidia was Supply constrainted they
+could not produce enough chips to
+satisfy all the demand their revenue
+would would have been even higher if
+they had more
+capacity second you just look at their
+forecast so the fiscal year that just
+ended they did around 60 billion of
+Revenue they're forecasting 110 billion
+for the fiscal year that just started so
+they're already projecting to almost
+double based on the demand that they
+clearly have visibility into already so
+it's very hard to know exactly what the
+terminal or steady state value of this
+Market's going to be even once the cloud
+service providers do this big buildout
+presumably there's always going to be a
+need to stay up to dat with the latest
+chips right here's a framework for you
+tell me if this makes
+sense intel was the basically the mother
+of all of modern compute up until today
+right I think the CPU was the the most
+fundamental Workhorse that enabled local
+PCS it
+enabled networking it enabled the
+internet and so when you look at the
+market cap of it as an example it's
+about 1880 odd billion dollars
+today the econom that it created that it
+supports is probably measured call it in
+a trillion or2 trillion do maybe 5
+trillion let's just be really generous
+right and so you you can see that
+there's this ratio of the enabler of an
+economy and the size of the economy and
+those things tend to be relatively fixed
+and they recur repeatedly over and over
+and over if you look at Microsoft it's
+market cap relative to the economy that
+it enables so the question for NVIDIA in
+my mind would be that it is it not going
+to go up in the next 18 to 24 months it
+probably is for exactly the reason you
+said it is super set up to have a very
+good meet and beat guidance for the
+street which they'll eat up and all of
+the algorithms that trade the press
+releases will drive the price higher and
+all of this stuff will just create a
+trend
+upward I think the bigger question is if
+it's a four or five trillion dollar
+market cap in the next two or three
+years will it support 100 trillion
+economy because that's what you would
+need to believe for those ratios to hold
+otherwise everything has just broken on
+the internet yeah I mean so the history
+of the internet is that if you build it
+they will come meaning that if you make
+the investment in the capital assets
+necessary to power the next generation
+of applications those applications have
+always eventually gotten written even
+though it was hard to predict them at
+the time so in the late 90s when we had
+the whole do com bubble and then bust
+had this tremendous buildout not just of
+kind of servers and all the networking
+equipment but there was a huge fiber
+buildout y by all the telecom companies
+and the telecom companies had a Cisco
+like you know a peak it was worse you
+wcom and them they went bankrupt a lot
+of them yeah well the problem there was
+that a lot of the build out happened
+with debt and so when you had the Doom
+crash and all the valuations came down
+to earth that's why a lot of them went
+under yeah Cisco wasn't in that position
+but anyway my point is in the early 2000
+when the crash happened everyone thought
+that these telecom companies had over
+invested in fiber as it turns out all
+that fiber eventually got used the
+internet went from you know dial up to
+broadband we started doing seeing
+streaming social networking all these
+applications started eating up that
+bandwidth so I think that the history of
+these things is that the applications
+eventually get written they get
+developed if you build the
+infrastructure to power them and I think
+with AI the thing that's exciting to me
+as someone who's really more of an
+application investor is that we're just
+at the beginning I think of a huge wave
+of a lot of new creativity and
+applications that's going to be written
+and it's not just B Toc it's going to be
+B2B as well you guys haven't really
+mentioned that it's not just consumers
+and consumer applications are going to
+use these cloud data centers that are
+buying up all these gpus it's it's going
+to be Enterprises too I mean these
+Enterprises are using Azure they're
+using Google cloud and so forth so
+there's a lot I think that's still to
+come I mean we're just at the beginning
+of a wave that's probably going to last
+at least a decade yeah to your point one
+of the reasons YouTube Google photos
+ioto a lot of these things happened was
+because the infrastructure buildout was
+so great during the doom boom that the
+prices for storage the prices for
+bandwidth sacks plummeted and then
+people like Chad Hurley looked at were
+like you what instead of charging people
+to put a video on the internet and then
+charging them for the bandwith they used
+we'll just let them upload this stuff to
+YouTube and we'll figure it out later
+same thing with Netflix yeah I mean look
+when we were developing PayPal in the
+late 90s really around
+1999 uh you could barely upload a photo
+to the internet I mean so like the idea
+of having an account with a profile
+photo on it was sort of like why would
+you do that it's just prohibitively slow
+everyone's going to drop off Yeah by
+2003 it was fast enough that you could
+do that and that's why social networking
+happened I mean literally without that
+performance
+Improvement like even having a profile
+photo on your account was something that
+was too hard to do your LinkedIn profile
+was like too much bandwidth and then let
+alone video I mean the you would get you
+probably remember these days you would
+put up a video on your website if it
+went viral your website got turned off
+because you would hit your $5,000 or
+$10,000 a month Cap all right grock also
+had a huge week that's grock with a Q
+not to be confused with elon's grock
+with a K shth you've talked about grock
+on this podcast a couple of times
+obviously you were the I guess you were
+the first investor the seed investor you
+pulled these lpus and this concept out
+of a team that was at Google maybe you
+could explain a little bit about grock's
+viral moment this week in the history of
+the company which I know has been a long
+road for you with this company I mean
+it's been since 2016 so so again proving
+what you
+guys have said many times and what I've
+tried to live out which is just you just
+got to keep grinding 90% of the battle
+is just staying alive in business yeah
+and having oxygen to keep trying things
+and then eventually if you get lucky
+which I think we
+did things can really break in your
+favor so this weekend you know I've been
+tweeting out a lot of technical
+information about why I think this is
+such a big deal but yeah the the moment
+came this weekend combination of Hacker
+News and some other places and
+essentially we had no customers two
+months ago I'll just be honest and
+between Sunday and
+Tuesday we've just we're overwhelmed and
+I think like the last count was we had
+3,000 unique customers come and try to
+consume our resources from
+every important Fortune 500 all the way
+down to developers and
+so I think we're very fortunate I think
+the team has a lot of hard work to do do
+so it could mean nothing but it has the
+potential to be something very
+disruptive so what is it that people are
+glomming on
+to you have to understand that like at
+the very highest level of AI you have to
+view it as two distinct
+problems one problem is called training
+which is where you take a model and you
+take all of the data that you think will
+help train it and you do that you train
+the model you learn all over all of this
+information but the second part of the
+AI problem is what's called inference
+which is what you and I see every day as
+a consumer so we go to a website like
+chat GPT or Gemini we ask a question and
+it gives us a really useful answer and
+those are two very different kinds of
+compute challenges the first one is
+about brute force and power right if you
+can imagine like what you need are tons
+and tons of machines tons and tons of
+like very high quality networking and an
+enormous amount of power in a data
+center so that you can just run those
+things for months I think Elon publishes
+very transparently for example how long
+it trains to to train his grock with a K
+right model and it's in the months
+inference is something very different
+which is all about speed and cost what
+you need to be in order to answer a
+question for a consumer in a compelling
+way is super super cheap and super super
+fast and we've talked about why that is
+important and the gro with a Q chips
+turns out to be extremely fast and
+extremely
+cheap and so look time will tell how big
+this company can get but if you tie it
+together with what Jensen said on the
+earnings call and you now see developers
+stress testing us and finding that we
+are meaningfully meaningfully faster and
+cheaper than any Nvidia
+solution there's the potential here to
+be really disruptive and we're a meager
+unicorn right our last valuation was
+like a billion something versus Nvidia
+which is now like a $2 trillion doll
+company so there's a lot of market cap
+for grock to gain by just being able to
+produce these things at
+scale which could be just an enormous
+outcome for us so time will tell but a
+really important moment in the company
+and very exciting can I just observe
+like off topic how an overnight success
+can take eight years yeah no I was
+thinking the same it's a seven-year
+overnight success in the making there's
+this class of businesses that I think
+are unappreciated in a post internet era
+where you have to do a bunch of things
+right before you can get any one thing
+to work and these complicated businesses
+where you have to stack either different
+things together that need to click
+together in a in a stack or you need to
+iterate on each step until the whole
+system works end to end
+can sometimes take a very long time to
+build and the term that's often used for
+these types of businesses is deep Tech
+and they fall out of favor because in an
+internet era and in a software era you
+can find product Market fit and make
+revenue and then make profit very
+quickly and so a lot of entrepreneurs
+select into that type of business
+instead of selecting into this type of
+business where the probability of
+failure is very high you have several
+low probability things that you have to
+get right in a row and if you do it's
+going to take eight years and a lot of
+money and then all of a sudden the thing
+takes off like a rocket ship you've got
+a huge Advantage you've got a huge moat
+it's hard for anyone to catch up and
+this thing can really um spin out on its
+own I do think Elon is very unique in
+his ability to deliver success in these
+types of businesses Tesla needed to get
+a lot of things right in a row SpaceX
+needed to get a lot of things right in a
+row all of these require a series of
+complicated steps or a set of
+complicated technologies that need to
+click together and work together but the
+hardest things often output the highest
+value and you know if you can actually
+make the commitment on these types of
+businesses and get all the pieces to
+click together there's an extraordinary
+opportunity to build Moes and to take
+huge amounts of market value and I think
+that there's an element of this that's
+been lost in Silicon Valley over the
+last couple of decades as the fast money
+in the internet era has kind of
+prioritized other Investments ahead of
+this but I'm really hopeful that these
+sorts of Chip Technologies
+SpaceX in biotech we see a lot of this
+these sorts of things can kind of become
+more in favor because the the advantage
+as these businesses work seems to
+realize hundreds of billions and
+sometimes trillions of dollars of market
+value and be incredibly transformative
+for Humanity so I don't know I just
+think it's an observation I wanted to
+make about the greatness of these
+businesses when they work out well I
+mean open AI was kind of like that for a
+while totally I mean it was this like
+wacky nonprofit that was just grinding
+on an AI research problem for like six
+years and then it finally worked and got
+productized into chat GPT totally but
+you're right SpaceX was kind of like
+that I mean the big money maker at
+SpaceX is starlink which is the
+satellite Network it's basically
+Broadband from space and it's on its way
+to handling I think a meaningful
+percentage of all internet traffic but
+think about all the things you had to
+get to to get that working first you had
+to create a rocket that's hard enough
+then you had to get to
+reusability then you have to create the
+whole satellite Network so at least
+three hard things in a row well and get
+consumers to adopt it I mean you know
+don't forget the final step yeah we had
+no idea where the market was like early
+on it started in my office and so
+Jonathan and I would be kind of always
+trying to figure out what is the initial
+go to market and I remember I emailed
+Elon in at that period when they were
+still trying to figure out whether they
+were going to go with liar or not and we
+thought wow maybe we could sell Tesla
+the chips you know but and then Tesla
+brought in this team just to talk to us
+about what the design goals were and
+basically said no in kind way but they
+said no then we thought okay maybe it's
+like for high frequency Traders right
+because like those folks want to have
+all kinds of edges and if we have these
+big models maybe we can accelerate their
+decision making they can measure Revenue
+that didn't work out then it was like
+you know we tried to sell
+to three-letter agencies that didn't
+really work out our original version was
+really focused on image class class
+ification in convolutional neuron Nets
+like resnet that didn't work out we ran
+head first into the fact that Nvidia has
+this compiler product called cuda and we
+had to build a high class compiler that
+you could take any model without any
+modifications all these things to your
+point are just points where you can just
+very easily give up and then there's
+like we run out of money so then you
+write money in a note right because
+everybody wants to punt on valuation
+when nothing's working yeah you tried
+Beach Head Market you could the boat you
+have to make a decision to just keep
+going if you believe it's right and if
+you believe you are right yeah and that
+requires shutting out we talked about
+this in the Masa example last week but
+it just requir shutting out the noise
+because it's so hard to believe in
+yourself it's so hard to keep funding
+these things it's so hard to go into
+partner meetings and defend a
+company and then you just have a moment
+and you just feel I I don't know I feel
+very Vindicated but then I feel very
+scared because Jonathan still hasn't
+landed it you know what I mean you
+mentioned all those boats landing and
+trying to trying to those missteps but
+3,000 people signed up who are they are
+they developers now and they're going to
+figure out the applications yeah I think
+that back to the original point my
+thought today is that AI is more about
+proofs of concept and toy apps and
+nothing real yep I don't think there's
+anything real that's inside of an
+Enterprise that is so meaningfully
+disruptive that it's going to get
+broadly licensed to other Enterprises
+I'm not saying we won't get there but
+I'm saying we haven't yet seen that
+Cambrian moment of monetization we've
+seen the Cambrian moment of innovation
+yeah and so that Gap has still yet to be
+crossed and I think the reason that you
+can't cross it is that today these are
+in an unusable State the results are not
+good enough they are toy apps that are
+too slow that require too much
+infrastructure and cost so the potential
+is for us to enable that monetization
+Leap
+Forward and so yeah they're going to be
+developers of all sizes and the people
+that came are literally companies of all
+sizes I saw some of the names of the big
+companies and they are the who's who of
+the S&amp;P 500 how do you guys reconcile
+this deep Tech High outcome opportunity
+that everyone here has seen and been a
+part of as an investor participant in
+versus the more drisk faster time to
+Market and you know chth in particular
+like in the past we've talked about some
+of these deep Tech projects like fusion
+and so on and you've highlighted well
+it's just not there yet it's not
+fundable what's the distinction between
+a deep Tech investment opportunity that
+is fundable and that you keep grinding
+at that has this huge outcome uh what
+makes the one like Fusion not fundable
+it's a phenomenal question it's a great
+question my answer is I have a very
+simple f
+which is that I don't want to debate the
+laws of physics when I fund a company so
+with Jonathan when we were initially
+trying to figure out how to size it I
+think my initial check was like 7 to10
+million or something and the whole goal
+was to get to an initial tape out of a
+design we were not inventing anything
+new with respect to physics we were on a
+very old process technology I think
+we're still on 14 nanometer we were on
+14 nanometer 8 years ago okay so we
+weren't pushing those boundaries all we
+were doing was trying to build a
+compiler and a chip that made sense in a
+very specific construct to solve a a
+well- defined bounded problem so that is
+a technical challenge but it's not one
+of physics when I've been pitched all
+the fusion companies for example there
+are fuel sources that require you to
+make a leap of physics where in order to
+generate a certain fuel source you
+either have to go and harvest that on
+the moon or in a different planet that
+is not earth or you have to create some
+fundamentally different way of creating
+this highly unique
+material that is why those kinds of
+problems to me are poor risk and
+building a chip is good risk it doesn't
+mean you're going to be successful in
+building a chip but the risks are
+bounded to not of fundamental physics
+they're bounded to go to market in
+technical usefulness and I think that
+that removes an order of magnitude risk
+in the outcome so I mean there there's
+still like a bunch of things that have
+to be right in a row to make it work but
+yeah it doesn't mean it's going to work
+all I'm saying is I don't I don't want
+it to fail because we built a reactor
+and we realized hold on to get heavy
+hydrogen I got to go to the moon right
+and J and Sachs how do you saaks I know
+you don't you invested we have done a
+couple yeah so maybe you guys can
+highlight how you've thought about deep
+Tech opportunities versus do something
+really difficult like this every 50
+Investments or so because most of the
+entrepreneurs coming to us because we're
+seed investors or pre-seed investors
+they would be going to a biotech
+investor or a hardware investor who
+specializes in that not to us but once
+in a while we meet a Founder we really
+like and so Contra line was one we were
+introduced to somebody who's doing this
+really interesting contraception for men
+where they put a gel into your vast
+Defence and you as a a man can take
+control of your reproduction you
+basically it's a it's not a vasectomy
+it's just a gel that goes in there and
+and blocks it and this company is now
+doing human trials and doing fantastic
+but this took forever to to get to this
+point and then uh you guys some of you
+are also investors in Cafe X which we
+love the founder and this company should
+have died like during covid and making a
+robotic coffee bar when he started you
+know seven eight years ago was
+incredibly hard he had to build the
+hardware he had to build a brand he had
+to do locations he had to do software
+and now he's selling these machines and
+people are buying them and the two in
+San Francisco at SFO are making like uh
+I think they the two of them make a
+million a year and it's the highest per
+square footage of any store in an
+airport and so we've just been grinding
+and grinding and you got to find a
+Founder who's willing to make it their
+lives work in these kind of situations
+but you start to think about the degree
+of difficulty Hardware software retail
+mobile apps I mean it just
+gets crazy how hard these businesses are
+as opposed to I'm building a SAS company
+I build software I sell it to somebody
+to solve their SAS problem it's like
+it's very one dimens right it's pretty
+straightforward these businesses
+typically have five components yeah and
+SX you've been an investor in
+SpaceX but you don't make those sorts of
+Investments regularly at craft is that
+fair yeah I have an Elon exception I got
+it it's about the
+founder our portfolio allocation we say
+this much early stage this much late
+stage this much Elon Elon except yeah I
+mean you have to be so dogged to to want
+to take something like this on because
+the good stuff happens like you're
+saying freeberg you're seven8 nine 10 as
+opposed to like a consumer product
+either works or it doesn't by year three
+or four the only app that took a really
+long time people don't know this but
+Twitter actually took a long time to
+catch on it was kind of cruising for two
+or three years and then South by
+Southwest happened Ashton Kutcher got on
+it Obama got on it I think the network
+effect I think I think Network effect
+businesses are different because that's
+all about getting your seat of your
+network I'm talking about is the
+technical coordination of lots of
+technically difficult tasks that need to
+sync up it's like getting a master lock
+with like 10 digits and you got to
+figure out the combination of all 10
+digits and once they're all correct then
+the lock opens and prior to that if any
+if anyone number is off the lock doesn't
+open and I think these technically
+difficult businesses are some of the and
+they are the hardest and they do require
+the most dogged personalities to persist
+and to realize an outcome from but the
+truth is that if get them the moat is
+extraordinary and they're usually going
+to create extraordinary leverage and
+value and you know I think from a
+portfolio allocation perspective if you
+as an investor want to have some
+diversification in your portfolio this
+is not going to be the predominance of
+your portfolio but some percentage of
+your portfolio should go to this sort of
+business because if it works boom you
+know this can be the big 10x 100x
+thousand x two stories about that one of
+the V early VCS and elon's told the
+story
+publicly wanted Elon to not make the
+Roadster not make the monol S just make
+drivetrains and the electric components
+for other car companies can you imagine
+how the world would have changed and
+then totally a very high-profile VC came
+to me and said okay I'll I'll do the
+series a for um I'll do the series a for
+Uber I'll preemptively do it but you got
+to tell Travis to stop running Uber as a
+consumer app I want him to sell the
+software to cab companies so make it a
+SAS company and I said well you you know
+the cab companies are kind of the
+problem like they're they're taking all
+the margin like that kind of disrupting
+them and they're like yeah yeah but just
+think there's thousands of cab companies
+they would pay you tens of thousand a
+year for this software and you can get a
+little piece of the action I never
+brought that investor to to Travis I was
+like oh wow that's really interesting
+Insight sometimes the VCS work against
+it I have a very poor track record of
+working with other investors whoa
+self-reflection I do deals myself I size
+them
+myself and it's because a lot of
+them have to live within the political
+dynamics of their fund and so I think
+Jason what you probably saw in that
+example which is exactly why doing
+things and splitting deals will never
+generate great outcomes in my opinion is
+that you you take on all the baggage and
+the dysfunction of these other
+Partnerships and so if you really wanted
+to go and disrupt
+Transportation you need one person who
+can be a trigger pull and who doesn't
+have to answer to anybody I find that's
+why I think for example when you look at
+how successful venod has been over
+decade after decade after decade when
+venot decides that's the decision and I
+think there's something very powerful in
+that there are a bunch of deals that
+I've done that when they've worked
+out were not really because they were
+consensus and they had to get supported
+and scaffolded at periods where if I
+wasn't able to Ram them through myself
+because because it was my organization I
+think we would have be in a very
+different place so I think I think like
+for for entrepreneurs it's so difficult
+for them to find people that believe
+it's so much better to find one person
+and just get enough money and then not
+Syndicate because I think you have to
+realize that you are bringing on and
+compounding your risk the one that
+freeberg talked about with the risk of
+all the other partnership dynamics that
+you bring on so if you don't internalize
+that you may have five or six folks that
+come into an A or a B but you're
+inheriting five or six yeah partnership
+Dy dysfunctions yeah yeah yeah can you
+just explain really quickly for the
+audience since they heard about gpus in
+Nvidia but they may not know what an lpu
+is what's the difference there a GPU the
+best way to think about it is so if you
+contrast a CPU with a GPU so CPU was the
+Workhorse of all of
+computing and when it when Jensen
+started Nvidia what he realized was
+there were specific tasks where a CPU
+failed quite brilliantly at and so he's
+like well we're going to make a chip
+that works in all these failure modes
+for a CPU so a CPU is very good at
+taking one instruction in acting on it
+and then spitting out one one answer
+effectively and so it's a very serial
+kind of a factory if you think about the
+CPU so if you want to build a factory
+that can process instead of one thing at
+a time 10 things or 100 things what is
+they had to find a
+workload that was well suited and they
+found graphics and what they convinced
+PC manufacturers back in the day was
+look have the CPU be the brain it'll do
+90% of the work but for very specific
+use cases like graphics and video games
+you don't want to do serial computation
+you want to do parallel computation and
+we are the best at that and it turned
+out that that was a genius insight and
+so the business for many years was gain
+ging and Graphics but what happened
+about 10 years ago was what we also
+started to
+realize was the math that's required and
+the processing that's required in AI
+models actually looked very similar to
+how you would process imagery from a
+game and so he was allowed to figure out
+by building this thing called cuda which
+is the compiler that sits on the chip
+how he could now go and tell people that
+wanted to experiment with AI hey you
+know that chip that we had made for
+graphics guess what it also is amazing
+at doing all of these very small
+mathematical calculations that you need
+for your AI model and that turned out to
+be true so the next Leap Forward was
+what Jonathan saw which was hold on a
+second if you look at the chip
+itself that GPU substantially has not
+changed since 1999 in the way that it
+thinks about problem solving it has all
+this very expensive memory M blah blah
+blah so he was like let's just throw all
+that out the window we'll make small
+little brains and we'll connect those
+little brains together and we'll have
+this very clever software that schedules
+it and optimizes it so basically take
+the chip and make it much much smaller
+and cheaper and then make many of them
+and connect them together that was
+Jonathan's insight and it turns out for
+large language models that's a huge
+Stroke of Luck because it is exactly how
+llms can be hyper optimized to work so
+that's kind of been the evolution from
+CPU to GPU to now
+lpu and we'll see how big this thing can
+get but it's it's quite it's quite novel
+well congratulations on it all and it
+was a very big week for Google not in a
+great way they had a massive PR mess
+with their Gemini which refused to
+generate pictures if I'm reading this
+correctly of white people here's a a
+quick refresher on what Google's doing
+in AI Gemini is now Google's brand name
+for their AI main language model you can
+think of that like open AI GPT Bard was
+the original name of their chatbot they
+had duet AI which was Google sidekick in
+the Google Suite earlier this month
+Google rebranded everything to Gemini so
+Gemini is now the model it's the chatot
+and it's a p sidekick and they launched
+a $20 month subscription called Google
+one AI premium uh only four words way to
+go this includes access to the best
+model Gemini Ultra which is on par with
+GPT 4 according to them and generally in
+the marketplace but earli this week
+users on X started noticing that Gemini
+would not generate images of white
+people even when prompted people were
+prompting it for images of historical
+figures that were generally white and
+getting kind of weird results I asked
+Google Gemini to generate images of the
+founding fathers it seems to think
+George Washington was black certainly
+here as a portrait of the founding
+fathers of America as you can see it is
+putting there Asian guy that's awesome
+yeah it's just it's making a great
+meshup and uh yeah we there was like
+countless images that got created
+generate images of the American
+Revolutionary sh his here are images
+featuring diverse American
+revolutionaries and inserted the word
+diverse sex I'm not sure if you watch
+this controversy on X I know you spend a
+little bit of time on that Social
+Network I noticed you're you're active
+once in a while did you log in this week
+and and see any of this bruhaha sure
+it's all over X right now I mean look
+this Gemini roll out was was a joke I
+mean it's ridiculous the AI is incapable
+of giving you accurate answers because
+it's been so programmed with diversity
+and inclusion and it inserts these words
+diverse and inclusive even in answers
+where you haven't asked for that you
+haven't prompted it for that so they I
+think Google has now like yanked back
+the product release I think they're
+scrambling now because it's been so
+embarrassing for them but SX like is is
+it how does this not get a like I don't
+understand how yeah had the red team not
+catch this yeah well how or anybody or
+isn't there a product review with senior
+Executives before this thing goes out
+that says okay folks here it is have at
+it try it we're really proud of our work
+and and then they said well hold on a
+second is this actually accurate
+shouldn't it be accurate you guys
+remember when chat GPT launched and
+there was a lot of criticism about
+Google and Google's Failure to Launch
+and a lot of the observation was that
+Google was afraid
+to fail or afraid to make mistakes and
+therefore they were too conservative and
+as you know in the last year to year and
+a half there's been a strong effort at
+Google to try and change the culture and
+move fast and push a product out the
+door more quickly and the criticism is
+now why Google has historically been
+conservative and I realize we can talk
+about this particular problem in a
+minute but it's ironic to me that the
+Google go is too slow to launch
+criticism has now revealed that Google's
+result of actually launching quickly can
+cause more damage than than good but
+Google did not launch quickly well I
+will say one other thing I it seems to
+me ironic because I think that what
+they've done is they've launched more
+quickly than they otherwise would have
+and they've put more guard rails in
+place that that backfired and those
+guard rails ended up being more damaging
+what the guard rails what's the guard
+rail here so this is Google's principles
+the first one is to be socially
+beneficial the second one is to avoid
+creating or reinforcing unfair bias so
+much of the effort that goes into tuning
+and waiting the models at Gemini has
+been to try and avoid stereotypes from
+persisting in the output that the model
+generates where is telling the truth
+telling the TR exactly that's exact
+Society is our second principle we'd
+like to steer Society to I think
+socially beneficial is a political
+objective because it depends on how you
+perceive what a benefit is avoiding bias
+is political be built and tested for
+safety doesn't have to be political but
+I think the meaning of safety has now
+changed to be political by the way
+safety with respect to AI used to mean
+that we're going to prevent some sort of
+AI super intelligence from evolving and
+taking over the human race that's what
+it used to mean safety now means
+protecting users from seeing the truth
+yeah because they might they might feel
+unsafe or you know somebody else uh
+defines as a violation of safety for
+them to see something truthful so the
+first three their first three objectives
+or values here are all extremely
+political I think any AI product for it
+to be worth assault has to start they
+can have any I I think that these values
+are actually reasonable that's their
+that's their decision they should be
+allowed to have it but the first base
+order principle of every AI product
+should be that it is accurate and right
+correct yeah yeah why not focus on
+correct look the values that Google lays
+out may be okay in theory but in
+practice they're very vague in open to
+interpretation and so therefore the
+people running Google AI are smuggling
+in their preferences and their biases
+and those biases are extremely liberal
+and if you look at X right now there are
+tweets going viral from members of the
+Google AI team that reinforce this idea
+where they're talking about you know
+white privilege is real and you know
+recognize your bias at all levels and
+promoting a very leftwing narrative so
+you know this idea that Gemini turned
+out this way by accident or because they
+didn't because they rushed it out I
+don't really believe that I believe that
+what happened is Gemini accurately
+reflects the biases of the people who
+created it now I think what's going to
+happen now is in light of this the
+reaction to the roll out is do I think
+they're going to get rid of the bias no
+they're going to make it more subtle
+that is what I think is is disturbing
+about it I mean they should have this
+moment where they change their values to
+make truth the number one value like jam
+is saying but I don't think that's going
+to happen I think they're simply going
+they're going to dial down the bias to
+be less obvious you know who the big
+winner is going to be in all this trath
+is going to be open source like because
+people are just not going to want a
+model that has all this baked in weird
+bias right they're going to want
+something that's open source and it
+seems like the o Open Source Community
+would be able to grind on this to get to
+truth right so I think one of the big
+changes that Google's had to face is
+that the business has to move away from
+an information retrieval business where
+they index the open internet's data and
+then allow access to that data through a
+search results page to being an
+information
+interpretation service these are very
+different products the information
+interpretation service requires
+aggregating all this information and
+then choosing how to answer questions
+versus just giving you results of other
+people's data that sits out on the
+internet I'll give you an example if you
+type in IQ test by race on chat GPT or
+Gemini it will refuse to answer the
+question ask it a hundred ways and it
+says well I don't want to reinforce
+stereotypes IQ tests are inherently
+biased IQ tests aren't done correctly I
+just want the data I want to know what
+data is out there you type in into
+Google first search result and the
+onebox result gives you exactly what
+you're looking for here's the IQ test
+results by race and then yes there's all
+these disclaimers at the bottom so the
+challenge is that Google's
+interpretation engine and chat gpt's
+interpretation engine which is
+effectively this AI model that they've
+built of all this data has allowed them
+to create a tunable interface and the
+intention that they have is a valid
+intention which is to eliminate
+stereotypes and bias in race however the
+thing that some people might say is
+stereotypical other people might just
+say is typical that what is a stereotype
+may actually just be some data and I
+just want the results and there may be
+stere stereotypes implied from that data
+but I want to make that interpretation
+myself and so I think the only way that
+a company like Google or others that are
+trying to create a general purpose
+knowledge Q&amp;A type service are going to
+be successful is if they enable some
+degree of personalization where the
+values and the choice about whether or
+not I want to decide if something is
+stereotypical or typical or whether
+something is data or biased should be my
+choice to make if they don't allow
+eventually everyone will come across
+some search result or some output that
+they will say doesn't meet their
+objectives and at the end of the day
+this is just a consumer product if the
+consumer doesn't get what they're
+looking for they're going to stop using
+it and eventually everyone will find
+something that they don't want or that
+they're not expecting and they're going
+to say I don't want to use this product
+anymore and so it is actually an
+opportunity for many models to
+proliferate for open source to win can I
+say something else yeah when you have a
+model and and you're going through the
+process of putting the fit and finish on
+it before you release it in the wild an
+element of making a model good is this
+thing called reinforcement learning
+right through human feedback yep you
+create what's called a reward model
+right you reward good answers and you're
+punitive against Bad answers so
+somewhere along the way people were
+sitting and they had to make an explicit
+decision and I think this is where sax
+is coming from that answering this
+question is voting you're not allowed to
+ask this question in in their view of
+the world and I think that that's what's
+troubling because how is anybody to know
+what question is askable or not askable
+at any given point in time if you
+actually search for the race and
+ethnicity question inside of just Google
+proper the first thing that comes up is
+a Wikipedia link that actually says that
+there are more variations within races
+than across races so seems to me that
+you could have actually answered it by
+just summarizing the Wikipedia article
+in a non-offensive way that was still
+legitimate and that's available to
+everybody else using a product and so
+there was an explicit judgment too many
+of these judgments I think will make
+this product very poor quality and
+consumers will just go to the thing that
+tells it the truth I think you have to
+tell the truth you cannot lie and you
+cannot put your own filter on what you
+think the truth is otherwise these
+products are just really worthless yeah
+and I and I'm I'm more concerned about
+the answers that are just flat out
+wrong driven by some sort of bias than I
+am about questions where they just won't
+give you an answer if they just won't
+give you an answer well there's a
+certain bias in terms of what they won't
+answer but at least you know you're not
+being misled but in in questions where
+they actually give you the wrong answer
+because of a bias that's even worse you
+should be allowed to choose right I
+actually disagree with your framing
+there freeberg you're making it sound
+like we're we live in this totally
+relativized world where it's all just
+user choice and everyone's going to
+choose their bias and their subjectivity
+I actually think that there is a
+baseline of truth and the model should
+aspire to give you that and it's not up
+to the user to decide whether the photo
+of George Washington is going to be
+white or black I mean there's just an
+answer to that and I think Google should
+just do their job I mean the question
+you have to ask I think is not whether
+Google is going through an existential
+moment I think it clearly is as business
+is changing in a very fundamental way I
+think the question is whether they're
+too woke to function I mean are they
+actually be able to meet this challenge
+given how woke and and biased what a
+model culture their their company
+evidently is well and they used to be
+able to just hide the bias by the
+ranking and who they down ranked so they
+did the panda update they did all these
+updates and they would if they didn't
+like a source they could just move it
+down if they did like a source they
+could move it up yeah and they could
+just say hey it's the algorithm but they
+were never forced to share how the
+algorithm ranked tot results and so you
+know if you had a different opinion you
+just weren't going to get it on a Google
+search result page but they could just
+point to the algorithm and say yeah the
+algorithm does it I just sent you guys I
+think this is a hallucination but Nick
+you can throw it up there we can get
+Sax's
+reaction wow wow this just nutty right
+but look it's ideology that's driving
+this the tip off is when you say it's
+important to acknowledge race is a
+social construct not a biological
+reality it's George Washington white or
+black that's a whole school of thought
+called social constructivism which is
+basically this um it's like Marxism
+apply to categories of of race and
+gender right so Google has now built
+this into their AI model and again the
+question yeah you almost have to start
+over again it's fun J I think you make a
+really interesting observation with
+those search rankings because what I'm
+afraid of is that what Google will do is
+not change the underlying ideology that
+this AI model has been trained with but
+rather they'll dial it down to the point
+where they're harder to call out and so
+theology will just be more subtle now
+I've already noticed that in Google
+search results Google is carrying water
+for either the official narrative or the
+woke narrative whatever you want to call
+it on so many search results here's an
+idea like they should just have the
+ability to talk to their Google chat bot
+Gemini and then have a button that says
+turn off like these Concepts right like
+I just want the raw answer do not filter
+me it's not programmed that way I mean
+you're talking about something very deep
+sax what do you do if you're the CEO of
+Google uh fire myself no seriously
+you're the CEO of Google you're you're
+Tas let's say your friend Elon buys
+Google and he says sax will you please
+just run this for a year for me what do
+you do well I saw what Elon did at
+Twitter he went in and he fired 85% of
+the employees yeah I mean that but you
+know Paul Graham actually had an
+interesting tweet about this where he
+said that one of the reasons why these
+ideologies take over companies is that I
+mean they're clearly non-performance
+enhancing right they clearly hurt the
+performance of the company it's not just
+Google we saw this with Disney we saw it
+with Bud Light
+coinbase coinbase was the other way no
+no but they had a group of people there
+who were causing chaos yeah exactly so
+so in any event we know this does not
+help the performance of a company so the
+extent to which these ideologies will
+permeate a company is based on how much
+of a monopoly they are so so here yeah
+the ridiculous images generated by
+Gemini aren't an anomaly they're a
+self-portrait Google's bureaucratic
+corporate culture the bigger your cash
+cow the worse your culture can get
+without driving you out of business
+that's my point so they've had a long
+time to get really bad because there
+were no consequences to this place at
+this point the whole company is infected
+with this ideology and I think it's
+going to be very very hard to change
+because look these people can't even see
+their own bias well I think that there's
+a notion that people need to have
+something to believe in they need to
+have a connection to a mission and
+clearly there's a North star in the
+mission of this I would call it
+information interpretation business that
+they're now W the Got Hijacked dude the
+mission got the original Mission was to
+organize all the world's information now
+they're doing now they're suppressing
+they like index the world's information
+period the end that's the end of the
+document universally accessible and
+useful was was kind of the end of the
+statement yes my real point is maybe
+there's a different mission that needs
+to be articulated by leadership and that
+that mission the troops can get behind
+and the troops can redirect their energy
+in a way that doesn't feel counter to
+the current intention but can perhaps be
+directionally offsetting of the current
+Direction so that they can kind of move
+away from this you know socially
+effective deciding between stereotypes
+and typical data and actually moving
+towards a mission that allows
+accessibility you know what I would I
+would do something completely different
+I would do a company meeting and I would
+put the company Mission on the screen
+the one that you just said about not
+only organizing all the world's
+information but also making it useful
+andet accessible R useful and say this
+is our mission that's always been our
+mission and you don't get to change it
+because of your personal bias and
+ideology and we are going to rededicate
+ourselves to the original Mission of
+this company which is still just as
+valid as it's always been but now we
+have to adapt to new user needs and new
+technology I completely agree with what
+saak said times a billion trillion
+zillion and I'll tell you why AI at its
+core is about
+probabilities okay and so the the
+company that can shrink probabilities
+into being as deterministic as possible
+so where this is the right answer zero
+or will win okay where where there's no
+probability of it being wrong because
+humans don't want to deal with these
+kinds of idiotic error modes it's not
+right it makes it a potentially great
+product horrible and unusable so I would
+I agree with Saks you have to make
+people say guess what guys not only are
+we not changing the mission we're
+doubling down and we're going to make
+this so much of a thing we're going to
+go and for example like what Google did
+with Reddit we're now going to spend 60
+billion dollar a year licensing training
+data right we're going to scale this up
+by a thousandfold and we are going to
+spend all of this money to get all of
+the training data in the world and we
+are going to be the truth tellers in
+this new world of AI so when everybody
+else hallucinates you can trust Google
+to tell you the truth that is a 10
+trillion dollar company right and one of
+the things that someone told me from
+Google that as an example So to avoid
+the race Point there's a lot of data on
+the internet internet about flat
+earthers people saying that the Earth is
+flat there's tons of websites there's
+tons of content there's tons of
+information Kyrie Irving so if you just
+train a model on the data that's on the
+internet the model will interpret some
+percentage chance that the world is flat
+so the tuning aspect that happens within
+model development chth is to try and say
+you know what that Flat Earth notion is
+false it's factually inaccurate
+therefore all of these data sources need
+to be excluded from the output the model
+and the challenge then is do you decide
+that IQ by race is a fair measure of
+intelligence of a race and if Google's
+tuning model then or tuning team then
+says you know what there are reasons to
+believe that this model isn't correct
+this I sorry this IQ test isn't a
+correct way to measure intelligence
+that's where the sort of interpretation
+arises that allows you to go from the
+Flat Earth isn't correct to the maybe IQ
+test results aren't correct as well and
+how do you make that judgment what are
+the systems and principles you need to
+put in place as an organization to make
+that judgment to go to zero or one right
+it it becomes super difficult I have a
+good tagline for them now to help people
+find the truth yeah just help people
+find the truth I mean it's it's a good
+it's aspirational they should just help
+people find the truth as quick as they
+can uh but this is
+yeah I do not envy Sundar this is gonna
+be hard yeah what would you do freeberg
+I would be really clear
+on the output of these models to people
+and allow them to tune the models in a
+way that they're not being tuned today I
+will have the model respond with a
+question back to me saying do you want
+the data or do you want me to tell you
+about stereotypes and IQ tests and I'm
+going to say I want the data and then I
+want to get the data and the alternative
+is so the model needs to be informed
+about where it should explore my
+preferences as a user rather than just
+make an assumption about what's the
+morally correct set of waiting to apply
+to everyone and apply the same principle
+to everyone and so I think that's really
+where the change needs to happen so let
+me ask you a question Sachs I'll bring
+Alex Jones into the conversation if it
+index all of Alex Jones crazy conspiracy
+theories but you know three or four of
+them turn out to be actually correct and
+it gives those back as answers how would
+you handle that I'm not sure I see the
+relevance of it if someone asks what
+what does Alex Jones think about
+something the model can give that answer
+accurately the question is whether
+you're going to respond accurately to
+someone requesting information about
+Alex Jones that's the I think that's the
+anal more like it says you know hey I I
+have a question about this assassination
+that occurred and let's just say Alex
+Jones had something that totally
+crackpot he maybe he has moments of
+Brilliance and he figured something out
+but maybe he got something that's
+totally crackpot he he admittedly deals
+in conspiracy theory that's kind of the
+purpose of the show what if somebody
+asks about that and then it indexes his
+answer and presents it as
+fact like how would you index Al Jones
+I'm asking you how would you the better
+AI models are providing citations now
+and links perplexity actually does a
+really nice job with this citations are
+important yeah and they will give you
+the pro and con arguments on a given
+topic so I think it's not necessary for
+the model to be overly certain or
+prescriptive about the truth when the
+truth comes down to a series of
+arguments it just needs to accurately
+reflect the state of play basically the
+arguments for and against but when
+something is a of fact that's not really
+disputed it shouldn't turn that into
+some sort of super subjective question
+like the one that jth just showed I just
+don't think everyone should get the same
+answer I mean I think my decision on
+whether I choose to believe one person
+or value one person's opinion over
+another should become part of this
+process that allows me to have an output
+the models can support this by the way
+maybe customization is part of this but
+I think it's a cop out with respect to
+the problem that Google is having with
+Gemini right now jamat what would you do
+if they made you chairman dictator of
+Google I'd shrink the workforce
+meaningfully okay 50% yeah 50
+60% and I would use all of the
+incremental savings and I would make it
+very clear to the internet that I would
+pay top dollar for training data so if
+you had a proprietary source of
+information that you thought was
+unique that's sort of what I'm calling
+this Tac 2.0 world and I think it's just
+building on top of what Google did with
+Reddit which I think is very clever but
+I would spend a hundred billion dollar a
+year licensing data and then I would
+present the truth and I
+would try to make consumers understand
+that AI is a probabilistic source of
+software meaning its probabilities its
+guesses some of those guesses are
+extremely accurate but some of those
+guesses will hallucinate and Google is
+spending hundreds of billions of dollars
+a year to make sure that the answers you
+get have the least number of Errors
+possible and that it is defensible truth
+and I think that that could create a
+ginormous company this is the best one
+yet I just asked Gemini is Trump being
+persecuted by the Deep State and it gave
+me the answer elections are a complex
+topic with fast changing information to
+make sure you have the latest and most
+accurate information try Google search
+that's not a horrible answer for
+something like that that's that's a good
+answer actually no I I don't have a
+problem with it it's just like pay we
+don't want to give we don't like this
+whole system is totally broken but I do
+think that there's a waiting solution to
+fixing this right now and then there's a
+couple tweaks to fix it time I just
+think the authority at which these llms
+speak is ridiculous like they speak as
+if they are absolutely 100% certain that
+this is the crisp perfect answer or in
+this case that you want this lecture on
+um IQs Etc when remember should present
+it with citations let's all remember
+what internet search was like in
+1996 and think about what it was like in
+2000 and now in 2020s I mean I think
+we're like in the 1996 era of llms and
+in a couple of months the pace things
+are changing I think we're all going to
+kind of be looking at these days and
+looking at these pods and being like man
+remember how crazy those things were at
+the beginning and how bad they were what
+if they evolve in a dystopian way I mean
+have you seen like Mark Andre's tweets
+about this he thinks think competitive
+market sex I actually think to your
+point Google could be going down the
+wrong path here in a way that they will
+lose users and lose consumers and
+someone else will be there eagerly to
+sweep up with a better product I don't
+think that the market is going to fail
+us on this one unless of course this
+regulatory capture moment is realized
+and these feds step in and start
+regulating AI models and all the
+nonsense that's being proposed freeer
+aren't you worried that like aren't you
+worried that somebody with an agenda and
+a balance sheet could now basically
+gobble up all kinds of training data
+that make all models crappy and then
+they basically put their layer of
+interpretation on critical information
+for people if the output sucks and it's
+incorrect people will find that there is
+open truth know you can you can lie
+there they may not be for example look
+at what happened with Gemini today like
+they put out they put out these stupid
+images and we all piled on we are in
+vzer what I'm saying is there's a state
+where let's just say the truth is
+actually on Twitter or actually let's
+use a better example the truth is
+actually in Reddit and nowhere else but
+that answer and that truth in Reddit
+can't get out because one company has
+licensed it owns it and can effectively
+suppress it or change it yeah I'm not
+sure there's going to be a monopoly I
+that's a real I don't know if I I think
+the open internet has enough data that
+there isn't going to be a monopoly on
+information by someone spending money
+for content from third parties I think
+that there's enough in the open internet
+to give our all give us all kind of you
+know the security that we're not going
+to be monopolized away into some
+disinformation age that's what I love
+about the open internet it is really
+interesting I I just asked it a couple
+of times to just just just to list the
+legal cases against Trump the legal
+cases against hundra Biden the legal
+cases against President Biden and it
+will not just list them it just punts on
+that it's really fascinating then chat
+GPT is like yes here are the six cases
+perfectly
+summarized with it looks like you know
+beautiful citations of all the criminal
+activity Trump's been involved in ask
+the question about bid's criminal
+activity let's see if it's I'm joking
+with you I'm joking with you no I'm
+serious ask if you know where you
+Gem and I wouldn't do Biden either I
+think they just decided they're just not
+going to do it they would't do Biden
+they won't touch it it's obviously
+broken and they don't want more egg on
+their face so they're just like go back
+to our other product look I I can
+understand that part of it you know if
+there's some issues that are so hot and
+contested you refer people to search
+because the advantage of search is you
+get 20 Blue Links the rankings probably
+are biased but you can kind of find what
+you're looking for whereas AI you're
+kind of given one answer right so if you
+can't do an accurate answer that's going
+to satisfy enough people maybe you do
+kick him to search but again my
+objection to all this comes back to
+simple truthful answers that are not
+disputed by anybody are being distorted
+that I don't want to lose focus on that
+being the real issue the real subject is
+what chth put on the screen there where
+it couldn't answer a simple question
+about George Washington okay everybody
+we're going to go by Chopper wait chopp
+to the we have our war correspondent
+General David saxs in the field uh we're
+dropping him off now DAV saacks in the
+helicopter go ahead tell what's going on
+in the Ukraine on the front what's
+happening in the war is that the
+Russians just took this city of of diaa
+which basically totally refutes the
+whole stalemate narrative as I've been
+saying for a while it's not a stalemate
+the Russians are winning but the really
+interesting tidbit of news that just
+came out in the last day or so is is
+that apparently the situation in malova
+is boiling over there's this area of
+Maldova which is a Russian Enclave
+called
+transnistria and officials there are
+meeting in the next week to supposedly
+ask to be annexed by
+Russia and so it's possible that they
+may hold some sort of referendum they're
+one of these like Breakaway provinces so
+it's kind of like you know transnistria
+and mdova is kind of like the donbass
+was in Ukraine or south astia and
+Georgia they're ethnically Russian they
+would like to be part of Russia but when
+the whole Soviet Union fell apart they
+found themselves kind of stranded inside
+these other countries and what's
+happened because of the Ukraine war is
+mova is right on the border with Ukraine
+well Russia's in the process of annexing
+that territory now that's part of
+Ukraine so now trans nria is right there
+and could theoretically make a play to
+try and join Russia why do I think this
+is a big deal because if something like
+this happens it could really expand the
+Ukraine war the West is going to use
+this as evidence that Putin wants to
+invade multiple countries and invade you
+know a bunch of countries in Europe and
+this could lead to a major escalation in
+the war all right everybody thanks so
+much for tuning in to the Allin podcast
+episode 167 for the Rainman David saaks
+the chairman dictator from poaa and
+freeberg I am the world's greatest love
+you boys
+Angel inv whatever we'll see you next
+time
+byebye let your winners
+ride Rainman
+David and instead we open source it to
+the fans and they've just gone crazy
+with
+[Music]
+iten besties
+are that's my dog taking driveway
+oh man myit will meet me we should all
+just get a room and just have one big
+huge Georgie cuz they're all this
+useless it's like this like sexual
+tension that they just need to release
+[Music]
+Som we need to get
+[Music]
+mer I'm going all
+[Music]
+yeah

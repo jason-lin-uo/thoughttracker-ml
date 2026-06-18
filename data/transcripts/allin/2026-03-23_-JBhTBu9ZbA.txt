@@ -1,0 +1,2820 @@
+# Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN
+# https://www.youtube.com/watch?v=-JBhTBu9ZbA
+
+I'm here at Nvidia's annual GTC
+conference and I'm going to interview
+four amazing AI CEOs. Stick with us. I'm
+going all in.
+Our episode is sponsored by the New York
+Stock Exchange. Are you looking to
+change the world and raise capital? Do
+it at the NYSE. The NYSE is a modern
+marketplace and a massive platform built
+for scale and long-term impact. So, if
+you're building for the future, the NYSE
+is where it happens.
+I'm going all in.
+One of the great companies of the AI era
+is, of course, CoreWeave. They're
+building massive infrastructure for
+these hyperscalers and in some ways,
+Michael, uh in trader, welcome to the
+program. You're
+the original hyperscaler. You guys got
+in very early and secured your
+I don't know which
+GPUs you wind up getting, but you were
+very early to this trend. And how did
+you
+get to it so early and how did you build
+out this, you know, first, I guess at
+the time, neo cloud? Yeah, so we we
+didn't really start it as a neo cloud
+and I I I was
+running an algorithmic hedge fund
+focused on natural gas and
+uh
+when when you build an algorithmic hedge
+fund,
+once the algorithms are built, you're
+really just monitoring it and testing
+different pieces and doing all that, but
+there's also a lot of downtime and we
+got super interested in crypto. Um and
+you know, we're pretty nerdy. We kind of
+dig under the hood and we started to get
+interested in the security layer.
+We looked at Bitcoin and the mining for
+Bitcoin and we didn't like it. We just
+thought that like there's some brilliant
+engineer that built the ASIC and they're
+probably going to be better at running
+it than we are. So, we really began to
+focus on the GPUs mostly because the
+GPUs were you can mine Ethereum with
+them,
+but you can also do all these other
+things. And really so right from the
+start, we looked at the compute as an
+option to be able to deploy our
+computing power to different use cases.
+And so, you know, began the company in
+2017,
+you know, spent the first kind of 3
+years mining crypto, went through a
+couple of crypto winters
+because we had come from hedge fund our
+you know, we we have real chops in risk
+management and how we think about
+capital and risk exposure and allocation
+and all of that. And so we were really
+careful around that right from the
+start. So we weathered crypto winter
+really well
+and began to scale the company and
+immediately started to look for other
+use cases that you could use this
+compute for cuz crypto was pretty
+volatile. Yeah, and crypto was a
+question mark at that time. Absolutely.
+Yeah, I mean Bitcoin was speculative and
+there were many other speculative
+projects. The only other people using
+this type of hardware, quants,
+yeah, medical researchers. So a good way
+to think about it is like the
+progression of products that we kind of
+started to work on. You know, first was
+crypto, but we immediately moved from
+crypto to CGI rendering and we built
+projects that will let it allow
+folks that were trying to animate and
+render images,
+you know, kind of what makes the movies
+cool, right? And and we started to work
+on that and then we moved to batch
+computing and started to look at medical
+research and different ways of using the
+compute to be able to drive science.
+And we just kind of kept moving up the
+stack in terms of complexity
+on how GPUs could be used and ultimately
+in like call it like 20 20 2021, we
+started to really try to figure out how
+you can go ahead and use GPUs for neural
+networks and that was not something that
+we knew how to do. And so we actually
+went out and bought a bunch of A100s and
+donated them to a a group that was
+working on Luther AI. They were working
+on open-source project with the thought
+that
+these guys are
+taking the GPU compute because we're
+donating it, they can't really get
+pissed at us if we're not very good at
+it initially. And that worked out really
+well because
+&gt;&gt; They can't complain about the SLA.
+&gt;&gt; They kept telling us like we need more
+of this, you got to work on this. And
+that began to really
+give us an understanding of what was
+necessary to run
+scale parallelized computing. And you
+know, that that
+we went through it. I kind of feel like
+buying those initial GPUs was the
+tuition we paid to learn how to run this
+business. And then one of the
+interesting things is all of those guys
+went back to their day jobs because they
+were all volunteers working on this.
+They were like-minded scientists. And
+when they got to their day jobs, they
+were all like, I want that
+infrastructure. It's built the right
+way. That's the way that research is
+going to want to use it. And that
+launched our our business. It was an
+amazing story. And So you went from
+crypto to these researchers into
+academia and deep research. What's the
+next card to turn over in the poker
+game?
+&gt;&gt; Yeah, so so what became very clear to us
+very very early on was that the scaling
+laws were going to drive and remember
+this is really back in the you know,
+2020, 2021 before
+chat GBT moment occurred. And we began
+to understand that like computing
+decommoditizes at scale. Right? Like
+when when you know, anybody can run a
+GPU, but can you run a cluster that's
+large enough to train a model that can
+change the world? And that's a different
+question. And so we really began to
+think about like how do you go about
+scaling up your delivery of this
+computing to clients, larger and larger
+clients. And that was the next card to
+turn is to think about it from a okay,
+you know, there's a component of this
+that is going to lean into
+uh our ability to access the capital to
+be able to deliver our solution to the
+broadest possible audience, to the most
+sophisticated consumers of this compute.
+And and that was really the next card is
+thinking about it as a business rather
+than as a engineering project to be able
+to deliver the the uh
+the infrastructure and the software and
+really everything between, you know,
+when you when you're thinking about what
+we do, we kind of live
+above the NVIDIA GPUs but below the
+models. And everything in there, all the
+software, the integration of software
+and operations, and uh observability,
+and all the things that you need to be
+able to build uh a cloud that's
+purpose-built for this one specific use
+case, right? So, we don't we don't do
+everything. We really focus on one use
+case, which allows us to
+&gt;&gt; web servers? It's different. You got
+AWS. You know what? They do a great job.
+It's like it's a it's a great solution.
+It was a brilliant solution to solve a
+problem. We just looked at it and said,
+"There's a new problem. And let's go
+about Let's go about looking at this
+problem and try and come up with a
+solution to deliver compute that solves
+that problem." And when did the language
+model start dialing and calling you for,
+you know, capacity? Yeah, so uh our our
+our first uh
+um well, our our first language model
+was really Eleuther. Yes. Um but uh our
+our first like large commercial
+uh was Inflection. Uh
+and so, you know, we work with Mustafa
+and and and Inflection, and then we we
+really diversified from there
+uh into the hyperscalers, into, you
+know,
+OpenAI across the the the the model
+uh the foundation models across
+um you know, and and just kept scaling
+scaling with the belief that, you know,
+once again, the the the
+decommoditization
+of compute, the ability to to deliver a
+solution, and the solution is building
+supercomputers that can change the
+world. And that's really what we began
+to focus on. That was the lead into
+training, and now the world has gone
+through, you know, this this moment
+where we've moved from research into the
+productization of this. It's it's it's
+beginning to work its way in from the
+the the the fringe of organizations into
+the core of what they do, and you can
+see that every day in the
+in the amount of inference compute that
+is being driven through, you know, our
+infrastructural layer, which is just
+massive, which is just like one of the
+massive
+&gt;&gt; are consuming it, not just building
+models, but they're deploying them and
+and utilizing them.
+&gt;&gt; I always think of inference as the
+monetization Yeah. of the investment in
+artificial intelligence. So, when when
+when we when we see our compute being
+used
+to stand up the massive scale of
+inference that's hitting our compute
+every day, and like, you know, inference
+is when people ask the model a question,
+it comes back with an answer. That's an
+inference. Or when you ask the model a
+question and then to go do something,
+that's inference, right? And that's
+actually where your your you have the
+opportunity to really drive value
+outside of the model itself, but into
+the real world. And
+that's really exciting for us. That's
+what we like to watch. That's what I
+like to watch in terms of gauging the
+health What chips are those? Um, so so
+really, uh, you know,
+we are we are the tip of the spear in
+bringing, um, the new architecture, uh,
+out of Nvidia,
+uh, into uh,
+into commercial production at scale.
+Yeah.
+uh, so when when, you know, we were the
+first ones to bring the H100s at scale.
+We were the first ones to bring the
+H200s at scale. First ones with the GB
+200s and now you've got the GB300s. And
+one of the things that's that's that's
+amazing and really fascinating for us is
+is you know people are using the
+bleeding edge GPUs to train models
+as the new architectures come out and
+then they take those GPUs and they move
+them into different experiments and then
+over time they move them into inference
+and they continue to use them in
+inference for a very very long time.
+What is the shelf life of a 100 right
+now? That's been a big debate is I think
+for your company for Microsoft and I
+guess Michael Berry you're you know who
+you must have known when you were a
+quant you know saying oh my god the
+whole industry is the sky's falling and
+then we all know in the industry that
+people don't just throw this hardware
+away that they find uses for it the
+street finds its own use for technology.
+So what's the reality of the lifespan of
+these things?
+&gt;&gt; So so my my take on the the
+the GPU depreciation debate is that it's
+nonsense right? It's a debate that is
+being
+brought to the forefront by some traders
+that have a short position in the stock
+and they're trying to talk down. Look
+here's what we know right?
+Um
+when when we buy infrastructure we're a
+success based company right? We're a
+small company on a relative basis
+compared to the enormous companies that
+we're competing with. And so they come
+our clients come into us and they buy
+compute for five years for six years.
+Our average contract is five years. So
+any commentary by anyone either inside
+or outside of the industry that this
+stuff becomes obsolete in 16 months or
+whatever nonsense they're spewing it's
+it doesn't it doesn't in any way match
+up with the facts on the ground. The
+facts on the ground is they're buying it
+for five years right? If and my approach
+to this has always been if people are
+willing to pay me for it,
+it still has value. Correct.
+&gt;&gt; Pretty simple way of
+of approaching it. We use a 6-year
+depreciation.
+Um we believe that the GPUs will last in
+excess of 6 years, but we felt like that
+was a fair and reasonable approach to a
+technology cycle that's moving at this
+velocity. Um
+the A100s, the Ampere's, this year the
+price has appreciated through the year.
+Now, why's that? I I think it's because
+one of the things that happens is as
+more installed capacity becomes
+available, you have new companies that
+come into existence that have new use
+cases, that have different size models
+that are trying to
+build new commercial ventures that maybe
+have been blocked out of the H100s and
+never had an opportunity to run on that.
+&gt;&gt; to make a very simple example for the
+audience, like you when you trade in
+your iPhone after three or four years,
+you're like, "Who's going to use an
+iPhone 12?" And it's like, "Have you
+been to South America or Africa where
+you go to the store and you buy an
+iPhone 12 or you buy the Pixel 7 and it
+costs $50. That's still got great life
+left in it."
+&gt;&gt; Absolutely. Yeah, you know. Well, and so
+look, you know, we we find these amazing
+use cases, new companies that have come
+into existence or existing companies
+that have integrated new models into
+their workflow that are able to use
+the Ampere's. And so they keep buying
+any GPUs that we have available. And
+once again, you know, the concept that a
+GPU
+is no longer relevant or commercially
+viable after 16 more 18 months or 2
+years.
+&gt;&gt; Yeah, that's far as it goes. It's just
+It just doesn't make any sense.
+&gt;&gt; it goes, far as it goes. I think
+sometimes people get caught up in
+Moore's law or in just how fast our
+industry is growing and that there's so
+much at stake that big companies are
+demanding the most recent products.
+That doesn't mean that the lifespan has
+gotten shorter, it means the opportunity
+and the surface area of the opportunity
+has gotten much larger.
+&gt;&gt; Yeah.
+One of the things is is like, you know,
+the the
+the the industry has gotten so much
+attention for the
+unprecedented scale of capital that is
+coming to bear on this. And
+because of that, there tends to be a
+incredible focus on
+the companies that are building on these
+most advanced chipsets. And the truth of
+the matter is is, you know, even within
+those companies, they have a long tail
+of useful life
+to provide inference horsepower, to work
+on other experiments, to do
+less bleeding edge activity, but still
+needs to be done. And yeah, I mean,
+rendering comes to mind as well. Or
+yeah, we're making images on nano
+banana. Like there there there will be a
+use for it. There is a moment in time
+where maybe the compute to power ratio
+doesn't make sense. My My expectation is
+is obsolescence will be
+defined by the moment in time where the
+power
+in the data center
+for me will be able to be repurposed for
+a higher margin than the existing
+infrastructure provides. And, you know,
+like I said, I I fully expect this
+infrastructure to last in excess of 6
+years, but the the the standard in the
+in in in the space has really been used
+with one exception, which is Amazon,
+which is yeah, it's 6 years. That's that
+seems like the right schedule. I'm not
+making it up. That's what everybody's
+using. Yeah. And
+the energy cost is the opportunity
+because hey, it's just a we need that
+space. There's a better uh reward here,
+and that might get resold that hardware
+to somebody else who wants it, a
+hobbyist or something. It's Yeah. I
+mean, or it could be sent someplace else
+where they have more capacity when they
+can repurpose it there. But I I I
+I kind of feel like, you know, we'll
+we'll deal with that part of the
+business when we get there. What I know
+right now is it is extraordinarily
+profitable. It's very creative to my
+company to continue to keep the
+infrastructure that's been up and
+running, that's been on these long-term
+contracts. And as it rolls off, as it's
+been in use for 5 years, you know, as it
+becomes available, I'm still able to
+sell it at a higher price than it was at
+a year ago. There's competition now.
+When you were buying these from Jensen
+back in the day, yeah, you could buy
+them and have them shipped I would
+assume within 30 days or less.
+Nowadays, what's the wait like even for
+you, a a loyal old customer? And is
+there a bit of a battle? Is there
+politics to who gets the servers? Like
+I've you see some like very big names
+talking about they got to get an
+allocation. Is it still a little bit
+crazy? What's it like to be in that
+category having to buy something
+everybody wants? Look, you know, I
+I think of it as an affirmation of the
+business that we're in, right? Like the
+fact that we are attracting competitors.
+The means that the business is healthy
+and there's a lot of people trying to
+deliver this service because
+the need for this infrastructure, the
+need to integrate the infrastructure,
+you know, into the software layers to
+deliver it to artificial intelligence
+either at the model level or the
+inference level or the application level
+or whatever you know, level of the
+five-layer cake that Jensen's you know,
+focused on.
+The fact that there are more people
+coming into this it doesn't discourage
+me.
+As far as getting access to the GPUs, we
+show up like everybody else with a
+you know, we'd like to buy here's a PO
+and we're ready to pay.
+The one
+What's the wait time like and is it just
+really competitive or not? Because I
+talked to Jensen about it, said I said,
+"How do you manage all these like big
+egos and names and companies trying to
+buy stuff?" And he said, "Well, they
+order it and we give it to them in the
+order in which they order it." Is it
+really like that?
+&gt;&gt; It really is. Right? Like, you know,
+he doesn't want to be in the position of
+playing favorites or like that that just
+seems like a bad place to be with your
+clients. Or auctioning them off.
+&gt;&gt; Yeah, so yeah, that would that that
+That'd be crazy. Yeah,
+I don't I'm not sure that would be good
+for the long-term business.
+&gt;&gt; No. Yeah, so So our our our approach is
+&gt;&gt; get some sovereigns coming in and
+saying, "I'll pay double." They do that
+with Ferraris, too, sometimes.
+Cuz these are the Ferraris of computing,
+right?
+&gt;&gt; way, they are. Yeah. They're the
+Bugattis. Our our approach is to work
+with
+clients across the entire space to find
+opportunities that are really
+interesting companies that can fit into
+our contraction
+contracting requirements where we're
+going to be able to go out and structure
+the debt that we require in order to go
+out and and build infrastructure at this
+scale. And um
+&gt;&gt; How does all that debt work? I That is
+something that you guys specialize in.
+Um corporate debt
+I'm in the venture business. People are
+like, "Why should I be in venture when
+corporate debt pays so well?"
+Corporate paper is so huge. I'm curious
+how this fits in and like what
+uh interest rate people are paying on,
+you know, a billion dollars in
+infrastructure. What do they pay on
+that?
+&gt;&gt; Yeah, so So Coreweave is
+really been the innovator around a lot
+of the financing engines that have come
+to bear on this. We did the first
+GPU-based
+uh loans.
+Um and like I I think it's important or
+I'm going to try to explain this in a
+way people can understand. So, what we
+do is we go out and we find a client.
+Let's use Microsoft. You brought them up
+before, right? And Microsoft comes to us
+and says, "We'd like to buy some thing."
+And we say, "Okay, great. We're going to
+sign a contract." Once I have a contract
+in hand,
+then what I do is I create something
+It's not a particularly creative name.
+It's called the box, yeah, right? And
+what I do with the box is I take my
+contract with Microsoft and I put it in
+the box. I go to Jensen and I buy the
+GPUs. I put it in the box. I take my
+data center contract, I put it in the
+box. And now the box governs cash flow.
+And it has a waterfall of cash flow that
+comes into it and goes out of it. And so
+the way it works is then I build the
+compute and then I deliver the compute
+to Microsoft and they pay the box. They
+don't pay me. Right. It goes into the
+box and the first thing it does is it
+pays the data center. It pays the power
+bill. It pays the interest and the
+principal.
+And then whatever's left flows back to
+us,
+right? And so it is an incredibly
+well-structured, time-tested,
+pressure-tested vehicle to be able to
+borrow money against client paper and
+all of the other
+collateral around the deal, which is why
+CoreWeave, which is a company that many
+people haven't ever heard of, was able
+to go out and raise $35 billion in 18
+months to build infrastructure at scale.
+But what's important to understand is
+the economics in this box are such that
+within 2 and 1/2 years of a 5-year deal,
+we have paid for everything. The
+principal's been paid off. Well,
+the principal's been paid off. The
+interest has been paid off. The return
+into the box is such that we are able to
+generate returns to our company at the
+box level, Right.
+&gt;&gt; which gives the most sophisticated
+lenders in the world,
+whether it's banks or private equity
+funds or
+um you know, whoever, confidence that
+they're going to
+be able to achieve the one rule of
+lending, which is give me my money back.
+Yes, and so it's better when that
+happens.
+&gt;&gt; So they look at this box and they're
+like, "Wow, we're really confident we're
+going to get our money back."
+&gt;&gt; And maybe they want 10 boxes. That's
+correct.
+&gt;&gt; And and if anyone box
+um goes upside down, you can uh deal
+with it and it's not as acute.
+&gt;&gt; That's correct. And they don't
+cross-pollinate, they don't cause
+uh a contagion across the boxes. They're
+all independent and discrete.
+One, and number two is as you do this
+and as you show the lenders how this
+financing tool and how this financing
+mechanism works, what they do is they
+continue to lend you money at
+progressively lower rates. And so when
+you think about our cost of capital over
+the last 2 years,
+we have dropped our cost of capital by
+600 basis points. Wow. It is enormous,
+right? And so you're seeing a company
+that is driving its cost of capital down
+towards where the hyperscalers borrow,
+which will enable us to be able to be
+competitive with them
+over time. And we have been extremely
+uh militant and diligent about feeding,
+watering, and caring for those boxes so
+that we continue to have access to the
+capital markets in a way that allows us
+to build and drive our business.
+&gt;&gt; Means you have to say no you have to say
+no to maybe some people who want to be
+in the box? Yeah, so
+we we we look at some deals and we're
+just like, you know, they want to buy
+GPUs for a year and I look at it and
+say, "I I that's not a deal that I can
+do because it's too short for me to
+amortize the expenses." Or and so I
+won't do that, right? Like once again
+&gt;&gt; can go to another provider who maybe
+wants to take that risk on who has extra
+capacity.
+&gt;&gt; Absolutely, but our business is really
+built about around the risk management
+of being able to get to scale because in
+my mind
+during this period of disequilibrium,
+during this period where there were not
+enough GPUs in the world to provide the
+compute for all of the different use
+cases in artificial intelligence. The
+part that's important for me and for my
+company is to get enormously large so we
+can drive down our cost of capital so
+that we have information flow coming in
+from all different parts of the market.
+The large language models, high-speed
+trading,
+search, all of these things. They're
+feeding They're feeding information back
+in to us that is letting us know what
+the next product we need to build is or
+where, you know, they need help scaling
+or what type of compute they need. And
+all of that information flow is
+incredibly valuable to us. What what can
+you tell us about demand? There's been
+reports of, "Hey, maybe the Oracle star
+base thing with Open AI's been downsized
+or maybe not." And then, you know,
+other folks, Microsoft is going big and
+Google's going big, Meta is going big,
+and those people obviously have massive
+cash flow. Apple seems to be MIA. They
+don't seem to want to play. You you you
+you've you've named a lot of really big
+companies with really big balance sheets
+that have the capacity to drive a lot of
+demand. Look, I I have been
+truly steadfast in this
+for years now. For for for 4 years,
+the depth of the demand for the service
+we provide
+has been relentless and overwhelms the
+global capacity of the world to deliver
+enough compute to enable all of the
+demand for artificial intelligence to be
+stated. And that has been We have been
+relentless about that. We have
+&gt;&gt; Sounds like Knicks tickets during the
+Patrick Ewing era. Like they got up to
+50,000 people on the waitlist. So, if
+magically the waitlist
+went away if the constraint went away
+and we just had a large amount of GPUs
+available, a lot of energy available, a
+lot of data center available.
+How much
+capacity would just all of a sudden come
+out of the system?
+&gt;&gt; So so Or would would be deployed, I
+should say.
+&gt;&gt; So
+Remember how we build our our business
+through this box.
+And it's a 5-year box. So if we had an
+air pocket
+if if demand were suddenly to disappear
+because of a technology breakthrough,
+because of a war
+a war, anything, right? Like like the
+why from a risk management perspective
+does not matter. You have to prepare
+your company for the what happens if it
+happens.
+&gt;&gt; Yeah. And so by entering into these
+long-term contracts, into entering into
+contracts with counterparties that have
+large balance sheets,
+you are or we are protecting ourselves
+and our lenders
+&gt;&gt; Yeah. so that we are confident and they
+are confident because you can see how
+confident they are by the rate that
+they're charging us continuing to
+decline that they're ultimately going to
+get their money back and that is the one
+rule of lending. Yeah. And so um you
+know
+if
+&gt;&gt; in terms of the capacity, if you were
+unconstrained and Nvidia Jensen says,
+"Hey, order as many as you want." What
+would happen? So um the the it's also
+important to understand the constraints
+aren't just GPUs.
+&gt;&gt; Right. Right. Electricity
+&gt;&gt; It's it's power shells, it's memory,
+it's storage, it's it's networking, it's
+optics, all of the things. And there's
+there's various throttles that will
+limit the
+&gt;&gt; Memory is the throttle right now, right?
+&gt;&gt; Oh, yeah, it is. Oh, yeah, it is.
+&gt;&gt; Why How did memory become the throttle?
+If um
+memory and
+it has historically been a cyclical
+business, right? We have seen these
+waves of demand driving up the cost for
+memory and then it collapses and then it
+drives it up. It's a very boom and bust
+business. It's cyclical in its nature
+because the fabs are so capital
+intensive that people invest in the
+fabs,
+build a ton of capacity, and then
+overbuild
+if there's any type of turn down. And
+that we've seen that cycle again and
+again. What's happening right now is the
+confluence of two things, right? One is
+is
+with all the demand for artificial
+intelligence and the corresponding
+demand for compute and the ancillary
+services around the GPU,
+the demand is through the roof. That's
+number one. Number two is is that
+there was probably an investment cycle
+that needed to happen back in 2023
+that would have brought on the necessary
+fab capacity to be able to serve
+Impossible to predict what just
+happened. Just with energy, it's
+impossible to predict what just
+happened, and now people are chasing
+energy. The data centers are going where
+the energy is. It's not based on real
+estate, it's based on It's And where
+there's some wind. And anytime you you
+have a uh very cap Not not every any
+time, but many times when you have a
+uh a capital intensive business like,
+you know, building fabs, you will get
+this boom and bust cycle. Just like in
+energy, they overbuild. And then, you
+know, Fiber. Yeah, I mean, there's
+there's there's a lot of examples of
+that. Our approach
+&gt;&gt; Some ways when you look at that, it's a
+beautiful aspect of capitalism that
+we're able to have a boom bust cycle,
+that we're able to weather it, right? If
+you think just at capitalism from first
+principles,
+something like that happens and we have
+too much fiber, it creates an
+opportunity for Google to buy it all up
+or the next person. Listen, the the the
+um um
+you know, it it does a it does a lot of
+things having a boom bust cycle. It
+clears out the underbrush. The strongest
+companies will be able to survive and
+take advantage of that. And it sows the
+seeds of future business. The other
+thing that it does is you put that
+infrastructure into the ground. You put
+the fiber into the ground, which became
+the backbone of how, you know, we watch
+movies every day and how we, you know,
+communicate and how we hop on a zoom
+and, you know, COVID and all of these
+things were based on that infrastructure
+that was available to be consumed. Yeah,
+people don't recognize this fact. If you
+the the premise of YouTube from the
+founders who I knew, Chad Hurley and his
+other partner, they basically had the
+realization at this curve, storage is
+coming down so quickly, we could offer
+free unlimited uploads and bandwidth is
+coming down, so I guess we don't have to
+charge people for sharing a video
+online. Before that, if your video went
+viral,
+people are going to have their minds
+blown, but your server would turn off
+and it would say, "This person, you
+know, needs to pay their bill." Yes. Cuz
+they were getting charged for carriage
+by the megabit going out. Yes. I mean,
+it look and and, you know, these these
+the business models change and evolve
+and, you know, like you said, Moore's
+law and and and certainly Jensen will
+talk about the fact that like what what
+is going on within the the the
+accelerated compute says dwarfs Yeah.
+Moore's law, right? And all of that is
+going to lead to
+more opportunity to build more companies
+that are going to do things like YouTube
+did, which has really changed the world.
+Yeah. Yeah. I mean, the the concept that
+I I don't know if it was like a million
+hours being
+loaded every hour or minute, but at some
+point Susan Wojcicki, rest in peace,
+said to me,
+just like
+how much was being uploaded every minute
+and it made no logical sense until she
+realized, well, there's
+3 billion people out 2 or 3 billion
+people in the service and 1% upload or
+10 bi- bips upload. It's like, okay, 1
+in a thousand people upload. It's a big
+It's a big denominator, like I I was uh
+sitting on a a panel uh with Sarah Fryer
+CFO of
+open AI and uh
+um
+she every once in a while
+she really puts out like interesting
+information and so she was talking about
+the cost of a million tokens when chat
+GP3 came out and it was $32 and change.
+And now a million tokens cost 9 cents.
+Yeah.
+&gt;&gt; Right and so you just see like like the
+incredible power of
+how the capital markets, how capitalism
+is
+uh
+fueling engineering and fueling
+competition and
+&gt;&gt; become recursive now too. I mean these
+models if you say to the model, "Hey,
+make yourself more efficient and spend
+less money and lower the cost of
+tokens." It'll be like, "Okay, Captain."
+Yeah. I don't know if you saw Karpathy's
+recursive thing last weekend but it's
+like now civilians who've never worked
+in a language model or done computer
+science are like, "I'm going to try to
+do something recursive this weekend."
+&gt;&gt; You know it's
+one of the things that I
+that uh
+uh I talked to you know
+the other founders about you know and
+it's like
+when you think about some of the things
+that AI does right? It's lowering the
+barrier to operations. So if you have a
+good idea or a great idea, you can
+open up your model and you can tell your
+model, you can vibe code it, you can do
+all kinds of different things and create
+things that never existed before. That's
+amazing right? Like that's bringing down
+this incredible barrier that kept human
+creativity contained and now all of a
+sudden this whole new vector of
+you know medical research or different
+approaches to you know baseball cards or
+whatever you want. If you've got a great
+idea, if you've got a new creative idea,
+that's the valuable kernel right now
+that allows you to to build new things
+and to create new things. And I just
+think that's incredibly exciting. Like
+you're bringing the minds of 8 billion
+people a tool that allows them to
+overcome what was insurmountable for
+forever. For humanity. Yeah. It's a
+bright new future, Michael. Appreciate
+you sharing the
+information with us and the vision. I am
+really delighted to have Aravind
+Srinivas on the program. Thank you for
+having me, your Jason. It's so great. I
+want to go through three stages in which
+I fell in love with your product. The
+first phase was
+I could go in, pick my language model if
+I wanted to use Open AI, if I wanted to
+use Claude, whatever it was. That was
+like a real unlock for me.
+And on the side bar side bar, I noticed
+you had done
+essentially like
+what Yahoo did in the early days.
+Finance, sports. And when I pulled my
+Nick game up, it gave me a live version
+of that. When I pulled my stocks up, it
+summarized the news in real time and I
+was like, "Wow, this execution's great."
+And I kind of made you my front door to
+different models and it made it easier
+for me to check it. Then you came out
+with the Comet browser.
+And I was like, "Holy cow, I can give
+this a series of instructions. Go to my
+LinkedIn,
+find everybody from this company, put
+them into a Google Sheet." And boom, you
+were the first out of the gate with
+that. And then just the last couple of
+weeks, I had been Claude pilled and
+using Open Claude, but you came out with
+computer.
+And I started using computer and boy,
+it's good.
+It's a really strong start
+allowing me to do repetitive tasks very
+similar in some ways to co-work from
+Claude or
+basically an engineer or developer using
+it. So,
+are these the evolution of the company
+and I should think about it that way,
+but how do you look at Perplexity now?
+You have a very loyal fan base. You're
+making a lot of money. I don't know if
+you disclose it, but I think it's
+hundreds of millions to billions. You
+can tell us.
+But what is Perplexity in the face of
+Wow, Claude's having a great run,
+opening eyes still doing strong, Grok
+doing very well, Gemini coming on
+strong. There's like six or seven of you
+and you just happen to be one of my top
+twos right now. Thank you. So tell me
+&gt;&gt; all, first of all, thank you. Thank you
+so much. Perplexity has always been
+built for people who are always looking
+for the extra edge, the curious people.
+So it's very natural that you are one of
+our power users.
+Uh
+one common theme for us uh for the last
+three and a half years is accuracy.
+Perplexity wants to be the company
+that's building the most accurate AI.
+So when you want to give somebody
+answers, accuracy is very essential for
+building trust cuz only then the user is
+going to ask the next set of questions.
+It turns out it was a great idea to give
+AI access to the internet to be
+accurate. So that's the Perplexity Ask
+product. It turns out it's a great idea
+for AI to have full access to a browser
+so that it can be accurate when you task
+it to go do something that you would do
+yourself on a browser.
+Agentic browsing, comment.
+Now, the last phase is it turns out it's
+a great idea for AI to give it be given
+a full access to a computer.
+So that it can do whatever you do on a
+computer on its own.
+Essentially becoming the computer
+itself.
+An orchestra of everything AI can do
+today, every single capability each
+individual AI model has, be it GPT or
+Claude or Gemini or anything else.
+An orchestra of all those capabilities.
+That what That's what Perplexity
+computer is.
+And all these sub-agents that are
+running inside computer are the
+musicians.
+The models are essentially the
+instruments.
+And there are like hundreds of models
+out there, each having their own
+specialization. Some are good at coding,
+some are good at writing, some are good
+at multimodal visual synthesis, image
+generation, video generation, audio.
+But what matters is the end output, the
+music you play. That's the work AI gets
+done for you, and that's what Perplexity
+computer is. The AI itself is the
+computer now.
+Still lives inside of a browser.
+Have you considered giving it desktop
+root access? That feels like the next
+place this is going, but
+that comes with a lot of security
+issues, a lot of trust issues. As you
+mentioned, trust is paramount, getting
+the right answer is what builds it, but
+also not getting hacked and not having
+it delete your files. So, how do you
+think about root access to my Windows
+machine? Obviously, iOS, they won't let
+you, but with an Android phone, it would
+let you. Yes. So, do you have that in
+the works? Yes, so we announced
+something called personal computer.
+Perplexity personal computer.
+That's essentially going to take all the
+trust and reliability and the
+server-side execution of Perplexity
+computer, but synchronize it with your
+local computer, so that you can use it
+from your phone. And we're going to do
+this with the Mac mini, where you
+synchronize your computer with the Mac
+mini, so that becomes your local server.
+All the agent orchestration that has to
+do with your local private data will run
+on that local orchestration loop, that
+runtime, with the Mac mini.
+&gt;&gt; Not on your servers, not on Anthropic's.
+Exactly.
+It could still ping frontier models if
+it needs to, with your permission,
+but it will be orchestrating everything
+on your local hardware. Yeah. And if it
+needs to run on the server-side
+hardware, if you don't want very
+complicated, long-running tasks to be
+running on your local hardware, Yeah.
+you can delegate it to run on your
+server-side computer, which is again
+only accessible to you and you alone.
+So, that way we're going to bring this
+perfect hybrid of trustworthy uh
+hybrid between local and server side.
+And you
+&gt;&gt; And you'll make it easy to do. It'll
+just be abstracted. You install one
+executable, boom, it's done.
+&gt;&gt; It's It's like open claw for dummies.
+Nobody needs to learn how to use it.
+Nobody needs to manage API keys. Nobody
+needs to manage separate billing across
+like 100 different services, figure out
+what you can give access to and not
+access to. We take care of that. So,
+it's the Steve Jobs way of doing it, you
+know, end-to-end integration. And And
+how do you think about local models?
+I have started running Kimmy 2.5 on a
+Mac Studio.
+It's not as good as Claude or Gemini or
+Grok, but you can probably do about 80%
+there for free.
+&gt;&gt; Yeah. Essentially. Yeah.
+&gt;&gt; Uh and so, that's quite compelling
+considering some of my other bills,
+Claude and and stuff were getting
+expensive. So,
+do you have one of those you started
+testing on your local Mac Studio? I
+assume you have a Mac Studio and you're
+doing this yourself?
+&gt;&gt; Yeah. So, or now, I don't know if you
+saw
+uh Dell and Nvidia announced a giant
+workstation. Um is it a 3800?
+Something like that.
+&gt;&gt; Something like that with 750 gigs of
+RAM. So,
+what do you think about the desktop
+going back to workstation {slash} server
+Yeah. status? I think it's very
+promising. Um my my prediction is it'll
+initially start off as a sub-agent.
+So, whatever you need to go uh like your
+tax returns, your personal photos, your
+emails, your your calendar, all that
+stuff, those local apps, your personal
+notes, very personal notes, you can make
+sure that the models that access those
+tokens will be running on your local
+hardware if you want to, if you're that
+privacy-conscious.
+Uh and more complicated stuff that
+accesses your data is already on the
+server side. Example, your Google
+Calendar, your
+&gt;&gt; Gmail. This is personal data still.
+But
+uh AI runtime can access that through
+your connector, your Google Calendar
+connector, your Google Workspace
+connector.
+And that could run on the server side
+because anyway the data's on the
+servers, it's not even lying on your
+device.
+&gt;&gt; So that sort of hybrid orchestration is
+where we are headed to. I don't think
+it's a dichotomy between fully local
+versus fully server. Uh it's all about
+choice. And anyway when you're on your
+phone, uh you want to you don't care
+actually which server that workload's
+running from because it's it's not going
+to be able to run on your phone anyway.
+The chips need to exist on a Mac Studio
+or a Mac mini
+and or on the server.
+&gt;&gt; new Dell that's coming out and I I
+really think the idea of
+spending $10,000 on a powerful desktop
+will appeal to people if it lowers their
+$500 a month Yes. cloud bill. Yes. This
+is an incredible savings plus you get
+the benefit
+&gt;&gt; Yes. of privacy and not educating the
+language models on your personal data.
+Yes. And it's going to be it's going to
+be like you're buying a refrigerator.
+Your your your your internet modem. Like
+the cost for these will eventually go
+down. Yeah. But it's not going to feel
+like you're wasting your money. Uh every
+every home has a lot of other sensors
+Yeah. that runs your home.
+They'll also be part of this
+orchestration loop.
+Yeah. So so that's where it gets
+exciting because now you can just
+dictate something to your phone and that
+can control your entire home.
+So that's the dream that everybody has
+and all that orchestration loop can run
+on your local hardware, no problem. And
+I'm curious what you think of the
+operating system. What's eventually
+going to be the operating system of this
+workstation? AI is the operating system.
+Like earlier in the traditional
+operating system you execute
+programmatically.
+Now you start with objectives, not
+specific instructions. Right. You come
+up with a high-level objective. Go build
+this website for me that you know, takes
+all the transcripts of all-in podcast
+and tracks the stock price just before
+the podcast and after. Yeah.
+&gt;&gt; And charted for the max 7. Yeah. And and
+charted over time. You can So, that's
+the objective. But, individually, it's
+running a file system, a code sandbox,
+access to the internet. It's having like
+its own HTML tools and like
+&gt;&gt; Yeah. So, I think that's basically
+where, you know, models, systems, and
+files, and connectors are all coming
+together. You would think of that as an
+OS. Mhm. Except you're operating at an
+abstraction above that where you're
+thinking in terms of objectives. Yeah.
+And does it need to eventually become
+its own operating system in your mind?
+It could be. Like, people could think
+about it as like, "Yeah, I have a my
+Perplexity computer running all the
+time." Whether it Essentially, it runs
+on Linux machines right now. Every
+server-side computer is a Linux Linux
+machine. Yeah. So, I think Mark
+Zuckerberg recently tweeted this right
+after our release that "Turns out Linux
+computers was the right idea. Desktop
+Desktop Linux computers are finally
+going to work." Yeah, I mean, they're
+stable. Yeah. They're customizable, and
+you're not at the mercy of Apple's
+desire to contain the experience
+&gt;&gt; Exactly. or Microsoft's surface area as
+for hackers. Exactly. You build
+something rock solid, and it does feel
+like Linux might actually become the
+Correct. the eventual winner. It may not
+need to have a front end.
+Right.
+&gt;&gt; thing. You could You could access the
+Linux machine on your phone. Right.
+&gt;&gt; running iOS or Android. It doesn't
+matter. Right. The actual valuable
+runtime is running on Linux on the
+server.
+You've done great as a consumer company.
+A lot of love there. Now, I'm starting
+to see uh corporations with computer ink
+starting engaging. it. fact, you'll be
+happy to know this. last week I took two
+people in my back office and I said,
+"Stop working on Open Claw.
+Your job is to do the back office
+automation at our venture firm only
+using Perplexity."
+And they were like Perplexity computer
+and they were like, "Oh, okay. Um it
+doesn't talk well in Slack. It doesn't
+have an agent in Slack." I was like, "It
+will."
+I'm going to see Aravind. I'll talk to
+you about that. So, we need a really
+strong Slack connector.
+&gt;&gt; It's already out. It is. Okay, great.
+&gt;&gt; Our computer exists as a Slack bot right
+now. Okay.
+&gt;&gt; That you can add to your Slack workspace
+on the enterprise plan. And our entire
+company works like that. People are
+talking more to computer on Slack than
+other people.
+&gt;&gt; first volley, we were sending reports in
+but it wasn't interactive. That's
+perfect.
+So, now you've got your company going in
+two different directions. This
+incredible consumer run you have. How
+many people are using the product every
+month? Several tens of millions. So,
+tens of millions of people. That's very
+much similar to the trajectory of the
+Google and Yahoo consumer business. Now,
+you've got corporate. How are you doing
+on the corporate side? Thousands of
+companies?
+&gt;&gt; growing
+business for us. Ah. It's growing faster
+than the consumer in revenue. And things
+like computer unlock entirely new
+possibilities. For example, we've saved
+more than $100 million for our
+enterprise max customers who are on the
+highest tier of enterprise. Explain what
+that is. What does it cost? 200 a month
+per person?
+&gt;&gt; So, there are two tiers. One is the
+enterprise pro which is $40 a month. And
+there's the enterprise max which is $400
+a month. And that that and and and and
+on computer, after you run out of your
+credits, you would pay for the tokens.
+You pay for the usage.
+Are you making money on the $400 a
+month, $5,000 a year one or at this
+point in time are people going so crazy?
+Every
+One thing that Perplexity has is every
+revenue we make, unlike certain other
+wrapper companies, every revenue
+Perplexity makes has positive gross
+margins. Got it. Because uh we're not
+just selling tokens. Right. Most of our
+revenue is recurring because people are
+paying a subscription fee. And because
+we route through multiple different
+models, we're very efficient in terms of
+how we spend on the tokens. Because we
+have all this advantage with rag and
+orchestration and search, we don't
+actually need to blow up the context
+window of the models.
+&gt;&gt; Yeah. As a result of that, we have
+positive gross margins on all the
+revenue we make. Every single penny we
+make,
+we make profits on that. The Overall,
+the company is still yet to be
+profitable, but we're working towards
+that. You've had the opportunity to
+exit.
+A lot of rumors, Apple, other people
+were like, "Hey, this is a great team."
+How many people on the team now? About
+400. Yeah, you you've got a very coveted
+team. You obviously understand consumer.
+You obviously understand business. It's
+a product-driven organization. Reports
+are you declined.
+But the world's getting
+hyper-competitive here. How do you keep
+up as a 400-person organization when you
+got Sam Altman over here racing a
+hundred billion dollars, you know, and
+then you have Elon putting data centers
+in space and merging with SpaceX and
+Twitter. You have Google with unlimited
+resources, Amazon getting in the game,
+and obviously Gemini,
+uh very strong product, and Google
+really good at consumer.
+I think we'd all agree Facebook and Meta
+haven't figured it out yet except maybe
+for
+serving us better ads, but they they
+haven't figured out the consumer case
+yet, but they'll copy it. They always
+do.
+How do you look at the playing field
+because
+the degree of difficulty, this isn't
+playing checkers or This is like playing
+against the 10 best
+chess players in the world. That's what
+you have to do every day. Yeah. So, how
+do you think about it? Long-term an
+independent company? Do you think you'll
+need to join forces at some point? Well,
+And why didn't you take the deal? This
+deals were incredible that you got
+offered. So,
+one advantage we have that all these
+companies you mentioned don't have is
+the multi-model orchestration.
+We're like Switzerland. We don't have to
+have one horse in the race.
+If GPT wins, Gemini wins, Claude wins,
+Llama wins, it doesn't matter to us.
+Uh or even open-source models can win,
+no problem.
+&gt;&gt; And you have them on the service. You
+have Deep Seek and Kimmy? We have Kimmy,
+we have Nematron, and we have uh a lot
+of usage of Quen. Ali Baba Quen? Yeah.
+Silently under the hood. So,
+for us like that advantage of being able
+to take the best in each model and give
+the user the orchestra of everything
+they can do,
+I don't think any of the companies you
+mentioned can do that. Right, nor would
+they. Nor would they. It makes no sense
+for them. It would be an admission that
+all the data centers and capex they've
+built out mean they still couldn't
+produce them the best model. And uh
+Dario, uh CEO of Anthropic, said
+recently in an interview uh that models
+are specializing.
+Towards the beginning of last year,
+people thought models are going to
+commoditize,
+but towards the end of last year, people
+models started specializing. Even within
+coding,
+uh
+Claude Code and Codex have very
+different capabilities. Our iOS
+engineers love using Codex. Our back-end
+engineers love using Claude Code. Yeah.
+So, even within a specialization like
+coding, models have their own unique
+specialties, and there are many other
+use cases outside coding where different
+models are good at different things,
+which means the orchestra conductor
+that has no one model to horse in the
+race can win by providing a very unique
+value and service to the customer that
+each of these
+amazing names that you mentioned cannot.
+And so, you're buying tokens wholesale
+from them, and then you'll charge
+customers to do it, or do you think it's
+all We're going to take care of all that
+orchestration. Yeah. So you don't have
+to manage tokens across different
+models. Cuz I authenticate a a couple of
+my different accounts, my pro accounts
+into Perplexity, but does it I I I don't
+have enough knowledge to know if you're
+abstracting that and people can just
+search across them and it's part of
+their Perplexity subscription?
+&gt;&gt; No, we're not bundling subscriptions
+from into other AIs. Yeah. We just ping
+the models directly.
+&gt;&gt; Got it. Uh what you get in us is the
+Perplexity or orchestration. Got it.
+&gt;&gt; Right.
+&gt;&gt; when when when when when models are kind
+of specializing, the there's a bigger
+value in the one who knows how to build
+a great harness. Right.
+&gt;&gt; That can take the best in each model.
+Does it auto route today or do you still
+have the drop down? Somebody's got to
+pick. It definitely auto routes the best
+model for each prompt. But we also give
+users the flexibility to pick whatever
+model they want. What do you think of
+I've seen a bunch of startups hack this
+together, but doing the same query
+across multiple We built a thing called
+model council. Model council, yeah.
+Yeah, so that's one of the one of the
+modes in Perplexity where I saw Jensen
+say in one of his interviews that he he
+puts the same prompt in five different
+AIs and sees what each of them says.
+Yes. Everybody does that, yeah.
+&gt;&gt; But then
+you still have to apply your biological
+compute to read every answer Yeah.
+&gt;&gt; and then figure out where they differ.
+&gt;&gt; to five lawyers about your trust or your
+&gt;&gt; Five different doctors.
+&gt;&gt; Five different doctors and trying to
+figure it out.
+&gt;&gt; Exactly. It's dumb. So the model council
+is a feature we built where it will not
+just give you the answers of each model,
+but it'll tell you exactly where they
+agree, where they disagree, and where
+the nuances are.
+&gt;&gt; And that's in the interface? Model
+council? I didn't know it was there.
+It's there. I mean you you release
+product at a pretty great cadence, huh?
+How do
+&gt;&gt; Yes. Where did you learn that and what's
+your philosophy of shipping product? Our
+philosophy is like speed is our mode.
+Like, you know, again, one of the things
+that big companies cannot do is move at
+the speed we do, serve customers at the
+speed and quality it's it's very hard to
+maintain quality, speed, and trust at
+the same time. Yeah. Like Apple takes a
+long time to ship anything. Right.
+&gt;&gt; Cuz they're very worried about people
+not trusting them. Yeah.
+And so some companies are bureaucratic
+and they just take forever to ship
+something. They don't maintain what they
+ship. They may make a big deal about an
+event, but nobody even knows how to go
+and use that feature. Yeah, they get
+abandoned.
+&gt;&gt; Exactly. So, Perplexity has those
+advantages of being very small. And
+towards the end of last year, we found
+that like AI coding tools have made it
+much faster for us to ship things. Mhm.
+Which is honestly one of the reasons why
+we built computer because now even
+non-engineers are shipping code here by
+just pinging a Slack bot and asking it
+to fix bugs. Yeah.
+&gt;&gt; So, this the the iteration has just been
+like exponential.
+The moment I had where I became
+claw-pilled was when I was working with
+it and I was like, "Hey, I want to build
+my network. I know these 20 people in
+Japan. I had dinner with them during my
+recent trip. I want to know who they
+know. So, check out LinkedIn and other
+things and who they're associated with
+and make me like a mind map of it. And
+then the next trip, I want to meet with
+the next circle of you know, those
+connections. So, I started asking It's
+like, "Okay, I got the results." I was
+like, "Great."
+Um and it said, "Where do you want me to
+put them?" And uh I was like, "Well,
+where can you put them?" And it said,
+"Well, I could put it in a Google Sheet.
+I could put it in a Notion table. I
+could put it here. I could give you a
+PDF. I could give you a CSV file or
+I could write you a CRM." And I was
+like, "Yeah, sure. Make me a CRM
+system." And it made a CRM system.
+&gt;&gt; Yeah.
+And I think that becomes And I think
+maybe one out of a thousand people
+working with AI have had that
+experience. Yeah. Maybe it's one in
+10,000. Yeah. Where your agent says,
+"I'll make you bespoke software." Yeah.
+Have you had that yet? And And do you
+see that as a part of computer that when
+a person needs a spreadsheet, you don't
+launch Excel or Google Sheets, you just
+pop up a spreadsheet? Yeah. Well, we
+have a board meeting tomorrow. Okay,
+I'll come. And and
+So, pitch it to the board.
+&gt;&gt; Sure.
+Our computer computer made the memo.
+Oh, wow. Yeah. And
+we had a partner meeting to pitch a
+partnership idea and earlier we would
+have a design team do the whole deck.
+Computer just one shot at it.
+I had a press briefing with a bunch of
+journalists. My comms person would be
+like
+&gt;&gt; that.
+Brutal. And then my comms person would
+usually
+give me a memo what to say. Computer one
+shot it. So It's crazy and it's the
+context is so good because the memory is
+getting better, yeah?
+So it's like I know that journalist from
+the last time. I know the board meeting.
+I have all the previous decks. Yep.
+When did that happen? I think it it
+happened with Opus or Phi.
+Uh-huh. The the intro
+or Phi. That was the inflection point
+when
+models were
+started being amazingly good at
+orchestration and reasoning and tool
+calls and quad code brought in this new
+idea in AI that everything can happen
+inside a sandbox,
+a console, a terminal
+with access to tools where tools are
+just command line tools. Yeah. They
+don't even need to have graphical user
+interface. So when you did that and when
+you
+organize around files and sub agents and
+skills and CLIs
+the model started making becoming very
+good at handling the context. So the
+context window no longer became a
+problem. It just put whatever necessary
+into the context whenever it wanted to
+and dumped dumped them away when it
+wanted to.
+And that made it like suddenly so good
+at doing very
+long orchestration tasks. Yeah, it's
+it's pretty crazy. I have every episode
+of This Week in Startups, all the
+transcripts and then all of All-In
+&gt;&gt; one of the tasks I did by the way. I can
+send it to you. I asked it I want you to
+download every All-In podcast.
+&gt;&gt; Yeah. Uh
+since the beginning. And I want you to
+take a mention of all the public
+companies they mentioned during the
+episode.
+&gt;&gt; Yes. I want you to have a histogram of
+the counts.
+And I also want you to chart it across
+time. And then I want you to analyze the
+impact on the stock price. And the
+sentiment of what we said.
+&gt;&gt; Exactly. And it did. Like it clearly
+said
+&gt;&gt; moving stocks? around Google's stock
+going up. Yes. Prior to that, you guys
+were talking a lot about Google. Yes.
+And it clearly
+&gt;&gt; And I said I made a bet publicly on the
+thing. I said, "I am buying a bunch of
+Google because I believe, even though
+they're behind,
+it's because they're too precious." You
+were kind of mentioning a company that
+might be too precious at times and
+doesn't release. I was like, "That's
+that company. They need to release
+more." And uh I told Sergey, I was like,
+"Like
+give us the good stuff."
+&gt;&gt; Yeah. He started giving us the good
+stuff.
+&gt;&gt; It literally gives you the timestamps of
+every single And then I can go click on
+it and actually hear exactly
+&gt;&gt; Yeah. Sweet. Yeah. So, that's when
+that's when I was like, "Damn. Like
+this I would have had somebody do this
+as a week-long project."
+&gt;&gt; It would have been 10 hours a week of
+researcher. I I'm experiencing the same
+thing. When I do research notes, I've
+created my own
+like mega
+prompt. Yeah. And it will go and like
+tell me where you worked before and
+who's in your circle, who your
+competitors are, who your friends are,
+blah blah blah. And then go find I try
+to find old podcasts is one of my
+secrets if you're an interviewer
+watching. I try to find what was the
+person talking about 5 years ago, 10
+years ago, and then over 10 years ago.
+And I've gone into interviews now with
+Michael Dell and talked about things he
+was talking about in the '90s. Yeah. And
+it finds me some ancient stuff. Like you
+would pay a researcher, a producer,
+you know, $70,000 a year, $80,000 a year
+to do this, and they would have done a
+third of the job in 10 times longer.
+&gt;&gt; Yeah. It's really gotten weird just in
+the last 6 months. What do you think the
+next 6 months looks like? I think the
+the dream what we are going to try to do
+is help businesses run as autonomously
+as possible.
+You know, everybody talks about this AI
+is going to create this one person one
+billion dollar company.
+Some people say it's already happened
+because people pay researchers like one
+billion. But it's not truly moving the
+GDP by one billion. It's not truly
+creating new value. So, the best way to
+do that is to actually help a small
+business, people who would otherwise
+drive Ubers for like Yes. extra passive
+income to like buy like a Mac Mini, set
+up Perplexity personal computer, and run
+their business on that or like run it on
+the server, it doesn't matter. Uh
+and actually make real money. Yeah.
+Hundreds of thousands or even millions a
+year
+and uh grow it. Have computer go and run
+your ad campaigns on Instagram or
+Google. I mean Integrate with SEM and
+SEO tools, find new users, and
+uh integrate with Stripe, charge them,
+ship new features, have your own like
+Intercom integration for customer
+support, and like have this all working
+while you can be sipping wine in Napa.
+That's the dream that you know, it's uh
+it feels awesome to say. Everybody
+thinks AI is already there. It's not
+there yet. Someone has to do that hard
+work. Yeah. That's what we want to do.
+Yeah, it it's a great vision because
+when I watched startups 20 years ago,
+there were so many checkboxes they had
+to do. I have to find an office space. I
+got to put up a bunch of servers. I got
+to hi- hire an HR firm. I got to hire a
+PR person. All this stuff.
+And now I talk to young founders, they
+got a three-person team, they've come
+out of A16Z, my program launch
+accelerator, whatever it is, Y
+Combinator.
+And I'm like, "Okay, you raised a half
+million, you raised a million. Who are
+you hiring?" And they're like, "Um I
+don't know if we need to hire anybody."
+I'm like, "If you could hire somebody,
+who would you hire?" They're like, well,
+I do my own HR. I have this partner and
+They're I'm like, how are you doing
+hiring anyway? And they're like, well, I
+put out an ad and then it sorts and
+ranks
+the candidates and then it emails the
+top 10, asks them a bunch of questions
+and then I meet with the last two and
+I'm like, that's what a recruiter did.
+Yeah.
+&gt;&gt; Like the entire recruiting job has been
+abstracted and like a
+tool like computer is going to make that
+even faster.
+&gt;&gt; work to do.
+A lot of connectors. A lot of specific
+workflows. People don't want to like
+learn how to write like, you know, essay
+long prompts. You know, it needs to be
+so quick and fast and autonomous. You
+just set it up and done. And you have an
+idea, you can turn it into a business
+and start making money. Yeah, it's it's
+an incredible future and it feels like
+it's right here. Do you
+How do you think about job displacement
+cuz you're actually making the tool that
+enables people to be a solo entrepreneur
+and get to a million revenue, but it's
+also the same tool that doesn't require
+them to hire and we've had this debate a
+million times on the podcast. Do you
+I'm wondering if you like me, you have
+moments where you're like, oh my god,
+this is really terrifying.
+&gt;&gt; Yeah. A lot of people are going to lose
+their jobs really fast.
+&gt;&gt; Yeah. And then, oh my god, you can learn
+any skill you want and all the things
+that were hard are now easy.
+&gt;&gt; Yeah. I I go back and forth. I'm 70-80%
+super positive about this, but I do
+worry about like 20% of the time I'm a
+little worried. Where do you sit?
+&gt;&gt; I mean, America has always been about
+like entrepreneur entrepreneurship,
+right? Like we've been about like trying
+to build new things, discover new
+things, go explore. Uh, I think this
+whole like Henry Ford came and built
+factories and brought in jobs and things
+like that and like put people into a
+box. But, uh, I think the reality is
+people most people don't enjoy their
+jobs. They're doing it for
+&gt;&gt; hate them. Exactly. So, there is
+suddenly a new possibility, a new
+opportunity to go use these tools, learn
+them, and start your own mini business.
+And if it pays for your
+needs for a year or multiple years,
+and lets you have a high-quality life
+and good work-life balance, and true
+feeling of agency and ownership and
+passion to like get your ideas out
+there, I think that is
+even if there is temporary job
+displacement to deal with, that sort of
+glorious future is what we should look
+forward to. I I I think you're exactly
+right. If there will be some
+displacement, but then there's also
+going to be so many opportunities
+opening up, and it requires the
+individual to not be passive. Exactly.
+&gt;&gt; They have to be rugged individualists.
+They have to be resilient. Yeah. And
+they have to be resourceful. And I think
+once you start playing with these tools,
+that's what happens.
+&gt;&gt; Exactly. You You all of a sudden feel It
+brings out the best in you if you truly
+are in a good space. Yeah. Yeah. I I And
+then today uh Comet for iOS is out.
+&gt;&gt; Yeah. I'm a Comet super fan. I required
+everybody You were nice enough, but I I
+emailed you. I was like, "Can you send
+me some licenses?" You sent You don't
+may not remember. You sent me a bunch of
+licenses. I said, "Everybody put this
+on." Cuz it was $300 a month when you
+first came out with the Comet browser.
+Now it's free, I think, for all users.
+Highly recommend it. Highly recommend
+getting a Pro account. It's only 20
+bucks a month to get into Perplexity,
+which is a joke. So, you can get on
+board for nothing, less than a dollar a
+day.
+But what does iOS allow me to do? And
+And how does it connect to computer? Cuz
+that's another thing I'm having. Yeah.
+Cloud code uh computer There There's not
+a good enough integration with this
+mobile device yet. Yeah.
+So, computer is already on the
+Perplexity app, so you can just toggle
+to computer and start using it.
+&gt;&gt; Yes. Uh
+Comet's uniqueness in Perplexity for the
+company uh and and and the strategy is
+the fact that you can control the
+browser. So, the browser also becomes a
+tool
+for computer, yeah, just like your
+Google Workspace and all these other
+things. Uh until the whole world is
+organized around CLIs and tools, Yeah.
+there's still a lot of tasks we have to
+do manually on the web, on the browser,
+open tabs full of forms, click on
+things, upload stuff.
+All that stuff, if you want to automate,
+you need a browser. You need an AI that
+can natively control the browser. So,
+that is Comet. And that's why, no matter
+how many other tools in the market exist
+like Open Claw or like Claw Co-work,
+&gt;&gt; Yeah.
+executing tasks on a browser on the
+server side, along with all the other
+things, is something uniquely Perplexity
+can do. Yeah, my dream is that you'll
+create an Android app that roots my
+Android phone. Yeah. And that you just
+take over and see everything. Because
+one of the blockers I have now is a some
+of the websites have gotten a little
+persnickety. Yeah.
+I don't want to mention too many, but
+Reddit, LinkedIn, Yeah.
+and like they're just
+I I am a great Reddit user. I'm a great
+LinkedIn supporter. But sometimes like I
+need to get my in mail Yeah. from my
+LinkedIn. And I just need to, you know,
+find seven people at a company. I Is
+there going to be a solution
+between the LinkedIn and Reddits of the
+world and the Claws and Perplexities? Is
+How is that I mean, the negotiation
+going? Yeah. You don't have to speak
+about any specific ones unless you want
+to.
+&gt;&gt; Yeah. But it feels like there's got to
+be a solution. And I'm willing to pay
+for it as a user. I'm willing to pay
+Reddit to allow my bot to show up and
+behave properly.
+&gt;&gt; Yeah.
+Well, I I I cannot speak about any
+particular company, but uh, we are happy
+to work with anyone, right? So,
+uh, I think with Comet, our idea is to
+give people the flexibility to set
+things up on their own. Yeah. And uh,
+any um, official APIs that anyone's
+willing to offer, we're always happy to
+put that as part of computer.
+Here's what I think should happen. Let
+me see if you agree.
+Um, and this is for Steve Huffman at
+Reddit.
+I go on Reddit.
+I do a pro account for 20 bucks a month.
+And when I do that, I can authenticate
+whatever tool I want
+um, to do a series of well-behaved
+things a certain number of times a day.
+Yeah. So, it's not unlimited. I'm not
+going to scrape the whole site, but I
+would like it to just let Perplexity or
+computer go and just tell me, "Hey,
+what are people saying on this week in
+startups and all in subreddit? Summarize
+it for me so I get the customer
+feedback." And I would literally name my
+uh, agent. And I would say, "I It won't
+post on my behalf. It won't vote on my
+behalf. Just need it to do a couple of
+little read-only things." This would be
+an easy solution. Or LinkedIn, I would
+like if you I have I already pay
+LinkedIn like 50 bucks a month. Like,
+they should just let the $50 a month one
+work with computer. Yeah. Absolutely. I
+mean, Okay. This is for Satya Nadella.
+Let LinkedIn work with Perplexity and
+the other players, and we'll pay you
+extra.
+Perfect.
+&gt;&gt; It's a revenue stream. Don't you think
+API access for our customers is a
+revenue stream?
+&gt;&gt; so. I think so. Let I think I think
+fundamentally giving users a choice
+and setting it up as a win-win for both
+the business and the user
+is where the world should head to. Yeah.
+And and I I would say the same thing
+applies to any any website in the world.
+Like, if if you want an AI to use it on
+your behalf, it should be okay for cuz
+that's what the user wants. I mean, I
+have a paid New York Times subscription.
+Like, let me go in there and do, you
+know, whatever 100 searches a day, a
+week, a month, whatever you they choose.
+But, that would make the subscription
+that much more sticky. Exactly. Uh, all
+right. Arvind,
+love the product. Anybody at home,
+it's just tremendous. Go learn computer
+and get the Comet browser. It has
+changed my business for the last 2
+years. Love the product and we'll have
+you back soon when you launch your
+operating system and come up with your
+own server and desktop server, but
+business is the focus. Yeah. Yes. All
+right.
+Great seeing you. We have an amazing
+guest, Arthur Mensch is here, the CEO of
+Mistral AI. How are you doing, sir?
+Great. Thank you for having me. And so,
+you're here
+at uh Nvidia's big conference.
+Big announcement. You're going to be
+working with Nvidia to build models,
+uh to open source them. What is the uh
+big announcement here? Well, we're
+announcing that we are going to be
+training the next generation of frontier
+models with uh with Nvidia. Um
+it's something that we've been doing
+before with Nvidia with Mistral Nemo,
+something we did like 18 months ago. And
+the point for us is really to be able to
+produce the best open-source models out
+there so that we can actually use those
+assets to specialize them through
+products that we do for our customers
+like Forge, that helps us customize the
+models for the enterprise we work with
+in engineering, in physics, in science,
+uh in making them better at certain
+languages when we work with governments,
+etc.
+And and Mistral obviously based in uh
+France,
+you're the leading AI company there.
+What's it like running the company and
+building a large language model in
+Europe? Obviously, there's regulations
+and
+all kinds of considerations, privacy.
+The French are known for protecting
+privacy. In the United States, we're
+known for taking it away.
+How is the landscape there and what do
+you have to deal with there that maybe
+you wouldn't have to deal with in
+America? And what's the pros and the
+cons? Let's say first uh we have 25% of
+our business in the US and 25% of our
+researchers are actually here. So, I
+actually spend a a lot of time here as
+well as in France, as well as in the UK,
+in Singapore, where we are. So, of
+course, it's it's different markets. Uh
+it's markets where you have language,
+which is a topic, uh where there's much
+more manufacturing manufacturing is a
+bigger piece of the cake than it is
+here.
+Uh and I'd say the our strength has been
+to also work with European companies
+that are a bit lagging behind and that
+wants to adopt the technology to to leap
+forward and we've been able to do that
+through a forward deployment engineering
+engagement through our forge product for
+our studio product that allows you to
+deploy agents that do end-to-end
+automation. But on top of that, the
+thing that we have announced today like
+forge is something that is actually
+being used today with customers in the
+US because they come to us with needs
+for post training for making more and
+specifically good at financial services
+and what's happening is that we have
+this product and we can bring the models
+to specialize them as well. And so your
+belief is specialized verticalized
+models, health care, finance,
+engineering, different verticals will
+win the day or a a global model will win
+the day that does everything? Well, you
+need general purpose models to do the
+orchestration part etc. But at some
+point you enterprises sit on a lot of
+intellectual property, on a lot of
+signals coming from physical systems,
+from factories, from tools and the it's
+actually not trivial to connect those
+systems, to connect those data to models
+that are closed source. If you have open
+models, you can actually add new
+parameters, you can make a lot of deeper
+things that you cannot do with closed
+models. You can also and that's what
+something that we do, we don't we not
+only do we work at the model side but
+also at the orchestration side. We sit
+with subject matter experts to
+understand their needs and we build
+business applications that are fully
+bespoke to their needs by modifying the
+models but also modifying the harness on
+top etc. So we believe that eventually
+building an open source technology is a
+way to save cost, is a way to have
+better control because you can see the
+thing on every cloud that you want, on
+your hardware if you want, you can
+deploy it on the edge if you want and
+eventually
+from a from a customization perspective
+and from leveraging your decades of IP
+that you've been accruing in financial
+services, in heavy manufacturing like
+companies like ASML for instance, they
+do benefit from working with us because
+we take their that and we build models
+that are specifically good for them for
+their purposes.
+&gt;&gt; um
+this training data using experts to come
+in and refine a model. Most people don't
+know this business that well, but this
+has become a very large part of the
+industry. Obviously, Scale AI was doing
+it. They went to Facebook, lost a lot of
+the customer base who didn't want to
+uh send their data, I guess, over to
+Meta. Uh we're investors in a company
+called MicroOne that's doing pretty well
+in this space. There's other folks doing
+it. Explain to the audience
+what you're doing specifically for
+companies and how this training works in
+a verticalized way, and then how you
+silo that data because if you're working
+with one customer
+in aerospace or fintech, they might have
+a need set, but they may not want that
+training to go to a competitor. I can
+use you a few examples. I think overall,
+the data segregation is super important.
+And the way we have solved that is
+through a portable platform. So, our
+technology is a set of services, a set
+of training tools, a set of data
+processing tools that I can take and
+that I can put on the infrastructure of
+my customers. So, suddenly, from an IT
+perspective, and when we talk to the
+CIOs, they realize that from security
+perspective, the flow of data doesn't go
+There's no data flow coming back to
+Mistral cuz everything stays there. Now,
+uh
+the way we we then use that technology
+that has been deployed is that we're
+going to be working with uh the teams
+that is doing
+uh image scanning and default detection
+with ISML, for instance. And we're going
+to be sending forward deployment
+engineers, scientists. They're all PhDs.
+They know how to train models. And they
+spend some time with the subject matter
+experts that can explain how an image is
+being detected, what How do you detect
+defaults, etc. And based on that, we're
+going to work out what kind of data
+needs to be used to train the models
+that it's going to solve the task in in
+itself. And so, the
+we we send the technology. Typically, we
+send a little bit of scientists cuz
+uh you do need that expertise transfer
+and that knowledge transfer in between
+our teams and the vertical experts. And
+then we make sure that eventually our
+team no longer needs to be there to
+retrain the models to get more data
+access, etc. So, that combination of
+data segregation, expertise transfer,
+knowledge transfer is the one thing that
+makes us quite unique and allows us to
+serve the most critical use cases, the
+most critical processes in industries
+that actually need to take their data
+and put it into models for it to work.
+Yeah, this seems to be once the entire
+open web, what was available legally,
+gray market, etc. I wouldn't have you
+comment on that controversy, but we kind
+of exhausted what's in the open crawl,
+yeah? We have. And and it's time to
+actually
+either make synthetic data or actually
+use experts. Do you believe in synthetic
+data and where does that work and where
+does it fail?
+We use synthetic data as a way to warm
+up the models. It's a way to actually be
+quite efficient at the beginning. If you
+have a large model and you want to train
+a small model, you would you will use
+your large model to
+to process and to produce a lot of
+synthetic data at the beginning, and
+then but eventually you do need to have
+human signal. So, the human signal is
+something that is always a bit costly to
+acquire because you need to talk to the
+experts. They need to give feedback to
+the machines. And so, at the beginning
+synthetic data allows you to do the
+compression to to further compress the
+models. At the end you do need to go and
+get data that is produced by humans. So,
+yeah, it's a it's a way to have
+it's it's mostly an efficient way of
+training models to have big bigger
+models that are used as as teachers for
+smaller models, but it's not enough. And
+so, you also need human signal. Arthur,
+we've seen an incredible explosion.
+We're sitting here on AO 52, after open
+claw, the year of our Lord 52 days.
+When you first saw open claw and saw the
+reaction of hackers,
+founders, startup CEOs, just the amount
+of energy and it racing to the top of
+GitHub with the most number of stars and
+likes.
+And and all these contributors,
+what did that say to you as an executive
+in the space who's been grinding on this
+for many years? What what is that open
+claw moment mean? Well, it resonates a
+lot with what we are doing with our
+customers because pretty quickly
+enterprises realize that if they wanted
+to make some gains with artificial
+intelligence, generative AI, they would
+need to automate full processes. And to
+automate a full process as an
+enterprise, well, you can use open claw,
+but it's going to be it's actually not
+really enough cuz you you have data
+problems, you have governance problems,
+you can't observe the process that is
+running, and you can't can't control it
+in
+in many cases when you run a KYC
+process, if you're HSBC for instance,
+one of our customers, you will want to
+have deterministic gates that are going
+to always do the same thing in a way
+that is observable and that you can
+guarantee the CEO that it's always going
+to go through these gates. And that's
+not something that open claw is
+providing cuz it doesn't have its the
+kind of primitives that you need to work
+on collective productivity, observable
+productivity, and to work on
+mission-critical systems. On the other
+hand, the autonomy it gives and the
+autonomy it brings to to people that are
+just individuals that are hacking
+together things is a way to also show to
+enterprises that if you set up the right
+control plane, if you set up the right
+sandboxes, if you connect to the right
+data sources, if you make sure that you
+your access controls are well respected,
+then you can actually unleash the power
+of agents doing things for your
+employees, and that's going to work work
+on the platform cuz otherwise you will
+not be at ease when you're sleeping. It
+is
+definitely something you have to be
+thoughtful about. When I installed it, I
+gave it just for my agent root access to
+my Google Docs and my G Suite, my
+Notion, my Zoom,
+and my Notion and the Calendar,
+everything.
+And then I realized, "Wow, I can with my
+enterprise edition of Gmail,
+essentially,
+I can just summarize for my entire
+21-person investment company every
+conversation going on in Gmail, and then
+correlate it with every conversation in
+Slack."
+And then I realized, "Oh my gosh,
+there's compensation discussions going
+on. There is a person on a PIP who we
+put them on a preferred performance
+improvement plan, perhaps, or something
+like that."
+Oh, I have to make sure nobody else can
+access this because the power comes from
+giving it access to data, but with great
+power comes great responsibility, and I
+think people are learning that in real
+time.
+Yeah, it's a big problem because the
+enterprise data is not a single thing
+that you want to put into a single
+system that is going to be accessible by
+by everyone. And so, you need to have
+this layer that actually understands
+what is the
+what is in the data. You need to have a
+semantic of what can actually be
+proposed to
+uh HR or what can be proposed to uh
+engineering. And typically, compensation
+is one of these things. You want to make
+sure that the compensation data does not
+flow back to all of the all of the
+enterprise cuz you're going to have a
+lot of problems uh if if that's the
+case. And so, what you actually need,
+and which is hard to do, is what we call
+a context engine. So, a mapping of where
+the data sits uh that comes with a
+certain number of metadata that is
+telling you that this data is actually
+not accessible to this part of the
+company. And if you actually have
+someone in engineering that is asking
+for something related to comp, the thing
+is actually going to tell you, "Look,
+you actually can't access that data."
+So, that's
+uh that's hard. It's actually hard. You
+need to rethink entirely the way your IT
+systems are being connected. And at some
+point, you also need to think about your
+management because your
+your information flow is completely
+different today uh if you're connecting
+agents together with your data sources
+than it used to be. And suddenly, maybe
+you don't need that manager whose only
+purpose was to take information from the
+bottom and put the information on the
+top, etc. So, there's so many problems
+to solve and you need the right
+primitives, you need sandboxes, you need
+role-based access control and these kind
+of things. And uh you have change to do.
+You you need to rethink your entire
+customer service uh department cuz
+suddenly you actually don't need that
+much transfer of information operated by
+humans. All right, uh you have to go,
+you got a flight to catch. It is so
+great to see you, Arthur. Continue
+success with Mistral. Thank you very
+much. Cheers. I'm really lucky to have
+Daniel Roberts here. He's the co-CEO and
+co-founder, along with his brother, of
+Iren. They uh are a publicly traded
+company. They started in BTC.
+Welcome to the All-In interview program.
+Thanks, Jason. Pleasure to be here.
+Yeah, and so you started in Sydney.
+You and your brother um
+it was 7-8 years ago and you got in
+early on Bitcoin and all these Bitcoin
+monitor uh miners wanted to have data
+centers, huh? Yeah, that's directionally
+right. So, the thesis we saw was this
+explosion of the digital world, the
+growth in the online, and at some point
+the real world was going to struggle.
+So, we set about to build out
+large-scale data centers. Yes, the first
+use case was Bitcoin mining, but as we
+said to our seed investors, use that to
+bootstrap the platform, generate cash
+flow, layer in higher and better use
+cases over time as they emerge. Here we
+are today with AI. We are swapping out
+all the Bitcoin for AI chips. When did
+you first start seeing the demand in the
+company shift from, "Hey, Bitcoin
+miners, well, we need some H100s,
+whatever it is." Uh to, "Hey, we're this
+nonprofit Open AI. Hey, we're this
+research lab. We need some AI compute."
+When did that start hitting? Look, we
+had a bit of a false dawn, I would say,
+back in 2020. We signed an MOU with Dell
+to start bringing out customers and
+compute, but in hindsight it was too
+early. So, we went back to Bitcoin, kept
+bootstrapping the platform. Look, I
+would say about 2 years ago, and month
+by month the demand just continues to
+escalate. And you were in so early that
+when you were looking at data center
+space in the United States,
+you were one of one looking at the
+space, one of two or three people
+looking at the space. They They were
+trying to sell you on space, yeah? Yeah,
+so we actually developed the data
+centers ourselves. So, we go and find
+the land, we go and get the permits, we
+go and apply for grid connections, and
+we were doing it at a scale that just
+amazed people at the time. Like, 750 MW
+is our flagship Texas site. 4 years ago
+was unheard of. In the middle of the
+desert, we're building these big data
+centers. The traditional data center
+industry going, "What are you guys
+doing?" We say, "We believe in the
+future digitization, high-performance
+computing, and obviously now today it's
+paying dividends." Yeah, I don't think
+anybody could have predicted when
+ChatGPT came out,
+Open Claw recently as a turning point,
+um and then, you know, Microsoft,
+Google, and everybody embracing this. Uh
+and that's your big partner, Microsoft.
+Yes, Microsoft's one of our early
+partners. We signed a $9.7 billion
+contract with them late last year. But,
+as I was explaining to you before the
+show, that's 5% of our capacity. So,
+things are busy at the moment. Yeah. And
+when you do these build-outs,
+the big conversation today is not is no
+longer the number of GPUs putting in,
+it's just power.
+Power is
+the uh constraint today, yeah?
+For many of the industry, it is. But,
+for us, because we started 8 years ago
+tying up all this land and power, it's
+not. So, we've got 4 and 1/2 GW. For
+context, that's almost as much power
+annually as the Bay Area uses in its
+entirety each year.
+It's huge. So, for us, the hurdle or the
+constraint is really time to compute,
+and that's emerging across the industry
+as well. And time to compute means
+trades people
+coming to West Texas
+living in a a trailer that you set up to
+then break ground on a data center,
+build foundations, build water cooling
+systems. Like this is hard manual labor
+going on, yeah? Exactly. And this is the
+whole real world challenge to respond to
+these digital exponential demand curves.
+They're unconstrained by the real world
+in terms of their appetite. And it just
+compounds. You need thousands of people
+out in these locations that haven't
+supported it. You put stress on supply
+chains. We're seeing what's happening
+with the memory. Every aspect of it. So
+it's just permanent whack-a-mole,
+permanent solving fires to try and be
+bring online this compute. And you get
+to spend time there.
+What's it like when you set up a town or
+you bring a thousand people or two
+thousand people to what's a pretty much
+remote small town? You I'm assuming that
+like when you bring a thousand there
+might only be
+500 living there right now. So what are
+those towns like? I'm It sounds to me
+like something out of like the gold
+mining era when people first, you know,
+went and and were prospectors. Yeah,
+yeah. It's a prospecting town? Pretty
+pretty much. I mean, the barbecue's
+great. That was the draw card. Then part
+from that, look, we've always had a
+policy of hiring local, supporting the
+local community. This year we're hitting
+a million dollars in community grants
+cumulatively. That's things like local
+playgrounds, supporting the fire
+departments. But we will hire locally.
+Once we can't find that trade locally,
+we will expand the radius by 20 miles
+and hire out of that and so on and so
+on. For us That's very thoughtful. Yeah,
+it's and and these folks are coming, say
+an electrician or a construction worker,
+they're coming having built houses or,
+you know,
+maybe building um
+corporate offices. And now they come for
+a tour of duty here and the salaries go
+up massively, but they got to leave
+their family for a 3-month tour or
+something? Yeah, yes and no, because
+typically where we locate is where
+there's heavy electrical infrastructure.
+Where there's heavy electrical
+infrastructure is typically where old
+manufacturing and industry has closed
+down. Ah. So, we go down in, leverage
+that sunk CapEx, rehire, retrain local
+workforces, and bring a new industry to
+town in these data centers. Ha Ha Has
+that workforce
+now been completely depleted and we need
+to train another generation, a younger
+generation, to be generation two-belt
+and really embrace the trades? 100%.
+We're partnering with universities,
+trade colleges, absolutely.
+And you go to a trade school, you got
+You go to a college,
+people are getting degrees in philosophy
+and English literature.
+They're going 50K a year in debt, 200K a
+year in debt. What's the starting salary
+for a tradesperson working on a data
+center doing electrical or construction
+or Exactly. What's the ballpark range?
+Ah, look, I won't talk specifics, but
+they they are going up. The price is
+going up. Depends on the level, but yes,
+there is a rush for good
+&gt;&gt; I'm hearing 150 to like 300K. Am I in
+the ballpark? The lower end
+directionally, you're right. Yeah. Yeah.
+I mean, it's incredible when you think
+about it. There's concern
+about, "Hey, AI taking jobs." And then
+on this other side of the ledger,
+can't find enough talent to to to
+service it. Talk to me about energy
+sources and how you think about that. Uh
+President Trump, Chris Wright, the
+administration, they kind of started
+with, "Hey, clean beautiful coal." Year
+two, they're like, "All sources matter.
+Nuclear."
+Obviously, nat gas is plentiful in that
+area. We obviously got a lot of oil.
+People don't know this about Texas. In
+the United States, the number one
+uh source of solar installations, yeah?
+Yes.
+&gt;&gt; Talk to us about energy.
+&gt;&gt; So, our our philosophy has been
+sustainability from day one. We have
+used 100% renewable energy since
+inception. What? 100%
+&gt;&gt; Wait, how is that possible? It's We use
+hydro in British Columbia. We use wind
+and solar in West Texas. In West Texas,
+where we're located, there's around 45
+to 50 gigawatts of wind and solar. Yeah.
+The transmission line to export that
+down to the load centers in Dallas and
+Houston is 12 gigawatts. Oh. So, you go
+and locate to the close source of
+low-cost excess renewable energy,
+monetize it into this digital commodity,
+export at the speed of light as token.
+&gt;&gt; Great arbitrage. And the wind is
+producing a lot, but it it's harder to
+get from those areas where people are
+willing to put up. I mean, people don't
+understand how big West Texas is. It is
+an incredible amount of land. And you're
+coming from Australia,
+where also on the west side, people
+don't understand exactly how much just
+pure nature land there is. Yeah,
+undeveloped.
+&gt;&gt; So much land. And the issue is distance.
+You've got to spend billions of dollars
+on this transmission connection
+infrastructure to move that power to
+where people actually want it. You can
+build wind farms, you can build solar
+farms, but if you build it in the desert
+and no one can use it, then what's the
+point? So, the whole opportunity for our
+industry is to go to the source of that
+power and monetize it.
+So, the data centers follow the wind
+turbines, the solar installations.
+How do you think about batteries? And
+are you able to put those online because
+obviously you're going to have periods
+where hey, it's not a windy day. In
+Texas, we have very few days when it's
+overcast. So, that problem's pretty much
+solved, but you're going to have 50 days
+where the sun's not beating down. So,
+how do you deal with the demand and and
+and softening that duck curve? We don't
+need to. Huh. The utility does that on
+our behalf. So, this is why these grid
+connections are so scarce, so hard to
+get, and so highly valued because once
+you get that grid connection, the
+utility underwrites all of that
+variability. They guarantee you 24/7
+reliable power.
+&gt;&gt; Got it. So, on their side, they're
+figuring it out something goes down and
+they could fall back even though you're
+100% committed to renewables, if they
+needed to fall back to to gas or
+whatever, they have that ability out
+there. So, you have that as a backup.
+A lot of talk about or a debate, are we
+getting ahead of our skis?
+Are people slowing down? There was some
+talk about the Open AI project maybe
+downscaling a little bit. Is Open AI a
+partner as well or Uh I can't comment.
+Can't comment. Okay, so we'll we'll read
+into that whatever we want.
+But,
+are there pockets where people are
+saying, "Hey, let's slow down." or is it
+still gangbusters?
+It's right up the end of the spectrum.
+It's gangbusters. We we cannot meet
+demand. That's why the whole industry
+now is around time to compute. There are
+no idle GPUs in the world sitting in a
+data center. Yeah. And what's your take
+on
+when software
+makes and this is a big
+discussion from Jensen himself during
+his 2 and 1/2 hour keynote yesterday. Uh
+we're sitting here Wednesday. I think he
+did his keynote on Tuesday. He was
+talking about, "Hey, software is going
+to make it 50 times more
+uh you know, lower the cost of tokens
+50x." And then you have um
+transport also contributing to that.
+When do you think the curve goes from
+parabolic to simply growing at a
+ridiculous level? Is Is there a slowdown
+coming or how are you planning for the
+future? Look, I think it's actually the
+opposite. I think it feeds on itself.
+So, I'll give you one example. You go
+into ChatGPT today and you generate an
+image. You ain't to the prompt. It's
+like the dial-up internet days. It is.
+Right? It takes minutes and you're like,
+"I better get this prompt right." Yeah.
+Finally, 2 minutes later it comes. Now,
+I'll give you an example. If we 10x the
+amount of compute available, which is an
+enormous task from where we are today,
+and those images take 5 to 10 seconds,
+are we going to generate more or less
+images? Oh, many more. Uh this is Jevons
+paradox. This is the theory of induced
+traffic. You know, you build a couple
+more lanes, people start to think, well,
+maybe the distance from Bondi Beach to
+to the central business district in
+Sydney terms would be an acceptable
+commute.
+&gt;&gt; Love the analogy. Yeah.
+So,
+what do you think about or what are you
+seeing? I mean, we're here at NVIDIA.
+Obviously, they make the leading edge
+chips. They just bought Rocks, so now
+you've got, you know, two of the leading
+edge chips coming out of the same
+company.
+But custom silicon becoming a big
+discussion. Has that started to land in
+the data centers yet? Obviously, Google,
+don't know if they're a customer you can
+tell us, but they're making custom
+silicon. Amazon is making custom
+silicon.
+Meta is making custom silicon. Talk to
+me about that revolution and is it
+actually making it to the data centers
+yet? Look, it to various degrees it is.
+They're promoting their products.
+They're trying to tie up data center
+capacity. So, yes, there's multiple
+silicon looking for homes. I think I
+think it's fair to say NVIDIA has a
+massive head start. The ecosystem
+they've incubated, the standards that
+they're setting. So, I would say the
+safest pathway to build out at scale
+early is to follow the NVIDIA roadmaps,
+but absolutely over time we are seeing
+these chips emerge.
+And
+in terms of
+desktop computing
+I know there was a survey announcement
+that
+Dell
+and NVIDIA are making a really powerful
+desktop, 750 gigs of RAM, a lot of
+power. You're going to be able to run
+some local models. Open source and with
+open claw and open source coming from
+Kimmy and a bunch of the models out in
+China.
+Has the hacker group, which I think you
+started in like I did, probably in
+similar time periods,
+people are starting to get really
+obsessed with having a 10 or 20,000
+dollar desktop set up and running this
+local. What do you think of that trend?
+I'm curious.
+&gt;&gt; Yeah, I mean, the breakthroughs we're
+seeing in software, the way it's
+distributing power to every man and
+every woman in every house, and their
+ability to code and use products like
+Open Claw, the generation of demand and
+appetite for computer to local level all
+the way through to these mega data
+centers, it's absolutely real. And as we
+see the emergence of agents using more
+and more as we see autonomous vehicles
+and other automation, robotics, it's
+absolutely going to come compound. And
+what about nuclear? Uh the Trump
+administration
+really seemed to flip the switch on a
+growing
+uh belief that, hey wait, nuclear's
+pretty great. It's clean. It's the
+original renewable in a way. Uh and
+these new modular reactors have nothing
+to do with Chernobyl, Fukushima, or
+Three Mile Island. They're much safer.
+They're a completely different
+architecture. Have they have those
+started to land yet? And are you, since
+you followed correctly in in the great
+state of Texas where I'm from, you
+followed correctly that time, are you
+following nuclear? I I think you have
+to. I think the reality is it's going to
+take a decade, a bit longer by the time
+big projects can come into
+commissioning. But now is the time to
+start that conversation, put in place
+policies, mobilize capital, and start
+that ball rolling.
+Yeah, have you do you have a data center
+going up near nuclear? No, not at the
+moment. Not at the moment, but you're
+actively tracking that activity cuz
+&gt;&gt; Yes. Yeah, this seems
+uh
+pretty inevitable.
+&gt;&gt; Feels like it. And if that happens, what
+impact does it have on your industry? If
+if you could cuz obviously it's
+happening in China and people always put
+the Bitcoin miners, they were like the
+canary in the coal mine, near the hydro
+dams and near the nuclear where there
+was excess capacity.
+What impact do you think this has if you
+could actually have small modular
+reactors next to data centers? Well, I
+think it just opens up the market and
+enhances the US's competitive advantage
+in this space. Like, AI is inevitable,
+robotics is inevitable. The reality is
+the correlation between human progress
+and energy consumption is really, really
+high over a very long time period. So,
+if we can find a way to unlock new
+generation, clean generation as nuclear,
+and locate that more at the source and
+enable more compute on a distributed
+basis, all those use cases we just
+discussed become easier, more fluid,
+faster, and then you get that positive
+flywheel around Jevons paradox and
+demand.
+Talk to me about the architecture today
+of
+Ethernet and data moving between data
+centers, within data centers. That
+backbone is
+going through a paradigm shift as well,
+yeah? Yeah, yeah, it is. And Jensen
+coins coins the term the data center is
+the new computer. Yeah. So, you need to
+step back and you say, "Right, this big
+building is essentially the old desktop
+PC we had under our desk at home." You
+go, "Right, how does that work?" So, all
+the cabling, the latency, the number of
+hops between each GPU, how they talk to
+each other, the fabric around
+InfiniBand, Ethernet, it's absolutely
+critical because every millisecond
+matters in terms of performance of that
+cluster. Yeah. And where do you think
+uh or or what do you think of Elon's uh
+vision?
+It's obviously a a longer term vision of
+putting data centers in space, and
+there's a couple other people working on
+it as well. Yeah, I mean
+it's very hard to argue with Elon. He's
+been very right on a number of things
+for a very long time. I think sitting
+here today, it feels exceptionally
+difficult given the cost of moving
+things to space, the challenges around
+radiation. There's a huge amount of
+engineering challenges, but that's never
+scared Elon before, so He's uniquely
+qualified, and he's he he's inevitably
+right,
+but sometimes he's late. He might be
+late to the party, he might be late to
+the a party, he might show up at
+dessert, but generally uh he nails it.
+How much of an issue is getting the data
+out of the data center
+to consumers today? Is that not
+something people are worried about when
+you're building something out in West
+Texas? All that data, fiber, all that's
+been taken care of, or does that become
+a gating issue at some point?
+&gt;&gt; So, this was one of the big myths that
+we had to bust when we started this
+business, cuz everyone said, "Data
+centers must be located close to
+population centers, metropolitan areas.
+Latency is really important." And we
+said, "Yeah, that's right. Latency is
+important." But, the reality is, in the
+US, Texas especially, there is fiber
+everywhere underneath the ground. Lots
+and lots and lots of it. And when you
+look at latency from our site, in the
+middle of the desert, in West Texas,
+down to Dallas, the big carrier hotel,
+&gt;&gt; Yeah. 6 ms round trip latency. What's 6
+ms? There's a thousand seconds
+milliseconds in a second.
+&gt;&gt; Yeah. We're talking six. Yeah. It's fit
+It's adjacent. Yeah, it's it's It's not
+even
+uh yeah, it's definitely not material.
+Uh listen, continued success
+uh and uh
+you're hiring
+a lot of people. Yeah. Yeah, I think
+we've got 129 job advertisements up at
+the moment. All right, so everybody go
+to the I ran website uh and listen,
+company's doing fantastic. Thanks for
+spending some time with us here at All
+In at GTC.
+Thanks, Jason. Appreciate it. I'm going
+all in.
+I'm going all in.

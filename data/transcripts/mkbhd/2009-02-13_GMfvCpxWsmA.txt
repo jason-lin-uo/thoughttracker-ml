@@ -1,0 +1,91 @@
+# HD Battery Saver #2 - Disable Visual Effects (Aero!)
+# https://www.youtube.com/watch?v=GMfvCpxWsmA
+
+hey everyone and welcome to the second
+part of this series um this is the
+battery saving tip series and this
+particular tip works very well in
+Windows Vista um I'm going to show you a
+little software part after this actual
+uh camera review so the second tip in
+this tutorial is going to be to disable
+Arrow um Windows Vista Arrow you
+probably already know this is what um
+it's basically the you know all the flip
+3D and the cool little Fades and the
+task things popping in in Windows Vista
+um this actually does work your GPU
+quite hard not your CPU but your GPU
+your graph your graphics Processing Unit
+so with a laptop um obviously this
+laptop a 17-inch model has a built-in
+graphics card an Nvidia gForce with 512
+Megs of built-in Ram it's it's going to
+heat up and it's got It's going to use a
+lot more battery than normally than a
+normal laptop would that doesn't have a
+built-in um Graphics um graphics card or
+maybe just has integrated Graphics so
+disabling Windows Arrow will save you a
+lot of battery life quite a bit actually
+um if you're say you're on an airplane
+and you really want Max battery and
+you're not too concerned maybe you're
+just um checking your offline Gmail like
+I showed you how in a tutorial or um
+maybe you're just watching movie or
+listening to some music so I don't
+really need Windows Arrow so go ahead
+and check out this software view on how
+to disable Windows
+Arrow all right here's the software part
+guys first of all you're going to right
+click on your desktop anywhere in
+Windows Vista and hit the personalized
+button you may have seen this before in
+other you know YouTube tutorials YouTube
+videos on how to speed up Windows well
+not only will this speed it up and make
+operations faster but this will also
+give you quite a long battery life so go
+to Windows color and
+appearance and Open classic appearance
+properties for more color options so
+it's going to open this window and
+you'll see here this says Windows Arrow
+color scheme now what I'm going to do is
+hit Windows Vista basic it didn't change
+the previous I'm not sure why the arrow
+preview was weird but you can see like
+the transparent test bar and the cool
+little fade things so under appearance
+just take Windows standard which will
+bring you way back to Windows 98 or just
+go to classic or Vista basic or
+something and you can enjoy that too now
+I'm going to cancel because I'm plugged
+in right now but uh that's the easy way
+to fine-tune your color and style of
+Windows now if you don't want to go the
+DraStic way and disable Arrow completely
+what you can do is just to disable
+transpar Arcy by unchecking that right
+there and as you can see if I go over my
+rocket dock you can't see it in the
+background so that is a quicker and less
+intensive way to uh speed up your
+computer and run with way way longer
+battery life so don't be fooled
+disabling Arrow will save you quite a
+bit of battery life when you're not
+exactly using all the graphics and
+having a real desktop experience so um
+thanks for watching guys that was my
+tutorial on how to that was my the
+second part in the video tutorial series
+on how to speed up Windows on not on how
+to speed up Windows not this is the
+second part of the video tutorial series
+on how to um save battery life in
+Windows Vista so thanks for watching and
+I'll keep the videos coming peace

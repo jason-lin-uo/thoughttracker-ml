@@ -1,0 +1,296 @@
+# I Tried a Disney Secret Project!
+# https://www.youtube.com/watch?v=1KEtxTQUzxY
+
+okay I got to see something really
+really cool I got to visit some of the
+secret Labs inside of the Walt Disney
+company called the Disney imagineering
+Labs so you know I've seen some people
+talk about them a little bit before but
+obviously Disney has all these
+attractions and theme parks and rides
+and somebody has to design and engineer
+all that stuff and there's a surprising
+amount of tech that goes into it and
+some of it is still experimental and
+unreleased where no one outside of
+Disney well except for me now has gotten
+to use them this thing is so cool so
+Disney imagineering has a bunch of these
+buildings scattered around this
+California neighborhood that I got to
+visit where they make realistic
+animatronic robots as part of their
+attractions they literally greeted me at
+the door with these little droids the
+same ones that are roaming around the
+theme parks and these things have a
+striking amount of similarities to the
+Boston Dynamic spot robot that I got to
+play with a few years ago you know that
+spot robot was able to navigate any
+terrain with an Adaptive gate and it
+followed instructions from a custom but
+surprisingly easy to learn controller so
+that it could navigate around and do
+jobs that humans won't and is also super
+fun to play with these little droids for
+the theme parks are a lot of the same
+stuff they are able to adapt to any
+terrain they walk around they follow
+instructions from a customized steam
+deck as the controller which took me
+like 60 seconds to learn and they can
+navigate around relentlessly all day
+interact with guests at a theme park and
+being fun to play with it was super fun
+and it's also seriously crazy how much
+Tech is even inside one of these things
+it's literally it's blending all these
+animations together from the walking to
+the standing and looking around it's
+pretty cool but that's not even what I
+was there to try I was there
+specifically to be the first person
+outside of Disney to walk on the hollow
+tile so you might have seen some videos
+about this the H tile it's this insane
+one of one 360° treadmill like a moving
+floor basically it's still in an
+experimental phase and this is the only
+one that exists but it's already got
+these gears turning in my head about
+future potential applications
+particularly in VR and actually one
+specific thing that I have reservations
+about but I'll get to that in a minute
+now I I don't know that anyone's
+actually fully explained exactly how
+this thing works yet but you can see
+that they're basically walking across a
+huge number of these tiny 1-in discs
+that are spinning on top of their bases
+like a bunch of tiny treadmills and then
+turning to match the direction that
+you're walking so obviously a normal
+treadmill is One Direction right just
+one flat plane moving forward and
+spinning around so you always know
+exactly where you're going but let's say
+you want to build a treadmill that's
+responsive and can go in any direction
+well a flat treadmill it would be really
+hard right it would have to spin around
+quickly to match whatever Direction
+you're walking which is just kind of
+insanee so instead built into the floor
+is a bunch of articulating cones with
+discs on top of them with motors inside
+to spin those discs okay and then the
+key here is the discs are tilted so only
+the edge of the disc in the air is the
+part that's actually touching what's on
+the floor so it's less of a flat
+treadmill and more of a bunch of small
+blades that are rotating under your feet
+so when you walk forward they spin
+clockwise to move your foot back to the
+middle once it's landed and actually
+when you walk backwards they spin
+counterclockwise to move your foot back
+to the middle so no matter where you go
+whatever Direction You Walk no matter
+how long or how fast your stride is
+it'll always pull you right back to the
+middle so I've seen these videos that
+Disney's put out of this guy walking on
+it but we got to work our way up to that
+you know I've never walked on it before
+and it's capable of some other things so
+let's let's graduate let's get there so
+there are three ways to control this
+thing there's walk on it obviously but
+there's also using a controller like a
+PlayStation 5 controller and there's
+also just straight up using the force
+and just pointing at it with your
+hands let's start there so first we put
+this Apple box on the hollow tile and
+there's a screen up here that shows in
+real time all of the inputs and what the
+sensors are seeing both on the floor and
+around the floor and they've actually
+mapped anything that crosses a certain
+line in front of me to move whatever
+object is on the floor so when I move my
+hand in front of that line the program
+moves the floor around to match the
+movement of the object with the movement
+of my hand and this is pretty sick I
+assume everyone watching this has seen
+Star Wars and realizes how dope it would
+be to have something like this in some
+sort of Star Wars experience in a theme
+park so this is already super cool but
+then the first time I actually get to
+get on the holot to myself is in a chair
+and with a PlayStation controller so I
+am going to be in a chair chair where
+the chair is on a piece of wood so it's
+just flat bottom and then they just
+handed me the PlayStation controller and
+well see for yourself
+so the left joystick is mapped to
+control position and the right joystick
+controls rotation so you can spin around
+and move around freely and actually get
+pretty quickly used to this thing and if
+you're wondering yes I can steer myself
+completely off of the floor it would let
+me I was just kind of trying to be
+careful to not fling myself off the edge
+but it moves so
+fast so now after all that now that I've
+experienced how it moves now they're
+going to let me walk on the hollow tile
+all right so I'm going to start with
+training mode which is a fraction of the
+normal speed but will still get me used
+to how this works so I'm
+ready training mode is on so
+now slowly start to walk I can feel them
+kind of wiggling a little bit
+but not really moving too quickly yet so
+this is normal oh okay now they're
+starting to move and my feet are
+starting to
+move with the tiles there we
+go so as I slowly walk a little bit
+faster a little bit more quickly a
+little longer
+strides I'm getting more used to the
+feeling of the the tiles so they
+designed this to be about a 2minute
+process as these tiny s slowly speed up
+their responsiveness to my movements and
+it was slowly turned up more and more
+basically until it was at 100% real time
+it's moving pretty close to full speed
+now feels
+like and there's obviously a learning
+curve
+but I feel like I'm good enough at it
+that I can kind of walk around and not
+think too hard it's good and then
+there's all the data behind me in real
+time
+showing my feet my
+legs so walking on this I noticed a
+couple things first of all as you've
+heard through this video it's pretty
+loud like this is going to be something
+they definitely are going to want to
+work on especially if it's something
+that'll be a part of a theme park
+someday or maybe even in someone's home
+but also I found it fascinating you're
+never actually quite walking in a
+perfectly straight line like it can feel
+pretty close if your foot happens to
+line up along a row of discs that are
+all aligned in a way from the center but
+other times you're just kind of Gliding
+Over the Top of a bunch of these ridges
+and you're not moving in a perfectly
+straight line I imagine a future version
+of this looks like a whole bunch of much
+smaller and more numerous discs that are
+just as powerful as they are which is
+clearly an engineering challenge or an
+imagineering challenge so yeah this
+takes some getting used to I know that
+because I got to hang out with the
+inventor of the hollow tile Lanny Smoot
+he's been at Disney for more than 20
+years he's got more than 70 patents
+including the way the bb8 rolls around
+the park the real life lightsabers just
+to name a few he's kind of a legend and
+yeah this guy's incredible on it he was
+showing me you can have two people on it
+at once they were playing a multiplayer
+racing game like controlling a bb-8
+around a course by jogging around and it
+seemed to work pretty well aside from
+being pretty small obviously this would
+work better if they had more of these
+floor tiles but then what I found the
+most crazy is using this floor with a VR
+headset on so this is what you would
+expect it to be for for VR right and
+there's been some other 360 degree
+treadmill type of videos I've seen other
+types of inventions used for VR and they
+work but the one thing that's hard about
+these and it's hard to explain through
+video but the difference between what
+your eyes see and what your body and
+brain feel that disagreement so meaning
+like this has always been true if you
+look down at your phone a lot in a
+moving car right your eyes are seeing
+something still they see your body
+sitting still but then your brain and
+your inner ear feels you moving around
+moving forward and so the disagreement
+between what your eyes see and what your
+brain feel that's what can give you
+motion sickness that's what feels bad
+and so if you think about it it's the
+same thing with this moving treadmill in
+VR you put the headset on and you start
+walking and your eyes see that you are
+walking down a moving hallway you're
+moving forward but your brain because
+you're walking in place doesn't feel
+that it's supposed to be moving forward
+so again there's a disagreement there so
+with the hollow tile I got to try
+putting on an Apple Vision Pro and
+actually walking around a 3D constructed
+environment you can't see it but I'm in
+like a hollow deck and Star Trek or
+something and I've got a harness on
+because it turns out this is really hard
+my eyes see the movement and my legs are
+trying to walk forward and my feet are
+sliding around but my brain thinks I'm
+not supposed to be moving forward so
+it's confusing it's hard to just trust
+it and walk plus there's the extra layer
+of sometimes it moves you backwards a
+little bit to the center so I was taking
+all these baby steps meanwhile though
+watch Lanny do it and he's just
+incredible at it like he had the headset
+on he was walking around confidently
+through space exploring a virtual world
+pretty sure it's like a virtual Disney
+theme park type of thing but that's the
+type of thing that feels the most like
+the future just free form exploring some
+huge space walking around in the
+comforter of your own home maybe and
+that would be amazing and if this thing
+can continue to be developed maybe just
+maybe it can get us closer to that
+reality someday either way that is
+definitely dope Tech I'm glad I got to
+see the first version of this and I'm
+very curious and excited to see future
+versions Disney please invite me back I
+want to see what the future of this
+actually looks like okay that's it
+thanks for watching catch you in the
+next one peace
+p

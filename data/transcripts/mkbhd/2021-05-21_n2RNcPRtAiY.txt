@@ -1,0 +1,421 @@
+# Talking Tech and AI with Google CEO Sundar Pichai!
+# https://www.youtube.com/watch?v=n2RNcPRtAiY
+
+[Music]
+soon so as soon as we hit record then
+the noises start so now a little
+landscaping a little little construction
+uh have you had it through the pandemic
+has it been hard kind of doing stuff
+like this yeah weirdly it's gotten
+easier because it's quieter in our
+studio because we share the building
+with other tenants and the pandemic
+happens and then a lot of them work from
+home so now the building's quiet yeah so
+that was kind of nice
+first of all thanks for joining me
+sundar i'm sure you're extremely busy at
+this particular time of year so i
+appreciate the time one of my favorite
+parts of doing this uh
+talking tech series is i get to talk to
+people who have a unique perspective on
+tech and i feel like as a ceo of google
+and alphabet
+you're almost required to have like some
+vision of a future
+uh i'm curious the number one question i
+always get is what's the next big thing
+so i'll just leave you with this number
+one faq what is what does the future
+hold what are your your big
+visions of the next five to ten years of
+tech
+it's a big question um
+you know the in some ways we tried to
+communicate aspects of that at yesterday
+and i've always felt at google and at
+alphabet we are working on
+deeper computer science and ai
+in a way by which you can you can make
+real advances but then take that and
+apply it practically to be helpful
+be it small moments or bigger moments i
+see a lot of potential in the advances
+in ai
+but it's equally important that you have
+a real framework by which you're
+applying it right and that's why when we
+say helpful we have four attributes we
+focus on
+knowledge success health and happiness
+and i actually think through
+the work we do the products i see
+and it could be something like in maps
+you know adding eco routes or deducting
+breaking moments and heartbreaking
+moments and making changes
+or it could be big like
+the mammography example or or derma
+assist and so on but you know it's
+thinking through with that framework in
+mind
+definitely i think ai comes up a lot
+especially when you watch a google
+keynote ai is sort of part of the
+solution for almost every problem you
+guys solve
+uh i wonder
+i assume you have to have a pretty
+optimistic view about the future of ai
+and and the structures you want to keep
+in place around it but how much do you
+think about the potential negatives or
+potential downsides as ai gets more
+advanced because i've talked to people
+who have a much more negative view about
+it no i
+i think it's
+fair to be worried about worried about
+any any new technology you know
+technology has dual sites and
+i feel humanity's journey has been
+at each stage how do you figure out to
+harness
+technology in a way that benefits
+society
+and and for ai is so profound i i think
+that that will be true for ai too but i
+think the way you do it is by
+working at it making progress
+being transparent about it engaging in
+conversations and over time
+governments and there have to be other
+frameworks to evolve it yeah yeah should
+it be up to governments or should it be
+up to those
+because this is a problem we see all the
+time is people who don't know as much
+about the thing are in charge of
+regulating the thing should it be up to
+companies like google to be as
+responsible as possible or should there
+also be
+government
+structure around ai a combination of all
+that i think companies have to
+definitely you know be responsible
+because they are
+often developing technology early and
+you're at the cutting edge of technology
+and it takes a while for governments to
+you know think about it and address yeah
+but i think public private partnerships
+are important
+academia plays a strong role like an
+academic institutions and research
+over time for something like ai you
+would need
+no different for something as big as
+climate change you have concepts like
+paris agreement
+you know you would need global
+frameworks because uh to
+uh to think about it but i am optimistic
+i mean i think you know i see the
+benefits of all of the how all of this
+can impact and
+you know we have worked together hard to
+address issues in the past so i think
+it's easy to be optimistic because
+there's so many good cool things
+happening
+from ai one of my favorite announcements
+from you guys was
+google sort of adapting their
+computational photography to better
+account for different skin tones
+and it seems like such a small thing
+but it affects so many people i mean
+part of the reason i use the cameras
+that i do is because it can handle this
+latitude and different skin tones and i
+like the way they look but i'm curious
+if you feel like there's other
+quick practical applications of ai in
+the smartphone world kind of like that
+yeah i definitely think so i was excited
+about project douglas you know my
+daughter had the same reaction i was you
+know she literally had the same reaction
+when she first heard about it she's like
+was talking about the pictures and she
+felt you know she wasn't represented
+correctly
+and and so
+i'm glad we addressed it and there's
+more work to be done there
+we have had the same experience with
+accessibility so live captioning
+videos and you can do it on device and
+you can and the thing i always like
+about these things is even if you
+think of it as a
+feature to help the disabled community
+it has wide applicability beyond that as
+well you know you could be in a meeting
+and you want to listen to a video and
+the captioning still works right and or
+in a crowded place and so on so i think
+all of this is much wider applicability
+too definitely the other ai part that
+was a little crazy was
+i think it's called lambda
+correct me if i'm wrong la mda but you
+you demonstrated this uh
+conversational aspect of ai where it
+sort of uses information
+to answer questions about itself so the
+demo was talking to pluto which was
+pretty cool
+you know pluto gets to defend itself
+maybe it's a little underrated but i i
+imagine like my brain immediately went
+to well what other things could you
+synthesize a conversation with and i
+went straight to like people like other
+existing people are there lines you
+won't cross with things like project
+lambda where like
+should you not be allowed to synthesize
+conversation with someone who's alive or
+how do you think about like where lambda
+can go uh
+you know i want to stress lambda still
+research right and you know so we're
+pushing the boundary there
+this is why let me step this is why we
+you know articulated our ai principles
+very clearly and publicly
+so that we have a framework to think
+through anything like this
+when it comes to product i think you
+know it's really important
+like ai is not ever used in an
+impersonation way or you know or
+everything through the right constructs
+for how it is used and so
+we are much more focused on using lambda
+to understand language deeper okay and
+and in the context you can imagine
+talking to google assistant yeah so
+first of all search today if it
+understood language deeper
+or even in youtube when we are trying to
+understand what's in a video
+right
+the fact that we can understand language
+deeper would make a big difference so
+that's the primary purpose
+but in the in in conversing with an
+assistant we can make conversations much
+more natural
+so the intent is into uh you know
+pluto and a paper airplane are more
+benign examples and but you know we
+would have to have
+ethical principles and guidelines uh
+around anything we developed there
+what smartphone do you have in your
+pocket and why that's that's probably
+the number one question people want me
+to ask you
+you know it changes a lot uh depends on
+the day of the week uh probably not as
+many as you play around with
+but but someday
+you know it may not be too far off
+either but i do try out almost every
+phone at least for a little bit uh i
+shouldn't say every phone most phones
+okay um you know but uh
+right now in my pocket it's a pixel
+actually it should pull it out yeah it
+could be any pixel
+so you know it's a
+it's it's a pixel but it's it's the
+released version of the pixel now
+but i you know i've enjoyed using the
+s21
+and uh
+you know and
+i check out everything that comes in the
+market oneplus maybe and you know play
+around with it uh iphones across our
+products work across everything so i'm
+testing a lot of devices yeah it feels
+like if you're if you're in
+i mean you started at google with
+chrome and then
+obviously with android and now
+overseeing everything
+does it ever feel like you're too
+in the weeds to appreciate how other
+people might use the product because
+when i'm making a video for example i
+might spend
+five six hours on an edit and then i i'm
+watching it back looking for little
+things and i might kind of lose the
+bigger picture of the person who jumps
+in for the first time
+if you're using android 12 and new
+features coming out and you're testing
+it on on whatever daily phone it is does
+that ever
+feel like a challenge to to step back
+and remember like people have to use
+this for the first time and how they'll
+interact with it or do you feel like
+you've sort of got that done to a
+science no no well
+what are you talking it's it's a it's
+the art of product management i think
+stepping back
+so there's a difference between hey
+translation is exciting we can build it
+in chrome to
+how would you do it in a way in which
+for most people it kind of naturally
+works yeah and and designing it are two
+different things i think and so there's
+a lot of that
+but i actually find your point even
+broader a lot of the way when i do
+reviews with other teams
+the perspective i almost always bring
+and it could be anyone else in my
+position is
+you know because the teams are so in the
+effort of what they are doing yeah it's
+it's tough for them to sometimes see the
+forest
+instead of the trees and and so it's a
+lot of what real life is about i think i
+want to ask about your your like overall
+view of
+you know becoming a ceo of google like
+you grew up in india and you've
+mentioned
+didn't have access to the internet or a
+computer
+for a long time and then you came to the
+us and you had access to the internet
+are there things that still surprise you
+about like the advancements in tech and
+accessibility today even though you've
+seen
+so much of a difference between
+the beginning of your career and now i
+think for me because growing up every
+moment was discreet like i had to wait a
+long time to get something and then i
+saw the impact of it right you know so
+waited five years on a waitlist to get a
+rotary telephone right and you may not
+know what a rotary telephone heard about
+this i heard about those
+but you know kind of changed the life
+for me my parents
+in our streets people would come to our
+home to kind of use it to talk to their
+family and friends
+so i've always had that
+you know the impact of how it can change
+people's lives
+where it most directly impacted me is
+i got inspired by the one laptop for
+child project uh which uh which was
+being done by negra ponte at the time
+out of mit and
+i today look back at chromebooks or you
+know android phones and to me feels like
+you know it's an explicit continuation
+of that journey which which was
+inspiring to me right
+uh here's maybe an interesting question
+uh the
+tech ceo
+has sort of become like its own genre of
+celebrity in a weird way in a way that
+it probably wasn't even thought about 10
+20 years ago
+do you think about that at all like
+obviously there's this uh this new
+curiosity about some of the most
+powerful companies in the world and the
+people that run them
+being a pretty understated guy i would
+assume you're probably not all about the
+spotlight but i'm curious what you feel
+about that you know i i recognize the
+responsibility which comes with it
+you know the scale at which tech is
+working in the world
+uh i think
+i think there is an importance to it and
+rightfully there is accountability that
+comes with it and i think the importance
+of engaging and explaining yourselves
+internally and externally uh
+that comes with it
+but beyond that i don't think too much
+about it and you know on a day-to-day
+basis
+it's not how i approach it yeah that's
+fair i like that answer
+uh
+so let's say you fast forward
+let's go 50 years into the future
+you're retired from
+google from tech
+how do you want your
+your fingerprint here
+in the tech world to be remembered
+you know uh
+i would i would love
+allow it to be about
+you know enabling radically more access
+to both information and computing to
+more people
+that's a big part of what i think about
+you know really
+driven by it
+but beyond that you know i've always
+been interested in
+driving deeper technological progress
+and
+and the
+obviously you have to take that and
+translate it into product and business
+success right and it goes hand in hand
+but i think
+you know
+driving ai forward responsibly uh you
+know it's a big part of what i think and
+work a lot on for sure
+all right well i mean i'm looking
+forward to a lot of new stuff that's
+coming out
+very excited about android 12 and like
+all the
+customization and and what is it called
+something you materialize materially you
+like that's it's a cool idea so i'm
+looking forward to trying that out but
+thanks for the time i appreciate the
+interview and hopefully get to it again
+sometime all right thanks marcus
+appreciate it yeah thanks
+[Music]

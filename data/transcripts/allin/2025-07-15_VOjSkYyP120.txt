@@ -1,0 +1,246 @@
+# Every Software CEO Is Terrified Of This AI Innovation - Travis Kalanick
+# https://www.youtube.com/watch?v=VOjSkYyP120
+
+Travis, your thoughts on this category?
+Anything come to mind for you in terms
+of,
+you know, feature sets that would be
+extraordinary here? I know you you like
+to think about products and the consumer
+experience.
+&gt;&gt; It's really interesting. So, you know,
+I've been spending, as you guys know,
+I've been spending my time on real
+estate and construction and robotics.
+And so I' I've been out of the this kind
+of consumer software game for a long
+time. But it's super interesting over
+the last six months. There have been a a
+number of consumer software CEOs.
+Like when I hang out with them or
+whatever, they're like, yo, how are we
+going to how are we going to keep doing
+what we do when the agents take over?
+&gt;&gt; Yeah. The paradigm shift is so profound
+that the idea that you would visit a web
+page goes away and you're just in a chat
+dial. you know, you have an agent that's
+just taking care of your flights for
+you.
+&gt;&gt; So, I I kind of I I think there's a
+leaprog over that. I think
+it's just like you tell something, yo, I
+want to go to New York. Can you you
+know, I'm sort of looking at this time
+range. Can you just go find something
+I'm probably going to like and give me a
+couple options?
+&gt;&gt; Yeah. And it's just a whole you have an
+interface and then you know is perplex
+is this thing that you just showed on
+perplexely is that the interface or do I
+just have an agent that just goes and
+does everything for me and is this the
+start of that? I you know I just haven't
+spent enough time. I I do know that
+every consumer
+software CEO
+that has an app in the app store is
+tripping. They're tripping right now.
+&gt;&gt; And I mean big boys. I meet guys with
+real stuff and sometimes I I'm doing
+like almost like therapy sessions with
+them. I'm like, "It's gonna be fine. You
+actually you actually have stuff. You
+have a mo you have real stuff that's of
+value. They can't replace it with an
+agent." And they're like,
+&gt;&gt; "So, you're lying to them. You're doing
+hospice care and you're telling them
+everything's going to be okay, but the
+patient
+options on Robin Hood while he's like,
+"Yeah, yeah, tell me more. Tell me more.
+&gt;&gt; All these things.
+&gt;&gt; There's certain things that are
+protected. There's certain not things
+that aren't. That's all.
+&gt;&gt; Well, let's talk about that because the
+you and I are old enough to remember uh
+general magic. This vision was out there
+a long time ago with personal digital
+assistance and you would just talk to an
+agent. It would go do this for you. This
+feels like a step to that where it does
+all the work for you, presents you the
+final moment and says approve.
+&gt;&gt; Like a concierge or a butler. Yeah,
+&gt;&gt; I think what you're describing is what
+we want. But I think more specifically
+for today, Keith and Travis totally nail
+it. Look, I think building a browser is
+an absolutely stupid capital allocation
+decision. Just totally stupid and
+unjustifiable in 2025. Specifically for
+Perplexity,
+I think their path to building a legacy
+business is to replace Bloomberg.
+Everything that they've done in
+financial information and financial data
+in going beyond the model has been
+excellent. As somebody who's paid
+$25,000 to Bloomberg for many years,
+the terminal is atrocious. It's
+terrible. It's not very good. It's very
+limited.
+and anybody that could build a better
+product would take over a hundred
+billion dollar enterprise because I
+think it's there for the taking. I wish
+that perplexity would double and triple
+down on that. And so when you see this
+kind of
+&gt;&gt; random spraw,
+&gt;&gt; let's do it, Jimoth. Let's just go do
+it.
+&gt;&gt; When you do the random spraw, I think it
+doesn't work. But I just want to say
+like
+&gt;&gt; a browser is like the dumbest thing to
+build in 2025 because in a world of
+agents, what is a browser? It's a
+glorified markup reader. It's like
+handling HTML. It's handling CSS and
+JavaScript. It's doing some networking.
+It's doing some security. It's doing
+some rendering. But it's like this is
+all under the water type stuff. I get it
+that we had to deal with all that
+nonsense in
+1998
+to try LIOS or Google for the first
+time. But in 2025,
+there's something that you just speak to
+and eventually there's probably
+something that's in your brain which you
+just think and it just doesn't you're
+thinking
+I need a flight to JFK or at the maximum
+today in a very elegant beautiful search
+bar you type in get me a flight and it
+already knows what to do.
+&gt;&gt; Keith in some ways this is a step
+towards that ultimate vision. So you'd
+think it's worth it to you know sort of
+perplexity to make this way point
+perhaps if you look at it as a waypoint
+between the ultimate vision which is a
+command line and earpiece.
+&gt;&gt; How do you get distribution Jason for
+the 19th web browser in 2025? Well,
+yeah, that is a challenge and I think
+most people are speculating Apple, which
+has a lot of users, might buy Perplexity
+or do a deal with Perplexity and give
+them that distribution because of the
+Justice Department case against Google.
+So, there's been a lot of speculation
+about that. But Keith, what do you
+think?
+&gt;&gt; Well, I don't think they'd buy anything
+worth it. Like, what do what is Apple
+going to get? We continue this failed
+strategy of Apple,
+&gt;&gt; right? Apple's missed every possible
+window on AI and continues to miss it
+and it has cultural I think the CEO has
+challenges I think culturally they have
+challenges I think they have
+infrastructure challenges so it's it's
+not an easy fix but buying perplexity is
+not going to help like chas strategy is
+actually pretty coherent one for
+perplexity quap perplexity uh so I think
+that
+&gt;&gt; pick a vertical and own it strategy in
+this case
+&gt;&gt; not not a bad idea um especially because
+you need unique data sources some of
+those data sources may or may not
+license their data to open AAI. So you
+can do some clever things there, but um
+I don't think there's any residual value
+that Apple will get out of perplexity
+except there's some product taste, but
+what are you going to spend like a
+billion dollars for product taste? I
+mean Mark's spending hundreds of
+millions of dollar hundreds of billions
+or whatever he's spending these days and
+you know Grock if anything Grock for
+shows that Mark really doesn't need to
+just spend money to build a whole new
+team because everything they've done in
+AI is also missed the boat. Well, I
+mean, Keith, the way you phrase it there
+almost makes it worth it for Apple to
+throw a Hail Mary, have a team with some
+taste because that's how they tend to do
+things is something that is elegant. And
+why not just throw your search to it,
+throw 10 billion at what's
+elegant would be if there's a bunch of
+agents and just a chat box.
+&gt;&gt; Seeing a bunch of visual diarrhea is not
+elegant.
+&gt;&gt; It's lazy.
+&gt;&gt; Off on our on our little Bloomberg
+clone, I'll give you naming rights. So
+you can call it that.
+&gt;&gt; Oh, you like you like it.
+&gt;&gt; Polyhapatia. So, hey, can somebody can
+somebody uh bring up the polyhapatia?
+&gt;&gt; You know what's so funny?
+&gt;&gt; It just rolls right off your tongue.
+&gt;&gt; TK, listen. We were trying to do a
+screen
+of companies and it maxes out at five
+companies on a specific type of screen
+where you're like you're trying to
+compare stock price to EB and you're
+like, okay, I can only choose five, I
+guess. So, which five should I choose?
+Lefont was on right like two episodes
+ago. He was like I can't pull this up.
+It's limited to six companies.
+&gt;&gt; Dude, you it's So what do people use
+Bloomberg?
+&gt;&gt; They use it for the messaging. Now like
+my team has traded huge positions via
+text message on Bloomberg. So there is
+something very valuable there.
+&gt;&gt; But the core usability and the core UI
+of that company has not evolved.
+&gt;&gt; I have my contribution
+&gt;&gt; and complexity is very good at that by
+the way. It they they do a very good
+job.
+&gt;&gt; I got a new domain named Travis. Let
+this one just sink in here. This is my
+way to weasel my way into the deal.
+Begin.com.
+&gt;&gt; begin.com.
+&gt;&gt; You own that, don't you?
+&gt;&gt; I do.
+&gt;&gt; I'm just a little I snipe some good ones
+once in a while. I got begin.com and I
+got annotated.com. Those are my two
+little domain. You're like you're like
+one of these old people that show up at
+those road show and then
+road show and you're like, "Oh, I have
+this thing that I bought 1845."
+&gt;&gt; Guys, Jason Jason is Jason is the daddy
+and god daddy. Okay, that's just what it
+is. Your dad your dad.
+&gt;&gt; That's what it is.

@@ -1,0 +1,94 @@
+# HD Tutorial: Start Menu Customization
+# https://www.youtube.com/watch?v=bLIxfnQqe_c
+
+hey guys um today in Windows Vista I'm
+going to be showing you uh a lot of you
+if you have Windows Vista you may have
+wondered where did the Run button go in
+the start menu well first of all I have
+to say that the Run button is actually
+the start search button as well if I to
+type Ms config into the run into the
+start search button and hit enter it
+would pop up as if I had put it in the
+Run dialogue but some of you guys who
+are still loyal and true to Windows XP
+uh still want to be able to just go
+start run and uh instantly have that
+little run dialogue box there to type it
+in just like you were in Windows XP so
+I'm going to show you guys how to enable
+that uh first of all you right click on
+your taskar not the actual start order
+but the taskbar and hit properties then
+you go to the start menu tab and in
+start menu I'm going to hit
+customize this will work for both the
+classic start menu and the Windows Vista
+start menu so I'm going to scroll all
+the way down about 34 of the way down to
+we see a box that says run command all
+you have to do is check that box and hit
+okay hit apply and press okay again and
+that will apply the Run command box
+right there into Windows Vistas start uh
+start menu and that's just how you do it
+uh then when you hit run you'll have MS
+config right there you can type in and
+it will work just like if you typed it
+right here so um I hope that guys helps
+if I hope that helps you guys if you're
+using Windows Vista if you want to um
+disable it at any time it's the exact
+same steps just follow them the opposite
+way customize go down and uncheck run
+command and apply it it'll be gone and
+you'll never have to worry about it
+again so that is how to enable and
+disable the Run command in Windows Vista
+um in the Windows Vista start menu if
+you like it and if you have any more to
+tutorals that tutorial ideas for me to
+do just uh subscribe and send me a
+message and I will get to it so thanks
+for watching
+peace now what I just showed you is just
+one of the many forms of start menu and
+taskbar customization in Windows Vista
+another thing that I have done with my
+start menu is I right click and go to
+properties go to start menu again and
+customize again and I set the number of
+recent programs to display as a
+uh I think it is normally set to 9 or 10
+I decreased it to eight uh to shorten
+the size of my start menu so when I
+actually hit start it only goes about a
+little more than halfway up the screen
+um so I have 1 2 3 4 5 six 7even eight
+recently displayed items and then I have
+of course the ones I dragged to the top
+as my most used in order to add icons to
+here simply select the program maybe I
+want to add paint up here uh I will just
+click it and drag it until it's above
+that dark arrow and release and there it
+is it will always be there no matter how
+many other programs I open in this
+bottom eight it will be up here uh and
+to open it you click it
+obviously at any time you can move paint
+out of there just by right clicking on
+it and selecting remove from this list
+and paint is gone so I've chosen
+internet browser and my email client as
+well as Media Center um Printing and
+scanning Etc the DVD suite and my disc
+def fragmenter to all be in the top as
+well as the eight most recently used
+programs in the bottom so those are two
+little tricks for start menu
+customization that you guys might like
+um so again if you enjoy these videos go
+ahead and subscribe I'll get to you
+peace

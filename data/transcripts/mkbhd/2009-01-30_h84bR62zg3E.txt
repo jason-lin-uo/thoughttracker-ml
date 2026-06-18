@@ -1,0 +1,209 @@
+# HQ Tutorial: Rocket Dock Application
+# https://www.youtube.com/watch?v=h84bR62zg3E
+
+all right hi again I'm going to make a
+tutorial now on how to get this rocket
+dock up at top of your screen um now
+obviously I'm using Windows Vista I have
+Windows Vista Home Premium going and
+I'll just open this to show you Vista
+Home Premium uh 2.2 GHz processor 3 gigs
+of RAM and a 512 Meg graphics card
+okay um so this is how I got the rocket
+dock I will open this I'm uploading a
+video this is my internet browser and
+just go uh to Google and search
+rocket rocket doc um again this is
+freeware I do of reviews on freeware and
+the first result will be rocket do.com
+go ahead and click on it and it'll take
+you to the rocket do.com website what is
+it well it's a smoothly Al smoothly
+animated Alpha Blended application
+launcher that's just what it is it's an
+application launcher it's very very
+simple you go to
+the you simply go to the download link
+the download tab at the top and you can
+download a an earlier version of it but
+I would suggest downloading the latest
+version um this is what I'm running
+right now the 1.3.5 version and once you
+download it and install it it'll put it
+on your desktop and you'll have it to
+mess around with so I right now I have a
+few things in my doc not a whole ton but
+I've got a few I have
+um my internet applications and C
+cleaner which I show you guys I did um
+actually I'm uploading right now no
+that's not it but I up I just uploaded a
+uh review on SE cleaner my office
+documents and a photo editor called
+my email client called bird Skype this
+is just Communications this is other
+tools this is for my scanning on my uh
+all inone printer this is media and this
+is what was already on it um so in here
+we can edit our doc
+settings uh there are several tabs it's
+just simple first of all we have the
+English the it's basically what language
+you can record in and what language you
+can run this whole application in I
+selected Vette startup um I don't want
+to minimize Windows to dot because I
+actually like the live previews that
+happen in Windows Vista so I leave that
+um I have running application indicators
+which is that little dot that little dot
+that little Dot and lock items which
+means I can't accidentally drag one out
+if I didn't Lo then I could drag one um
+when you have running application open
+running application instance that means
+when you click on it it's not going to
+open like a quick launch it's going to
+open the one that was already
+open uh
+icons I'll select average quality
+okay um that basically just dictates how
+long long it'll take to load and a
+buffer the animation um when you change
+opacity see it's pretty much opaque
+right now if you change it to 50 it's
+it's um it's really transparent until
+you put your mouse over which is a cool
+effect but it takes a little CPU uh Zoom
+opaque that's what happens when it turns
+opaque when you zoom uh size which
+changes the size of the icons the
+overall Dock and then the zoom effect
+and the zoom pixels are the size it
+becomes when you put your mouse over it
+so that's cool that you can change that
+also the width is how much it when you
+Mouse over it and duration which is how
+long the animation takes I have mine at
+the top of my screen you can also have
+it at the bottom which put it down here
+like the Mac 10 doc you can have it on
+the left and a lot of people have it on
+the right I didn't put it there because
+I have a sidebar open sometimes so I
+just leave it at the top which is
+standard and you can also bring It Off
+Center or even off of The Edge uh which
+is you know interesting I'll keep it
+at I'll I'll keep it at
+zero
+okay uh that's for position for style uh
+there are tons of themes that come with
+it and you can even download more which
+I will show you hopefully um you can hit
+the get more and you will find it from
+where you downloaded it which would be
+from your internet browser and you can
+also change the fonts that show up it
+says Windows Media Center but underneath
+you can change that font and there's
+your preview right there Behavior this
+is simple um you can have it actually
+bounce when you click on it or I just
+you know have it darken for an instant
+like that
+um that's basically it
+1.3.5 and there are forums you can
+update it instead of just deleting it
+and reinstalling rocket do is developed
+by Fanboy and fan draw on OSX well that
+that explains this look all right um You
+can reset it to the default any time if
+you screw something up and you don't
+like so here's what it looks like when I
+click on it simple and now it has a
+running application instance and it
+opens up my Windows 7 calculator um
+notepad it just clicks and you have the
+thing running so I like it also when I
+unlock the items here you have the
+opportunity to drag it out and move to a
+different spot and it still have the
+Little Black Arrow here and you can move
+wherever you want also you can take
+something and drag it out and it'll just
+poof in a PP smoke and I can always add
+a separator where I want it and I can
+move that separator around Etc now about
+add-ons I will show you add-ons really
+quickly um this is done so I can go to
+Google
+and go typee in cam no not cam Studio
+I'm still on my last tutorial type in
+rocket doc again
+and uh there's usually an add-ons thing
+here it's rocket do.com again I'll try
+to post a link in the description go to
+get apps and this is really cool because
+uh you can change different icons that
+you want for certain things and I'm
+going to show you an add-on that I got
+recently here's an icon pack here's open
+Office uh app uh icon a sea cleaner icon
+which I use the standard sea cleaner
+icon um you can add skins and also a
+thing called dockets so I'm going to
+show you um stack
+dockets uh since I can here I think I
+have enough
+time let see yeah we're good
+so I unlocked it so right now I can
+right click here and add an item
+say add a clock docklet that's the clock
+I really don't like the clock but
+whatever I can skin it later or I want
+to add a stack docklet this adds a
+little transparent icon it there's
+nothing on it when you click on it yet
+but I will go to Icon settings change
+that here's something cool you can
+change the icon that it looks like and
+that will change this and then you can
+change the folder where it is directed
+to so I'm going to go and
+find
+Marcus's I don't know 18 Wheels of Steel
+so it opens that and what icon do we
+want we want a rocket
+okay so now we have a rocket and what
+happens when you click on it it opens
+that folder you saw that animation that
+is a pretty cool animation it is what uh
+it's basically one of os 10's animations
+it flies out and I can also use icon
+setting change that to a fan instead of
+a grid which will send it all the way
+down my screen like that if I don't like
+that I can always go icon settings like
+I don't like it and change it back to
+grid also if not all the things are here
+that you want to see just hit open in
+folder and it'll open it right up and
+you can browse from there with the um
+just so I I like it I write open the mix
+and I get all my my trucks it's pretty
+cool um but I want that so I just poof
+disappear lock items so I never
+accidentally delete one again um
+personally I like it it's really it's
+really handy I don't feel like going to
+start typing Safari every single time or
+starting and looking for Thunderbird
+there it is you know it it's just it's a
+f it's
+faster it's faster and I just want to
+show someone my music I just go in and
+open it up and there it is
+so um that thanks for watching my
+tutorial and comment rate and start to
+subscribe thanks

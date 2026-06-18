@@ -1,0 +1,314 @@
+# qZGpmWrVSaU
+# https://www.youtube.com/watch?v=qZGpmWrVSaU
+
+[Music]
+all right
+uh we got a lot to talk about hey what's
+up guys mkbhd here and you may have
+recently seen some version of the news
+that huawei was cut off from google and
+now all their android devices are in
+limbo but clearly there's a lot more to
+it this is a super complex topic with
+policy and timelines and a whole bunch
+of moving parts so i clearly didn't rush
+this video out i wanted to actually take
+my time to summarize this topic but here
+we are so this
+is everything you need to know so far
+in one place so huawei in case you
+didn't already know
+based in china huge company absolutely
+massive and they have all kinds of
+businesses in tech they sell networking
+equipment they sell computers
+and they sell most notably smartphones
+they are the number two largest by
+market share smartphone vendor on planet
+earth second only to samsung and right
+above apple so as you may have heard or
+read in the news over the past few
+months the us and china have been
+escalating this trade war from both
+sides
+plus there's been a history of security
+concerns over the potential of u.s
+companies buying huawei networking
+equipment and then possibly getting
+spied on by the chinese government u.s
+government agencies were even banned
+from buying huawei phones at all so no
+matter how you view those things either
+way huawei's status in the us has been
+pretty shaky for a little while now for
+various reasons they knew it we knew it
+that's just the climate we're in so the
+big new news now
+is that the us government signed an
+executive order into effect that added
+huawei to effectively a black list of
+companies that are restricted from doing
+any business with any u.s company
+at all
+period it's been awarded a bunch of
+different ways but that's basically what
+went down and now the implications from
+that have run
+far and wide i mean nothing's really
+rocked the tech world quite like this in
+a little while so the biggest most
+obvious headline from this is google
+they're a u.s company huawei does
+business with google they make android
+phones so when this executive order came
+out in response google complied by
+stopping all business with huawei and
+pulling their license to use android
+that wasn't like a choice they made or a
+decision they had really they're just
+complying with the executive order
+google's in the us huawei is not allowed
+to do business with any company in the
+u.s so they can't be sold any software
+or any licenses so they can't use
+android so this is of course terrible
+news for huawei who by the way was
+the fastest growing smartphone
+manufacturer in the world they were
+coming up quick on that number one spot
+so now the big question we're all
+wondering is
+what does this mean for the past the
+present and future huawei devices so for
+huawei devices past and present like if
+you own a huawei phone like me like a
+p30 pro or you're thinking about getting
+a p30 pro or a p30 here's the deal first
+of all they were issued a 90-day
+exemption so they will be able to
+continue sending software updates and
+security updates to existing huawei
+phones for the next 90 days into august
+so that sort of softens the blow a
+little bit i guess and i do believe this
+also includes honor by the way honor
+being a brand that's owned completely by
+huawei a sub brand of them but honor and
+huawei phones are all sort of under the
+same umbrella so these phones will all
+still work and they'll still keep
+getting software updates and also google
+tweeted from their android account that
+while they comply with us government
+requirements services like google play
+and security from google play protect
+they will keep functioning on your
+existing huawei device for now but
+these phones
+if things stay the way they are
+basically these phones will most
+certainly stop getting software updates
+like even if you're not in the us no
+matter where you are if your huawei
+phone runs google services those will
+stop and you'll stop these phones will
+not get the latest version of android
+basically at the end of this 90 day
+extension whatever software version
+these phones have is the one that
+they'll have for the rest of their life
+which is definitely not ideal so
+what does huawei do from here like what
+can huawei do about their future phones
+and can huawei even make
+future phones without any us business
+help fun fact they spent 70 billion
+dollars buying components for hardware
+last year 11 billion of that went to u.s
+companies like qualcomm intel etc and
+actually arsenica has posted an article
+with a pretty good breakdown of all the
+parts and components that huawei's been
+buying to make their smartphones and a
+lot of them come from us companies the
+gorilla glass the flash storage some
+radios etc all from us from looking at
+this list it doesn't seem totally
+unrealistic that i mean they don't want
+to obviously but they seem like they
+could totally switch all of their
+suppliers from u.s companies
+to others to get around this it's not
+what they want to do it involves
+spending a lot of money and doing a lot
+of work but they're one of the few oems
+that doesn't rely on qualcomm for their
+silicon they make their own kieran 980
+chip for the mate 20 pro and the p30 pro
+so in theory with a lot of effort they
+could keep making these physical phones
+and also bloomberg has reported that
+huawei has built up a three-month
+stockpile of the parts they like to use
+ahead of this ban which is actually
+pretty impressive but even if they did
+replace all of these hardware suppliers
+with alternatives in the next 90 days
+the software is still the big question
+how do you make a phone without google
+without the android license without the
+google play store technically android
+itself is open source just bare bone
+stock android is just an open source
+project which has led many to speculate
+you don't need a license you don't need
+to do business with google to just use
+aosp so they could use bone stock
+android but that's not ideal because
+even that is further and further from
+the version google uses every day and
+that still doesn't include things like
+google services
+gmail
+youtube
+it's just not ideal the more i read into
+it it turns out huawei's been sort of
+quietly bracing themselves for something
+like this for a while
+similar to samsung they've recognized
+their reliance on google and google
+services as a bad thing so they've been
+slowly building things behind the scenes
+to be able to get ready to replace them
+supposedly they've been working on a
+backup os that supports android apps and
+they've been working on building their
+own app store the problem is
+that is an immense challenge to try to
+get people to use an alternate os and an
+alternate app store especially if it
+doesn't look exactly the same as the one
+they're used to especially the app store
+and if you can't do business with us
+companies you can't expect to be able to
+negotiate your way into getting the
+netflix's and pandoras and facebooks and
+instagrams on your alternate app store
+and even if you can we've seen others
+like amazon try you've seen the amazon
+app store right
+amazon's a multi-billion dollar company
+and the sad version of an app store that
+they have is nowhere near a replacement
+of the ones that we're used to so it's a
+super massive challenge to try to build
+up your own app store out of nowhere so
+this spells a lot of work for huawei
+like it shows how big of an impact just
+getting cut from your ties with google
+can have on your business they've seen
+this coming they've known that this is
+possible but now that it's happened it's
+awful so the way things stand now they
+could in theory after the 90 days is up
+continue to make phones entirely through
+nine us companies
+but those phones wouldn't have
+android they wouldn't have the google
+play services which are crucial and they
+wouldn't have the google play store
+it's tough and of course it's not just
+google that they're cut off from like
+that that's the big headlining one
+because they make a lot of android
+phones but there's plenty of other us
+companies that they do business with
+microsoft intel nvidia huawei has been
+making laptops and pretty good ones mind
+you competitively for a while now
+but as far as i can tell they can't keep
+making
+windows laptops
+without doing business with microsoft
+and intel and nvidia and these companies
+that's brutal too so as a person that
+really likes tech
+all of this news is terrible because
+having one less company means less
+competition which is less incentive for
+these companies to work hard and make
+great stuff i mean we've seen it
+ourselves with how good their phones
+have gotten lately and how good they've
+made all the phones around them even if
+you're not a fan of huawei or if you
+don't like their stuff we have to admit
+that having them around is good for
+consumers it's good for us and also side
+note if you think about it this is also
+pretty bad just specifically for folding
+phones like the galaxy fold kind of just
+had its own pr nightmare all by itself
+over there for a couple weeks which sort
+of turned people's heads to the other
+folding phone that would be coming to
+market soon which was gonna be the
+huawei mate x
+but now
+i mean what if it can't even run android
+but hey huawei is like i said a huge
+company like a really huge company so i
+guess if anyone can recover from such a
+massive setback to multiple parts of
+their business
+i guess it's them
+i mean this is not ideal at all their
+ideal case would be the government
+renegotiates things and they reverse the
+executive order and things go back to
+normal but in the case that that doesn't
+happen at least they have
+billions of dollars to try something but
+even if they do come back if you think
+about it the bigger damage might really
+just be
+the way people think about huawei as a
+company to potentially buy products from
+you know their reputation isn't exactly
+great especially in the us so now good
+luck trying to convince someone to spend
+a thousand dollars instead of an iphone
+onto huawei phone that
+doesn't even have the play store or run
+android anymore that's a tough sell if
+you look back a very similar situation
+happened to zte in 2018 last year they
+got cut off from all their us business
+relationships and they were never the
+same they didn't exactly come back
+strong from that but huawei is this
+goliath so i'm i'm thinking things will
+go a bit differently this time or at
+least i'm hoping things will go
+differently for the sake of competition
+but to be honest this whole situation is
+far from over these things evolve they
+change over time i wouldn't be shocked
+if this whole thing was reversed in the
+next couple months just because that's
+sort of the way things have gone
+recently but as of right now we're just
+kind of in this unsatisfying limbo as we
+speculate about huawei's future
+but that's basically all there is to
+know right now there you have it
+so that's been it i'll leave all the
+links for all my sources down below in
+case you want to read up on this
+yourself and of course feel free to
+share this video for anyone who might be
+headline reading or curious about the
+situation huawei's found themselves in
+right now and i'll catch you guys in the
+next video
+peace

@@ -1,0 +1,306 @@
+# I Visited Apple's Secret iPhone Testing Labs!
+# https://www.youtube.com/watch?v=8reaJG7z-is
+
+so a couple days ago I dropped a Twitter
+thread yes I still call it Twitter and I
+severely underestimated how many of you
+guys would be interested in it but then
+a lot of the conversation that I drove
+was really interesting and a lot of
+discussions that happened afterward were
+fun to participate in so I figured I
+would drop even more of the footage here
+so I'm back with more of my footage and
+clips from my visit to Apple's secret
+iPhone durability testing Labs so if you
+ever wondered how an iPhone gets water
+resistance tested or drop tested or
+shaken like crazy before it gets
+announced on stage these are the labs
+where all of that happens and then they
+have to connect the dots between their
+test results and how they actually build
+phones which is fascinating so the first
+thing that I saw was the water
+resistance testing so I think a lot of
+us kind of take for granted at this
+point most high-end smartphones most
+flagships have ip68 ratings but a lot of
+people don't actually think about it
+that that is a code where IP stands for
+ingress protection and then the first
+number is for solids and then the second
+number is for liquids and so each of
+these numbers gets higher and higher as
+it's more protected against Ingress so
+some like earbuds or headphones for
+example you might see they are ipx4
+rated that just means they're not
+protected from dust but from water they
+can withstand some light splashes from
+any direction so sweat great so the
+first iPhones all the way up to the
+iPhone 6s were not water resistant at
+all all at least not rated to be but
+then the first water resistant iPhone
+iPhone 7 was IP67 water resistant and
+then now we just kind of we see
+everything being ip68 meaning it can
+literally be underwater for an extended
+period of time and so this is what it
+looks like to actually test that stuff
+there's literally specialty equipment
+just to torture phones with water and
+make sure they can survive so lots of
+lots of companies have these things but
+it was cool to see it in person so the
+lowest level of this test is basically a
+drip ceiling to simulate rain and
+splashing so there's no real water
+pressure here but a pass is good for
+ipx4 on this test but then to simulate
+some water pressure they have these jets
+that rotate around the device and spray
+it with water from all angles into the
+speakers into the earpiece into the
+ports everything and if it's able to
+pass this test that's good for ipx5 it
+seems so simple but it's also pretty
+cool to see I've never actually watched
+this happen to turn it up to 11 they
+they just put the phone on one end and
+stick basically a literal fire hose on
+the other end and just blast the phone
+with high press water kind of looks
+insane but if we want our modern
+smartphones to be able to get splashed
+from any angle many times over its
+lifetime and survive then it has to
+survive this and then it earns its ipx6
+rating but then finally for ipx7 and ipx
+8 that's full submersion so they have
+some lockable sealed tanks but some of
+you may already know that ipx8 is
+supposed to be under deep water for a
+long time so they actually have this
+pressurized tank where they can turn up
+the pressure inside to simulate
+different water depths and leave phones
+in there as long as they want so now
+ideally today if you drop your phone in
+the toilet or spill water on it or drop
+it in a lake whatever for as long as
+it's down there it should survive which
+again we kind of take it for granted but
+that's all the seals and the gaskets and
+all the adhesives and things that go
+into getting it to pass those tests are
+what get it to pass the real world tests
+now there is an entire separate type of
+testing that you might have already seen
+on YouTube that is drop testing and it
+turns out Apple has been doing their own
+internal drop testing for years now so
+it turns out in the same building Apple
+set up this full-on industrial robot by
+Epson that they've programmed to be a
+drop test robot and then they've set it
+up in front of these ultra bright lights
+and super high-speed Phantom cameras
+pointed at the exact spot on the ground
+where the phone will land so the idea
+here is they can program the robot to
+pick up the phone and drop it onto any
+surface and then they can have it repeat
+that exact motion and that exact same
+drop on the exact same angle over and
+over again but with different surfaces
+and they can ab test them and take a
+look at exactly what happened and then
+those of you who are camera nerds you
+already know these Phantom cameras are
+pretty serious I don't remember the
+exact frame rate they told me they were
+shooting at but it's pretty incredible
+you can actually see the titanium on
+this iPhone 15 Pro wobble on its first
+impact with the ground and it's second
+impact too so yeah they had all kinds of
+different materials to do drop tests
+from granite countertops to Marble to
+corkboard and wood Etc uh they even had
+this massive block of asphalt just
+sitting there just waiting to see how
+the iPhone reacts to being dropped in
+the streets you know but this is a
+fascinating setup now of course the fact
+is most phones still just break
+immediately when you drop them on the
+ground so I I kind of wonder how much of
+this data is actually getting translated
+into real changes of phone design but
+it's still cool that I got to see all
+this stuff and then the hardest one to
+capture for me anyway is the shaking
+tests yeah it's exactly what it sounds
+like shaking tests Apple has rooms full
+of machines that are literally trace of
+devices strapped to a surface that's
+being shaken thousands of times at a
+specific spefic frequency it's actually
+kind of hard to record because if my
+shutter speed is at the right number it
+doesn't even really look like anything's
+moving kind of like how car wheels don't
+look like they're spinning if you have
+the right camera settings but I did get
+a few Clips where like I put my hand on
+it and you can see it's moving a lot
+they're using this machine to try to
+simulate years of wear and tear out in
+the real world apparently they can
+program in the frequency of a certain
+motorcycle engine or car engine or
+subway car or whatever constant
+vibration that they just want to check
+up on to make sure everything holds up
+to exposure to it over a very long time
+but I really think the most fascinating
+thing about all this testing is they are
+trying before the phone even comes out
+they're trying to simulate years of wear
+and tear in the real world with real
+customers in a small room under the
+basement of Apple park with like the
+machines that they've designed it's a
+it's a fascinating connection they've
+got to make and I spoke to John turnis
+who's the head of uh Hardware
+engineering and apple about this process
+and he mentioned apparently they go
+through sometimes
+10,000 iPhones prototypes before they
+actually ship a final phone with all the
+durability
+testing which sounds crazy I don't know
+what number I thought it was in my head
+but it seems insane that they'll they'll
+make 10,000 phones to break before they
+ship one and actually while I had John
+there I felt like this was a unique
+opportunity to ask cuz I I've never
+really heard people from Apple actually
+speak out about the durability but also
+the repairability of the iPhone phone
+like we all know Apple's reputation for
+repairability not great like the iPhone
+is notoriously very difficult to repair
+but also now it's a little clearer
+because the more I've thought about it
+the more it feels like I mean Apple's
+just shown me a ton of durability labs
+and durability feels like it's directly
+at odds with repairability like it
+actually feels like it it's basically a
+sliding scale with durability on one
+side and repairability on the other and
+the more durable you want to make your
+thing the less repairable you're making
+your thing and all these decisions that
+go into making and designing a product
+are kind of pushing it back and forth
+along this scale so take a listen to
+this but sometimes for me I find it
+helpful to kind of think about the book
+ends like imagine a product that never
+fails right that just doesn't fail yep
+and on the other end a product that
+maybe isn't very reliable but is super
+easy to repair right product that never
+fails is obviously better for the
+customer it's better for the environment
+okay it's interesting you put it that
+way cuz on you have the product that
+never fails on the other hand you have
+the product that can be replaced
+infinitely but it's not as reliable yep
+that downside of being not as reliable
+comes from being infinitely repairable
+but I think someone would argue that the
+downside of being really hard to repair
+comes from being almost infinitely
+durable sure but they're not they're not
+always they're not always mutually
+exclusive like those are kind of the
+bookm so let me let me give you like a
+couple of examples um I think of battery
+on a on an iPhone as being an important
+one on an iPhone on any phone a battery
+is something if you want to extend the
+life of the product that's something
+that's going to need to be replaced
+right batteries batteries wear out um
+but if as we've been making iPhones for
+a long time in the early days one of the
+most common types of failures with water
+Ingress right where you drop it in the
+pool you you know spill your drink on it
+and and the unit fails and so we've been
+making strides over all those years to
+get better and better and better in
+terms of minimizing those failures and I
+don't know how many years it's been now
+but we got to a point of ip68 which is
+kind of a rating for water Ingress which
+is really impressive and I think you get
+to see some of these tests right it's
+and and it's great because we get these
+stories of people you know literally I
+dropped my phone in the lake I couldn't
+get it for two weeks I fished it out it
+still works they're super excited that
+said to to get the product there you've
+got to design a lot of seals adhesives
+other things to make it perform that way
+which makes it a little harder to do
+that battery repair right you still need
+to do the battery repair so we need to
+make sure we have solution for customers
+to do that which we do um but it's
+objectively better for the customer to
+to have that reliability and it's
+ultimately better for the planet because
+the failure rates since we got to that
+point have just dropped they just
+plummeted right the number of repairs
+that need to happen and every time
+you're doing a repair you're bringing in
+new materials you know to replace
+whatever broke so you can actually do
+the math and figure out there's a
+threshold at which if I can make it this
+durable then it's better to have it a
+little bit harder to repair cuz it's
+going to net out head so yeah that
+checks out I found that kind of
+interesting that we've never really
+heard anyone from Apple speak directly
+about this now of course in a dream
+world if Apple's goal is to make the
+ultimate phone that never ever breaks
+then they probably shouldn't be making
+it from glass because in the words of J
+RG everything glass is glass glass
+breaks but still they're trying to push
+as far towards that end as possible and
+it is interesting to hear a little bit
+of the behind the scenes on the
+philosophy there but yeah that's that's
+been it that's my behind the scenes look
+at Apple's durability testing Labs that
+we've never seen before make sure you
+subscribe to see more stuff very cool
+like this coming up soon and let me know
+what you think about this sliding scale
+of durability versus repair catch you
+guys in the next one peace

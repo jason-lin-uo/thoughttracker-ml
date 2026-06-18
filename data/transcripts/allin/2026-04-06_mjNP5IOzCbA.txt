@@ -1,0 +1,2182 @@
+# The State of Modern War: Palantir & Anduril Execs on Drones, AI, and the End of Traditional Warfare
+# https://www.youtube.com/watch?v=mjNP5IOzCbA
+
+Trey Stevens, Shyam Sankar, welcome to
+the All-in podcast at the Hill and
+Valley Forum. Thank you guys for being
+here. What's up? How are you guys doing?
+&gt;&gt; having us. Doing great.
+&gt;&gt; to be here, too. You guys are friends,
+right? You guys go back all like a long
+time?
+Very long time.
+Okay, tell us how you guys know each
+other. Palantir anduril, what's the
+connection and the history? Well, I'll
+start. You can fill in all the gaps. I
+feel like I know the story you're going
+to tell, and it's going to be very
+uncomfortable.
+Every few years, a new ad channel opens
+before the market catches on. That's
+axon.ai right now. The AI ad platform
+behind one of the biggest runs in tech
+with access to over a billion daily
+active users. Full-screen video ads in
+mobile games watched for a median of 35
+seconds. Businesses are profitably
+spending hundreds of thousands of
+dollars a day on it, and most
+advertisers don't even know it exists
+yet. The window is open at
+axon.ai/allin.
+So, Trey, I think, you know, in the
+early days of Palantir, I was roaming
+around giving demos to anyone who could
+possibly want to see them.
+Trey was working in an intel agency and
+happened to see one of these demos, and
+he should tell you his version of it,
+his side of it, his frustration with
+bureaucracy. But, I think he he realized
+like, "Hey, this this might be really
+cool. Maybe I should leave the hellhole
+I'm in in the basement of this building
+getting nothing done, talking about
+sports with other people to to go join
+this crusade." So, Trey reached out and
+applied.
+Um he he made a big faux pas. He came
+all the way to Palo Alto, and he he wore
+a full-on suit, tie, cuff links, CIA
+cuff links, mind you.
+Coming to interview with I don't know,
+we probably 20 people, you know, who
+wore t-shirts and, you know, second-hand
+me-down clothes. Um and I you know, he
+was intercepted in the lobby by a
+receptionist who really cared about him
+and told him to get ditch the tie and
+try to dress down and don't screw it up
+too bad, but we loved him immediately,
+and he helped us build the uh the
+government business. So, this was at
+Palantir. You were there employee 13,
+2006, right? So, this is pretty early
+on.
+Yeah, I I came in in early 2008, but
+there were uh still, you know, 25, 30
+people at that point. Pretty small. And
+Peter kind of incubated it, was involved
+at the beginning, right? Peter Thiel.
+Maybe you could just recap cuz I know a
+lot of folks know the history of
+Palantir, but just kind of like the
+early stand-up of Palantir and how
+things got going during that era with
+that small group, how you guys kind of
+figured out how to build the business.
+Yeah, it was it was one of these things
+that was kind of a slow start. It was
+there was a a real idea amongst the uh
+the five co-founders, including Peter,
+that um
+you know, it's kind of insane to live in
+a world post-9/11 where people are
+arguing about what's more important,
+privacy or security. Like, aren't they
+both really important? And who is
+actually spending time pushing out the
+efficient frontier? For any amount of
+given security, you should have more
+privacy than you had before. Or any
+amount of given privacy, you should have
+more security. Uh and and this sort of
+changing the dialectic there was really
+the the entire impetus of what we
+started with. And now there's a
+technical approach that follows from
+that. There's an approach to privacy and
+civil liberties that are around that. Um
+but really we started as a business that
+was pretty myopically focused on solving
+a handful of problems in
+counterterrorism for a handful of
+institutions in the world. Let me start
+by asking a question that I think is
+important to ask, particularly for a
+broad audience. And for the two of you
+to frame your personal philosophical
+views. Is war good?
+There's a lot of conversation about
+there are is a military industrial
+complex that has an incentive for war.
+What's your view, your philosophical
+motivation for why you do what you do,
+what your view is of war and defense and
+and the work that your business has kind
+of pursued? Well, any anyone who's been
+to war would tell you that war is awful.
+War is bad. Catorically bad. That
+doesn't mean it's always avoidable. And
+that um you know, there will
+there are people who will want to use
+might to make right. To define a set of
+rules. Um and you have to be in a
+position to protect your people and your
+interests accordingly. At the end of the
+day, it's all about deterrence. You
+don't want to go to war, but you want to
+be prepared so that if you do have to go
+to war, that you will win decisively and
+quickly.
+I've never met a general that has said,
+"You know what I really want to do
+today? I want to make phone calls
+letting parents know that their children
+have died in combat." Nobody wants to do
+that.
+And and I think that that's really the
+goal of everything we were working on at
+Palantir. That's what we're working on
+at Anduril, which is make it unthinkable
+to your adversaries that they should
+ever challenge you. Why do you think it
+became taboo and became so negative,
+particularly in Silicon Valley, that
+building a defense company or company
+building technology to service the
+defense sector was viewed with with such
+disdain and was untouchable sector for
+so long? I think it's a beautiful
+consequence, and I mean I mean it
+unironically, of kind of the peaceful
+world that we lived in. The origin story
+of Silicon Valley is actually defense.
+You know, Lockheed was the largest
+employer in in Silicon Valley in the
+1950s. The Corona spy satellites were
+built there. So, in a world that was
+gripped by the threat of the Soviet
+Union, you know, you had a very
+different posture in Silicon Valley.
+But, in a world
+post the end of the Cold War, the end of
+history,
+kind of a view of globalism that it's
+all going to be great that we exist
+beyond the confines of our country,
+these things were viewed much more
+cynically, and the threats didn't seem
+very real. And I think you could even
+backtest this through the moment where
+Silicon Valley kind of really woke up
+and realized, "Hey, maybe these things
+are real." were when the Russian tanks
+rolled across the Ukraine border. You
+know, it's when they realized and there
+are a lot of Ukrainian, Eastern
+European, there are a lot of people who
+were affected by that in Silicon Valley
+who started to realize that
+maybe there's a more nuanced issue here
+than just simple the simple Eisenhower
+quote of the military-industrial
+complex. I think many of the people who
+were protesting Silicon Valley's
+involvement in working on national
+security priorities were the exact same
+people that had Ukraine flag in bio.
+Um, so there's clearly just like a
+policy mismatch, uh, or an understanding
+mismatch. The other thing that I would
+have mentioned is that these large tech
+companies, uh, unlike many epics prior,
+uh, were global technology companies.
+They didn't necessarily view themselves
+as American. Uh, and so if you go and
+you look at, you know, where these
+protests came from, you have to keep in
+mind that a lot of the signatures that
+they had on these, you know, protests,
+uh, were not coming from US citizens.
+And so there there was like a global
+character to these companies that
+probably was not the case during the
+Cold War. Given that's changed recently?
+I mean, to Sham's point, I think that
+there's just an increased awareness of
+the complexity of the geopolitical
+situation.
+Um, and I I I think it's certainly a lot
+less controversial work on these topics
+than it was in 2017, 2018. You know,
+it's a 20-year overnight success, right?
+And Anduril's now reportedly raising
+money at a $60 billion valuation, just
+landed a $20 billion army contract.
+Palantir today is worth $400 billion.
+The flip side of what I just said is
+that some people are saying that Silicon
+Valley is taking over
+defense, and Silicon Valley is the next
+story of the American war machine. This
+has become sort of a popular narrative.
+Can you just respond a little bit to
+kind of where we were coming out of
+World War II from a defense industry
+perspective, where we find ourselves
+where Silicon Valley seems to be at the
+center of this today? You know, the
+industrial base that won World War II
+and the early Cold War was not a defense
+industrial base. It was an American
+industrial base. You know, Chrysler made
+the Minuteman ICBM. They were the prime
+contract on it, and they make mini vans.
+So, missiles and mini vans. General
+Mills, the cereal company, had a
+mechanics division. Everything they
+learned doing R&amp;D to process grains,
+they actually used to build torpedoes
+and inertial guidance systems. Ford
+built satellites until 1990. So, the
+entire economy was invested not only in
+economic prosperity, but also
+underwriting the freedom that allowed us
+to have economic prosperity. It's really
+a consequence of the end of the Cold
+War. So, when the Berlin Wall still
+stood in 1989,
+only 6% of spending on major weapon
+systems went to pure play defense
+specialists. 94% of it went to what I
+call as dual-purpose companies. You
+know, yeah, a missile is single use.
+It's not a dual-use product. You're not
+going to buy it at Walmart. But, that
+actually these companies were invested
+in both parts of this. That figure today
+is e 6% goes to defense specialists. So,
+we have a very different structure of
+the US economy as a result. And I I
+think it leads to very
+perverse narratives. So, what would it
+be like to mobile If things got really
+bad, we'll just flip a switch and our
+auto factories will magically turn into
+enabling us provide for our defense and
+security. And and I think a cold-eyed
+look at history is it took 18 months to
+do that. We actually started ramping up
+to provide this stuff for our allies,
+for the Brits and the Soviets in the
+context of World War II. And that we've
+actually missed some of those signals
+today. When when Ukraine went through 10
+years of production in 10 weeks of
+fighting, that probably should have been
+a five-alarm fire that we got the
+fundamental calculus on deterrence
+wrong. We thought the stockpile was
+going to deter our adversaries. It was
+always the factory. It was the ability
+to generate and regenerate the
+stockpile. Well, let's look at where we
+are today. So, in terms of defense
+readiness relative to our adversaries,
+10,000 to one drone production gap
+versus China, 223x shipbuilding capacity
+disadvantage. And I think you've set a
+2027 Taiwan window of danger.
+High level, we spend more than any other
+nation on defense. How ready are we?
+And how long will it take us? Well, our
+joint force is the best in the world.
+And so, I you know, I I think we have to
+couch the alarmism and commentary in
+that context here. But, I think if you
+look at like the the rate of change, our
+adversaries are moving very quickly. If
+you just look at the empirical loss of
+deterrence, you had the annexation of
+Crimea in 2014, the militarization of
+the Spratly Islands in 15, Iran with
+breakout capability to get the bomb in
+17. You've had a pogrom in Israel. You
+have the Houthis holding trade hostage
+in the Red Sea, not to mention the
+present conflict. So, when you look at
+that, you how can you not feel that
+deterrence is eroding? To Trey's earlier
+point of having capabilities that are so
+scary that picking a fight isn't worth
+it. And people are investing
+significantly on the low end of the mix.
+Our high end is still unquestionably
+amazing. But, you know, you can't keep
+shooting $2 million interceptors at
+$20,000 drones and have that math work
+very long. I think the second part, like
+why does it matter that we lost the
+American industrial base and have a
+defense industrial base is you lose
+volume. You lose the R&amp;D stimulus to
+come up with creative ideas like using
+the methodology of building a bathtub to
+build the next generation low-cost
+cruise missile, right? And you get stuck
+in these platforms that are absolutely
+eye-wateringly amazing, but are $2
+million a pop. And you just can't
+produce them at the scale or at with the
+speed that you really need to. Right.
+And Trey, you've talked about this. You
+wrote an article, "No Solvency, No
+Security." Just share with us your view
+on the importance of this industrial
+base and what it takes for us to have
+strong defense requisite in a strong
+manufacturing industrial base. I mean,
+we really kind of sent most of these
+capabilities away during the last 30
+years of globalization, and that gutted
+entire communities in the United States.
+You know, I mentioned in this article
+that just in my immediate family, like
+grandparents, aunts, uncles,
+I have family members that worked at GM,
+at Ford, at Frigidaire, at National Cash
+Register, at Armco Steel. Every single
+one of these factories in Ohio closed.
+Not a single one still exists. And they
+all have different places they've gone
+around the world.
+But, you know, one of the things we're
+doing with Anduril right now is we're
+building out a 5 million square foot
+factory campus in Columbus, Ohio, and we
+have the benefit of going back and
+tapping into that knowledge base that
+exists that's underemployed at the
+moment because this the factories that
+kept them busy for many, many years are
+closed.
+Um and I think this is the story all
+over America. Like if you think about
+the at scale manufacturing for a new
+company started in the this century uh
+in the 2000s,
+um there's really only one that comes to
+mind, just Tesla. That's it. And so we
+haven't really built any muscle around
+new manufacturing capacity. Um and and I
+think that as you spin things up to
+Shawn's point, we don't have the ability
+to do that quickly because we've
+atrophied massively by by turning all
+this away globally. So um I I think
+readiness is a real problem and uh we
+have to start investing ahead of the the
+you know, conflict being being there cuz
+you can't just start at the moment that
+it's absolutely needed.
+&gt;&gt; Tell us about the Arsenal One and then
+the manufacturing behind it. And then I
+want to just understand a little bit
+about is this product led or production
+capacity led? Do we need to make
+selections and have capital committed to
+bringing product to market before we
+start to build out the base or is there
+an alternative way to get ready? Arsenal
+One is our the factory campus that we're
+building in Columbus.
+Um the operating system for that, the
+Arsenal platform, um is really intended
+to reduce the uh the cost, the overhead
+that's required to
+uh automate and uh you know, handle
+these processes in the most efficient
+way possible. So there's like kind of
+the software layer that sits behind
+that. We're actually working with
+Palantir, uh the foundry platform, on
+some of these programs as well. And uh
+the idea behind this is that you want it
+to be as modular as possible. If we
+build out the factory campus and we
+said, "We're just going to build
+theories here or we're just going to
+build road runners here or just going to
+build barracudas here." That provides a
+tremendous limitation in a in the moment
+of a conflict to be able to be
+responsive to the demand for specific
+things that are relevant to that
+conflict. And so we're kind of thinking
+about this more like contract
+manufacturers think about building
+assembly capacity where they say, "Yep,
+we make, you know, this VR headset for
+Facebook. We make this VR headset for
+Samsung. We make this VR headset for
+Apple.
+We build a skill set around building
+optic systems,
+but we're going to build a bunch of
+them. And we're going to we're going to
+be much more effective at doing that by
+hitting the network of scale,
+you know, get lower costs on all the
+individual parts. You're going to build
+out a supply chain to to work through
+that. That's roughly what we're doing in
+this case is we're saying like a
+contract manufacturer, we want to be
+able to pivot on a dime into ramping up
+production of Roadrunners if we need
+Roadrunners or ramping up production of
+Barracudas if we need Barracudas.
+The counter example to this, of course,
+is what we saw in the early days of
+Ukraine where what they really wanted
+was more Stingers and Javelins. The
+problem is is that we once we burned
+through our inventory in the warehouse
+of the Stingers and Javelins, the
+assembly line to build Stingers and
+Javelins didn't exist.
+All the people that worked on those
+assembly lines were retired. And so the
+primes were literally calling people out
+of retirement to come back and teach
+them how to build Stingers and Javelins
+again. And so these are problems that
+we're trying to avoid by the design of
+the factory as a as an initial concept.
+&gt;&gt; Who funds it? So is there a government
+contract that supports the production of
+these facilities? And are multiple
+companies going to be able to afford to
+to stand these up to make these
+investments or is this just going to end
+up being an Anduril because you've got
+most of the capital and you guys are
+going to roll these facilities out? And
+how do we make this kind of a national
+interest? Well, our business model is
+definitely very different from the
+primes who are basically responding to
+things as requirements directly from
+their customer. So they're not really
+investing a whole lot forward of the
+capability.
+Anduril, on the other hand, we're doing
+all of this as private R&amp;D investment
+and then we're selling the outcome, the
+output of that as a product. So, this is
+a fundamentally a different business
+model. Um, but I I do think that there's
+a tremendous amount of capital that's
+required to pull this off uh as a new
+entrant to the space. Um, I don't think
+that the market is going to support a
+hundred new primes or something like
+that. Uh, I'm hopeful that it's not just
+Anduril. I think it would be healthy if
+there was more competition in the space.
+Um, but, you know, being able to raise
+that amount of capital, hire the people
+that you need to actually pull it off.
+Uh, this is not It's not like building a
+a a normal tech company. It's not just
+the development of a product. It's, you
+know, there's a lot that goes into this.
+Tracepoint might seem kind of obvious or
+simple, particularly to an audience
+that's largely coming from tech or
+Silicon Valley, but that's not how
+defense works. People don't build
+products. People build to a spec that
+the government says, "This is what I
+want to buy." And then you kind of say,
+"Yes." You know, you have to think about
+defense as a monopsony, where there's a
+single buyer for the thing. And that
+concentrates an enormous amount of power
+in the buyer, whether they're right or
+wrong. And if you look at the history of
+defense innovation, typically the
+monopsony's wrong. You know, it was
+Churchill as the head of the Royal Navy
+who built the tank because the British
+Army was not smart enough to realize
+that in the next battle having horses
+was not going to work. So, every one of
+these innovations is kind of an act of
+heresy. There There's a founder-like
+figure who is so committed
+pathologically to a different heretical
+concept, they see it through and only in
+combat or only when it meets the moment
+is it actually validated. Now, a grave
+threat like the Soviet Union is a sort
+of forcing function that allow allows
+you to innovate. When we were building
+ICBMs, we had eight competing programs.
+Today in peacetime, that would be viewed
+facilely as wasteful. Why should you
+have eight competing things? Why can't
+you just pick the right one and put, you
+know, spend less or put all your wood
+behind one arrow. And of course, that
+kind of turns its back on our
+fundamental belief in America on the
+free market, that there's a competition
+of ideas, there's fundamental
+uncertainty, there's quality like
+variance in the quality of the
+execution, and that you need this
+competition. And it's not just
+principally competition amongst the
+primes or new entrants, it's also
+competition inside of government. And
+there were originally, I think or at one
+point, 51 major defense contractors. And
+just for the audience to understand,
+they reduced down to roughly five or six
+primes. That's That's the term prime.
+It's one of these prime contractors and
+then they make sub contract out to other
+companies to develop componentry parts.
+My understanding in Anduril was to do
+exactly this, build a product, show up
+with something that's cheaper, better,
+faster, and actually competes on the
+merits rather than be caught in this
+kind of prime landscape. And that worked
+clearly. But over time, there seems to
+be a lot of capital concentrating into
+the new primes. You guys, you guys,
+SpaceX, OpenAI, maybe one or two others.
+Is the landscape going to emerge that it
+We're going to just look like the same
+old way of operating where we have a
+handful of primes that all have these
+trusted relationships with the
+government agencies? Or how do we kind
+of create that competitive environment
+to continue to drive innovation and make
+things affordable for the US government
+and the taxpayer going forward? Well,
+just like uh and and I interview Trey in
+my new book on this, like just like
+venture, there's going to be a power law
+here. You know, so so one of the grave
+mistakes we've made as we think about
+innovation, which has resulted in
+essentially innovation theater, is this
+idea that you're going to just peanut
+butter spread around the capital you
+have for innovation. That, you know,
+every company's going to get roughly the
+same amount. It's not enough to hit
+scale. It doesn't reflect actually the
+relative performance differences cuz
+there's an authentic power law curve
+like any venture capitalist would would
+realize that, you know, your your
+biggest winners are going to return your
+whole fund. There's There's something
+authentic here as well, which is like,
+yeah, you may have 10 bets, but you at
+some point you're going to have to get
+smart about concentrating down on the
+things that are actually working. Yeah,
+I mean, this is a a kind of a great
+point about any category. It's like, if
+you're a space tech investor and you
+didn't invest in SpaceX, you probably
+lost money. If you're a crypto
+infrastructure investor and you didn't
+invest in Coinbase, probably lost money.
+If you're a social media investor and
+you didn't invest in Facebook, you
+probably lost money. And yet, for some
+reason, capital allocators have a very
+short memory. They don't have the
+ability to go back to the the prior
+boom cycle and say, "Oh, wait. I
+remember what happened that last time.
+We had to concentrate capital down to
+the winner." And I think that this is
+this isn't any different.
+&gt;&gt; was the motivator then for change in the
+construction of the landscape of defense
+contracting? Was it software that takes
+us from the old primes to the new
+primes? Is that really what kind of
+triggered this cascade evolution? So, in
+'93, having won the Cold War in '91, or
+I think more accurately, the Soviets
+lost the Cold War. You know, by '93, we
+expected as a nation a kind of peace
+dividend. We don't have an adversary
+now, we should be able to spend less on
+defense. And the department had this
+famous dinner where they brought 15 of
+the 51 primes together and said, "This
+is going to happen. The budget's going
+to get slashed. We're not going to save
+you guys. You have our permission to
+consolidate. Some of you are going to go
+out of business. Some of you should try
+to make a commercial business, which
+didn't really work." And that's what led
+down to five. It was actually there was
+going to be we were going to go from
+five to four in '99, the Justice
+Department put their foot down and said,
+"We're not going to let Lockheed and
+Northrop consolidate." Right. And then
+today, so the change over, what gave you
+guys the window, what gave you guys the
+window to build the business that you
+built? I mean, what did you see early on
+20 years ago and continued forward in
+the hardware side that made you say,
+"This is This is the moment." Is it
+software that enabled this? Well, I'm
+going to throw you under the bus a
+little bit on this. It was not obvious
+in the beginning that this is going to
+work.
+I can't tell you how many meetings even
+we had together where we walk out and be
+like,
+"This is not going to work. This is very
+bad."
+We were not welcome with open arms.
+Right. You know, Early days at Palantir.
+Yeah. Early days, mid days, maybe even
+late days. Yeah, yeah. know, famously we
+had to sue our customer just for the
+right to compete. Uh that that's the
+strength of the monopsony, right? And
+and really I'd say our our entire
+business was validated from the field
+backwards, right? It was in DC that we
+the doors were closed to us. No one
+wanted to interact with us. The like the
+where the monopsony is strongest. At the
+margin in the field where people are
+saying like, "Well, I'm on this
+deployment. I'm on this rotation, and I
+I there is more free market system. Like
+what I'm being given doesn't work. I'd
+like to come home. How do I like bend
+the rules, figure out how to get the
+software I need." That allowed us to
+empirically show, you know, create facts
+on the ground that this stuff worked. It
+was a long road to hoe. I think this is
+part of why it took 20 years to kind of
+get to this sort of point here.
+And yeah, I I think that a lot of those
+lessons that were learned were not only
+like educational for Anduril, but it
+also created a precedence that already
+existed by the time that we showed up
+where we didn't have to go through all
+of those same growing pains. So, you
+know, what took Palantir I guess
+probably about 5 years to get to 10
+million annually in revenue, we did that
+in 22 months. But, I don't think that
+was a credit to Anduril. I think it was
+mostly a credit to me, Matt, and Brian
+lived the 5 years of Palantir. 5 years
+plus 22 months. Yeah, yeah, exactly. And
+so, we kind of had a bit of a cheat
+code, but yeah, I don't think it's like
+culturally shifted to the point where
+it's like actually just easy to do this
+now. It's not like the government has
+fixed all of their problems. I think
+it's just that there's enough people out
+there who have seen it that understand
+how to make it work. Um that you can
+work within the system rather than as
+Sham said trying to constantly fight
+from the outside in. Was there a view at
+that time in these years building
+Palantir where you saw an opportunity in
+hardware? Is that kind of the motivation
+for Anduril? That we've got software,
+but there's more to do and hardware
+could be reinvented and we could build
+systems. I mean, help us understand the
+connection. Yeah, in the very early days
+actually, I came by to pitch Sham uh it
+before we officially started the
+company. Uh and I think part of that
+pitch was we said,
+uh "We know how hard software is. We
+don't want to do that again. We believe
+hardware would be less hard. Uh
+And I think we ended up being right from
+like a getting going perspective.
+But yeah, it's just you know, the
+government doesn't know how to think
+about the value that's created by
+software. Maybe you feel like they're a
+little bit better now, but it was really
+hard in the early days of Palantir to
+convince them to think about it as
+anything other than lines of code, for
+example, or some like metrics that
+anyone that works in tech knows doesn't
+matter. But for hardware, they know
+there's a bill of materials. The In
+fact, the government made stuff for a
+long time. During the Cold War, there
+were literally ammunition factories that
+were owned and operated by the United
+States government. So they can kind of
+go through a spreadsheet and say, "Okay,
+I know how much it costs for you to
+build this. I know how much margin I'm
+comfortable paying you."
+And it's a much easier, you know,
+crossing over the Rubicon. With
+software, it never felt like that. Yeah,
+it's still very hard. I mean, people
+want to pay for software in government
+on a cost-plus basis, which doesn't make
+any sense if you think about it the R&amp;D
+that you put into software. Like the
+marginal price you're paying is a small
+fraction of the R&amp;D we're amortizing
+across commercial and government
+customers.
+And I think it may maybe Trey it's it's
+worth telling the story of how when you
+got to Founders Fund, you were looking
+for defense companies to invest in and
+hitting so many dry holes is is part of
+what led to the idea.
+&gt;&gt; Yeah. Yeah, I mean, I have no I had
+maybe still don't have any interest in
+venture capital. And so when Peter asked
+me to come over to Founders Fund, the
+only thing I knew to do was just to look
+at the category of things I felt like I
+understood pretty well, which was
+GovTech. And so I
+incidentally, you can look up who bids
+on federal contracts. And so I pulled
+that list and then at the time I was
+using Crunchbase. And then I just
+started outbounding to companies that
+were bidding on federal contracts. And I
+met with hundreds of companies in the
+first three years that I was at Founders
+Fund. We may ended up making one
+investment in KDM, which was renamed
+Expanse and acquired by Palantir
+Networks. But otherwise, that was it.
+There was nothing else. And even like
+looking in retrospect, like we didn't
+miss anything. There was just nothing
+worth investing in. It turns out no one
+was building in this category. Um, and
+so I I went back to the Founders Fund
+investment team and said, "Man, I feel
+like someone should be building a
+next-gen prime that builds hardware, but
+it's software-defined and
+hardware-enabled rather than being
+hardware-defined and software-enabled."
+Um, and uh to my surprise, the team was
+like, "Yeah, sounds like you're probably
+the guy that would know that that's the
+gap. And I don't know, maybe you should
+start a company." And I'm like, "Oh, no,
+you you guys hired me to work on the
+investment team at Founders Fund."
+They're like, "Yeah, that's fine. You
+can you can do that, too. It's all
+good." So, yeah, it was kind of an
+accidental founding in many ways. The
+capital requirements for hardware
+business are notably higher if you
+didn't have the success you had building
+the manufacturing facility you're
+building. And I'm assuming all the R&amp;D
+cycles are longer and require more
+capital to get to a point of product.
+Does it make sense for venture capital
+to be the funder of the next gen of
+hardware defense tech companies? How
+does the economics and the capital
+markets I'll I'll give a take here and
+then you So, I think um if you back up a
+little bit, if you look at Fairchild, if
+you look at integrated circuits in 1968,
+96% of all integrated circuits sold were
+sold to the Apollo program. There was
+effectively a monopoly. There was one
+buyer for this thing.
+But Bob Noyce, who was at Fairchild at
+the time and co-inventor of the
+transistor, he was so maniacally
+committed to a future that
+semiconductors, integrated circuits
+would be in everything that he never let
+more than 4% of his R&amp;D be paid for by
+the government. He was going to be like,
+"Why should I have some PM tell me what
+my R&amp;D road map? I invented the thing."
+So, he kept executing that. And that's
+he So, he chased Moore's law
+mercilessly. And that meant in the '80s,
+when the government needed
+precision-guided munitions for Assault
+Breaker to compete against the Soviets,
+we had the price-performance we needed.
+Uh so, this idea that, you know, cuz
+when you get stuck inside the government
+loop of what they want, you never hit
+the price-performance.
+&gt;&gt; By the way, there's a good modern
+analogy, which is Jensen and Nvidia,
+right? '93 graphics chips, sold them as
+an OE almost like an OEM type solution
+until
+here we are. The The one that speaks to
+my heart as a child who grew up in the
+shadow of the Space Coast is shuttle.
+You know, shuttle is is a It's
+beautiful, but it's $50,000 a kilogram
+to get to orbit. Starship heavy reuse
+will be under 20 bucks a kilogram. You
+know, and there's no way that you will
+achieve that vision if you're in a
+cost-plus world. Because every day
+you're actually deleting your costs,
+which means you'd be deleting your
+profit. Instead of deleting your costs,
+turning that into margin that you can
+provide a better price performance on
+and keep riding that curve down. Right.
+Although, to be fair, SpaceX sued their
+customer in the Air Force on the basis
+of the exact same federal procurement
+law
+that Palantir did. And so, you know,
+even with that massive costs
+costing down, they were in the same
+position as Palantir was in the early
+days. Let's go back to the venture
+capital. At this conference that we're
+at, there's dozens of VCs now. This has
+clearly become a hot space as defined by
+your successes.
+What's going to happen? So, these VCs
+are plowing money into hundreds of
+defense tech companies from drones to
+satellites to weapon systems to software
+tools. How does this going to play out
+over the next couple of years as a
+venture investor with your knowledge
+about Anduril? I remember when I first
+got my offer letter from from Palantir.
+There we had this kind of high-low mix
+of salary versus equity compensation and
+it gave three examples of how much your
+equity at your was on your offer will be
+worth at different valuations. It was I
+think it was 1, 5, and 10 maybe or 1, 5,
+and 20, something like that. And I
+remember talking to people around the
+company, they're like,
+"20? That's ridiculous. We're never
+going to be worth $20 billion.
+And uh
+you know, I feel like now it's like
+people are going out and they're like,
+"Our seed round will be priced at $20
+billion."
+So, I think there's a been a big shift
+in just like the way that people think
+about these things. Um, some of that is
+good, some of it's bad. I think on the
+good side there, you know, they're able
+to look at companies like Palantir, like
+SpaceX, like Anduril and say there is
+actually a path to success. This isn't
+like an impossible market to innovate
+in. But at the same time, um, you know,
+there's there's a real tension around
+amount of capital raised and the
+valuations that are being applied to
+these rounds that add a tremendous
+amount of risk to the company that
+doesn't have to exist. You know, there's
+this favorite there's this famous scene
+from HBO's Silicon Valley where a CEO
+gets fired, um, for uh, kind of
+underperformance on the plan that they
+had presented. Um, and uh, Richard
+Hendricks, the main character, says,
+"You know, you could have raised less at
+a lower price." And he said, "What do
+you mean? Haha. No one ever told me I
+could raise less at a lower price." And
+I think that's ultimately what my advice
+to these companies is is like, "Look,
+your product might be awesome. Seems
+like you're building a good team. I like
+the vision for what you're doing and the
+mission, but you can also raise less at
+a lower price. And I think that avoids,
+you know, playing chicken ultimately
+with trying to hit numbers that frankly
+don't even make sense." Um,
+one of the things that we've been
+focused on at Anduril that I think maps
+back to our experience at Palantir,
+actually, is climbing down the multiples
+tree uh, with every round. We never want
+to go and raise the next round at a
+higher revenue multiple than the prior
+round. Um, and even the Series A that
+you mentioned before uh, is is down
+pretty significantly from the Series G.
+And we're not doing that because
+investors wouldn't be willing to pay
+higher multiples. We're doing that
+because I believe the discipline is
+really, really important, especially
+heading into a a, you know, medium-term
+IPO. Emil Michael talked about the $200
+billion of capital he wants to deploy.
+It's been reported he's hiring bankers
+to help him deploy it. To counter your
+point, if there's a lot of capital
+flowing from the monopsony, if there's
+a, you know, a big market that's growing
+aggressively, you've got a $200 billion
+TAM to go after now. Shouldn't that
+justify the venture capital coming in,
+maybe even justify going at a higher
+price? Is this Department of War
+investment activity really going to kind
+of change the landscape and increase
+more venture capital flow? I think it's
+it's going to help out tremendously.
+First of all, I love the nickname that
+this team has, which is Deal Team Six.
+So, uh you know, I'd be honored to be
+part of that team. Uh but I I think if
+even if you look back at the titanium
+supply chain in the '50s, '60s, it was
+it was bootstrapped by the Air Force in
+a similar way where they strategically
+injected capital down the supply chain
+to enable the aerospace industry to be
+created. So, I think there's a
+tremendous opportunity with the Office
+of Strategic Capital to think about
+where are the structural bottlenecks in
+the production. You can have a lot of
+drone companies, and they're all going
+to bottleneck on brushless motors.
+There's going to be
+certain key parts of the supply chain
+that we don't have enough capacity to
+produce here in the US, and they're
+going to need a bolus of investment. And
+just like integrated circuits, the first
+customer is going to be less economical
+than the end customer. So, I think
+that's one part. Then I the other story
+that I love is where we really screwed
+this up. The drone is an American
+birthright. Abe Karem and the Predator,
+we we built it at General Atomics. But
+of course, then the government got in
+the way. The government said, "Hey, a
+drone is a flying missile. This thing
+needs to be ITAR controlled." Also, the
+FAA got in the way and said, "No beyond
+line of sight operations." Right? So,
+you basically killed the domestic drone
+market. There's a counterfactual world
+where General Atomics had a consumer
+subsidiary called DJI,
+and the consumer drone market was
+entirely owned by the US, and it
+provided for economic prosperity for
+America, and wrote us down the price
+production curve that we could be using
+these things in innovation for national
+security as well.
+What's the next market where you're
+worried that's going to happen? I have a
+lot of markets. So, I mean, we're we're
+we're talking a lot about um weapons of
+war here. I'm worried about things that
+go beyond weapons of war that affect our
+will to fight. Uh pharmaceuticals is one
+that's close to my heart. My father was
+a pharmacist, and one of the things he
+always wanted me to work on was bringing
+pharmaceutical production back home. 80%
+of APIs for generic drugs are produced
+by China.
+What do you think the American people
+are going to think when they have to
+choose between defending the free world,
+defending American sovereignty, and
+their 5-year-old dying of an ear
+infection that we would have thought of
+as trivially curable? So, I think there
+are these these things where we've just
+imbibed the globalist vision that hey,
+we'll do the innovation, they'll do the
+production without realizing that
+innovation is a consequence of
+productivity. Probably to put it in
+terms that the that the tech community
+would really understand is like what
+motivated Google to do the research in
+2017 behind the paper attention is all
+you need. A desire for a 3% incremental
+improvement in Google Translate. You
+cannot think of something more banal
+leading to something more revolutionary.
+And we've seeded all of those
+opportunities to realize and harness
+that innovation. Now, if you we stick
+with pharmaceuticals, there's a reason
+50% of all clinical trials new clinical
+trials are happening in China and not in
+the US. Do you have a view on a
+technology or product that's developed
+in the US that we're at risk of getting
+regulated
+out and we're or we kind of going in the
+right direction at this moment? I would
+say like semiconductors is actually
+really interesting one back to your your
+point about Fairchild is that you know,
+we were the the home of the
+semiconductor industry for many, many
+years. And
+you know, once TSMC got got you know,
+ahead of steam in Taiwan,
+they kind of ran away with it. And we
+didn't rather than investing in a
+domestic competitor, there are all sorts
+of reasons for this that we could spend
+hours talking about, we basically just
+allowed that to happen somewhere else.
+And now we're in a position where almost
+no amount of money is going to fix this
+problem for us. Certainly on a timeline
+of relevance as it pertains to the risk
+that Taiwan has
+in 2027. So, I would say that's like
+another really big one. Getting back to
+defense, how does the hardware and
+software fit together in this you know,
+kind of emerging war technology
+landscape? You guys are building
+software, you're building hardware, like
+help us understand a little bit about
+what the systems of war look like in the
+decades ahead. Well, I I think the the
+starting premise would be where does it
+give us an advantage? And you know, we
+had the first offset which was nuclear
+weapons, the second offset precision
+guided munitions and stealth. Really the
+the third offset is decision advantage.
+How can we out-think and out-execute the
+adversary? That's where these things fit
+together. That's like the thesis of even
+having them to begin with. And I think
+the reality is that there's kind of a
+messy overlap of these things. Like all
+innovation is messy and chaotic and
+maybe the department suffers at times
+because it tries to have a a
+framework-based approach. Like we're
+going to have MOSA, modular open
+standards architecture, something like
+that. You know, it's like we're going to
+avoid all of the pain and messiness by
+having some sort of process. But in
+reality, the process always destroys all
+of the innovation. And so there there's
+obviously a very tight thesis where
+these things need to coexist and build
+off one
+one another. They need to be
+interoperable. But you have to earn
+that. You have to earn that opinion in
+the exercises and the test and the
+evaluation in combat would be my my
+humble suggestion. Do you think that
+outside of what Anduril's building,
+there's
+actions that this administration should
+be taking or that the private market
+should be taking to solve this hardware
+manufacturing and capacity gap that we
+have right now? My view is they're
+actually taking a lot of actions. Not
+all of them have come to see the day of
+light here, but you know, even something
+as simple as reimagining munitions and
+drones as consumables. They're not
+things that you build and then stock on
+a shelf. They're things that you at the
+time of ordering them, you already have
+an exercise test plan where you plan to
+expend them, which means that you're
+going to have to replenish them, which
+means there's a demand signal to
+industry to keep going and and a buying
+cycle that means that you can buy the
+next generation rather than having the
+old generation. And I think this
+department sees that in a very
+clear-eyed way and is doing the yeoman's
+work of like stitching that through
+through all the services, all the
+portfolio acquisition executives. To the
+point of not believing in process,
+they've moved from a world where you
+have a very rigid, "Hey, I said I was
+going to buy X of Y and I can't change
+my mind." to a world where there's more
+autonomy and authority for the people
+who are buying things to say, "I told
+you I was going to buy something that
+accomplished this goal. I can change my
+mind about how I'm going to accomplish
+this goal." Which, you know, can you
+imagine trying to run any private sector
+business without that degree of autonomy
+and and flexibility in your
+decision-making? To echo Sham's point
+about what the administration is doing,
+there are a bunch of swings that they're
+taking. It wasn't that long ago that uh
+in the Obama administration there was
+kind of the Solyndra failure where they
+invested in this solar panel company and
+ended up being a bad investment for the
+US taxpayer. Um but now the Office of
+Strategic Capital is taking a really
+hard look at critical minerals. They're
+looking at, you know, refining of of
+minerals and uh they're engaging
+directly with the private sector to come
+alongside them in doing deals to get
+off-take agreements on these things. So,
+uh I think there is some really clever
+thinking going on. Um and then in
+addition to that, I think the
+procurement process is sort of up for
+revision constantly. Um and Ash Carter
+started pulling a lot of these threads
+during the Obama administration. That
+was the third offset initiative. Um but,
+you know, we're in a in a world today
+where there's kind of a renewed vigor
+around being asked, private industry
+being asked, "What do you need? Like,
+tell us what you need to be changed
+about the way that we do business in
+order to streamline this and make it go
+faster." So, I I I think there's a lot
+of positive momentum. Do you guys think
+these changes have been
+institutionalized or are they political
+party dependent? If the Republicans lose
+the midterms
+and there's a Democrat president in
+2028, do you think that there's a
+reversion to the old way of operating
+that's going to have some political
+influence and change things or do you
+think we've really changed how things
+are are running in the government here?
+&gt;&gt; I don't think it's political, but I
+think it's people. So, you can go back
+to, again, Ash Carter, Democratic
+administration, highly focused on fixing
+these problems.
+The current Trump administration, highly
+focused on fixing these problems. And
+that you know, there are a lot of people
+that
+that were in the middle of that that
+didn't prioritize this. It wasn't you
+know, it didn't rise to the top of the
+stack. And so I think we always think of
+like the bureaucracy as being a
+political infrastructure or an
+institution or you know, a bureaucracy.
+I actually just think at the end of the
+day it's about leadership. It's just do
+we have the right people that understand
+the set of the problems that we're we're
+facing. I couldn't agree more. I mean I
+call them heretics and heroes. Like you
+you know, that the entropy of the
+bureaucracy is always towards some sort
+of sclerosis. It doesn't it's not a
+political statement. It's just is what
+bureaucracy does. When David Packard,
+who's probably the last major technology
+co-founder who served in the Department
+of Defense, when he came up with the
+5000 series on acquisition, which today
+we view as just sclerotic BS that's
+that's tied us down. Well, he his
+document was seven pages long. In the in
+the years between when he wrote that and
+now it's 2000 pages. So did he really
+screw us or did just the entropy take
+hold and there was no strong leadership
+in between to go do the bushwhacking and
+mow the lawn and and and make the right
+decisions. Now, you know, this this
+administration's blown up JCS, which is
+kind of
+one of these insane bureaucratic
+processes. Like can you just take a
+forget a scalpel, take a machete and
+start clearing the jungle and re-earn
+some of these lessons as you go through
+it. If you look at Kelly Johnson, who
+was the founder of Skunk Works, he built
+41 airframes in his career including the
+SR-71, still the fastest flying manned
+aircraft, and and the U-2 which we still
+fly. Like what you look at his rules.
+One of his rules was
+he had to play defense to keep the
+government bureaucrats out of his
+program. And I think you could you know,
+okay, it's not it's not a critique of
+government. You could think of big
+corporations. When the big corporations
+bureaucracy gets into the innovation
+folks, the innovation stops. And the
+heretics and heroes were really
+founders. They were founders. It's like
+from a tech perspective, that's exactly
+what they were. Like the to the Kelly
+Johnson point, the U-2 did not start as
+a US military aircraft because they
+didn't want it. He ended up going
+through the intelligence community to
+get his start there.
+And and it was kind of finding the right
+person that was willing to take the risk
+to do the thing rather than relying on
+the system or the institution to do
+that. This is the same with Benny
+Schriever with ICBMs, Admiral Rickover
+with the nuclear navy.
+It used to be about people. But today,
+if you were to go to
+the Pentagon and say who's responsible
+for the F-35? I'm not sure they even
+know. Who is responsible for the F-35?
+We're we're building systems by by
+committee rather than trusting the
+founders and people of the world.
+&gt;&gt; like a proclamation. It's so great. It's
+this X, Y, or Z project is built in all
+50 states. Like the objective is it's
+it's being the money's being spread
+around versus
+How do you achieve the objective? The
+F-35 has components manufactured in 400
+congressional districts. Right. I mean
+that's like that's a political project.
+&gt;&gt; this AB test with SLS and Starship,
+right? Like SLS they had to have subs in
+all 50 states. But this AB test has been
+played out.
+&gt;&gt; I do think there's something about the
+kind of Calvinist spirit of America that
+sometimes gets us to misunderstand. You
+know, we call it the Apollo program, but
+it was probably it's it's really the
+Gene Kranz program. You know, it's the
+F-16, but it's really John Boyd's plane.
+And and there's like a humility where we
+never want to call it, you know, you
+wouldn't call it although I maybe the
+nuclear navy we kind of do call it
+Rickover's navy. But there's an element
+of like it's obviously both things. It's
+bigger than the person, but actually the
+starting conditions require the founder
+figure.
+&gt;&gt; So, tell me about where we are in the
+state of readiness. You know, we
+highlighted some of the statistics, but
+if you guys were to think about what we
+need to accomplish, the infrastructure
+we need to stand up to have production
+lines that can be turned on to support
+munitions capacity for conflict in, you
+know, pick your region. Let's say more
+than one region around the world, and
+the US needs to sustain those conflicts
+to defend the United States. How far are
+we from being ready based on what's
+going on in the investments that are
+being made today
+across the sector? I think the the way I
+think about it is if you thought about
+this as a spear, the tip of the spear is
+incredibly sharp. The shaft of the spear
+needs a lot of work here.
+The you know, the Department of Defense
+is such a big organization. It it it's
+structurally supply and demand is not
+integrated. You know, the the demand
+side is the real world events that
+happen at the combatant commands. The
+the supply side are what the services
+and the industrial base built. The man
+train and equipment how you're actually
+producing that material. And the ability
+to drive consensus, which is really the
+beating heart of any private sector
+company of like how do supply and demand
+come together what's our view of it is
+is kind of managed with with great
+difficulty in the Pentagon. And your
+ability your agility to respond to
+scenarios is is
+weak. That's that's where we can have a
+lot more precision because if you can
+start changing your mind and saying
+actually I thought I needed X barracudas
+but now I need Y barracudas and Z
+furies. How quickly does that take to
+percolate through the supply base? You
+know, instead we get locked into these
+like hey we've made a decision. The
+decision really can't be revisited. And
+then you start over time the entropy is
+like hey I need to I have an I have an
+unexpected bill. Let's just take a
+little bit of money away from these
+programs and everything starts getting
+down to minimum rate production which is
+this idea of what can I produce just
+keep the line open which is not
+deterrent. That's how we frog boiled our
+way here. And that this is where my my
+idea of like you got to tie this into
+consumption. Like everything you're
+building particularly on the munition
+side needs to be consumable such that
+you know you're going to replenish it
+such that the primes and the neo primes
+all have the demand signal they need to
+keep going and have a reason to produce
+them cheaper in order to make more
+money. My most contrarian idea is like
+the the the cynical view that like you
+have the military industrial complex and
+they're just in it to make money. Well,
+it's it's kind of a crappy business.
+Like you know, these companies trade at
+like less than two times revenue. The
+problem is it's not profitable enough
+actually. But Trey, Shawn said in the
+past, we have 8 days of munitions on
+hand for a major conflict with China
+versus 800 days needed. How far away do
+you think we are to having the supply
+chain built and the production capacity
+built to meet that objective?
+Well, I mean, one of the other things
+Shawn just said in this conversation is
+that there's a high-low mix question as
+well. Like, there are exquisite systems
+that are like the multi-million dollar
+interceptor missiles, and then you have,
+you know, dumb munitions, things like
+bombs that are being dropped and things
+like that. But, it's not the same across
+that entire stack. You know, there are
+some some munitions that are woefully
+under supplied, and we have very low
+readiness on, and there are others where
+I actually feel pretty good.
+From an Anduril perspective, you know,
+we're looking at ramping as fast as we
+can. We just opened our arsenal
+yesterday to start producing furies.
+And, you know, looking out over the next
+18 months, we're not taking our our foot
+off the gas, and yet there's still a run
+rate capacity that we're running into as
+we ramp. Like, you it just takes time to
+get all these lines stood up.
+So, you know, if we were to start today
+with unlimited cash, I think over the
+next 18 months as a country, we could
+get to the point where we were on track
+for having a sustainable industrial
+base.
+But, we're not going to do that. We're
+going to trickle it out over time, and
+and I think that unless there's real
+political leadership that steps up to
+drive this forward, we will likely be in
+a similar situation for a long time. And
+so, I think we really need to to take
+advantage of this specific moment where
+there's clearly urgency that is
+understood by by leadership across the
+administration. How much of the spear is
+autonomous systems? Is everything going
+autonomous? Is it just drones, or is
+there on the ground autonomous?
+&gt;&gt; Right now. Well,
+I I would actually argue that like the
+wars
+&gt;&gt; you were to build for the 18-month out
+Yeah, I mean, the wars of today are
+fought with the the weapons of
+yesterday. That's like just a
+fundamental truth. And some of our
+weapons of yesterday are awesome. Like
+B-2s are incredible. Uh the bombs that
+we dropped last summer in Iran,
+incredible. Like these are very
+high-tech exquisite systems. Patriot
+missiles, incredible. They're very
+performant. Uh they hit their targets
+almost every time. I mean, these are
+great systems. The problem is is that
+they're incredibly expensive and we
+can't resupply. Like we're just we're
+way behind the eight ball on that. And
+so, uh you know, thinking about the wars
+of the future, it means that we need to
+start building these attritable mass
+systems today so that they're in
+inventory to be used for those complex.
+There are a number of Anduril systems
+that are at a readiness level at a level
+of deployment that they're active and
+being used in in combat today, but it's
+still a very small percentage of of the
+way that the wars are being waged. Um
+over, you know, the next 5 to 10 years,
+that high-low mix is going to have to
+shift massively. I mean, this is just
+like clearly evident in Ukraine. It's
+clearly evident in Iran. Uh and I think
+the department is making steps to
+ensuring that they have a better divide
+of low-cost attritable systems and those
+high-cost exquisite systems. Um but, uh
+you know, as I said, it's going to take
+political leadership to get there. Uh
+but we we have the ability to do it. The
+reason I ask is I want to talk a little
+bit about the ethics of technology to
+war, the Anthropic run-in with the
+Department of War recently. And I think
+you guys have both talked publicly about
+this.
+But Anthropic refused to let its Claude
+model be used in Maven without human
+oversight constraints. This is what's
+been reported, what Amiel Michael has
+said. And the Pentagon labeled them a
+supply chain risk. Both AI and generally
+autonomous systems beg the question,
+what role should humans have and who
+should have the right to play that role
+of hitting the kill switch?
+What's your view on the role of the
+technology vendor to the Department of
+War and where you guys draw your line on
+what your responsibilities are with
+respect to ethics.
+Well, my my view on my responsibility to
+ethics is a slightly different question
+than my belief in democracy, which is a
+different thing. Um so maybe starting on
+on the democracy point, um I believe
+that the people of America have elected
+representatives to make really hard
+decisions about how we engage in combat.
+Full stop. Um fully autonomous weapons
+are not new. We've had autonomous
+systems in operation like Sea Whiz,
+which is deployed on uh naval vessels,
+that shoots down aerial threats fully
+autonomously. You don't have time to
+make decisions about, you know, incoming
+missiles or threats to your ship. You
+just have to shoot it down. So that's
+what Sea Whiz does. Now, Sea Whiz has
+accountability in the system. There's a
+person on that boat that is responsible
+for whatever actions that weapon system
+takes. And I believe that this is the
+future of autonomous systems. Is that
+just like any other system, whether it's
+a soldier carrying a gun, they are
+accountable for what happens with that
+gun, or uh you know, the captain of the
+naval vessel, they are responsible for
+what happens with that Sea Whiz. All of
+your autonomous systems are going to
+have accountability baked in. Now,
+ethically, how do I think about this?
+You know, I believe that, you know, what
+Shawn was saying about the first offset,
+the second offset, and the third offset,
+um is, you know, we have we as a society
+we went from like rocks and sticks to,
+you know, knives to guns to bombs and
+then in, you know, World War we kind of
+plateaued with nuclear weapons. And we
+all looked around at each other and we
+said, "Wow,
+that's pretty crazy. I don't think we
+want to make more and more powerful
+nuclear weapons forever." And so
+actually our engagement in combat has
+come back down the chain. Uh we're you
+know, precision guided weapons. We're
+shooting non-explosive missiles into
+windows of apartment buildings,
+avoiding casualties, unintended
+casualties.
+And I think that's really the goal. And
+if you look at AI as the command center
+for making better decisions with better
+precision, with better discrimination,
+with
+less less
+civilian casualties, this is good. It's
+actually ethically far improved from
+just dropping dumb bombs on areas of
+cities to eliminate military facilities.
+So,
+I don't think abstention from
+participating in the building of
+technology for national security is a
+morally neutral decision. You are making
+a moral decision when you decide to
+abstain. And I am making a moral
+decision as a private citizen building a
+company in this space that I believe
+that this is ethically just. And I trust
+in our democracy to deploy those tools
+with the interest of the American people
+at heart. There's a lot that's said
+about Palantir enabling a surveillance
+state. We had the All In Summit in
+September. Alex Karp, your CEO, spoke.
+And there was a protest group outside
+protesting Palantir powering a
+surveillance state. I just want to give
+you a chance to respond to that. Number
+one. And number two, if you saw that
+Palantir's tools were being used in an
+illegal way, where's the responsibility
+for Palantir as a technology vendor in
+addressing those concerns? It's almost
+hard to respond to because it's very
+unclear what surveillance people think
+we're doing. You know, there's just
+there's like a broad almost maybe an
+outgrowth of Terminator fear around
+technology.
+&gt;&gt; to get into that cultural question next.
+I think it's like very important to
+understand.
+&gt;&gt; We don't collect data. We don't have any
+data. It'd be like It'd be like accusing
+Excel of being a surveillance tool,
+right? It's like this is a way of
+bringing your your own data that you
+have lawful authorities to collect
+together to make decisions.
+Sounds a lot like Excel. But it's, you
+know, because we are unabashedly
+patriotic and serve the US military, I
+think people have a kind of colored view
+of these things. I would argue that it's
+actually Excel with cell by cell
+&gt;&gt; With much more security. With
+auditability. You know, it'd be as Karp
+says it it's the most insane platform in
+the world to try to do something illegal
+in because you are going to be caught.
+You know, like that was part of the idea
+of how do you enhance privacy and
+security? How do you build more civil
+liberties protections in it? How do you
+have a normative view that enables a
+democracy say these are laws and rules,
+the system will enforce it. We're not
+just relying on people happening to do
+the correct thing.
+Uh so that's one piece of it. The other
+piece of it to come back to this broader
+point is the the need for epistemic
+humility. Like one of the Um to the
+point of we have elected officials, um
+they are accountable for these policy
+decisions. I think at the limit it's
+actually kind of indefensible to have a
+perspective other than lawful use
+because if you are salami slicing the
+policy, that's actually tyranny by tech
+bro. You know, a small number of people
+are constraining the maneuver space of a
+democracy with no accountability to the
+populace. So I I I think that's a pretty
+challenging perspective to be in. And
+we've been in this perspective where if
+you go back to how did the Soviets get
+the nuclear bomb? You know, there's
+really there's two sources of treason.
+One was committed communist like Klaus
+Fuchs who was who's always a spy, but
+the other were people like Theodore
+Hall. He was one of the youngest
+scientists in the Manhattan Project at
+18 years old. His brother Edward Hall
+built the Minuteman missile. His brother
+was, you know, kind of a heritage and
+hero in my terms. But Theodore said, you
+know, I'm one of the best physicists in
+the world. I'm probably also one of the
+best geopolitical strategists in the
+world. And I think the only way to have
+world peace is if two countries have the
+bomb. So in 1944 Theodore Hall walked
+into the Soviet trade mission in New
+York and gave them critical secrets to
+the bomb. Now Theodore thought he was
+going to deliver world peace. Instead,
+every death from communism since 1949 is
+actually on his hands. And there's no
+accountability for that.
+Yeah, I think it one of the other things
+that comes up in these these
+conversations about powering the
+surveillance state is this belief that
+we have policies, but we don't actually
+want our civil servants to have the best
+technology to enforce those policies.
+And it's almost like a a lack of belief
+in the institution of democracy. It's
+like, you know, traffic cameras, for
+example. It's like, man, I'm sort of
+libertarian in some ways. I don't love
+traffic cameras, but if traffic cameras
+say, "I'm going to send a ticket to
+every single person that blows through
+this red light." I don't know, maybe we
+have to change the policy around red
+lights if you don't like that. Or
+&gt;&gt; I've gotten three speeding tickets in
+San Francisco from autonomous cameras in
+the last month.
+&gt;&gt; Well, they did ramp it up significantly,
+which is incredible that they're
+enforcing laws at all, if we're being I
+mean, like
+here's my ticket. And then I'm literally
+watching the guy while I'm doing 3 miles
+over the speed limit, you know, take
+heroin needles out of his arm and put it
+on the floor next to next to an
+elementary school.
+But it's the same thing with like, you
+know, using
+using tech for better enforcement of tax
+law or something like that. Like, do you
+Is what we're saying by criticizing what
+Palantir is doing, is what we're saying
+that we don't want our civil servants to
+have the best tools possible? Because
+you can have that position. I tend to
+think that that position is pretty
+morally bankrupt, but I guess you could
+have that position. But ultimately, I
+think that's what it is.
+&gt;&gt; So, scenario play this for me because
+there's a public perception, I don't
+know how far-reaching it is, that
+there's some tied corruption between
+government officials that use technology
+that's super advanced, that's hard for
+people to understand, and the technology
+vendors. If you saw government agencies
+using your technology, either of you, in
+illegal way that you knew broke the law,
+do you report it? 100%. Yeah, to the IG.
+There's an entire mechanism there. There
+is an IG in every agency.
+&gt;&gt; Right. So, can you just just explain
+that for a second? The Inspector General
+maybe Yeah. So, every agency has an
+Inspector General who's an independent
+organization that you can provide
+anonymous or non-anonymous complaints to
+that then have the ability, the
+statutory ability to do an investigation
+in unfettered way inside of that
+organization, whether it's the
+Department of War or
+Housing and Urban Development, like
+literally every single agency.
+And this mechanism is used. I actually,
+you know, in in it was weaponized
+against one of my favorite heretics and
+heroes Colonel Drew Cukor who invented
+Maven, the founder of Maven, really. But
+you know, people would file complaints
+claiming that he was
+hiding illegal immigrants in his
+basement, a basement that he doesn't
+really have. You know, but but all of
+those things were investigated. Naval
+Criminal Investigative Services went out
+to his house and actually looked into
+these things. So, people take this
+incredibly seriously. Where does the
+culture come from? The anti-defense tech
+alignment culture? Is it because of the
+peace era that we had and folks took for
+granted national security? I think the
+first schism was really during Vietnam
+where people felt like they were lied to
+about the war. It drove a fundamental
+schism between academia and defense. And
+that we've never really healed from that
+schism. And so, there's this this this
+kind of sense, this distrust that's
+that's brewed there and kind of
+escalates your society. The second
+schism is like the number of people who
+are prior service or or connected to
+this community who actually see these
+people as humans and have a fully
+informed mental model of how diligent
+they are, how the work actually gets
+done. What do these words actually mean?
+What is the process like? Is is is
+evaporated. So then, their own fears
+fill how they think it happens. And it
+seems like maybe it's happening more in
+a cowboy way. Maybe it's happening in a
+way without oversight that there is no
+such thing as doctrine. Like there is
+kind of a cartoon version of what's
+actually happening that I think
+you know, you're unable to reconcile.
+Yeah, I think if you even look back at
+what happened with Snowden,
+you know, what was that? 15 years ago
+now? Something like that. Um you know,
+that there was almost no discussion
+about the investigations that went into
+like was the data collection actually
+abused? And the answer was like
+basically not at all. There were like
+less than 12 documented cases where
+someone got access to data that they
+shouldn't have. And it was because of
+like technology errors, not because of
+the policies that were implemented.
+Um and so, you know, we can have
+disagreements about whether or not the
+intelligence community should have
+collected the data and stored it. Uh but
+that was that policy was renewed
+multiple times by multiple
+administrations, multiple political
+parties that had the majority in
+Congress over decades. And so apparently
+our elected representatives thought that
+it was important enough to keep in the
+system.
+Um so I think it ends up being this kind
+of weird policy discussion. Uh but the
+second point that you make I completely
+agree with about like the the kind of
+distrust of the institution uh in in
+creating the stories for themselves. Uh
+I oftentimes go and do uh guest lectures
+at Stanford and I always try to ask like
+raise your hand if you have an immediate
+family member that serves in the
+military. No one ever raises their hand.
+It's crazy. Like at Stanford, there are
+veterans that come in that go to the GSB
+and things like that. But in like the
+undergrad undergraduate student
+population, it's incredibly rare for
+anyone to have any connection whatsoever
+in their immediate family to the
+military. And I I think there's like,
+you know, some of this goes back to
+criticisms that people like J.D. Vance
+uh the vice president has made about,
+you know, elites in America and things
+like that. But there's just this
+incredible divide that has happened. Um
+and we're kind of losing touch with that
+kind of salt of the earth middle of the
+country, you know, veteran community
+that I I feel like was way more present
+during the the Cold War uh and and, you
+know, the World War II before that.
+&gt;&gt; Do you think that there's any external
+influence that's driving this culture?
+Are there influences on social media, in
+mainstream media? And maybe just talk
+about destabilization
+and the attack vectors. I've seen it in
+other areas of science. I don't want to
+spend time on this show talking about
+it, but there have been traces that I
+found on external folks that want to
+destabilize American science and
+industry progress. And they create fear,
+and they put out articles, and then they
+go social, and they they become viral,
+and suddenly everyone believes it even
+though it's not true. Do you see that
+and have you actually kind of seen that
+in the sense of like attacking the tech
+companies that are now supporting
+American defense? 100% even if you go
+back to let's stick with Vietnam.
+The Soviets spent $7 million in 2026
+dollars
+funding the peace movement, the anti-war
+protest. Now there's obviously some
+there is an organic element to it, but
+this is just dumping gasoline on the
+fire to sow division and discord. I
+think in the present day I I think you
+know certainly we see it against
+Palantir where there there's CCP money
+flowing to organizations that are
+protesting us for various domestic
+issues here. The it's not isolated. It's
+it's broadly a successful strategy for
+adversaries to sow division. No one will
+believe it because no one wants to
+believe that they're being influenced.
+Right but but I I think Shawn's point is
+exactly right. It's like it's actually
+a brilliant strategy. Like good for
+them. They are they are not our friends.
+They are adversaries. What would you do
+if you were in their shoes? It makes a
+ton of sense. Do we do that? I mean look
+we have we have all sorts of
+counter-intelligence operations
+operating around the world. The modern
+art movement was really funded by the
+CIA to undermine the kind of Soviet
+control of art. You know and it was it
+was broadly funded and it wasn't it
+wasn't directed by CIA but you you can
+see how we have cultural values that we
+want to inculcate and spread. Do you
+think we have a shot at recasting the
+defense industry, the tech industry
+that's addressing defense
+and aligning it with a notion of
+patriotism?
+And what is it going to take to make
+that happen?
+I don't know maybe writing a book.
+Oh yeah you have a book. That's right.
+That's right. I'm trying to do exactly
+that. You know look if if we look at it
+clear-eyed sense of the world and and
+how much deterrence we've lost you you
+could you could really say like maybe
+World War III has already started and 10
+years from now we'll look back and and
+and be able to perceive that. Right now
+I I think you don't need literally
+everyone to view this but if you can if
+you can create a more clear-eyed view of
+what's at stake here, not only for you
+but for your children and their future,
+I I think you can you can get people to
+show up and participate. And this is
+this has been America's story all the
+time, you know, and usually when we
+start these things, we are the underdog.
+All periods of American greatness have
+started when we realized that we're the
+underdog. We were the 17th largest army
+in the world at the beginning of World
+War II. You know, and what did a ragtag
+bunch of farmers and random tradesmen
+have taking on the world's largest army
+in the British during the Revolutionary
+War, you know, and and I I think um
+having some clarity about what's at
+stake, what the counterfactual is. It's
+so easy when you're successful to kind
+of let the nihilism grow and say like,
+"Look how imperfect we are." There's
+like the self-loathing creeps in. And
+this is where I take coming back to your
+point on the legitimacy of our
+institutions. Like, should these
+institutions work? Do they deserve the
+best software? I mean, look, if they're
+public or private, you can't have doors
+falling off planes. You you know, our
+our government organizations need to
+provide the basic services they've
+signed up to do without fraud, without
+corruption, in an efficient way. And the
+reason is not just an aesthetic. It's
+like in the absence of that, it breeds
+nihilism. And the younger generations
+look at that and say, "You know, we
+should just tear all this down." And
+things will absolutely get worse in a
+world that looks like that. So,
+it's incumbent on us to wake up every
+day and fight for the legitimacy of
+these institutions to make them more
+functional.
+&gt;&gt; America's story is never written. It's
+every chapter seems to be a whole new
+arc. And we're in one right now. There's
+a rising socialist movement in the
+United States. Can you guys just comment
+on how much you think that that
+socialist movement, cast with whatever
+term they want to use, is going to
+affect our capacity for defense and
+resiliency going into the next decade,
+particularly as our adversaries are
+rising? Well, the argument I've always
+made is I think our our greatest threat
+as a nation is not homicide, it's
+suicide. And it's it's in this vein.
+It's the internal discord, it's the
+division, uh it's the it's the
+self-loathing, it's uh
+you know, things like the socialist
+movement, which I think are symptomatic
+of this internal discord and ensuring
+opportunity for our people to the point
+of a functioning elite.
+If you were to go backwards and think
+about the root cause, like maybe we
+don't have an elite that cares enough
+about the prosperity of the American
+people.
+And we've made decisions through
+globalization. We were told NAFTA was
+going to be a great thing. That actually
+if you lost your job in manufacturing,
+why don't you just learn how to code?
+You know, there's a certain sort of
+callousness in that and you know, I'm
+not an unabashed free market I'm clearly
+not a communist, but there's a sense of
+where the decision on the margin
+actually really does matter and that
+comes down to leadership. I think one
+thing that makes me a little hopeful is
+that socialism literally doesn't work.
+Um and so, you know, you look at, you
+know, what happened in San Francisco
+even where, you know, we elect Chesa
+Boudin as the district attorney and then
+we're like, oh wow, this is not going
+well. Recall him. Yeah. We have the
+board of education
+&gt;&gt; Rooted in a selling point of empathy.
+Right. Right fundamentally. Yeah. Uh
+what happened with the board of
+education getting recalled, you know,
+Daniel Lurie coming in as the mayor. Uh
+you know, we felt like we kind of went
+into this valley and sort of hit rock
+bottom. Um but I do think that people
+eventually realize that it doesn't it
+just fundamentally doesn't work.
+&gt;&gt; Seattle and Washington state are likely
+going to lose a large number of their
+biggest employers and as that happens
+they'll come through on the other side
+probably. Might take them 7 to 10 years
+to get there. It might be painful and it
+might take them a long time, but I think
+they'll eventually come to their senses.
+&gt;&gt; What do you two disagree on?
+That's a great question. Yeah. Um we
+actually, I'll be honest, we bickered
+with each other quite a bit at Palantir.
+Um and usually it was Shawn being right
+about something and me taking a long
+time to come come along to his point of
+view. Um but uh
+yeah, I think, you know, any of these
+cultures that are like well functioning
+are rooted in debate. Um and you know,
+eventually But you're avoiding my
+question.
+Whether it's whether it's actions or
+outlooks. Whether you should show up to
+your interview at a tech company in a
+suit. Yeah, I know. Well, no, I I will
+say this because it actually is part of
+the story of Anduril. I thought that it
+was a bad decision at Palantir to be as
+quiet as we were. I thought that we
+needed to get out there and tell the
+story so that there would be data that
+says things like what Shawn said about
+like we don't have any data. We are
+Excel. Um and we had a very kind of
+quiet reserved comms strategy. Um And we
+went back and forth on that a lot. And
+when I started Anduril, I was like, you
+know, all the positive things we learned
+about uh doing business with the
+government from Palantir, the one lesson
+that I learned that we didn't implement
+at Palantir is we're going to go out
+there and tell our story. Um and I think
+that's worked for us incredibly well.
+And I'll be honest, I think Palantir has
+come along to to my my side of the of
+that debate. And last question, if we
+don't do things right, what does 2040
+look like? And if we do do things right,
+what does 2040 look like? Economic and
+defense. Well, the the economic part is
+I think the the critical one cuz
+national security is not an end unto
+itself. It's a means to an end. And that
+that end is economic prosperity, the
+prosperity of the American people. Um I
+you know, I think no country's done more
+to develop the world. Like how did
+integrated circuits and microelectronics
+get to Southeast Asia? We sent them
+there. Yeah, we benefited in terms of
+trade there, but you know, like which
+other
+winner in a war spent their own capital
+to rebuild the conquer conquered, you
+know, in Japan and Germany. And and now
+you have the stability as a result of
+it. So when I think about what could go
+wrong is you actually have a Chinese
+century that we never recover from. That
+literally everyone in the world is a
+vassal state to China and might makes
+right in their sort of world, you know?
+And we we shouldn't forget. It's like
+it's very clear even in the present
+moment that for the CCP, it's not enough
+for China to prosper. America must fall.
+That's an explicit part of the strategy.
+Look, it is a business decision if you
+want to buy American or Brazilian
+soybeans. I actually don't begrudge you
+one iota which decision you make there.
+It's an entirely different decision when
+you're smuggling agricultural fungicides
+into the US so that we can't grow
+soybeans. That's the sort of zero-sum
+frame that I think 2040 will look like
+if we get this wrong. And if we get it
+right, I think what we actually see is a
+massive re-industrialization of America
+followed by the West. Um we see a
+thriving middle class, which I define
+qualitatively as a middle class that
+believes their children's future will be
+better than their future, which is
+something that I feel is is a
+fundamental promise that's broken down
+over the last 30 years or so. Uh and a
+belief in our institutions once again.
+Yeah, no, completely agree with all
+those points. Uh I I think there's a big
+component here around education that we
+haven't talked about as well, where we
+figured out a way to educate and
+successfully enter our young people into
+a marketplace that uh needs them and
+that benefits from their services.
+Um and I I think that we we haven't
+quite nailed that. Um but I I do think
+that the re-industrialization point of
+this is going to be kind of the the
+central point of uh making sure that
+China's many many decade Belt and Road
+strategy is not going to put us in a
+position where we literally just can't
+do anything.
+&gt;&gt; Do we need
+military and industrial primacy or can
+we operate in a multipolar world where
+the US can share influence and economic
+prosperity with China, perhaps Russia,
+perhaps one or two other nation states?
+Well, the the challenge with not being
+the leader is that you don't get to set
+the terms of engagement. And so I think
+the the benefit that we have had uh
+since really the end of World War II is
+that we've had the primary seat at the
+table to say, "This is how we're going
+to do
+uh you know, semiconductors. This is how
+we're going to do supply chain. This is
+how we're going to protect trade lanes."
+And I think the moment that you step
+back from that uh and someone else has
+all those incentives, uh you start
+playing the rules of their game, and it
+doesn't stay multipolar for long. Well,
+I really appreciate the two of you being
+here. Trey, Shawn, thank you guys. This
+has been great. Thank you. Thank you,
+guys. I'm going all in.
+I'm going all in.

@@ -1,0 +1,1078 @@
+# Elon Musk: Ukraine, X, the creator economy, China, AI, & more | All-In Summit 2023
+# https://www.youtube.com/watch?v=tKqJ5-kkUGk
+
+[Applause]
+okay wait I'll just I'll just read off
+all of your companies Elon I know them
+but I'm just going to read them to make
+sure I don't miss one because there's so
+many now uh founder CEO chief engineer
+of SpaceX uh CEO product architect and
+chairman of Tesla uh owner chairman CTO
+of uh x uh x.com uh founder of boring
+company co-founder of neurolink and open
+Ai and president of the mus Foundation
+did I get
+everything let your Winner's
+ride and we open source it to the fans
+and they've just gone crazy
+[Music]
+with where are you me it is
+coming it's kind of absurd where are you
+at Star base
+um I'm in FL currently so this is this
+is a starlink and Flake connection are
+you kidding me that that's oh yeah that
+works pretty well
+huh I think there's only
+one wait I think it's one of of how
+stalling Works uh in an
+airplane at altitude there's only one of
+those in existence right it's on your
+plane that's it 101 there are a number
+of airliners that have stalling and
+there will be a lot more in the future
+Starling connection when you're assuming
+it's working properly is you would even
+be able to tell you you're on the ground
+or in the air um because unlike Jo
+satellit the latency is you know really
+be less than 20 millisecs so
+um it's a in fact for a lot I think for
+some people the Sonic connection on the
+plane will be better than their
+connection at their house that would be
+pretty great um H how is um
+the Starship doing it was incredible to
+see the first uh launch but I understand
+you're closing in on the second I know
+you've been working really hard on that
+and the team's working hard on it um
+when do you think you're going to get
+the next one up and um what are the
+chances it makes it to orbit uh well we
+have the second one stacked at Star base
+so it's ready to go um and uh we
+finished that up in the last
+week we believe we've we've completed
+the rain um I had an requested by the
+FAA so we should get our license
+hopefully soon um but really the only
+thing holding back second plan of
+Starship at this point is Right fire
+approval wow what's your
+expectation uh or your hope in terms of
+the probability that it gets to orbit
+it's just a question of timing yeah how
+long it does take to get the approval
+paperwork whatnot um so that's really up
+to the FAA at this point yeah but but
+what about making it to orbit do you
+think oh
+we are doing a new staging technique
+called hot staging uh where
+um you light the up the upstage engines
+or the ship engines while the um boost
+stage is still firing and um this is the
+kind of the most efficient way to do is
+stage separation of rocket going orbit
+um but we did not try that on the last
+mission and and we're trying on this
+Mission we think it will be overall
+better um but I think this I think
+probably have a
+I hope well over 50% chance of getting
+to Stage separation um and maybe at
+close to 50% chance of getting to Orit
+if the hot staging um the new separation
+method uh is it works so I'd say maybe
+it's like a you know above i' say
+probably above 30% chance of getting
+toor with the sign whereas previously I
+said below
+50 uh is this in terms of
+complexity how complex is this of a
+problem compared to the other problems
+you've worked on in your
+career uh well so I mean making a rocket
+that is more the twice the size of the
+SAT 5 um you know it's a in fact with an
+extra of the rocket it'll have roughly
+three times the thrust of a Saturn 5
+Moon rocket um whever it's signed to be
+fully rapidly reusable whereas the you
+know the SAT was completely Expendable
+and with baline we
+we still expand the upper stage uh but
+we we bring back the boo stage as people
+have probably seen the The Rocker liing
+videos and we are also able to recover
+the varant um with the with falc but
+these things do land toly out to sea so
+it takes a while to bring them back to
+board and get them ready for figh G the
+the thing that you know so so this's a
+scale of Starship but then also the fact
+that it is designed for full and R re
+usability so both the booster and the
+ship come back launch site they get
+caught by these giant meaz arms youve
+see in
+congress's Godzilla uh it's basically
+bad uh catches this giant rocket out of
+you know B air and puts it back on the
+launch stand and gets ready for launch
+so it will be capable of you know
+basically aircraft level flight rates um
+but but it's much bigger than say a 747
+or
+8380 um you want can we um talk about
+the events of was it last weekend the
+whole Ukraine Starling thing can you
+give us like a the Tik Tok of like
+what's going on and like how you're
+being forced to
+decide but like what is it like in that
+decision room if there was one or
+wherever you were where you're trying to
+figure out am I keeping this on do I
+turn it off what is going on people must
+have been bombarding you whatever you
+can share about what that was like how
+you made the decision
+um yeah I I so I was actually mistaken a
+little bit in understanding the
+situation
+um you know obviously we St sex have
+provided uh starlink connectivity for
+you know to Ukraine um really since the
+beginning of the war uh really within a
+I think a few days of the war starting
+um and as the Ukrainian uh Governor said
+the S was instrumental in the FS of
+Ukraine so you know they've said that
+really many times although the media
+forgets to mention that um so and in
+fact they've said it on Twitter you X
+only know on his
+Twitter it's going to take a while to
+get that right yeah take a little time
+[Laughter]
+um so you know you don't have to you
+don't have to take my words for it you
+just read what what they put
+um you know uh
+so uh so son has been incredibly helpful
+to the Ukraine war eff um we' have gone
+out of pocket very significantly uh to
+help them um and
+um at at the time this happened the uh
+region around Crimea um was actually
+turned off now the reason it was turned
+off was actually originally was because
+United States had sanctions against
+Russia um and we're not allowed to
+actually and that includes Crimea and
+the
+sanctions and we're not allowed to
+actually turn on uh connectivity to
+sanction the country without explicit
+government approval um we did not have
+from the US government so
+um so so basically the uh uh you know
+Ukraine didn't they didn't give us any
+any advanced warning or heads up or
+anything um we just got the the sort of
+uh urgent calls from the Ukrainian
+government saying that we needed to turn
+on primier it's like in the middle of
+the night basically and we're like what
+are you talking about you know
+you which's it
+four um you know and
+then you know we basically um figured
+out that this was kind of like a bhit
+type attack on um Sasol on the Russian
+fet Sasol so they're really asking us
+for to to really for actually take part
+in a major act War
+um and um you know well we so certainly
+have huge EMP support for the Ukrainian
+government um the Ukrainian government
+is not in charge us uh people or
+companies that's not how it
+works and and Elon if if I could just
+but I should say that you know although
+I'm not President Biden's biggest fan if
+if I had received a Presidential
+Directive to turn it on I would have
+done so because I do regard the
+president as the chief executive officer
+of the country whether I want that post
+to the president or not I S respect the
+office and so if if you know if we
+gotten if I gotten a request from the
+president type of thing from the
+American president to be clear
+um then I I I would have turned it on
+you know so but no such requests came
+through
+that that's a really that's a really
+interesting point and um you're I mean
+the what jamas is referring to is you're
+now being attacked I saw there was a you
+know there was Jake Tapper uh the other
+day on CNN interviewing our secretary
+state was just he was all lathered up
+basically attacking you for this uh
+David David I mean to his credit
+secetary Lincoln was actually quite
+supportive despite the Absurd uh you
+know accusations and leading questions
+of the Jake taper at CN yeah he didn't
+take the bait credit to sery Lincoln in
+this regard for not um you know taking
+the bait at all yeah well I to me this
+is an example of no good deed goes
+unpunished because if you had never
+given I hope I hope some good deeds back
+go
+unpunished I mean if you if you had
+never given
+Starling that you know
+but yeah I mean my point is just if if
+you had never given Starling to the
+Ukrainian government for free
+voluntarily you just volunteered it then
+no one be attacking you right now for
+not turning it on so they could do their
+attack on Crea yeah um also one other
+thing I'll note is that your reason for
+not turning it on which is you don't be
+part of what could be a major escalation
+was exactly was exactly the reason that
+Biden Administration did not give attam
+attam missiles to Ukraine at that point
+in the War now they may be changing
+their minds but they were very worried
+about an attack the administration was
+an attack on Crea triggering some huge
+escalation of this war so not only did
+you not receive a directive from
+President Biden your thinking was very
+much in line with theirs at the time and
+and you're being attacked for that
+now there there's something you
+mentioned which is that you did this at
+a lot of economic cost to SpaceX can you
+just can you just talk about that for a
+second because I'm not sure people
+understand who's paying for what right
+now and who hasn't been paid and you
+know
+Etc there is um well as you say like a
+lot of people are contributed to the
+effort uh staring is the fundamental
+communication backbone of the Ukrainian
+uh government and and essential services
+like First Responders and that kind of
+thing um and you know is is used we we
+hope peacefully relatively peacefully on
+the warfront it is the only thing that
+works on the warfront everything else is
+been jamed by the Russians so it the
+only thing that works not not one of the
+[Applause]
+things you know but but I think you have
+to sort of think of say the you know um
+you know taking the actual example of
+Paul har and say like well how did that
+work out for Japan it didn't work out
+well at all right um because it was a a
+tactical victory a strategic defeat it
+enraged the American public um who sort
+of naturally wanted Vengeance for for
+the Z you know the Zach and I think that
+that you know while I don't think it's
+on the same scale that there was
+certainly that potential of sort of a
+many P Hava with results in a mass
+escalation of uh hostilities um but not
+this would this would not this would not
+defeat Russia it would enrage Russia do
+you Don do you donate the network or do
+they pay you for
+it
+sorry yeah so um I'm actually not sure
+what the final accounting is at this
+point but uh I I I think at one point at
+one point you calculated our sort of
+cost of supporting things that roughly
+$100 million now the $100 million does
+not count um the mass of risk to the
+entire Starling constellation uh because
+uh Russia would like to have the entire
+thing
+deleted um
+so uh you know nobody's compensating us
+for that um and uh so if we were to get
+say uh our control center were uh take
+down and Cyber attack they you know they
+command satellites to the
+over um and destroy the entire system uh
+or use anti satellite weapons um so you
+know the these are this is a pretty
+significant
+risk um for which we have not received
+any compensation and obviously would be
+catastrophic to the entire stalling
+system which is you know approaching $10
+billion Elon do you think the current
+government Administration saying hey 10
+mil million and then actually I say one
+of the BR meing things was as you as
+you've seen there's there's a very large
+amount of money that's been appropriated
+for uh Ukraine you know I'm not sure
+what the the total is at this point but
+must be 100 close billion or somewhere
+between 80 and 100 billion um you know
+now all of the you know other sort of
+providers us providers of support to
+Ukraine are being paid so then why
+should SpaceX be excluded that doesn't
+make sense we we're doing one of the
+most valuable things and yet are getting
+the least money this
+iser um but you know despite that we're
+still happy to keep keep going and um
+Elon does the Biden Administration have
+it out for you and
+why H what have gave you that idea
+[Laughter]
+yeah but let me ask you own and control
+I don't if the whole Administration has
+it out me I think there probably aspects
+of the administration that are not uh or
+or you know as aspects of you know
+interests aligned with uh with with with
+resent Biden who probably do not um wish
+good things for me
+um I don't know you know really what
+their issue is but there does seem to be
+um a significant increase in the
+weaponization of government um
+and
+um I say really sort of misuse of
+prosecutorial discretion in a many many
+areas where and I think this is this is
+really a dangerous thing for
+um you know for I don't
+know for that to be potis and politics
+with with with government agencies it's
+it's just
+really and then I think from you know
+from from say
+uh you know Democratic party standpoint
+or or say B Biden Administration
+standpoint I think this is this the
+danger here is that if
+there's significant uh um must use
+prosecutorial discretion let's say one
+says okay everyone's equal under the law
+yes but who are you who are you choosing
+to
+pursue um and if if you if you're
+pursuing what what appeared to
+Independent voters to be
+uh trivial cases while ignoring serious
+crimes um it's hard to imagine that a
+lot of independent voters that's going
+to win over thoughtful independent
+voters did this did things change when
+you bought
+X yeah I think that they did change
+somewhat um you know I I'll go with the
+with with the sort of you know the
+xplatform is really to be uh a Level
+Playing Field a public square that is
+supportive of um you know most of the
+country let's say that the middle 80% or
+something like that um
+now um that's not been the case really
+for all social media that all social
+media have been really very very left
+leading far left leading and really
+Twitter was far left leading um you know
+the the suspensions of of um s
+Republican candidates or interests or
+voices was was uh really at least 10
+times the rate of of um suppression of
+left left bring voices on you know on
+all Twitter
+um so so what what I'm trying to do is
+move it to the middle which from
+standpoint of say the left appears it is
+moving to the right Everything's
+Relative if you're standing on the
+left but it's not it's simply moving to
+the middle that's all um in an attempt
+to actually represent the whole country
+um and and not just um here half the
+country or even maybe less than half the
+country so that's it really so I think
+there's like there's really to be
+alarmed about here it's you know it's
+just that it's intended to be a Town
+Square inclusive of the whole country
+and else you know and and the world
+that's all it it's been um I guess you
+took over um X Twitter on Halloween
+weekend if I remember correctly uh when
+you got to the building you got the keys
+um and David and I were lucky to be
+there with you when you got the keys and
+we got to um check things out um this is
+10 months into a
+turnaround uh and it wasn't a high
+functioning organization I think when
+you took it over where is the company at
+now and are you pleased with I guess the
+progress because it looks like new
+features are getting launched the
+product velocity is great uh obviously
+advertising's been challenging but it
+feels like there's some green shoots so
+so how do you feel about the purchase
+now yeah well I should say we recently
+seen a significant increase in
+advertising which is great um so that's
+a you know if that Trend continues um I
+think the company will be in in very
+good Financial shape on the advertising
+front um so that in terms of positive
+developments that that seems to be one
+of them um and um from a feature
+standpoint I think those who are look
+using the system I think we' I think we
+might have delivered more new features
+you know in the last I know a year than
+in the last you know all tter did in 5
+years
+you know there there
+really feature the feature development
+pace is very
+rapid um and this is being done with
+really about 15% of the original company
+um maybe a little more 15 20% um so it's
+it's really you know efficient you know
+at the end of the day you have to say
+you know how complicated is a system uh
+like the X Twitter platform um you know
+how different is it from a group chat
+frankly it's like a group chat at scale
+um so he I don't think you need an army
+to maintain a group chat
+yeah
+yeah I mean it's it's not the
+self-driving platform and it had maybe
+10 times as many people working on it as
+the self-driving platform at Tesla which
+seems crazy the entire self-driving AI
+software team is 200
+people and the what they're doing is
+much more complex than Twitter or you
+know much a lot
+more so you now there's other things
+that obviously need to be done like
+advertising sales um OB network
+operations and um how can you talk to
+it's really not it's not a it's not a
+huge I don't like I said don't even know
+me for for for what we're here and I
+think you know the people that that are
+um still the company are obviously being
+very productive in uh creating and
+deling new features um and um you know
+we keep seeing sort of RedBoard usage
+and the the know the most prous number
+is really the is user seconds as
+reported by the mobile device especially
+iOS the the iOS uh what iOS reports as
+the screen time is the
+is the least gameful metric um and and
+those numbers are exem are very good um
+so you know I think I'm course justly
+optimistic about where things are headed
+and I I feel like the company's turned
+just you know just recently turned turn
+a corner um tell us about you know said
+um at least moderate prosperity and and
+hopefully significant tell us about um
+the success of sharing Revenue why did
+you do it and then just the the vision
+you have for just the Creator economy
+and what you want that to evolve into
+and build
+into yeah I mean it sounds to reason
+that if if you're a Creator and you need
+to um need to make a Livy for what
+you're doing um so there's got to
+be
+um you know Fair compensation
+competitive compensation for a Creator
+whether they're doing you know WR their
+writing or pictures video whatever the
+case may be
+um and uh so we're and we're so we're
+not really in you know inventing
+anything new here we're just you know as
+YouTube does with creators they will do
+rev show um with advertising and so
+we're doing rev show with advertising um
+we're also to have enabled direct
+subscription to accounts where whatever
+somebody you know you could be doing
+audio video long form text anything and
+you can subscribe to someone and um
+that's you know OB that's way for a
+subscriber to make a living as as well
+you know for a Creator to make a living
+so the intent is for the ACT platform to
+be the best home for creators uh where
+if you've got interesting content then
+you you want to put it on a platform and
+um you know there's a lot of questions
+about like sort of the algorithm and
+whatnot I I should mention like the the
+algorithm is uh I think almost all of it
+is open sourced and and we will uh I
+think quite soon have the entire open
+source uh the only reason I it really
+hasn't been done entirely open source
+yet is because we're somewhat
+embarrassed with the code and need to
+just clean it up before uh putting
+something extremely embarrassing out
+there but the point is that like we want
+transparency boths trust and if you've
+got um uh if you if you can recreate the
+results um on the
+xform of how viral a post is going to be
+independently using the uh you know the
+the public algorithm you know the H
+algorithm um that that's really where we
+want to get to um so you you kind of you
+kind of know what to expect um and and
+why something happened um now now I
+should say the we are we are trying to
+optimize for uh user time um on the
+platform what this naturally means is
+that um
+posting content that someone looks at
+longer
+is going to get higher priority than
+content that is
+short uh just because the system is
+trying
+to Max it's it's aspiring to maximize uh
+you unreg user remittance is what I call
+it so like basically how do we um if
+we're succeeding you want to spend more
+time on the platform and you want to and
+after having spent that time you don't
+want to regret it um I mean speaking of
+Tik Tok um
+you know that's I've had a lot of people
+tell me they spend a lot of time on Tik
+Tok and they regret it um we don't want
+to be we want it to be that you spend a
+lot of time on the
+xplatform and you learned a lot uh you
+you're entertained and you don't regret
+it so when you're optimizing for you
+know user minutes and like I said
+aspirationally under regretted use
+minutes uh uh if you the more content
+that you post on the system the more
+reach that uh thing will get because the
+system is saying oh those user is
+spending more time in the platform
+because they're they're you know seeing
+say your podcast or uh reading um a long
+form article or watching some video um
+that's going to get a lot more time than
+say if you if you link to a video
+elsewhere or you link to an article
+elsewhere that that that's just that
+that that that means you'll you will be
+on that post for a very short period of
+time
+and so the the system will be like okay
+that did not increase uh user time so it
+will it won't be excluded it it will get
+less attention that than actually
+posting content natively on the system
+do you want to talk um
+about uh the ADL and you uh sort of
+where what the status of that is whether
+you're pursuing a lawsuit or not or
+where that
+stands um I think we'll have to see
+about that I
+mean um
+yeah I mean the fact of matter is that
+ad did initiate a boycott they don't
+call it a boycott they call it a pause
+but you know po that is never ending
+isot so and and and we just we saw a
+massive drop in uh us advertising we saw
+basically no change in advertising in
+Asia but domestically with ADL is strong
+we saw uh 60% drop in advertising so you
+know that's uh pretty intense
+um and um and this is despite you know
+showing repeated uh analyses of the
+system including third party analysis of
+the system which actually showed that uh
+the number of uh views of hateful
+content uh
+declined so you know the third parties
+who have all the data analyz and said
+actually there's less safe speech
+um the issue I think with the ADL is not
+a question of hate speech it's not a
+question of any semitism obviously uh
+it's that the ad um and a lot of other
+organizations have become activist
+organizations um which are acting far
+beyond their uh stated mandate or their
+original mandate and and I think far
+beyond what donors to those
+organizations think they are
+doing um you know one of the things that
+the a was extremely opposed to and in
+fact was instrumental in in happening
+was there the ad was instrumental in
+getting um Donald Trump the platformed
+um and then when we we you know we
+restored the account um they they made
+it super clear that they regarded simply
+restoring his account on you know
+Twitter now uh that that that
+constituted hateful speech like he
+hasn't even said anything you know um he
+has to at least say something or post
+something for there to be incremental
+painful painful content this is absurd
+um and what's this got to do with
+anti-Semitism like you know Donald
+Trump's son-in-law is Jewish his Jewish
+gr I'm pretty sure he's not anti-semitic
+okay um you know he's at the
+wedding so um this this so so the
+problem is that a lot of these um
+organizations like said they've really
+been captured by the W agenda and
+they're they're pushing um you know
+serious of beliefs and values that I
+think are often contrary to their what
+what they're done as belief and that's
+uh that's what we have in the situation
+well yeah I I'll note that the the two
+positions that you've taken that have
+brought the most heat on you number one
+defending Free Speech number two
+advocating peace and how dare
+you how dare you how dare you and
+there's there's an article like the
+opposite world or something yeah we're
+living in upside down World there
+there's an article in today's New Yorker
+calling you a super villain because
+you're advocating peace and protecting
+the first amendment I mean it's like
+completely upside
+down do you want people to eat their
+vegetables you at this point you
+literally cannot tell actual press from
+parody
+no like if that was a bon be or
+onion no literally you're doing a you're
+doing and and change the banner to you
+know Babylon b or whatever onion or
+something like that par some parody
+thing and be like oh that's a good joke
+you know um yeah super bones normally
+advocate for peace that's you know of
+course
+um we want to get rid of all the nuclear
+weapons hey um
+hold that's uh what the funniest the
+funniest skit that didn't make it on SNL
+that we were worksh Shing was probably
+woke James Bond and we wanted to do like
+this woke James Bond
+and Eli will tell you some of the jokes
+it was pretty hilarious but then we were
+just talking about a story that broke in
+the guardian about the new James Bond
+novel and short story is to woke and
+it's literally the parody we did two
+years ago uh Elon speaking of Peace we
+had we had a grais reality also like the
+you know the
+uh you know conspiracy theories that
+that that haven't come true list is you
+know quite short
+um sees that turn out quite short um and
+we really need more conspiracies
+generated because we're running out of
+to find the
+[Laughter]
+truth okay check off is accurate um so
+uh I don't know who's the you know
+responsible these conspiracy theories
+but but you know we just need some more
+material paging Alex Jones Elon we had
+Graham Alison here today I know you
+talked about his book we had Ray Doo
+here we had Ro kna um and we talked a
+lot about China the US relationship with
+China you are you have several
+businesses that have deep supplier and
+customer relation uh ships in China
+given what's going on and clearly the
+tenor has changed the the mood has
+changed with respect to US policy
+towards China
+what it's like in DC what it's like in
+Silicon Valley and how everyone talks
+about the relationship with China today
+it's pretty crazy how quick things have
+changed um as a business leader with all
+these business relationships with China
+how do you make decisions and and how
+things are changing and how do you think
+about where this is
+headed sure well I mean let's just
+clarify here um you know SpaceX has no
+uh SpaceX of Starling have no in China
+whatsoever they're not they're not
+allowed you know SpaceX does launch uh
+China satellites and starlink is abandon
+in China so to be clear SpaceX starlink
+zero business in China um uh in the case
+of of Tesla uh one of our of our four
+vehicle factories uh one is in uh China
+so um you know it's a it's a significant
+car market uh but it is uh you know so
+what I'm trying to say is like the by
+far the bulk of of my business interests
+if if I I would peing MTI which I Aspire
+not to be um are Outsider China let's
+just be clear about that um then with
+respect to now that said I think I
+understand China well I've been there
+many times I've met with uh the senior
+leadership um at many levels of China
+for for many years and so I I think I've
+got a pretty good understanding um at
+least as an outsider of ch so and and
+Tesla has been very successful
+domestically in China
+so
+um you know the fundamental thing here
+is is really Taiwan um
+the China has well really since uh for
+like half a century or so uh maybe
+longer at this point longer at this
+point their policy has been to to um s
+reunite Taiwan with China uh from this
+standpoint you know it may be just
+analogous to like Hawaii or or something
+like that like an integral part of China
+that is arbitrarily not part of China um
+mostly because of the US stop has us
+Pacific Fleet has stopped uh any any
+sort
+of um reunification effort force um so
+now really things getting to the point
+um increasingly year-over year uh where
+China's military strength is increasing
+and ours is more or less uh
+static and strategically you know you
+can imagine trying to defend Taiwan is
+not not easy because it's it's very
+close to the coast of China um so there
+will come a point if you know Pro
+probably not not too distant future
+where China's military strength in that
+region far ex exceeds US military
+strength in that region and
+if one is to take uh China's policy
+literally and probably one should um
+then there will be some
+forceful uh for forceful beuse for you
+know uh to incorporate Taiwan into
+China this is what they've said um that
+if if there is not a diplomatic solution
+there will be a solution by force let me
+um if I can and so really what's going
+on here you've seen you know this in in
+many areas and I think this Tempo is
+going to increase is that you know both
+China and the US are preparing for a
+potential
+Showdown uh you know in the South China
+CA
+so um that's why you're seeing
+increasing restrictions on export of us
+technology to China uh but such as the
+the Nvidia you know the Nvidia h100s
+being and you not allow to ship to China
+um and I think there'll be more and more
+you you also not not allow to ship
+Advanced ship making equipment to China
+um
+so and I suspect you know you know China
+is going to respond with some reciprocal
+sanctions um and you'll I think you'll
+see this kind of a TI T reciprocal
+sanctions increasing in the next next
+few years so I think quite a very uh hot
+temperature um and then we'll see this
+is there going to be a a diplomatic
+solution to uh re reunification or a
+non- diplomatic solution you uh but has
+made it clear that there will one way or
+another be a solution from their
+standpoint Yeah you mentioned uh Nvidia
+so let me just talk about Ai and bring
+it back to that for a second can you
+tell us um your regrets but also the
+positives of the experience you had with
+open Ai and then what your goals are
+with
+X well the AI discussion is is certainly
+a long one or could be a long one
+um you know digital super
+intelligence that might be the most
+significant technology that Humanity
+ever creates um and and it has the
+potential to be more dangerous than and
+um nuclear weapons
+so
+um you know in the case of creating
+opening eye it was to have there not be
+a unipolar world where um Google with
+its subsidary deat mine uh you know
+would control an overwhelming amount of
+AI talent and compute and and resources
+um which then is somewhat dependent on
+basically how
+how Larry paage U and serge BR um and
+Eric believe things should go because
+they they between three of them or two
+out of three have control over alphabet
+because they've got super voting rights
+and um you know I was quite based on
+some conversations I had with lar paig
+uh where um you know you call me a
+species for being pro
+humanity and
+um so I'm like what side of you on there
+you know
+uh
+um you know I think and uh so so I felt
+like
+uncomfortable um having the entire
+future of digital super intelligence be
+in the hands of someone who equ a
+species for being pro Humanity
+um you know how can it not be uh so
+that's opening eye was originally
+created as an open source nonprofit and
+now is a close to be it should be
+renamed closed for Max no profit AI
+um it is it is closed um and they are
+aiming to I think make try to make a100
+billion I think according to
+S get $100 billion from somewhere for
+some vast amount of compute uh to create
+digital god um apparently all the waste
+are stored in a common separated value
+file by the way so our dig God will be a
+CSV
+file how do we import
+it file
+import um see what happens um
+so so anyway so so now
+opening uh is also very closely line
+with Microsoft you know Microsoft is
+really you um the open servers are
+running on in Azure and Microsoft data
+centers you know so really what you have
+is I think at the end of day Microsoft
+having more control than open AI they
+have access to all the source code they
+have access to all the weights of the um
+you know gb4 and future versions so they
+have all rights to this to to thing it's
+not
+um at any point really they could cut
+off open AI I don't think open AI quite
+realizes that the dependence on on
+Microsoft and even if Microsoft does
+break some contract they'll just be tied
+up in litigation for you know for years
+um so really you've got
+a contest between kind of like Google
+and Microsoft Google as mentioned I'm
+concerned about you know uh sorry not
+not caring enough about AI safety and um
+good reason and then Microsoft just is
+is a I think you know a profit seeking
+organization um and I you know I think
+such is great but um I I can't say like
+you know that it would difficult to to
+say that that m has a has an amazing
+track record and moral decision-
+making so um
+diplomatic anyway so so so was like okay
+look let's just so I think let's try to
+create a third company that is
+competitive I I I do think Tesla is
+underated from an AI standpoint in terms
+of real world AI Tesla has the best real
+world AI
+so uh you know hopefully between uh xai
+and Tesla there's kind of a third
+Contender or would you look you've done
+you open source your patents at Tesla
+you are very Pro open source your source
+code at X would you ever considering
+releasing dojo and FSD more as a
+platform substrate for everybody else or
+that's sort of off the table right
+now
+well I don't know if that's uh you know
+in the case of say Dojo or our inference
+Hardware that's in the car our inference
+inference computer which is actually a
+lot lot more comp than Dojo by the way
+um you know we've got I know somewhere
+in the order of 4 million cars that have
+um highp speeded Ai and Par computers in
+them
+um like open sourcing chip designs
+doesn't mean you you suddenly get that
+thing yeah you know
+so um
+you can open open source the software
+but I think chip designs
+it's only ones that could actually use
+those chips or really kind of yeah would
+be some someone that's willing to spend
+many billions of dollars on um on a
+computer development
+so anyway I think I think in the case of
+uh you know don't saying Optimus is
+really
+interesting um any I think just in
+general Tesla is uh one of the most
+leading AI companies um and in some
+respects the leading AI company when it
+comes to real real world AI
+understanding the real world and and
+actually reacting to that with
+self-driving
+um and so and I think that will become
+part of the the solution for AGI or
+general super intelligence so
+um in the case of Tesla I think we've
+got a sort of a good governance
+structure in that there's no super
+voting rights or anything like that so
+if I'm you know go crazy the CH of Tesla
+can vote me out um you know I have
+enough vote to be you know I think
+moderately influential but not enough to
+stay in even if I'm doing crazy stuff so
+I think that's actually good
+um great
+um I was told we have to wrap him at oh
+okay uh just on FSD before we wrap I'll
+let you go um we were talking earlier
+this year and you said uh hey maybe chat
+GPT 4.0 like moment for self-driving was
+coming and uh I've I've been playing
+with the beta and um yeah how how close
+does it feel to you because it it some
+of the rides it's been doing for me are
+pretty darn impressive the latest beta
+is pretty incredible yeah it's pretty
+pretty neat I you know I used to love it
+on the highways and on the streets I'd
+be like okay but now I'm using it
+increasingly on the streets so where do
+you how do you feel about it right now
+and I I guess you made a lot of
+predictions on it over the years um but
+it it does feel like it's getting pretty
+close yeah I think it's I think it's
+very close to uh you know being in a
+situation where even if there's no human
+oversight or intervention that the
+probability of uh a safe journey is is
+higher with FSD and no supervision like
+even if you're seep of the car than if
+the person is driving um we're very
+close to that you know those that have
+the FSD beta which really anyone could
+get at this point um
+so
+the the the miles we see driven under
+the FSD beta currently are much safer
+than the miles that are driven without
+it so um that's uh you know that's
+that's already very good milestone
+um but you know you can just see that
+it's getting better and better like um
+if you see if you compare the uh you
+know FS beta today versus 6 months ago
+versus you know a year ago versus 18
+months ago it's really the Improvement
+is
+dramatic um and um we've got the final
+piece of the puzzle which is to have the
+control part of the car uh transition
+from about 300,000 lines of C++ code to
+also neural network so the you know the
+whole system will be neural net in your
+network um phons into controls out and
+and that that that's kind of the final
+piece of the puzzle for fullop driving
+being significantly better than human W
+awesome uh thanks for taking the time
+buddy uh fly safe and I'll see you
+shortly uh ladies and gentlemen Elon
+mus thanks bud
+[Applause]
+[Music]
+and instead we open sources to the fans
+and they've just G
+[Music]
+crazy
+Bes myg taking
+[Music]
+driveway oh
+man we should all just get a room just
+have one big huge orgy cuz they're all
+useless it's like this like sexual
+tension that they just need to release
+[Music]
+Som we need to get
+[Music]
+merch I'm going all
+[Music]

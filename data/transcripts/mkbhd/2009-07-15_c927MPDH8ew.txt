@@ -1,0 +1,164 @@
+# HD Tutorial: Audio Converter [Why YOU need one]
+# https://www.youtube.com/watch?v=c927MPDH8ew
+
+[Music]
+hey what is up guys it's Marcus brownley
+here from MKBHD and welcome to another
+HD tutorial in the midst of a bunch of
+Hardware that's going to be coming up
+today or these this coming week but I
+feel like I should leave you guys with
+some more software uh so I'm bringing
+you guys another HD tutorial from the
+free Studio manager available at
+dvdvideosoft tocom and today I want to
+check out uh this free audio converter
+now I know a lot of you guys are going
+to Exile because you don't think you
+need an audio converter uh but I suggest
+you watch the whole video uh so you guys
+actually understand what I'm what I why
+I think you guys will benefit from a
+free audio converter so to get this uh
+this whole freeware manager here uh this
+is the latest version just go to
+dvdvideosoft decom you'll see the
+freeware Bundle download it and all the
+will be gray out and you go ahead and
+click on the one you want to download
+and it'll take you to a direct download
+link you install it everything and you
+are good and you have it now I don't
+want to have to explain that every time
+I do a studio a studio tutorial but I
+you know I guess I have to so once
+you've downloaded the uh the piece of
+software number 18 it'll be dark like
+this just go ahead and click on it to
+open it and it'll come up like this and
+it's very very simple just like the
+entire rest of the freeware package you
+have an input file an out folder and a
+format now it does have a lot of input
+files so if we want to go ahead and
+record something uh let's say we have
+audacity and we you know we're trying to
+make a podcast here right so we want to
+not only make a podcast but sync the
+video of the podcast uh with the audio
+so let's go ahead and record something
+real quick testing testing
+testing and once we do this we're going
+to go ahead and file and go ahead and
+save project app as now I'm sorry we're
+going to export this and we're going to
+go ahead and Export it as an
+MP3 uh actually no let's go ahead and
+Export it as a WAV because a WAV wav
+test uh doesn't actually work with a lot
+of uh a lot of programs like Movie Maker
+some certain programs like Camtasia
+studio and Sony Vegas certain ones won't
+take wav so just go ahead and save it
+and uh you can always double click on
+your wav to play play it there it is on
+our desktop double click and it'll open
+up in Windows Media Player and go ahead
+and play the testing testing 123 so now
+if we wanted to import that into
+something that doesn't take wav like I
+said you guys uh I I really do believe
+that audacity gives you better audio
+quality than if you were to record with
+Camtasia Studio 6 so if I were to do an
+unboxing video and do voice over I would
+definitely record in audacity remove the
+audio there and then import it into
+Camtasia Studio so let's go ahead and
+browse for our input file here and we
+saved it to our desktop and it is called
+wav test right there and it will take
+your wav now you go ahead and select
+your output name we're going to change
+it into uh MP3
+but uh it obviously can be changed into
+a number of other things uh and we're
+going ahead and choose an output folder
+so we're just going to put this right on
+our desktop next to the wav test and you
+guys will be able to see which is really
+cool there are a lot of formats that you
+can uh go ahead and convert this into
+including MP3 wav and WMA now Windows
+media audio is uh one of the more
+popular kinds that won't be accepted by
+a number of others uh but this uh free
+audio converter will accept WMA and
+convert it into MP3 which is really
+compatible anyway we're going to go
+ahead and choose our quality I'm going
+to go ahead and go with the high quality
+since I'm Mr podcast and everything and
+hit the convert button now it's only 2C
+file so that was done almost
+instantaneously however uh if that was a
+longer file it'll take a good 45 seconds
+to a minute and sometimes higher so we
+go ahead and close and exit out and
+there's that MP3 we just created so
+there's the wav as you can tell by the
+logo and here's the MP3 as you can tell
+by the logo and when we double click the
+MP3 it opens up in media player again
+and plays with the exact same quality uh
+and another thing is you guys can use
+your video um sorry your audio recorder
+built into Windows Vista if you go ahead
+and search recorder under uh in the
+Windows Vista start menu you'll see
+there's a sound recorder we're go ahead
+and hit the sound recorder and I'm just
+going to record something real
+quick testing testing one 2 3 testing 1
+two 3 and once we exit out of this this
+is going to save it automatically as a
+Windows media audio file a WMA and that
+is the only option so when we do save
+this as WMA and say we want to import it
+into Camtasia Studio 6 it won't work uh
+so when I do my unboxing videos and
+record it uh with the sound recorder and
+want to import it I definitely need to
+use that audio converter I just showed
+you guys uh and use go ahead and use
+that and import it into uh Camtasia
+studio now uh before you exit out I do
+plan on doing a video on syncing uh the
+good microphone audio with the bad
+microphone audio because I know the
+audio built into my my digital camera is
+complete crap and I I realized that uh
+so I will definitely do a video on how
+to use your good microphone audio uh
+even though the camera does not have an
+audio in so anyway thanks for watching
+this software video guys there will be
+more hardware and software to come so I
+hope you guys enjoy the variety that I
+present you with and please rate this
+video five stars it really does help me
+uh and it'll definitely accelerate in my
+path towards becoming a YouTube partner
+and uh helping more people so anyway uh
+thank you for watching and thank you for
+uh checking out this video and yes the
+wallpaper link will be in the
+description if you guys want to check it
+out and also I'll be tweeting out my
+wallpaper Links at my Twitter every time
+I change my wallpaper I'll go ahead and
+tweet out a link for you guys
+twitter.com
+MKBHD and that is basically it thank you
+for watching
+peace

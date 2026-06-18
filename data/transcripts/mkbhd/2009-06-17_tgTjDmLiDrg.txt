@@ -1,0 +1,133 @@
+# Youtube Update: Download your Own .mp4 Videos
+# https://www.youtube.com/watch?v=tgTjDmLiDrg
+
+[Music]
+Hey, what's up guys? It's Marcus
+Brownley here from MKBHD and welcome to
+another HD tutorial. And uh this one's
+title might look a little bit familiar
+to you guys who have been subscribed for
+a little while. Uh but recently I
+actually did a video on downloading uh
+your own or or anyone actually anyone's
+YouTube videos in the MP4 format and uh
+this was done actually using a piece of
+JavaScript I put together uh that I got
+from one of Google's blogs or forums and
+they basically uh you put it you would
+copy and paste it into the address bar
+and it would download any YouTube video
+in its highest quality in the MP4
+format. Well, now I have a bit of an
+announcement that YouTube has come out
+with a new feature. Sorry about that
+background noise. Anyway, YouTube has
+come out with a new feature which allows
+you to download your own YouTube videos
+in an MP4 format. Uh, basically they
+just built this in. Uh, YouTube's been
+having a lot of server troubles
+recently. Uh, but they've been actually
+making quite a few updates to their page
+if you didn't already notice. So, in
+order to get to this feature, all you
+got to do is hover over your name and go
+to my videos and it'll load
+YouTube.com/my_videos when you're signed
+in. and you can go to any video you've
+uploaded already and underneath it you
+will see a download MP4 button before
+these were the only buttons that were
+available. You could play the video
+which will obviously take you to the
+URL. You can edit the video which is
+basically the description of the video,
+the title, the uh the tags and anything
+else of that nature. The annotations
+button was the whole annotations editor
+and I was considering doing a uh you
+know an overview or a tutorial on that
+but we'll see how that goes. uh the
+audio swap button which is basically
+adding other uh other audio to it.
+Basically uh music vendors who have
+decided to let YouTube and Google uh
+overlay their music on your video. So
+you could use that uh insight which
+gives you you know information about
+that video and I think I will be doing
+an insight overview and uh just giving
+you guys you know everything that's
+about uh YouTube insight. Uh you can
+promote the video by hitting that
+button. You can delete the video from
+YouTube after a confirmation window. And
+now, uh, the new addition underneath
+this all is the download MP4 button. And
+what it does is, if you just click it,
+you'll see at the top, it inserts that
+quick little piece of JavaScript there.
+I don't know if you saw it. And then
+it'll come up with this uh your uh your
+actual MPEG for MP4 movie. You can hit
+the open button and it will actually
+save the title of the video as well as
+um all the description and everything
+like that. And when you hit open, it'll
+open the video in QuickTime player just
+like you uh would with the the
+JavaScript downloaded video. So, it's
+opening right now. And here it is. Uh it
+is not in the highest possible quality,
+which is the only downside. Uh if we
+show this video in full size, which
+would be normal size, I guess. Uh but if
+you show it in the full size, it's not
+the 1280x 720 that I would have expected
+YouTube uh to give your video in. So it
+will be a bit pixelated which is the
+only downside but um you are getting uh
+the best uh basically that's the
+quickest way. Uh so you are sacrificing
+a bit of quality when you do it that
+way. You're not going to get the HD out
+of it but you will get everything else.
+You'll get the audio. It'll be crisp and
+clear and everything of that nature. So
+here's the video here. It was the tech
+channel of the week. Uh so I'm just
+going to uh delete that from where I
+just uh downloaded it. But basically uh
+it is the easiest way because it saves
+the title and description of the video
+and uh you'll be able to find it uh
+anywhere on your computer just by using
+the Windows Vista search box and just
+typing in the title of the video you
+downloaded. But uh when you use the
+JavaScript way which I showed you
+earlier, I'll try to include an
+annotation for you guys. Uh you won't
+have the title and description of the
+video when you download it, but you will
+have it in the highest possible quality
+to back up on your hard drive. Uh so
+there you go guys. That's the second of
+uh the ways that I'm I'm pretty much
+aware of right now uh for you guys to
+download and back up your own MP4
+YouTube videos onto say an external hard
+drive or uh backing it up onto uh some
+service where you can back up a certain
+amount of gigs of videos or uh files or
+so. That's basically it for you guys.
+Thanks for watching this HD tutorial.
+Stay tuned for more. If you have any
+other tutorial ideas or requests, you
+can feel free to subscribe and message
+me. And I may uh consider doing a
+tutorial video for you guys or a uh a
+request video uh for anyone who feels
+that they have a good enough question.
+So, thanks for watching this one and
+have a nice day. Peace.

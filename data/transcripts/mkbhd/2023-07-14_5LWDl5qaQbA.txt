@@ -1,0 +1,358 @@
+# iOS 17 Hands-On: Top 5 Features!
+# https://www.youtube.com/watch?v=5LWDl5qaQbA
+
+[Music]
+all right another year another version
+of iOS coming to an iPhone near you it
+seems like usually these updates get
+smaller and smaller and less and less
+crazy but it feels like this year for
+whatever reason Apple has packed a ton
+of stuff into iOS 17 this is going to be
+launching in sep member when the new
+iPhone comes out on everybody's iPhone
+but it's in beta now and I've been using
+it and there's a lot of stuff here I'm
+going to try to pack it into a top five
+but it was kind of hard I've been using
+this iOS 17 beta for a few weeks now the
+public beta is out so if you want to try
+it before the new iPhone even comes out
+you can do that but let's take a look at
+the five most impressive new things that
+are coming to the iPhone but as we go
+through this I do want you to keep
+something in the back of your head just
+just keep this in mind a lot of times in
+the past those features that we'd get
+were really really big because they were
+new
+capabilities most if not all of these
+features depend on having another iPhone
+in the mix whether your friend has an
+iPhone or your family has an iPhone you
+need two iPhones for a lot of this stuff
+to work just something to keep in the
+back of your head all right so number
+five airdrop airdrop is one of those
+things it's one of those features that
+when it works it feels like it's one of
+the best things ever but sometimes it's
+glitchy and it doesn't work and it seems
+terrible so I hope some stability
+improvements are also in the works here
+but basically apple is expanding airdrop
+to be more capable and easier to use the
+big one is that if you meet another
+person who also has an iPhone uh you can
+walk up to them and bump your phones
+together you literally hold your phones
+up next to each other at uh an inch or
+two apart and it'll play this sweet
+animation as the phones talk to each
+other and transfer a contact poster with
+your name and contact info to that other
+person in a single touch it's called
+called name drops pretty cool couple
+things about this one uh is it lets you
+actually choose which info you want to
+share so you you do that phone bump
+thing and it goes oh you want to share
+something do you want to share just your
+phone number okay cool do you want to
+share your email address and not your
+phone number you can switch it over to
+that want to share a fake number sure
+program that in too this will all come
+from the my card at the top of contact
+settings that you can customize with
+whatever photo you want whatever fonts
+you want Etc and everything you change
+will show up to people that have you in
+their contacts what's cooler though is
+you can actually Now bump to share
+photos or videos or content links uh or
+even start a share play session
+basically it's making it easier to find
+a certain iPhone on AirPlay by getting
+it roughly within NFC distance of
+another iPhone and then you can share
+stuff and then another cool thing
+typically uh airdrop is a Wi-Fi Direct
+connection between two iPhones but if
+you leave each other if you you walk
+away down the street and you want to
+continue this file transfer that hasn't
+finished yet it will resume over
+cellular so it'll start uploading to
+Cellular and their phone will download
+and you can just walk away and the
+airdrop should finish I don't know if
+you remember an app from a while back
+called bump this was in like
+2009 it was literally just an app to
+bump phones together to share contact
+information Google ended up buying them
+but I do have a feeling that if they
+still existed now this would be a sort
+of a Sherlock situ situation just
+another example of the rora fish to
+Apple shark if that reference doesn't
+make any sense I'll leave a video link
+below to the video that I did comparing
+Apple to sharks it's a it it makes sense
+when you watch the video I promise so
+anyway number four is a feature called
+personal voice so this one's an
+accessibility setting it's not even
+something that they talked about on
+stage this is something that is not
+meant for most people to use but it's
+pretty cool anyway so in settings and
+accessibility you scroll down to the
+speech section that's new here and
+there's something called personal voice
+and you'll see a button that says create
+a personal voice basically what's going
+to happen is your phone's going to ask
+you to take it to a quiet place and then
+it's going to display a number of
+phrases on the screen and it'll ask you
+to say those phrases into the microphone
+it's 150 phrases they're pretty random
+it'll be like Sally sold seashells in
+1979 and the president of Morocco is
+very tall it's and you just go through
+the list and you say a bunch of these
+phrases and when it's done it comp piles
+all of your voice and will stitch
+together a new synthesized voice that
+can say whatever you want to make it say
+it does all of this locally on device so
+it has no servers involved it doesn't
+send your voice recordings everywhere it
+does all of the compilation over night
+and at the end of this you basically get
+a new voice on your phone you can go to
+accessibility settings and then enable
+live speech so that on the triple tap of
+a power button it brings up a text block
+and you can type whatever ever you
+whatever you want to make the voice say
+and then just hit send a quick brown fox
+jumped over the lazy
+dob that's all right let's try another
+one here a little more substance 30
+frames per second is the correct frame
+rate and anyone who says otherwise is
+probably lying to
+you it kind of sounds like me it means
+it's decently good I wouldn't I wouldn't
+pass it off as human if I like played
+this recording to you you wouldn't think
+it's a person but it kind of sounds like
+I'm talking on the phone to someone and
+it kind of has a poor connection you
+know but this isn't some mainstream
+feature like I said it's an
+accessibility settings for a reason this
+is designed for people who may know that
+they are at risk of losing their voice
+at some point or maybe their vocal cords
+fatigue after a long time there are
+conditions like that MTD is a common one
+and so they can sort of go through this
+process and create a voice on their
+phone so that they can continue to
+interact with the world without using
+some generic Siri voice and it actually
+kind of still sounds like them all right
+let's move on to the next next bullet
+point number three the little things the
+little things Apple Apple's always
+tweaking and adding little features here
+and there to their stock apps especially
+there's a bunch of those this time
+around and in total you could say they
+add up to a welcome refinement uh you
+probably heard about the new keyboard
+which looks the same but should be way
+Smarter with Transformer based auto
+correct and improved dictation it's much
+faster dictation actually oh and also
+that thing where you're typing a word
+and then you spell it a little bit
+different and then you hit space and it
+corrects you and then you hit backspace
+and type it the way you want again and
+hit space and it corrects you again and
+it doesn't seem to
+learn they fixed that also widgets are
+thankfully interactive now the whole
+point of a widget I always thought was
+to be able to view and interact with
+information without jumping into the app
+which is trying to suck you in I'm
+surprised it took this long but I am
+happy to finally see that here there's
+also now a bunch of new messages
+features including one called checkin
+this is good for I think either kids or
+maybe significant others or friends you
+know the dance you do where someone's
+going somewhere and you're like all
+right text me when you get there and
+then you wait for them to text you back
+or you can share location or you just
+have them text you when they arrive now
+there's just a feature built in you just
+hit the plus button you go to checkin
+whoever is going to be checked in on can
+decide who to share their location with
+how much data they want to share and
+then there's this nice little tracker
+that updates you and lets them know when
+they've arrived where they're supposed
+to and there's a bunch of other little
+stuff like that sort of sprinkled around
+the OS no doubt you've noticed still a
+lot of these depend on also having a
+friend with an iPhone iPhone that's how
+most of this works but you know if you
+do have that ecosystem in your life then
+yeah there's a bunch of good stuff that
+adds up to a good welcome Improvement
+good little stuff so all right number
+two is called standby mode so when I
+first saw this feature I thought it was
+really interesting but now I've thought
+about this a lot the more I think about
+it I have this so high on the list
+because I think genuinely this is better
+than a hod for most people who already
+have an iPhone basically it's a smart
+home display so anytime your iPhone is
+both charging and horizontal it triggers
+the standby mode which is basically a
+clock and then whatever useful Widgets
+or photos you want to have in the
+background it really reminds me of the
+Apple watch it kind of has a bunch of
+these preset layouts and then you can
+literally swipe between these three
+faces to find the one you like and then
+swipe vertically to go through the
+different styles uh so a lot of these
+yeah will look just like an Apple Watch
+face but yeah to be honest very useful
+so that's already pretty convenient you
+can kind of just have it display
+information ambiently to you whether
+it's on a nightstand or in your kitchen
+whatever but then on top of that what
+makes it much more homod like uh is the
+fact that Siri is better in two ways
+first of all it's conversational so you
+don't have to keep hitting the button
+over and over again to keep asking a
+questions or follow-ups you can just
+keep talking and it keeps listening
+which is great the other's been doing
+that forever and then the other is you
+don't have to say hey her name you can
+just say Siri what's the weather in
+Manchester on
+Saturday expect rain in Manchester
+United Kingdom on Saturday daytime
+temperatures will H around
+67° with overnight lows around
+57 what about
+Sunday expect rain in Manchester United
+Kingdom on
+Sunday thank you you're welcome and then
+it sort of stops listening but the idea
+is it's just going to keep listening and
+talking to you and that's better than
+before also that weather is not great
+for golf but I don't know we'll make it
+work either way big improvements to Siri
+there that's what makes it feel kind of
+like a you know a smart home display now
+if only they could make Siri actually
+good at other things so then number one
+the top new feature in iOS 17 I think uh
+we forget our phones are still phones
+sometimes but it's the phone app
+actually I'm combining um combining the
+phone app and FaceTime but generally
+there's a lot of nice features that sort
+of just make it easy to clean up and
+have a better phone experience first of
+all are the contact posters like I
+mentioned earlier you set up your own
+contact poster and then everyone else
+who has you in their contacts gets that
+updated in their phone at least if if
+they have an iPhone but then yeah
+whenever you call someone that's what
+they see and this sort of automatically
+cleans up everyone's contacts with a
+nice photo I know for for one I
+basically have no photos for anyone in
+my cont contacts list outside of my
+family so this is a nice effortless
+Improvement for that and then another
+fun piece is if someone calls you and
+you don't pick up and it starts going to
+voicemail you will actually get a live
+transcription of the voicemail as
+they're leaving it and if you want to
+interrupt and pick it up at any time you
+still can some of you are too young to
+know that that's actually a throwback to
+physical answering machines that were in
+people's houses where you could actually
+hear someone leaving you voicemail and
+then pick up the phone and interrupt it
+and actually talk to them just I'm old
+now so I get to say stuff like that but
+also FaceTime gets uh voicemail too
+which you might be thinking wait it's
+FaceTime it's a video so what is a
+FaceTime voicemail uh and it's literally
+just a video message so like if you're
+about to FaceTime someone and show them
+something but then they don't pick up
+you'll just you know record your video
+and then send them the voicemail and
+then it shows up inside the FaceTime
+inbox which is cool but there you go
+that is it that's that is the iOS 17
+biggest stuff honestly I think this is
+one of the biggest best updates to iOS
+in a long time and somehow there's still
+a bunch of little stuff I didn't even
+mention from camera effects to you know
+stickers all over iMessage and stuff to
+Safari getting profiles now there's a
+lot of stuff but again now that we've
+gone through all of it don't forget
+about how many of these things are
+intentionally just for people with
+another iPhone in their life whether
+it's a friend with an iPhone or a family
+member with an iPhone or you just met
+someone with an iPhone from name drop to
+share play to all the iMessage features
+the contact cards the FaceTime features
+that's the ecosystem at work that's them
+going hey this is a cool new feature but
+it'll only work if your friend also has
+an iPhone so maybe you pressure them
+into getting an iPhone too either way
+that's it feel free to share this video
+with others who will probably have this
+software update on their phone sometime
+soon and until the next one catch you
+guys later peace
+no

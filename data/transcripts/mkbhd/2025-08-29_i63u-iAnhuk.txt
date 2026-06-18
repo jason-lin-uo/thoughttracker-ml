@@ -1,0 +1,557 @@
+# Pixel 10/Pro Review: Good News and Bad News!
+# https://www.youtube.com/watch?v=i63u-iAnhuk
+
+[Music]
+All right. Uh, I have good news and bad
+news. Which do you want first?
+The good news. Great. Good call. Uh,
+it's still a pixel.
+The bad news.
+It is still a pixel.
+[Music]
+See, the Pixel 10 has had some high
+hopes and some hype behind it for the
+past couple months. You know, it's the
+10th generation. It could be special.
+The first one with a TSMC chip could be
+special. Some other things could be
+revamped alongside Android 16. Like, it
+was looking really promising to
+potentially reboot the whole Pixel thing
+to finally have it really competing with
+flagships. Now, instead, it is very much
+all the things we liked and all the
+things we disliked about the Pixel
+already, but the competing with
+flagships part is coming in the form of
+a mainstream marketing push, a Jimmy
+Fallon presentation, a Jonas Brothers
+music video. I can't say I would have
+spent the money the exact same way if I
+was in charge of the Pixel program, but
+hey, that's why I'm the reviewer and
+they're the Google executives. So,
+unlike the event, let's just focus on
+the phones. So, this thing is very
+similar to last year in design, in
+materials, and in character. Like the
+camera visor, the glossy glass back with
+the satin aluminum sides, and vice versa
+on the Pro phones. Even as an enthusiast
+about this stuff, you could probably
+show me a Pixel 9, and unless I knew
+exactly which one was the new gray
+color, it could be easily mistaken for
+the new one. And to me, honestly, that's
+fine. I love this design. The camera bar
+is nice for holding the phone. It
+gathers some dust, sure, but you'll
+probably also have a case on your phone.
+Great clicky buttons, great haptics. All
+these things are still true about the
+Pixel. The bad news, though, is that the
+things that the Pixels of the past have
+been lacking, this one is still lacking.
+Pixels have never had the biggest
+numbers or the most bleeding edge
+hardware. And these Pixel 10s are still
+Pixels. So, they don't have super fast
+charging. They don't have a brand new
+massive silicon carbon battery. They
+don't have huge new camera sensors or
+record-breaking displays. My personal
+biggest annoyance with the Pixel 9 was
+the optical unerscreen fingerprint
+reader was kind of slow. This Pixel 10
+actually does have an ultrasonic
+fingerprint reader now and it's faster
+than Pixel 9, but just a slight beat
+behind the other ultrasonic flagships
+now, but that counts as technically new.
+So, hey, while we're at it, here's
+everything that's technically new with
+the Pixel 10s and my take on them. The
+main new thing is we get a full triple
+cameras on the base phone and I'll get
+more into the quality of those cameras
+in a minute. So that is a nice
+inclusion. After that, it's a bunch of
+subtle things that sort of combined to
+make it feel a little more flagshipy,
+but without actually leaprogging into
+ultra territory. So the fingerprint
+reader, like I said, is ultrasonic now
+and slightly faster. And the display
+that it's built into is a bit brighter,
+too. So it looks better outdoors. The
+bezels didn't get thinner, uh, but
+there's little grills now over the
+slightly better speakers at the bottom
+of the phone that are color matched to
+the metal now. Cool. And the physical
+SIM card tray is now completely gone.
+This phone in the US is ei
+not my favorite thing. Only the carriers
+win with this. And to be fair, maybe I'm
+overindexing this just a little bit
+because I test a lot of phones. I move
+my physical SIM card really quickly
+between lots of phones. It takes like 10
+seconds to switch and test something out
+real quick. So, I don't like this at
+all. But yeah, eim only. The batteries
+are about 200 mAh larger in these phones
+across the lineup. That's a nice win.
+But the internals that are going to make
+a real difference that people are
+actually going to care about are Tensor
+and Pixel Snap. So, all right, we got to
+talk about this new Tensor chip. Google
+phones for years have used off-the-shelf
+chips from Qualcomm, which made sense.
+They were great. And then the Pixel 6
+was the first one to use their in-house
+design Tensor chip instead. And the
+promise of Tensor was never really
+clear, but the idea was to give Google
+much more control over these chips and
+for optimizing for exactly what they
+want to get out of a Pixel. The thing
+is, the first Tensor chip wasn't that
+good. Actually, it was so weak that it
+had people considering if they should
+have even left Qualcomm in the first
+place. But, you know, we got to let them
+cook for a little bit, right? Let them
+develop this idea. And so, a couple
+generations in, all of these first few
+tensor chips were sort of co-designed
+with Google and Samsung, and it was
+heavily based off of an Exos chip and
+actually still fabricated by Samsung. So
+fast forward to today, the Pixel 10 is
+powered by a Tensor G5 chip, the first
+version of a totally Googled designed
+Tensor chip on a 3nm process and
+manufactured straight by TSMC, which
+seems like the perfect opportunity to
+make a huge leap in power, in
+efficiency, in achieving the original
+mission of doing their own Tensor chip.
+And it turns out it's good. It's a
+really good chip, but it's not magic.
+The main complaint that I and other
+Redditors would have about tensor chips
+of the past was that there were simply
+not flagship level power of CPU and GPU.
+And this is a $1,000 phone. Like for
+this price, I could just get a Galaxy
+S25 Plus and have a Snapdragon 8 Elite
+or an iPhone 16 with an A18. So, this
+new Tensor G5 is more performant than
+before, but it's not miraculously
+jumping all the way to the level of the
+Snapdragon 8 Elites of the world. And
+I'm starting to think that's not even
+really one of its goals. Tensor G5
+benchmarks like a mid-range phone. Like,
+the CPU is about 30% better than last
+generation, but is a solid amount still
+behind the Snapdragon chips in Samsung
+phones. And it's closer to like the 8S
+Gen 4, the one in the Nothing Phone 3.
+And the GPU, the GPU gap, if my
+benchmarks are correct, are even bigger.
+For some reason, Geekbench 6 OpenGL
+scores are literally half of the Pixel
+9's and a full like 600% behind the
+Snapdragon 8 Elite. Jesus. Its strongest
+area though is definitely the TPU where
+this one is 60% more powerful than last
+generation. And that is intentional.
+This is the tensor processing unit
+that's specifically designed to
+accelerate machine learning and AI
+related tasks like running on device
+models, editing photos, etc. This is
+what Google has decided is most
+important to them with these phones and
+these chips. They want them to be the
+fastest and most capable AI devices. So,
+in the real world, performance-wise,
+this Pixel 10, it is a really smooth
+phone with everyday tasks. I've been
+flying around Android 16, multitasking,
+flying through apps, high refresh rate
+is always on, not even really thinking
+about it too much. It's been very fluid.
+I will say though, when I went in after
+a few days into display settings and
+flipped from high resolution to max
+resolution, things sharpen up a bit, but
+the phone also did get slightly, just
+barely noticeably slower. Just a few
+dropped frames here and there, which I
+didn't expect. And I would also not be
+shocked at all if you did head-to-head
+comparisons with graphically intense
+games and frame rate measurements of the
+Pixel 10 fall far behind the higher,
+more powerful GPU chips. It also lacks
+hardware accelerated rate tracing.
+That's just not the big strength of this
+phone. Never has been, and it's still a
+Pixel, so I'm not expecting it ever will
+be. What I can say is at least the
+battery life for my use has been solid.
+It's been solid. I've been mostly
+testing the Pixel 10 Pro, not the XL.
+So, even on a regular size phone, I'm
+getting all day battery near dead by the
+end of the day, but like six hours of
+screen on time and high brightness and
+all that. So, it's been decently
+efficient. My main concern is now
+shifting to how well this phone will
+age. So, maybe trying to come back to
+this in 6 months, 1 year, 2 years, just
+to see how well this does compared to
+previous Pixels. But for now, the Tensor
+chip, it's not some miraculous savior
+that makes it an ultra flagship, but
+good chip. Good chip. You know what's
+really good though? Pixel snap. It
+sounds silly, but this has genuinely
+become one of my favorite new features
+about the Pixel 10s. It's just such a
+quality of life improvement, especially
+as someone who is a card carrying member
+of team no case. So, these phones have
+G2 wireless charging now, and it's only
+at 15 watts or 25 on the XL, but it's so
+incredibly convenient to just be able to
+slap the Pixel onto any of my existing
+MagSafe accessories. navigating with the
+phone in the dash in the morning,
+dropping the phone on a wireless charger
+on my desk where they automatically
+align, keeping it topped up on a long
+travel trip with my Ridge power bank.
+Even if you aren't someone with a bunch
+of existing MagSafe stuff sitting
+around, it just opens you up to this
+massive world of options for magnetic
+accessories for things you can attach to
+your phone or things you can attach your
+phone to. And I even think this is
+actually slightly stronger than MagSafe
+magnets on the iPhone, at least with the
+first party Google accessories they've
+optimized, like with this Pixel Ring
+stand I got to try. Honestly, this was
+the perfect addition to this phone. It's
+like it it was already a phone that
+didn't have very fast wireless charging,
+and so it still doesn't have very fast
+wireless charging, but it just gained a
+ton of functionality. Thumbs up. The two
+things that always make a Pixel a Pixel
+though, well, that would be the cameras
+and the software. So, I have good news
+and bad news again. Which do you want
+first?
+The good news classic uh yeah that the
+software is still awesome. These phones
+all ship with Android 16 out the box.
+All the fun material 3 expressive
+updates, the fun smart wallpaper cutout
+effects, the animations, the haptics,
+the notification jiggle physics, all
+this stuff. There's some weird stuff
+that's not all perfect. Like I don't
+love how massive some of the buttons are
+getting. Like okay, maybe the alarm app
+one makes sense. Fine. make those
+bigger. But the weather app, like this
+list of locations has such massive gaps
+now, so much dead white space between
+them. Or the phone app now, too. They're
+making these buttons huge. This new
+Gmail app, these archive buttons are
+absolutely massive. And look at this
+stopwatch. Jesus. But, you know, for the
+most part, I'm loving how colorful and
+clean and fluid everything has been. And
+there's so many little things you can
+tweak and poke around and have fun with.
+Trust me, just watch a few YouTube
+tutorials on how to set up the perfect
+quick settings or have the ultimate all
+widgets home screen setup. It's awesome.
+Super flexible. You're welcome. And then
+there's all the AI stuff on top as well
+because you know, Google. And there's a
+lot of this stuff that sort of just pops
+up as you start using this phone and you
+can choose to engage with it or just
+kind of ignore it if you're not into it.
+But any one of these features could turn
+out to be that awesome thing that makes
+you want to stick with the Pixel like
+call screening or now playing. And so
+the big new one on the Pixel 10s that's
+got its own section in the settings and
+everything is called Magic Q. And this
+Magic Q, it's a very Google thing that's
+supposed to take data from across your
+different apps and services and then
+surface them where you need them. At
+least that's what it's supposed to do.
+Now, I was using this phone and trying
+to get it to work. Like, I was lobbing
+up perfect situations for it to kick in
+and read my Gmail or read my calendar
+and then give me the perfect text to
+send back. But, it rarely seemed to work
+exactly the way I wanted it to, like it
+did in my original demos. The thing it
+did the most often was it just kept
+giving me a link back to like open my
+calendar and check for the information
+myself, which is still kind of helpful,
+but only half as helpful as advertised.
+I have all the settings turned on. So,
+it's supposed to be able to look into
+any of these apps, screenshots, email,
+messages, also keep and contacts, and
+calendar to return the answer to the
+question pulled from inside the app. A
+few times I did actually get that to
+work for me, but sometimes it was wrong.
+Like I have Andrew asking me for my
+flight info next week, but it's giving
+me the info to the flight I have this
+week. And that would be fine if I could
+go edit it before I send it. But if I
+click it, it just sends the whole thing
+automatically. And it doesn't also
+include some of the information I would
+think you want, like the flight number.
+I can see the promise here. It's just it
+feels like it's still a work in
+progress. The other thing though that I
+found uh pretty interesting was
+conversational editing. It actually is
+coming to all phones with Google Photos.
+So, it's not just like a specific pixel
+thing. So, I won't spend too much time
+on it, but it's potentially a game
+changer because it's semantic photo
+editing from text prompts. So, it
+understands what you're asking for and
+then does the editing for you from
+simple stuff like, you know, brighten up
+the faces or remove the road sign or
+even just make this picture better,
+which usually does like a nice crop and
+centers it around the subject and evens
+out the exposure. but all the way up to
+complicated stuff, too. Like, add a hot
+air balloon to the sky. It'll do that.
+Or delete the cars and make the sky
+bluer. And then it does it. It just does
+a surprisingly good job just from
+hearing what you said. Uh, Google,
+genuine question. Is video editing next?
+Is that even possible? Should I be
+concerned? Excited?
+I don't know. We'll see. There's a
+couple other things like the journal app
+and notebook LM which are both
+pre-installed on these phones. Also,
+daily briefs was next to useless for me.
+Like it's supposed to be tailored to me
+and relevant to my day. But yeah, that's
+that's not really a ton of useful
+information here. But overall, like I
+said, the software is really good. And
+if there's anything that pops up that
+you don't like, you can literally just
+ignore it. So that is the good news.
+So then the bad news, the cameras. And
+this is where it kind of gets a little
+bit weird. It's not like they're bad
+cameras, but the bad news is that it
+does feel like the cameras are slipping
+a little bit. The Pixel has leaned
+heavily on elite software processing for
+years. They surprise never really had
+the biggest sensors or the best
+hardware, but they pioneered HDR Plus.
+and the Pixel camera always had this
+sort of confident, contrasty look to it.
+This generation of phones, it still has
+that look, but objectively speaking,
+like these cameras, they just don't
+stand out from the pack nearly as much
+anymore, and in some ways, they're kind
+of falling behind a bit. Now, triple
+cameras, like I said, are awesome to
+have on the base phone. So, that 48
+megapixel main camera, the ultrawide,
+and the telephoto is a 5x. And then the
+Pros have a bigger 50 megapixel main
+camera, a bigger, higher resolution
+ultrawide, and a bigger higher
+resolution 5x telephoto as well. So,
+regular wide shots from the Pixel 10 and
+10 Pro, they look great. You know, sure,
+the sensor is a little smaller on the
+base one, but they both do a great job
+with sharpness and dynamic range and
+lots of detail and usually pretty great
+color, too. They have that look. Night
+sight is still elite, but past that,
+it's just not good at any type of zoom
+like I was hoping it would be. The ultra
+wide is okay, but usually pretty soft
+around the edges with a bit more
+chromatic aberration that I'm used to
+seeing. And then trying to zoom in was
+like just surprisingly bad. At least
+compared to other flagships with decent
+zoom. Almost every photo I've taken,
+even on these Pros that's zoomed in, is
+just soft. like colors would be fine and
+it's bright enough and it's not a
+terrible image. Mission still
+accomplished, I guess. But like this
+super res zoom feature on the pros that
+kicks in for everything past 30x really
+feels like it encourages me to take a
+bunch of zoom photos because once I do,
+it'll run it through the processing and
+sharpen things up and resolve detail out
+of thin air with a little machine
+learning. But yeah, the results just
+weren't that great. I didn't even go all
+the way to 100x. All the pictures I'm
+taking are like 30 to 50x
+and they kind of look like they have a
+cartoon filter over them, even compared
+to a pretty mediocre zoom like the
+iPhone 16 Pro. And it gets absolutely
+smoked by a good zoom like the S25
+Ultra, even though that's more
+expensive. Maybe I shouldn't be
+complaining about 50x zoom photos. Maybe
+nobody cares. But the sweet spot for
+zoom is definitely like 5 to 10x or a
+little past that maybe. And then the
+wide photos are still obviously really
+good. It's just the gaps in zoom
+performance are a little weird
+considering how much it seems to
+encourage me to take zoom photos. And
+then there's video performance which is
+still also beat behind the flagships. If
+you want to see samples, I'm planning on
+shooting the next autofocus video on the
+Lucid Gravity on this phone. So if you
+care about either Pixel 10 Pro video or
+the newest very impressive Lucid SUV,
+get subscribed over there. I'll drop a
+link below the like button. But yeah,
+it'll be all the A-roll shots and then
+the B-roll will still be from the iPhone
+so you can compare the two. So the Pixel
+10, it's still a Pixel. It feels like
+the Pixel is a finished slashcomplete
+thought for now just based on the way
+Google's acting and and working around
+this phone. And they're not making any
+big philosophical changes to the way
+they attack making a Google phone.
+They're just trying again to take it to
+the masses. So, if you didn't like the
+Pixel last year for certain reasons,
+like, you know, oh, it's not the best
+hardware or it's not the most powerful,
+then you still won't like the Pixel. But
+if you love the Pixel of previous years
+cuz, oh, it's this cool design that you
+like or it's got great stills or awesome
+software, then you'll love this Pixel,
+too. Google's path of trying to bring
+the Pixel to the masses is definitely
+challenging. Maybe they really believe
+in Jimmy Fallon and the other celebrity
+endorsements that will be their savior
+and finally make it happen. Me
+personally, I think the other half of
+their strategy of like directly
+addressing the masses that are on
+iPhones here and and giving them reasons
+to switch with like pixel snap and other
+directly competitive parallel features.
+I think that is far more interesting.
+And I I did just make an entire video
+about this, so I'll link this below if
+you haven't seen that yet. But the Pixel
+still being a Pixel to me is mostly good
+news. I really like the Pixel. I'm
+probably going to switch to this
+Moonstone Pixel 10 Pro as my main daily
+driver phone. And then I'm probably
+going to switch off of it to something
+with more tempting, interesting hardware
+features. And then I'll probably switch
+back when I get bored with the other
+weird software experiences and I want
+this feeling again. And then I'll
+probably switch off of it again when it
+starts aging poorly. I don't really
+know. The Pixel is right where it's
+always been. But you know what's not
+where it's always been? New products
+from channel sponsor Ridge. like the new
+magnetic power bank that works with
+Pixel Snap. See, Ridge has been in the
+everyday carry scene for years. But when
+I joined the team, we wanted to add a
+little more tech to their lineup. So,
+they created the Ridge magnetic power
+bank. It's a 10,000 mAh portable battery
+bank that has five different ways to
+charge your tech. With Pixel Snap, you
+can seamlessly connect it to your back
+of your phone and charge wirelessly. Or,
+if you want, you can use the built-in
+wires for 20 watt wired charging to top
+up a little faster. And it even has a
+nice kickstand, so you'll be able to
+tackle any long plane ride without
+having to sweat your battery life. And
+you might be wondering, why do I need a
+lightning cable if I'm a Pixel user? And
+let's be real, you probably have some
+eye friends. They're probably all caught
+up in their Blue Bubble world, forgot to
+pack their charger. So, if you're
+feeling nice, you can help them top up,
+too. And my favorite part is you can
+charge multiple devices at the same time
+with passrough. So, this ends up being a
+nice little one-stop shop for travel
+charging. It comes in three sweet
+colors: base camp orange and also matte
+olive. and the obvious choice, matte
+black. And if you don't love it within
+99 days, send it back. No questions
+asked. So head over to ridge.com/mkbhd
+to get 10% off your orders. And
+remember, every dollar you spend until
+September 15th is more entries in the
+Ridge Summer Sweepstakes. Thanks for
+watching. Catch you guys in the next
+one. Peace.

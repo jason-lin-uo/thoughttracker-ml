@@ -1,0 +1,387 @@
+# “The Biggest Android Update Ever”
+# https://www.youtube.com/watch?v=eFeDpUVEy48
+
+All
+right, so Google themselves hyped up
+this week's preio Android show as the
+biggest updates to Android ever, which
+is a really high bar to set. But they
+then went on to announce a bunch of
+stuff from Android 17 to a new Android
+Auto to Google Books, not to be confused
+with Google Books. So, I'm going to show
+you what's good, what's new, what's meh,
+and what's a bit overhyped, I think. So,
+I'm going to start with Android 17, just
+because every year, you know, updates to
+Android get smaller and smaller and more
+incremental. So, I was really curious to
+see what they were going to get so hyped
+about. Uh, this year, it's not a visual
+redesign, but there are some added
+features. And then there's some Gemini
+stuff sprinkled on top. And spoiler
+alert, that's the stuff that they're so
+hyped about. That's the stuff that makes
+them say it's the biggest Android update
+ever. Um, I have some thoughts. We'll
+get to that. But, a couple neat things
+in Android. The Gemini interface is
+redesigned to look a little different, a
+little sparklier, but also briefly very
+blurred around the edges before it
+sharpens up. Uh, but it also says
+concept UI subject to change. So, I
+guess I shouldn't go too hard on this
+just yet. Uh, autofill will expand to be
+better by including information that it
+can parse from other Google services
+like Gmail, wallet, photos, etc. So, it
+can already, you know, put in your name
+and address and the classic stuff, phone
+number when it fills out forms. But
+let's say you're filling out a weird
+form that also is asking for your
+passport number for some reason. Well,
+if you have a photo of your passport in
+Google Photos, it can actually pull that
+out and automatically paste it in there
+without you having to go to photos, find
+the picture, and then go back and forth.
+So, that's nice. And then there's also
+some new creator tools to be built
+directly into Android, like more image
+processing compatibility so that it
+matches what we see coming from iPhones
+and cutting you out and letting you talk
+over whatever's on your screen, which is
+a super popular format that we've seen
+all over Instagram and Tik Tok. So, you
+can do that now built into Android. But
+then they also showed us this new smart
+enhance for photos and videos, I
+believe, that can, in their own words,
+uh, reveal breathtaking detail and
+clarity that you didn't even know could
+be there. And then they showed a before
+and after going from this to this. And
+Jesus Christ, just no, no, no. This, it
+looks worse. I'm telling you, it looks
+worse. I know it's it's brighter and
+people typically like a brighter image
+in a sidebyside and I know there's
+technically more detail in the shadows
+and probably in the highlights too, but
+now it's you're creating this like flat
+featureless image without a hint of
+contrast or shadows or anything. It's
+just it looks worse. This is exactly
+what I was talking about in literally my
+last video about smartphone cameras and
+image processing. I'll link it below the
+like button if you haven't already seen
+it. You can go watch it. This is what
+I'm talking about. But then there's this
+new feature. There's this new uh digital
+well-being feature called pause point
+and it's actually kind of interesting.
+So, you know the digital well-being
+stuff. Obviously, you've probably heard
+of screen time. So, if you've set a
+limit to how much you can use a certain
+app during a day, you hit that limit, it
+kicks you out unless you bypass it. But,
+this is a bit of a different take on
+that. This is basically when you go to
+open one of those apps, it'll pause you
+for a second and ask you like, is this
+is this really what you want to do? Is
+this how you want to spend your time
+right now? It can even give you various
+prompts like taking a deep breath or
+showing some different apps that you can
+open instead or literally swipe through
+some custom photos to remind you to go
+touch some grass along with showing how
+long you've already used this app today,
+which is hilarious. I don't know if this
+is going to work any better than the
+other screen time tools, but it's
+different. It's a different take on it.
+So, I'll give them credit for that. It's
+interesting. There's some other more
+expanded emojis, and there's also better
+speechtoext called Rambler. I don't know
+why they name it, but it's just better.
+It removes a lot of filler words like
+ums and likes and neatly stitches
+together everything you said into a
+single coherent thought, which is nice.
+We don't exactly know when all these
+features are actually coming out, but
+they did do the thing that they've done
+many times in the past at a Google
+presentation, which is they say this
+will all be available first on Samsung
+Galaxy and Google Pixel phones. They've
+done this many times before, but it'll
+be later this summer. So, whenever they
+do come out, those will be the first
+devices to have it. definitely get
+subscribed to see the first hands-on and
+actual review video, which I always do
+when there's a new version of Android
+for when that comes out. But then
+there's the AI stuff, too, the Gemini
+stuff. And I I expect to see a lot more
+Gemini on stage next week at Google IO,
+but there's already some big stuff here.
+and they're calling a lot of it Gemini
+Intelligence and branding it as a new
+intelligence system which is really
+becoming a very Google thing to do which
+is like giving it a new name even though
+it's just some new features and updates
+on top of what already exists. But the
+idea is Gemini is going to be using what
+it knows about you across the system and
+across a bunch of other Google services
+to be able to help you out. And it's
+agentic, so it can actually take actions
+for you and do things on your behalf if
+you ask it to. Now, I know agentic AI
+has been a pretty big focus of a lot of
+these models and systems for the
+especially the past year or so. And
+Google is making some pretty big
+promises about what it wants these
+things to be able to do. But I'm really
+I'm not sure how I feel about some of
+these promises to be honest. Like one of
+the promo videos has this scene in it,
+right? So, a guy just walks up to take a
+picture of a concert promo poster, texts
+somebody about it, then they agree they
+want to go. So, Gemini Intelligence pops
+up this button that says book two floor
+seats to this concert and you click it
+and then it just says buying tickets and
+then tickets purchased. And that that's
+it. You just that's the whole thing.
+That I feel like that can't be that
+can't be the whole thing, right? But
+this this isn't new. Like this has
+always been a challenge to these like
+promo videos. are trying to make an ad
+with like the most relatable
+convenient thing that you want AI to do
+for you. Oh, help me plan my vacation to
+Italy. Give me an itinerary and then
+I'll just follow it blindly. But I just
+I I don't trust AI to get that all
+right. And maybe it's just because I've
+seen previous generative AI things get
+stuff wrong in the past or hallucinate
+insane things like we've talked about,
+but I just I don't think there's going
+to be a a one-click buy me these floor
+seats at a concert button that I would
+trust to press and it'll get everything
+right. Everything everything right. It's
+going to get the right seats. What if it
+gets the wrong dates or the wrong venue
+or or the wrong What if the price is not
+what I expected it to be? So, I tweeted
+this just to make sure I'm not insane,
+you know, asking if anyone else would
+trust this. And about 99 out of every
+hundred replies were just like,
+"Absolutely not. I would also not trust
+this button." One of the replies though
+was deer bone from Google saying there
+should actually be more steps in the
+checkout process. They couldn't fit it
+all in the promo video. And I I would
+really like to see these steps, right?
+because maybe maybe it still would let
+me like pick the date and and verify the
+exact location and make sure
+everything's correct and set a price
+that I'm willing to pay. In which case,
+it let me do all the same stuff without
+having to go to the ticket master
+website, which honestly is that that's
+still a win. But until I see that whole
+flow, I'm definitely in the skeptical
+category because as of right now, this
+counts as like advertising a thing, a
+one-click thing that doesn't actually
+exist. But Gemini Intelligence will also
+let you make custom widgets, which I
+thought was really convenient. Like
+literally just a temporary widget for
+something like a trip you're about to be
+on or some event you've got coming up,
+where again, it sorts through everything
+it knows about that trip through the
+services it's connected to, like the
+weather and the flight information.
+Basically, you choose exactly what you
+want to show up and it makes a widget
+for you. And then when you're done, you
+can just get rid of it. And this
+specifically, I think, is one of the
+best strengths of Android. not just like
+this one example, but the ability to do
+a lot of customization and do a ton of
+detailed personalization inside of
+something without knowing exactly how to
+do it. Like we've had this ability in
+Google Home before where there's a ton
+of, you know, most people just do like
+the one-click light bulb, you know, very
+simple stuff, but there's also tons of
+automations built in. And if you don't
+know how to use it, you might never
+touch it. But if AI can let you with
+natural language just ask it to, hey,
+turn on the light and the AC when I get
+home and do these two or three other
+settings and change all this stuff and
+then it just builds the automation for
+you. That's a huge win. So, this is
+another example of that. A custom widget
+for even someone like me would take
+quite a bit of time. Okay, find the
+right app, find the right customization
+settings, build exactly the way you want
+it to be. But if you can just ask it to
+build the widget for you and it does it,
+that's a win. Now, Android Auto got a
+big update as well. The biggest one is
+probably just the visual overhaul. It
+looks a lot like a response to all those
+Apple Maps versus Google Maps
+comparisons we've been seeing for the
+last couple years now because it's now
+much more visually modern. Plus, it
+shows useful information, too. Like,
+there's building silhouettes, which can
+help. There's overpasses and even
+specific lane guidance so you know which
+lane you're supposed to be in for an
+upcoming direction. And then there's
+also the app drawer swipe over from the
+left side or the widgets that live over
+to the right side which again are fully
+customizable. So we love to see that.
+Plus all the Gemini Intelligence
+features like making your own widget or
+magic queue if it works should still be
+here. So that's useful. And then maybe
+the most interesting feature, at least
+to me, was the ability to not only adapt
+to whatever screen is in your car, but
+then you can play full screen YouTube
+videos in HD on the screen of the car
+while you're parked. While you're
+parked. Uh, which sounds insane, but you
+know, if you're an electric car, you
+know, you might sit there and charge for
+like 30, 40 minutes. So, that seems like
+a reasonable thing to want to do. But
+then when you go to drive away, the
+video smoothly slides over to disappear,
+not be distracting anymore, but it
+becomes automatically a background audio
+podcast, which is nice. But I just don't
+know how the phone knows that you
+shifted into drive, right? Because the
+video it kind of implied that you shift
+into drive and then the the video goes
+away. And maybe it can use your GPS data
+to understand that you're moving and
+it'll eventually go away, but it's just
+I'm I'm not sure how seamless that will
+be. We'll see. Also, if you don't have
+YouTube Premium, does it still do
+background play or do you need YouTube
+Premium for that feature? Oh, and
+they're also expanding AirDrop support
+from Android to iPhone with a bunch of
+new devices. You love to see it. Can't
+wait to airdrop a photo from my OnePlus
+15 to my MacBook Pro. It's going to be
+great. But then last but not least, they
+showed us the beginning of a totally new
+product category called Google Books.
+And it's it's just Chromebooks, but with
+an update. So, they had to rename it.
+See, a lot of the demos they showed for
+these Google books looks a lot like the
+Chrome OS we already know and love. It's
+got the browser, the tabs, but we also
+can run Android apps. And of course, you
+can still do all of the Gemini
+intelligence stuff that we just saw like
+custom widgets. So, that's all very
+convenient. The big new feature really
+is the AI enabled cursor. So, you wiggle
+that cursor and it lets you turn it into
+essentially a multimodal portal for all
+things Gemini. It's really neat. So you
+can click on an image to learn more
+about it or even click on multiple
+images, drag them together and then
+combine them with Nano Banana and it
+will visualize those images all combined
+together. It just kind of lets you click
+around and do whatever you want in
+Gemini Land. Click on some text to draft
+a reply to it or learn more about that
+text. It's a genuinely very smart idea
+since the cursor is like the one
+universal thing everybody understands.
+Making that magical and super convenient
+I think levels this thing up. Now, the
+way they described it, Google Book is
+not just like a single laptop made by
+Google like you would think. Uh, it is
+more of a new generation of Chromebooks
+made by a couple different
+manufacturers. They said HP, Dell,
+Lenovo, Acer, and Asus. And the way
+you'll know it's a Google book and not
+just any Chromebook.
+Premium craftsmanship
+and the glow bar. On the back, there's
+this really sick RGB glowing bar. I
+don't think they said the lights
+actually do anything else. Like they
+said they'd be functional, but they
+didn't say what any of those functions
+would be. Like I think a battery
+indicator would be cool, like turn green
+when it's done or give me a notification
+light, but they didn't say any of that.
+It's mostly just looks cool. Hopefully
+the things don't end up being much more
+than $1,000. Otherwise, it might be a
+unfortunate throwback to the Chromebook
+Pixel days. Also, you might have noticed
+my CR48 back here. Really like that
+thing. Anyway, let me know what you guys
+think of all these new AI features built
+into Google and Android. Honestly, I'm
+I'm very excited to test it. I I think
+mostly my take is the smaller stuff
+seems the most convenient. Like the new
+autofill stuff is going to be really
+nice. Also, the new Android Auto seems
+like it's going to be really nice, but
+we'll have to get our hands on all of it
+and test it and the agentic stuff and
+all that. So, let me know in the
+comments section what you want to see.
+Thanks for watching. Catch you guys in
+the next one. Peace.

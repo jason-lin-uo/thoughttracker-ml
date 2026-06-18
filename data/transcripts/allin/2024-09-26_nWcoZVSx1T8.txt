@@ -1,0 +1,1078 @@
+# Thomas Laffont | All-In Summit 2024
+# https://www.youtube.com/watch?v=nWcoZVSx1T8
+
+kotou is one of the most successful
+hedge funds of the last two
+decades the largest startup Fund in the
+world right
+now they are very
+discreet started with $50 million and
+now you're managing roughly 50 billion
+from C to Thomas
+leant what separates the truly
+exceptional companies is to realize that
+actually sales and product are different
+sides of the same coin there was a
+Confluence of trends that made us feel
+like we needed to be president the
+valley the reason we decided to kind of
+get into this business is to find great
+entrepreneurs and find great
+[Music]
+companies all right thank you everybody
+um so my name is Thomas I work at CO2
+I've been a day one listener of the
+all-in podcast so when they called me
+and they said would you be willing to
+present I said you know absolutely tell
+me
+when then they told me well you're going
+to have the graveyard shift the absolute
+last slot I said I can handle it no
+problem then they said by the way we are
+going to put Mark Benny off the goat of
+enterprise software right before
+you the return of TK and some guy who
+figured out how to fix
+aging I still got
+it and the reason is because what I know
+is that to me the besties are a
+band and they have what all great bands
+have which is number one is they have
+talent but number two they have
+chemistry and you can't teach either but
+you need both to be great and they're
+great but also like all bands we know
+they like to have new albums and
+experiment with new producers in a new
+sound so I think we've heard a lot about
+the new sound it could be geopolitics or
+free speech and look I know those are
+important
+issues but being a day one listener I
+love the old album the first tracks we
+ever
+heard to me those are the ones that Will
+Go On The Greatest Hit album and so I
+knew that if I came I would bring you
+back to the old days and to me
+um I love the new stuff too don't get me
+wrong but it's fun to play some of the
+classics and what I love so much is
+listening to each bestie give their
+point of view about Venture Capital
+about IPOs about technology and
+so what I aim to do here is a bit kind
+of level set on the conversation and
+they'll join me afterwards and lucky me
+I get to jam with the band for a bit so
+um all right so let's dive in I hope
+that this presentation kind of informs a
+little bit about what we see in the
+Unicorn economy so let's start at the
+top let's just look kind of at funding
+and what we can see in this slide is
+that funding is still actually pretty
+healthy now it's normalized post a covid
+bubble but it's still if you compare it
+to historical averages it's still quite
+healthy but if we look at exits which is
+Define of the cash that's returned we
+see a bit of a different story where
+actually we're at pre
+levels Without Really any substantial
+increases since all of the capital that
+went into during
+Co and one of the main reasons for that
+is that the three kind of traditional
+exits for companies are blocked
+today so if you look at private equity
+for example very um sensitive to
+interest rates and so there's been kind
+of fewer buyouts despite record amounts
+of dry powder for that asset
+class if we look at IPOs well we're
+going to dig deeper into that peel the
+onion a little bit so I'll talk about
+IPOs in a minute and since um your know
+political issues have been so present
+here we know that regulator has had a
+major impact on company's ability to buy
+other
+companies ironically and I think
+somewhat perversely one of the
+byproducts of constraining big companies
+from buying small companies is it hurts
+small companies
+first of all it makes them less valuable
+because if an investor you think that
+big companies can't buy small companies
+anymore you may adjust what you think
+that company's
+worth but to me even more importantly
+small companies can create a true sense
+of urgency in big companies if you're
+sitting at Amazon or Google and you're
+meeting these small companies now you
+don't have to worry about your
+competitor buying that company because
+you know that the government will make
+it really hard that gives you time
+and we think that urgency is really
+important so we certainly hope that
+whoever wins uh the election they will
+rethink this strategy because we think
+it's really important to have a healthy
+ecosystem and m&amp;a is a really big part
+of
+that so if you put all of that together
+you see that in fact you wouldn't be
+surprised by this chart which shows that
+the distributions from VCS back to their
+investors are essentially at alltime
+lows
+almost back to um Financial kind of
+Crisis
+levels so if you think about our
+industry is a business now and we looked
+at the cash flow statement of the
+Venture Capital industry it probably
+wouldn't look too
+good we've raised a lot of
+money and we've given very little back
+we are bleeding cash as an industry and
+it's ironic because many of us as
+investors have told on companies they
+need to get fit they need to generate
+cash
+but we as an industry haven't done that
+yet so what's left well what's left
+actually is still a very substantial
+economy what we call kind of the Unicorn
+economy there's about 1,500
+companies by our count that are private
+companies with a last round of greater
+than a
+billion Gavin Baker who's another great
+investor who I follow actually came out
+with a statistic that said there's more
+private companies in
+Tech that are worth more than a billion
+than public
+ones which is kind of an incredible
+statement to kind of think
+about on top of that if we just kind of
+look at um employee growth which I kind
+of think is a decent proxy for how this
+ecosystem is doing we can see that there
+has been a significant slowdown post
+the digital uh transformation of Co and
+you can see that employee growth and by
+the way this is
+xai um which is an important statement
+and we'll get to AI in a bit but you can
+see that basically the lowest levels of
+employee growth for this cohort um you
+know in almost 15
+years that obviously also impacts their
+financing so if you look at the average
+company in kind of a um preco era they
+would tend to raise around generally
+less than 600 days and Bridge rounds and
+down rounds were about 30% of the total
+rounds well in today's market you can
+see something very different you can see
+that it's now greater than 100 days and
+you can see that the mix of down rounds
+and Bridge rounds as a percent of total
+rounds is up to almost
+63% so even when they do get a financing
+the financing
+look very
+different and so if you look at what
+that means on a cohort basis and this is
+one of my favorite charts because I
+think it kind of tells the story of this
+era in one slide you can see that the
+2016 cohort the way to interpret this is
+the 2016 cohort which is the top slide
+the green line after about 13 quarters
+80% had either raised the new round or
+exited
+so
+80% you can see that in the 2021 cohort
+that number is down almost in
+half so significantly below and if you
+see at the 22 cohort which is the most
+recent cohort that we track because
+obviously you need to give companies at
+least a year to make the analysis useful
+you can see that those companies are
+tracking even below the 21
+cohort now we can't BL blame the public
+markets you know the NASDAQ is at almost
+an all-time
+high the NASDAQ has had a
+massive uh
+performance but the index doesn't tell
+the whole story and I think we need to
+kind of go one layer below to really
+kind of understand what's going
+on so if you look at the recovery which
+is the piece that I kind of focus on
+since Co you can see that the index
+actually had very strong performance
+right up almost
+122% right since
+2019 but if you look at the two buckets
+that I've
+highlighted which I've kind of created
+two unprofitable Tech is one and SAS is
+the other the reason that I chose those
+two is I think that they best mirror
+potentially the Unicorn economy in the
+private markets you can see actually
+that those are down the most from the co
+high and have recovered the least since
+20
+2019 significantly kind of trailing the
+index now you might say look this is a
+bunch of really bad companies so it
+makes sense my argument to you was be
+there's incredible companies in this
+cohort and I've just picked
+three but let's look at these three door
+Dash block and Shopify three incredible
+entrepreneurs Tony from door Dash Jack
+from block and Toby from Shopify you can
+see that these companies have incredible
+scale if you just look at the um the gmv
+and the
+revenues you can see that over this
+period of time they got significantly
+more
+profitable but you can see that on a PE
+basis the multiple shrank
+significantly and the growth just wasn't
+fast
+enough to kind of offset the lower
+multiple now if we look at IPOs this
+chart basically one way to look at it is
+of all of the IPOs since
+2020 if you look at the value created or
+destroyed from their IPO price you can
+see it as as a
+cohort we've destroyed almost 225
+billion in market cap offset by the
+value creation of 84 so net negative as
+a
+cohort this slide every time I look at
+it I still quite can't believe what it
+says so we had to quadruple
+the facts but it is the fact is that
+since
+2022 both in 22 23 and 24 we had fewer
+IPOs than in 2008 and 2009 the depths of
+the financial crisis in 2001 and 2002
+post the
+greatest bubble in history in
+Tech I mean I remember in 2008 you know
+sitting at my desk and we would get
+reports that Morgan Stanley and Goldman
+Sachs were going out of business that's
+how dire those times were there were
+still more IPOs in that environment than
+in today's
+environment so I was talking yesterday
+to um a late stage uh
+founder very large valuation a very kind
+of well-known company and he was asking
+for the difference between private
+investors and public investors and what
+I told them is I said by and large your
+private investors only compare you to
+companies that are very similar to Yours
+by which I mean if you're a venture
+investor you look at a Silicon Valley um
+uh named fund back company and you
+compare it probably to another company
+backed by another Silicon Valley fund
+Etc and you try and pick the best as you
+see fit from those types of
+companies very similar to
+yours but the public markets work really
+differently and it's really important to
+understand for CEOs that public markets
+have
+options those investors may look at the
+risk-free rate 5% to be able to earn
+with literally no risk
+whatsoever they may look at depending on
+how you want to bucket it the
+Magnificent 6 or seven these are the
+largest companies in the world
+incredible businesses with cosos like
+Mark Zuckerberg and you get to own that
+cohort at a pretty cheap earnings
+multiple for companies that even at the
+trillion dollar scale are growing in
+excess of
+15% pretty
+amazing oh and on top of that there's a
+new type of company the AI
+company and those companies are growing
+at incredible scale and they're growing
+sometimes at 50 60 or
+100% And you get to back a Founder like
+Jensen at Nvidia who many people don't
+know but is the longest tenear founder
+CEO in Silicon
+Valley and I can also buy those
+companies at pretty reasonable earnings
+multiples and finally just in case you
+think oh I'm only talking about big
+companies you actually get to buy also
+an incredible set of smaller companies
+we just had Travis on from Uber but
+whether it's door Das or instacart or
+block you can see that even great new
+companies like those are available at
+pretty reasonable multiples
+so it's really important for CEOs to
+understand who is the competition for
+the capital that you're trying to
+raise and the public market can be tough
+and this is one of those moments where
+the public market is tough because what
+essentially the public market is telling
+you is that we want it
+all we want you to be profitable we
+talked about that
+already we want you to grow so you have
+to be in a big market and have a big
+Trend but by the way we also want you to
+have
+scale that's a lot to ask
+for but the good news is within this
+cohort of unicorns we've already
+identified a good list of companies
+we're lucky to be investors I think in
+about eight or nine of them that match
+that
+criteria and I think all of these
+companies on this slide will one day
+make for incredible public
+companies so what it make of all this
+well I kind of wanted to end uh I only
+have two charts left but I wanted to
+kind of end on this chart um this chart
+is from Andrew McAfee who has an
+incredible substack which I encourage
+all of you to
+follow what this chart looks at is it
+looks at the average
+age of the top 50 US public
+companies weighted by market
+cap okay so average age of the top 50 US
+companies by market cap so what do we
+see in this chart and by the way he goes
+back to 1926 it's hard to get data that
+goes back to 1926 believe me we
+tried so what this shows actually is you
+can look from 1926 through to almost the
+late 80s
+the biggest companies are the oldest
+companies and they keep getting older
+which means that the biggest chance of
+you becoming a big company was to have
+been a big company in the
+past so you can see that that kind of
+can
+atrophy but it doesn't take a
+mathematician which I'm not to see that
+something kind of happens in the let's
+call it mid
+90s the average age starts to reverse
+what happened
+technology
+happened technology is the great
+resetter of the business World it can
+take an incredible company and turn it
+into dust just ask Blackberry or Nokia
+or other companies that have been on the
+wrong side of a
+trend and what you see in this chart is
+you can see that actually the past 25
+years have been really good for young
+companies which is why another inverse
+way of looking at it is what is the
+average founder year of that cohort of
+companies and you can see that that
+cohort of companies is getting
+younger so the reason why I'm still an
+incredible optimist about our industry
+and about technology is because
+technology is still the most disruptive
+force and we haven't even talked about
+Ai and robots and all of the incredible
+things that are kind of
+happening so I kind of wanted to put it
+all together and kind of use the
+concrete examples um this is one of my
+favorite charts what this shows is the
+valuation of two companies that are kind
+of competing with each
+other um their Enterprise data companies
+they make essentially a way to store
+data in the
+cloud so you can see the blue line is
+snowflake it's a public company today
+and you can see that the red line is
+data
+bricks and it's kind of interesting to
+see what do we take from this chart
+while we can see okay a lot of
+volatility in the public markets
+valuation going up then down kind of a
+rise in the private
+Market but there's other ways to kind of
+look at this you can see that data
+bricks there's been a lot of talk of
+founder mode right the the besties
+talked about it on the podcast last week
+data bricks is a founder-led company
+snowflake was more of a managerial Le
+company maybe that's one way to kind of
+interpret what happened maybe another is
+to say if you're a public company and
+you need to be profitable for your
+shareholders and your biggest competitor
+is private and can incinerate and burn a
+lot of money maybe makes a difference
+though when I mentioned to Ali the co of
+data breaks that I was um using this
+chart he told me please remind the
+audience that I'm growing in excess of
+60% so I put
+that that while I'm burning money I'm
+actually getting much more efficient so
+I said that I would obviously say that
+and he also gave me a a non-public data
+point around his Cloud business which is
+now 500 million of a RR which was almost
+zero a few years
+ago so I kind of Lent to in on that
+because I think that um what I love the
+most about technology and markets is you
+can't be
+complacent you always have to stay on
+the um on your toes and part of why I
+love the podcast so much is it always
+makes me rethink my assumptions and I'm
+really grateful um to the besties for
+that so with that I think they'll come
+on and we'll chat about this and I think
+all the other topics that you guys want
+to talk
+about wow
+thank you so much for that that was
+amazing than con gra you thanks brother
+that was great thank you J moth uh sent
+someone to Sax's house to steal
+Wine Not Ste did you go to which seller
+did you go to the secret seller or the
+the seller the main seller the main
+seller or the house seller which one
+they they know not to go to any other
+seller but the the Reser the real seller
+the real seller I think probably the
+best moment that you and sax had around
+wine was
+he poured a wine at a poker game that
+you did not like and I kid you not Troth
+took his
+glass it and went like this and poured
+it on the floor in David Sax's house
+when was that really we weren't outside
+on the lawn this was in Sax's living
+room honestly stop stop the that
+happen or not I'm going to get from Nat
+for that story it was in my basement
+poker basement and it was not we're it
+was not an in is not a typical basement
+you shouldn't use that term but there
+was no rug this was a marble floor to be
+clear not true wherever m is it could be
+clean it was more like okay Thomas let
+me ask you a question
+um actually after that oh my God stop
+thas what happened after guys we got we
+got on Jam raided my wine seller and
+found all the latash oh he did that's
+right oh my God that is true and then I
+yeah CU you hit it I think they went
+through uh a case lash yeah start to
+come out don't stop on my behalf sit
+here all day let's talk let's talk to
+Tom just so if you invested in the cues
+in the NASDAQ and held it for 10 years
+you make
+7.5x um this is a couple months old if
+you invest in the top 10 by market cap
+companies in the queue you make 8.7 so
+9x if you invest in the S&amp;P over 10
+years you make
+3.2x um and sorry sorry if you invested
+in the um yeah I'm sorry that was
+incorrect if you invest in the top 10 of
+the cues you make 8.7x and if you invest
+in the cues you make 5.2 so 5x 9x why
+would I invest in Venture at all as an
+Institutional Investor is and is that
+going to shift because you have to be in
+basically the
+top two funds five funds to beat the
+returns you make just by buying an index
+of the NASDAQ and how how do
+institutional investors rationalize
+investing in Venture funds at all given
+how much much value is acing to public
+companies in technology versus the
+private companies have you tried the
+mtet
+Thomas just te up a softy for me right
+to to te me off
+um first I ask myself that question all
+the time right and because we sit in
+both public and private markets we bit
+have this unique ability to kind of look
+at both and try and use one to make
+better decisions than the other I think
+what's implicit in your question is is
+what happen has happened over the next
+decade going to happen over the next one
+yes right because I also remember a time
+where um and I think this was roughly
+call it the 2010 period where Google was
+like flat for seven or eight years right
+um from like 07 to I think the next
+seven or eight years right and that's
+how the market was digesting Facebook
+and kind of things like that so I think
+the question you have to ask yourself is
+we have now multiple multi-trillion doll
+companies right um three trillion doll
+companies with app and Nvidia are those
+companies going to 10
+trillion um and so you know to me it's
+not necess as obvious maybe it was
+obvious you know 10 years ago and we all
+should not have invested in Venture 10
+years ago because we should have just
+owned Apple and Google and meta and
+others you know the question is as
+investors we get paid to think about the
+next decade right and so I think the
+question for you know all of us and is
+well what do we think's going to happen
+in the next decade
+and to me it's not as clear just because
+those big companies are so big now right
+um is are we going to see the same
+pattern occur I mean sometimes law of
+large numbers and other things like that
+would say no there's another I think
+part of this which is when you
+invest you have to get some risk premium
+for where you're investing and you know
+the the complicated thing with Ventures
+when I started my business I think when
+David and Jason started his actually
+also when you started
+um your investment
+business we typically thought 7 to 10
+years were going to get out of these
+businesses and return Capital to
+shareholders and then all of a sudden
+it's doubled and now to your point you
+have wars in Europe you have wars in the
+Middle East you have this potential
+thing sort of Damocles hanging over us
+in China and Taiwan there's risk
+everywhere and theoretically what is
+supposed to happen is you're supposed to
+get paid a risk premium to be IL liquid
+and not be able to get out over periods
+of time where any of that stuff could
+happen right so how does that start to
+play into the mindset of the investor
+that was giving all this money in the
+first place how does that change you
+know it's a great question I was talking
+to one of the partners of a leading
+seriesa firm a brand name that that all
+of you would know and what was
+interesting about their business is that
+buying large their average funds were
+were doing the same but the problem is
+at the time liquidity had doubled and so
+if if you just think about it on an irr
+basis all of a sudden I'm down half half
+right yeah so that's a huge problem and
+I think part of the reason I kind of
+wanted to to to bring this up is I do
+think it's a problem that we need to
+kind of address as an industry and I
+think it starts with boards and it
+starts with Founders right and investors
+I was chatting with Bill Gurley um you
+know in the green room before and he he
+told me he said well look Thomas you
+know you're you guys are part of the
+problem kind of doing this and I said
+you're right you're absolutely right we
+contributed to it interrupt what what
+did he mean by that that we were giving
+liquidity to uh secondaries and Founders
+and you know companies that should be
+public by giving them private Capital we
+were essentially enabling them to stay
+private longer making the problem worse
+correct is that true yes but if that
+were true wouldn't wouldn't value
+creation acre to those private companies
+and the performance of can I just go
+back and just add a Nuance to that but I
+said Bill realize that also you guys are
+also part of the problem because you're
+on the boards that are also letting this
+kind of happen right so we have as an
+ecosystem right I don't think like to me
+the IPO chart is kind of an existential
+one for our industry right I mean if we
+don't get these companies to go
+public um in my
+opinion we are um as an industry going
+to have to face really hard questions
+with the ultimate funders of of our
+industry who by the way are not our
+funds but are the investors in our funds
+right and eventually they are going to
+demand from us right um Capital back
+well sorry Tom and Thomas just to build
+on your point it's actually not even
+those nameless faceless people because
+so much of that money for example in
+Sovereign wealth funds and Pension funds
+theoretically come from these citizens
+who will at some point need the money
+because all of these other existential
+issues that they're dealing with and so
+these these pension systems and others
+will really have to just
+justify um while you know they say I'm
+going to swing for the fences here to
+make up for my deficits but with those
+deficits aren't actually made up and
+you've paid 2% a year for 13 years and
+you burned through a quarter of your
+capital in fees and you have nothing to
+show for it the jig is going to be up I
+think I mean that's totally right and
+look I think it's going to be um my
+biggest other fear you guys can tell I
+have a lot of fears so um but my other
+one good investor yes
+is that we're creating a worst cohort of
+companies because of this right because
+at the end of the day I do believe that
+you guys all sit on a tons of boards
+right I do think that it can be I think
+part of why the all-in podcast got so
+popular is there was a sense that you
+guys were saying to uh the public what
+people were afraid to say in public or
+what actually you were saying Behind
+Closed do right and I think it can be
+very difficult in boards to go against a
+founder or a CEO even just propose
+something a different path right you
+know the high school I went to San high
+school in Brooklyn had a a sign above
+the the door when we walked in every
+morning the truth shall make you free
+and I think a big part of what we have
+to realize in an industry is staying
+private and giving the founders massive
+amounts of secondary not modest modest
+we all agree um and keeping these P
+companies public too long um and then
+private too long uh
+you know it's just bad hygiene and bad
+discipline allowing Founders or telling
+Founders the VCS are the enemies like
+Paul Graham essentially does um saying
+governance isn't cool um you know most
+of the companies I've invested when they
+fail and they don't have governance say
+to me if only somebody cared enough to
+help us solve our problems and I say
+well remember I said would you like to
+start board meetings quarterly for one
+hour and I'll come to it and they said
+yeah and we got advice from people don't
+have board Mee me ings you know at some
+point we have to have discipline and we
+have to accept the truth and the truth
+is you know on a on a societal level 40%
+of the country does not own equities and
+they believe that everybody's getting
+rich but them and they're voting for
+socialism and they're voting to not let
+these companies merge and grow which is
+now going to freeze the system and if
+the system freezes because of Lina KH
+who was picked on a strictly political
+basis because she's anti-tech and
+because that gets votes from a bunch of
+socialist voters uh who feel
+disenfranchised now we got to solve the
+disenfranchised problem um but we also
+have to create jobs and we have to
+create the next companies and I I
+encourage people who maybe who are
+anti-tech who are anti- capitalism to
+imagine a world in which we didn't have
+Google Apple Tesla Facebook Microsoft
+Uber door Dash as our companies in our
+country and you know what that looks
+like that looks like Europe and that
+looks incredibly slow growth and and it
+looks like all the growth comes from
+government ask question yeah and I know
+but I mean we have to be adults in the
+room here and tell the truth age I'd
+like to ask Thomas a question
+before I'm sorry it's the montet talking
+clearly I mean it's amazing I think you
+bring up something that again is
+something that it's the quiet part said
+out loud which is maybe we have this
+cultural issue and I actually have a lot
+of empathy for where this cultural issue
+came from your seoa and you've done it a
+certain way but then now you're andreon
+or your Social Capital your craft you
+have to decide how you're going to
+disrupt and you say the thing that the
+other person is not
+saying but then it the it just gets out
+of
+control what do we do to fix the problem
+um how do we collectively identify a set
+of solutions what do we do I I think to
+me the the most obvious is we have to
+take our companies public because to
+your point Jason the public market is
+the great
+disinfectant the public market doesn't
+care that you're a CEO and you're going
+to give a referral to the other investor
+and so you have to become friends and
+you know that whole thing or the brand
+of your investor is X or your prior
+company did y you know at the end of the
+day the public market will look at your
+business and so I think encouraging
+entrepreneurs to go public is really
+important right let me ask you a
+question the traditional go model is an
+IPO you raise capital and you list your
+shares at the same time those are two
+separate activities people don't realize
+they're actually separate your Shares
+are available for sale on a public
+market and you're raising capital in the
+process and you create demand through
+the capital raising process such that
+your shares will go up as they start to
+trade the model of the direct listing is
+you just list your shares they start
+trading they're going to go up they're
+going to go down we've seen a couple of
+these in the past few years they're like
+as soon as it hits the market it goes
+down it goes up and but the market
+values the company once the company's
+been valued and the market stable maybe
+then you raise Capital at whatever the
+market tells you the valuation is
+however there is a very big aversion to
+direct listings in Silicon Valley and it
+seems like there's either a failure of
+the business or it's one of these
+businesses that are such an outlier of
+success that it doesn't matter they're
+like I don't care I'll just direct list
+should direct listings become the kind
+of deao model because otherwise everyone
+talks about the IPO window being closed
+the big institutional investors that
+build the IPO book are all sitting on
+the sidelines right now they're like I'm
+not investing in any new stuff for a
+quarter or two quarters so the IPO
+windows closed and you can't go public
+should we not kind of push all up
+Silicon Valley that like this direct
+listing might be a better model and I
+know some have tried to motivate this
+this transition but it's why isn't it
+gotten legs and is it a better way so
+what I would say to that and trath you
+you kind of hit on this with some of the
+work that you've done here but I do
+think that the recipy to go public is
+different first of all I can tell you is
+i' you know we've looked at buying IPOs
+over 20 years I mean probably thousands
+of them we couldn't care less whether
+it's a traditional IPO or whether it's
+um a direct listing like we care about
+the business and the price and the
+mechanics are completely irrelevant to
+us right um so that's kind of number one
+but I do think Founders have to
+understand that the public market itself
+has changed okay being an active
+investor in the public market over 20
+years has been a really bad business we
+are fighting the machines first of all
+right so uh Ken Griff Citadel
+Renaissance you know all of these you
+know quants and algorithms and that's
+number one we're fighting the indices
+right massive move away from active
+investing to passive so being in the
+quote money management business I mean
+just look at the chart of tro price and
+others it's not been a great business so
+the public business has changed and I
+think why is this relevant to Founders
+because I think there's another big
+constituency that's really important as
+an example retail
+right and so if you can tap into a
+retail investor base and convince a
+retail base that your business is
+worthwhile that's maybe something that
+20 years ago you might have said I don't
+think that's a good use of time I think
+this year is a really good use of time
+so going on podcasts right going on CNBC
+going out and educating the public about
+your business so that you're not just
+relying on a frankly shrinking pool of
+investors in the public market I
+remember when I started in the late '
+90s early 2000s you had small cap mutual
+funds in Kansas City and other places
+their whole business you may remember
+was taking small companies and bringing
+them to the public market those they're
+gone today they're gone today there
+there's none left right so we need to
+adapt and I think those are the
+conversations that we need to be having
+I hope that some of the companies that
+we listed right you guys know these
+companies you're investors in a bunch of
+them they're generational opportunities
+I hope some of those kind of go public
+right and that we kind of get the do
+think I just want to build on this um it
+is one of the most systematically broken
+things and just even be more specific
+what happens in Silicon Valley
+boardrooms is you have folks that are
+playing a very establishment Insider
+game and whenever I see that I I just
+get offended just at at a core level and
+it's about a certain set of Banks and
+it's about a certain set of Privileges
+and conferences and it's a cabal of
+and this is what convinces
+these very impressionable people all
+kinds of spirous data to say what it is
+that they want which is not that the
+company goes public or not public but
+that they have ball control to help them
+influence that decision and that's the
+game and you can look at all the major
+investment Banks and that's how the game
+was played and every time there's been
+an attempt at an innovation people push
+back severely the the most impressive
+one that I remember I mean I was part of
+one version of that just a few years ago
+with these backs they had a very
+checkered obviously set of outcomes um
+but it was courageous to try and the and
+when I remember I worked with credit s
+when I was launching this first one the
+reason I picked credit s you know why
+because they were the ones that were
+totally blackballed in 2004 for doing
+the Google listing and do you know why
+what Google did they completely pushed
+back on the IPO they completely restruct
+red it from first principles they
+decided how to do it and when I looked
+at it and I read the filing documents I
+was like this is courageous and
+incredible because if other people
+follow this it'll unlock money but what
+happened to that whole model people put
+it on the side and they were like if you
+go to credit s this will happen that
+will happen so the infrastructure pushes
+back on you so I think part of what we
+need to do is make people open to
+realize direct listings work now for
+example I went through a direct listing
+with
+slack what we did not learn is that the
+best price is the day one price so if
+you have investor pressure the thing
+that I should have done it was a
+probably a$ 1.2 billion $1.24 billion
+mistake I know it because I distributed
+too late I should have sold every
+share I didn't know that it was very
+hard to know that so I think the point
+is that there is this system of weird
+incentives that have everything to do
+with what Barry Weiss yesterday called
+prestige
+and nothing to do with what you said
+which is disinfecting a business and
+just let it win or lose yeah
+so very well said and then I I know you
+um we'll move on after this but to me
+Jason there's one other big thing which
+is cosos need to understand that it's
+okay for their valuation to go down
+right there you know it's like this bet
+Noir in the valley that my God if for
+some reason your valuation goes down 10
+or 15% it's the end of the world guess
+what it isn't it's the craziest concept
+I I public stock only goes up right it
+doesn't like it's like so in Silicon
+Valley if your Stock's not always going
+up it's like it's a imature yeah it's so
+immature yeah and there's these people
+that perpetuate that because then they
+have ball control and it's just
+not who's in a relation who's married
+okay we'll give it the final question
+just okay how many have you been in a in
+a marriage where at some point the
+marriage was not always the best you
+can't ask that and then ask people to
+raise their
+hands my point is relationships go up
+and down correct friendships go up and
+down businesses go up and down I mean
+like this is real life well so just this
+will be our last question yeah just just
+to wrap things up so I really wanted
+Thomas to give this speech because I
+thought this is the nitty-gritty of what
+we deal with in the Venture your slides
+are incredible by the way we'll make
+them available by the way to everyone so
+so
+this is really the Straight Dope on what
+the Venture Capital industry is dealing
+with because we had this massive bubble
+in 2020 and 2021 especially the second
+half of 2021 where you know we all know
+that the FED cut interest rates to zero
+and the federal government air dropped
+trillions of dollars on the economy and
+the way that affected the tech ecosystem
+is we had a bubble like probably the
+biggest bubble in 2021 that we had since
+the do bubble and and since then 2022 23
+24 we've been dealing with the Fallout
+and The Hangover from that and I think
+that's what your if I was to kind of TDR
+your slides it's basically we had this
+incredible bubble now we're in this sort
+of workout period there's a lot of
+facets that we double the payback period
+that's a real problem yeah so that's so
+and so there's more to work out at the
+same time I think that we've heard at
+this conference that some of these
+emerging Tech Trends are are going to be
+the biggest we've ever seen Benny off
+talked about agents of the Enterprise
+Elon talked about robots so at the same
+time that I think the tech industry is
+feeling this huge hangover and it's you
+know frankly if you're like doing all
+these workouts with the companies it's
+pretty miserable but we're seeing these
+upward trends that could be the biggest
+yet D David and I said something
+backstage I just curious what you think
+of this we were looking at your slides
+the one that said the 2022 cohort was
+below the and uh the comment was and you
+can just say yes or no but um that's
+probably where the best companies are
+going to emerge because they will have
+the most darwinian risk of demise yeah
+does that kind of counterintuitively
+make sense to you or it's not and look
+it fits within a framework that I really
+believe which someone kind of told me in
+the context of China but I think it's
+appropriate which is you know um
+dictatorships double down and democrac
+is self-correct you know markets
+self-correct right so I'm a big believer
+in our ability as a market to kind of
+self-correct it's kind of why I wanted
+to show the the slide about the age of
+companies right because it kind of
+crystalized what we all believe which is
+that technology is fundamentally
+changing the world of of business and
+markets and kind of I still really
+believe that so David I 100% agree I
+just hope like take the AI um Trend as
+an example right part of also why like
+talking about this stuff is so we don't
+just repeat some of the same mistakes
+right because I always you my role as an
+investor first and foremost is a version
+of the hypocritic oath just Do no harm
+don't make things worse right um maybe
+you can't help but at the very least
+don't like make things worse right and
+my one worry I kind of said it a little
+bit before is that some of this stuff is
+actually making things worse so let's
+kind of stop doing what we think makes
+things worse and let's try to focus on
+again the incredible value creation that
+will come we have the chart that shows
+it over 30 years we know that technology
+creates incredible new companies let's
+just kind of let that process play out
+ladies and gentlemen very much thank you
+Thomas F thank you that awesome thank
+you thank you

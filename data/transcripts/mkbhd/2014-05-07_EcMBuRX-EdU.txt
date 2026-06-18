@@ -1,0 +1,245 @@
+# Top 5 OnePlus One Features! (Cyanogenmod 11S)
+# https://www.youtube.com/watch?v=EcMBuRX-EdU
+
+[Music]
+hey what is up guys MKBHD here coming at
+you in the midst of final exams with a
+bit of an exclusive so I've been messing
+with the OnePlus One lately which you
+probably already knew if you follow me
+on Twitter and I've been getting
+non-stop questions about it naturally
+which helps a lot with the review
+process so keep the questions coming uh
+this isn't really a full review video
+that's coming later and believe me I
+have a lot to say about this phone but
+since I've gotten to know the phone over
+the past couple of days I've figured
+something are worth sharing as this is a
+pretty interesting phone and for all
+intents and purposes it's a sign engine
+mod phone so here are five awesome
+features that I found so far from the
+exclusive S engine mod 11s on the
+OnePlus
+One all right so the first cool thing I
+want to show you guys is the camera app
+of the OnePlus One that would be the
+number one feature so obviously you can
+just tap that icon at any time if you
+want to get into it or since this is
+Android 4.4 you can just swipe in from
+the right at any time and that'll bring
+up the camera app and you notice the
+user interface looks really familiar
+really similar to the Google camera
+except with its own S engine mod special
+improvements so first of all the
+settings are really easy to access you
+just tap that settings button and you
+can immediately choose the quality of
+the photos the size I went with 13
+megapixels which is the max and a couple
+of other things about exposure and touch
+to focus that you can just swipe right
+over into your video settings and there
+you can choose between 1080P or 720p or
+4K video time-lapse video and then one
+more will get you to some general
+settings where you can set the power
+button as a shutter but other than that
+yeah it's a pretty simple quick camera
+app and I've enjoyed using it taking
+panoramas is really easy starting to
+record a video is really easy and the
+shutter is pretty fast uh wherever you
+tap It's tap to focus and then whenever
+you want to switch between different
+scene modes instead of picking them
+manually you can literally just swipe
+between them so swiping down will move
+you between the different effects that
+you can apply to your image and you get
+that live preview so you don't have to
+guess what it'll look like obviously you
+just keep swiping until you find
+something you like use that mode and
+take the shot and there are a lot of
+them uh but if you just want to get a
+clean quick shot just go into Auto and
+that should be pretty easy too all right
+so this next one actually blew my mind
+with how easy and simple it is because
+it's never really been this easy on
+Android devices before there's actually
+a screencast app built in to the OnePlus
+One and the S engine mod rom so usually
+you'd have to root your Android device
+or go through some C convoluted steps to
+get a halfway decent screencast but now
+you can just start the app and literally
+hit the start screencast screencast
+button and now it's recording and you
+can record the exact actions you take on
+your phone a lot of you guys don't know
+but I actually started this YouTube
+channel with nothing but screencasts and
+it's really cool to see this on Android
+now I can literally go through and do
+app demos and different site demos and
+mobile stuff and it'll record the way I
+touch the display and exactly what
+happens on the screen whatever I do so
+this is really useful and it's actually
+a pretty decent frame rate too so I can
+go through some some pretty nifty stuff
+I might even try gaming on it later some
+more stuff in the full review but uh
+this is definitely useful and I'm glad
+to see it whenever I want to stop the
+recording I can just go up to the
+notification bar and hit stop and it's
+immediately ready to share so I can just
+uh upload that to Dropbox real quick and
+add it into the video and show you guys
+what it looks like all right so the
+third awesome thing I found is another
+thing that used to require being rooted
+to do and that is the theme engine built
+into this OS so if you go into the app
+drawer you'll see this theme showcase
+and this will bring you to a list of
+basically a store of a bunch of
+different themes that you can apply now
+the thing is you can have more than one
+theme installed and use different themes
+to affect different parts of your OS so
+you can have one theme that affects your
+wallpapers and one theme for your fonts
+and one theme for your boot animations
+and your sound packs and all different
+types of things here and of course when
+I hit this menu button here you'll have
+the two installed themes that come with
+the phone so I'm going to go ahead and
+actually switch here from the hollow
+default theme you can see here I have a
+whole bunch of googly looking icons that
+are very familiar so I'm going to go
+ahead and switch just the icons from the
+great Freedom pack you can see what's
+included in the pack when you download
+it so I'm going to pick the icons and
+apply the theme and that looked pretty
+quick so now when I hit home I have a
+new set of icons on my home screen and I
+didn't have to use an app or anything
+special to do that all the apps that are
+built into the icon pack are affected
+not everyone is is included in this
+particular icon pack but but if you find
+one in the store that you really like
+you can apply it and use its icons or
+like I said its boot animation or
+whatever you want I'm going to switch
+back to hollow again that was pretty
+quick and I'm right back to the hollow
+icons pretty snazzy so the next awesome
+thing that I've made a kind of a big
+deal about but that not a lot of people
+were noticing is that you can change
+between onscreen and offscreen buttons
+on this phone and a lot of people you
+know when considering the perfect phone
+like to decide that they they don't like
+onscreen buttons because it takes up
+precious screen real estate so you can
+switch those on and off by going into
+the settings and hitting the buttons
+setting and you can choose to check or
+uncheck the onscreen buttons so when you
+turn those off you have now the menu
+home and back button and you can double
+tap the home button to turn the screen
+off and bring up other sort of quick
+actions and you can always now use these
+to navigate but if you're like me and
+you're used to a Nexus or you're coming
+from a Google Play edition device you
+can enable the onscreen nav bar and
+what's even neater here is I'm used to
+these rooted features where you can go
+into the interface and go out and scroll
+for buttons and layout and you can now
+choose to add or subtract buttons from
+the software buttons here so I'm going
+to go ahead and add a permanent search
+button and lock that down and now I have
+a permanent search button here in my my
+software buttons at the bottom of the
+phone so that's extremely useful if you
+want to add a permanent menu button
+there or a permanent search button like
+I just did again if you don't like that
+you can at any time go back in to the
+interface and change it to look really
+really similar to a Nexus just by
+unlocking it and I guess removing it or
+swiping it around and that's what you
+have you have the ability to change all
+these crazy things that you really only
+got when you were rooted or using a
+device that you rooted yourself and the
+last but certainly not least awesome
+feature is what I like to call just the
+little things the little things that
+Cyanogen MOD has built in to this that
+you may or may not enjoy or appreciate
+but that they've done uh and will help
+if you're used to using a rooted phone
+or something that's had engine mod on it
+before here's an example the Quick
+Settings that you can swipe down with
+two fingers you have that plus button up
+here and that lets you choose what
+buttons you have in the quick settings
+so if I want to be able to sleep the
+phone at any time with just a single top
+of a button I just add it to the quick
+settings and there it is sleeps the
+phone at any time so quick and easy
+stuff like that another one is the
+transparent volume slider a lot of
+people don't appreciate but in stock
+Android if you change the volume with
+the volume button here that would have
+an overlay over whatever you're working
+on so if I'm gaming and I want to turn
+down the volume real quick I don't have
+anything in the way of whatever I was
+just working on of course if I touch it
+with my finger it becomes opaque but
+when I'm just using the volume keys does
+not doesn't really interrupt I can still
+see the time behind it so that's neat uh
+little lock screen customizations little
+status bar improvements you see the
+circle battery indicator up here uh a
+whole bunch of awesome stuff and I'm a
+fan of it so far so like I said this is
+just a quick video in the midst of
+finals week I wanted to share with you
+guys some neat features of the OnePlus
+One a lot of people have been asking me
+about this phone and I have a lot more
+to say about it so expect probably a
+couple more videos about this phone in
+the coming weeks uh but that's been it
+so far so thanks for watching feel free
+to give it a thumbs up if you enjoyed it
+or want to see more like it and I'll
+talk to you guys in the next one peace
+[Music]
+n
+[Music]

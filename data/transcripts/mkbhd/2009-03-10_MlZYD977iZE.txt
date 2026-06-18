@@ -1,0 +1,145 @@
+# HD Tutorial: Audacity
+# https://www.youtube.com/watch?v=MlZYD977iZE
+
+so
+hey everyone and welcome to another hd
+tutorial and this one's going to be on
+audacity um audacity is a freeware
+application for editing your video or
+not your videos but for audio only this
+is an audio editing freeware program um
+and i just want to do a brief tutorial
+for you guys on how to download and
+install it as i'll be doing more
+tutorials hopefully on like cool tricks
+that you can do with it so this is the
+first part of the video series on
+audacity and i hope you like this
+tutorial as well as the other videos to
+come so thanks for watching subscribe
+peace
+all right welcome to my desktop here i'm
+going to show you guys exactly how and
+where to get audacity first of all we're
+going to open up a web browser i'm just
+going to use safari for the purpose of
+this tutorial because it is the fastest
+web browser that i have right now
+so um
+right now we're going to go to the top
+and just go to any major search engine
+maybe google shiny search whatever you
+want then i'm going to type in audacity
+and i'll do you guys the favor of
+putting this link right here audacity
+audacitydebts.sourcefitforge.com
+in the description so this is actually
+the audacity website very basic very
+simple and you can see right here at the
+top there is a download tab where you
+can actually download the freeware
+itself so i'm just going to click on
+that and i'll i'll give you guys this
+exact uh link right here so that you
+guys can
+just
+pause the video and get in the
+description and you'll be able to
+download it as quickly as possible so
+here there are two versions of audacity
+the first one is a stable version 1.2
+which is remember recommended for all
+users it's the most complete version but
+it's not the latest version and they
+have it again for windows for mac os 10
+and for linux then we have the windows
+and mac os 10 linux version for the beta
+1.3 version for the purpose of this
+tutorial i'm going to download the
+windows version 1.2 because i'm not
+going to go into the beta this is going
+to be the simplest download so what they
+give you right here is the installer
+and all you have to do is click on the
+installer it'll say your operating
+system right here since i clicked on the
+windows button so i'm going to click on
+audacity 1.2.6 installer it's going to
+be a exe file so it's going to take you
+to sourceforge and you have to pick
+which one what you want to do with the
+application i'm going to hit open so
+that it actually actually opens the dot
+exe installer so first it's going to
+download it and then it's going to open
+so i'll come back to you guys hopefully
+when this um when this is done oh it's
+already done downloading so on in order
+to run it just hit the run button and
+it'll start up the installer and if uac
+does pop up if user account control pops
+up just hit allow or continue for
+everything so i'm just going to exit out
+of the web browser in the background
+here
+and here we have the audacity setup so
+this is going to install audacity 1.2.6
+which is currently the latest version
+however if you're watching this video it
+might be a later version out now but
+same instructions apply so just click
+next i'm going to accept the license
+agreement hit next
+and this will tell you all about the
+lead developers and all the credits
+they're giving about the software hit
+next for that and this is the directly
+directory in which it will install again
+hit next and i'm going to create a
+desktop icon and associate audacity
+project files
+just hit next and install so this is
+going to be a quick little installation
+process not a very large program but as
+you can see it's already finished
+installing i'm going to leave the button
+check that says launch audacity and
+finish
+now it's um beginning to launch audacity
+we're going to hit okay because it's the
+first running of audacity so it needs uh
+language
+all right this is what it will look like
+when you've opened audacity this is the
+audacity interface here with the buttons
+on the top now i'm not going to go too
+far into it because it is for a later
+tutorial on actually how to use audacity
+but this is audacity you do have it now
+i'm just going to show you quickly how
+to put the audacity icon which is shown
+here in your rocket dock right here so
+i'm going to choose a section to put it
+in i'll put it right in my tool section
+so i'm just going to first of all unlock
+the rocket dock
+then i'm going to take the icon and drag
+it down here into the place that i want
+it
+right after right before sony vegas just
+drop it down there
+then what we're going to do is delete
+the icon from the desktop because we no
+longer need that and we're going to lock
+up the system tray again or the rocket
+dock again and we are done so that was a
+brief tutorial on how to download
+install and now you officially have
+audacity you know you can open up
+whenever you want and that was it so i
+hope you enjoyed this tutorial and
+thanks for watching this one and if you
+have any other tutorial ideas or
+requests just go ahead and subscribe and
+send me a message and i'll get to it so
+thanks for watching this one peace

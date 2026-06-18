@@ -1,0 +1,945 @@
+# Using Salt to Optimize Mental & Physical Performance | Huberman Lab Essentials
+# https://www.youtube.com/watch?v=hnzrPKvRBD8
+
+Welcome to Huberman Lab Essentials,
+[music] where we revisit past episodes
+for the most potent and actionable
+science-based [music] tools for mental
+health, physical health, and
+performance.
+I'm Andrew Huberman, and I'm a professor
+of neurobiology and ophthalmology at
+Stanford School of Medicine. Today, we
+are going to discuss salt, also referred
+to as sodium. Salt has many, many
+important functions in the brain and
+body. For instance, it regulates fluid
+balance, how much fluid you desire and
+how much fluid you excrete. Salt also
+regulates your appetite for other
+nutrients, things like sugar, things
+like carbohydrates. We all harbor small
+sets of neurons. We call these sets of
+neurons nuclei, meaning little clusters
+of neurons,
+that sense the levels of salt in our
+brain and body.
+There are a couple brain regions that do
+this, and these brain regions are very,
+very special. Special because they lack
+biological fences around them that other
+brain areas have. And that those fences,
+or I should say that fence, goes by a
+particular name, and that name is the
+blood-brain barrier, or BBB.
+Most substances that are circulating
+around in your body do not have access
+to the brain. In particular, large
+molecules can't just pass into the
+brain.
+The brain is a privileged organ in this
+sense. However, there are a couple of
+regions in the brain that have a fence
+around them, but that fence is weaker.
+And it turns out that the areas of the
+brain that monitor salt balance and
+other features of what's happening in
+the body at the level of what we call
+osmolarity,
+at the concentration of salt,
+reside in these little sets of neurons
+that sit just on the other side of these
+weak fences. And the most important and
+famous of these, for the sake of today's
+conversation, is one called OVLT. OVLT
+stands for the organum vasculosum of the
+lateral terminalis. The neurons in that
+region are able to pay attention to
+what's passing through in the
+bloodstream and can detect, for
+instance, if the levels of sodium in the
+bloodstream are too low, if the level of
+blood pressure in the body is too low or
+too high, and then the OVLT can send
+signals to other brain areas, and then
+those other brain areas can do things
+like release hormones that can go and
+act on tissues in what we call the
+periphery, in the body, for instance,
+have the kidneys secrete more urine to
+get rid of salt that's excessive salt in
+the body. So, let's talk about the
+function of the OVLT and flesh out some
+of the other aspects of its circuitry,
+of its communication with other brain
+areas and with the body, in the context
+of something that we are all familiar
+with, which is thirst. Have you ever
+wondered just why you get thirsty? Well,
+it's because neurons in your OVLT are
+detecting changes in your bloodstream,
+which detect global changes within your
+body, and in response to that, your OVLT
+sets off certain events within your
+brain and body that make you either want
+to drink more fluid or to stop drinking
+fluid.
+There two main kinds of thirst. The
+first one is called osmotic thirst, and
+the second is called hypovolemic thirst.
+Osmotic thirst has to do with the
+concentration of salt in your
+bloodstream. So, let's say you ingest
+something very, very salty. Let's say
+you ingest, you know, a big bag of, you
+know, I I I confess I don't eat these
+very often, but I really like those
+kettle potato chips, and I don't have
+too much shame about that because I
+think I have a pretty healthy
+relationship to food, and I enjoy them,
+and I understand that it will drive salt
+levels up in my bloodstream, and that
+will cause me to be thirsty. But why?
+Why? Because neurons in the OVLT come in
+two main varieties. One variety senses
+the osmolarity of the blood and when the
+osmolarity, meaning the salt
+concentration in the blood is high,
+it activates these specific neurons in
+the OLT and by activates, I mean it
+causes them to send electrical
+potentials.
+Literally, send electrical signals to
+other brain areas and those other brain
+areas inspire a number of different
+downstream events. The
+consequence of the that communication is
+that a particular hormone is eventually
+released from
+the posterior pituitary. So, from the
+pituitary, there's a hormonal signal
+that's released called vasopressin.
+Vasopressin also goes by the name
+antidiuretic hormone
+and
+antidiuretic hormone has the capacity to
+either
+restrict the amount of urine that we
+secrete or when that system is turned
+off to increase the amount of urine that
+we secrete.
+So,
+there's a complicated set of cascades
+that's evoked by having high salt
+concentration in the blood. There's also
+a complicated set of cascades that are
+evoked by having low concentrations of
+sodium in the blood. But, the pathway is
+nonetheless the same. It's OLT is
+detecting those osmolarity changes,
+communicating to the supraoptic nucleus.
+Supraoptic nucleus is
+either causing the release of or is
+releasing vasopressin antidiuretic
+hormone or that system is shut off so
+that the antidiuretic hormone is not
+secreted, which would allow urine to
+flow more freely, right? Antidiuretic
+means
+anti release of urine and
+by shutting that off, you are going to
+cause the release of urine. You're sort
+of allowing a system to flow, so to
+speak. The second category of thirst
+is hypovolemic thirst. Hypovolemic
+thirst occurs when there's a drop in
+blood pressure, okay? So, the OLT, T I
+mentioned before, can sense osmolality
+based on the fact that it has these
+neurons that can detect how much salt is
+in the bloodstream, but the OVL T also
+harbors neurons that are of the
+baroreceptor mechanoreceptor
+category. Now, more
+on baroreceptors and mechanoreceptors
+later, but
+baroreceptors are essentially a
+receptor, a meaning a protein that's in
+a cell that responds to changes in blood
+pressure.
+So, there are a number of things that
+can cause decreases in blood pressure.
+Some of those include, for instance, if
+you lose a lot of blood, right? If
+you're bleeding quite a lot. Or in some
+cases, if you vomit quite a lot. Or if
+you have extensive diarrhea. Or any
+combination of those. Both types of
+thirst, osm-
+osmotic thirst and hypovolemic thirst,
+are not just about seeking water, but
+they also are about seeking salt. In
+very general terms,
+salt, aka sodium,
+can help retain water. But, sodium and
+water work together in order to generate
+what we call thirst. Sodium water work
+together in order to either retain water
+or inspire us to let go of water, to
+urinate. So, before we can dive into the
+specifics around salt and how to use
+salt for performance and various
+recommendations and things to avoid,
+we need to drill a little bit deeper
+into this fluid balance mechanism in the
+body. And for that reason, we have to
+pay at least a little bit of attention
+to the kidney. The kidney is an
+incredible organ. And one of the reasons
+the kidney is so amazing is that it's
+responsible for both retaining, holding
+on to, or allowing the release of
+various substances from the body.
+Basically, blood enters the kidney
+and
+it goes through a series of tubes which
+are arranged into loops. If you want to
+look more into this, there's the the
+beautiful loop of Henle and other
+aspects of the kidney design that allow
+certain
+substances to be retained and other
+substances to be released depending on
+how concentrated those substances are in
+the blood.
+The kidney responds to a number of
+hormonal signals including vasopressin
+in order to, for instance, antidiuretic
+hormone in order to hold on to more
+fluid if that's what your brain and body
+need. And it responds to other hormonal
+signals as well. So, it's a pretty
+complex organ. So,
+the way the kidney is designed is that
+about 90% of the stuff that's absorbed
+from the blood is going to be absorbed
+early in this series of tubes. So, just
+to give a really simple example, let's
+say that you are very low on fluid. You
+haven't had much to drink in a while.
+Maybe you're walking around on a hot
+day.
+Chances are that the neurons in your
+OVLT will sense the increase in
+osmolarity, right? The concentration of
+salt is going to be increased relative
+to the fluid volume that's circulating.
+This, of course, assumes that you
+haven't excreted a lot of sodium for one
+reason or another. But,
+that increase in osmolarity is detected
+by the OVLT. The OVLT is going to signal
+a bunch of different cascades through
+the supraoptic nucleus, et cetera. And
+then vasopressin is going to be released
+into the bloodstream. And vasopressin,
+again, also called antidiuretic hormone,
+is going to act on the kidney
+and change the kidney's function
+in a couple of different ways, some
+mechanical, some chemical, okay? In
+order to make sure that your kidney does
+not release much water. Doesn't make you
+want to urinate. And in fact, even if
+you would try to urinate, your body's
+going to tend to hold on to its fluid
+stores. Okay? So, very simple,
+straightforward example. We can also
+give the other example whereby if you're
+ingesting a lot, a lot, a lot of water,
+and it's not a particularly hot day, and
+you're not sweating very much. Let's
+assume your salt intake is constant or
+or is low for whatever reason. Well,
+then the osmolarity, the salt
+concentration in your blood is going to
+be lower. Your OVL T will detect that
+because of these osmo sensing neurons in
+your OVL T. Your
+OVL T will fail to signal to the super
+optic nucleus and there will not be the
+release of vasopressin antidiuretic
+hormone and you can excrete all the
+water that your body wants to excrete.
+Meaning you'll be able to urinate.
+There's no holding on to water at the
+level of the kidney. Okay. So, how much
+salt do we need and what can we trust in
+terms of trying to guide our ingestion
+of salt? First of all, I want to be
+very, very clear that there are a number
+of people out there that have
+prehypertension or hypertension. You
+need to know if you have prehypertension
+or hypertension. You need to know if you
+have normal
+tension, meaning normal blood pressure.
+Everyone should know their blood
+pressure. It's an absolutely crucial
+measurement that has a lot of impact on
+your immediate and long-term health
+outcomes. It informs a lot about what
+you should do. Should you be doing more
+cardiovascular exercise? Should you be
+ingesting more or less salt? And without
+knowing what your blood pressure is, I
+can't give a one-size-fits-all
+recommendation and indeed I'm not going
+to give medical recommendations. I'm
+simply going to spell out what I know
+about the research, which hopefully will
+point you in the direction of figuring
+out what's right for you in terms of
+salt and indeed fluid intake. There is a
+school of thought that everybody is
+consuming too much salt. And I do want
+to highlight the fact that there are
+dozens, if not hundreds, of quality
+papers that point to the fact that a
+quote unquote high salt diet can be bad
+for various organs and tissues in the
+body, including the brain.
+It just so happens that because fluid
+balance both inside and outside of cells
+is crucial not just for your heart and
+for your lungs and for your liver and
+for all the organs of your body, but
+also for your brain, that if the salt
+concentration inside of cells in your
+brain go becomes too high, neurons
+suffer.
+Right? They will draw fluid into those
+cells because water tends to follow
+salt, as I mentioned before,
+and those cells can swell. You can
+literally get swelling of brain tissue.
+Conversely, if salt levels are too low
+inside of cells in any tissue of the
+body, but
+in the brain included, then
+the cells of the body and brain can
+shrink because water is pulled into the
+extracellular space away from cells. And
+indeed, under those conditions, brain
+function can suffer. And indeed, the
+overall health of the brain can suffer.
+At very low levels of sodium,
+meaning at about 2 g per day,
+you run fewer health risks, but the
+number of risk continues to decline as
+you move towards 4 and 5 g per day. And
+then as you increase your salt intake
+further,
+then
+the risk dramatically increases. Most
+people are probably consuming more than
+that because of the fact that they are
+ingesting processed foods and processed
+foods tend to have more salt in them
+than non-processed foods. But if we were
+to take this number of 2.3 g, that's the
+recommended cutoff for ingestion of
+sodium, that indeed is associated with
+low incidence of hazardous outcomes,
+cardiovascular events, stroke, etc. So
+again, I want to be very, very clear
+that you need to know your blood
+pressure. If you have high blood
+pressure or you're pre-hypertensive, you
+should be especially cautious about
+doing anything that increases your blood
+pressure. And as As you want to, of
+course, talk to your doctor about doing
+anything that could adjust your health
+in any direction. But, there are a
+number of people out there that have low
+blood pressure, right? People that get
+dizzy when they stand up. People that
+are feeling chronically fatigued. And in
+some cases, not all, those groups can
+actually benefit from increasing their
+sodium intake. Why? Well, because of the
+osmolarity of blood that we talked about
+before, where
+if you have a certain concentration of
+sodium, meaning sufficient sodium in
+your bloodstream, that will tend to draw
+water into the bloodstream. And
+essentially, the pipes that are your
+capillaries, arteries, and and veins
+will be full. The blood pressure will
+get up to your head. Whereas, some
+people their blood pressure is low
+because the osmolarity of their blood is
+low. And that can have a number of
+downstream consequences. I should also
+mention it can be the consequence itself
+of
+challenges or or even deficits in kidney
+function. But, all of these organs are
+working together. So, the encouragement
+here is not necessarily to ingest more
+sodium. It's to know your blood pressure
+and to address whether or not an
+increase in sodium intake would actually
+benefit your blood pressure in a way
+that could relieve some of the dizziness
+and other symptoms
+of things like orthostatic disorders.
+Let's look at what the current
+recommendations are for people that
+suffer from orthostatic disorders like
+orthostatic hypo, meaning too low
+tension, orthostatic hypotension,
+postural tachycardia syndrome, sometimes
+referred to as POTS, P.O.T.S., or
+idiopathic orthostatic tachycardia and
+syncope. Those groups are often told to
+increase their salt intake in order to
+combat their symptoms. The American
+Society of Hypertension recommends
+anywhere from 6,000 to 10,000. These are
+very high levels. So, this is 6 g to 10
+g of salt per day. Keeping in mind,
+again, that salt
+is not the same as sodium. So, that
+equates to about 2,400 to 4,000 mg of
+sodium per day.
+I point out this paper and I point out
+these higher salt recommendations
+to emphasize again that context is
+vital, right? That people with high
+blood pressure are going to need certain
+amounts of salt intake. People with
+lower blood
+pressure are going to need higher
+amounts of salt. And for most people out
+there,
+you're going to need to evaluate how
+much salt intake is going to allow your
+brain and body to function optimally.
+So, if you're exercising a lot, if
+you're a particular cold, dry
+environment, or a particular hot
+environment, you ought to be ingesting
+sufficient amounts of salt and fluid. A
+rule of thumb for exercise-based
+replenishment of fluid comes from what I
+some episodes back referred to as the
+Galpin equation.
+The Galpin equation I named it after
+Andy Galpin, and I think that is the
+appropriate attribution there. Andy
+Galpin is an exercise physiologist. So,
+the Galpin equation is based on the fact
+that we lose about 1 to 5 lb of water
+per hour,
+which can definitely impact our mental
+capacity and our physical performance.
+And the reason
+that loss of water from our system
+impacts mental capacity and physical
+performance has a lot to do with
+literally the changes in the volume of
+those cells, the size of those cells,
+based on how much sodium is contained in
+or outside those cells. And the formula
+for hydration,
+the so-called Galpin equation, is your
+body weight in pounds divided by 30
+equals the ounces of fluid you should
+drink every 15 minutes. Now,
+the Galpin equation is
+mainly designed for exercise, but I
+think is actually a very good rule of
+thumb for anytime that you need to
+engage mental capacity, not just
+physical performance. The idea is to
+make sure that you're entering the
+activity, cognitive or or physical,
+sufficiently hydrated.
+And that throughout that activity you're
+hydrating regularly. And it points to
+the fact that most people are probably
+under hydrating, but not just under
+hydrating from the perspective of not
+ingesting enough water, that they're
+probably not getting enough electrolytes
+as well, sodium, potassium, and
+magnesium. So, we've all heard about how
+excess salt it's bad for blood pressure,
+damage the heart, the brain, etc.
+I do want to give some voice to
+situations where
+too little salt can actually cause
+problems. And this has everything to do
+with the nervous system.
+So, without getting into excessive
+amounts of detail,
+the
+kidneys, as we talked about before, are
+going to regulate salt and fluid
+balance.
+The
+adrenal glands, which ride atop the
+kidneys, are going to make
+glucocorticoids like aldosterone, and
+those are going to directly impact
+things like
+fluid balance, and in part they do that
+by regulating how much craving for and
+tolerance of salty solutions uh we have.
+The whole basis for a relationship
+between the adrenal system, these
+glucocorticoids, things like
+aldosterone, and the craving for sodium,
+is that
+the stress system is a generic system
+designed to deal with various challenges
+to the organism, to you, or to me, or to
+an animal.
+And
+those challenges can arise in many
+different forms.
+They can be an infection, it can be
+famine, it can be lack of water, and so
+on.
+But, in general, the stress response is
+one of elevated heart rate, elevated
+blood pressure, and an inability to
+maintain movement and resistance to that
+challenge. Okay? It's clear from a
+number of studies that if sodium levels
+are too low,
+that our ability to meet stress
+challenges is impaired.
+There are conditions, such as when we
+are under stress challenge, when there
+is a natural craving for more sodium,
+and that natural craving for more sodium
+is hardwired into us as a way to meet
+that challenge. Now, we can't have a
+discussion about sodium without having a
+discussion about the other electrolytes,
+magnesium and potassium. I want to
+emphasize that many people are probably
+getting enough magnesium in their diet
+that they don't need to supplement
+magnesium. Some people, however, opt to
+supplement magnesium in ways that can
+support them, and there are many
+different forms of magnesium, and just
+in very brief
+passing, I'll just say that
+there is some evidence that
+you can reduce muscle soreness from
+exercise by ingestion of magnesium
+malate, m a l a t e.
+I've talked before
+about magnesium threonate, t h r e n o a
+t e, magnesium threonate,
+for sake of promoting the transition
+into sleep and for depth of sleep. And
+then there are other forms of magnesium,
+magnesium bisglycinate, which it seems
+at least on par with magnesium threonate
+in terms of promoting transition into
+and depth of sleep, and so on.
+There are other forms of magnesium,
+magnesium citrate, which um has other
+functions. Actually, magnesium citrate
+huh is uh is a fairly effective uh
+laxative. Um
+uh not known to promote sleep and things
+of that sort. So, a lot of different
+forms of magnesium, and there's still
+other forms out there.
+Many people are not getting enough
+magnesium, many people are. Okay, so
+that's magnesium.
+Anytime we're talking about sodium
+balance, we have to take into
+consideration potassium because the way
+that the kidney works and the way that
+sodium balance is regulated both in the
+body and the brain is that sodium and
+potassium are working in close concert
+with one another.
+There are a lot of different
+recommendations about ratios out there,
+and they range widely from two to one
+ratio of potassium to sodium.
+Uh I've heard it in the other direction,
+too. I've heard a two to one sodium to
+potassium.
+Um the recommendations vary. Now, for
+people that are following
+low-carbohydrate diets, one of the
+most immediate effects of a
+low-carbohydrate diet is that you're
+going to excrete more water. And so,
+under those conditions, you're also
+going to lose not just water, but you'll
+probably also lose sodium and potassium.
+And so,
+some people, many people in fact, find
+that when they are on a lower or
+low-carbohydrate diet, then they need to
+make sure that they're getting enough
+sodium and enough potassium. And of
+course, some people who are on
+low-carbohydrate diets do ingest
+vegetables, you know, or other forms of
+of food that that carry along with them
+potassium. So, it's
+quite variable from person to person. I
+mean, you can imagine if carbohydrate
+holds water, water and salt balance and
+potassium go hand in hand and hand, that
+if you're on a low-carbohydrate diet,
+that you might need to adjust your salt
+intake and potassium. And conversely,
+that if you're on a carbohydrate-rich
+diet or a moderate-carbohydrate diet,
+then you may need to ingest less sodium
+and less potassium. So, up until now,
+we've been talking about salt as a
+substance and a way to regulate fluid
+balance and blood volume and so on. We
+haven't talked a lot about salt as a
+taste or taste of things that are salty.
+And yet, we know that we have salt
+receptors, meaning neurons that fire
+action potentials when salty substances
+are detected, much in the same way that
+we have sweet detectors and bitter
+detectors, and we have detectors of
+umami, the savory flavor, on our tongue.
+Well, we also have salt sensors at
+various locations throughout our
+digestive tract. Although that the
+sensation and the taste of salt actually
+exerts a very robust effect on certain
+areas of the brain that can either make
+us crave more or sate, meaning fulfill,
+our desire for salt. And you can imagine
+why this would be important. Your brain
+actually has to register whether or not
+you're bringing in salt
+in order to know whether or not you are
+going to crave salt more or not. And
+beautiful work that's been done by the
+Zuker lab, z u k e r, Zuker lab at
+Columbia University as well as many
+other labs have used imaging techniques
+and other techniques such as molecular
+biology to define these so-called
+parallel pathways. Parallel meaning
+pathways that represent sweet or the
+presence of sweet taste in the mouth and
+gut.
+Parallel pathways meaning neural
+circuits that represent the presence of
+salty tastes in the mouth and gut and so
+on. And then those go into the brain,
+move up through brainstem
+centers and up to the neocortex, indeed
+where our seat of our conscious
+perception is, to give us a sense and a
+perception of
+the components of the foods that we
+happen to be ingesting. The pathways,
+the parallel pathways for salty and the
+parallel pathways for sweet and bitter
+and so on can actually interact. And
+this has important relevance in the
+context of food choices and sugar
+craving.
+One of the things that's commonplace
+nowadays is in many processed foods
+there is a business, literally, a
+business of putting so-called hidden
+sugars. And these hidden sugars are not
+always in the form of caloric sugars.
+They're sometimes in the form of
+artificial sweeteners into various
+foods. And you might say, well, why
+would they put more sugar into a food
+and then disguise the sugary taste given
+that sweet taste often compel people to
+eat more of these things? Well, it's a
+way actually of bypassing some of the
+homeostatic mechanisms for sweet. You
+know, even though we might think that
+the more sweet stuff we eat the more
+sweet stuff we crave, in general people
+have a threshold whereby they say,
+"Okay, I've had enough sugary stuff."
+So, these sensory systems interact in
+this way
+by putting sugars into foods and hiding
+the sugary taste of those foods, those
+foods, even if they contain artificial
+sweeteners that will then signal to the
+brain to release more dopamine and make
+you crave more of that food. Whereas,
+had you been able to perceive the true
+sweetness of that food, you might have
+consumed less. And indeed, that's what
+happens. So, these hidden sugars are
+kind of diabolical.
+Why am I talking about all of this in
+the context of an episode on salt?
+Well,
+as many of you have probably noticed, a
+lot of foods out there contain a
+salty-sweet combination, and it is it's
+that combination of salty and sweet
+which can actually lead you to consume
+more of the
+salty-sweet food than you would have if
+if if it had just been sweet or it had
+just been salty. And that's because
+both sweet taste and salty taste have a
+homeostatic balance. So, if you ingest
+something that's very very salty, pretty
+soon your appetite for salty foods will
+be reduced. But if you mask some of that
+with sweet, well, because of the uh
+interactions of these parallel pathways,
+you somewhat shut down your perception
+of how much salt you're ingesting.
+Or conversely, by ingesting some salt
+with sweet foods, you mask some of the
+sweetness of the sweet foods that you're
+tasting, and you will continue to
+indulge in those foods. So, salty-sweet
+interactions uh can be very diabolical.
+They can also be very tasty, but they
+can be very diabolical in terms of
+inspiring you to eat more of a
+particular food than you would otherwise
+if you were just following your
+homeostatic salt or your homeostatic
+sugar balance systems. So, your brain
+has a way of representing the pure form
+of taste, salty, sweet, bitter, etc.,
+and has a way of representing their
+combinations. And food manufacturers
+have have exploited this um to large
+degree. I mention all of this because if
+you're somebody who's looking to
+explore either increasing or decreasing
+your sodium intake for health benefits,
+for performance benefits,
+in many ways, it is useful to do that in
+the context of a fairly pure, meaning
+unprocessed, food intake background,
+whether or not that's keto, carnivore,
+omnivore,
+uh
+intermittent fasting, or what have you.
+It doesn't really matter, but the closer
+that foods are to their basic form and
+taste, meaning not com- large
+combinations of large amounts of
+ingredients, and certainly avoiding
+highly processed foods, the more quickly
+you're going to be able to hone in on
+your specific salt appetite and salt
+needs, which as I've pointed out
+numerous times throughout this episode
+are going to vary from person to person
+depending on nutrition, depending on
+activity, depending on hormone status.
+So,
+if you want to home in on the
+appropriate amount of sodium for you,
+yes, blood pressure is going to be an
+important metric to pay attention to as
+you go along. But, in determining
+whether or not
+increasing your salt intake might be
+beneficial for uh for instance, for
+reducing anxiety a bit, or for
+increasing blood pressure to offset some
+of these postural syndromes where you
+get dizzy, etc., for improving sports
+performance or cognitive performance,
+and indeed many people find, and it's a
+reviewed a bit and some of the data are
+reviewed in the book The Salt Fix,
+that when people increase their salt
+intake in a backdrop of relatively
+unprocessed foods, that sugar cravings
+can indeed be vastly reduced. And that
+makes sense given the way that these
+neural pathways for salty and sweet
+interact. Now, thus far, I've already
+covered
+quite a lot of material, but I would be
+completely remiss if I didn't emphasize
+the crucial role that sodium plays in
+the way that neurons function. In fact,
+sodium is one of the key elements that
+allows neurons to function at all.
+And that's by way of engaging what we
+call the action potential. The action
+potential is the fundamental way in
+which neurons communicate with one
+another. The point I'd like to make, at
+least as it relates to this episode on
+salt, is that
+having sufficient levels of salt in your
+system allows your brain to function,
+allows your nervous system to function
+at all. Again, this is the most basic
+aspect of nervous system function. And
+there are cases where this whole system
+gets disrupted, and that brings us to
+the topic of sodium and water balance.
+As many of you have probably heard, but
+hopefully, uh if you haven't, you'll
+take this message seriously, if you
+drink too much water,
+especially in a short amount of time,
+you can actually kill yourself.
+All right? And we certainly don't want
+that to happen.
+If you ingest a lot of water in a very
+short period of time, something called
+hyponatremia,
+you will excrete a lot of sodium very
+quickly, and your ability to regulate
+kidney function will be disrupted, but
+in addition to that, your brain can
+actually stop functioning. And I've
+talked about this a bit in the episode
+on endurance, but there are instances in
+which, you know, competitive athletes
+have come into the stadium to finish a
+final lap of a long endurance race, and
+are completely disoriented, and actually
+can't find their way to the finish line.
+You know, it might sound like kind of a
+silly, kind of crazy example, but there
+are examples of people having severe
+mental issues and physical issues post
+exercise when that exercise involved a
+ton of sweating or hot environments or
+insufficient ingestion of fluids and
+electrolytes, because included in that
+electrolyte formula, of course, is
+sodium. And as you just learned, sodium
+is absolutely crucial for neurons to
+function. So, to briefly recap some of
+what I've talked about today,
+we talked about how the brain monitors
+the amount of salt in your brain and
+body, and how that relates to thirst and
+the drive to consume more fluid and or
+salty fluids. We also talked a little
+bit about the hormones that come from
+the brain and operate at the level of
+the kidney
+in order to either retain or allow water
+to leave your system.
+Talked a little bit about the function
+of the kidney itself, a beautiful organ.
+We talked about
+the relationship between salt intake and
+various health parameters and how a
+particular range of salt intake might be
+optimal
+depending on the context in which that
+range has been consumed. Meaning,
+depending on whether or not you're
+hypertensive, pre-hypertensive, or
+normal tension.
+We talked about fluid intake and
+electrolyte intake, so sodium,
+potassium, magnesium in the context of
+athletic or sports performance, but also
+in terms of maintaining cognitive
+function. Talked about the Galpin
+equation, which you could easily adapt
+to your body weight and to your
+circumstances. Of course, adjusting the
+amount of fluid and electrolyte intake
+upwards if you're exercising or working
+in very hot environments, downwards
+maybe if you're in less
+hot environments where you're sweating
+less and so on. We also talked about the
+relationship between the stress system
+and the salt craving system and why
+those two systems interact and why for
+some people who may suffer a bit from
+anxiety or under conditions of stress,
+increasing salt intake, provided it's
+done through healthy means, might
+actually be beneficial.
+We also talked about conditions in which
+increasing salt intake might be
+beneficial for offsetting low blood
+pressure and some of these postural
+syndromes that can lead people to
+dizziness and so forth. These are things
+that have to be explored on an
+individual basis and of course have to
+be explored with the support of your
+doctor. We also talked about the
+perception of salt, meaning the
+perception of salty taste and how the
+perception of salty taste and the
+perception of other tastes like sweet
+can interact with one another to drive
+things like increased sugar intake when
+you're not even aware of it and indeed
+how the combination of salty and sweet
+taste can bias you towards craving more,
+for instance, processed foods and why
+that might be a good thing to avoid. And
+of course, we talked about salt and its
+critical role in the action potential,
+the fundamental way in which the nervous
+system functions at all. So, my hope for
+you in listening to this episode is that
+you consider a question. And that
+question is, what salt intake is best
+for you? And that you place that
+question in the context of your fluid
+intake and crucially that you place that
+in the context of the electrolytes more
+generally, meaning sodium, potassium,
+and magnesium. And I hope I've been able
+to illuminate some of the beautiful ways
+in which the brain and the bodily organs
+interact in order to help us regulate
+this thing that we call sodium balance.
+And the fact that we have neurons in our
+brain that are both tuned to the levels
+of salt in our body and positioned in a
+location in in the brain that allows
+them to detect the levels of salt in our
+body and to drive the intake of more or
+less salt and more or less fluid and
+other electrolytes really just points to
+the beauty of the system that we've all
+evolved that allows us to interact with
+our environment and make adjustments
+according to the context of our daily
+and ongoing life. And last but certainly
+not least, thank you for your interest
+in science.

@@ -1,0 +1,298 @@
+# Apple Studio Display XDR Review: We're All Pros Now!
+# https://www.youtube.com/watch?v=yWI33R4xyIc
+
+[music]
+&gt;&gt; Maybe
+maybe we're all pros.
+Maybe that's what this means. Yo, what's
+up? MKBHD here and this is Apple's new
+Studio Display XDR. Probably can't tell
+just by looking at it on camera, but
+this is the new one. I've been testing
+it, staring at it for a few days now.
+This is not the most important product
+that's come out in the past couple
+weeks, let's be real, but I've been
+watching Apple and covering them for a
+while and the decisions that they make
+and the decisions that they don't make.
+And I think the existence of this
+monitor as it sits
+actually tells us a lot more about what
+Apple's doing right now. See, this past
+week was actually a tale of two brand
+new displays from Apple. They dropped a
+barely updated regular Studio Display,
+which is the same design, same stand,
+same chassis, same 11-year-old panel,
+27-in 5K IPS LCD panel, but now with the
+new processor inside and new Thunderbolt
+5 ports on the back and it's for the
+same $1,600
+price.
+It's a weird, good-looking, but weird
+monitor.
+And then this one, this is brand new.
+This is the Studio Display XDR and so
+it's an upgraded, higher-performing
+version of that. So, it's still a 27-in
+5K monitor with the same great stand,
+but the panel oh, the panel. This time
+it's finally a mini LED display with
+2,000 nits of peak HDR brightness and
+120 Hz max refresh rate with adaptive
+sync support. And this display replaces
+the Pro Display XDR.
+Hmm. So, the Studio Display replaces the
+Pro Display.
+Studio replaces Pro. Okay. Write write
+that down. Write that down. So, turns
+out there's not really that much else to
+say about the panel itself. It is an
+awesome display and at a technical level
+it's actually better in every single way
+than the Pro Display XDR. It gets much
+brighter. It'll do 1,000 nits full
+screen in regular SDR mode. The Pro
+Display could only do 500. And it'll do
+up to 2,000 nits peak brightness in HDR
+versus the Pro Display's 1,600. And the
+mini LED backlight is giving us way more
+contrast control. 2,000 local dimming
+zones versus the Pro Display's 576. You
+can see it in a dark room with a black
+background video. The difference is
+insane. There's way less blooming,
+higher contrast ratios. It's actually
+not even really close. And then it also
+gains the extra Thunderbolt 5 port on
+the back, which is sneakily extremely
+useful. And it also adds a webcam and
+speakers that the Pro Display didn't
+have and it's cheaper, which isn't
+saying much cuz you remember the Pro
+Display was $5,000 and then the stand
+was an extra $1,000 and then the
+nanotexture was another $1,000. But this
+better display starts at $3,299 and
+includes that stand. And nanotexture is
+only $300 more.
+Side note, the nanotexture thing they've
+been doing for some years now. I think
+it's just progressively getting better
+and better. It started on the Pro
+Display XDR a decade ago and it it was
+effective, but extremely difficult to
+clean. Like I can't touch my Pro Display
+XDR without fear of leaving permanent
+marks on it. It's kind of insane. That
+also birthed the infamous Apple
+polishing cloth and its constantly
+updated compatibility list. But then
+they started bringing nanotexture to
+other displays. The MacBook Pro, for
+example, got nanotexture and that's a
+little better. You could use different
+cloths on it and effectively clean it
+pretty well. And then they brought it to
+the iPad. So, there's an iPad Pro with
+nanotexture and that's obviously a
+touchscreen. So, anyway, this is the
+nanotexture version on the desktop 10
+years later. It did actually come with a
+note and a separate cleaning cloth and
+the note says to only use this including
+polishing cloth to clean this. And it is
+a different polishing cloth than the
+previous Pro Display. So, I I think I
+can probably use other microfibers and
+not have any issue. And don't worry, if
+you're wondering Apple did update the
+compatibility list for the old polishing
+cloth to include the new Studio Display.
+I know you were all holding your breath
+for that one. But last time I reviewed
+the Studio Display
+I remember specifically pairing it again
+with my MacBook Pro and saying that even
+though this monitor is made for the Mac,
+it doesn't actually feel like it makes a
+great pair with the MacBook Pro because
+they don't match that well. The MacBook
+Pro is this nice high refresh rate mini
+LED display and then your Studio Display
+is a 60 Hz LCD. But now the Studio
+Display XDR specifically is a much
+better pair with the MacBook Pro now.
+Now, there are, as always, lots of other
+options for monitors that you could get
+to pair with your Apple computer.
+But the reason that a lot of people end
+up choosing the Studio Display, the
+Apple Display, is because of how well it
+pairs with and works with the Mac. And
+that's not just aesthetics, though
+obviously being silver and metal is
+going to be a factor, but it's also the
+one cable life. Like plugging in a
+single Thunderbolt 5 cable into the
+display at your desk and getting all
+your accessories to light up. Everything
+else connected to all the other ports on
+the back of the display, including if
+you want another full speed Thunderbolt
+5 port to dock some really fast storage
+to the thing. You can even connect
+through that port to another Studio
+Display. So, you can daisy chain up to
+four Studio Displays or two Studio
+Display XDRs together to the same
+MacBook Pro all through one single
+cable. And then they'd all be matching
+as high refresh rate, high brightness
+mini LEDs across the board and it would
+be charging the MacBook Pro at 140 W.
+So, what do I mean when I say we're all
+pros now? What does that mean?
+Uh well, I did earlier say that Studio
+replaced Pro. You wrote that down,
+right?
+So, this is the new Studio Display. But
+if you go to Apple's blog post
+announcing this thing, they literally
+still call it the world's best Pro
+Display in big text. So, they couldn't
+be more clear about Studio replacing
+Pro. Uh but more importantly, this great
+display now is packaged like this,
+which is clearly an upgrade to the base
+version. There's the Studio Display and
+then the upgraded Studio Display. And
+that is easier to sell and easier to
+explain. It's easier to understand. And
+you know how much Apple loves their
+price ladders. Anyway, my main theory is
+that I don't think Apple really is
+interested in targeting the real pro,
+the professional market anymore.
+And this is probably a debate they've
+had many times internally, but that
+professional market is super small, it's
+super picky and it is the least likely
+to be interested in their ecosystem
+stuff. So, they'll dabble in really pro
+stuff once in a while. Mac Pro, sure, it
+exists. The Pro Display, obviously, but
+that's not really their bread and
+butter. Like they they use the word pro,
+but most of the stuff that has the word
+pro in it, like the iPhone Pro or the
+MacBook Pro, is really high-end consumer
+devices that have like pro-level
+capabilities. And so, the natural
+extension of this theory is that Mac Pro
+is doomed.
+Of course it's doomed. Uh like I said,
+like you wrote down.
+Studio replaces Pro. And we already have
+a Mac Studio now getting more regular
+updates than the Mac Pro. Mac Pro hasn't
+been updated since M2 Ultra back in
+2023. And I'd be willing to bet that it
+doesn't get any more updates. But that's
+a tangent for another day. The point is
+the word Studio replaces the word Pro at
+the very top of Apple's lineup. That is
+the most pro of any of the stuff you'll
+get from Apple is when you see the word
+Studio on it. So, as someone who's been
+using a MacBook Pro and a Pro Display
+XDR since they came out, the immediate
+first thought when I saw these announced
+was should I be switching to the Mac
+Studio and the Studio Display XDRs? You
+know, I've gotten really used to these
+huge Pro Displays with more real estate,
+but you know, 27-in 5K with slightly
+thicker bezels is not a disaster. It's
+still a lot of screen. So, since
+everything else about it is better,
+I probably should be switching. But for
+everyone else out there who doesn't
+already have a Pro Display and is
+looking for the best display to pair
+with say their MacBook Pro,
+this is about as good as it gets. Like
+as a video creator in this little studio
+we have here, this is more than pro
+enough for me. Like I know there are
+Hollywood movie studios that don't even
+need a webcam built in and they don't
+even need speakers built onto their
+monitor cuz it just lives in an editing
+den all day. Never does any FaceTime
+calls or any gaming or YouTube watching.
+But this is more of a mixed-use product
+that is sometimes used to edit videos,
+like the one you're watching, and edit
+photos, like the thumbnail of this
+video. But then other times it's used to
+make a video call or get on a virtual
+meeting. And then the perfectly average
+1080p Center Stage webcam is nice to
+have in that case. And sometimes it
+might actually be used to just watch
+videos, listen to music, do other random
+stuff. And the speakers in here are
+still surprisingly good at that. They're
+like 16-in MacBook Pro level, like
+impressive speakers for in this tiny
+chassis.
+You should probably still get dedicated
+speakers though. They're not even going
+to be in the same planet. But then the
+120 Hz max refresh rate is great for
+animations and scrolling around, even
+gaming if you wanted to. Something an
+actual professional reference monitor
+would almost never be used for. There
+really isn't much for me to compare this
+to. Like I would love to look at other
+options for a 27-in 5K 2,000 nit HDR
+mini LED display with high refresh rate,
+but there aren't any. So, when I also
+point out that the Thunderbolt 5 cable
+that it comes with is kind on the short
+side. It's like 3 ft long. Eh, doesn't
+really seem to matter. Like I'm sure the
+other reviews will also point out that
+the top gets just a little bit warm once
+it's been on for a little while,
+partially because it's a really big
+bright display, also partially because
+there's literally an A19 Pro chip in
+here with 12 gigs of RAM just to run the
+webcam and speakers.
+There's no question other people will
+bring up that even though the power
+supply is built in, the power cable is
+still non-removable, which is still
+super strange and will make it a pain to
+get replaced. But at the end of the day,
+I do feel like if you want the best
+possible display to complement the
+MacBook Pro for that one cable plug-in
+and come to life desk setup,
+it's this one. Now, Apple, if you could
+just update the Mac Studio with like a
+M4 M5 Ultra soon as well,
+that would be very much appreciated. But
+either way, we got a lot more coming up
+in Tech-tember, I mean, March.
+Somehow this became Tech-tember or
+Tech-March-Tarch.
+It's Tarch. Stay tuned for many more
+videos coming soon because it's Tarch
+season.
+Catch you guys in the next one. Get
+subscribed. Peace.

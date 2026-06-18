@@ -1,0 +1,147 @@
+# MAINGEAR Shift Supercomputer: Part 1!
+# https://www.youtube.com/watch?v=9sTVbeq21dI
+
+[Music]
+hey what is up guys I'm kbd here and
+right now I edit all of my videos on one
+of these I think it's time to give an
+upgrade a
+shot this is the main gear shift
+computer or the MKBHD Edition main gear
+shift and these are my first impressions
+of it now I actually wanted to wait till
+I had a little bit more space in a new
+place to set it up and actually hook it
+up to my main setup but I couldn't
+really resist getting it out the box and
+checking it out first so the main gear
+shift is essentially a custom pre-built
+computer to spec so you pick all the
+parts you pick all the specs then the
+guys at main gear put it together for
+you but it is a little bit more
+impressive than just that because anyone
+can put together a computer as we know
+it's not that impossible to build a
+machine yourself but it is pretty hard
+to build a machine that looks like this
+so I plan on giving it a shot as the
+main brains of my setup and using it
+fulltime basically so this is just the
+first video I'm making on couple of
+videos that I plan on making about the
+experience with this computer as they
+happen so this first one is just a first
+impressions video maybe let me know what
+you guys are thinking you want to see in
+the other videos in the comment section
+below whether it's exploring the video
+editing prowess of a machine like this
+or gaming I'm sure is something that
+people want to see I don't game much but
+I can try stuff out uh or maybe it's
+just dropping Windows 10 on this guy and
+seeing how it compares to the Mac Pro
+that I've used for a while now something
+you've probably noticed by now if you've
+seen a lot of computers with an open
+side before is the layout of this case
+is a little bit rotated versus your
+normal computer layout your ports are
+not on the front and they're not on the
+back they're all on the top so of course
+you do have a little pop-up section here
+to give you access to uh normal some
+frequently accessed ports but taking off
+the sides will explain this a little bit
+better the entire inside of the main
+gear shift is rotated 90° compared to a
+normal computer so the motherboard the
+graphics cards everything is turns
+sideways so the machine takes in cool
+air from the bottom and the side and
+pushes hot air out the top and so since
+hot air rises that process is helped out
+naturally by physics and it's more
+efficient and it puts all of your ports
+now on the top of the computer so you
+don't have to reach around the back
+anymore if you want to unplug something
+or plug something in and there are a ton
+of ports as you can see by this board 12
+USB ports on the top here alone uh most
+of them USB 3 and the graphics cards
+will do multiple outputs as well so the
+specs since I know that's a curious easy
+thing to just go down the list and tell
+you guys what's inside this machine
+inside it's rocking an Asus x99 Deluxe
+board an Intel Core i7 5960x so an
+octacore CPU overclocked to 4.5 GHz so
+4.5 GHz at 8 cores 32 gigs of Corsair
+ddr4 Ram should be really fast and two
+Nvidia GeForce 980s in SLI also an 860 W
+modular power supply down here in the
+bottom and three 256 gig ssds in raate
+zero for insane speed plus a 4 TB
+internal drive for storage so that's a
+pretty dop dope list of specs but there
+are still the differences between
+building that set of specs for yourself
+in your own computer versus buying this
+main gear built computer first of all a
+paint job like no other this is a custom
+case and the red and black and white
+paint everywhere is super high quality
+and it's applied believe it or not with
+the same process as a car is painted so
+actually when he took it out the box it
+had a faint sort of new car smell with
+that fresh paint and the logo on the
+side is of course also custom that's
+what really solidifies it as an kbd
+Edition version of the main gear shift
+uh and that's the kind of thing that
+would take many hours of work in an off
+the shelf case if you wanted to do
+something like that also since a
+professional builds it Cable Management
+from the gods of custom PCS I mean this
+is beautifully done cable ties in all
+the right places the modular power
+supply and everything sitting neat and
+tidy tucked away where it should be and
+also allows for maximum air flow it's
+beautiful inside you also get a couple
+of other things like this binder which
+has a build log and a checklist of the
+55 inspection it passed to even get
+shipped to you a signature and the
+contact info of your Builder and even
+proof that it passed an overnight bur in
+test and a few benchmarks spoiler alert
+this thing dropped nearly 32,000 points
+on geekbench 64-bit multicore it's kind
+of a boss so this thing is legit from
+top to bottom it even has a little
+multicolor LED light strip on the inside
+by the window with a remote control so
+you can control all the way the lights
+look without ever opening up the casee
+and all these sorts of things all the
+things the little things that make the
+main gear shift different from something
+that you would build yourself will be
+explored in future videos so can you
+build something like this for Less
+technically since these are mostly off
+the-shelf Parts yeah you could get that
+done but it will look nothing like the
+shift uh so thanks for watching this
+video number one of my experience with
+this PC and uh stay tuned for video
+number two and all the other stuff
+coming to this channel thanks for
+watching and I'll talk to you guys in
+the next one
+peace

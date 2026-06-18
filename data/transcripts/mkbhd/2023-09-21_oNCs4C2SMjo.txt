@@ -1,0 +1,295 @@
+# Apple Watch Series 9 & Ultra 2: What Are We Waiting For?!
+# https://www.youtube.com/watch?v=oNCs4C2SMjo
+
+okay so here's the thing we already know
+that these two watches the Apple Watch
+series 9 and the new Ultra 2 are not for
+people who already have any somewhat
+recent Apple watch these are iterative
+updates for people who don't have any
+Apple watch yet or have like a really
+really really really old Apple watch
+like a series 3 or something like that
+so you would really have to squint and
+and put it side by side with the
+previous version to actually notice
+what's different about it versus the
+previous gen but on top of that some of
+the stuff that's actually genuinely new
+with these watches isn't even shipping
+right away it's coming later this year
+well later this year you'll see what I
+mean so I'll make this review really
+simple for you guys here it's just a
+spec bump the Apple Watch series 9 is a
+spec bump over the series 8 and the new
+Ultra 2 is the same spec bump over the
+original Ultra basically there's one new
+color this pink on the series 9 that I
+have and it's pretty similar to the new
+pink iPhone it's this kind of light
+salmony colored one aside from that
+honestly you could never even tell if
+someone is wearing the new watch matter
+of fact I've been wearing around this
+new Ultra 2 for more than a week now
+nobody's asked about it nobody can tell
+because it looks exactly the same there
+were some rumors floating around of
+heavily speculating on a black Apple
+Watch 2 you might have seen these also
+and this seemed like something everybody
+agreed was probably going to happen and
+it made a lot of sense because there's
+always something Apple does just to
+visually distinguish the new one from
+the not so new one but what I think
+happened was Apple got to testing it and
+then they started to realize just what
+happens to a coated Titanium on a
+durable focused item like a watch so
+kind of similar to the new iPhone
+there's these new colors with PVD
+coating on top of titanium for the
+iPhone 15 Pro but it's a phone so people
+put it in a case and they're a little
+bit more careful with it but on an
+adventure watch where you expect people
+to run around outside and beat it up and
+scrape it and drag it through rocks and
+sand and stuff I think they realized
+that might have a tough time wearing
+well so we just didn't get it just looks
+exactly the same so either way okay what
+is the new spec bump uh it's the S9 the
+new S9 chip inside this phone or the
+system in package the Sip as they call
+it literally everything that's new about
+these watches stems from this S9 so
+first of all it's a faster chip which
+just means generally flying around the
+UI and opening and closing apps and
+notifications and stuff like that all is
+technically faster honestly not super
+noticeable just cuz you really don't do
+a ton of that on the watch and the
+refresh rate is exactly the same but you
+know what I'll still take it but then
+it's also a more power efficient ship
+which you'll always love to see in a
+small battery Gadget like a watch but
+Apple actually targets the same 18-hour
+battery life that they always do and
+instead cranks the maximum brightness of
+the new series 9 display up to 2,000
+nits thanks to new display driver
+silicon and on the ultra 2 that now goes
+from 2,000 up to 3,000 nits Max
+brightness so unsurprisingly they look
+great outdoors you don't necessarily
+look at it right away and notice it's
+brighter it's really only when you put
+it side by side with the last one that
+you can at least appreciate how
+impressive this is 300nits is actually
+the brightest display Apple has ever put
+in any Gadget they've ever made the S9
+package also includes a new Ultra
+wideband chip that enables Precision
+finding of your iPhone so basically find
+my iPhone before on the watch was just
+pinging a sound to play from your iPhone
+but now with the watch you can have it
+direct you to find exactly where your
+phone is kind of like finding an air tag
+even more useful if your phone is like
+in between some couch cushions or
+something or if it's playing sound
+echoing in a weird way I think this is a
+great ecosystem feature I'm sure a lot
+of people will love it and the S9
+package also has twice as much memory
+built in now and a double thep speed
+neural engine which combined is able to
+give you faster serial quests and it's
+able to process all the sir requests on
+device without any connection to the
+Internet so Siri is kind of famous at
+this point for occasion just grinding to
+a halt and not answering questions or
+just taking forever because you have a
+terrible internet connection so this
+actually does make a big difference
+basically asking it normal questions is
+pretty consistently quick uh the on
+device Transformer model is also a bit
+more accurate now Apple wasn't actually
+specific about which SE requests are
+happening completely on device but if we
+just use our our inferencing here what I
+understand is happening is basically all
+of the voice processing is happening on
+device from the S9 and than anything
+that actually needs to go to the
+internet to look something up that's
+when it goes and does the round trip so
+something like set a timer is always
+going to be nice and quick no matter
+what your internet connection is because
+that's all on device but if you ask it
+like how tall is the Empire State
+Building it'll process your voice
+quickly but then it still needs a decent
+internet connection to do the rest of it
+fast it's also supposed to be able to
+access your health data and be able to
+submit Health Data from just your voice
+CU it's all on device and local and
+secure but that's one of the few things
+that's supposed to be later this year
+ler this year so as of right now when I
+try the things that were in the keynote
+I just get nonresponses and errors but
+then the one big feature the one
+genuinely interesting new thing that
+stands out to me in this generation of
+watches as actually Innovative is double
+tap this double tap feature is like the
+perfect Symphony of impressive
+processing power and clever computation
+and high quality sensors all combined to
+give you something genuinely new that
+honestly I don't actually expect other
+smart watches to be able to copy at
+least anytime soon so it's just this
+it's just double tapping your thumb and
+your pointer finger on the same side
+that you're wearing your watch to select
+things on the
+watch later this year so Apple actually
+had to ship me a separate watch running
+I guess an early copy of watch OS 10.1
+all the new watches shipping right now
+have 10.0 but the feature itself is
+simple you raise to wake and then you
+double tap your fingers together to
+control what's happening on the screen
+of the watch this this is basically most
+useful in instances where your other
+hand is full maybe you're carrying
+something or you're walking a dog or
+you're cooking and your hand is dirty
+something like that whatever but when
+you actually do it it's basically set up
+to either select the primary button in
+whatever app you're in or Advance
+through the stack of widgets in a series
+smart stack so basically if you're
+receiving an incoming call no matter
+what when you double tap it will accept
+the call it's the primary button and
+then when you're in the call another
+double tap that hits the end call button
+cuz now that's the primary button that's
+also strangely satisfying in the past
+for me I know if one hand is busy it's
+been like a nose tap I know I'm not the
+only one who's done that so you can't
+judge me but I'm I'm welcoming of this
+sort of solution to that problem and
+honestly it's been very accurate very
+few false triggers I know that I kind of
+have to give it a second once I raise to
+wake and then double tap but it's it's
+consistent it's very good now the whole
+but actually thing about this not being
+new here is there was an accessibility
+setting called assist of touch added I
+think all the way back with the Apple
+Watch series 6 which was designed for
+people who don't have another hand to
+use their Apple watch so they have to be
+able to control it with just their one
+hand and so it had double pinch it had
+single pinch it had clenching your fist
+and double clenching your fist from my
+limited experience cuz I turned it on
+and tried it on other watches it works
+pretty well when you're very deliberate
+about it but the official reason why
+this double tap is new and and therefore
+only available on these newest
+generations of watches and not the older
+ones is the most Apple thing ever okay
+ready basically the algorithm that is
+doing all of the processing from all the
+data from the sensors which is the same
+sensors on the old watches is so much
+more complicated and so much heavier now
+that it couldn't possibly run on an S8
+or an older piece of silicon just the S9
+yeah convenient so this is coming this
+is a in a month thing this is according
+to the keynote they're usually pretty
+good about delivering on promises like
+that but as of right now this is not
+shipping with the watch either way this
+is this is something both useful and
+clearly foreshadowing to the upcoming
+Apple Vision Pro whose primary gesture
+will be selecting things by putting your
+thumb and index finger together honestly
+it's one of the most fascinating things
+about this watch but the other
+fascinating thing is that paired with
+one of these sport bands the Apple watch
+is Apple's first fully carbon neutral
+product like full carbon neutral that
+that might be the most impressive thing
+about this entire watch that includes
+all of the materials energy and
+Emissions used to create it assemble it
+package it ship it to your door and it
+accounts for all of the energy that it
+actually takes to run the device for the
+lifetime of you owning it that is absurd
+that is extremely impressive impressive
+I'm kind of taking their word for it on
+their face I do want to dig more into
+this later but it's also something that
+I hope other companies start to copy so
+here's the thing you know that thing
+Apple's done in other product categories
+where they'll have a big silicon upgrade
+in the same old design as before and
+then the next Generation they'll
+actually update the design of the
+product they've done this with the
+MacBook Air MacBook Pro other stuff I'm
+thinking and I'm hoping that to line up
+with rumors that that's exactly what's
+happening with the Apple watch this is
+what we've been wanting for a while look
+back at it this watch looks basically
+exactly the same as last year and that
+one looked just like the year before
+which looked just like the year before
+that and the year before that same shape
+same buttons same fundamentals and I get
+that if it ain't broke don't fix it
+that's pretty classic but there's been
+so many things that we've kind of just
+been waiting for SL hoping for to maybe
+see from an Apple Watch someday
+something like maybe a circular redesign
+maybe a little more classical shape
+maybe a rotating bezel like we've seen
+on the Galaxy watch which is sick maybe
+an actual Leap Forward in battery life
+like literally any one of those features
+would be the biggest update to the Apple
+watch in years but this ain't it it's
+just a it's a spec bump now you know
+thanks for watching catch you guys in
+the next one
+peace 247

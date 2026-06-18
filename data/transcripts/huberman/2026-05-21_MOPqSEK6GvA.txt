@@ -1,0 +1,742 @@
+# Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang
+# https://www.youtube.com/watch?v=MOPqSEK6GvA
+
+Welcome to Huberman Lab Essentials,
+where we revisit past episodes for the
+most potent and actionable science-based
+tools for mental health, physical
+health, and performance.
+I'm Andrew Huberman and I'm a professor
+of neurobiology and opthalmology at
+Stamford School of Medicine. And now for
+my discussion with Dr. Eddie Chang.
+Eddie, welcome.
+>> Hi. Hi, Andrew.
+>> Great to be here with you. Your main
+focus these days is the neurobiology of
+speech and language. So for those that
+aren't familiar, could you please
+distinguish for us speech versus
+language in terms of whether or not
+different brain areas control them? When
+I think about language, I think about
+words and just talking. If I sit down to
+do a long podcast or I think about
+asking you a question, I don't even
+think about the words I want to say very
+much. I mean, I have to think about them
+a little bit. one would hope, but I
+don't think about individual syllables
+unless I'm trying to, you know, accent
+something or it's a word that I have a
+particular difficulty saying or I want
+to change the cadence, etc. So, what in
+the world is contained in these brain
+areas? What is represented? Um, to me is
+is perhaps one of the most interesting
+questions and I know this lands square
+in your wheelhouse.
+>> Sure. Let's get into this uh Andrew
+because this is one of the most exciting
+stuff that's happening right now is
+understanding how the brain processes
+these exact questions. And speech
+corresponds to the communication signal.
+It corresponds to me moving my mouth and
+my vocal tract to generate words. And
+you're hearing these as an auditory
+signal. Language is something much
+broader. So it refers to what you're
+extracting from the words that I'm
+saying. We call that pragmatics and sort
+of are you getting the gist of what I'm
+saying? There's another aspect of it
+that we call semantics. Do you
+understand the meaning of these words
+and uh the sentences? There's another
+part that we call syntax which refers to
+how the words are assembled in a
+grammatical form. So those are all
+really critical parts of language and
+speech is just one form of language.
+There's many other forms like sign
+language, uh, reading. Those are all
+important modalities for reading. Our
+research really focuses on this area
+that we're calling speech. Again, the
+production of this audio signal, which
+you can't see, but your microphones are
+picking up. There are these vibrations
+in the air that are created by my vocal
+tract that are picked up by the
+microphone in the case of this
+recording, but also picked up by the
+sensors in your ear. The very tiny
+vibrations in your uh ear are picking
+that up and translating that into
+electrical activity. It's such a complex
+feat. Some people would say it's the
+most complex motor thing that we do as a
+species is is just speaking. not you
+know the extreme feats of acrobatics or
+athleticism but speaking
+>> well and especially when uh one observes
+you know uh opera or um people who you
+know freestyle rappers you know and of
+course it's not just the lips it's the
+tongue
+>> and you've mentioned two other
+structures ferinx and larynx are the
+main ones that um can you tell us just
+just educate us at a a superficial level
+what this ferinx and larynx do
+differentially because I think most
+people aren't going to Okay, sure. I'll
+talk primarily about the larynx here for
+a second, which is that if you think
+about when we're speaking, really what
+we're doing is we're shaping the breath.
+So, even before you get to the larynx,
+you got to start with the expiration. We
+fill up our lungs and then we push the
+air out. That's a normal part of
+breathing. What is really amazing about
+speech and language is that we evolved
+to take advantage of that normal
+physiologic thing at a larynx. And what
+the larynx does is that when you're
+exhaling, it brings the vocal folds
+together. Some people call them vocal
+cords. They're not really cords. They're
+really vocal folds. They're two pieces
+of tissue that come together and a
+muscle brings them together. And then
+what happens is when the air comes
+through the vocal folds, when they're
+together, they vibrate at really high
+frequencies, like 100 to 200 hertz. And
+the reason why men and women generally
+have different voice qualities is it has
+to do with the size of the larynx and
+the shape of it. Okay? So in general men
+have a larger voice box or larynx and
+the vibrating frequency the resonance
+frequency of the vocal folds when the
+air comes through them is about 100
+hertz for men and about 200 for women.
+So you take a breath in. As the air is
+coming out, the vocal folds come
+together. The air goes through. That
+creates the sound of the voice that we
+call voicing. It's not just your voice
+characteristic. It's the energy of your
+voice. It's coming from the larynx
+there. It's a noise. And then it's the
+source of the voice. And then what
+happens is that energy that sound goes
+up through the parts of the vocal tract
+like the fairings into the oral cavity
+which is your mouth and your tongue and
+your lips. And what those things are
+doing is that they're shaping this the
+air in particular ways that create
+consonants and vowels. That's what I
+mean by shaping the breath. It just
+starts with this exhalation. You
+generate the voice in the larynx and
+then everything above the larynx is
+moving around just like the way my mouth
+is doing right now to shape that air
+into particular patterns that you can
+hear is words immediately makes me
+wonder about more um primitive or
+non-learned vocalizations like crying or
+laughter. Are those produced by the
+language areas or do they have their own
+unique neural structures?
+>> We call those vocalizations. A
+vocalization is basically where someone
+can create a sound like a cry or a moan
+that kind of sound. And it also involves
+the exhalation of air. It also involves
+some phonation at the level of larynx
+where the vocal folds come together to
+create that audible sound. But it turns
+out that those are actually different
+areas. So people who have injuries in
+the speech and language areas oftentimes
+can still moan. They can still vocalize.
+And it is a different part of the brain.
+I would say an area that uh even
+non-human primates have that can be
+specialized, you know, for vocalization.
+It's a different form of communication
+than than words, for example. Speaking
+of storage of and ability to speak, you
+are doing some amazing work and have
+achieved some um pretty incredible
+well-deserved recognition for your work
+in bringing language out of paralyzed
+people. essentially allowing people who
+are locked in to a paralyzed state or
+otherwise unable to articulate speech
+using brain machine interface
+essentially translating the neural
+activity of areas of the brain that w
+would produce speech into hardware
+artificial non-biological tools in order
+to allow paralyzed people to
+communicate.
+>> So there are a series of conditions um
+they include things like brain stem
+stroke. The brain stem is the part of
+the brain that connects the cerebrum
+which is the top part does our thinking
+and a lot of the motor control, speech,
+language, everything. And the brain stem
+is what connects that to the spinal cord
+and the nerves that go out to the face
+and vocal tract. So if you have a stroke
+there, you could be thinking all the
+wild creative intelligent thoughts you
+have in the mind and the cerebrum, but
+you can't get them out into words or you
+can't get them out to your hand to write
+them down. So that's a very severe form
+of paralysis called brain stem stroke.
+There's another kind of conditions that
+we call neurogenerative where the nerve
+cells die basically or atrophy and a
+condition called uh ALS. That's a very
+severe form of paralysis. In its extreme
+form, people essentially lose all
+voluntary movement. The muscles to their
+diaphragm and their lungs essentially
+give out as well. They get weakness
+there and then they can't breathe
+anymore. In our field, these are kind of
+like the most devastating things that
+can happen. This condition of what we
+call being locked in refers to this idea
+that you can have completely intact
+cognition and awareness but have no way
+to express that. No voluntary movement,
+no ability to speak and that is
+devastating because uh psychologically
+and socially you know you're completely
+isolated. That's what we call locked in
+syndrome and it's devastating. So we've
+been studying this patterning of
+electrical activity for consonants and
+vowels. And essentially once we figured
+out a lot of these codes for the
+individual phonetic elements, part of
+the lab started to focus on this very
+specific question for people who have
+these kind of paralysis. Could we
+intercept those signals from the brain,
+the cerebral cortex, as someone is
+trying to say those words? And then can
+we intercept them and then have them
+taken out of the brain through wires to
+a computer that are going to interpret
+those signals and translate them into
+words. So we started a clinical trial.
+It's called the Bravo trial. It's still
+underway. And the first participant in
+the Bravo trial was a man who had been
+paralyzed for 15 years. He was in a car
+accident. He actually walked out of the
+hospital the day after that car
+accident, but the next day had a
+complication related to it where he had
+a very large stroke in the brain stem
+and that turned out to be devastating.
+He didn't wake up from that stroke for
+about a week. He was in a coma for about
+a week and when he woke up from that
+coma, he realized that he couldn't speak
+or move his arms or legs. As he told me
+or communicated to us, that was
+absolutely devastating. He wanted really
+to die at that time.
+>> Could he blink his eyes or move his
+mouth in any way?
+>> He could blink his eyes. He had some
+limited mouth movements but couldn't
+produce any intelligible speech. It was
+like completely slurred and
+incomprehensible. He survived this
+injury. A lot of people who have that
+kind of stroke just don't survive. The
+way he actually communicates because he
+has a little bit of residual neck
+movements is that he improvised and had
+his friends basically put a stick
+attached to his baseball cap because he
+could move his neck. He would
+essentially type out letters on a
+keyboard screen to get out words. In
+fact, this is how he communicated was
+through a device that he would
+essentially peck out letters one by one
+by moving his neck to control this stick
+attached to his baseball cap. He hadn't
+really spoken for about 15 years.
+>> Oh, goodness.
+>> Yeah. So, it was part of a clinical
+trial. It was, you know, something that
+our hospital and also the FDA, you know,
+had to approve and looked at very
+carefully. But given a lot of the work
+that we had done, there was some basis
+for for why this might work. And so we
+did a surgery where we implanted
+electrodes
+onto these areas that control the vocal
+tract, the areas that control the
+larynx, the areas that control the lips
+and tongue and jaw movements when we
+normally speak. These are areas that
+presumably may be active. That was our
+hope. And he underwent a surgery, a
+brain surgery. We put an electrode array
+and we connected it to a port that was
+sculled to uh screwed to his skull. And
+the port actually goes through his
+scalp. And he's lived with this now for
+the last three years. So he has an
+electrode array that's implanted over
+the part of the brain that's important
+for speech. It's connected to a port.
+And then we connect a wire to that port
+that translates those uh what we call
+analog, you know, brain waves and
+converts them into digital signals. We
+put them through a machine learning or
+artificial intelligence algorithm that
+can pick up these very very subtle
+patterns. You can't actually see them
+with your eye uh in in the brain
+activity and translate those into words.
+And this is something that took weeks to
+train the algorithm to interpret it
+correctly. But what was incredible about
+it was to see how he reacted. He would
+be prompted to say a given word like you
+know outside for example and then he
+would think about it try to say it and
+finally those words would appear on the
+screen. And what was really amazing
+about it was you could really tell that
+he like got a kick out of that because
+you know his body would shake in a way
+and his head would shake in a way that
+he would start to giggle. That was cool
+to see, but then I also realized that
+when he was giggling, it kind of screwed
+up the next words. Decoding.
+>> Is that a bug you've since uh fixed?
+>> No, we haven't fixed that. It's easier
+just to tell him to stop giggling. The
+way this worked was we trained uh this
+computer to recognize 50 words. We
+started with a very small vocabulary
+that's expanding as we speak. I think
+that this is just a matter of time
+before these vocabularies become much
+much larger. But we started with a 50
+set of words. We created essentially all
+the possible sentences that you could
+generate from those 50 words. Why that
+was important was you can use those all
+those possible sentences to create a
+computational model computer model of
+all the different word combinations to
+give different sentences given those 50
+words. And then you can essentially do
+what we call autocorrect. It's the same
+kind of thing that we do when you're
+texting, for example, you get the wrong
+letter in there. Your phone actually
+knows, you know, because it's context
+what to correct it. So because the
+decoding is not 100% correct all the
+time. In fact, it's far from that. It's
+really helpful to have these other
+features like autocorrect, the stuff
+that we use routinely now with texting
+that makes it correct and then updates
+it. So, it's a combination of a lot of
+things. It's the AI that is translating
+those brain activity patterns, but it's
+also things that we've learned from
+speech and speech technologies that, you
+know, you put all together and then all
+of a sudden it starts to work. That was
+the first time that someone was
+paralyzed and could create words and
+sentences uh that was just decoded from
+the brain activity.
+>> These days, we hear a lot about neural
+link, Elon Musk's company. While brain
+machine interface of the sort that you
+do and that other laboratories do has
+been going on for a long time, there's
+been some press around neural link about
+the promise of what brain machine
+interface could do. What are your
+thoughts about manipulating neural
+circuitry to achieve suprahuman or
+superhuman or super physiological
+functions? And here we don't even have
+to think about neural link in
+particular. It's just but one example of
+companies and people in laboratories
+that are quite understandably
+considering all this.
+>> It's a really interesting time right
+now. The science has been going on for
+decades. The work that we've done in
+this field that you call brain machine
+interface. It's been going on for a
+while and a lot of the early work was
+just trying to restore things like arm
+movement or having people or monkeys
+control a computer cursor for example on
+the screen. That's been going on for
+decades. What's been really new is that
+industry is now involved and some some
+of this now becoming commercialized and
+we're starting to see us now cross over
+to this field where it's no longer just
+research that we're talking about
+medical products um that are designed to
+be you know surgically implanted in some
+cases you know there's people doing this
+kind of work non-invasively as well that
+don't require surgery. The specific
+question that you were asking about is
+an area that we call augmentation. So
+can you build a device um that
+essentially enhances someone's ability
+beyond superan normal, super memory,
+super communication speeds, beyond
+speech for example, superior
+uh precision athletic abilities. I think
+that these are very serious kind of
+questions to be asking now because as
+you mentioned the pathway so far is
+really to focus on these medical
+applications.
+I personally don't think that we've
+thought enough actually about what these
+kind of scenarios are going to look like
+and I don't think we've thought through
+all the ethical implications of what
+this means for augmentation in
+particular. There's part of this that is
+not new at all. Humans throughout
+history have been doing things to
+augment our function. Coffee, nicotine,
+all kinds of medications that cross over
+from medical to consumer that is
+everywhere. So the pursuit of
+augmentation or performance or
+enhancement is really not a new thing.
+The questions really as they relate to
+neurochnologies for example have to do
+with the invasive nature. For example,
+if these technologies require surgery,
+for example, to do something that is not
+for a medical application. Again, there
+that is not exactly new territory
+either. People do that routinely for
+cosmetic kind of procedures for physical
+appearance, not necessarily cognitive.
+So, I do think that provided the
+technology continues to emerge the way
+that it does, that it's going to be
+around the corner. And it probably is
+not going to be in ways that are super
+obvious. I don't think it's going to be
+like can we easily memorize every fact
+in the world, but in forms that are
+going to be much more incremental and
+maybe more subtle. In many ways, we
+already have that now. Like for example,
+you don't have to have a neural
+interface embedded in your brain to get
+information essentially access to all
+information in the world. You just have
+to have, you know, your iPhone. Whether
+you could do it faster through uh a
+brain interface, I definitely wouldn't
+rule that out. But think about this that
+the systems that we have already to
+speak and to communicate have evolved
+over, you know, thousands and millions
+of years and they're supported by neural
+structures that have bandwidth of
+millions of neurons.
+There's no technology that exists right
+now that people are thinking about that
+are in commercial form. sternly not even
+in research labs that come anywhere
+close to what has been evolved for those
+natural purposes. So I'm essentially
+saying two sides of this which is we're
+already getting into this now. This is
+not new territory. This topic of
+augmentation both physical and
+cognitive. We've already surpassed that.
+That's part of what humans do in
+general. But we are entering this area
+of like enhanced cognition. um these
+areas that I think the technology is
+going to be the rate limiting step and
+how far we can go and we have not had
+the full conversations about number one
+is this what we actually want is this
+going to be good for society who gets
+access to this technology these are all
+things that are going to become real
+world problems could you tell us what
+you're doing in terms of merging the
+brain machine interface with extraction
+of speech signals from people who are
+locked in like Poncho with facial
+expressions
+>> sure yeah I'm here with you in person.
+We could have done this virtually
+probably. It's pretty easy to do that.
+We could have recorded this really
+separate. But there is something about
+being able to actually see your
+expressions and to understand other
+forms of communication. So, another
+really important one is nonverbal the
+expressions that you're making. For
+example, if you have a quizzical look on
+your face, if I'm saying something not
+clear, that's a sign to me that I need
+to rephrase it or to say it in a
+different way or to slow down. Facial
+expressions actually are really
+important part of the way we speak. And
+there's two things. It's not just the
+expressions of like how you're feeling
+and perceiving what I'm saying. But it's
+also seeing my mouth move in your eyes.
+actually see my mouth move and my jaw
+move in a particular way that actually
+allows you to hear those sounds better.
+So having both the visual information
+but also the sounds go into your brain
+is going to improved intelligibilityly
+also make it more natural. And the
+reason why we're also very interested in
+this idea of not just having text on a
+screen, but essentially a fully computer
+animated face like an avatar of the
+person's speech movements and their
+facial expressions is going to be a more
+complete form of expression. Now you can
+imagine right now that might just be
+someone looking at a computer screen
+interpreting these signals. But I think
+the way things are going in the next
+couple of years a lot more of our social
+interactions more than even now are
+going to move into this digital virtual
+space. Of course most people are
+thinking about what that means for most
+consumers but it also has really
+important implications for people who
+are disabled right and whether how how
+are they going to participate in that.
+And so we were thinking really about for
+people like Poncho and other people who
+are paralyzed, what other forms of BCI
+can we do in order to help improve their
+ability to communicate. So one is
+essentially building out more holistic
+avatars, you know, things that can
+essentially decode, you know,
+essentially their their expressions or
+the movements associated with their
+mouth and jaw when they actually speak
+to improve that communication. So, do
+you envision a time not too long from
+now where instead of tweeting out
+something in text, my avatar will I'll
+I'll type it out, but my avatar will
+just say it. It'll be an image of my
+avatar saying whatever it is I happen to
+be tweeting at that moment.
+>> That's what we're working on. That is
+going to happen and it's going to happen
+soon and there's a lot of progress in
+that. And again, we're just trying to
+enrich
+um the the field of, you know, of
+communication, expression um to make it
+more normal. And we actually think that
+having that kind of avatar is a way of
+getting feedback to people learning how
+to speak through a speech
+neuroprothetic. That's the device that
+we call it. It's a speech
+neuroprothetic. That is going to be the
+way that can help people learn how to do
+it the quickest. Not necessarily like
+trying to say words and having it come
+on a screen, but actually have people
+embody feel like it's part of themselves
+or that they are directly controlling
+that
+>> that illustration or animation. I get a
+lot of questions about stutter. What can
+people with stutter do if they'd like to
+relieve their stutter? Stutter is a
+condition where the words can't come out
+fluently. So, you have all the ideas,
+you've got the language. In fact, you
+know, remember we talked about this
+distinction between language and speech.
+Stuttering is a problem of speech,
+right? So, the ideas, the meanings, the
+grammar, it's all there in people's
+stutter, but they can't get the words
+out fluently. So that's a speech
+condition and uh in particular it's a
+condition that affects articulation
+specifically about controlling the
+production of words in this really
+coordinated kind of movements that have
+to happen in the vocal tract to produce
+fluent speech
+and um stuttering is a condition where
+people have a predisposition to it. So
+there's an aspect of stuttering. You are
+a stutterer or you're not a stutterer.
+But people who stutter don't stutter all
+the time either. So you could be a
+stutterer who stutters at sometimes but
+not others. And really the the main link
+between stuttering anxiety is that
+anxiety can provoke it and make it
+worse. That's certainly true, but it's
+not necessarily caused by anxiety. It
+can essentially trigger it or make it
+worse, but it's not the cause of it, per
+se. So the cause of it is still really
+not clear, but it does have to do with
+these kind of brain functions that we've
+been talking about earlier, which is
+that in order to produce normal fluent
+speech, we're not even conscious of what
+is going on in our mouths, in our
+larynx, we're not conscious. And if we
+were, we would not be able to speak
+because it's too complex. It's too
+precise. It's something that we have
+really uh developed the abilities to do
+and we do it naturally, right? It's part
+of our programming and part of what we
+learn inherently and you know it's just
+through exposure.
+So
+stuttering is a is essentially a
+breakdown at certain times
+in that machinery being able to work in
+a really coordinated way.
+You can think about, you know, the
+operations of these areas that are
+controlling the vocal tract. Let's say
+speech is like a symphony. In order for
+it to come out normally, you've got to
+have not just one part, the larynx, but
+the lips, the jaw, they can't be doing
+their own thing. They have to be very,
+very precisely
+activated and very, very precisely
+controlled in a way to actually create
+words. And so, in stuttering, there's a
+breakdown of that coordination. If
+somebody has a stutter, is it better to
+address that early in life when there's
+still neuroplasticity at is very robust?
+And if so, what's the typical route for
+treatment? I I have to imagine it's not
+brain surgery typically. Um I'm guessing
+there are speech therapists that that
+people can talk to and and and they can
+help them work out where they're getting
+stuck in the relationship to anxiety.
+>> Yeah, exactly. I mean, part of it is
+about that anxiety, but a lot of it
+really has to do with um therapy to sort
+of like work through and think of tricks
+basically sometimes to create conditions
+where you can actually get the words to
+come out. A lot of some forms of
+stuttering are really initiation
+problems. Just getting started itself is
+is very hard. You want to start with
+initial vowel or consonant, but it won't
+emit. So a lot of the therapy is really
+just focusing on like how do you create
+the conditions you know for that to
+happen. There's another aspect to it
+that I find very interesting is that um
+the feedback essentially what we hear
+ourselves say. For example, every time
+that I say a word I'm also hearing what
+I'm saying. So that's what we call
+auditory feedback. That turns out to be
+very important. And sometimes when you
+change that it can actually change the
+amount someone stutters for better or
+for worse. And it it's giving us a clue
+that the brain is not just focused on
+sending the commands out, but it's also
+possibly interacting with the part that
+is hearing the sounds. And there's
+something might be going on in that
+connection that that breaks down when
+stuttering occurs. So there are
+individuals that are stutterers, but
+they don't stutter all the time. In
+those instances, there's something
+happening in those particular moments
+where this very, very precise
+coordination needs to happen in the
+brain in order to get the words out
+fluently.
+>> Eddie, I have to say from the first time
+we became friends, uh, 38 years ago,
+>> something like that.
+>> Something like that. To be sitting here
+with you today for me is a absolute
+thrill. Not just because we've been
+friends for that long or that we got
+reacquainted through the literally the
+halls of medicine and science, but
+because I really do see what you're
+doing as really representing that front
+absolute cutting edge of of exploration
+and application. I mean, the story of
+Poncho is but one of your many patients
+that um has tremendous benefit from your
+work and and now as a chair of a
+department, you of course work alongside
+individuals who are also doing
+incredible work in the spinal cord etc.
+So on behalf of myself and and everyone
+listening, I just really want to thank
+you for joining us today to share this
+information, but also just for the work
+you do. It's truly spectacular. So thank
+you ever so much.
+>> Thanks.

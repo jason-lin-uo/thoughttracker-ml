@@ -1,0 +1,1268 @@
+# All-In Summit: Nuclear fusion and the potential for energy abundance
+# https://www.youtube.com/watch?v=AIPULlqA5Wc
+
+a lot of forecasters estimate that
+energy production and demand on Earth
+will grow to roughly 2x from where we
+sit today by the end of the century and
+I think that there's other ways to look
+at the demand forecast which is that you
+can look at GDP per capita and energy
+consumption per capita over time and you
+always see that for every one percent
+increase in GDP per capita you see a 1.2
+percent roughly increase in energy
+consumption per capita and by that
+measure based on population and GDP
+growth through the century
+we will need to produce five times more
+energy than we make on Earth today by
+the end of the century and you can't do
+that by just pumping oil and gas out of
+the ground
+we need another technology or we need
+you know some renewable systems to scale
+up more quickly
+and fusion presents this great kind of
+sea change opportunity moment for how we
+make energy leveraging the technology of
+the Sun and so I'm really excited today
+to invite the two most funded most high
+profile Fusion technology entrepreneurs
+uh Bob momgaard
+and David kirtley CEOs of um
+Commonwealth Fusion
+and helion Bob as the founder of
+Commonwealth spun out of MIT where he
+got his PhD in applied plasma physics
+and um he's raised more than two billion
+dollars from Global Investors you heard
+vinod talk about his original investment
+in Commonwealth yesterday after Bob will
+hear from David who founded helion after
+15 years as a principal investigator and
+fusion lead at msnw and before that
+seven years as a scientist for the Air
+Force research lab David got his PhD in
+aerospace engineering from Michigan
+helion's raised about 2.2 billion
+dollars since its founding
+with a recent massive 500 million dollar
+funding round LED by Sam Altman who we
+all know is the CEO of openai and
+formerly ran y combinator
+uh Sam invested 375 million dollars
+personally in that round so uh please
+join me they're each going to give a
+presentation and then we are going to
+come back and have a conversation with
+both of them at the same time please
+join me in welcoming Bob to the stage
+[Music]
+oh
+and it said we open source it to the
+fans and they've just gone crazy
+[Music]
+it's a lot of capital for Fusion it's
+exciting
+um so I'm setting off you know our
+science morning so we're gonna later
+hear about tiny things and viruses and
+I'm going to start by talking about the
+biggest thing there is
+which is the universe so this is a
+picture uh from the James Webb Telescope
+and what that is is the oldest galaxies
+that we can see and really what the
+James Webb's telescope is is a really
+fancy expensive camera to look at fusion
+power plants
+because that is everywhere you look it's
+fusion power plants fusion power plants
+are the things that built every single
+atom that's in all of you that's in all
+these buildings everywhere on earth and
+the reason it works that way is because
+the fusion reaction the reaction that
+happens inside all the stars it's
+actually the most prevalent reaction in
+the entire universe that reaction
+produces energy that's about 200 million
+times more energy per Mass used than a
+chemical reaction
+so when you think about anything in your
+life that's chemical oil gas 50 gigatons
+a year CO2 divided by like
+order 100 million and if you replace
+that process with a fusion process
+that's what you get at the end and
+that's why we can have
+billions of years old of a universe and
+billions of years old of our own planet
+and so what these companies are trying
+to do there's like 70 Fusion companies
+it's what we're trying to do is we're
+trying to take that reaction
+and put it in a bottle
+in a machine that we can build here
+and that we can build quickly
+so there's many different ways to build
+that type of machine we I would say
+today don't know what the penultimate
+Ultimate machine will look like but we
+know that we're close enough to actually
+start building them
+and if you do this you end up with a new
+type of power plant you end up with a
+power plant that looks like a power
+plant we already do meaning you can put
+it somewhere it generates electricity it
+generates heat that you can take to
+electricity you can plug it in the grid
+you can Finance it you can use existing
+Supply chains
+but now it doesn't have emissions and it
+doesn't have basically it doesn't have
+any fuel
+and every one of your energy uses for
+your entire life could be fulfilled with
+like a single glass of water and so
+that's like a sea change in how you
+think about relation between our species
+the planet and energy
+so question is can you actually build
+such machines
+well right now
+we're we're building them around the
+world
+so this is a picture of combo Fusion
+systems site it's in a suburb about an
+hour outside of Boston and this two
+years ago was a forest uh old military
+base and in the upper uh side of this is
+a factory a factory to make
+magnets key pieces of fusion machines
+but down in front is a prototype uh
+fusion power plant it's a machine we
+call spark and that machine is the
+basically the culmination of about 60
+years of science uh done around the
+world we've been working on Fusion since
+actually before we split the atom and in
+that time the scientists at National
+Labs and universities have gotten better
+and better at building successive
+generations of those machines and in
+fact the performance of those machines
+and the metrics you care about if you're
+into plasma physics like I am those that
+performance has gone up faster than
+Moore's Law
+and it's now sitting at the point where
+you can almost get more power out from
+this reaction than it took to make the
+reaction start
+to do that what you're building is
+You're Building machines that literally
+like make Star stuff they're machines
+that have
+plasmas inside them that are 100 million
+degrees
+it's like five times hotter than the
+center of this the sun you know
+Fahrenheit Celsius doesn't really matter
+100 million huge number
+and
+and they do this
+um they do this using basically like
+stuff that we already know how to build
+it's kind of a unique situation like
+this is the size of a Walmart built by
+companies that build Walmarts
+and it's got buildings that house
+equipment that is like equipment that
+you use to do electrified natural gas or
+solar plants and in the center and that
+square in the center is a room
+where you put the fusion machine
+and that's what that room looks like
+and this we just opened this room like
+three four four or five days ago
+um and that Center hole in the middle is
+where we're going to start assembling a
+fusion machine that will make about 100
+megawatts of heat at somewhere around
+there will be more power out than in
+maybe even like 10 times more power out
+than in and that's based on all this
+science that's been done with a series
+of partners that include MIT National
+Labs around the world all peer-reviewed
+published and what the predictions are
+going to be and we think that this
+machine will be the first commercial
+machine to make more power up than in
+you can see on the bottom what it will
+look like when it's installed there and
+we're about halfway through the
+manufacturer and assembly of uh this
+machine so when you think about two
+billion dollars raised like tough Tech
+and like what it takes to actually you
+know Bend curves and climb it this is
+the type of stuff that you have to be
+willing to do you have to be willing to
+take science Cutting Edge
+wrap it with the ability to execute
+things like manufacturing and
+Construction in a package that you could
+scale because our climate crisis is
+going to require us to build somewhere
+on the order of
+ten thousand to a hundred thousand power
+plants
+so today there's about 60 000 power
+plants in the world
+and so you're not going to solve this by
+like making little things you know solve
+this by making big bets big changes and
+that's even just to replace what we have
+today
+we talk about 5xing the amount of energy
+we're going to use uh on the planet
+Earth Humanity like that's one of the
+largest construction booms in human
+history and so we're trying to get it
+started here and one of the great things
+that you can see about Fusion is that
+once you get the formula figured out
+once you figure out how to build one of
+these machines you get a thing that
+makes a lot of energy out of a small
+thing that you manufacture
+thing that you build a factory to make
+more of
+and it's a factory that kind of looks
+like an automobile Factory or like a
+rocket Factory in fact a lot of the
+people at this company came exactly from
+those areas that were trained in new
+space and new Automotive
+which means like once you figure this
+out you could build lots of these very
+quickly and so this is some pictures
+inside that factory on that site of us
+building the different pieces that go
+inside that Fusion machine
+and we'll start to assemble that machine
+uh
+later this year and turn it on and let's
+sort of 2025 time frame and get to Q
+greater than one more power out than n
+for the first time uh probably early
+2026.
+and that's part of a long-term plan that
+we've been on in the last five years
+since launching Commonwealth Fusion
+systems we start with the science that
+we already know how to do that's today
+you can go and see Fusion machines
+around the world we built out 150 Fusion
+machines at National Labs and
+universities coupled with an entirely
+new type of technology in our case an
+extremely strong magnet a magnet is made
+out of a new type of superconductor not
+the one that you read about recently
+that was all bunk but the uh the one
+that was previous Nobel Prize that
+allows us to go to extremely high
+magnetic fields which allows us to build
+these machines that you could not have
+built five years ago they're 10 times
+smaller for the same performance using
+the same science that we already know
+how to do and they set up a power plant
+like the one on the right that is like a
+400 megawatt power plant like the size
+of a coal plant so you can you can
+imagine going to a coal site
+taking out the boiler and putting in
+this new kit
+once it's proven and turning it on
+pushing a button and having a whole
+bunch of Heat come out and a reaction
+that is the most common reaction in the
+universe
+take your hand off the button stopping
+it put a string again and going
+and doing that in a way that you could
+then build over and over again that's
+like the big promise
+in terms of where people are
+is it's the beginning of a race about
+six billion dollars invested in Fusion
+which means that one of like the the
+most invested of the new energy
+technology companies so when you think
+about geothermal or batteries this is
+actually an explanation battery this is
+actually a similar scale and it's going
+through a history of Technology path
+it's like well worn and we can actually
+Milestone where all these companies are
+and all these techniques are you know
+today you can go and see lots of
+companies and lots of labs where they
+make plasmas that sort of like the idea
+of an airplane
+there's some that can get Plasma's
+pretty hot there's a few including the
+companies we're talking about here who
+can actually get plasmas into the right
+conditions the 100 million degrees that
+are insulated well enough that are in
+the conditions for that reaction to
+happen
+and now we're at step four which is to
+make these things make more power out
+than in Q grade and one and we know
+that's doable because actually in
+December a very large laser in
+California called nif created those
+conditions granted in a completely
+non-commercially relevant way but in a
+scientifically relevant way created for
+an instant picosecond those conditions
+and now it's a race to build
+things like spark to do that in a
+commercial way
+and after that there'll be plenty left
+to do but we'll know that we've taken a
+scientific idea and turned it into an
+engineering project and a scaling
+project
+and we don't know what the world will do
+with that
+it's potentially something that could
+you know really disrupt things and I
+think as I think about everyone planning
+you've got to be able to plan for that
+kind of be able to build a fast track
+on-ramp to these extremely disruptive
+Technologies
+and whether it's Fusion or Gene editing
+I think that's where the future is and
+it's an interdisciplinary problem and
+it's a problem that takes audacity
+Capital smart people all working
+together so thank you that's that's
+where we're at I'm looking forward to
+the discussion thank you
+and I'm excited to to welcome a
+colleague here David curtly tell you the
+other uh exciting things about Fusion
+all right perfect thank you very much
+Bob so my name is David Curley I'm a
+founder of helion energy I'm excited to
+talk about our approach to techno to
+Fusion that we think rapidly accelerates
+the timeline for fusion
+um Bob I think did a great job of
+talking about the history of fusion
+where we come from and the speed of what
+we want to get there I'm going to be a
+little more selfish and talk about
+myself today and give you a little bit
+of the the fusion Journey I've been on
+and why I've come from being a fusion
+skeptic that I think many people in this
+audience have
+so I went into school in the academic my
+academic part of my career to do
+something what I thought was important
+for the world and David did a really
+great job of talking about the impact of
+energy and the cost of electricity on
+the world so I said great I'm gonna go
+solve that problem
+um and a little naively look to the
+universe and said great they're fusions
+out there it's where most of the mass
+and the energy in the universe comes
+from I should do that and we should
+bring that here on Earth
+um got into it I actually became an
+expert in some of the inertial type
+approaches like the laser systems
+actually my specialty was anti-matter
+anti-matter is cool but what what I
+learned was that actually the
+Technologies of the time when I was
+learning that I learned in school those
+approach us and we all sort of see that
+in the world they're going to work but
+when they do I will have already retired
+if not like not actually be alive to
+turn on the machines I was going to go
+build and so I pivoted my career went
+and built space propulsion systems and
+Rockets plasma thrusters whole Hall
+thrusters ion engines that kind of thing
+and it wasn't until I met our core
+founding team that I saw another way to
+do Fusion uh that potentially rapidly
+skips over some of the steps of what
+others are doing so that's what I want
+to introduce you to today
+um our technology the way we want to do
+Fusion that we believe gets gets
+Humanity to Fusion as soon as possible
+so um Bob did a great job of talking
+about magnetic confinements of steady
+Fusion trying to replicate what happens
+in the sun there's inertial confinement
+which is very high intensity picosecond
+pulsed fusion and we do something which
+takes some some of both of those
+approaches
+um we cleverly call it Magneto inertial
+Fusion which does the sun in a bottle
+take a magnetic field to hold that 100
+million degrees but rather than trying
+to hold on to it it get it hot enough
+and ignite it we actually then squeeze
+it as fast as possible with very large
+pulsed electric currents and so that's
+what we've been able to build today one
+of the key this is a picture of our
+sixth generation machine that we have up
+in the Seattle area
+and one of the keys to the approach to
+this Fusion we're going to dig into the
+technology a little bit and then talk
+about the benefits but one of the key is
+is that what we focus on is the
+electricity part and I and I think that
+for me getting into Fusion wasn't to
+explore cool new technology is it was
+actually to generate electricity and so
+that's been our focus and so how we do
+that is a little unique and we believe
+that lets us build systems faster and
+smaller and so let's dig into that
+um you've seen some of the tokamex
+systems with looks like big Donuts uh
+the laser system is a giant sphere so we
+decide we should go and do a cylinder
+um and so these systems are long
+elongated cylinders where we have on
+either end we have our fuel injector
+called formation but this is where we
+put in the fuel put in this mixture of
+hydrogen and helium that becomes the
+Fusion fuel a center acceleration
+section where we accelerate that to a
+core and in that core is where we
+compress think about a piston in a
+combustion engine or we we can compress
+that Fusion fuel and then also number
+four on here is electricity recapture
+for our systems we require big capacitor
+Banks it's actually one of the hardest
+parts of our technology is the
+electronics the power electronics and so
+we have a dedicated system to do that
+and it's one of the enabling
+Technologies for this way to do Fusion
+is that when this was first theorized in
+the 1950s we had no idea how to build
+those pulse Power Systems that could
+reliably and repeatedly do this but we
+can do it today so here's a little
+animation of how these systems work on
+either end we inject our Fusion fuel
+we heat it at this point it's relatively
+cold it's about 5 million degrees or so
+we accelerate to the center compression
+area where we didn't squeeze it
+increasing pressure and density and
+temperature until we get to Fusion
+conditions over 100 million degrees
+these helions and deuterons fuse to form
+helium or alpha particles and protons
+those are trapped in that magnetic field
+and as that that heat that that hot
+plasma expands we pull that energy out
+directly directly recapturing that
+electricity sounds pretty Fantastical
+I'm showing you a lot of um you know 3D
+drawings and all that stuff the the fact
+is though we built this
+um
+and this was the key for me this is when
+I went from I was a skeptic and then I
+we had this cool idea and we went out to
+try to build it but we actually had to
+build the thing we had to build it turn
+it on prove that technology and so we
+did that in 2008 we built a machine that
+did thermonuclear for Fusion for the
+first time uh that machine was about a
+million and a half bucks
+and it and it set records for
+temperature density pressure I
+personally helped build that thing a
+little bit they don't let me touch
+wrenches too much
+um and actually produced Fusion
+reactions with it and measured those
+reactions and at that point I said look
+holy [&nbsp;__&nbsp;] we may have the answer to this
+let's go try to figure out how to build
+a business around it and as I think
+we'll probably talk today that turns out
+that's hard too
+um but in the process of doing that
+we've now built six machines that do
+Fusion
+um the light latest one we call Trenta
+that one exceeded 100 million degrees
+we're the first private company to do
+that
+um we did a DD Fusion we actually did D
+helium-3 Fusion where we actually took
+rare helium-3 infused it with deuterium
+that again we think we're the first
+company to ever do that maybe even the
+first group to ever do that and then the
+most important thing I think is we need
+to recapture this electricity and so
+that's the first machine we built with
+private funding in 2014 was a machine
+that took energy from those capacitors
+and those pulse power and then very
+quickly in microseconds put that energy
+into a magnetic core and then and then
+we then recovered that magnetic energy
+back to the capacitors the key there is
+we did that at 95 efficiency
+and if you can do that that means the
+fusion only has to do the five percent
+and so we believe that means that you
+can build Fusion systems orders of
+magnitude smaller and faster and skip
+over some of the big steps of cooling
+towers and steam turbines and
+inefficient systems you have to do and a
+lot of that comes from looking at Fusion
+not from just looking at the science
+which is really critical but also
+looking at the engineering I want to
+build power plants that make electricity
+and if that's your singular Focus if
+that's your goal if that's where you're
+you're targeted you make design
+engineering decisions to get there
+faster so that's what we were able to do
+I think that a lot of the private Fusion
+companies in the world are also now
+targeting electricity how do we get
+there and how do we get there fast
+um so that's what we're doing now we're
+building actually uh so in the pictures
+you see here on the top right that's our
+seventh generation machine we call this
+one Polaris we're building that system
+today up in Everett Washington outside
+of Seattle uh and installing it in our
+generator building
+um we actually have an operational
+plasma injector machine I love saying
+plasma injector machine
+um to actually do the fusion to start
+that Fusion process to try to get to
+even higher temperatures than that 100
+million degrees that we did before and
+we started manufacturing Mass
+manufacturing those key components that
+we can't get anywhere else in the world
+of capacitors
+um and so we're we believe the first U.S
+manufacturer in decades to start
+manufacturing capacitors here in the US
+maybe we'll sell them one day but right
+now we're using everything we can make
+for Polaris for that next system
+um and the exciting announcement
+announcing thing uh it's exciting thing
+we announced last earlier this year is
+that we had our first customer it's kind
+of a good thing for a fusion business
+um and so uh we have our first customers
+Microsoft we have a power purchase
+agreement to build a power plant with
+them to come online in 2028. uh This Is
+50 megawatts 50 megawatts is about 40
+000 homes
+um and to do that in Washington state
+it's pretty audacious goal uh five years
+it's five very short years to go build a
+system that makes commercial electricity
+uh we believe we can do that because
+we've built all these Fusion systems we
+have an approach that actually radically
+shrinks the amount of capital and the
+timeline to build these and more
+importantly we have that singular goal
+of making electricity and getting it on
+the grid is absolutely as fast as
+possible
+so that's a picture of the new generator
+building we just built you can't see all
+the manufacturing on the side there
+um but I'm excited to be able to talk
+today about the fusion business the
+fusion industry and how we get from
+being a fusion skeptic like I was to be
+using a fusion Optimist and really an
+Optimus for the future we need clean
+power and we need it now thank you very
+much
+[Applause]
+thank you
+[Music]
+the fourth seat
+[Music]
+thank you guys for being here
+um this is obviously an exciting
+challenge
+a technically difficult one an important
+one and an expensive one
+I just want to talk a little bit about
+the end state for each of you your point
+of view
+we think about energy prices there's a
+lot of ways think about it but dollars
+per kilowatt hours or pennies per
+kilowatt hour right we buy power off the
+grid in the U.S for 12 to 15 cents a
+kilowatt hour
+where do you guys think
+these systems end up when you kind of
+think about the the amortization cost
+and what you're going to have to charge
+to build these systems once you're at
+scale once you're rolling these systems
+out at scale what's your end goal for
+price per kilowatt hour I think that I
+think that's exactly the perfect
+question to lead in
+um that if you're doing a new technology
+like this and your goal is electricity
+it has to be competitive and it has to
+be competitive at scale at large scale
+and fusion has a nice opportunity to do
+that you talk about what's the cost of
+electricity it comes from op-x and capex
+and Opex right our fuel for a 50
+megawatt system you can uh with a pickup
+truck worth of fuel you can actually
+power that system for a decade and it's
+clean and it's safe and it's it's low
+cost we don't even include it in the
+Opex budget the fuel cost is so low and
+if we can get to a state where we have
+less of phds in the control room the
+actual operating cost then becomes
+pretty negligible for those systems and
+so then you're left with the capital and
+so I think that's been our Focus is how
+do we minimize the capital of those
+systems and so we can get to a point
+where we can be really cost competitive
+and I'll give you straight answers is
+that our goal with these with our
+approach to Fusion where we directly
+recapture the energy is to get to a cent
+a kilowatt hour or less and you can do
+that with Opex
+I think an important point about this is
+uh
+you build these things they're capex you
+eventually get very good at building
+them and so when you look at the
+probability curve uh you have very very
+low numbers eventually like a system
+like this is basically what the interest
+rate is
+is what the price power is
+because you're just building capital and
+there's no operating cost there's no
+fuel and the capital you're building is
+an order of magnitude less stuff than
+say renewable so it allows you to get to
+these very low numbers so
+you guys have ever been on stage
+together before like this
+yeah I think so that's sitting next to
+each other yeah right put a little extra
+so I'm trying to yeah I'm trying to set
+up a little Tesla Edison rivalry here AC
+DC
+but no no seriously there there is a
+a different architectural approaches you
+each have fairly distinct approaches to
+getting these plasma to a dense enough
+high enough energy State condition so
+that they fuse and produce energy very
+different approaches
+and there are other approaches I think
+there's by my track roughly six general
+architectures for Fusion technology and
+you guys are the experts tell me if I'm
+wrong
+how do we know you guys win why does
+Tesla win why does Edison win and isn't
+it the case that ultimately the price of
+power is going to win and so whatever
+architecture gets to the lowest price of
+power is going to take the whole Market
+yeah it's a really good question
+um first you have to make it work right
+like there's a lot of architectures and
+like the odds that they all work are low
+so we've taken the tact of like find the
+architectures that you know are going to
+work what's the lowest science risk that
+you can do because that price of power
+it's not so much architecture dependent
+it's learning rate dependent right at
+the end of the day the amount of stuff
+in these things is all about the same
+and So the faster you get there the
+better your Cycles are the lower you're
+going to drive that cost and there's a
+Time component to that too we don't have
+the time to wait so if Fusion was
+available today we're buying it like we
+you know no no shortage of customer
+interest
+but the real energy transition is in the
+next decade and so we need something
+that we can get there like now as soon
+as possible so it's not so much like
+that in state it might be interesting
+from a futurist standpoint of what that
+end state is it's the path to get there
+that's going to really determine it
+yeah I think our Focus has been Bobs is
+mine as well is how do we move as fast
+as possible how do we iterate how do we
+test how do we build these because it's
+that time that's that's driving and and
+there's a huge Market you know 3 000
+gigawatts of fossil power it's not
+necessarily the case that one of you is
+going to win and one of you is going to
+lose
+no it's a huge Market it's one out of
+every 12 like so it's absolutely huge
+you think about the what's in front of
+us to redo all the infrastructure like
+we're there's no way a single company is
+going to address that entire thing uh
+and also it's not the case that like the
+absolute ultimate you know optimized
+thing is going to win it's going to be a
+package thing like you know the car you
+buy today the way you control the way
+you drive it looks like the car that
+Henry Ford built it's not optimized it's
+not how you got there I have a two-part
+question for you I think we all as you
+know lay people not uh in the industry
+and in the trenches in the arena with
+you doing this our question is just and
+just
+very brief on this answer from each of
+you because the second part is more
+important I think what are the chances
+uh that collectively the you know half
+dozen startups actually get this done in
+our lifetimes what do you put that at
+you know let's say in the next 20 30
+years what are the chances we actually
+are this is a meaningful part of our
+energy mixture in the next 20 or 30
+years yeah 100 yeah that's 10 years if
+you had to
+scaling in the next 10. yep like because
+3 000 gigawatts of replacement is going
+to be hard okay well that that's the
+need for it but okay you you're both
+convinced it's going to happen
+so then knowing that you know that
+how do you advise the world to look at
+global warming fossil fuels because
+we're having this very vibrant debate
+what does happen mean happen means net
+positive energy no no like buy Power
+into your refrigerator from Fusion
+got it so then how would that inform how
+we should look at fossil fuels because
+you have a group of people who are
+debating fossil fuels and it's become
+quite religious with global warming Etc
+you guys are
+you know scientists who understand
+global warming and everything do we need
+to even worry about the energy mixture
+today if you're going to get this done
+and should we be sweating global warming
+as much as we are fossil fuel use if the
+solution is here you know like and you
+guys are so confident it's going to be
+there it's a good question yeah good
+question 50 gigatons a year for 10 years
+is a lot of carbon into the atmosphere
+in a place where we are already at our
+limits so like we need to do this
+transition and we need to be ready to
+build out at a very large scale every
+zero carbon energy source that you have
+because the energy needs that you we
+talked about earlier they're terrifying
+like if we need this solution for Fusion
+but we also need the other things got it
+so it's not even going to be enough to
+solve that problem and then
+two of the biggest problems the world
+faces getting this carbon out of the
+atmosphere and I guess water and both of
+those a lot of the taking carbon out of
+the atmosphere is an energy question
+and desalinization is obviously an
+energy question because you're going to
+push water through screens so maybe just
+briefly from each of you
+your optimism for the world
+knowing what you know from being in the
+trenches every day
+you know food insecurity
+Energy Water all of these things you
+know are seem to be really tied so so
+should we be as pessimistic as I think
+people in the world right now are now
+how do you look at the world when you go
+to bed at night so long term I mean I
+think we should be very optimistic but
+those problems exist today and we need
+to be moving as fast as we can to get
+there so where there's sun is shining we
+should have solar panels where the wind
+is blowing we should have wind power and
+that's still not enough I believe anyway
+and David mentioned the power uses
+doubling over the over this decade I
+think that that doesn't include
+electrification carbon uh removal
+hey I think it way underestimates what
+we actually can do and what we can do if
+the power the cost of powers is low
+enough and it sidesteps the geopolitics
+and some of the other challenges of
+other low-cost sources of carbon-free
+power so on the the question about how
+it all ties together I look at it as in
+the end there are only two fundamental
+markets energy and creativity and like
+with those two things notice they didn't
+say human creativity right like with
+those two things like you can do all
+these other stuff right right and and so
+like the faster we get to the things
+that have massive scale in those two
+things the better off we're going to be
+are we investing enough confusion right
+now because you guys are working with
+the Venture Community I think largely I
+don't understand why we're you know
+spending all this money on Renewables
+debating fossil fuels all this stuff and
+and not really going for this I don't
+want to call you what you're doing a
+Hail Mary but it's a long ball and why
+are we not just pushing a lot more
+Government funding into this project if
+it even had we talked about implied odds
+yesterday over and over if this does
+have a you know let's say they're
+delusional and they're it's going to
+happen is because they're Founders what
+do you put it at the chances that they
+succeed in the next 10 to 20. well I've
+told investors that I've spoken with
+that I think there's a hundred percent
+chance that the portfolio of 70 Fusion
+companies that exist today that are
+pursuing this technology will succeed
+and that we will get
+in the next 20 viewers at scale right so
+um I don't know which architecture wins
+I don't know which company wins I don't
+know who gets there first I don't know
+how quickly they each of them can scale
+it's hard for me to handicap that and I
+don't have you know a sovereign wealth
+funds capacity to build a portfolio of
+these Investments but that would be the
+right strategy I've told folks I think
+that the index on where things are
+valued today if you took all the fusion
+companies and their total market value
+today I would 100 buy that [&nbsp;__&nbsp;] index
+yeah so that would argue for one of the
+things I thought was inspiring chamoth
+about yesterday's discussion was you
+were talking about you know how do we
+allocate resources and then we were
+being challenged by some of the speakers
+well what can you do and I think this
+framing where you're talking about
+Capital allocation
+you guys are convinced you're going to
+do it if it feels like there's a
+disconnect between the politicians and
+how they're spending the resources that
+we are all giving them can we hear how
+the IRA
+serves this opportunity yeah
+um so I want to make sure that just
+throwing money at a problem unlimited
+money at a problem uh I was actually
+just having a conversation with Sam
+Altman about this
+um doesn't actually always speed it up
+you actually have to do it in the right
+way with the right targets right uh
+delivering fusion power and it costs 10
+cents a kilowatt hour doesn't actually
+solve the problem it's got to be that
+low-cost solution so we need to make
+sure we're focused on how do we do that
+for the IRA I mean a lot of its focus is
+manufacturing a lot of its focus is
+scaling Manufacturing in the United
+States and so I think that is really
+valuable and more things like that that
+are less focused on demonstrating are
+you going to get some of those dollars
+we'll see yeah you have to prove some
+stuff before you can access them right
+um so on the manufacturing side there's
+lots of opportunities to actually bring
+manufacturing so capacitors are a good
+example right um our current system 90
+of the capacitors that we are going to
+put into it were purchased overseas
+because we weren't able to scale our
+manufacturing internally fast enough to
+build them all ourselves and Bob you
+have your own magnet Factory do you get
+funding is there funding opportunity for
+you to support that effort yeah there is
+but it's not nearly what you need and
+that's just you know overall like the
+energy transition needs somewhere
+various estimates put about nine
+trillion dollars a year globally and we
+are at a tenth of that and so I often
+get frustrated with the capital
+allocation about like how we're
+splitting the small numbers that we're
+splitting now it's like no they just
+need to be bigger numbers right and it's
+not a question of do you invest in Next
+Generation technology versus stuff that
+you can like literally go today take a
+smoke stack down and put a solar panel
+solar farm there it's not it's not
+either or here the whole pie has to go
+bigger Bob when you when you hear
+freeburg's theoretical proposal is there
+a way to manifest that into an actual
+Financial device of hey here's 70
+private companies I'm going to get five
+percent of each and put it into a
+private company index no no it's not
+possible
+um
+the problem is that the amount of capex
+that we will need to make this a reality
+is so gigantic and I think you guys are
+honest about that that unfortunately you
+eventually replace the Venture
+capitalists with tens or hundreds or
+even a few billion dollars
+with the Sovereign wealth funds that you
+need with hundreds of billions and
+trillions of dollars and what happens
+when you get there is that you replace
+technical people with non-technical
+people who have to then determine which
+is going to win and the way that they do
+that and this is sort of my question for
+you guys because you'll have to get
+prepared for this so you might as well
+take a shot at it today
+they'll hire consultants and they'll
+hire other people and they'll say red
+team the alternative right they'll look
+at you and they'll say it's tritium
+breeding rates they'll look at you and
+they'll say well it's a probabilistic
+generation of protons and who the [&nbsp;__&nbsp;]
+knows all this stuff is what they'll say
+some will be right some will be wrong
+it would be great whatever you're
+comfortable doing you can either red
+team hin or you can red team yourself
+but I would love to understand the rate
+limiting technical thing that you're the
+most worried about whether it's his
+solution or your own and vice versa
+okay I'll I'll start off so I look at it
+as a portfolio approach
+this approach right very interesting
+from a what's the final State look like
+it's a simpler machine right
+more interest but the like question is
+can you make it work from a plasma
+physics standpoint so that says what's
+the data look like on the plasma right
+how's that going that's the type of data
+I'd ask for on our approach on a red
+team is like can we get to the cost
+right can we simplify it plasma looks
+pretty good it's at the right right
+parameters already well how simple can
+you make that machine so you look at our
+receipts you look at our Factory right
+because that's where the risks are you
+concerned about breeding time for you
+like no no it's like we know the
+breeding works because that's the way
+the the weapons work
+and that breeding is at like 1.1 times
+roughly enough yeah so it's 20 years
+then to get basically no you you start
+it's like a you have enough to start now
+that you go on an exponential okay
+and that's your first couple systems you
+said right yeah yeah enough to do the
+first 10 systems at least and David how
+would you yeah so um you know I would
+agree I appreciate the intellectual
+honesty thank you for that like it's
+it's hard to do that but thank you
+um and and um and and I actually kind of
+agree with Bob's assessment that our
+approach to Fusion uh the FRC
+compression was invented in the 80s not
+in the 60s and so like yes there's been
+lots of scientists and lots of published
+papers including by us a decade ago on
+this but there's still work to be done
+as we're going to push those boundaries
+and prove in our system the thing I
+worry most about is okay great we have
+these beautiful energy recovery systems
+operating at 95 efficiency that cut the
+cap-backs in half or or more but they
+have to work at that high efficiency and
+if if we fail if it's operating at five
+percent less efficiency that means I
+have to do more Fusion now they get
+bigger they get more expensive enough
+and so
+of these specific helium Isotopes on
+planet Earth that you can actually like
+generate
+yeah so um both I think both both of us
+will think about the fuel system in
+terms of a tritium or the helions and
+where does that come from
+um for us we make it deuterium plus
+deuterium fusing yeah and you make
+helium that that presupposes you have a
+very efficient way to do Fusion exactly
+and so that's that again comes back to
+just to connect for everyone deuterium
+is a hydrogen atom with a an extra
+Neutron in the nucleus and some
+percentage of water has deuterium in it
+so it's a It's relatively abundant is
+that fair to say and yeah
+tritium is less abundant so we need to
+make tritium uh in order for systems
+that rely on tritium for their
+technology Fusion to work all the water
+you drank out there it's got deuterium
+in it and my final question
+um
+you wouldn't work without it actually
+yeah that's great but pretty I'm a
+little different but how how do you guys
+think assuming that the technical
+um issues are sort of packaged in a way
+where now we have this repeatable thing
+how do you get the local politician
+to approve
+what they will look at is a nuclear
+reactor and what unfortunately
+The Blob will have their own viewpoint
+on from being installed all around the
+country how does that how does that part
+work which has nothing to do with
+science unfortunately and is very
+emotional and it's it's very you know
+there's a lot of regulatory capture
+there when we broke ground on that
+facility I showed that's a bedroom
+community of Boston we had had no
+agreement of who would even regulate it
+because it's totally open field right
+entirely new technology right and so you
+have a social acceptance angle you also
+have just a pure like legally who's
+going to be the person who's going to
+tell you to shut it down right and you
+have to solve both of those and they're
+different they're related but they're
+different and so it's been an
+interesting experience to do that at
+that site something that just happened
+is that the nuclear Regulatory
+Commission in the United States just
+made a ruling after two years of review
+that all fusion power plants will be
+regulated like particle accelerators not
+like fission plants that goes from a
+billion dollar regulatory overhead to 10
+million dollar regulatory overhead so
+that machine I just showed that's
+regularly by the state of Massachusetts
+the same way that a Hospital Cancer
+Treatment Center is so boom legal piece
+way down right public acceptance we've
+done we've done polls as an industry
+Association that showed that the public
+acceptance of fusion if message the
+right way so avoiding trigger words and
+things like that the people
+is the trigger word
+they become pretty excited about it
+right you have this like moment of
+conversion right where people go from
+Curious to like yes we need that now and
+that's been a broadly scene phenomenon
+we got to get it right right and like
+the chattering classes and you know the
+opposition is going to eventually come
+when these things are more real we have
+time today to like
+set the momentum and lay the groundwork
+and I can add two more details on that
+in that our goal is not just the cost of
+the regulatory path for instance it's
+speed we went from 10 or 20 years for a
+you know a nuclear reactor in Georgia
+where like helion's been regulated by
+the state since 2018 and our permits
+take six or nine months we are licensed
+we're inspected whole nine yards and it
+all exists it's not new regulation it
+totally exists just for hospitals and
+then the public acceptance piece is
+again speed and so what we do is try not
+to do what the nuclear industry did as
+hide away and say don't worry about
+what's happening here like what we try
+to do is we show Hardware we tweet about
+it social media is here now and that
+helps and so we're out there showing
+Hardware what we're building how we're
+building it what the dangers are let's
+be honest about it so that we can
+actually address those intellectually
+honestly with everyone
+um let me ask one more question which I
+think I have a final one but good okay
+um that I think everyone's asked
+which is why now
+we've talked about this for 70 80 years
+um this has been theorized this has been
+part of an experimentation program
+somewhere so everywhere for a long time
+can you talk a little bit about what's
+changed in technology all the underlying
+technologies that allow us to do this
+today is it Electronics photonics
+software and AI low-cost electronic
+components we talked about this back in
+March David but Bob why don't you kick
+it off and just help us understand why
+this isn't just BS because it's always
+been 20 years away from having free
+abundant energy what's changed yeah so
+one the science the science has advanced
+tremendously we have predictive
+capability of these machines the same
+way that we have predicted capability of
+like how to build a plane right
+to the adjacent Technologies it's like
+and those adjacent Technologies whether
+it's magnets or high power Electronics
+they've all benefited from huge
+investments in the last 30 years so
+basically been Warehouse are now being
+applied and three the idea that like
+software's eating the world well it
+didn't really like you need the mouth
+and like that mouth is Advanced
+manufacturing that mouth is how to turn
+a software business into the ability to
+manifest Hardware like that works those
+are all combining here with this very
+big poll
+and and I would just just I love all the
+technology answer but also there's a
+various uh famous quote in the 1980s of
+what it would take to get fusion and
+they put budgets forward and nobody
+wanted to do it there was no investment
+um and the quote is the world will have
+Fusion when it needs it and look at the
+capital investment infusion into
+companies it is pretty striking I've
+talked to a lot of investors who are
+throwing whatever they can at it because
+the world needs it yeah we're doing the
+prep call for this you know we're having
+an interesting discussion amongst the
+besties of you know obviously
+applications on Earth for energy but you
+know when we get out into the stars and
+you know the mission that elon's working
+on to get to Mars um Freeburg was
+wondering and sax particularly well this
+technology help us get to Mars or
+perhaps even Uranus
+please join me in thanking Bob and David
+[Applause]
+we'll let your winner slide
+Rain Man
+[Music]
+Kim
+[Music]

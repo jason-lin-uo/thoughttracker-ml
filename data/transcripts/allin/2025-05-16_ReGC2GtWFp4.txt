@@ -1,0 +1,1588 @@
+# Sundar Pichai, CEO of Alphabet | The All-In Interview
+# https://www.youtube.com/watch?v=ReGC2GtWFp4
+
+[Music]
+We're sitting here at the Google Plex
+with the CEO of Alphabet, Sundar. Thanks
+for being here. Great to have you here,
+David. Look forward to it. Is Google at
+risk of being truly disrupted from AI?
+Recently, we're testing it in labs. This
+whole new dedicated AI experience called
+AI mode coming to search. Open AI has
+SAM, XAI has Elon, Meta has Zuck,
+Microsoft has Satcha. Are you willing to
+kind of share your perspectives on those
+four competitors? I think maybe only one
+of them has invited me to a dance, not
+the others. Biggest regret. Look, there
+are acquisitions. We debated hard came
+close. Just give me one
+name or get in trouble. Maybe Netflix.
+We just leaned into the user experience
+and over time we figured out
+monetization to follow. It's like one of
+the original principles of Google.
+Follow the user. All will follow. There
+you go. I'm going all in. All right,
+besties. I think that was another epic
+discussion. People love the interviews.
+I could hear him talk for hours.
+Absolutely. Oh, he crushed your
+questions in a minute. We are giving
+people ground truth data to underwrite
+your own opinion. What do you guys
+think? That was fun. That was great.
+What's going on? I'm really excited for
+this conversation. You and I started
+working at Google on the same day in
+2004. I didn't quite realize that. Same
+nougler class. We had the the hats on
+that same week on the Friday all hands.
+I'm now a podcaster. You've done a
+little bit differently. You're more than
+you're more than a podcaster, but you're
+very good at podcasting. Well, I
+appreciate it. I think I respect the
+other stuff you've done as well. So, no,
+I appreciate it. But in your tenure at
+Google, you ran Chrome, Chrome OS Drive,
+Google Maps, and it's been 10 years now
+since you've been the CEO here at Google
+Now, Alphabet. Amazing. And
+congratulations. Under your tenure as
+CEO, the stock has gone up by 4 and a.5x
+to a$2 trillion market cap today. You've
+grown revenue from 20 billion a quarter
+to nearly hundred billion a quarter.
+It's been a really like incredible run
+to see someone that kind of started as a
+a PM and you know grew your way into
+this incredible role. So congrats. How
+have you liked the job?
+No, look, I mean, uh, I love building
+products and in some ways, you know,
+Google was really set up, I think the
+founders set up this kind of a deep
+computer science approach and like you
+take that and apply it to build things
+which can impact people on a day-to-day
+basis. And so, you know, it's that kind
+of a product and uh technical culture
+which, you know, is is the essence of
+the company. So, I love doing that. And
+you know there's not a single week which
+goes by where I I feel like I don't get
+to do that. So those are the parts I
+really enjoy. But obviously you know
+running a company of this scale where
+you impact uh so many people I think
+it's a privilege. So enjoyed every part
+of it. You're at a pivotal moment in the
+company's history today. Have you read
+the innovators dilemma? Uh you know my I
+I I'm obviously very very familiar with
+the concept. I don't think I've read the
+book actually. But but you know, it's
+one of those things which is so much in
+the ether. You think you know it, you
+know. I say it in justest because that's
+the talk of the town, the talk on Wall
+Street, the talk in Silicon Valley. Is
+Google getting disrupted in this moment.
+AI seems to create a fundamentally
+different paradigm for human computer
+interaction. Consumers are asking AI
+questions through chat interfaces.
+They're getting complete answers.
+They're engaging with AI systems in a
+way that they traditionally didn't do
+with the classical search interface. Is
+Google at risk of being truly disrupted
+from AI. Is the core search business,
+which the ad revenue and search is about
+a $200 billion run rate out of 360
+billion of your total revenue, most of
+your profits. And it seems like Google's
+in a really challenging quandry where if
+you disrupt yourselves too quickly, all
+of that revenue can go away. It can be
+really impactful. So is Google being
+disrupted by AI at this moment or is
+Google leading? It's a good framework,
+good question to talk about. Uh you know
+I've definitely uh you know for almost a
+decade uh you know one of the first
+things I did was to think of the company
+as AI first. It was very clear to us. Uh
+we had Google brain underway in 2012. We
+acquired deep mind in 2014. 2015 when I
+became the CEO I said look the
+technology is really evolving. The
+reason we were excited to be approach
+our work as AI first uh is because we
+really felt that AI is what will drive
+the biggest progress in
+search. And so you know I I think even
+the last couple of years I viewed this
+as an extraordinary opportunity for
+search. I think if you look at how much
+information means to people I think
+they're going to each person is going to
+have access to information in a way
+they've never had before. So it feels
+very far from a zero sum construct to me
+and we are seeing it empirically when
+people are using search. Obviously there
+are a couple of major things uh we've
+done with search. Uh you know
+transformers drove some of the biggest
+innovations in search with BERT and mom
+dramatically improved search quality. Um
+we we launched AI overviews about a year
+ago. It's now being used by over one and
+a half billion users uh in over 150
+countries.
+It's expanding the types of queries
+people can type in and we see it
+empirically the nature of queries is
+expanded. So there are whole new use
+cases coming into search. We find for
+queries where we trigger AI overviews.
+Uh you know we see query growth and the
+growth continues over time. You know
+getting the feedback from AI overviews.
+We are you know we we've recently we're
+testing it in labs. There's a whole new
+dedicated AI experience called AI mode
+coming to search. We'll speak about it
+more at Google IO. And in AI mode, you
+can have a full-on AI experience in in
+search including follow on
+conversational queries and we're
+bringing our cutting edge models there.
+Uh where the models are actually working
+to answer your questions using search as
+a real native tool, right? And and there
+the queries people are typing in queries
+like literally long paragraphs, right?
+the average query length is somewhere
+two to three times is what we see in uh
+search as it existed uh two years ago.
+So we are seeing people respond. Uh you
+know search is always from the outside
+people look at it and say search all
+kind of looks easy to do. The craft of
+search is very hard. Over two decades I
+think we've had a real northstar of
+understanding what users want in search.
+And you know we you know you've been
+here we kind of a very metrics driven
+company. We kind of know what works. Uh
+users are are our northstar and and
+empirically we see that people are
+engaging more and using the product
+more. Right. So uh so all that uh to
+your question about innovators dilemma I
+think the dilemma only exists if you
+treat it as a dilemma right like you
+know so for me all along in technology
+you have these massive uh periods of
+innovation and you lean into it as hard
+as you can it's the only way to do it
+you know when mobile came everyone was
+like well you know it's like you're not
+going to have the real estate like how
+will ads work all that stuff uh you know
+mobile was a transition which ended
+ended up working great. I can give great
+examples, right? Like Tik Tok has come
+in. YouTube has thrived since the moment
+Tik Tok has come in, right? And uh it
+was a whole new format. We we uh did
+shorts when we launched shorts. Shorts
+absolutely didn't monetize anywhere near
+long form, but we just leaned into the
+user experience and over time and we
+figured out monetization to follow. So
+you know to me you know you don't think
+about it as a dilemma like you know
+because users you have to innovate to
+stay ahead and you kind of lean in that
+direction. It's like one of the original
+principles of Google follow the user all
+else will follow. There you go. And I
+think the the Google is dead disruptor
+narrative has as you point out been kind
+of repeated a number of times. Today
+people are pointing specifically and I
+appreciate your points about there's new
+search experiences coming. The search
+experience, it sounds like, is going to
+evolve. As people look at standalone
+apps, they compare Gemini as a
+standalone app to chat GPT to the meta
+experience. The stats that came out in
+the recent court testimony that had some
+data revealed from March. I don't know
+where the data came from, but it said
+the uh Gemini AI app had 350 million
+monthly users compared to Chat GPT at
+600 and Meta AI at 500. Is that the
+wrong way to think about it? that the
+Gemini standalone app isn't the future
+or the AI bet that Google's making, but
+it sounds like there's going to be much
+more of a kind of timed out integration
+into how the search experience evolves
+and what happens to Gemini, you know, in
+search, you know, maybe the most widely
+used GI product today might be search
+with AI overviews, right? You know, uh
+people people are using it intensely.
+Obviously, uh we have a standalone
+Gemini app. Um I think I think uh we are
+making progress there. Particularly with
+the introduction of Gemini 2.5 Pro,
+we've seen a real uh uptick in
+engagement uh and usage growth uh in the
+product. We have a lot more to come.
+Just in the last few weeks, we've
+shipped deep research and updated canvas
+audio overviews. You can now go and
+generate v do video generation with V2
+straight in the Gemini app uh on Android
+phones with Gemini live you know you can
+screen share it can talk to what's on
+your screen so the the you know there's
+a lot coming that way and you know users
+are responding
+um look chat GPD is obviously had
+phenomenal success um you know but but I
+think it's still early days and you know
+we are definitely seeing traction seeing
+growth to me what matters is if you
+innovate are users responding and using
+it more and that seems to be the case so
+it's in our hands to continue innovating
+right I think it's a fiercely
+competitive moment but I would say
+across our products people are coming
+and using and consuming information
+across search using the Gemini model
+increasingly in YouTube in the Gemini
+app and so on so I think I think it's a
+much broader view we have if I were to
+think about the unit economics of
+Google's business. There's a cost to
+serve a search query and there's revenue
+per search query, ad revenue per search
+query. How is that number changing or
+how will that change in this kind of
+evolution in search towards more of an
+AI interface? Because I've got to assume
+that to serve an AI driven query is much
+more expensive than to serve a search
+query. Look, this is something I think
+you know people are really worried about
+uh two years ago, but you I've always
+felt to the extent that something is
+about the cost of serving it, Google
+with its infrastructure, I' I'd wager on
+that, right? And you know, on our
+chances to do that better than pretty
+much anyone else. And you know, we have
+actually seen like, you know, for a
+given query, the cost to serve that
+query is fallen dramatically in a
+18-month time frame. What is probably
+more of a constraint is latency I would
+say. So it's less the cost per query. I
+think our ability to serve the
+experience at the right latency. You
+know search has been near instant. So
+how do you uh think about that frontier
+has been more of a question. Uh the cost
+per query is not what I think will end
+up uh you know I think I think we'll be
+able to we've done the transition well.
+That's that's not a primary driver of
+how it'll impact things. Yeah. And do
+you have a point of view on ad revenue
+per AI query? You know, we already with
+AI overviews um you know, we we are at
+the baseline of uh uh you know, it's the
+same as without AI overviews. And so we
+we've reached that stage in uh so but
+from there we can improve, right? And I
+think uh you I've always felt uh you
+know the reason ads have worked well in
+search is because commercial information
+is also information people in when they
+have that intent are looking for that
+most relevant information. So I don't
+see any reason why AI, you know, just
+from a first principal standpoint, why
+won't AI do a better job there as well,
+right? And and and and so I think I
+think, you know, I think we're
+comfortable that we can work the
+transition through. Some of it may take
+time, but all indicators are that we'll
+be able to do it well over time. Over
+time, but you know, it's already, you
+know, already AI overviews when we show
+ads. We've kind of reached the baseline.
+Do you feel that pressure on Wall Street
+and the board and like what's the
+tension that you feel as a leader in
+trying to manage this transition on the
+product on the revenue model for an
+organization of this scale? I don't know
+how many leaders have done it
+successfully in the history of business.
+Where do you feel the tension? Where do
+you feel the pressure? And how much
+leeway are you being given by the
+founders and the board to do what's
+needed here? Two things. I mean the main
+it's a moment of acceleration right so
+if anything um the good thing about
+these moments is you don't even have
+time a lot of times to think about you
+know some of those questions you are uh
+I think I think a lot about making sure
+we have the best models we are we
+pushing the frontier as a company uh and
+I think the last few months have shown
+the breadth and range of what we are
+doing uh you know uh we are there and we
+have to continue to stay there so for me
+you know you you think and you worry a
+lot more about execution from within
+that's all you know are we are we
+executing are we moving fast are we
+innovating and I think you know over the
+past 12 months I think we've really
+picked up pace as a company and uh you
+know to to meet the moment so that's
+where I do spend a lot of time look as a
+as a CEO one of the first things I did
+in 2015 in addition to being AI first
+was to really bet big on you know we had
+great products like YouTube we had
+workspace and cloud but really turning
+them into robust businesses, right? As
+well as great products. Last year, we
+exited a combination of YouTube and
+cloud at $110 billion. I think, you
+know, people don't internalize that
+Google is one of the largest enterprise
+software companies in the world now. Uh
+and and so look, I think and the largest
+media company, you know, in in some
+ways, right? And you know, definitely
+we're doing a podcast. I think we're the
+largest podcasting service in the world.
+And so you know so I I I feel like you
+know as a company we are set up well for
+the first time you have this
+crosscutting technology you know to to
+our earlier point thinking of us as a
+deep computer science company what
+better technology than AI which
+horizontally can impact all aspects of
+our business search YouTube cloud and
+the other new things we are doing so it
+feels like an exciting time so not a lot
+of what you know we've continued to do
+well in search we are doing well in
+these other businesses. Um, and so to me
+it feels like, you know, one of the
+biggest opportunities ahead as a company
+too. I think the next decade ahead looks
+to me as exciting as the past decade. So
+as I think about my time at Google right
+below us in the
+garage and his team were building these
+super secret shipping container data
+centers. They had these like data center
+in a box that you could ship anywhere as
+long as you had access to water and
+power. could connect to the internet and
+you could scale data center capacity all
+over the world. That was 20 years ago.
+Um it's always seemed to me that one of
+Google's core and not well understood
+advantages was its infrastructure
+advantage. Something that Google's
+invested in to its core from the
+beginning. Can you tell me a little bit
+about where you view Google's
+infrastructure advantage playing out in
+the AI competitive landscape today? How
+does it translate
+into cost, speed, product quality and
+where do you guys think about investing
+the 70 billion of capex this year in the
+chip layer in the networking the data
+center? We can unpack both right like
+where our capex is going but on your
+first part right like one of the ways
+you know we look at the parto frontier
+of performance and cost Google literally
+is on the parto frontier so we deliver
+the best models at the most cost
+effective price point right like you
+know and our flash series of models are
+a real workhorse uh in the industry
+right and and part of why we are able to
+do that uh is because you know we train
+and serve our models on our
+infrastructure including TPUs right and
+we are in our seventh generation of TPUs
+and uh we built our first version in
+2017 um I remember talking about it at
+Google IO probably people didn't pay
+attention to it because like you know
+why are you building a specific machine
+learning accelerated chip uh look it
+plays out everywhere to your earlier
+question on cost per query in
+search the reason we feel comfortable we
+can serve it at that scale scale uh
+because we are constantly innovating
+through each generation including chips
+which are really really good at
+inference right and ironwood which is
+our latest in our TPU series a single
+part of ironwood is over 40 exoflops
+right and and so the scale of these
+things are incredible and and we have
+thought about our in all the way from
+subc cables to the scale at which we do
+infrastructure is unparalleled and I
+I've always viewed that full stack
+approach, you know, deep
+infrastructure foundational fundamental
+R&amp;D on top of it and then you build and
+innovate on top of that and I think that
+approach will serve us well over time.
+But it really, you know, empirically
+plays out in, you know, the the cost at
+which we are able to provide our models.
+Part of the reason we've had a lot of
+traction with Gemini 2.5 series is not
+only are they great models, but we are
+offering it at a very attractive value.
+Uh, and we can do that because, you
+know, we we are driving our
+infrastructure cost down on the $75
+billion in capex for uh
+2025. You know, obviously majority of
+that goes
+into servers, data centers uh and so on.
+uh servers being the vast portion of it.
+Uh I would I would say on on looking at
+2025
+uh and looking at the compute part of
+the uh spend
+uh half of that is going towards our
+cloud business in 2025 and obviously
+that is a very different uh u uh it's a
+very different business to search and so
+on. So uh a lot of it is to power the
+innovations in uh from Google deep mind
+pushing the frontier and we're doing it
+across many dimensions right not just
+large language models but you know even
+there doing it across not just text
+images video etc building uh world
+models right so there's just a lot of uh
+innovation which we are pushing on the
+frontier obviously to support our core
+products like search YouTube gemini etc
+but 50% of the compute goes towards
+Google cloud Let's just talk about chips
+for a second. This is a big part of the
+conversation is Nvidia's got the real
+market monopoly in AI is what everyone
+says. Um, do TPUs provide a wholesale
+replacement for your need for NVIDIA in
+the supply chain or is NVIDIA still a
+core part of the mix in the data center
+for training versus inference uh in LLM
+versus other models? Maybe just share
+your your understanding of where like
+the mix evolves to for you guys. Look,
+first of all, at a high level, Nvidia is
+a phenomenal company. Uh, you know,
+Jensen is awesome. We we have been
+working with Nvidia now for a very very
+long time and we continue to do so,
+right? And we serve a lot of the Gemini
+traffic on GPUs as well, right? And so
+we give customers choice, etc.
+Internally, we train our Gemini models
+on TPUs, right? And and and we serve it
+that way across our products. But uh we
+use both and uh I do think look I I do
+think everyone in the industry is going
+to try and do something like that. But
+uh but you know it's it's you know
+Nvidia's R&amp;D uh and and their ability to
+drive that innovation uh their software
+stack is world class. So you know they
+have a lot of uh advantages as a company
+and I have extraordinary respect for
+them. Uh you know but we've always had
+you know we are committed you know we
+are actually deploying GPUs internally
+as well. I think I like that flexibility
+and and uh but I I I we are also
+long-term committed to the TPU direction
+as well. So I think it's a good
+combination to have both and and I think
+we push each other um you know and drive
+the frontier forward. Just going back so
+there there's an infrastructure
+advantage inherent in all of the
+investment that's been made for 20 plus
+years and the continued investment. A
+lot of folks have said that some of the
+performance in foundational LLMs is kind
+of starting to plateau and as a result
+we're seeing a less kind of
+differentiated landscape amongst the
+competitors and that's should be a
+consideration for Google. That's the
+outside kind of narrative. Can you share
+a little bit about and then I want to
+come back to nonLLM models where there's
+other advantages for Google in a minute
+but maybe just on this point how much
+more um of uh an opportunity to continue
+to evolve LLM is there where's Google's
+advantage lie in maintaining better
+performance in the models over time I
+think maybe it was Andre Karpati who
+used the term AJI which is like he
+called it artificial jag jag
+intelligence right so I think the
+progress is not going to be always
+smooth, right? Like you you go through
+these periods, it looks like something
+slow and then you see a paradigm
+breakthrough, etc. And it's been going
+like that for a while. uh I think
+obviously over the last couple of years
+uh you know all of us scaled up on
+pre-training and then there was a lot of
+momentum with post-training and then
+with inference compute uh and and and
+now you know there's progress with how
+do you take all that and stitch together
+in agentic workflows and you know and
+and and so on. So I do think there's a
+lot of progress and it feels pretty
+continuous to me, right? I think it's
+both true progress gets
+harder which I think will distinguish
+the elite teams at least on the
+foundational side. Uh you know I think I
+think I think that that might be a
+factor. Uh I felt the the harder the
+problem is I think you know we are well
+set up for that. Uh I think I think we
+are well set up for that. I do think we
+are uh pushing the research frontier in
+a much broader way than most other
+people beyond just LLMs transformer
+based models I mean diffusion you know
+do you do uh diffusion based models all
+those areas we are exploring in a deep
+deep way right so
+um and you know there's always the
+chance that we may reach a point where
+you know you quite don't get that
+returns to the additional compute you're
+going put in, but I quite haven't seen
+it yet. Right. It it the progress looks
+maybe harder because you're now dealing
+with a lots more compute. So, you're
+really running into the loss of like can
+I actually get as many electricians as I
+can to build the data centers at the
+speed like I you know all that
+stuff. But I haven't seen or at least
+talking to our researchers haven't seen
+anything fundamentally hey like we are
+not going to be able to move past this
+point or something like that. Does
+Google have a data advantage with
+YouTube or other products or services?
+Are you able to train on that data in a
+way that others can't? I think we have
+the opportunity to create much better
+experiences for people. I think people
+use products like Gmail, Calendar, Docs,
+YouTube, search
+etc. So with their permission taking
+that personal context into account I
+think we can deliver much better
+experiences. We are working on that but
+it's it's something on which we have to
+deliver but I view that as one of the uh
+uh differentiated innovation
+opportunities we have ahead as a company
+but it's something we are thoughtfully
+working on uh we'll make progress there
+that makes a lot of sense if search
+evolves and I've been using a lot of
+voice AI tools I find them incredible I
+can have a conversation access the news
+dive deep on a topic it's just it's so
+incredible
+what do Do you view the future of human
+computer interaction being 5 to 10 years
+from now as AI evolves? As computing
+evolves, am I looking at a screen? Am I
+typing in a chat? Am I using an AirPod
+and just getting audio? Am I doing audio
+plus a screen? Is it just a personalized
+interface? And there's no even concept
+of the web. What does the future look
+like for accessing
+information and pursuing my interests in
+life as a human using compute? It's a
+great question. Uh I do think you know
+the answer has got to be you know we've
+always you humans have adapted to
+computing and it's always been that way
+but over time the answer will be that
+you need to do less of the hard work
+less of the adaptation and computing
+kind of works for you right and that's
+the holy grail I think and and we are
+making progress right be touch be voice
+everything inches us towards this future
+um for example When I wear AR glasses, I
+already wear glasses, so it's not that,
+you know, but the AR glasses aren't
+quite as comfortable as my normal
+glasses, but they're getting there. It's
+obvious to me that that'll push it to
+the next level of seamlessness where it
+kind of is ambiently there and doing
+stuff for you. So, I think that's the
+arrow there, you know, the air of uh uh
+how it'll, you know, it has to be more
+seamless and just be there for you, you
+know. Will it be like neural link down
+the line right you know like you know
+when I when I want to understand
+something you know is it is it that
+seamless right you know I I think all of
+that is a possibility but I think in the
+immediate
+world given you're going to have really
+natively multimodal models which can
+take you know audio vision language uh
+all of that and be there in your uh line
+of view so I think when AR really works.
+I think that'll wow people. Um, I'm not
+talking about immersive displays. I'm
+talking more about AR glasses, right?
+And I think I think that paradigm looks
+very interesting to me having used it.
+You can kind of feel that next leap,
+right? Where uh I think we'll all enjoy
+using it in a way, but you still have a
+little bit of system integration
+challenges to work through. So, we have
+maybe couple cycles away to get to that
+sweet spot.
+uh what smartphones were in around 2006
+2007. So, but maybe that's the next
+leap, right? And and so probably that's
+what's exciting for me. Are you spending
+a lot of time on hardware? Yes. Right. I
+think um we are definitely excited about
+be AR glasses, the next for form
+factors,
+um you know, uh robotics is another
+area, all that. uh and we obviously
+build pixel phones uh you know we build
+vast data centers so we are definitely
+in the physical world you can think of
+Whimo as a big robot we are driving
+around everywhere so we're making uh
+with our partners cars that way so
+definitely yes I just want to zoom out
+and look at there's this competitive
+landscape that's emerged for Google that
+maybe maybe it's always been challenging
+maybe there's always been competitors
+but they're getting a lot of money and
+they're investing a lot of money more
+than to compete with Google. How have
+the founders of Google, I've seen both
+of them recently. Sounds like Sergey's
+spending time here. Uh they both
+independently shared with me that this
+is the most exciting thing they've ever
+seen in computer science and it's
+transforming everything. How engaged are
+they? How much time do you spend with
+them? And what's your relationship like
+there? They are, you know, obviously
+fortunate to have both of them uh
+involved in their own unique ways uh
+deeply. I talk to them all the time. Um,
+look, I think both Larry, Sergey, I, you
+know, you know, credit to them. They
+always envision like where AI would be.
+I think, uh, you know, I think I think
+their ability to understand trends and
+and you know, I I swear I've had
+conversations maybe as early as like 15,
+20 years ago about moments like this
+with them. I think they are both would
+argue that this is the most exciting uh
+time in the field uh you know and and I
+they both engage in their own ways. I
+think Sergey is definitely uh spending
+time with the with the Gemini team at a
+uh you know in a pretty hardcore way
+like you know sitting and coding and uh
+spending time with the engineers uh and
+that gives the energy to the team which
+I think it's unparalleled right like to
+have a founder sitting there looking at
+loss curves giving feedback on model
+architectures
+uh how can we improve post training etc
+I think I think you know it's a it's a
+rare rare place to be But you know my
+favorite conversations are sometimes
+when the three of us sit and talk. Uh
+the combination of I mean they are very
+nonlinear thinkers. So I feel like it
+expands the conversation into ways which
+you always don't expect and out of it
+which comes interesting ideas. So I
+think I always have access to that but I
+think I've worked with them uh for such
+a long time you know you know there is
+friendship, respect, mutual dialogue. uh
+we love doing that and uh and I think
+it's uh we'll I'll always have that.
+Your competitors out there have active
+founders. OpenAI has SAM, XAI has Elon,
+Meta has Zuck and um Microsoft has
+Satcha. Are you willing to kind of share
+your perspectives on those four
+competitors, both the companies and the
+leaders? Look, it's a obviously by by
+definition it's a very impressive group,
+right? And um I think I think you're
+talking about some of the best
+companies, some of the best
+entrepreneurs uh uh all that look I
+I you know it shows how uh both how much
+progress we are going to see because
+you're basically talking about many
+people uh who are working hard to drive
+that progress. Right? So to the earlier
+question when you were talking about are
+we going to see progress the answer has
+got to be yes because of the uh you know
+the the unique types of people here
+pushing progress right so look each of
+them they're they're different people I
+I fortunate to know all of them and I
+think maybe only one of them has invited
+me to a dance not the others uh right
+but I just look I spent time with Elon
+maybe two weeks ago um when I talked to
+him and his ability to will future
+technologies into existence. I think
+it's just unparalleled. So like look,
+these are phenomenal people. I respect
+all of them. U you know there's
+partnerships involved, there's
+competition involved. But if I were to
+step back and say, you know, at the end
+of the day, I
+love, you know, driving technology
+progress in a way that impacts people
+positively. um when you think about
+areas like healthcare and and other
+important areas education and you know
+like we are now talking about this is
+why AI is so profound so the opportunity
+is what excites me I think all of us are
+going to do well in this scenario that's
+how I think about it right I think
+that's what a lot of people don't gro
+and I think this is an important point
+everyone out there says there's
+competitors there's a winner and
+everyone else is a loser but this is an
+entirely new world that's going to be a
+lot bigger than the world we had last
+here and uh everyone's building down
+their own path, but there's going to be
+a lot of success. It's not just that
+who's going to beat whom in the in the
+marketplace. When the internet happened,
+right? Google wasn't even around. Right.
+Right. So, we obviously So, the the
+other thing you can say is there are
+companies we don't even know, haven't
+been started yet, their names aren't
+known, might be extraordinarily big
+winners in the AI thing, right? So it's
+it's going to be AI is a much bigger uh
+landscape opportunity landscape than all
+the previous technologies we have known
+combined combined and so you know so
+which is why I think it's all about uh
+you know the companies which will end up
+doing well or you will do well because
+you're able to innovate and execute with
+the best talent you know that's that
+ends up being the driver well let's talk
+about that and let's talk about the
+unknown competitor Deepseek popped up
+tell me about your impression of the
+model, the performance, the rumors about
+the next model, and what does that tell
+you about what's going on in China and
+what's going on that we're not seeing?
+Look, I think the main moment from
+Deepseek was uh look always, you know,
+if you if you kind of follow the AI
+research and scan through papers and
+read them, no, nobody who does that
+would underestimate China, right? Like,
+you know, so when you look at the amount
+of research output from China, right? Um
+they have extraordinary talent.
+Um and and and so but I do think all of
+us had to adjust our priors a little bit
+after the deepseek moment which was like
+wow they are even closer to the frontier
+than most people maybe assume you know
+and so I think I think that was a
+moment. I think internally for us uh I
+think externally people are very
+impressed and rightfully so with how
+efficient their models were.
+Interestingly for us internally we
+benchmarked it to flash and you know
+flash was uh as efficient or you know
+you could argue in some ways better. So
+you know I think I think to our earlier
+conversations I I do think this is more
+maybe internal baseball for us you know
+we were benchmarking and saying look
+it's good to see you know because they
+had to work in a hardware constrained
+way I think which is what drove a lot of
+their uh innovations and efficiency
+improvements and you know uh and so I
+was pleased with that but you know it
+tells you that the frontier is is uh
+evolving rapidly there are more players
+closer to it than people fully realize
+And it's going to be a very dynamic
+moment uh in the industry. I think China
+will will will be uh very very
+competitive on the AI frontier is just
+what I always assumed and much of the
+narrative and I think probably the fact
+around the ability to deploy AI at scale
+is one that is predicated on
+availability of electricity. Mhm. Even
+Elon, and I've been talking about this
+for a while on my podcast, but Elon this
+week is saying, "Hey, I need a terowatt
+of compute." Uh, terowatt is roughly the
+power production or the electricity
+production capacity of the entire United
+States. US is going from 1 to two
+between now and 2040. China's going from
+3 to 8 and there's probably upside given
+all the new electricity production
+technologies that they're rolling out
+now, which will be additive to that. How
+much is electricity generation going to
+play a role in who is going to
+economically benefit from AI over the
+next 10 to 15 years and where is the US
+compared to China and maybe where is
+Google. Well, look, you are uh
+definitely uh hitting on you know what
+is
+uh you know when you when you look at
+any system you want to find where the
+constraint is because that's what like
+gates the whole system and you are
+rightfully identifying uh the most
+likely constraint for uh AI progress and
+and hence by definition GDP growth and
+all that stuff right so I do worry about
+it a lot um but you know the answers or
+you know sometimes you run into
+challenges which are you know you have
+to solve you know you're running into
+physics barriers or something like that.
+This is not a problem like that, right?
+Like we already know the technologies
+that can work to supply the demand we
+need. So it's more to me an an execution
+challenge, right? I would I would phrase
+the energy problem as uh it's obviously
+multifaceted. Uh but I think I think be
+it really embracing we shouldn't have
+innovators dilemma in the energy sector,
+right? So we should lean into all the
+possible innovations ahead and there are
+many of them. Obviously first of all
+people perpetually I think will
+underestimate solar right you know solar
+plus batteries will end up being huge.
+uh you know obviously uh the amount of
+innovation that's going into nuclear
+geothermal all of that are uh
+opportunities to uh uh embrace and more
+I'm not mentioning but I think you know
+upgrading the grid
+uh you know solving for
+transmission uh you know permitting to
+make all of that progress faster and
+then actually I think we maybe workforce
+constraint like you know to to my
+earlier point Right? You know, I think
+we are all if you look at the number of
+electricians leaving the
+workforce versus
+suddenly all of us and if you you
+project out this demand, there's a huge
+mismatch, right? So, literally how you
+know how do you make sure there is
+incentives and workforce development to
+address shortages like that over the
+next decade will end up being important
+policies. Uh I think we are fortunate
+you know people like Secretary Wright
+and Secretary Bergam I mean they are
+very I think deeply aware uh of the
+issue and I think they are uh hitting
+hitting the problem hard but I
+definitely think it's solvable but I
+think we all have to put our mind
+towards it but for your business today
+you don't see electricity constraining
+growth in the business in this moment or
+in the projectable future. No, I won't
+say that right like just for example we
+are supply constraint this year in our
+cloud business right and when we are all
+of us are simultaneously looking to
+scale up data centers right so we are
+running into real constraints the way
+the constraints play out today is delays
+in projects because of permitting or you
+know not having access to electricians
+all of that is realities all of us are
+dealing with right So if this trend line
+continues the pace at which we are all
+ramping up and obviously for it to
+continue we all have to generate the
+returns on it and you know and and so it
+has to really impact the economy in a
+more substantive way. So they go hand in
+hand uh if the trend continues these
+constraints will be much more visible I
+think today we are all working through
+these constraints uh so I think there
+are real constraints today uh but I
+expect it to for us to be competitive
+with China etc. I think we have to solve
+these constraints in the near future.
+What does that look like then? Fast
+forward 15 years. The US has 25% of the
+electricity of China. Mhm. Is China just
+bigger GDP in that moment? Is the pie
+going to grow for everyone? You know,
+how do we kind of think about how, you
+know, the way I've assumed is the US is
+always there's never been a time where
+US just doesn't meet these moments,
+right? So to me I look at it and say it
+just means that you know the capitalist
+solutions will innovate through this
+moment right that's why people are
+working hard to build SMRs and uh
+nuclear fusion etc. So I've kind of
+assumed we will meet that moment and if
+we don't or if if the if the lines don't
+match I think the conversations will get
+louder and louder till we meet the
+moment. Uh that's that's the way I
+internalize it. There's a history of
+Google investing in innovative
+technologies and being ignored or being
+told that they don't make much sense.
+Good luck. The TPU is a great example.
+The acquisition of Deep Mind is a great
+example. The investment in
+infrastructure is a great example. The
+insane continued investment forever in
+Whimo. Yeah. Is a great example. And
+suddenly it looks like Whimo's on track
+to be a hundred billion dollar business
+and this is actually going to work.
+mindblowing persistence and patience. By
+the way, we have we are doing the same
+patient approach in many other areas.
+That's my next question. Quantum is one.
+So tell me about quantum but you know
+but because everyone ignores quantum.
+You've had this investment for some
+time. Why is quantum so important?
+Because again I want to use the
+historical data that it does it seems
+like a small bet. Good luck. But what
+does quantum evolve to from a compute
+perspective for humanity and when does
+that happen do you think? Obviously
+quantum has gotten a lot more attention
+in the last 12 months or so. Uh but
+we've been work just like Whimo we work
+through these things whether there's
+attention from the outside or not
+because we are working on these things
+out of conviction on the long-term
+trends. Right? So it's it comes from
+those first principles. Um obviously the
+universe is fundamentally quantum. uh
+you know to to do any kind of large
+scale uh simulations in a way that truly
+represent nature you know you would need
+uh some versions of quantum computing. I
+think to me quantum feels like where AI
+was
+around you know
+2015. So I would say in a 5-year time
+frame you would have that moment where
+some a really useful practical
+computation you know is done in a
+quantum way far superior to classical
+computers and that'll be that aha moment
+uh you know I think which will really
+show the promise of the industry.
+uh I'm absolutely confident that we will
+get there when I see the progress and I
+can pattern match to progress in the
+other fundamental areas we have worked
+on. So it really doesn't feel like
+obviously look these are very
+challenging areas. You may hit a
+constraint. I do think a lot of people
+are making announcements in quantum. So
+in some ways it's tough to distinguish
+them. We had the same scenario in
+self-driving maybe 3 years ago. There
+were so many people doing
+self-driving. It looked like everyone
+was roughly the same but they weren't.
+Uh I could internally tell the
+difference that how far ahead Whimo was.
+I feel that way about our quantum effort
+too. I think there are a lot of
+announcements, a lot of noise in the
+industry. There are few good people, but
+like you know, you know, but I I do
+think we are at the at the frontier
+there and so you know I'm I'm pretty
+excited about it in a 3 to 5 year time
+frame, but we'll be patient and get
+there. Yeah. Do you want to speculate on
+a business in quantum? Look, I I we are
+committed to, you know, in almost all
+these cases, our goal would be to, you
+know, demonstrate more and more useful
+practical algorithms and show progress
+on that and and give access to it
+through cloud, right? And
+and I think, you know, I always say it's
+tough to project innovation on top of a
+platform, right? Nobody could say just
+because you had smartphones and GPS and
+payments something like Uber would get
+invented. You couldn't linearly sit and
+project Uber from the underlying
+innovation. That's how the world works.
+And so uh for me quantum is that
+foundational again just like AI there's
+going to be extraordinary innovations on
+top of it. We don't know the algorithms
+yet. It's almost like trying to predict
+how people would use personal computers
+in 1977 or something. That's right.
+We're very early and you know some of
+the the constraints in quantum are that
+there aren't quantum computers to test
+them out new algorithms to test them
+out. There's a lot of theory in quantum
+algorithm development but not a lot of
+testability experimentation at this
+point. We are working on all of that
+too. I think we'll have more exciting
+moments to share this year. So look
+forward to making I think that that's
+what's interesting. It will expand
+people's minds of the potential of what
+you can actually do. Right now, no one
+really knows how to think about quantum,
+where it's going to take us. But those
+announcements, I think, are going to be
+really preient. And then I'm assuming
+all your friends will show up and say,
+"We've got a quantum effort." Now, too.
+Tell me about robotics. I think this was
+going to be the year of the robot. We
+see so many models being trained on
+simulation data or real world kind of
+observational data that are then being
+used to control physical systems. Call
+it physical AI, call it robotics. Lots
+of startups, lots of big companies.
+Google bought Boston Dynamics and a
+bunch of other robotic companies. I
+think Andy Rubin was overseeing these
+for a while and then you sold them off
+and decided it was too early. What's
+your point of view on the opportunity in
+robotics today? How does Google play
+here? We are definitely for robotics,
+you
+know, we again have probably, you know,
+one of the most advanced frontier R&amp;D
+teams in the world now. uh you know and
+and the Gemini robotics efforts around
+vision language, action models etc are
+world class. I do think um you know
+robotics uh you know so we are now
+thinking through how we either partner
+or where we actually bring products out.
+you are right we we tried the
+application layer too early uh where I
+think robotics wasn't really being
+influenced by AI as much but now it's
+it's really the combination of AI plus
+robotics that gives that next sweet spot
+right and and so we are uh making plans
+there uh nothing to share today but you
+will see us make more announcements in
+the space but we are definitely uh
+foundationally driving uh the underlying
+uh models and We are building
+state-of-the-art models there. We are
+working with partners and testing it.
+You know that when I look at the
+progress of humanoid robots etc. I mean
+they are uh you know in the past I would
+say oh these this is obviously uh you
+know you can see how janky they are. Now
+I have to take 5 seconds to look at it
+and say closely and say is this fake or
+is this an actual robot doing it? Right.
+Right. like already I'm in that moment
+and so and so you can see the progress
+uh in the field underway. So I think you
+know we are probably two to three years
+away from that magical moment in
+robotics too and so so that's the next
+exciting phase is a good way to think
+about it that Google could potentially
+develop the Android for robotics and
+ultimately have a broad play here. Yeah,
+we have intrinsic so one of our bets is
+effectively doing that. So uh supporting
+uh robotics manufacturers
+um you know we we are committed to
+having the Gemini as a model you know
+will will take all modalities into
+account work very very well for robotics
+it's definitely something we are
+committed to being on how we actually
+bring products out first party versus
+third party etc is where we are thinking
+I want to talk a little bit about
+culture which seems to be a key
+differentiator on the kind of
+competitive landscape I go back to
+thinking about Google offering free
+food, massages at work, 20% time as a
+way to attract and win in the early days
+of the talent wars in Silicon Valley,
+early 2000s and and and that persisted.
+But what happened is it grew and it
+became more amenities and the narrative
+is that Google ended up creating a
+culture that kind of moved away from
+more accountability and performance and
+was much more about coddling employees.
+Can you just comment on kind of your
+observations on the evolution of Google
+over the 20 years that you've been here
+and what you've tried to do lately as a
+leader? How you think about the culture
+you want to foster and what you're doing
+about it? Look, I think it's important
+to step back and say, you know, the
+underpinnings of a culture in which you
+really invest in employees and and you
+empower them and and even some of the
+perks was to create a a a culture where
+it's positive, optimistic, you're in an
+innovation mindset, people are talking
+to each other. Maybe by giving lunch
+here, people are all sitting and talking
+ideas through lunch, you're
+cross-pollinating. Imagine. So you know
+that is the thesis of it. Not that we
+are trying to give lunch to people right
+and and so I till today feel you know we
+still get a lot of innovation in the
+company at all levels of the company and
+I think people wake up um you know and
+say well I can go do this notebook LM
+etc are great examples right and so
+people do that all the time. So I think
+empowering
+employees has been and is and will be a
+source of strength for Google right I
+think we can attract higher caliber
+people who feel like they have agency to
+do that right and but that doesn't mean
+like you know I think I think people
+shouldn't confuse that with like today
+for example you can take something like
+Google deep mind I think there is all
+the way from Demis and others you know
+extraordinary leadership team be korai
+Jeff Oral no me etc all these leaders
+have strong opinions depends on how to
+drive that frontier forward and and
+that's happening too right so I think
+it's important to strike a balance
+balance uh between the two I think when
+you empower employees a lot in some ways
+like you know we have allowed for more
+free speech than other companies that's
+one way you can think about it so you're
+going to hear voices sometimes you can
+hear like what is effectively 500 people
+in the company but that doesn't
+represent the company as a whole so in
+some ways we are different from other
+companies and can confuse use it on the
+outside I think but I think overall look
+we have a clear sense of where we are
+going I think we want to empower people
+all in the service of our mission so if
+anything you know over the past few
+years and you are right there are
+moments not just us but as an industry I
+think uh I think some of the other
+things became more of the focus than the
+mission of the company and why we are
+all here right like we are we are not
+all here in the company to resolve all
+our personal differences or something.
+We are here because you're excited
+about, you know, innovating in the
+service of the mission of the company
+and and the impact you can have. And so
+bringing that focus back, that's
+something I've been very deliberate
+about for for the past few years. And I
+think it needs reinforcing. I think one
+of the lessons for me was we all grew so
+much that you assumed everyone always
+understood those underpinnings but then
+when you added so many people you
+realize you have to go back and repeat
+that a lot uh to to help people
+internalize that. We've done that and we
+do that all the time. Uh I think moments
+like this help a lot too. The current
+moment is just genuinely both so
+exciting and so intense. It actually
+reminds me a lot of early Google, right?
+You know, when I walk into the GDM
+building, you know, some of our earliest
+engineers are all sitting there working
+together. People come in 5 days a week
+at a minimum, right? And so you have
+that intensity and you have that
+excitement and I feel that same sense of
+optimism. So that's what I'm focused on,
+right? You know, to me that's the
+hardcordness which matters, right? like
+are people smart
+people really working with a passion and
+that's where that intensity comes from
+and and you have to work hard to create
+that and you know there are pockets of
+the company if that doesn't happen you
+figure out what are the changes you need
+to make uh to to do that right and
+sometimes for example I recreated the
+notion of
+labs right and and and because I said
+well there are things that are possible
+with 10erson teams and so we need go and
+do that again and and there are quite a
+few projects both we have shipping and
+are underway to come which will be an
+outcome of those efforts as well. So you
+know your culture your values are
+enduring culture is something you're
+constantly tweaking to make sure you're
+true to your values and so by definition
+there's going to be drift and you know
+you work hard to uh uh snap it back. Was
+there a moment in the last 10 years
+where you said I've got to spend more
+time on this? Oh, you know, uh, for
+sure. I look, I think CO was such a big
+distortion to to the to our way of
+working, right? So, you know,
+fundamentally Google was designed to be
+uh a culture in which people were seeing
+each other, engaging with each other.
+So, losing that continuity, right, I I
+think definitely impacted our culture.
+So when we have we've gotten people back
+uh in a 3-2 model and some teams are you
+know work uh beyond that I think it's
+been important I've I've spent time to
+get those connections back like you know
+for example GDM we were intentional in
+creating a physical space where we can
+get all of them back in the same
+building both in London both in Mountain
+View and and and taking our newest
+building um you know with that kind of a
+tentlike roof structure and putting all
+the people in and being intentional
+about it has made a massive difference.
+Have you found a shift in your ability
+to recruit top talent? A lot of great
+talent has started other great
+companies, other great companies in
+Silicon Valley have recruited folks. I
+know there's always a talent war going
+on, but has there been a tenor shift for
+Google in the last period of time
+because of some of the underlying
+advantages in AI or some of the cultural
+changes that are underway? the talent
+market you know we go through these
+fierce moments for talent AI is one of
+them and whenever there are these Google
+you know obviously we we are fortunate
+to have some of the most talented
+employees so we are a source I'm equally
+proud of the fact that I think Googleers
+have left to start over 2,000 companies
+right and and so you know there is a
+virtuous cycle I think people come back
+we acquire companies I think all of that
+keeps the company uh fresh but in the
+current AI moment
+Look, I think we are both holding on to
+critical talent. We are recruiting. You
+know, I always look at the tip of the
+tree of are we able to attract the best
+PhD researchers coming out of the top
+programs and the answer is yes. Um you
+know and and there are people who have
+left who have come back and so I feel
+good about the position we are but you
+work at it hard every week, every month
+and so on. Do you think this is going to
+change in the future with how we do
+education and how AI plays a role in
+education? Are you going to be able to
+identify, recruit, and then teach and
+train talent out of high schools and at
+an earlier age? And the traditional kind
+of college education system is going to
+change because of AI on the job
+training. There's a lot of potential to
+change. I just there's a part of me
+which feels maybe we've all
+misunderstood what colleges are about
+and maybe colleges are about that
+community and people getting together
+and exchanging. So it you know there may
+be intangibles which which would still
+uh maybe make the uh uh uh you know it
+more valuable than like we all perceive
+it to be but um but the way I think
+about it is you're going to get
+extraordinary talent at more places
+around the world. So that's the way I
+think about it because people have
+access to with AI. So you don't need to
+be in a few certain places to be that uh
+that great uh great talent. So I think
+the nature of that changes. By the way,
+I think it's an important thing to
+internalize. We often talk about talent.
+We've always been able to recruit the
+best talent uh in the country. But now
+there's extraordinary talent emerging in
+other parts of the world too. So I think
+it's something not to lose uh line of
+sight and you know maybe that's the way
+I would think about it. So just taking a
+step back zooming back I had a
+conversation 10 years ago with Larry
+Paige where he talked about the
+transition from Google to Alphabet.
+Alphabet is going to be this holding
+company. It's going to discover or
+develop the next hundred billion dollar
+revenue business. At the time, I think
+Google wasn't quite at hundred billion.
+There have been a lot of these
+investments and other bets since that
+time. Do you still think about Alphabet
+as a holding company? Are there still
+multiple businesses that you want to
+kind of stand up and foster and have
+this kind of holding company model? Is
+that still hold or is Google really the
+core engine that's going to continue to
+evolve and continue to have ancillary
+businesses that are you know somewhat
+adjacent to Google? I'll answer it two
+ways, right? So I think the way we are
+not a holding company in the sense that
+we are we are not just like looking to
+invest capital in other attractive
+businesses that's that's not who we are
+right uh we are you know from a
+foundational technology basis if you can
+take that
+technology and that R&amp;D we do and
+identify problems in which we can
+innovate and bring a differentiated
+value proposition we'll do do that,
+right? So that's the way we approach and
+so the the structure is an outcome of
+that, right?
+So and which means you will have
+businesses uh on on on on paper they may
+look like very desperate but there's a
+common strand underneath them right so
+like mayo is going to keep getting
+better because of the same work we do in
+Gemini and AI over time as Google cloud
+to search to YouTube to isomorphic to
+robotics etc. So that is the unifying
+layer right and and then it's a
+continuum is Google cloud a Google
+business or an alphabet business right
+you know we segment it out right and so
+uh so you know so the the the branding
+matters less I think right you know
+we'll have a range of companies some of
+them will leave and IPO out because
+maybe that's the best way they can make
+progress so all of that is a possibility
+but what I think I founders think about
+is like the underlying innovation by
+which so we think at the units of
+quantum right you know alpha fold and
+hence isomorphic right you know
+self-driving and and building the way
+more driver and hence all the businesses
+on top of it so it's more maybe maybe
+that's how we think about it right does
+X still play a big role in driving
+innovation and you continue to invest
+there yeah look I think if anything um X
+over time look a lot of lot of these
+innovations did that come out of X,
+right? And so, um, including Whimo, uh,
+you know, the early incarnations of
+Google Brain, right? Yeah. So, so I
+think, uh, X as an incubator, um, allows
+us to, uh, you know, push the
+boundaries. They're thinking about uh,
+tapestries, thinking about the grid
+problem. um that are uh you know uh
+extraordinary but but it's all rooted in
+computer science, physics, kind of a
+deep uh technology R&amp;D and I think
+that's the foundation across everything
+we do. As we wrap up um I want to ask
+you one last question to hopefully frame
+your experience of the last 10 years as
+a CEO. Biggest regret, biggest mistake
+and what you're most proud of. Proud is
+obvious. Look, I I think I think we have
+as a company I think there aren't that
+many companies which can push the
+technology frontier like you don't hear
+of companies winning Nobel prizes often.
+That level of foundational R&amp;D we do and
+then apply it to create businesses and
+value. I think I think we've done an
+extraordinary job at that and we aspire
+to do that. You know, I'm I'm really
+proud of that. I think we're pretty
+unique as a company that way. You know,
+there a lot of small regrets, you know,
+by nature. I tend to look forward and I
+learn from mistakes we make. But look,
+there are acquisitions we debated hard
+came close and you know some of them are
+just give me one name
+or get in trouble. Maybe Netflix, right?
+Like we debated Netflix at some point
+super intensely inside. So you go
+through these moments, right? and and uh
+and uh you know and so uh I wouldn't
+call it regrets but you always look back
+and like you know like you know in in a
+world of butterfly effects there were
+alternate paths but maybe they are in a
+different part of the multiverse. Yes.
+Yes. I always um tell people I I think
+they underappreciate the role that Bell
+Labs played in driving innovation and
+ultimately human prosperity in the early
+20th century. And I do think a lot of
+people underappreciate the role that
+Alphabet is playing in driving
+innovation across so many different
+lanes which drives prosperity,
+businesses, competition, all that stuff
+aside, the innovation that's being
+driven out of Alphabet continues to
+impress and benefit us all. And so I
+want to thank you for your leadership
+and the time. Thanks, David. Real
+pleasure.
+[Music]
+I'm going all in.

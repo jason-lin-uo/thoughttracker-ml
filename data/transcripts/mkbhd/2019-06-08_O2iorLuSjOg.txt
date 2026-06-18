@@ -1,0 +1,242 @@
+# iPad OS Impressions: They Listened!
+# https://www.youtube.com/watch?v=O2iorLuSjOg
+
+[Music]
+hey what is up guys mkbhd here and
+welcome back to your continued coverage
+of the world's most densely packed
+keynote wwdc 2019 and i'm going to say
+that loki my favorite announcement from
+that entire keynote
+was ipad os 13. you see if you remember
+there were a lot of complaints and
+feelings in my ipad pro review and many
+others about how this is clearly the
+best ipad ever it's incredible hardware
+great screen
+great battery great chip
+but it's still sort of held back by the
+software by ios and it still felt like
+just an ipad well fast forward a couple
+weeks till now till that crazy keynote
+happened and now we have an update
+alongside ios 13 specifically for the
+ipads it's ipad os now it's not an
+entirely new operating system it's still
+ios 13 for ipad but this ipad os
+directly addresses so many of the
+complaints and those features that it
+was lacking that sort of bring it up to
+speed of a much more impressive computer
+so in a way
+this software update kind of feels like
+it saves the ipad pro for me so let's
+break this down first of all the widgets
+on your home screen so i never thought i
+would say that about ios but technically
+you do have these here so at least on
+the left hand side in a vertically
+scrolling list but these are the ones
+that were over to the side of your home
+screen on your iphone but you can pin
+them right alongside the rest of your
+smaller icons and they go a long way
+towards making it feel a bit more like a
+real computer already you know and i
+actually think a lot of possibilities
+open up with the widgets that you can
+put over there they're always available
+there's a lot of glanceable information
+and a lot of one-touch functions if you
+have some important apps up there so i'm
+a big fan of that and then there is the
+multitasking improvements so again a lot
+of this is learning gestures and things
+like that there's sort of a learning
+curve to them but you can have apps side
+by side like you always have but now you
+can have two instances of the same app
+side by side next to each other so notes
+next to notes or safari next to safari
+it's one of those things i didn't know i
+would like but turns out to be pretty
+useful
+and then of course there's also the
+slide over apps and the whole gesture
+system that goes with that so there's
+multitasking between slide over windows
+and quick switching between them and all
+the stuff stays in memory and it's
+always remembered so if you have
+multiple apps and spaces next to each
+other you can switch between those pairs
+of apps it's pretty impressive so i feel
+like this is one of those features that
+you could not use at all to start but
+slowly start introducing them into your
+workflow until you get really good at
+them and then they feel irreplaceable
+and then okay remember when i said in
+the original ipad review having a usb c
+port makes the workflow dream seem like
+you know just plug your camera directly
+into that port or plug a card reader
+straight in
+import and then start editing your
+photos or whatever you're doing
+you couldn't do that on the ipad and it
+was a bummer that that wasn't supported
+until now in ipad os 13 you now can plug
+in a flash drive or plug memory in
+directly into the ipad and import into
+your apps and start working this
+obviously feels like one of the features
+they should have had from the beginning
+but now that it's here thank you
+finally that's originally what i was
+expecting when i saw usbc on the ipad
+pro so now let's take advantage of that
+there's also this column view and the
+files app that's starting to behave a
+lot more like finder with the ability to
+quickly copy and paste files and
+compress files and folders into zip
+files i feel like also a lot of signing
+documents will be a lot easier now that
+you can do this so file management is
+much better and then also desktop class
+browsing so that was another one of my
+big complaints about the ipad was the
+inability to use several important
+desktop sites because they all treated
+safari on the ipad like safari on the
+iphone just like another mobile browser
+so i was pretty impressed and happy to
+see full desktop class browsing now so
+first thing i had to try was google
+drive that all now fully works it's not
+perfectly smooth but it works which is
+great and then desktop youtube and the
+creator studio also works so things like
+adding end cards and updating
+descriptions and a lot of the stuff i
+would do on the desktop it now all works
+perfectly in the web browser this is
+literally one of the things i would
+carry around a macbook pro to be able to
+do because i don't trust doing that
+stuff on my phone there's also now a
+download manager in safari so you can
+use it for sites like dropbox and
+box.com and google drive for natively
+downloading files that's awesome for me
+because the ultimate team i play for in
+new york empire we put game footage all
+in the shared folder in google drive but
+i couldn't download from google drive to
+the ipad to watch it offline i could
+only stream so now i can just straight
+up download it to the ipad and just
+watch it like a normal file
+it's great and then there's a bunch of
+other little improvements so things like
+the keyboard anytime you're typing
+anything you can pinch it down and it
+becomes this iphone size keyboard and
+you can move it anywhere you want and
+then type with one hand or do swipe
+typing it's not the prettiest thing in
+the world but the fact that you can do
+that in one quick gesture is pretty nice
+and also if you use the apple pencil for
+markup a lot another feature that's
+super useful is you can now use the
+pencil to take a screenshot by swiping
+up from the corner then you immediately
+are in markup mode and you can start
+drawing on whatever screenshot you just
+took that is clean and then the icing on
+the cake is another new feature called
+sidecar so if you have a mac
+and an ipad as the name suggests it'll
+let you use the ipad as a second display
+for the mac so i saw this demo at wwdc
+it was literally two clicks away in the
+display settings and then suddenly this
+macbook pro has a second display that's
+apple pencil compatible and with the
+super low latency of the pencil you can
+just start drawing and editing i imagine
+this to be useful for artists and people
+that do a lot of photoshop work and
+things with the stylus
+i don't know about replacing those wacom
+tablets that are so specialized that a
+lot of workflows use right now but as
+responsive as this is and as good as it
+looked in beta this looked really
+promising oh and let me just say that
+the improved latency of the stylus they
+said on stage that it went from 20
+milliseconds to 9 milliseconds i didn't
+know if i would notice that but trying
+it it is incredibly fast now it looks
+and feels like you're actually writing
+directly onto the ipad's screen i don't
+know if they could even make the latency
+any shorter than this and if i would
+notice it at all it is super fast so
+does all this stuff take the ipad pro
+from being just another ipad to being
+a sort of a computer replacement for
+more people
+as you might imagine the answer depends
+on what you do on your computer but for
+me if i'm not video editing on my laptop
+the answer is actually
+yes
+pretty much everything i do in between
+desktops as far as mobile work
+i can now actually do
+on the ipad pro and that mobile web
+browser being treated like a desktop
+class web browser is a major part of
+that i also really like the widgets on
+the more compact home screen and the
+multitasking improvements and all this
+stuff to me legitimately saves the ipad
+so today
+like i said since i don't edit videos on
+the go anymore i do it in between at
+desktops
+today i'm taking my laptop
+out of my backpack and i'm gonna be just
+carrying ipad pro
+we'll see how long this lasts but i
+really feel like i can do everything i
+used to do i don't know whether to be
+mad at apple for like holding these
+features back and then finally
+delivering them later to blow all our
+minds or if i should be super happy for
+apple for listening to our feedback and
+actually updating the ipad with all
+these features for what we asked but
+what i do know is the improvements that
+they've made to ipad os are stellar i
+think when they do hit the ipad in their
+final form because this is still early
+beta and it'll be a public beta soon but
+when these finally start hitting
+people's ipad pros they're going to
+notice they're going to be major
+improvements
+i think i'll really like them i really
+like it
+either way
+that's been it thanks for watching this
+video
+catch you guys the next one
+peace
+[Music]
+you

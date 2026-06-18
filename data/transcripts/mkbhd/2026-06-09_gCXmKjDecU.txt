@@ -1,0 +1,480 @@
+# WWDC 2026 Impressions: Yeah, That's About Right
+# https://www.youtube.com/watch?v=_gCXmKjDecU
+
+I was told to make my bed before making
+a hotel room video because it makes it
+feel more put together. So, all right. I
+am out here in California because today
+was Apple's WWDC, their worldwide
+developer conference 2026. And every
+year, this is where we expect all the
+announcements for all their latest in
+software, iOS, Mac OS, watch OS, etc.
+And this year, they did some of that.
+They did some of that, but they actually
+mostly breezed through that stuff pretty
+quick and then got down to like the two
+main new topics, which were trust and
+safety for kids and Apple intelligence
+and the new Siri. Now, the breeze
+through updates part I actually liked
+because that was actually instead of
+being just like new feature, new
+feature, new feature, visual overhaul,
+liquid glass, all this fun random new
+stuff. It was actually a little bit more
+of a holistic like combing through some
+of the uh the stuff that's been needing
+attention that hasn't been getting it
+lately. The smaller details like a lot
+of the recent updates with Liquid Glass
+and and all these pretty visual dramatic
+updates have been, you know, I think it
+would be lying if we said they didn't
+feel a little sloppy sometimes. We've
+all seen the stories about battery life
+going down or performance degradation
+getting kind of weird or just bugs here
+and there with things like readability.
+So through all of their operating
+systems, iOS 27, iPad OS 27, Watch OS,
+tvOS, and Mac OS, which the new one is
+now called Golden Gate, uh they'll
+mostly look roughly the same, but
+they'll have a lot of the under the hood
+stuff that's actually improved. So
+things like smoothness of animations,
+apps opening faster, and they dropped
+some other bangers like tweaked app
+icons and matching corner radiuses, uh
+sidebar icons getting their color back,
+and adding a slider now for how
+transparent or tinted you want liquid
+glass to actually be. They actually will
+let you make it even more clear, which I
+swear no one asked for. But yeah,
+there's a slider there now. But yeah,
+faster app launching, more smooth system
+animations, uh more complete and
+thorough indexing for Spotlight, 80%
+faster airdrops, which I saw that on the
+slide and I was like, that sounds
+amazing. As long as you can also make
+Airdrop work more of the time. I think
+it's the attention to detail stuff like
+that that we should see improvements
+with. Some other highlights, Vision Pro,
+you'll be able to use panorama shots
+you've taken now as environments. So
+before it was just like the handful of
+Apple provided ones like Mars I think it
+was and Yoseite and Mount Hood etc. Now
+you can have your own finally. And my
+personal favorite that they did add
+custom EQ for AirPods which okay great
+finally I'll take it. It feels like this
+was a grab bag of things that they kind
+of wanted to throw in to make sure they
+had some real stuff to announce because
+it was mostly the AI. But if that means
+we get EQ finally in the world's most
+popular earbuds when everyone else has
+had it for years, then I'll take it. So,
+there's good stuff, much needed in my
+opinion. Lots of little details, and I'm
+sure we'll find much more stuff when we
+actually use these that weren't
+announced in the keynote. I plan on
+downloading these betas and getting to
+test them and reviewing them, of course.
+So, make sure you get subscribed here to
+see those reviews first when they do
+come out. So then they got to trust and
+safety. This was the whole middle
+section of the keynote and it was
+basically them going down this rabbit
+hole, I guess you could say, of trying
+to tell people that the best experience
+that your kids can have is with their
+own device that is controlled by their
+parents. You can probably see where this
+is going. So, they talked through a ton
+of child safety features. Stuff like a
+dedicated child account so that the
+parent account can control which apps
+they can download and which websites
+they're allowed to visit and who they're
+allowed to talk to. Obvious stuff. Uh
+there's new more granular screen time
+features so you can see how they spent
+their day and then use auler to adjust
+when they're allowed to spend more or
+less time in certain types of apps. Like
+obviously watching a movie on the
+weekend is cool, but scrolling Instagram
+for 3 hours when they're supposed to be
+in school, well, that's a no-go. So, the
+upside here is obviously much better
+safety and controls for parents that
+directly addresses the concerns that
+they may have had about the the websites
+and the content and the apps that their
+kids have had access to.
+And the cynical read is also
+get your kid an iPhone. You remember get
+your mom an iPhone? Now, it's it's also
+get your kid an iPhone cuz trust us,
+it's the best one. Like we've talked
+about this before, we already know how
+dominant Apple is with iPhones,
+especially with younger people in the
+US. And getting them on an iPhone as
+young as possible, makes them much more
+likely to have an iPhone and use it in
+their adult life. And so, this is like
+the the lowest common denominator
+version of that, which is the best
+possible parental controls means the
+youngest possible iPhone users, which
+means more iPhones in the future. Yeah,
+makes sense. But the big thing we all
+expected them to talk about here, which
+they finally got to, was the new Apple
+Intelligence and the new Siri. And they
+did. They got to all of that. And I
+would say the new Siri is exactly
+what we were expecting. Like in terms of
+capability, pretty much straight down
+Broadway. Like no dramatic surprises,
+nothing that they announced that made us
+go, "Oh my god, that's crazy." No let
+downs either, which is great. But yeah,
+it's it's about what we expected. The
+basics are you'll now be able to trigger
+the new Siri on the iPhone by either
+swiping down from the dynamic island or
+holding down that power button while you
+talk to it. It has a slightly new
+animation and this general new look,
+plus a new more expressive voice. And
+then it launches you into a
+conversational chat that pulls from
+Apple's new broadw world knowledge base,
+cites its sources when it has some of
+those and lets you click through to
+that, which I tried. That is nice. And
+then it syncs your conversation history
+inside a new Siri app. And that syncs
+across your whole ecosystem. So your
+Mac, your iPad, your iPhone. It doesn't
+remember every single thing you ask
+Siri, but it definitely saves the more
+interesting conversational things it
+thinks you might want to come back to.
+So here's the angle. Here's the thing,
+right? We already know people have lots
+of other great AI models to choose from.
+People have the chatbt app on their
+phone. They have Gemini. They have
+Claude already. The way that Apple every
+single time the way Apple jumps into a
+new product category, which I think this
+is, is they make it the best one to work
+with the iPhone. So Claude and Gemini
+and GPT are really good at other things,
+but Apple's series is going to be the
+one that can plug into all of the
+knowledge of what it has on your device,
+indexing everything that's actually on
+your iPhone. Now, I am planning on doing
+an entire separate video, like I said,
+reviewing this, demoing it, showing
+exactly what it's capable of because it
+does have some quirks already, some
+interesting things that it is not doing
+that I expected, like showing the
+transcription as you're talking instead
+of when you're done. Little stuff like
+that. Again, stay tuned for the full
+review, but I think they just basically
+played it extremely safe. They did the
+stuff that you'd expect apples to do and
+nothing more. It was kind of funny that
+through this whole keynote, there were a
+ton of live demos almost as if to say,
+"Yeah, we know a lot of you are
+rightfully skeptical and we learned our
+lesson from last time." So, here we go.
+This time, it's definitely working for
+real and we're showing you exactly what
+it can do. So, yeah, what can it do? It
+can look through your messages, through
+your photos, your calendar, and pull
+answers to questions from that stuff.
+And it can take actions inside these
+apps. So, it can send messages, add
+stuff to your calendar, set reminders,
+all the most basic stuff. And that's why
+I say it's like it's about right. Like,
+it's straight down the middle. It's not
+going all the way to doing like this
+insane agentic stuff that Google was
+just showing on stage with Gemini just a
+couple weeks ago at IO. Like, I had
+those concerns about asking Gemini to
+take a picture of a concert poster and
+it buys tickets for you. Like, I don't
+know. Is it going to get that right? Is
+it going to spend too much money? Is it
+going to get the right seats or the
+right dates? Is it going to hallucinate
+something weird? I don't know. But this
+Apple one, it's just going to stop short
+and it's just going to add it to your
+calendar. Just just do the safe thing.
+But unlike the other stuff, it has the
+advantage of knowing what's in your
+iPhone. So, if you use an iPhone, GPT
+can't pull from your messages. Claude
+can't pull from your Apple calendar.
+Gemini doesn't see this stuff. is Siri
+that will actually be most helpful with
+the context of, you know, all the
+personal information that never leaves
+your device. Now, Siri can also pull
+from what's on your screen, too. And
+they added a new camera mode literally
+inside the camera app that's just an
+updated version of the visual
+intelligence stuff we've seen. So, just
+definitely surfacing it to a lot more
+people this way. So, you know, people
+are going to be taking pictures of stuff
+and then identifying it with visual
+intelligence. You could also see how
+this would be particularly useful if you
+were making smart glasses at some point.
+But now my number one concern watching
+all of this was what about third party
+apps, right? Like obviously, okay, it's
+Siri. Of course, it should be able to
+pull conveniently from that iMessage
+conversation that I had. It knows my
+contacts, but what about that WhatsApp
+conversation that I had? Or what about
+pulling from my Google calendar instead
+of my Apple calendar? What about sending
+something to, I don't know, a separate
+notes app that I like to use instead of
+Apple Notes? What about all that? And I
+plan on digging into this way more when
+I actually get my hands on with the OSS,
+but it seems like the answer is as long
+as the developer has enabled like app
+intents and the app store knows what
+type of app it is, then it can be
+summoned uh intentionally by the user.
+It doesn't seem like it can be a
+default, but you can decide to use other
+apps if you tell it to do that. It's
+like by default if you ask it, hey Siri,
+remind me of like that podcast that Greg
+recommended me and play it. It will of
+course if it's an iMessage conversation
+find it and then start playing it in
+Apple Podcasts. But if you don't want
+to, you could say play it in Spotify or
+Pocketcasts and then it would know that
+that's also a podcast player and it
+would do the app stuff and do the same
+action in that app for you. So as long
+as you tell it you want to use a third
+party app, you can. But I definitely
+need to push this to see how far it
+goes. Like is it going to be able to do
+geo fenced recurring tasks in tick tick
+my app of choice instead of Apple
+reminders? Maybe. I don't know. Is it
+going to be able to pull from WhatsApp
+group chats if it has like the same set
+of contacts as iMessage? TBD. We'll see.
+But here it is. Here's the most
+disappointing slide from the whole
+keynote. This is the list of every
+device that supports the newest most
+powerful Siri ondevice models. So yeah,
+the only iPhones that will run it are
+the iPhone Air and 17 Pro. It's because
+those are the ones with 12 gigs of RAM.
+Kind of hilarious considering the iPhone
+16 was built from the ground up for
+Apple intelligence and is already
+outdated before that stuff is even
+coming out. But I'm told that the only
+difference between the most advanced on
+device models and the ones that all the
+other iPhones will be getting like the
+16 is the new Siri voice and the updated
+dictation features. Also, fun fact, in
+Vision Pro, Siri is just this little
+floating orb in your space. And when you
+want to activate it, you literally just
+look at the orb and start talking. And
+since there's eyetracking, it knows and
+responds. Clever. So, you can ask it
+about, you know, the windows you have
+open or even any of the objects around
+you in your real space. Reminds me a lot
+of uh circle to search on the Galaxy XR
+headset. Remember that demo? You could
+just sort of point at something and
+Google it in real life. Very useful. But
+then there's also some uh new Apple
+Intelligence things that they talked
+about that aren't part of the new Siri.
+Like if you have a ton of Safari tabs
+open, it can automatically arrange them
+into groups for you based on topics and
+then automatically keep them sorted. And
+then you can also describe a Safari
+extension with natural language and
+it'll just build it, which is really
+cool for especially things like the most
+ultra niche thing that you want your web
+browser to do. Or even better, you can
+describe a series shortcut with natural
+language and it will build that series
+shortcut for you and let you edit it
+after the fact with the full-on editor.
+So, this is a great way to make that
+sort of stuff much more accessible.
+Exact same thing Google just did with
+their home automations. Just describe
+the automation, it'll build it, then you
+can edit it later. Speaking of home, the
+update where those like 15 notifications
+you might get in a row all get
+summarized and consolidated into one
+updating notification from Apple Home.
+Finally, that is long overdue and much
+welcome. Plus, you can search through
+your footage to find clips of anything
+like a package delivery. There's also
+the new photo editing tools, which will
+now not just do cleanups, but it will
+also now offer to extend the outer edges
+of your image by up to 25%. And the
+demos I've seen seem to work really
+well, extending in all directions. And
+it immediately makes me wonder if I can
+just take that finished image and then
+extend it again.
+and again and again. I don't know how
+far can it go. And then there's also
+spatial reframing, which is quite
+literally turning the image using what
+it can figure out with AI about depth to
+work out what should be in the new
+background with new perspective. This is
+really the closest they've ever gotten
+to bending the definition of what is a
+photo. Very technically impressive party
+trick, but I I think maybe still a party
+trick. It's it's it's weird. I don't see
+people doing this a lot, but it is crazy
+if it works. This is also one of the
+things that they had to mention uh will
+have limited daily use. If you want to
+update your total use, cuz this uses
+their more powerful cloud models. If you
+want more usage, then you have to update
+your iCloud subscription to get more.
+Oh, and then maybe the most Apple thing
+ever is the new passwords app will be
+able to identify first of all if you
+have a compromised password or a weak
+password. And then the feature is it
+will be able to agentically go to that
+website, log in with your weak password,
+go through the menus and change it to a
+more secure password for you and then
+save and remember that secure password.
+Super super clever. Very convenient. And
+that also basically means you're locking
+yourself a little bit more into that
+passwords app because that's now the one
+that knows your new passwords. In fact,
+that might have been the theme for this
+whole event. The irony is not lost on me
+that they named the newest version of
+Mac OS Golden Gate because when the
+walls of that walled garden are Golden
+Gates, it's like maybe it's not so bad
+in there anyway, right? Maybe if you use
+iMessage and Apple Calendar and Safari
+and all of their services,
+it's kind of nice. Unless unless you're
+a HomePod user, there there was no
+mention of the HomePod for the entire
+keynote, the entire event. You remember
+the HomePod? That little Siri box with
+nice speakers in it. Yeah, I don't know
+what's going on with that one. Oh, and
+then one more sneaky reference at the
+end. So, if you were still paying
+attention an hour in with like 10
+minutes left in the keynote, there was a
+slide. They showed some new developer
+tools that would help you build your app
+to resize dynamically to different
+aspect ratios, which is uh that's
+interesting. What kind of device would
+have multiple aspect ratios that you
+need your your app to
+ah right tell me you have a foldable
+coming without telling me you have a
+foldable coming. Anyway, get subscribed
+for those full reviews and make sure to
+leave a comment below if there's
+something specific that you want to see
+tested when I get my hands on all that
+beta software. And also make sure to get
+shopping for Father's Day with the
+sponsor of this video, Ridge. So, so
+reminder, Father's Day is coming up.
+It's June 21st and so Ridge is offering
+up to 40% off a whole bunch of the stuff
+on their site which makes really great
+gifts. So since there's so many good
+things, I'm just going to speedrun some
+of the very best ones. So for dads,
+first off, there's the Ridge power bank.
+5 in1 charging, Mag Safe, Apple Watch
+Pad, USB Type-C, and Lightning cables
+all in one device. 10,000 mAh capacity
+with a kickstand. That's enough to
+charge two iPhone 17 Pros. And it's the
+one charger that actually does it all.
+So then there's one of my new favorite
+items, the tracker card, which works
+with Apple's Find My Network. It's IP67
+rated and it has a battery that lasts up
+to five months and can be wirelessly
+charged. Also, it's plenty loud when you
+need to find it. And of course, wallets.
+So, the new heritage in oil waxed
+leather, giving it an old school look.
+Or if your dad loves the outdoors, these
+topographical wallets are inspired by
+real elevation maps of Yoseite and
+Yellowstone and the Great Smoky
+Mountains. Very clever. Use the link
+below, ridge.com/mkbd
+to get up to 40% off for your dad or for
+yourself. I'm not judging. And hey, if
+you get something and it's not the right
+fit, they have a 99day free return
+policy, no questions asked. So, that's
+been it. Thank you for watching. I'll
+look forward to your comments. Catch you
+guys in the next one. Peace.

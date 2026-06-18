@@ -1,0 +1,358 @@
+# M4 iPad Pro Impressions: Well This is Awkward
+# https://www.youtube.com/watch?v=-T0MGehwWvE
+
+[Music]
+okay so Apple had a nice short little 30
+minute event today announcing just a
+bunch of new iPad stuff now this was the
+longest they've ever gone without
+updating anything iPad related so they
+had some cooking to do but the thing is
+and I feel like we've been saying this
+for years it kind of doesn't matter how
+powerful they make the iPad it's still
+an iPad right it's still iPad OS and we
+we've seen gigantic improvements in the
+M series chips and these iPads are like
+the most powerful chips ever on paper
+but there's still iPads so the last
+thing we need after all this time is
+just another spec bumped iPad right well
+let me introduce you to the newest iPads
+so first up there's a new iPad Air which
+follows the script of bringing a few
+things down from the previous iPad pros
+and of course you know making it
+available for this lower price so it
+graduates from the M1 to the M2 Chip
+inside it starts up at1 28 gigs of
+storage now and it moves the webcam to
+the landscape bezel where it belongs it
+gets faster Wi-Fi and for the first time
+there is a larger one now so they're
+calling it The 11-in and the 13in iPad
+Air I had to clarify just because the
+last one was 10.9 in so are they just
+simplifying the name like is it actually
+bigger and turns out yeah there is just
+a little bit more screen here great but
+other than that it's pretty predictable
+it's a spec bump like this is sticking
+to the script here I think I think I
+could hand you the newest iPad right now
+and you couldn't really tell the new Air
+from the old Air just looking at it
+other than if you're holding the bigger
+one or if you recognized the super
+exciting new colors I mean hopefully you
+could hear my sarcasm through the screen
+but there's blue purple Starlight and
+space gray so it's $5.99 for the small
+one and $7.99 for the bigger one but
+then we also got a more significant
+update to the iPad pros this is where
+they push the limits of the iPad this is
+where they want to show their absolute
+best stuff the best possible tablets and
+man if we just ignore the software for a
+second these new iPads are ridiculous so
+first of all they start off by revealing
+that these new iPads the 11-in and the
+13in are the new thinnest Apple devices
+ever made ever that's that's including
+phones that's including like old iPods
+and everything the 11in is 5.3 mm thin
+and the
+13in is 5.1 mm thin so that's literally
+thinner than the iPod Nano ever was it's
+nuts it just it looks ridiculous it's
+crazy to hold it's also lighter as you
+might imagine it just kind of feels like
+this impossible sheet of metal in your
+hand I don't know if anyone ever looked
+at an iPad Pro and asked for it to be
+thinner but that's what they went and
+did what could uh what what could
+possibly go wrong fun fact this also now
+means that the iPad Air is heavier than
+the iPad Pro just to make sure we keep a
+mess of an iPad lineup going but the new
+Pro also gets a new chip and a new
+screen so Apple took this event to
+introduce us to the next generation of
+Apple silicon with the M4 chip and this
+iPad is the only thing that it's in
+right now it's just the iPad with M4 so
+that gives it stop me if it sounds
+familiar even more ridiculous amounts of
+power in such a tiny physical and
+thermal envelope especially since we
+came from M2 so it's a more power
+efficient 3 nmet chip the CPU core is
+net out to like 50% faster than M2 the
+GPU is up to four times faster and
+they're saying that they can do the same
+performance output as M2 with half the
+power so it's super efficient there's an
+improved neural engine there's better
+cooling now again I don't know who was
+asking for a thinner iPad but there's
+kind of no denying that it's at least
+just physically impressive to look at
+and this is the type of thing this is
+the form factor that is specifically
+enabled by the M4 chip apple is quoting
+basically the same battery life as the
+last iPad Pro and I kind of I have to
+assume that there's significantly less
+physical battery in the thing CU it's so
+much thinner so that just basically
+means Apple's going hey we think that
+that was enough battery life in the last
+gen so we're just going to match that
+and that means we can go way thinner
+with less battery because the new chip
+is more efficient so then the new
+display this is another thing that is
+actually kind of enabled also by the M4
+chip sometimes it seems like they're
+just saying that but this is also true
+so these are OLED iPads now both sizes
+it's the exact same set of features
+across both iPads which kind of makes
+the $300 price difference between them a
+little bit tougher but yeah oleds on
+both the new iPad pros and OLED is
+awesome right we already knew this it's
+we've had OLED phones forever the pitch
+black blacks the individually lit pixels
+the super awesome Vibrance like all of
+the OLED stuff is great and we were
+excited to finally see it in a
+relatively gigantic display that is an
+iPad but making a huge OLED that's also
+incredibly bright was a challenge that
+required just a little bit of extra
+engineering a little extra Ingenuity so
+they put together something that they're
+calling a tandem OLED display which
+honestly to me I think this is maybe the
+most interesting part of the whole
+tablet event today so you can basically
+think of it as two different OLED
+displays stacked on top of each other
+and then the new display driver on M4
+can address both layers simultaneously
+so that's what's allowing them to get
+really high local brightness and that's
+the spec now that's a th000 nits of peak
+full screen brightness and 1,600 nits of
+peak HDR brightness on an OLED on an
+iPad size screen and in person it it
+looks well it looks like a really bright
+OLED it looks super colorful really
+bright Inky blacks you know in this
+Hands-On area that I got to spend like
+30 minutes in it's not going to look its
+best and there's crazy lighting
+everywhere but I will be getting my
+hands on it to review and I I intend to
+dive in and find out if there are any
+downsides but it looks pretty great here
+and then also weirdly they announced a
+nanotexture m matte version of the iPad
+Pro so you know how there's a a matte
+Pro display xdr I would be I would be
+very careful about ordering this
+particular option based on what I've
+seen like I can see here that it is
+definitely better at dealing with
+Reflections than a normal display that's
+awesome but just like the desktop
+version that is at the expense of a
+little bit of sharpness and contrast you
+know the blacks don't look nearly as
+black to me even at 0° off axis and I
+also have to wonder about durability
+because the pro display xdr is very
+picky about which microfiber cloth you
+use and you can literally ruin it if you
+use the wrong one and with this iPad you
+know I can feel the difference between
+the soft touch texture of the Nano
+texture and the glossy bezels and I just
+have a feeling that you're only going to
+be able to use or rely on the microfiber
+that comes in the box with this thing
+and not only does it cost an extra $100
+to get the nanotexture it's also only
+available on the one terab and 2 terb
+highest end models so I think they know
+that like people shouldn't just walk in
+the store and just get it cuz it's on
+the base one so yeah just be careful
+with that one but you know what probably
+made the most headlines out of all the
+stuff announced today is the spec bumped
+apple pencil there's now a new Apple
+pencil Pro and it looks exactly the same
+as the previous apple pencil but with
+this new text on the back that says
+pencil Pro on it now unfortunately
+that's still not the Eraser uh but yeah
+this new apple pencil pro has a haptic
+motor inside so it supports find mine
+now there's also a new squeeze sensor in
+in the barrel for activating Tools in
+different apps that will support it and
+a new gyroscope actually makes it
+rotation sensitive and I was trying this
+it's surprisingly precise like really
+really good so if you're an artist not
+like me you maybe you're doing a barel
+roll with certain drawing apps or
+calligraphy applications for the $129
+that it costs to get one of these things
+but another incredibly inconvenient note
+this new Pro pencil is only compatible
+with the newest recently announced iPad
+Pro or iPad Air because when they moved
+that webcam to the long side that's also
+where a lot of the magnets for lining up
+and charging the pencil were so they had
+to redesign the magnets up there and
+that's now a different array so it's
+only compatible with the newest
+iPads why didn't they just move it to
+the other side for charging I don't know
+maybe that makes too much sense now
+there's also a new magic keyboard as
+well still ungodly expensive but if you
+get the new one it's also it's lighter
+than the previous gen the trackpad is
+bigger and there's a whole function row
+at the top now which actually that's
+that is super useful and the pass
+through charging is even faster
+apparently it's 60 watts through the
+pins in the back but all that being said
+at the end of the day guess what we just
+got another set of spec bumped iPads
+they are metal rectangles with
+incredible power and efficiency in our
+hands that are just still iPads and I
+don't know how many more times I can say
+this but like taking advantage of all
+this power is nearly impossible there
+are a tiny sliver of apps that actually
+make it feel like worth upgrading
+there's almost nothing these iPads can
+do that my M1 iPad Pro can't do and this
+isn't even to downplay the hardware cuz
+the hardware is actually amazing that's
+that's where the difference comes from
+like it's got this super bright high
+resolution OLED displays with pitch
+black blacks this M4 chip with
+ridiculous power and efficiency new CPU
+new GPU better neural engine like I've
+never wanted an iPad to be thinner but
+that line about them wanting the iPad to
+feel like a magic sheet of glass really
+resonated with this model in particular
+even if you do feel like you could snap
+it in half the whole time it's just the
+awkwardness of this one mainly comes
+from timing because I think we all know
+well it's already been announced WWDC
+their worldwide developer conference is
+right around the corner and we all know
+and expect them to update all the
+software across all their stuff a new
+iOS and new iPad OS so I guess iPad OS
+18
+and whatever Apple's going to decide to
+do with that is around the corner so
+we've got these new iPads shipping next
+week but all the new software that could
+be awesome well that's this summer and
+this feels like it could be one of the
+biggest updates yet to these iPads you
+know it's Apple showing their hand at
+how many more AI features they want to
+build in and how many more features
+people want to add that lets this be
+their primary computer maybe more Siri
+improvements all of this stuff so in
+this awkward meantime here we have these
+really really impressive spec bumped
+iPad Pros the most powerful iPads of all
+time the thinnest Apple devices
+literally ever made but the list of
+things it can do is the same as my
+3-year-old M1 just saying what a time to
+be alive speaking of announcements
+though Ridge and I have finally launched
+our first product together so it starts
+with the ridge wallet you know the
+minimal highquality industrial wallet
+the more modern way to carry cash and
+cards well you might know I joined Ridge
+as the chief creative partner earlier
+this year and we're finally releasing
+our first MKBHD gear together so one of
+the first things we wanted to do is just
+make MKBHD versions of some of the
+existing Stuff felt too obvious so
+that's exactly what we're doing so I
+love carbon fiber and matte black I
+don't know if you knew that about me
+already but those were my base
+Inspirations for these two wallets so
+the MKBHD carbon fiber 3K this is just a
+bunch of lightweight Ultra durable
+carbon fiber with the logo and then the
+map black everything wallet this is just
+aluminum but it's got this black oil
+filled engravement print which is so
+sick and then these wallets also come
+with a debossed MKBHD money clip or uh
+you can do cash strap you can also
+attach these or detach them you could
+also do an attachment for an air tag so
+just to make sure you don't lose it or
+you can do a like a find my card which
+I've done as well but yeah I just I
+carry this in my wallet all the time and
+I definitely won't lose it and then of
+course if you don't like my designs
+that's fine Ridge has like 50 plus other
+designs in their catalog they've got NFL
+licensed team stuff if you want to rock
+your team the store is endless and if
+you even think it could be time to
+upgrade it's a great time to just try
+because if you don't love it after 99
+days you can literally send it right
+back no questions asked pretty sick and
+I'll let you in on a little secret it's
+30% off the new gear right now but also
+any style if you order a wallet and a
+keyh holder at the same time so just the
+two together boom 30% off and also 10%
+off whatever you want at ridge.com
+MKBHD you're welcome uh yeah I'm excited
+to be launching this stuff and also a
+bunch more coming up later this year I
+won't say too much about it but you can
+sign up at the same link if you want to
+get product updates I've told them just
+to only email you about that if you sign
+up but yeah let me know what you think
+of these new iPads in general I mean
+it's kind of an awkward waiting period
+until we get all the new iOS 18 stuff
+but let me know what you think new thin
+thinner than ever iPads thanks for
+watching catch you guys in the next one
+peace

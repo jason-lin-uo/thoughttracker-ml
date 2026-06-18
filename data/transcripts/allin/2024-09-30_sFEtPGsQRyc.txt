@@ -1,0 +1,863 @@
+# Jake Loosararian, Gecko Robotics | All-In Summit 2024
+# https://www.youtube.com/watch?v=sFEtPGsQRyc
+
+gecko robotics builds wall climbing
+robots and enterprise software to
+maintain and protect essential
+infrastructure he is the CEO and
+co-founder at Gecko robotics Jake thanks
+for joining me today every hour you save
+you're saving potentially millions of
+dollars Hardware is hard be very careful
+there's a lot of really important
+problem to solve there's so much sex
+appeal to building new things you got to
+get the business model right and the
+business model has to make a CEO or CFO
+give a
+there is a huge fire going on right now
+at Philadelphia Energy Solutions oh my
+gosh again look at this guys look at
+this video right now today the Navy
+remains a formidable fighting force but
+even officers within the service have
+questioned its Readiness at a missile
+silo we visited time and frigid weather
+had clearly taken their toll developing
+right now gushing for hours with no end
+in sight thousands of barrels of crude
+oil spilling from a
+uh the report does an estimate of what
+the need is to bring the overall grade
+up to a b which is what the society sort
+of determines to be adequate and it's
+like
+$4.59 trillion
+[Music]
+yeah all
+right hi I'm Jake the founder and CEO of
+gecko robotics a company that makes
+robots and software to help diagnose the
+health of the built world now it started
+in a college dorm my college dorm is now
+a company that manages over 500,000 of
+the world's most important and critical
+pieces of
+infrastructure now the structures that
+we use to power
+civilization have reached their useful
+life it's a huge problem and it's
+getting way worse but it's a problem
+that you probably don't think about very
+much but you should in New York for
+example there are over 177,000 Bridges
+most of which are in New York City and
+guess how many of those bridges are not
+in need of immediate repairs only
+six see maintaining things has always
+been an afterthought but that
+afterthought is now a 4.59 trillion
+domestic
+problem and by the way it's getting
+worse it's holding us back for example
+the military spends 40% of their budget
+over $400 billion on
+maintenance not on building new things
+just keeping old things working and
+Fortune 500 companies will lose $1 1.5
+trillion every single year because of
+catastrophic failures that were
+unpredictable
+and our best defense to stop that from
+happening hasn't changed in over 60
+years it's this this is Joe and Joe's on
+a rope now Joe's armed with a handheld
+sensor and what looks like an
+excruciating
+wedgie now Joe is our best chance to
+ensure that pipelines don't explode that
+Bridges don't collapse that dams don't
+fail and that airplanes don't
+disassemble mid-flight
+it's an impossible job unfortunately for
+Joe you see we obsess about how software
+has changed everything for everyone it's
+eating the world right it's important to
+remember that for the guys behind me
+it's actually never help them you see
+the data that we need to prevent
+catastrophes from happening in the built
+World simply doesn't
+exist and without data what can software
+do now I became obsessed with this
+problem in college I was studying
+electrical engineering and my obsession
+for energy took me to a local power
+plant in Pennsylvania I wanted to se
+power was made and so I decided to dive
+in head first now I I actually dove in
+head first straight to this hole and
+when you got through this hole you got
+into a 200 foot tall steel tubed box the
+length and the width of a football field
+this is a power plant boiler and the
+boiler's job was to turn water into
+steam by getting really hot see the
+problem is as the plant manager Jeff
+told me that 40% of the time this boiler
+would be shut down because of pressure
+tube
+explosions it would cost them $2 million
+every single day they were down this is
+a small little power plant and so I
+asked Jeff how do you stop this from
+happening and he says well we send up
+humans on ropes looking for invisible
+defects then he began to tear up and he
+told me a story about how his best
+friend fell and died the year before
+doing one of these inspections and he
+fell and died in the exact spot I was
+standing so I was floored by the
+story and so I had to do something about
+it so I went back to my college storm
+and started building the First wall
+cling robot now I armed this robot with
+ultrasonic sensors just like doctors use
+for sonograms and I deployed that robot
+into the boiler saving the plant manager
+Jeff $30 million just that year and I
+became absolutely obsessed
+with how we understand the health of the
+built structures that we use every
+single day and so I started a
+company and I boot shaed that company
+for three years pouring my life savings
+into it I slept on my best friend's
+apartment floor and I was down to the
+last
+$100 two things happened within two
+weeks first I got an offer to buy the
+company from a company that makes power
+plants and then second two partners from
+a group called y combinator said that if
+I stay poor and kept on building the
+vision that one day gecko would change
+everything that we knew about built
+structures so I decided to stay poor and
+keep building the vision so we launched
+the company in
+2016 and we began to deploy the
+technology into the oil and gas
+manufacturing public infrastructure and
+even defense sectors we had to build
+robots that could climb and Traverse and
+get sensors into all different kinds of
+surfaces geometries conditions and once
+you have 500,000 assets you have to
+climb around you begin to iterate your
+robots really really well to be able to
+handle these kinds of environments and
+it became clear that contrary to popular
+belief from the VCS at the time the
+robots were the mo because they could
+get sensors to places that could never
+be gotten to before we can convert atoms
+into bits and so I wanted to double down
+on that moat and so we started building
+robots that could fly swim crawl and
+walk up any surface we begin to build
+autonomous platform
+to arm those robots to be a to go to
+places so that humans didn't have to be
+in dangerous environments we built and
+became the best in the world of building
+ultrasonic sensors electromagnetic
+sensors as well as lasers to be able to
+see and understand what was going on
+inside of Steels composits and concrete
+we built fixed sensors that could stream
+live information and data sets to us
+both the health but also the operational
+conditions of those assets itself and we
+built an API platform for robots called
+so that other robotic companies could
+actually be used on our platform and
+streaming data and information live to
+our customers and after 10 years of
+collecting data on almost every
+structure imaginable we launched
+Canal our Ai and Robotics powered
+operating platform to put those data
+layers to use for our customers you see
+when you start building software by
+first starting out with the data layers
+and then building up you're severely
+advantaged because you can build
+software from principles and our
+ontology now was able to affect folks
+from the ground level the guys on the
+ropes all the way through to the
+Executive Suite it was extremely
+powerful but post is talking about it
+let's actually dive into an example so
+to do that I'm going to take you to
+Georgia to a manufacturing facility that
+me and you me and you use in the
+bathroom every single
+day now this facility has thousands of
+assets and billions of dollars worth of
+infrastructure and so they wanted us to
+prove out over 50 assets what we could
+actually do so I'm going to take you
+through one of those assets today a
+sulfuric acid
+tank so first what we do is we gather
+information about the asset by customers
+sending us their metadata and we build
+out a digital
+representation of that asset inside of
+Canever and then we send in our robots
+first we use a drone you can see over
+here now the Drone is armed with with
+cameras that are doing a photog gometric
+scan of the asset it enriches the asset
+model itself being able to identify
+different kinds of defects using Point
+clouds so corrosion areas like over here
+we're able to categorize and locate and
+then dents and cracks as well enriching
+the data asset model we want to go
+further than that we incorporate other
+sorts of components like piping and
+pumps that you see here both in the
+inlet and Outlet this is extremely
+important and valuable because we keep
+on adding data layers and the next one
+is a
+dog come here boy
+good
+dog
+hey everyone say hi please yeah there we
+go nice so let me let me pet him real
+quick he likes to be pet yeah good
+boy so this dog will walk around to
+dangerous environments gathering
+information about what's going on on the
+infrastructure now what's important also
+to understand is that because of an API
+platform for robots we've built an
+extensible way for a company like
+anybotics one of our partners to be able
+to gather information in data sets and
+this robot is extremely exciting because
+it's built to be explosion proof meaning
+it can go inside of oil and gas
+facilities nuclear facilities and Beyond
+it's gathering information like you see
+above thermal imaging to understand
+what's going on with the asset all this
+data is really important when we do
+optimizations later now we want to begin
+to continue to gather more information
+about the asset so we send in
+submersible robots these submersible
+robots are looking at the deformation
+because of the weight the liquid as well
+as the health of the assets floor to
+prevent things like that um oil tanker
+leaking into rivers and once we've
+gotten this and the customer is really
+excited because we can do this W they're
+online we then send in our robots and we
+rise collecting information and data
+while the C while the customer's tanks
+are still in operation now these robots
+that you see right here are armed with
+ultrasonic sensors cameras and the IMU
+on board to ensure that we can do this
+autonomously Gathering terabytes of data
+in 12 hours for this tank a process that
+used to take about a month to do while
+the asset was shut down costing millions
+of dollars and we can do this in a way
+as well that ensures we can localize
+data points to begin to run
+optimizations and in this case because
+these assets are supposed to be reaching
+their useful life or reached it we can
+extend the useful life of the
+infrastructure and so for this example
+we can tell them what to fix in five and
+10 years to extend the useful life so
+that this asset continues to be able to
+uh do its function opposed to having to
+replace it for $8 million which was what
+the plant thought they would have to do
+so once we do that predictive model we
+work with maintenance companies to
+ensure that they actually take action on
+that and we update the model to ensure
+that a source of Truth
+remains next we actually the customer
+actually wants us to begin to do other
+optimization so we use fix sensors like
+this that'll stream information about
+not just the
+health but also the operating condition
+of the facility you see when you're
+running a let's say a big manufacturing
+facility your goal is to figure out how
+to make more product without having
+stuff blow up U because of a new
+operating condition now that's never
+before been possible because the data
+you've been able to work with has been
+from Joe on a rope and so you don't know
+if you change your throughput or make
+more product if that'll destroy the
+assets we're able to run
+optimizations now I'm going to show you
+that here so this customer was able to
+because we're streaming information and
+data from the pumps and from the asset
+itself we were able to figure out how to
+increase the throughput or make more
+product by about 5% more while only
+having to incur over 90 days an
+accelerated um an accelerated damage of
+the asset of about two months equivalent
+to two months and so we proved that we
+could do that by actually lowering the
+fill Heights in the tank and increasing
+the acid concentration level you can see
+the optimization being run right behind
+me now this was significant
+because of the ability to not just
+extend the useful life but actually
+produce more while not having the
+potential risk of a catastrophic failure
+something never before possible for
+these
+companies now let's talk about the
+outcomes for the customer on average
+over the 50 assets we extended the
+useful Life by 10 years this affects
+their p&amp;l and their margin right away
+because of ability to extend your
+depreciation models and then we created
+$15 million um of value by being able to
+reduce safety risks as well as
+Environmental as well as being able to
+reduce the amount of CBS that customers
+needed to spend and the estimated from
+the customer was a 4% impact to their
+margin now all of this optimization and
+information coming in doesn't just help
+the customer it also helps can lever be
+exceptional in a compounding way at
+running facilities more efficiently and
+so now you have an ability to have an
+unfair Advantage from from companies
+that are not utilizing technology like
+this so not just are robots cool but
+they're actually solving a business
+problem
+so this has been flying off the shelf as
+you can imagine since we launched
+Canever this year the 12th largest oil
+and gas company in the world for example
+determined that they have 100,000 tanks
+and that we could provide $122,000 of
+Roi per tank now initially we signed a
+$30 million contract it's exciting it's
+going to extend to 100 million but it
+shows how if you adopt technology in a
+way like this it's
+unfair now on the defense side we're
+working with the uh Air Force on $130
+billion modernization program now they
+have to modernize over 400 nuclear
+missile silos and the best way to
+determine how to modernize or what the
+scope was to improve the missile silos
+was I kid you not Joe on a rope with a
+hammer who was listening to the sound
+that the silos made when he hit
+it so now gecko is helping to improve
+what the modernization scope actually
+should be and it points out something
+interesting those that are determining
+the scope and size of these
+modernization Pro projects are the same
+ones incentivized for that amount of
+dollars to be as high as it can
+be now on the Navy side one of the
+biggest problems is only a third of our
+ships are available to patrol and deter
+conflict around the world and the reason
+why is because of Maintenance
+Cycles so we worked with uh the Navy to
+improve in this case it was Joe on a
+skateboard on his belly over a flight
+deck looking at different different
+areas trying to gather information and
+data set
+we improve that to be able to reduce
+labor by 85% and improve the turnaround
+times for Flight deex Alone by about a
+month so now we're doing tens of
+Millions with a navy on flight decks and
+we're extending that to ballast tanks
+hulls as well as commercial Maritime
+it's really exciting and then on the
+energy manufacturing sector that's where
+most of our 78 Fe accounts lie with big
+contracts like xon BP and
+Beyond now one thing that's extremely
+exciting is that it turns out if
+pipelines explode or when oil leaks into
+rivers it's pretty bad for the
+environment so the studies show that by
+2030 in the US you can reduce emissions
+by about 18% if you can stop those kind
+of things from happening so technology
+is available today to make a drastic
+impact on Net
+Zero and then it turns out as well if
+you're the best in the world of
+understanding the health of built
+structures you're actually very
+advantaged in building new things and so
+that's what the Admiral in charge of
+$132 billion nuclear um submarine
+project called the Columbia class
+determined so now we're helping to
+create the most advanced submarine in
+the world from the beginning to the
+production end and it gives you a peak
+into what's
+coming now this is why it
+matters you see I'm not crazy building
+robotics Material Science AI software
+sensor company it's really freaking hard
+um but I had no choice you see the
+promise of AI from AI compan
+to make impacts in these industries have
+gone empty for years and years and years
+and it's no wonder why they're building
+their foundational models off of Joe's
+data data that looks like
+this this is a real report from one of
+our customers before they used gecko
+it's no wonder that AI hasn't made the
+impact in of the promise that it was
+supposed
+to so this is why we built geeko and why
+I believe because of software being
+commoditized that first order data
+companies will dominate the next 10 and
+20 years in
+software and my journey through the rust
+has given me both a pragmatism and
+optimism about the future a future where
+understanding how things work helps you
+build new things understanding how to
+use Ai and Robotics in these real
+practical
+ways a reality where we can understand
+the health of the built structures all
+around us just as as well as we
+understand our own
+health and you begin to see robots of
+course in normal society but these
+robots won't be built for doing back
+flips or folding laundry they're going
+to be built to help realize the impact
+of AI for the built world with systems
+like Canever thank
+you thank you that was awesome
+yeah come here puppy oh David Zach
+showed up
+everybody doggy hey Z that's a robotic
+dog it's kind you're kind of dog
+oh go to sax go to sax go give him a
+kiss oh there we go SX is very
+affectionate so you can pet him if you
+want David you can pet him s here where
+where do you pet him exactly there you
+go that was a lot of love yeah I am
+experiencing oh
+companionship from this
+excited yeah it's definitely it's
+definitely a nice dog yeah nice
+dog doesn't
+bitey I think one thing that would be
+great based on the kinds of customers
+you have can you tell us a little bit
+about the sales life cycle and the type
+of deals you do I mean it's so
+interesting to is it like an Enterprise
+software type sale and you know when
+you're going in and doing
+physical work I mean I didn't know where
+to sit were you worried about the dog no
+this was it's a very poorly organized
+conference yeah let's talk about that
+yeah we we only told you where to sit
+five times in the last four minutes but
+I don't understand these images I have
+you know literally we go in there after
+and like Sergey comes he does his first
+thing and I'm like Ser oh yeah do you
+have any food I go out to the food and
+it's just like rubber conference
+chicking in the VIP speaker area and I'm
+like free birg can we just get some
+sushi from noou we should go through all
+the details yeah no tell us about the
+sales life cycle so what are the kinds
+of deals you not talking about rubber
+chicken right now we've got a panel uh
+but yeah tell us about the sales life
+cycle the juice has been really good by
+the way I like thank you um yeah so so
+the life cycle it's been it's been it's
+been wild so you know gecko actually
+became profitable in 2017 right after
+YC's launch in 2016 and so you were a YC
+company yes
+2016 and um what was interesting about
+that was you know we decided to build a
+company very for deployed so instead of
+building robots and Labs actually funny
+story one of the VCS you had here last
+year offered a bunch of money at YC um
+for us not to leave and go back to
+Pittsburgh and do this forward deployed
+motion of building robots but instead
+build it in a lab and I turned that down
+because I just fundamentally didn't
+believe in that way of
+building and so um but so we decided to
+launch into the um and build robots like
+I've literally soldered in these
+environments um before and and just
+figure out how to make the robots work
+in reality in the real world and so the
+sales motion was basically we would go
+to the plant managers sometimes I'd call
+and be like hey my pizza guy like you
+know where's the where's the plan
+manager can I talk to him and I'd get
+figure out how to get to the plan
+managers and then I'd uh convince them
+to let us work with them in their
+facilities and so started out that way
+by selling to the folks who need this
+the most yeah and so but now I'm talking
+to um obviously CTO and and CFOs because
+our products are actually very Financial
+um it helps with depreciation models it
+helps with optimizations but we started
+by just selling to the folks in the
+ground and building the robot um by
+failing a bunch of times there and
+fixing it live but now we have uh a
+great platform and so now when customers
+buy gecko the only way they can buy it
+is through software so they buy a can
+lever and they bought they buy an
+implementation of the software which is
+the robots getting the data and then
+they pay for a license um for the
+software and we try to make data
+refreshes which is basically robots
+going out and collecting more
+information free is there a custom is
+there a custom deployment in every one
+of these because they've all got to have
+different facilities and how hard is it
+to kind of customize or do you have
+standard standardization now in each
+deployment they kind of do a Chinese
+menu type selection we try so so it's a
+great question we we started in the
+beginning by letting the customers pick
+what kinds of data layers they want they
+want so data layers basically mean what
+kind of robots now we actually don't
+allow them to do that we follow all the
+standards whatever like API which is
+like these governing bodies about how to
+take care of your infrastructure um but
+then we go way beyond that because I
+want to create an incredible user
+experience that they cannot revert back
+from Jak there's um there's all kinds of
+crippling infrastructure problems around
+the world that are not necessarily tied
+to some of the obvious Industries like
+oil and gas so I'll give you two
+examples one was what happened in
+Baltimore where you know this who knows
+how it happened but basically the bridge
+just collapsed in a situation that and
+maybe it was supposed to be and and it
+did another example was a few years ago
+in genua in Italy an entire slab of a
+bridge just collapsed and it fell on top
+of uh um an environment and killed a
+bunch of innocent civilians
+so there's I think a public safety
+requirement here which is like some of
+this stuff was either designed poorly or
+designed very quickly how much of that
+is observable by these kinds of robots
+and how do you convince folks that
+Beyond depreciation and Financial
+motivations there's a you know a real
+need to make sure that this public
+infrastructure is safe and you guys can
+secure it um great question so the
+answer to of how can we actually get
+information on those types of incidents
+is yes um we we like you can look at a
+concrete bridge and say hey there's some
+Decay here or there's something that's
+happening in the giring here and you can
+recognize that and learn and be able to
+say wait a minute you need to send
+inspectors or shut the bridge down or
+stop and figure this out you first want
+to do so what the robots are really good
+at is getting a crap ton of data about
+the assets and then you can pinpoint
+exactly where to put fixed sensors in
+specific locations that would be
+indicative but then also because of our
+of of our you know we have this like
+really interesting data set that tells
+us because of so many different types of
+U situations um what kinds of potential
+issues are occurring that we can
+extrapolate out to these types of
+situations that we might be not as
+familiar with so we'll put fixed sensors
+on to give us indication
+and give us an ability to help
+prioritize spending and so um you know
+we just actually signed a a contract
+with Governor Shiro to do this for
+bridges in elany county in Pennsylvania
+where Pittsburgh is and um we're helping
+to modernize um Bridge maintenance and
+prioritization of budget because what
+you can see here is you don't
+necessarily need to rebuild stuff and in
+some ways that's not even practical but
+you can figure out where to deploy
+Capital um and then by way did you see
+this video on X where somebody was going
+through the Lincoln Tunnel and it looked
+like it was about to burst there was
+like water creaking in it was really
+disconcerting yeah but I think it was
+more of a design feature to actually
+like alleviate when times when the water
+levels were super high but my point is
+there's all of the stuff that we
+interact with that it would be good to
+know that there's a you know a service
+out there looking for it and is is there
+a world where you could also then
+theoretically ingest like the actual
+architectural orad of these things and
+then also be able to do diffs and VAR
+and be able to tell people hey hold on a
+second this is not conforming to how we
+thought it should be behaving yes we do
+we do pull those in as much as we can
+but it's important to remember that most
+of the infrastructure that I'm talking
+about is like 60 years old um now on the
+new build side like for the new Columbia
+class submarines for example um there's
+an issue where like there's not a
+digital thread you have like 5,000
+different contractors that are trying to
+make us most powerful sub in the world
+and they're handing paper to each other
+um as they build the submarine and so
+causes one a big a bunch of delays and
+issues which we're seeing with a lot of
+our ability like China for example can
+outbuild Us by 232 times uh submarines
+that is or or new chips and it's a a big
+part of like our our like we have to be
+able to figure out how to be smarter
+when we manufacture and so one of the
+ways you can do that is digital threads
+all the way through the manufacturing
+process so that we're not like delayed
+by handing paper to each other that may
+or may not be incorrect and for the
+customers that we work with you know
+most of them you know you're looking at
+drawing that are 60 years old they have
+never been converted um I we even try to
+get asset lists from customers and they
+like we don't have it so we have to go
+out and actually build that for them how
+should we build a submarine just off
+topic how should we build it yeah so we
+don't have 5,000 contractors at well 1%
+or 2% the speed of China it's a good
+it's a good question I think we should
+Orient our most efficient um way of
+building as many components in one place
+as we can but you have to remember as
+well you know Congressional members have
+their own constituents to advocate for
+and so they want to bring jobs to their
+to the local communities and so in a in
+a democracy it's really tough actually
+MH Jake how do you see
+um where your Bots your robots and let's
+say the more traditional generalized
+humanoid robots intersect when when they
+meet how do you think about that problem
+oh it's a great question um I am so
+excited to buy as many Optimus robots as
+possible yeah you're a customer you'll
+be a customer 100% you're not going to
+be a competitor no no no I mean um look
+at anybotics right here so this is a
+this is a swed it's a company based in
+Switzerland that have an incredible
+robot and their data doesn't know where
+to go and so the idea of robots this is
+what I firmly believe is that taking
+them home today is that um you know they
+get sensors to places that are really
+hard to get sensors to and so that
+information has to be funneled um
+somewhere to drive some large business
+outcome so I really don't think like you
+know I I'm not of the belief I guess
+that when Elon talks about you know two
+times the amount of um robots as humans
+that you'll see them in society actually
+as much as you maybe you'd think I think
+they're actually going to be found
+mostly in these like really dangerous
+behind the scenes industrial settings
+which I in my opinion that's like where
+they should start for sure because
+you'll have to you one you have to those
+are really complex tasks but two they're
+like very beneficial for Humanity um so
+like is there is there a generalized
+platform that you've built that allows
+you to solve for these different use
+cases or do you find that there's a lot
+of application specific engineering
+that's required good question so we we
+we built an API platform for robots
+where um companies can try their systems
+out and we can because we have a go a
+market we can now test if that robot is
+producing something valuable from a data
+side right and I'm am not actually as
+interested in robots I can weld or
+robots I can clean right now mostly I'm
+just interested in just like what kind
+of information and data can we build
+better operating platforms and systems
+on and um so that's that's where I'm
+starting and we'll begin to add more
+robots that can do different kinds of
+jobs but um you know I think it's you
+have I think this is where first ordered
+data sets and and and software companies
+are become more and more you know
+powerful this is why maybe you know um
+my opinion on on like the the Standalone
+SAS model is like I think it's going
+away um because the companies that are
+so advantaged with first order data you
+can you know just build your own
+software have a capital markets last
+question have Capital markets kind of
+embraced the story or things
+you can invest okay yeah um yeah they
+they really are I think um because
+there's a lot of this like hesitation
+around deep Tech and Hardware
+historically but you've obviously got an
+incredible software layer and great
+recurring business so you seem to be
+pretty differentiated in terms of a lot
+of the Long Haul build cycles that I
+think we see out there and it's yeah in
+Hardware in our case it's very sticky
+yeah because you know once you convert
+from you know paper and you're now not
+using binders you're using can
+yeah um it's it's really hard to go back
+yeah I just yeah I think it's we've
+talked before and I think what you're
+doing is so inspiring because it feels
+to me like this technology you know that
+we've seen over the last 20 years in
+iPhones in EVS in sensors um is now
+allowing us to move from being reactive
+and trying to figure out what happened
+to then saying hey let's be proactive
+what are the opportunities here to
+extend life to say you know extend the
+life of these assets um and avoid
+tragedies and I just you know I think
+the work you're doing is a real
+Grinder's work but it's going to save
+lives and it's going to really save
+taxpayers money that could be deployed
+in other places for beautiful things and
+so I just want to commend you on doing
+something that is so essential um in
+many times I meet a founder and they are
+doing something and I just think God I I
+don't know if this is going to work or
+not but I know that this founder is
+going to figure out a way to make it
+work and I I think it's just really rare
+that somebody cares so much about
+something and then executes as hard as
+you have um and I just want to tell you
+I personally very much appreciated it
+because you know when a bridge collapses
+I know the one in Italy it's it was a
+very big tragedy I think it killed 50
+odd people and it was privately owned
+yeah and there's a you know very very
+wealthy family that owned it and
+ultimately sadly no repercussions yeah
+same with dams in Brazil same with dams
+in Brazil right so you know as public
+infrastructure becomes private
+infrastructure then the profit motive
+supersedes a safety motive you're going
+to get all these things unless there's
+um um some sort of check and balance so
+long way of saying we very much
+appreciate this hard work that you've
+dedicated last question yeah you're
+you're you know you you've been in the
+YC Community for a long time just really
+you don't have to say yes or no but have
+you ever been forced to do any founder
+mode did you feel pressure have you just
+just blink twice Jake just tell us the
+truth Jake thank you for joining us Jake
+that's awesome that was awesome that was
+excellent

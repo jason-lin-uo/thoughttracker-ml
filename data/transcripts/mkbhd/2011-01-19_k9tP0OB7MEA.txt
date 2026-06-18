@@ -1,0 +1,213 @@
+# How to make a YouTube Mobile Banner [2011]
+# https://www.youtube.com/watch?v=k9tP0OB7MEA
+
+[Music]
+hey guys welcome back to another MKBHD
+video as you might have noticed on the
+top of my channel here there is a new
+section besides all these called the
+mobile options section and if I expand
+it you're going to notice this is a
+brand new section that YouTube partners
+have that includes a mobile Channel
+Banner so you can now have graphics on
+your m. youtube.com version of your site
+so if you have a channel that has a
+banner on your desktop version why not
+have on the mobile version so today I'm
+going to be showing you guys how to make
+a banner for the mobile version of your
+YouTube channel now there really aren't
+too many restrictions with this mobile
+Channel Banner all you need to know is
+that there are two of them there is a
+portrait version for when their devic is
+in portrait mode and that has its own
+resolution and a landscape version for
+when they rotate their device there's a
+little more room so there's a slightly
+bigger landscape Channel Banner I'm
+going to go ahead and make the portrait
+version of the banner in this tutorial
+and you can go ahead and do whatever you
+want for the landscape version but it
+can be pretty simp where if you'd like
+for this project for the portrait
+Channel Banner I'm using which is
+the gnu image manipulation program it's
+free and multiplatform but if you have
+Photoshop that will do as well now
+taking a look at what the YouTube site
+says the portrait version is 320 by 50
+pixels so what we're going to do is make
+a new document here and this is just
+going to be free form uh 320x 50 pixels
+not a whole lot of editing going on here
+uh in terms of video editing but I'm
+going to be showing you a making of a
+very simple Banner now as you can tell
+when this is on the mobile site it's
+going to be really really small so
+there's not a whole lot of uh things you
+can do with this small amount of space
+so one of the things I suggest is just
+having a simple gradient and a text box
+and an image of some sort so when I say
+simple gradient I mean like a background
+of two different colors maybe your
+channel has a sort of a red and black
+theme so you can choose a red to Black
+gradient or a red to a darker red
+gradient something like that and you can
+make a gradient just like that um and
+ingredient really is something that can
+make it just a little bit more visually
+appealing in terms of where it shows up
+on the mobile site really catches the
+eye so now that you have a bright red
+background on the White YouTube mobile
+site you can really add uh some contrast
+by putting some text in there so I'm
+going to add text on the left hand side
+and go ahead and line it up with all the
+rest and put it on the left hand side
+I'm going to say uh for example MKBHD
+now you could put subscribe in that box
+you could put put uh you know click here
+to view more videos in that box you can
+put whatever you want there but make
+sure it has some sort of contrast with
+the rest of your image so I have this
+black and I'm going to change use the
+font that I've used in a lot of my
+videos a lot of you guys were asking
+what font that was and that is babass
+new and it's available at def font.com
+uh so if you guys are familiar with
+installing free fonts on your computer
+you can definitely do that so that'll be
+centered on that side of the banner see
+it's a ni nice simple text box you know
+has quite a bit of contrast uh with the
+red background now that alone on the
+YouTube site still will be pretty
+readable see as small as I make it it's
+still pretty visible and one more thing
+that I'm going to add is another image
+that I have my Watermark is a PNG image
+and it is just the bottom right hand
+corner and I can go ahead and I open
+that up in and I'll put it on the
+right hand side corner here so I'll go
+ahead and open that in a new window
+sorry about the graphics so this is the
+image that I want to take I can go ahead
+and edit copy and paste this image to be
+on the right hand side and here you can
+see it's a little too big for the banner
+I currently have going on so what I will
+do is scale it down now remember we said
+this whole thing this Banner right here
+was 50 pixels tall so we're going to go
+ahead and make this a 50x50 image scale
+it down and bring this back into view so
+now on this top of this background we
+have a a floating image that we can put
+wherever we want uh and hopefully it
+will be you know wherever we want it to
+be and still when you zoom out on the
+YouTube mobile site wherever you put
+this it's going to be pretty visible uh
+you can decide you know what image you
+want to put there things like that uh
+I'm not actually going to add this I'll
+delete this now but you get the point
+you can add whatever you want to this
+small little strip Banner here now when
+you're done you need to make sure you
+save it to the appropriate file type so
+you can go to file and save as and make
+sure you save this as a PNG or jpg image
+so I'll save this as mobile banner.png
+and put this on my desktop for good luck
+and hit save and or photoshop
+whatever you're using we'll ask you to
+export it and we'll go ahead and save
+everything there now we can close
+here is the mobile Banner on our desktop
+so now what we want to do is go ahead
+and implement this on our YouTube
+channel so we're going to go back back
+to youtube.com and go ahead and upload
+this Banner I'm not going to upload this
+particular Banner because I have a
+different one that I've uploaded but
+I'll show you what you need to do to
+upload it it's really quite simple
+you'll go back to your channel of course
+and you'll go back to that mobile
+options button click it and go down here
+to the portrait Channel Banner which is
+what we just designed up here in the
+corner we can delete this one and there
+will be a select file button and you can
+go ahead and upload that selected file
+also make sure you have the banner
+button over here checked to the left and
+you can add any URL you want say you
+want to add your website once someone
+Taps on your banner on their iPad or
+iPhone or Android device or something
+like that you can go ahead and add your
+website or an external link or whatever
+you want to be there once you're done
+with all this customization you can
+select your colors which are probably
+going to be the same as what you leave
+on your typical channel on the desktop
+version and hit save changes and just
+like that you will have a banner on the
+mobile version of your site so now let's
+go aad ahead and check out see what it
+looks like all right guys so on my Droid
+we're going to take a look at the final
+versions of the banners that I made for
+the MKBHD YouTube channel I made a
+little bit of changes I actually used a
+white to gray gradient and used my logo
+in the right hand corner and some
+different text but overall if you guys
+want to check it out on your own mobile
+device you can follow these steps to
+find it and view the final versions of
+these banners yourself right now I'm
+searching for Marquez brownley in mobile
+YouTube and I can just click on the
+first video and underneath the link on
+that first video is a link to my channel
+so we'll click my name and take a look
+at those banners this portrait version
+of the banner just has my logo in the
+bottom right hand corner and says one
+word subscribe it's very big text so
+it's very visible even on smaller
+screens rotating it to landscape changes
+the one word subscribe into two words
+subscribe today so as you can see I took
+pretty good advantage of the increased
+estate that I got uh with turning it
+widescreen and I added two words instead
+of one and back in portrait it's just
+one word subscribe so I think that's a
+pretty good use of the banner making it
+just a little bit different but still
+very consistent in the theme so that's
+about it for this tutorial I know it was
+an absurdly long video I normally don't
+make videos 7 and 1/2 minutes long but
+I'm sure this will be helpful for a lot
+of people who are looking to uh get
+their Channel off the ground and have a
+mobile Banner to go with it all so in
+the end MKBHD signing out see you in the
+next video peace

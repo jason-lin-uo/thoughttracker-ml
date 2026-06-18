@@ -1,0 +1,325 @@
+# The Ultimate iOS 14 Homescreen Setup Guide!
+# https://www.youtube.com/watch?v=cH66LWWluVE
+
+[Music]
+hey what's up mkbhd here
+and i'm sure you started to notice now a
+lot of people customizing
+iphone home screens now that it's
+possible now that ios 14 is public
+and look first of all welcome to the
+party we've been we've been customizing
+home screens on phones for what 10 years
+now
+10 plus years but it is kind of fun that
+it does feel
+a little bit new again now that apple's
+finally doing it on their phone
+so let's get into that so i've already
+done a whole video all about ios 14's
+new features everything that's new so if
+you want to check that out that's linked
+right below the like button
+but i noticed a lot of people going back
+to that video
+and asking home screen questions just as
+people figure out that they can
+pretty much go ham on their home screen
+so for this video just for home screens
+i'm going to do
+three different levels of home screen
+customization
+right so level one beginner
+someone who'd never really thought much
+about this before or you know people who
+just got an iphone
+level two enthusiast maybe a little more
+willing to get your hands dirty a little
+more
+willing to get complex and then level
+three
+former android user full tilt
+customization
+all of the above so let's get into it so
+here is a level one setup
+to start this one's for you mom and dad
+so you've probably gotten used to your
+iphone home screen
+basically just looking like this just a
+bunch of apps a list of them just
+rows and rows of apps and folders some
+stuff you don't need right
+but it's finally time to mess with
+widgets now that we've derived with ios
+14.
+so beautiful glanceable information
+that's the point of them and what better
+widget to start with than the stock
+default apple ones so like i've shown
+you just
+go into jiggle mode i just go into
+jiggle mode and then hit the plus in the
+corner and there's some good ones
+apple's built in
+a popular one right now might be the
+photos or notes but i think maybe the
+all-time most popular app is just going
+to be their weather app
+just glanceable weather so you pick the
+size of the widget you want
+then add it place it where you want boom
+that's the first level right
+another good one that obviously works
+best if you have several apple devices
+is the battery one so you can monitor
+the watch battery the phone battery
+and if you have air pods or really any
+other wireless headphones via bluetooth
+they'll all show up here which is cool
+it's not clickable or anything but it's
+just literally showing you
+glanceable information the most basic
+purpose of a widget
+so that's it that's already an
+improvement and then of course the other
+thing to take advantage of now that
+there's the app library over here
+is getting rid of the icons or folders
+or stuff you don't
+need to be on your home screen so again
+instead of having pages and pages of
+apps and folders of apps you don't need
+much on your home screen you've probably
+seen this before but yes you can now hit
+the dots at the bottom and go ahead and
+uncheck a home screen
+so it doesn't show up anymore and boom
+now you don't have to have
+unnecessary crap like you always have
+here basically lets you hide apps but
+the best part of that that i actually
+haven't seen
+any android launchers do at least in my
+experience yet
+is it it saves those hidden pages so you
+can bring them back whenever you want so
+you can have like a weekend home screen
+page
+that you only bring back up on the
+weekends with i don't know yelp and
+strava maybe some games whatever you do
+on the weekends
+so that's pretty cool also pro tip you
+can actually make
+your only home screen now have no apps
+on it
+at all just your dock so if you're under
+the minimalism thing
+that is available to you but again
+that's it there's not many pro tips for
+level one
+all right so level two this is a little
+more adventurous now
+so this one you might start to get into
+third-party widgets so apple makes some
+pretty sweet widgets
+sure but now that ios 14 is out
+developers are now starting to get into
+making their own
+best dedicated widgets the most
+beautiful the most functional the most
+awesome glanceable information
+they possibly can in a widget and so
+there's a lot of good ones here i'm
+going to share some of my favorites so
+there's this one called time page that
+just makes a straight up
+better looking more minimal widget than
+apple's weather widget
+it's not a weather app it's actually for
+something totally different for
+productivity but i happen to find
+their weather widget pretty sweet so hey
+i'll take it
+there's also hayweather widget which
+offers a few other sizes
+and a little more customization the
+google widget on ios
+is actually pretty nice here so the
+bigger one gives you
+not just the bar to do quick google
+search but you can also quickly start a
+voice search
+you can start an incognito google text
+search
+or open google lens to basically google
+search for
+the image or object that whatever's in
+front of you which is pretty sweet when
+it works
+color widgets and widgery do and widget
+smith are also some some really good
+widget customization apps and it's
+really just the beginning of apps like
+this that are made
+just to do sweet widgets on the iphone
+so i keep saying
+sometimes jokingly but that stuff has
+been available on android for years that
+you're just getting on the iphone
+this is a real one where there's like
+this entire ecosystem now
+of apps that are just for the widget and
+you download it and there's really no
+functional app behind it other than
+widget customization so they each have
+their own ui
+and their way for customizing widgets to
+show information at a glance
+whether it's health information from
+your apple watch or
+news tickers or stocks or weather or the
+date and time or battery
+or calendar events or really whatever
+you want but now you can really go crazy
+customizing
+exactly what you want in a widget how
+you want it to look
+what colors and gradients you want it to
+use it's it's a whole new horizon and
+i'll leave all these that i'm talking
+about
+linked below and of course if you guys
+find good ones and leave them in the
+comments
+there's a lot of new ones popping up so
+i'll i'll update that and leave those
+below as well but also something to keep
+in mind
+a lot of these are like free at their
+very basic level of customization
+but then as soon as you want to like
+change a certain color or add a certain
+function in the widget then it becomes
+paid
+sometimes a subscription sometimes like
+a one time four dollar charge or
+something
+definitely something to keep in mind so
+if you're getting into level two you're
+really starting to customize stuff
+there's gonna be a lot of apps like that
+that's the way iphone apps have been for
+a while but
+just something to note but there you
+have level two it gets a little more
+personalized
+and a little more complex but way more
+functional way more worth it so then
+last
+but not least the level three home
+screen
+the crazy ones you've seen with
+customized icons and
+color themes the whole deal so here's
+the thing
+you can't really actually do custom
+icons
+yet on the ios home screen i know it
+looks like you can we've seen a lot of
+cool things that look like that
+but these are actually siri shortcuts so
+to make one of these
+you need the siri shortcuts app so if
+you open up shortcuts
+you hit that plus you go to add a new
+action and you make it an open app
+action then you choose the app you want
+to open
+i'll make this one open the camera app
+for example and then you hit the three
+dots up here
+in the top and hit add to home screen so
+now you're making
+what appears on the home screen you're
+making your icon so you can change the
+name of your icon
+name it whatever you want and then you
+can pick an icon
+from your photos or your files pro tip
+you can actually leave this name field
+blank
+for a cleaner look on your home screen
+again something i've been doing with
+android launchers for years
+any chance i can get looks super clean
+but yeah once everything's all set
+add it and you should find your new
+shortcut
+on the home screen now here's the
+downside because these are still
+a workaround these are still siri
+shortcuts every time you open one of
+these
+it has to open the siri shortcuts app
+and then use that to shortcut into the
+app you want to open and it it does that
+every single time and that's kind of
+annoying it takes
+maybe a quarter of a second maybe half a
+second but
+it never gets faster over time like
+every time you open one of these apps
+with a custom icon you'll always have to
+wait for that little shortcut to run
+and you also don't get any of those
+little red badges for apps with
+notifications so if you change the
+messaging one to a series shortcut
+no badge there so it's probably not
+ideal to have a whole home screen
+full of these but nevertheless that's
+what people are doing i've seen a lot of
+color-coded home screens on twitter
+which are really impressive looking but
+we obviously now know
+there's a lot going on with shortcuts
+happening there but at least now there
+are some pretty sweet icon
+packs floating around that have a bunch
+of icons of the same
+style or theme i'll link this one so at
+least you don't have to go
+googling every single icon you want to
+change you can also use a photo you've
+taken for an icon if you want to just do
+one or two so
+that's pretty sweet i'll link this icon
+pack and some other cool ones
+below for some stylized themed
+home screens full of siri shortcuts but
+there you have it ios 14
+customization on the home screen in
+three different levels
+possible right now it's not much if
+you've seen more than this before you'll
+realize but
+it's much more than you've ever had in
+the last 13 versions of ios so
+i'm counting that as a win if you want a
+full video of all the other best
+features of ios 14
+including the double tap on the back to
+open google assistant all that other fun
+stuff
+of course i'll link that video again
+below
+and if you haven't subscribed already
+you probably should there's a lot of
+good stuff coming up
+including of course the new iphones when
+they come up which is like right around
+the corner so
+definitely stay tuned for that either
+way that's been it thanks for watching
+catch you guys in the next one peace

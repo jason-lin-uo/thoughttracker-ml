@@ -1,0 +1,356 @@
+# Samsung Galaxy S26 Ultra Review: There's a Catch
+# https://www.youtube.com/watch?v=nfHRMqqO578
+
+You know we can still hear what
+&gt;&gt; What?
+Never mind.
+&gt;&gt; [snorts]
+&gt;&gt; You might remember all my impressions of
+this phone were based on footage of it
+before actually getting to hold it in
+person. And those impressions were
+pretty positive, but not a lot is
+actually new with this phone. Just a few
+things that are new
+are pretty interesting. But I have been
+using this phone for about a week now,
+and the more I've used it and the more
+commentary I've seen about it online,
+the more
+I feel the need to remind people about
+trade-offs. Every feature in every phone
+is a trade-off. And this new display is
+maybe one of the most interesting case
+studies in that in a long time. So, on
+paper, you know, it's a lot of the same
+numbers as last year, right? It's a
+6.9-in big OLED display, 1440p
+resolution, 1 to 120 Hz, etc. But
+they've added this one massive new
+feature,
+the privacy display.
+Incredibly useful feature. You toggle it
+on or off whenever you want, and when
+it's on, it instantly limits the viewing
+angles pretty dramatically, preventing
+anyone from looking over your shoulder
+or snooping. Now, yes, you could always
+just buy a cheap $20-30 screen protector
+like this one that does that through
+polarization. But, unlike that screen
+protector, this actually blocks all of
+viewing angles, horizontal or vertical
+off-axis. But also, because it's built
+into the display, you can turn it on for
+just the pixels you want to
+when you want to. So, maybe only in
+certain apps. So, you can have it only
+block out your banking app and your
+texting app, or even only black out
+incoming notifications, which is
+incredible. This is a genuinely useful
+innovation. It's really It's special
+that it's actually a new hardware
+feature, which we really don't get that
+often in the smartphone world these
+days. But, like I said, everything is a
+trade-off.
+The way they pulled this off is they
+essentially have two types of pixels on
+this new display. Wide-angle pixels that
+you can view from everywhere and
+narrow-angle pixels that seem to have
+some type of focusing lens on them, so
+you can only see them from straight on.
+So, when you're just using the phone
+like normal, all the pixels are on. But,
+when you decide to turn on the privacy
+display,
+it simply turns off the wide-angle
+pixels and it leaves only the
+narrow-angle pixels. So, you achieve
+that privacy filter effect, but now that
+also means you just turned off half the
+pixels. So, your resolution is actually
+quite literally cut in half and you can
+actually see it. Like, there's blockier
+edges around text and smaller details
+and fine contrast. Here, I literally
+bought a microscope for this. So, this
+is privacy display off, like normal.
+And this is privacy display on.
+You can see those pixels literally
+turning off. So, yes, less resolution
+and also yes, peak brightness is a bit
+lower. You normally don't notice that
+because they cleverly adjust the output
+of the pixels that are staying on to
+keep the perceived brightness about the
+same, but if you're at a high enough
+brightness, you will actually see it get
+a little dimmer when you turn the
+feature on. And even in regular use,
+that means this display
+is slightly worse all the time. I mean,
+think about it. If you If you've added a
+narrow focusing lens to half of your
+pixels,
+that means that your viewing angles are
+going to be slightly worse all the time
+because half of these pixels now have
+permanently poor viewing angles. It also
+appears to have a different coating on
+the display that's not quite as good at
+the anti-reflective thing that was so
+good on S25 Ultra. And it also turns out
+it's still an 8-bit display simulating
+10-bit color instead of a full native
+10-bit display like so many others have
+added. But I think that Samsung knows
+that most people are not pixel peepers.
+Like even on this display, this is a
+1440p screen, but out the box it's set
+to 1080p by default for everyone because
+they assume that most people would
+rather have the slightly longer battery
+life as a trade-off over like a perfect
+screen. So nerds like me will lock in
+and immediately switch to 1440p in the
+settings right out the box and we will
+notice more the slight resolution
+differences and viewing angle
+differences and will upvote every
+comment on Reddit that chastises Samsung
+for using the 8-bit display again. But
+at the end of the day, this is the
+trade-off that they decided to make to
+have this one really cool feature that
+they probably believe will sell more
+phones. But to be totally clear, this is
+still a really good display. But like I
+said, if you're a pixel peeper like me,
+just know what you're getting into
+because there are better looking
+displays that you can get for your 1,300
+bucks. Ironically, probably also
+manufactured by Samsung. But if that's
+your number one priority, there's other
+places you can look. Also, subscribe for
+more phones under microscopes. Here's
+another trade-off, this new design. And
+it's not even really that new of a
+design, they just made the phone a
+little thinner, a little lighter, and a
+little rounder at the corners to make it
+look like the rest of the flagship
+phones that they make. But even that
+comes with downsides. Like since the
+corners are more round, that means the
+part where the S Pen goes into the phone
+is capped with a slight curve instead of
+totally flat. So now the S Pen can only
+go back into this phone this one way,
+unlike last year where it was flat you
+didn't really have to think about that
+at all. Also, since the camera bump is
+now a camera plateau with rings on top
+of it, it's bigger, which combined with
+a slightly thinner body means this phone
+rocks viciously on a table when I'm
+trying to type with no case. I'm sure
+most people just throw a dbrand case on
+it and call it a day, but yeah, it's not
+nothing.
+And switching back to aluminum sides
+from titanium honestly makes no real
+difference to using the phone, but it
+does mean people will be able to make
+fun of you for copying the iPhone's
+titanium for no reason. The new chip is
+a Snapdragon 8 Elite Gen 5 for Galaxy.
+So, I benchmarked it against the OnePlus
+15, which is a Snapdragon 8 Elite Gen 5.
+Similar scores, slightly higher actually
+for the Samsung version, but still right
+around the yearly 20 to 30% CPU
+improvements expected. Really, Samsung
+seems to be much more focused on NPU,
+which is around the AI generating
+features on the phone, which we'll get
+to in a second. We'll get there. But
+yeah, the performance is generally it's
+great. It's almost a formality at this
+point. Hey, are animations smooth? Yep.
+Can it handle heavy multitasking and
+gaming? Yep. The redesigned vapor
+chamber with less volume inside the
+phone is doing just fine. And battery
+life is actually slightly better despite
+having the same 5,000 mA battery again
+because the chip and software are a bit
+more efficient. Standby time still not
+quite as magical as some of its
+competitors, but it's really good
+battery life, and this phone charges
+slightly faster at a peak 60 W now. I do
+have to say though, and if you're a
+subscriber, you probably know exactly
+where I'm about to go with this,
+no Qi2 magnets?
+That seems like it would have been a
+no-brainer, and I know you want to sell
+lots of cases with magnets in them,
+Samsung, but wouldn't you also want to
+maybe win an MVP phone of the year
+award, too?
+And then, no silicon carbon battery,
+which, you know, I know you've had
+battery scares in the past, but
+wouldn't you want to be eligible for a
+most improved award, too? I think a
+phone that isn't slightly thinner, but
+that does have more battery and magnets
+built in would have been pretty
+universally appreciated. I'm just
+saying.
+Uh Mr. Who's the Boss Arun, he just did
+his battery test that highlights the
+slightly better battery life of S26
+Ultra over the last gen, but it also
+kind of shows it getting dunked on by
+some silicon carbon battery phones from
+last year. At this point, it's not
+surprising that they're still playing it
+safe here, but it's also still kind of
+frustrating cuz it feels like the
+ceiling for this phone could have been
+so much higher, so much more ultra.
+These cameras are mostly the same as
+last year, but I think that actually
+undersells how good they are. There's a
+bigger aperture on the main camera. The
+3x is about the same, and then a bigger
+aperture on the 5x as well. So, both
+these cameras let more light in and get
+all the benefits that come with that,
+including slightly softer bokeh with
+close-up subjects. And as a
+photographer, I feel like I'm always
+going to take the faster lens when I can
+get it. The minimum focus distance
+though on the main camera definitely got
+worse. So, I don't know if that's a
+direct trade-off. There is still macro
+mode, but I did notice that downgrade
+from the main camera. Not a disaster,
+but just something to notice. The more
+noticeable camera changes though are
+actually the ones enabled by software.
+So, the APV log codec was added. It
+works great. They also added this super
+aggressive stabilization feature called
+Horizon Lock. And it's not the first
+time we've seen it, but it is one of the
+best executions we've seen of it. It
+takes advantage of this huge
+200-megapixel sensor and crops in to
+shoot ridiculously stable still quad HD
+video up to 60 frames per second. It's
+pretty sick.
+In general, video footage with the
+slightly wider aperture on the main
+camera look good. All of the talking
+head footage on the latest autofocus
+episode with the Polestar 4 was shot on
+this S26 Ultra. So, if you want to look
+at way more footage from this phone,
+I'll link that below the like button.
+The rest of what's new on S26 Ultra
+could be described as
+software.
+It's a word you could use. Uh
+slop is another word I could use. The
+word Samsung would probably like me to
+use is agentic,
+but
+nah. There's a ton of AI features
+crammed into this phone now, ranging
+from call screening, which is very
+welcome and very useful for screening
+unknown numbers, to audio eraser, which
+does a good job of pretty naturally
+removing a good amount of background
+noise in videos, all the way to photo
+assist, which lets you edit photos to
+create entirely new scenes that never
+actually happened. It's a lot, and you
+can scroll through the Galaxy AI tab on
+this phone and see a lot of the new
+stuff in here. I think, honestly, take
+it or leave it. Like, you can choose to
+use as much of it as you want. You can
+go full slot mode and use all of it all
+the time.
+Or you can kind of just never use any of
+it. I will say, I didn't get Now Nudge
+to work once, and I also tried many
+things with the AI text-based photo
+editor, and to its credit, it refused
+many of the things I tried to make it
+do. So, you know, yay for safeguards, I
+guess. I'm just not convinced any of
+this is a reason to buy this phone,
+especially when a lot of it could, and
+probably should, make its way to other
+Samsung devices across the lineup, older
+stuff, through a software update. So,
+then lastly, while I have your
+attention, I would just like to take
+this opportunity to say that the base
+S26
+and S26 Plus
+are not good deals anymore. Like, those
+phones feel like afterthoughts. The
+designs are basically unchanged, fine,
+but they've also had basically the same
+cameras since S23. They got rid of
+millimeter wave. It's also an Exynos
+chip in a lot of regions outside of the
+US, and they got rid of the 128 gig
+version, which I think is good, but they
+just kept the 256 gig at the same price.
+So, that just means the price of entry
+is higher. It's now $900
+baseline. You can get a lot more phone
+for $900,
+but Samsung doesn't really seem to care.
+Just wanted to put that out there while
+I had you.
+Uh you'd probably have to vote with your
+wallets to get Samsung to actually do
+anything. You know, this S26 Ultra is
+$1,300
+starting, so it's also very pricey, but
+I can at least say it's a really good
+phone with some clever new features. I
+just think the price is probably the
+most ultra thing about this phone.
+You know, like it's a big phone, sure,
+and it's got ultra-ish cameras and chip,
+but aside from that, this feels like a
+S26
+plus plus Pro Max. Does that make sense?
+But it doesn't have a super advanced new
+silicon carbon battery or super fast
+charging or wireless charging, and it
+also doesn't have magnets, and they
+still don't have Bluetooth in the S Pen,
+but they do have one super cool, very
+advanced, one-of-one feature that is in
+no other smartphone.
+And that's the trade-off that they bet
+on.
+Thanks for watching.
+Catch you guys in the next one.
+Peace.
+&gt;&gt; [music]

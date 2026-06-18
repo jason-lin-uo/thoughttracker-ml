@@ -1,0 +1,457 @@
+# Hackintosh Pro Project! [Part 5: The Finale!]
+# https://www.youtube.com/watch?v=Wm4jH01Sluc
+
+hey what's up guys MKBHD here and
+welcome to part five of the Hackintosh
+pro project the finale let's
+go round
+one so now the Hackintosh Pro is a
+complete machine it is finished and in
+case you missed the first three episodes
+of the series which are annotated right
+there or there will be the first three
+links the description below the like
+button if you're on mobile uh but in
+case you missed the first three uh the
+basic purpose of this series was to
+create a beast of a video editing
+machine that will happen to dual boot
+Mac OS 10 and windows and there's been a
+ton of comments so this video this
+entire video this finale is meant to
+address all the comments and questions
+that I've got and basically wrap up
+exactly how this machine performs and
+what it does for the price you pay so
+let's go ahead and get started so as a
+refresher for the parts of this build
+we're going to be centering it all
+around an Intel Core 7 3930k 6 core
+processor and that's pretty much the
+center of the system and what we're
+building off of so for that we have an
+ASUS x79 Sabertooth motherboard and we
+have the gigabyte GTX 670 windforce
+overclocked Edition 2 GB graphics card
+we also have the corser h8i we also have
+three Vertex 4 ssds and numerous other
+various components and accessories that
+we'll get to but basically the parts to
+this build are all linked down below and
+a lot of you guys were asking for for a
+total price and that kind of fluctuates
+but I have a PC parts picker link down
+below which will give you a graph of how
+the total price fluctuates over time all
+these parts were put together in a
+fractal designed toine R4 case one of my
+favorite cases of all time that I've
+ever even seen period it's really
+good-looking case it's a silent inside
+case and it's probably the best thing
+that I could have possibly picked for
+this project again opinions may vary but
+I love the R4 so that's the case we use
+so in previous videos in these series
+we've discussed why exactly we have
+those three Vertex 4 ssds these are all
+128 gig ssds the first two are going to
+be used or are currently being used as a
+Mac OS 10 raid zero striped array and
+the second drive or the uh second part
+will be for Windows 8 so there's three
+total drives two of them are a 256 gig
+rate array for OS 10 and the last one is
+128 gig Drive dedicated to Windows 8 and
+because of this after you go through the
+install process for Mac OS 10 you can go
+ahead and insert the Windows 8 CD drive
+and install Windows 8 on the third drive
+just like normal computer and now every
+time you boot when you get into the
+bootloader you'll have the choice to
+boot whether you want to go into OS 10
+raid or into Windows now one of the
+easiest ways to get the most performance
+out of your system is to overclock it
+and that's exactly what I've done I went
+into the BIOS just like anyone else
+who's using this motherboard and CPU
+combination and I overclocked the CPU uh
+it comes out of the box stock at 3.2 GHz
+with a 3.8 GHz turbo and I bumped that
+up to a
+4.35 GHz clock speed so now we're
+running at you know 4.35 GHz for all the
+tests that we do we're going to go ahead
+and show you guys the benchmarks when I
+ran these benchmarks I was at 4.2 GHz so
+I did eek out a little bit more
+performance but the benchmarks that we
+used were geekbench Nova bench and cinch
+so I'm going to go ahead and show you
+guys The Benchmark results we got for
+those first Benchmark here is a classic
+it's the 64-bit geekbench 2 a fairly
+well-known and well trusted
+multiplatform treat the highest 2012
+iMac has been known to max out around
+13,000 points and that's where the
+$2,500 Baseline 2012 Mac Pro Picks it
+right up and as you can see here without
+screen recording at 4.2 GHz I got a
+score of
+15,8 and I did run it again off camera
+after overclocking a bit more to like I
+said 4.35 and was getting a score in the
+low 17,000 so that was pretty solid next
+up is cine bench which was a pretty fun
+Benchmark to test both the CPU and the
+graphics card so for the GPU test we ran
+through the animation with the car chase
+scene and the reflections and physics
+Etc uh which was pretty neat and we got
+a solid 34 frames per second uh which is
+pretty good for a single card and then
+the CPU test which was basically a
+benchmark of pure raw data crunching
+gave us a score of 9.13 points so it
+it's it's pretty good it's not touching
+the systems with two gpus or two CPUs
+but they then again we wouldn't expect
+it to and for the price of these parts
+it's a damn good performer as you can
+tell last we did did Nova bench and as
+you may recall the fastest Mac Mini in
+the World Series concluded with a finale
+similar to this where we got a Nova
+bench score in the mid 900s but of
+course this is the Hackintosh Pro and it
+blows it out of the water scoring more
+than
+1,600 points and also showing our insane
+read right speeds thanks to raid zero
+around 700 megabytes per second so
+pretty sweet performer so now that we
+know that it performs well what about
+the experience well the OS 10 experience
+on a Hackintosh is one of the most
+curious Parts about this build a lot of
+people want to know why you should get a
+Hackintosh over a regular Mac and if
+it's going to be the same experience
+well I've owned a Mac Pro for a couple
+of months and I can tell you that from
+experience there is a lot similar
+between a Mac Pro and a hack Pro and
+there's also a lot different first of
+all on the hardware side there are some
+serious differences I'll start with
+upgradeability when you're going with a
+Hackintosh Pro you have far more
+upgradeability than any other Apple
+desktop so with a Hackintosh you can
+change your power supply at any time you
+can change your RAM you can change your
+CPU motherboard whatever you put in that
+hack Pro you can switch out for whatever
+part you want and get it working with a
+Mac Pro you don't really see people
+replacing the motherboard or replacing
+the power supply those things really
+don't just happen usually the only
+things you replace in a Mac Pro are the
+graphics card the RAM and occasionally
+the uh actually yeah that that's pretty
+much it the hard drives I guess there's
+also a difference in Dimensions but this
+depends on the case that you pick for
+your Hackintosh I happen to pick like I
+said the fractal R4 it's a very
+goodlooking case but it's also a little
+bit shorter and a little bit more squat
+than the Mac Pro case which is a tall
+slim aluminum Tower with handles on top
+now you can build a Hackintosh in a
+maded G4 case or a modded Mac Pro case
+to fit your motherboard people have done
+that uh but personally I went with the
+R4 because it's a like I said
+goodlooking to me uh but there are other
+options you can get so the difference
+and dimensions will vary based on what
+case you get so another big difference
+between the hack Pro and the Mac Pro is
+the io the inputs and outputs that you
+get thanks to the motherboard and there
+is a huge difference you won't get
+nearly as much io on the Mac Pro as you
+do on the hack Pro uh if you look at the
+back of the Mac Pro you're going to get
+some USB ports but not very many you get
+some ethernet some fire wire you don't
+get Thunderbolt on the new Mac Pro it's
+weird that they still don't have that
+yet but hopefully we'll see a new model
+of the Mac Pro but right now it's really
+really limited you flip it around to the
+front and you still only have two more
+USB ports and some fire wire it's very
+limited and then you have your headphone
+jack and your microphone Jack on the
+hack Pro you have a load of IO and you
+can see also the new noctu a fan that I
+threw in there but basically you have
+way more USB ports you have way more
+ethernet you have fire wire you could
+get a Hackintosh Pro and use a
+motherboard with Thunderbolt support I
+didn't but that's an option for you if
+you want it but other than that you get
+the point you also have the front io on
+the fractal R4 case so you have not only
+the power button but you have four more
+USB ports at least and you have your
+headphone jack microphone Jack and reset
+button so there are way more IO options
+available with the Hackintosh so
+processing power how does it stack up
+well that you could say that that's one
+of the strengths of the Mac Pro it's not
+a weakness of the Hackintosh but the Mac
+Pro absolutely flies ahead of pretty
+much any of the competition uh in terms
+of processing power you can throw dual
+xeons in your Mac Pro it will be very
+expensive but you can configure a very
+powerful Mac to outdo it so it'll Crush
+benchmarks you'll get things like 18,000
+on geekbench you know 19,000 without
+even breaking a sweat that being said
+the 6 core 3930k is a very powerful
+single CPU system and since we're using
+a single CPU system with a single CPU
+motherboard this is a really good system
+I've been using it to Video Edit and
+things like Premiere and after effects
+and it works wonders and then there's
+the graphics uh the Mac Pro has some
+outdated Graphics I'm going to be
+perfectly honest the 5870 is more than a
+year old and the applications we're
+using today are not that old and they
+need more power than they did when the
+5870 came out so when you're using a
+Hackintosh you get to pick exactly what
+graphics card you want I went with the
+Nvidia Jeep Force GTX 670 that is light
+years ahead of the Intel or the AMD
+Radeon HD 5870 that was in my Mac Pro
+another advantage to the 670 is the Cuda
+cor so you'll be able to use the Cuda
+cor on the graphics card the basic way
+of saying it is that you can offset a
+lot of the power on onto the graphics
+card that you would normally be doing on
+the CPU and this the graphics card is
+like untapped power a lot of people
+don't you know ever turn this on but
+when you turn on Cuda you know after
+effects flies and Premiere is really
+smooth so being able to turn these
+things on is pretty important and uh
+you're supported with a lot of new cards
+and the last major difference I'd say
+between the Mac Pro and the hack Pro is
+the price per spec that you get now if I
+were to spec out you know this
+Hackintosh again the PC parts picker
+link is in the description below the
+equivalent Mac Pro is more than $1,000
+more in fact you can't get a Mac Pro for
+the price that I built the hack Pro the
+lowest Mac Pro starts at $2,500 and even
+then you only get I think 6 GB of RAM
+and a regular hard drive it's just not
+the same with this you're getting a six
+core 12 thread processor you're getting
+32 gigs of RAM you're getting a raid
+zero array there's just no comparison
+you get way more for your money and that
+is probably the number one reason that
+people buy a Hackintosh or at least
+build one over buying a Mac Pro and then
+there are the little things like you
+know the noise uh if you're video
+editing and audio recording at the same
+time you don't want the fans kicking in
+when you don't need them so again the
+Mac Pro that I had was pretty quiet but
+again I went all out with the quietness
+with the hack Pro and so we went with
+the insulated R4 case uh and we went
+with the uh actually a new noctua fan on
+the back so that's the NFP 12 120 mm fan
+on the h8i radiator so all of the things
+are very very quiet and uh that's
+definitely a pro the ssds also have trim
+support in raid zero a lot of people
+didn't know you could do that but
+multibeast allows you to do that so
+there's trim you don't have to worry
+about these ssds degrading there's also
+the even smaller things like being able
+to tweak the about this Mac section to
+show exactly how awesome your specs are
+uh there are instructions to doing all
+these things all over the Internet so
+you can show uh exactly what the specs
+of your machine are and show uh the case
+you use and for any of you guys
+wondering if stability is a major
+concern for you once you get past the
+installation process it's just as stable
+as a Mac Pro from my experience I
+haven't had any hiccup I haven't had any
+smoothness issues frame rates are higher
+uh and animations are just as smooth
+mission control all the features work
+the same way stability it's topnotch so
+for the Windows boot a lot of you guys
+were asking about the windows install
+because I didn't talk about it in the OS
+10 install video so the Windows 8 is
+what we decided to go with for the dual
+boot basically you get an optical drive
+and you boot up just like you would boot
+a normal computer to the optical drive
+and you install Windows 8 to your SSD
+the single SSD that we're having outside
+of the rate array and that brings us
+into Vertex 4 Windows 8 super fast SSD
+solution you get very fast read write
+speeds with Windows 8 even if it's just
+one SSD and it's significantly faster
+than you typically get uh on a hard
+drive also uh I'm not a big gamer but a
+lot of you guys were asking for some
+gaming performance so I'll go ahead and
+leave you with a little bit of some max
+pain on the highest settings available
+on the GTX 670
+[Music]
+almost as much as I
+did woman more no
+all right so popular question I get
+about the Hackintosh Pro is the setup
+the actual physical setup that I have at
+least on my desk here I was tweeting
+some behind the scenes pictures on you
+know Twitter at MKBHD and some on
+Instagram too but basically I'll go
+ahead and explain to you how this works
+because some things are a little bit
+different all the way on the left here I
+have the fiio E10 that's my amp and DAC
+or digital audio converter I've done a
+video on these already so that link I
+guess will also be in the description
+about why digital and audio converters
+are perfect so these guys are what's
+powering all my audio those are what's
+powering these studio monitors and my I
+ke audio uh or my at M50 headphones
+these are are I ke audio studio monitors
+too so that's what the audio is coming
+from the uh M50 is by the way pretty
+awesome you should check them out if you
+haven't already and then uh I'm using
+the Apple accessories here so pretty
+much any wired or Wireless Apple
+accessories will work uh even Bluetooth
+stuff so if you get a little Bluetooth
+adapter you'll be able to throw these in
+so I'm using the Apple wired keyboard
+because I like to be able to throw it
+into my BIOS at any time if I want to
+tweak and overclock or anything and I'm
+using the Bluetooth magic Trackpad as
+well so that's what's allowing me to use
+mission control and a lot of other
+features that you kind of need the
+trackpad to use for those guestures I
+would never use a Magic Mouse just no uh
+and then there's the cyborg rat 9 it's
+not the best mouse in the world just
+because of the battery life but it is
+pretty damn customizable so I recommend
+it to those of you who want a wireless
+customizable mouse and a lot of people
+also ask about the displays so this is a
+Dell ultrasharp 3007
+wfpc uh it's a 30-in 2560 x600 display
+and then over here is a 20-in portrait
+display uh it's uh again A600 by 1200 so
+the reason I have this portrait is
+because they match up perfectly so
+they're this same height and they're the
+same vertical resolution so I end up
+with a resolution of 2560 plus an extra
+12200 and then I get you know 1 12200
+vertical and 1200 vertical here so when
+I move Windows across it doesn't resize
+or anything and then the way I have my
+workflow set up for mission control is I
+have three spaces up here uh desktop one
+is just for normal stuff desktop two
+will be where I use Premiere and then
+desktop 3 will be where I have after
+effects and then I can swipe between
+these three as I go you know I might be
+downloading things from the internet
+internet and then I swipe up and bring
+that into Premiere and then bring that
+into After Effects so the whole project
+cycle works pretty well with that uh but
+that's just so you guys know how I use
+these displays on a daily basis
+especially when I'm video editing so the
+elephant in the room now is um is this
+technically legal is it legal to make
+this run OS 10 well technically no this
+is not legal apple does not want you to
+do this at all but I'm not responsible
+for anything you may do as a result of
+watching in the videos in the series but
+if you're watching the series you
+probably already have a good idea of
+what you want to do anyway overall
+though I'd say the Hackintosh pro
+project has been a success it has been
+quite the Workhorse of a machine
+perfectly stable very usable uh
+animations have been smoother frame
+rates have increased buffer and render
+times have decreased it's just been an
+allaround great machine to own and uh
+the satisfaction of building it yourself
+is kind of like Legos for adults as Dave
+dugdale has said uh having the ability
+to to pick all your own parts and and uh
+the satisfaction of getting it together
+is really fun so that has been it that's
+been the Hackintosh pro project I guess
+now we'll return to our typically
+scheduled not really scheduled but our
+normal programming of MKBHD videos we
+got some more comparisons and smartphone
+stuff coming up but either way this has
+been fun guys thank you so much for
+watching thanks for the thumbs up and
+all the new subscribers as a result of
+this project hi welcome aboard and uh
+I'll talk to you guys all in the very
+next video thanks for watching guys
+peace
+a
+[Music]

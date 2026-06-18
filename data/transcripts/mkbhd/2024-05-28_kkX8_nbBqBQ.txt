@@ -1,0 +1,324 @@
+# Android 15 Hands-On: Top 5 Features!
+# https://www.youtube.com/watch?v=kkX8_nbBqBQ
+
+hey what's up MKBHD here and I've got
+the latest beta of Android 15 on my
+pixel 8 Pro right here so a lot of you
+know I've done these videos for a long
+time like I've made a video on the best
+features of the latest version of
+Android for I don't know how many years
+in a row now since they were naming them
+after desserts and if you've been
+watching all of these then you've
+noticed a trend which is there used to
+be huge new features and massive like
+visual overhauls and all sorts crazy
+gigantic things changing with Android
+but now things have stabilized I would
+say it's it's a lot more small changes
+and more nuanced things here and there
+so it's gotten to the point where these
+top five features of Android 15 back in
+the day this would have been like a o.2
+update like this these are smaller and
+smaller new features with each new
+version but on the other hand that
+actually feels like it is uh they're
+they're they're a little more
+well-considered they're more about
+usefulness they're more about little
+tweaks here and there to make actually
+using and owning your phone a little bit
+better so I can appreciate that and I
+will also say it's felt like in videos
+in the past I've said that you know this
+is a version that's only going to show
+up on the pixel for at least a year and
+you may never get to see the newest
+version of Android but I feel like with
+a lot of the newest companies actually
+promising a good amount of software
+updates into the future hopefully more
+people will actually see these couple of
+things so I'm just going to Jump Right
+In These are the top five best features
+I found in Android 15 so number five is
+called private space and it's it's
+exactly what it sounds like it's a
+private space on your Android phone for
+your top secret files photos and
+whatever else you got in there so to
+turn it on you go to settings and then
+security and privacy and then private
+space is near the bottom so you confirm
+it's you and you pick a Google account
+and a new lock if you want then this
+private space is set up and basically
+you can always find find it all the way
+at the bottom of your app drawer like
+that's where it lives so obviously if
+you were to like give someone your phone
+to borrow for a while you could put it
+in guest mode and it would just
+basically be a brand new phone for them
+set up but yeah private space is
+different it's more of just a separate
+section under a separate lock underneath
+the phone that you're already logged
+into and signed up for so it's basically
+a whole new little section of your phone
+hidden away behind a second lock for
+your top secret activities apps files
+photos whatever you want want and when
+you want to hide it away again you just
+hit lock you can put whatever you want
+in there totally up to you uh then
+number four so I'm kind of combining a
+lot of these things I've done this in
+videos in the past it's just a whole
+bunch of the little things that sort of
+Stack up to feel like a more refined
+experience so number four is the little
+things like one of them is Rich widget
+previews which obviously is not a huge
+thing cuz how often are you actually
+adding new widgets to your home screen
+not very much but when you do now the
+widgets that support this will actually
+show you content that will actually be
+on them before they get added and
+they're in live in real time and
+represent real things on your phone this
+could have maybe been higher on my list
+but at this point it's so new that it's
+basically only like two of Google's apps
+like it's just the clocks and widgets
+around that but it would be nice to see
+more Google Apps and even more
+thirdparty apps adopt this like I want
+to see in the example widget before I
+add it like my act one of my actual
+notion boards instead of a madeup one or
+one of my actual contact instead of a
+random person another one is this new
+back animation when you move backwards
+through like settings or anything with
+multiple layers that you can back out of
+I think it's a little bit smoother a
+little nicer another one is Bluetooth
+audio sharing you can have multiple
+headphones paired to the same Bluetooth
+audio source as long as they support
+Bluetooth LE which most new headphones
+do another one is high quality mode when
+you use your Android phone as your
+webcam another one is Bluetooth Auto on
+so if you turn Bluetooth off on your
+phone then the next day it automatically
+gets turned back on again so you don't
+have to remember to and there's just a
+whole bunch more little things like that
+it feels like every year Google pays
+attention to little things about the way
+we use our phones and then can add stuff
+to help us there but speaking of little
+things I'm making number three by itself
+one of those little things which is the
+new volume sliders so right now when I
+hit volume it looks the way it normally
+does the auto live caption button is
+still there on the pixel totally
+underrated feature and then your mode
+switcher at the top but then when you
+hit the three dots to expand and you get
+this whole almost full screen overlay
+showing where you're playing audio to
+and then all the sliders for volume of
+everything happening on your phone and
+this is something you know that's been
+smaller and in various other forms in
+previous versions of Android but I like
+this big one just makes it super clear
+what's going on and how loud each
+individual thing is going to be so then
+now we're getting to the top number two
+is partial screen recordings so I think
+normally when you do a screen recording
+on your phone you just expect to see
+everything right you just start it it's
+your home screen it's every single app
+you switch between everything happening
+on your phone that's that's a normal
+screen recording but I've been playing
+with screen recordings here on the pixel
+with this Dev preview and it's a lot
+smarter about only showing if you want
+individual single things happening on
+your phone so when you go to initiate a
+screen recording you can either do the
+entire screen which is normal or a
+single app so check this out if I do
+single app and then start recording it
+gives me a picker to choose which app I
+want to record I'll pick one of the ones
+I already have open relay Reddit just
+for this example the countdown starts at
+the top and then it's recording this
+Reddit app so I can scroll around just
+use it as usual but now watch if I go
+home and then open another app like
+photos and then scroll around in here
+and then go back home go back to the
+relay app then scroll some more that's
+the screen recording now check this out
+when you go to watch the screen
+recording it looks normal but then the
+moment I go home and then go to photos
+see that doesn't show up in the screen
+recording it's still just recording the
+Reddit app even though it's in the
+background now and then you can see when
+I get back to it and start scrolling
+some more it picks up where it left off
+so it's only specifically showing what I
+want you to see and this is super useful
+I think this is my new default for
+screen recordings you don't have to see
+you know a random text message I have
+coming in or me copying and pasting a
+security code from another app right
+like that it's just me giving you a
+tutorial on like one exact thing that I
+want to show you that's pretty cool but
+then number one this is one of those
+things that Android has been really good
+at and had the edge at for years which
+is just better notifications a
+notification management and so far with
+these two previews it's even better in
+specifically a couple of ways there's
+adaptive vibrations there is
+notification cool down there is custom
+vibrations there's a whole bunch of
+stuff so I'll walk through each so
+adaptive vibration is fascinating it
+kind of just seems like another one of
+those magic feeling Google things but
+you go into vibration settings and just
+turn it on there's no further settings
+but it basically says it's using your
+phone's mic and other sensors to
+determine the sound levels around it and
+potentially even what type of surface
+it's on to set the strength of vibration
+so you can always feel or hear it so the
+idea is if your phone is on like a desk
+somewhere or a hard surface it doesn't
+have to Rattle the thing at maximum
+strength to be heard it can turn it down
+but then if it's on a couch or something
+softer it will pick that up and it will
+vibrate more loudly or more firmly so
+you can actually still hear it clever
+and then there's another thing in Dev
+preview one at least that was called
+notification cool down which is
+literally just a setting to be able to
+help you manage when you get a ton of
+notifications from the same app over and
+over in a row because we've all been in
+that group chat that's going nuts or the
+slack channel that won't shut up or a
+SAA or whatever something that's just
+constantly pinging you over and over
+with the same app and so notification
+cool down when you enable that will just
+sort of taper that off and keep you
+updated on when a bunch of new stuff
+comes in but not just buzz you over and
+over now that was in Dev preview one and
+then this is Dev Preview 2 and it's not
+in this one it's gone I'm not sure why
+but I hope they bring that back I hope
+they keep it cuz that's pretty sick and
+then there's an even more subtle one
+that's because it's basically hidden to
+users this is something developers have
+which is individual vibration patterns
+per app cuz see some of you aren't old
+enough to remember when smartphones had
+led notification lights on them
+multicolor lights that would actually
+have a different color light up based on
+what app you were getting a notification
+from so I could know without waking up
+my phone if I had a blinking blue light
+happening oh that's a Twitter
+notification I can ignore it or if it
+was a blinking green light then it's a
+new Gmail notification and I can ignore
+it it but if it's a new blinking red
+light then it's a new missed call and I
+can ignore it but then phones all got
+rid of these lights so now we wake up
+our phones every time we want to check
+on something and if you have an always
+on display that can be useful but in a
+surface shown to developers they have
+the ability now to customize their own
+vibration pattern specific to their app
+so I think that's pretty sick I'm kind
+of hoping and this is totally just
+hoping but I hope that they surface that
+to you users as well I hope just like
+I've been able to pick between a bunch
+of different weather icon apps for my
+one app that does weather I hope they
+let me choose between a couple custom
+vibration sounds or vibration patterns
+for apps because I would love to
+customize and feel that I've gotten a
+Twitter notification and that I can
+still ignore it now for those wondering
+since we check every year when you go
+into settings it doesn't actually say
+Android 15 it says vanilla ice cream for
+this Dev preview too and when you click
+into it this is the animated Easter egg
+which looks nothing like vanilla ice
+cream but for what it's worth it's a
+little more space likee but now here's
+the thing if you hold it down long
+enough it speeds up all the way and then
+snaps and turns into this this sort of
+random spacecraft in the middle of what
+seems like a nearly Infinite Canvas kind
+of reminds me of that Asteroids game
+from back in the day but you don't shoot
+anything you just kind of fly around
+using this thrust vector and explore
+this gigantic
+space the only thing that worries me is
+that in the corner it says bodies 0 out
+of 10 so I think if people explore this
+thing long enough they're going to find
+bodies whatever that means but yeah like
+I said a bunch of subtle things some new
+notification stuff here and there some
+new management usage of your phone type
+stuff it's it's nuanced it's subtle I'm
+still excited for some of the bigger AI
+based features to drop because that's
+the stuff that we're expecting to make a
+big difference the way we use our phones
+it's just not built into Android anymore
+it's the AI stuff that your phone is
+capable of that's not in the OS but it's
+still good to see good OS features too
+let me know what your favorite one is or
+if you agree with my order of the top
+five in the comment section below thanks
+for watching catch you in the next one
+peace
+[Music]

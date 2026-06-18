@@ -1,0 +1,334 @@
+# M4 Max MacBook Pro: I'm Convinced!
+# https://www.youtube.com/watch?v=9HQx5pgUoiY
+
+so I have been using this M1 Max MacBook
+Pro for the past 3 years since it came
+out and it's been great I have felt
+absolutely no compulsion to upgrade
+since haven't needed to it's funny most
+of my work is pretty light but
+occasionally I will have to edit a video
+on the go which is then when you know
+the extra horsepower and the screen and
+everything about this comes in handy and
+it's great if I didn't have to do that
+ever I would just have like an air or a
+surface laptop something like that but
+that range of work is why this has been
+great for me and it's been awesome so
+[Music]
+far so Along Comes This M4 generation of
+MacBook Pros and it's the first
+generation that I have actually been
+tempted to maybe upgrade to you know
+they stacked a couple of the right
+upgrades in the right places for things
+that actually make a difference to me so
+let's just get right into it nuts and
+bolts cuz the first big pillar is
+performance and the main reason why this
+new laptop matters at all is that it's
+got the new generation of M4 chips
+inside and we all know the leap from
+Intel chips to apple cic chips for M1
+was generational but since then it's
+been a sort of more reasonable
+incremental upgrade going from M1 to M2
+then M3 and then M4 so I think it's
+pretty obvious that nobody with an M2 or
+M3 needs to upgrade but there's been
+enough improvements now stacking up upon
+each other from M1 to M4 that the
+numbers are now starting to get kind of
+interesting so just to set the stage
+this laptop that I've been using is the
+M1 Max maxed out basically the best you
+could get at the time 64 gigs of of
+unified memory on this system and this
+unit I've been testing of the M4 Max is
+also maxed out it's the best you can get
+now it's 128 gigs of faster unified
+memory but the cores are all better fast
+stronger on the new one 3 nomers versus
+5
+546 gigs per second of memory bandwidth
+versus 400 just the hardware
+improvements to get to M4 Max are
+clearly there so to keep the Apples to
+Apples comparison going Apple in their
+own presentation said up to 2.2 times
+faster CPU performance than M1 Max and
+1.9 times faster GPU performance so
+we're looking at around twice as fast
+and the synthetic benchmarks I've run
+back this up I got over 4,000 in
+geekbench 6 CPU single core which is the
+highest single core score ever in a Mac
+by a while and the multicore score was
+incredible too tops the chart and then
+GPU has improved a lot to the point
+where it's bumping up against M2 Ultra
+not M2 Max M2 Ultra chips the one that's
+currently in the Mac Pro so it's pretty
+clear that on paper yeah these M4 chips
+are blazing they're incredible um but
+that's just on paper what about in real
+life what about real workflow stuff so
+on YouTube you might have noticed a lot
+of the benchmarking and real world stuff
+that you see is video editing benchmarks
+just because that's the most intensive
+thing most YouTubers do on their
+computers it's the most intensive thing
+I do um but yeah that's that's what's
+going to drive my purchase decision so
+that's the first thing I looked into so
+my own Benchmark is literally loading up
+a video project in Final Cut Pro moving
+things around messing with Clips cutting
+effects tracking and then of course
+export times this project here is a mix
+of 8K red raw footage and action camera
+footage with comped graphics and smaller
+video files from the Snapchat glasses
+and not only did this laptop open and
+flip through Final Cut faster than any
+other machine I've ever used but it also
+exported the final video roughly twice
+as fast as my M1 Max laptop which is
+really exciting for me so pretty prime
+example of the performance unlocking
+something new is uh Final Cup Pro 11
+just came out and I've been messing with
+it for a little bit and there's a new
+headlining feature called magnetic mask
+and my theory is that it's taking pretty
+heavy advantage of Apple silicon
+specifically the neural engine because
+it's AI powered but I have to prove it
+so so previously to cut a subject out of
+a background in a video it it was this
+painstaking process called rotoscoping
+where you're essentially manually
+drawing the mask for every single frame
+now this one works even better than some
+plugins I've used like M Roto Ai and
+it's even faster basically all you do is
+click the subject and sort of refine
+your selection and then once you're good
+to go you just analyze forward for the
+entire clip and just let it do its thing
+and it just continues for the whole clip
+so I ran through this on the M4 Max I
+ran through this on the M1 Max but I did
+some other machines as well and the
+results well the M1 Max was able to pull
+this off in 2 minutes 56 seconds the M4
+Max got it down to 2 minutes and 13
+seconds but then M2 Ultra got it down to
+a minute and a half but then the Intel
+zon Mac Pro super expensive with the
+Dual Radeon Pro gpus took 6 minutes for
+the same 45 second clip here so the leap
+is crazy and it just keeps getting
+better I'm thinking M4 Ultra is going to
+be as a video editor pretty sick but of
+course you might not be a video editor
+you might be something else you might be
+a photographer I just watched Tyler
+stallman's video on his M4 Max laptop
+it's really good the second half of his
+video he does a lot of testing against
+the M1 generation with Lightroom and
+resolve and not only does it continue to
+crush M1 Max but sometimes it actually
+gets close to or beats the newest Mac
+Studio with M2 Ultra which is pretty
+insane so I'll link his whole video
+below it's really good now obviously we
+expect Mac Studio and Mac Pro to
+eventually get their own M4 generation
+updates with the M4 Ultra chip I'm sure
+that'll be immense but even so with this
+it's crazy to see apple silicon is still
+improving fast enough that this new
+laptop chip is outperforming some of the
+desktop chips from earlier years of
+Apple silicon there's a bunch of other
+real world benchmarks out there I'll
+link some more below that are really
+good but I think the bottom line from my
+testing and from other tests that I've
+watched and read is yeah there there is
+now a significant bump up in performance
+from M1 to M4 not just 30 or 40% but
+like 200% which is pretty crazy but that
+by itself might not be enough to
+convince you to upgrade so there's more
+luckily several other things are updated
+about this laptop as well so first of
+all this laptop is space black as you
+may have noticed which the M1 generation
+didn't have but it's not exactly new
+it's actually had the same two colors as
+M3 space black or silver I do love me
+some space black but anyone who has one
+already knows it looks really good new
+but then it kind of collects
+fingerprints and starts to wear over
+time still the best solution I found is
+a skin over a case just adds that little
+bit of scratch protection you'll never
+see fingerprints again so I'll leave a
+link below to channel sponsor dbrands
+glitch skin if you want to check that
+out it's much more interesting than
+black or silver but there is another
+visual Improvement here too and you've
+probably noticed it watching this video
+it looks so good that is the nanotexture
+display option it is new and I love it
+it's it's incredible and the thing is I
+have slight reservations about how it
+might wear over time but on a laptop
+like this it it just looks so good Nano
+texture started out as a $1,000 option
+on the pro display xdr and this is the
+hardest one to recommend like it's
+stupid expensive and then it's also it's
+so delicate to maintain it just picked
+up fingerprints so easily you'd have to
+have the right low pile soft microfiber
+to actually clean it like it's tough I
+wouldn't recommend it to most but it
+seems like it improved since then
+because now it's a $300 option on the
+studio display that a lot of people have
+then they offered it as a $100 option on
+the iPad Pro which obviously that's
+something people are touching constantly
+with their fingers and we haven't really
+seen too many issues with it so I think
+on a laptop like this like if it can be
+jeez if it can be like maintenance
+painfree then it feels like a kind of a
+no-brainer like this is my favorite
+option on this laptop like you're going
+to take it all over the place and all
+sorts of different lighting and just the
+way this matte finish just eats
+Reflections and completely removes any
+lighting environment ractions from
+anything from an office building to a
+coffee shop to an airplane with a window
+next to you like it's actually
+incredible it's awesome all laptops
+should have something like this it's a
+100 bucks more than the glossy version
+for the MacBook Pro and I'll take it
+every time the fact that this is new to
+the M4 Generation by itself honestly is
+is very compelling to me so then the
+only other big thing that's new here is
+Thunderbolt 5 which it's funny it's kind
+of uh overrated and underrated at the
+same time so the outgoing laptops all
+have perfectly great very fast
+Thunderbolt 4 USBC ports love that
+almost every new high-end laptop has
+that um these new ones here getting
+Thunderbolt 5 which a lot of other
+machines don't have yet and actually the
+the base 14-in MacBook Pro gets one more
+Port too which is great so now they all
+have the three Thunderbolt 5 ports it
+feels a bit underrated maybe because it
+is so new and it's in so few laptops but
+it is actually a genuine capability
+Improvement like we love more bandwidth
+we love faster I/O you can do three 6K
+displays from this laptop instead of two
+so that's awesome but there are so few
+Thunderbolt 5 accessories out right now
+and the ones that do start to come out
+you'll also notice are uh pretty
+expensive so my favorite accessory in
+the world right now for example I think
+is the Samsung X5 the Thunderbolt 3
+drive it's incredible 2800 megabyte per
+second read speeds they don't sell them
+anymore but you can get a nearly
+equivalent 2 tbyte sandis drive for
+about 275 bucks right then there's the
+new OWC Thunderbolt 5 drive and it'll
+read and write at 6,000 megabytes per
+second damn but it's also 2 tabt for 400
+bucks so you know as a video editor
+who's passing around really large files
+like I'm going to want one of these at
+some point I'm going to wait for more
+options it's it's going to be great but
+I think the point of Thunderbolt 5 on
+these computers is that ecosystem of
+Thunderbolt 5 accessories drives docks
+interfaces that's going to be built up
+over time is great for future proofing
+the thing but it doesn't actually affect
+most people right away unless you're
+literally going to plug in three Pro
+displays right off the bat so then
+there's a couple other little smaller
+things you know the the new center stage
+ultrawide webcam that will follow you
+around I actually think it looks better
+which is nice the battery life is also
+rated to be slightly better thanks to
+the m4's improved efficiency so I think
+this is mostly going to come into effect
+under lighter workloads but you love to
+see it same size battery better battery
+life and then the screen has a higher
+SDR Max brightness of a thousand nits
+over the previous I think it was five or
+600 so if you're in a brighter space
+whether you have Nano texture or not
+everything is more readable and it turns
+out Apple quietly updated all these
+MacBook Pros to quantum dot displays and
+didn't tell anybody they're probably
+still on their way to OLED but yeah
+these improvements to quantum dot and
+efficiency and especially responsiveness
+it might just be confirmation bias but I
+feel like the responsiveness is actually
+noticeable to my eye so you might not
+upgrade just for the performance
+improvements but they are pretty good
+you might not upgrade just for the new
+nanotexture finish but it is really good
+and you you definitely won't upgrade
+just for Thunderbolt 5 or just for the
+slightly brighter display or the ultra
+wide webcam but I think all of these
+things stacked on top of each other
+combined
+is I think you you actually can justify
+an upgrade this year if you are
+regularly pushing this laptop to its
+limits you can justify this Improvement
+or at least that's what I'm telling
+myself M1 Max is going to be perfectly
+fine for another year though no question
+about that I also think it's really
+interesting that we basically have apple
+intelligence to thank for all of these
+new Macs basically having a new minimum
+of 16 gigs of unified memory it just
+makes all of the base Macs feel like a
+better deal now and the Mac Mini is
+amazing and there's more to come we know
+there's going to be more M4 chips on the
+horizon but is's a really good new
+laptop thanks for watching catch you in
+the next one peace
+[Music]

@@ -1,0 +1,2488 @@
+# E93: Twitter whistleblower, cloud security vulnerabilities, student debt forgiveness & more
+# https://www.youtube.com/watch?v=YRU4eNtL4g4
+
+I want to play the theme music for this
+episode. Okay, hold on one second. Here
+we go.
+If you let the Indian government plant
+spies in your office, give a little
+whistle.
+If you have too many bots, you can come
+up with your own metric MDA use.
+MDA use.
+When you want to incentivize staff to
+not look at the bots, give them bonuses
+based on DAUs, based on DAUs.
+Always let your bonus be your guide.
+When you're on the board and you see
+metrics that you don't like, turn a
+blind eye.
+TURN A BLIND EYE.
+OH, SORRY. SORRY.
+OH, I just got subpoenaed.
+THE SHADOW EVERYBODY'S GETTING
+SUBPOENAED AGAIN.
+THIS is J Cal AT HIS BEST.
+WE got to stop this. You know, we're
+going to get ourselves into much
+trouble.
+You let your winners ride.
+Rain man, David Sacks.
+And I said, we open sourced it to the
+fans and they've just gone crazy with
+it.
+Queen of quinoa.
+This is going to be the story of 2022
+for sure. Right before I guess the big
+case between
+Elon and Twitter is about to happen, I
+guess in October at some point. A
+Twitter whistleblower
+has come forward and dropped a nuke into
+the middle of
+what was basically the story of the year
+in business, I think. The former head of
+security hired by Jack himself and
+incredibly well-respected
+Peter Mudge Zatko. He's referred to as
+Mudge. One of the most respected people
+in uh the security industry. Again,
+recruited by Jack in 2020 after a team
+of hackers, you may have remember, took
+over all these verified accounts, Obama,
+Biden and and and Elon's account as
+well. And he was um head of security
+until January of this year, 8 months
+ago.
+And he claims through explosive
+documents, a huge document dump, that uh
+Twitter execs ignored these Twitter
+executives ignored multiple security
+vulnerabilities. Now, why is this
+important? Well, obviously, if Obama,
+Biden and other heads of state have
+their Twitter handles, they could say
+something that could cause an
+international incident and that's
+actually happened uh with hacks before.
+He also says they were not following
+even the most basic security protocols
+like safeguarding staff access to core
+software. Of course, all of this comes
+after there were uh Saudi
+infiltrator spies essentially inside of
+Twitter. I mean, the list of things here
+that he is alleging is truly colossal.
+He He dumped these documents to the
+Department of Justice, the SEC, Congress
+and uh the Washington Post. He alleges
+that the vulnerabilities make Twitter
+extremely vulnerable to foreign spies
+hacking and disinformation campaigns.
+And perhaps most importantly to the uh
+acquisition, the complaint also adds
+that Twitter's policy towards fake
+accounts incentivize quote deliberate
+ignorance by undercounting spam accounts
+and giving bonuses to execs for
+increasing users but not finding bots.
+Sacks, your thoughts? I mean, on this we
+we talked about your uh subpoena
+or whatever that was. Uh
+No, it was a subpoena. I'm being
+depositioned.
+It's uh
+having a deposition? Yeah, they want to
+they want to dep- depo me, too, which is
+kind of amazing. But, let's let's save
+that cuz I think this is um more more
+newsworthy.
+So, you'll recall on a previous show, we
+talked about this idea that if Twitter
+sues Elon to go after the kill fee or to
+go after damages, the question will very
+rapidly become about whether Twitter has
+a bot problem and will discovery reveal
+documents that show that Twitter
+executives knew or should have known
+there was a problem.
+And so, I said, you know, the question
+will very rapidly become what did
+Twitter executives know and when did
+they know it? Now, I couldn't have
+predicted that this whistleblower would
+come forward, but what he's basically
+saying is not only is there a bot
+problem, there is a cover-up of the bot
+problem. He's accusing the company of
+positively Nixonian
+uh tactics here. So, just to build on
+what you said, J Cal,
+he said that Twitter executives don't
+have the resources to fully understand
+the true number of bots on the platform
+and their executives are disincentivized
+to count them properly because doing so
+would negatively affect their bonuses.
+So, I didn't know that their bonuses
+were in any way tied to uh to this bot
+issue. So, he's basically he's making
+the Upton Sinclair argument that it's
+hard to get a man to understand a
+problem when his salary depends on not
+understanding it. So, that's part of
+what he's saying. He's also saying
+that he's a he's accusing Twitter CEO
+Parag Agrawal directly. Let's just say
+these are allegations, right? These are
+not proven yet. Uh but, here's what he's
+saying. Basically, he's saying that
+Parag and his lieutenants repeatedly
+discouraged him from providing a full
+accounting of Twitter security problems
+to the company's board of directors.
+They basically prevented him from
+producing a written report. He also says
+that the company's executives ordered
+him to knowingly present cherry-picked
+and misrepresented data to create the
+false perception of progress on urgent
+cybersecurity issues. He also alleges
+that they went behind his back to have a
+third-party consulting firm uh their
+report scrubbed to hide the true extent
+of the company's problems. And as a
+result of this, he's basically
+saying that Twitter executives committed
+securities law violations by making
+material misrepresentations and
+omissions in SEC filings. And this is
+what got Elon to to sort of commemorate
+Zatko's revelations with one of his
+trademark memes, which was the meme of
+Jiminy Cricket singing give a little
+whistle from the film Pinocchio. Which I
+think becomes the cold open here.
+Exactly. Which just became our cold
+open.
+Um so, yeah, look, these are very
+serious allegations. They're not proven
+yet. He's working with the same group
+who worked with Frances Haugen and
+I certainly question some of the things
+she was saying. So, I'm not going to
+automatically accept on faith everything
+he's saying.
+But, I think by the same token, because
+he's working with groups that backed
+Frances Haugen, who was very much not on
+the free speech side of this debate, I
+also think you can't just accuse this
+guy of being an Elon stooge. This guy is
+a respected cybersecurity
+authority. He's one of these like white
+hat hackers. He's somebody who was an
+early hacker
+If you were to ask before all of this,
+before he worked at Twitter, like who
+would you want as your chief security
+officer, you know, give me a short list,
+he'd be on it for any company. Right.
+One of the most respected people who
+points out vulnerabilities. Like,
+Chamath or Freeberg, I have a question
+about corporate governance and what
+seems to be a dysfunctional relationship
+here. You have Jack hire somebody to
+solve the security problems, then when
+presenting to the board, he's not
+allowed to tell the truth and they the
+board has given incentives to the
+management team. He's a top five, top
+seven member of the management team. So,
+what's going on here with this
+disfunction where he's hired to tell the
+truth, to fix the problems, the board is
+turning a blind eye to it, and maybe the
+management team is not giving the board
+the data they need to make better
+decisions. Who Who
+How do you game theory this? Yeah, I'm
+not sure that it's you can come to all
+those conclusions.
+Yeah, I'm not coming to the conclusion.
+I'm just my mind is wandering of how
+this I read comes up. I read parts of
+of his whistleblower. I can't claim to
+have read it all. It actually isn't
+super supportive of Elon's case.
+The most problematic thing that he
+points out
+is the following and this is a quote
+from his complaint. He said Twitter
+quote already doing a decent job
+excluding spam bots and other worthless
+accounts from its calculation of mDAU.
+At best, he's alleging that Twitter
+omitted details, not that it lied
+directly. So, if you kind of take that,
+I think what he's really pointing his
+sights on are, as you said, disclosures
+that have nothing to do with the spam
+issue, but have a lot to do with
+security. And that is something that
+typically in a in a public company board
+filters up through the audit committee
+typically that gets a read out, right?
+Once a quarter from the rep from the
+right people who talk about here's our
+cybersecurity threats and
+vulnerabilities, and then there's a read
+out from that committee chair
+to the board. And then those are noted
+um in your quarterly
+uh in your quarterly reports that the
+secretary
+writes down. So,
+I think part of why this guy may not
+have had the audience is it was also
+written that he was a pretty terrible
+manager and there were hundreds of
+people in his organization who were just
+kind of kind of running here and there.
+And so, you know, you guys have all been
+in the situation where we hire somebody
+who is an exceptional performer
+and then we miscast that person by
+putting them in a point of leadership
+and and being a team manager versus um
+you know, a single kind of like um
+product or engineering expert. And it
+seems that there was a part of that at
+play as well, which decayed the ability
+for management to to have enough faith
+and trust in this guy to put him in
+front of the board. So, and that's all
+that's just come out in the last few
+days. So,
+I don't know. My My reading of the
+whistleblower claim is really that
+this is the kind of thing that companies
+like Facebook and Google and others have
+had issues with the FTC in the past.
+They typically settle those claims. They
+pay a fine. Snap.
+But, those things take 3 to 5 years
+to play out. So, I suspect
+that this body of content more leads to
+that outcome than is a smoking gun that
+really helps Elon. In fact, this the the
+fact that he's actually affirmatively
+stating
+that their calculation of mDAU is
+actually pretty decent actually hurts
+the claim that Elon is making.
+I don't I don't know if I agree with
+that, actually. Okay, go ahead, Sachs.
+So, I I agree with with Chamath that the
+claims he's making are far broader than
+the bot issue um and far broader than
+the issues that Elon's raised. So, I
+agree with you about that, Chamath.
+However, I don't agree that what he's
+saying isn't specifically helpful to
+Elon's case. So, what he said is So,
+this is from a CNN Business article. He
+said um Zatko's disclosure argues that
+by reporting bots only as a percentage
+of mDAU rather than as a percentage of
+total number of accounts on the
+platform, Twitter obscures the true
+scale of fake and spam accounts on the
+service. A move Zatko alleges is
+deliberately misleading. And then the
+CNN article
+you're saying here, Sachs, it just to do
+the math, the denominator matters here.
+If the denominator was all accounts, the
+percentage of bots would be much higher.
+If the denominator is monthly mDAUs,
+whatever they created, it would be a
+much lower denominator and the
+percentage would change. I think is what
+you're
+I'm just reporting what what CNN is
+reporting in terms of what Zatko's
+alleging. I just want to get it out on
+the table. CNN broke the story along
+with one other news source.
+Washington Post. Washington Post, yeah.
+Basically, what happened is this guy got
+fired in January and started working
+with these whistleblower lawyers. They
+put together a big report and then that
+report got leaked to the Washington Post
+and CNN as well as people on Capitol
+Hill. So, that's kind of what happened
+here. So, CNN goes on to say
+Zatko says he began asking about the
+prevalence of bot accounts on Twitter in
+early 2021 and was told by Twitter's
+head of site integrity that the company
+didn't know how many total bots are on
+its platform. He alleges that he came
+away from conversations with the
+integrity team with the understanding
+that the company had, quote, no appetite
+to properly measure the prevalence of
+bots, end quote, in part because if the
+true number became public, it could harm
+the company's value and image. So, this
+is again the Upton Sinclair problem that
+they're I mean, then at a minimum,
+David, you have to agree this guy is
+basically speaking on both sides of his
+mouth. I mean, these are both direct
+quotes from his complaint. So, his
+complaint at best is very confusing and
+a little schizophrenic. Well, it's also
+just coming out. So, there'll be more
+data that that comes from it.
+the way, I don't I'm I'm not saying that
+I believe him or disbelieve him, but I'm
+saying if you if you look at the quotes,
+the quotes aren't the smoking gun one
+would want if one was trying to Look, I
+think we have to remember the the
+lawsuit has really nothing to do with
+this problem. The The lawsuit really
+boils down to one very specific clause,
+which is the pinnacle
+question at hand, which is there is a
+specific performance
+clause that Elon signed up to.
+Right? Which, you know, his lawyers
+could have struck out and either chose
+not to or, you know, couldn't get the
+deal done without. And that specific
+performance clause says that Twitter can
+force him to close at 5420 a share.
+And I think the the issue at hand at the
+Delaware Business Court is going to be
+that because Twitter's going to point to
+all of these,
+you know, gotchas and disclaimers that
+they have around this bot issue
+as
+their cover story.
+And I think that really, you know, this
+kind of again builds more and more
+momentum in my mind that the most likely
+outcome here is a settlement where
+you have to pay
+the economic difference between where
+the stock is now and 5420, which is more
+than a billion dollars,
+or
+you close at some number below $54.20
+a share.
+And I think that that is like, you know,
+if you had to be a betting person,
+that's probably And if you look at the
+the way the stock is traded and if you
+also look at the way the options market
+trades, that's what people are assuming
+that there's a 7 to 10 billion dollar
+swing.
+And if you impute that into the stock
+price, you kind of get into the $51 a
+share kind of a an acquisition price.
+Again, I'm not saying that that is right
+or should be right. That's just sort of
+what the market says.
+Friedberg, what's your take on this? You
+find this person credible, highly
+credible, and how damaging do you think
+this is to Twitter independent of the uh
+deal to sell the company? I think
+there's two tests. One is the
+materiality of what they've reported.
+So,
+and really that comes down to just the
+um
+the mDAU reported number. So, if there
+really is some misstatement, knowing
+misstatement based on what he's saying,
+that's an issue. The other one is the
+the duty of care responsibility of the
+board, meaning
+um did the information that he's
+providing actually find its way to the
+board? If it was blocked by management,
+you know, it's it's it's a judgment call
+on, you know, whether or not management
+was trying to deceive or whether they
+were trying to investigate and identify
+more. If the information was brought to
+the board and the board did not act,
+then there's an issue with the board's
+meeting their duty of care
+responsibilities
+of the company. And that's really what
+He did pitch the board at some point or
+explain this to the board, but not in
+writing.
+Yeah, if what he's claiming
+did not make its way to the board, then
+it's hard to say that the board was in
+breach of their duty of care.
+If the CEO
+And if the if the CEO blocked it, then
+there's a question on what Then the CEO
+can be fired, right? Then there's a good
+case for the CEO to be fired. I see
+So, I I see, you know, probably one of
+three scenarios here. One is, you know,
+nothing happens. Two is that the board
+is actually
+violating that, which I doubt knowing
+this board. I mean, knowing who's on
+this board.
+It's probably more likely that the CEO
+or some executives that blocked this
+information from getting to the board,
+the board then has to act now that they
+have the information and they say, "Hey,
+you blocked this information from
+getting to us. We need to act." And
+maybe they remove the the the leadership
+that was responsible for that. Sachs, in
+terms of board governance, how much of
+this has to do with the fact that nobody
+really owned on the board any
+significant equity
+in Twitter? Is that true?
+Yeah. I mean, I think Jack on the board
+was the highest, right? He owned 2 or
+3%.
+did Silver Lake own? Jack owned Silver
+Lake. Egon's on the board. I mean, there
+there there are owners on the board,
+right?
+The The majority of the board Yeah, were
+low. To to be clear, Zatko doesn't seem
+to be pointing his finger at the board.
+Um in fact, quite the contrary, he's
+saying he wasn't allowed to present to
+the board in the amount of detail that
+he wanted in written form like he
+wanted. So, in a way, he seems to be
+exonerating the board. He is pointing
+the finger at Twitter executives. And
+the timeline here is instructive.
+Basically, what happened is he was hired
+by Jack Dorsey back when Jack was CEO.
+This is in, I think, um November of
+2020. And at that time, Jack had Zatko
+report directly to him. He actually took
+responsibility away from these issues,
+away from Parag, who was running
+engineering, gave it to Zatko. Zatko
+reported directly to him. Now, fast
+forward about a year later
+and Jack steps down, Parag becomes CEO,
+and then 2 months later, Parag fires uh
+Zatko. And it's in that time period,
+that couple of months, where Zatko
+alleges that he's prevented from
+providing a written report to the board,
+that Twitter executives instruct him to
+cherry-pick, that they basically
+um try to amend this third-party
+consulting firm's report in order to
+make the situation look better in order
+to hide hide the extent of the company's
+problems. So, I think this is I think
+the allegations, as far as they go, are
+mainly a problem for Twitter executives.
+And And look, I you know, I don't know
+the truth these things. They're just
+allegations. Uh I think this guy is a
+respected sort of white hat hacker in
+the cyber community. At the same time, I
+don't know, maybe he is a bad manager or
+maybe there are other reasons for moving
+him.
+Could be a bad manager and give me
+telling the truth, right? Yeah, and you
+can't ignore the fact that under
+whistleblower laws, if Twitter gets
+fined as a result of these allegations,
+he could get 30%. So, listen, we we
+don't know the truth of it. However,
+I do think that this whole thing is a
+windfall for Elon's case
+because it does seem to provide
+substantiation
+for Elon's assertion that there's a bot
+problem at Twitter. Now, And a cover-up
+about it. And a cover-up about it,
+exactly. And a cover-up that would
+basically potentially invalidate the
+company's
+SEC disclosures on the subject. Now,
+there's a question there's a question of
+law and a question of fact with regard
+to Elon's case. So, in other words, at
+the end of the day, what they're going
+to be litigating in Delaware is a
+contract dispute. Is Elon contractually
+required to close? And Elon's assertion
+is, "I'm not because this bot issue."
+So, there's a question of law where if
+if everything Elon says about the bots
+is true,
+is he required to close? And I don't
+know what the legal ramifications of
+that are. But, I think with respect to
+the question of fact, which is is Elon
+right about the bot issue? There's no
+question that this is a bombshell that
+can only help his case. By the way, to
+your point, the the the the was kind of
+pricing in
+a 70% likelihood of this thing closing
+if you looked at just how all this stuff
+was trading and it went down to 60% once
+that whistleblower report came out and
+it and people had a chance to digest it.
+So to your point, it definitely moved
+the goalposts a little bit towards to
+what in Elon's favor.
+There is you know an important thing to
+point out here which Sachs just touched
+on. There is a whistleblower program
+that was created in 2012 and by the SEC
+as part of Dodd-Frank I believe or in
+part of the evolution of Dodd-Frank
+and they've given out now over $1
+billion in whistleblower awards. These
+awards come out of the SEC fines. So you
+often wonder like hey they give this
+huge SEC SEC fine who got it? Well it
+turns out whistleblowers now are
+massively incentive because if you're a
+whistleblower it's a career ending Jason
+you're not you're not saying the other
+part which is when you go to these
+organizations to now help develop a
+whistleblower lawsuit what has actually
+happened is you're not whistleblowing
+moral or ethical breaches. You're
+whistleblowing things that can come back
+to an issue that the SEC and the FTC can
+make an issue of because that's where
+the financial fines come and that's
+where the remuneration and motivation.
+So for example like you could have a
+company that's illegally
+I don't know killing dogs to horrible.
+But you know the whistleblower claim
+will be about you know their disclosures
+in a 10K.
+Of how many dogs they killed to the SEC
+right in this case you know how many
+what did they tell the yeah and that's
+why he gave this to the SEC DOJ. The
+other interesting wrinkle here and by
+the way there's been two the
+whistleblower program I did a bunch of
+reading on it this week.
+They also don't disclose who the
+whistleblowers are. So this isn't a case
+where you have to come out like Francis
+did or or Mudge did. You a lot of these
+awards are being given quietly. So there
+and there's been two rewards over a
+hundred million dollars and they don't
+say
+what the award was based on you know who
+did who who the whistleblower is or who
+the company is. They've been doing this
+in a very stealthy way and it seems to
+be highly effective. The big difference
+I think with Francis compared to this
+one is Francis just a PM you know who
+was not a top five or ten employee and
+not even close to that. This is a top
+five top seven employee who had access
+to the board and was giving reports to
+the board at least orally. The final
+point on this I would like to get
+everybody's
+commentary on if it is true
+that they essentially
+were forced Twitter was forced by the
+Indian government to put a government
+agent on the payroll. I think agent
+means spy. How explosive is that and
+then how many other countries that to me
+is the most important thing that is not
+getting nearly enough coverage. It's
+like you had a government come to a
+company that's based in America
+and it's it's not the United States
+government that did it and basically
+said we need you to place an agent of
+our intelligence services inside of your
+company and it seems like they were like
+okay where do you want them to sit?
+Now Sachs if that's true would I wonder
+if they would be required to tell the
+CIA and our government that their arms
+being twisted.
+Like
+this seems unprecedented to me and if
+they didn't
+well I think it's true again this is all
+alleged so but if true Sachs what I
+think the bigger but no Jason you should
+also ask the next one which is if they
+did it to Twitter which is kind of small
+what about the big honey pots of users?
+Apple Google
+TikTok snap and what about countries
+outside of just India? What about
+the United States? No I mean what about
+the United States?
+Well yeah we have access to the stuff
+you know through the courts. There's
+supposed to be a process there's
+supposed to be the process is you go to
+court and you get a warrant not that
+it's a high bar but
+a prosecutor has to go show probable
+cause and get a search warrant present
+it to the company and then they turn
+over the data. This you're you're right
+it's explosive in the sense that what
+they're saying is that these government
+agents this is what Zacco says according
+to Time magazine the purported agents
+had direct unsupervised access to
+internal information.
+So which I think means DMs when the
+accounts are created who owns which
+account the IP addresses that's what I'm
+guessing
+they had access to which is you you do
+not want to trust anything don't put
+anything in your DMs folks. I'm guessing
+what it doesn't mean is the Twitter menu
+in the cafeteria.
+Yeah no.
+Yeah not that I mean not that anybody's
+been to that cafeteria in three years
+anyway. I mean there's literally
+$47 olive steaks. They had they had
+direct unsupervised access to the salad
+bar.
+I think I think you can basically I
+think you you have to make an assumption
+that if if
+governments are doing this to one
+company they're doing it to all
+companies. Yeah but you would think
+right
+would put up a fight or Apple would put
+up a fight.
+But who knows? You think they put up a
+fight when they went into China? The
+opposite.
+Don't you think they do the opposite?
+Well actually what they did what there's
+actually even sneakier way to do it.
+What Apple did when they went there is
+they said we're not providing cloud
+services in China.
+But all the cloud services are provided
+by this third-party company. So then
+they could have plausible deniability.
+This is about
+how you this is
+I'm asking you a question. Do you think
+that
+foreign governments have put pressure on
+the largest American tech companies to
+place agents and do you think they exist
+in there?
+They've definitely put to the first part
+they've definitely put pressure we see
+that obviously. Then the question is
+would our would the would Apple or
+Google do this and not inform the
+government or not put up a fight? I
+don't know. Well I think it's fair to
+say that the the Senate Intelligence
+Committee is going to hold Twitter and
+have like a closed-door meeting and then
+the question is you know will they haul
+everybody else in and is just is
+I think what what is what is an
+important question is is this a durry
+gurr kind of business tactic at the
+highest levels of every company and we
+just don't know whether or not typically
+not read into it and we would never know
+in the absence of this whistleblower
+thing. And my question is do does our
+government know that our companies are
+acquiescing to these governments? Well
+that's been a problem for a long time
+actually. So there was an op-ed by a
+Microsoft executive talking about this a
+number of months back where the argument
+was well the government has to go get a
+search warrant to get your data from
+these companies but these companies
+don't put up a fight like they don't
+they don't challenge the warrant at all.
+And why? Because they don't have an
+interest they have an interest in in
+being cooperative right? The article was
+basically saying that if you're the
+subject of a search warrant meaning
+they're going to Google to get
+information about Jason the government
+should have a duty to inform Jason so
+that your lawyers can go challenge it
+and that was the legal change that
+needed to be made. We had this
+conversation I think last year.
+That is a change that should be made
+because in the old days when the
+government would present you with a
+search warrant they'd have to go to you
+because all of your documents were in
+your possession. They'd be at your
+office they'd be at your house so they
+would come knocking on your door give
+you the search warrant you could give it
+to your lawyer they could challenge it.
+That doesn't happen anymore. Now the
+government just goes and gives a search
+warrant to a big tech company cuz your
+data's in the cloud but their argument
+is you don't own that data the big tech
+company does. The big tech company has
+no incentive to fight the government and
+they just get access to all of your data
+and you don't even know that you're
+being investigated. It's not an argument
+you agreed to that when you sign their
+terms of service. Yeah. The current
+situation is bad enough that essentially
+you have very little protection and
+rights over your data. But what's
+happening here the the allegation is
+even worse which is that government
+operators are working with the company
+in a way that provides them access
+without them even getting a search
+warrant. They can just spy on their
+ex-girlfriend their you know
+brother-in-law whoever. They can just
+spy on a celebrity do whatever they
+want.
+I'd always assumed that
+this was happening covertly meaning like
+look if you're a tech company and you
+know you have a very bright I don't know
+PhD on a visa and you hire that person
+to work in computer vision. I'm just
+making this up.
+How do you really know that that person
+is not an agent of another foreign
+country? And obviously the overwhelming
+majority are not. But once you have
+hundreds or thousands of people
+you know that that you brought into your
+company all it takes is one person. You
+know for example we just saw I think in
+Apple
+there were two people that were just
+recently arrested for stealing all of
+Apple's autonomous
+auto
+data and documents and design schematics
+and all of that stuff and one of the
+guys was
+arrested right before he was trying to
+fly back to China.
+And so somehow they figured it out they
+were able to get him. He was not a US
+citizen but then another guy that did it
+was a US citizen but both were of
+Chinese origin. It just goes to show you
+that the covert nature of industrial
+espionage is probably at an all-time
+high right? And I think that's that's a
+risk that
+every company has to manage and do the
+best that they can. But this is
+different. This is an overt risk. This
+is just an overture and saying open the
+door give us a badge we're coming in and
+this is why I think you have to deal
+with this case very delicately and in a
+different way. Yeah. And for people who
+don't know Google does what's called the
+transparency report. Twitter also has
+one. So they they do try to put out by
+category search warrants subpoenas etc.
+Exactly how many warrants they're
+getting and the tech companies are at
+least trying to be transparent about it
+to the extent they can. But this is
+going to lead to a lot of people moving
+off of the cloud I predict.
+We're seeing
+in fact Apple is now storing your data
+and a lot of your privacy information
+locally on your phone and if it's
+encrypted they can't hand it over as we
+saw with the
+the terrorist shooting in it was in
+Bernardino where they couldn't unlock
+the phone and they went to the Israeli
+spy company to do it. So,
+you know, I think I think the companies
+here, at least in the United States,
+want to defend their users, but this is
+could be
+uh make people rethink the cloud. And
+I've seen a couple of pitches from
+startups
+you're confusing issues. Of course,
+they're going to try to defend their
+users in the United States, but what if
+you have if you let somebody into a
+different country and that it's not as
+if it's not as if those servers aren't
+accessible.
+I'm not confusing issues here. I'm I'm
+I'm just talking about the United States
+here for a minute. I do think you're
+going to see people buy mini servers to
+put uh or rent their own cloud services
+that are encrypted and impossible to
+unlock. And so, look for that trend to
+come or more companies to encrypt it and
+say, "We don't have the keys, Chamath."
+So, Isn't it crazy that like, you know,
+we spent the last 20 years pushing the
+cloud and the thing that may actually
+unwind the cloud is just the utter lack
+of privacy that we all have now?
+I've just had like we've just created
+these massive honey pots where, you
+know, any state or non-state actor can
+essentially just have an incredibly
+detailed understanding of who you are
+Yep. and why? Because we weren't willing
+to pay five bucks a month for storage.
+Everything needed to be free. Isn't
+Isn't this part of Isn't this part of
+the
+uh philosophy behind decentralized
+services
+that, you know, it's part of it's
+distri- Yeah, I mean, I don't like using
+that term, but just decentralized
+services where the data doesn't sit on
+some centralized enterprise-controlled
+servers but the data is distributed
+either on a chain or in your phone or in
+some way
+um you know, your identity, your
+information, your content uh isn't uh
+isn't centrally controlled.
+And that that fundamental principle may
+actually come to kind of bear over the
+next couple of years and decades that a
+you know, that model Yeah, that that
+model is more appropriate for us, for
+me, and therefore, the services that are
+built that way are going to win in the
+market. The challenge is ultimately how
+do you finance those because those
+services
+Right? I mean, they they they don't have
+as much of an economic incentive.
+You have to pay for them. You know, if
+you're willing to pay five or 10 dollars
+a month for your privacy. Consumers are
+doing it, Freeberg. I I use the Brave
+browser and VPNs, and these are becoming
+a major category. Uh you hear it on
+podcast advertising all the time. Uh
+DuckDuckGo,
+Brave, and VPNs.
+VPNs are like VPNs aren't just for
+hackers anymore. They're like real like
+um
+privacy tools.
+up something that I think that's really
+important, which is that, you know, in
+over the last 20 years for all of us,
+we've been building these products on
+the internet, we've actually done a
+little bit of a disservice because we've
+basically created these expectations of
+consumer surplus.
+And we've never given people true sets
+of tradeoffs. We've always said, "Oh,
+you'll get more, and it's essentially
+free because we'll back into an
+advertising model that that supports us
+being able to give you more and more for
+free." But it turns out that it has some
+real consequences, and I do think that
+not enough of us actually understand why
+privacy is important. But when you start
+to hear these examples, and it'll be
+important to see what what the true
+details of this Twitter situation are,
+I think that the pendulum starts to
+swing in the other direction where we
+say, "Okay, you know what? I'll eat out
+at Chipotle one night a week less, and
+instead, I'm going to reallocate that
+money to making sure that I have, you
+know, some amount of privacy for
+it for 25 bucks a month, you know, two
+or 300 bucks a year, which is a big
+number for, you know, maybe the average
+Joe, but it's it's it's it's being
+packaged and bundled right now. So, that
+you're seeing the VPNs, the anonymous
+search engines,
+and the browsers all starting to bundle.
+They're bundling a set a suite of
+services. And so, I I think this is upon
+us now, and consumers get it, and they
+want to protect their privacy. So, and
+Apple has said this is going to be our
+reason
+for you to choose our cloud is that
+we're going to put the local settings
+We're going to put your data on your
+phone, encrypt it. We don't have access
+to it. Use Use Apple for this reason. Of
+course, they're also building a
+multi-billion dollar ad business at the
+same time in Apple News and their App
+Store. So,
+there's that. I guess we should move on
+here. We'll We'll see what happens with
+this. The other big news story
+that people are talking about this week,
+and we talked about, I guess, last year
+was student loan debt relief.
+Interestingly, uh about 85 days before
+the midterms,
+Joe Biden has decided to unilaterally
+give 10 to 20K of debt relief
+to people who have uh student loans. You
+have to have under 125K
+in yearly income as an individual, 250
+as a household.
+And
+the student loan pause program, which
+happened during COVID, has been extended
+to the end of this year. I'm not sure
+why.
+Turns out there's about They They
+explained why.
+Apparently, it takes four months for
+them to turn on their COBOL-written
+software that runs these loan servicing
+apps.
+So, I'm sorry. The change takes four
+months. It's going to take It's going to
+take four months to restart the software
+that that calculates your loan balance
+and is able to print a bill. We're so
+incompetent. Okay. Anyway, you have to
+apply for this. Um
+And as we know, student loan is student
+loan debt is 1.7
+5 trillion. Uh this is going to cost us
+another 300 billion.
+Can't imagine what's going to happen
+with this 10-20K, people buying NFTs and
+stocks and
+housing, and we're going to hit the uh I
+guess we're going to hit
+Bloomberg Bloomberg had a report that
+said that
+Look, we we we passed the Inflation
+Reduction Act. We talked about it last
+week, but one of the key pillars of that
+is that there's a
+300 billion of expected revenues coming
+in, and we essentially turned around and
+just gave that back um
+to a very, very small segment of the
+American population. Um Bloomberg's
+analysis was that it's going to create
+somewhere between 0.1 and 0.3% extra
+inflation on top of all of that. Um
+And so, you know, you really have to ask
+yourself like, what what was the White
+House trying to accomplish? I think
+number one,
+they made a campaign promise. And so,
+you know, I think Biden needed to make
+sure that he fulfilled that.
+But nobody was really happy, right? The
+progressives wanted something extreme.
+Everybody else said, you know, this is
+not really the right thing to do
+because it doesn't really solve the the
+the the root cause of what we're dealing
+with. You know, if It would have been
+much better if you'd said, "Hey, listen,
+um you know, we're going to make this
+stuff expungable on bankruptcy." That
+would have been really useful. Um What
+happens if you actually tried to I don't
+know, you were from the inner city, and
+you worked your ass off, you became a
+doctor, you have 300,000 in debt, but
+now you're a you know, a resident, and
+you make 126,000.
+Well, now you're you know, you're kind
+of SOL here. So, there's a lot of folks
+that they probably wanted to wanted to
+help that they didn't help. Then there's
+all the blue-collar folks who are like,
+"Why Why this giveaway only to these
+folks?" Then there are the people that
+paid off their loans thinking, "Why did
+I pay my loans off?"
+Then there's the incentives that it
+creates for colleges, which is, "Well,
+I'm just going to keep jacking up
+tuition because if they did it once,
+they may do it again."
+So, all of these things I think are sort
+of a little bit of
+you know, uh it's a little bit of a
+head-scratcher. And then the last thing,
+which we can talk about at the end, is
+I don't think this is what gets people
+out to vote, and I don't think it's what
+people care about ultimately at the
+polls, which if there was a political
+calculation to make, that's important.
+And specifically,
+when you look at what happened last
+night in a bunch of these districts,
+every progressive candidate got
+absolutely shellacked.
+They lost across the board. And so, the
+progressive talking points around this
+stuff, fundamentally, when push comes to
+shove, doesn't work for Democratic
+voters. And then second is there was a
+really hotly contested seat,
+which was a Democrat versus a a
+Republican. Uh I think it's Pat Ryan
+versus this guy, Marc Molinaro,
+the Republican. He was leading the
+entire way, and then this guy won 51-49,
+and this is a very centrist,
+down-the-middle
+Dem. So,
+all the signs are like, this may not
+have been the smartest thing to do, but
+I don't think Joe Biden had a choice
+because he made the promise, and he had
+to live up to it. Freeberg, is this a
+fair thing to do, a smart thing to do, a
+cynical thing to do to buy votes? Where
+Where do you fall down on this issue?
+This is absolutely moronic.
+I think that the fact that
+8 million households are eligible for
+this relief
+and 10 to 20,000 dollars as relief uh is
+provided to a a minority of Americans
+is uh exactly what Chamath said, which
+is kind of distorted politics at its
+worst.
+There uh this is a 300 billion-dollar
+bill to the US taxpayer.
+And the ultimate beneficiary of that
+bill, while we all might want to say
+it's the people that are getting debt
+relief that have taken out these student
+loans, that money was transferred to
+somewhere. And you know where it was
+transferred to? University endowments
+and the profit uh and the and the
+pockets of for-profit uh educational
+institutions. If there were a free
+market for education in the United
+States, and the government was not
+involved in the process of funding and
+supporting the educational
+infrastructure in this country,
+individual citizens would have the right
+and the obligation to make decisions
+about whether or not the money that
+they're spending on tuition actually has
+a positive ROI for them. By spending
+10,000 or 100,000 dollars, am I going to
+make more than that much money back when
+I graduate? And unfortunately, we've
+lulled our citizenry we've lulled our
+country into complacency where that
+decision and that calculus is no longer
+required because Uncle Sam is there to
+give you all the money you want to go to
+college, and the hungry money-hungry
+institutions that are there to educate
+you are taking that money, putting it in
+their endowments, or in the pockets of
+their shareholders. And at the end of
+the day, it turns out that that decision
+may not have been the best decision. And
+we're no longer holding ourselves
+individually to take responsibility for
+the decisions that we've made, and we're
+creating misincentives because of the
+government programs that have been
+created. By telling people, you need to
+get a higher education, the government
+is going to pay for it for you, and it
+doesn't matter if it does or doesn't
+work. Because at the end of the day, if
+it doesn't work, we're just going to pay
+it back for you anyway.
+bail you out.
+And there's And there's And there's a
+middle class in the United States of
+America that is going to end up paying
+the tax bill, primarily, because that's
+where most tax dollars come from,
+for the minority of people that made a
+bad decision, and it's not necessarily
+their fault. They made that decision
+because the infrastructure in the system
+was set up to tell them
+go to college, get a good degree, it'll
+always result in having a good life,
+you'll make more money. And the And the
+reality is that they aren't, and that
+they don't. The ROI for many of these
+degrees has been negative.
+You make less money than you would have
+if you were actually in the workforce,
+earning an on-the-ground experience, and
+progressing your career. You do not need
+a degree in philosophy or history or
+German studies to be able to go and be
+effective in the technology workforce,
+or in the services workforce. And I
+think that we're seeing that play out.
+The biggest challenge now
+is if we're going to provide this loan
+relief and not reform the educational
+infrastructure and the and the
+requirements for whether or not an
+educational system is eligible for
+support from the federal loan program,
+we are not actually solving the
+fundamental problem. We are keeping this
+gravy train running, and we're not
+actually getting to the root cause of
+where this money is flowing. And this is
+exactly what happens. I will rehash my
+point that I've made 100 times. At the
+end of empires, everyone sees that the
+money train is leaving the station, and
+everyone jumps and grabs what they can.
+And that's exactly what's going on. We
+think that we're a rich nation, but
+we're becoming complacent. And this is
+unfortunate, and it's a really sad sign.
+I think we need to fix this educational
+infrastructure. We need to make
+eligibility requirements for whether or
+not loans are actually going to have a
+positive ROI for students. And then
+individuals ultimately need to be
+educated on that and made held
+accountable to whether or not they're
+making the right decisions for
+themselves. Sachs, should each American
+pay a thousand dollars to let these
+eight million people off the hook?
+Because that's what this is going to
+cost. No, of course not. I mean, I agree
+with everything And people say I don't
+like you. I just gave you the softball
+of all softballs come
+No, I mean, look, I think this is an
+issue where all four of us are on the
+same page. I agree with everything that
+Chamath said and what Freeberg said. I
+mean, this bill is unfair, or it rewards
+relatively well-off college grads over
+working-class people. It's going to add
+300 billion to the deficit. I mean, Joe
+Manchin should feel like a sucker right
+now, because they just spent the 300
+billion of supposed savings that he just
+agreed to.
+I just to add, it's it's
+unconstitutional. I mean, that the
+Constitution expressly says, "No money
+shall be drawn from the Treasury, but in
+consequence of appropriations made by
+law." So, I don't understand how Biden
+can even do this by an executive order.
+I expect this will be challenged and
+taken to the Supreme Court. And I think
+there's a very good chance that it'll
+end up like Biden's other executive
+orders that were ruled unconstitutional.
+Remember, there was the vaccine mandate
+that he tried to do, and there was the
+eviction moratorium that he tried to do,
+and they were both ruled
+unconstitutional. I think there's a good
+chance that this will also be ruled
+unconstitutional.
+And And like like you guys mentioned,
+it's inflationary. I mean, these are
+basically stimmy checks, which we don't
+need right now. And it's going to make
+tuition go up, because the more
+government subsidizes something, the
+more those providers have an incentive
+to raise the cost. So, this is just a
+jump-the-shark moment, I think, for
+policy making. The question is, why are
+they doing it? And I think it really
+speaks to the nature of the Democratic
+Party today, which is the Democratic
+Party has shifted from being a
+blue-collar, sort of more economically
+populist party, economically left party,
+to being a professional class that is
+college-educated,
+culturally left, more woke party. And
+this is the ultimate example of that,
+where the Democratic Party is basically
+passing this payoff and giveaway to
+their sort of woke college graduates at
+the expense of their blue-collar uh the
+blue-collar part of their coalition.
+And, you know, a Democratic political
+scientist that I like to read, uh Ruy
+Teixeira, just today he had a blog post
+called The Democrats' Shifting
+Coalition, where he pointed out that if
+you look at polling, if you look at the
+generic ballot among white college
+graduates, they favor Democrats by 12
+points, whereas the white working class,
+which is to say non-college voters, they
+favor Republicans by 25 points. So, one
+of the biggest gaps in the electorate is
+college versus non-college. That is the
+fundamental gap. It's bigger than even,
+you know, than any other gap, than
+racial gaps or anything like that. This
+is really the key gap in the electorate,
+and this is a payoff to the basically to
+the foot the new foot soldiers of the
+Democratic Party. If you think about it,
+the old stereotype of a foot soldier of
+the Democratic Party would be a union
+representative. They were the ones
+getting out the vote. That person's been
+replaced with sort of a woke college
+graduate who joins the Democratic
+Socialists of America, and they go out
+and they're the ones pounding the
+pavement and and doing the ballot
+harvesting. So, there's been a real
+change in what this party is about, and
+I think that's the explanation for why
+they're passing this The MFAs Chamath,
+and then we'll go to you, Freeberg. The
+MFAs from Sarah Lawrence College have
+taken over the Democratic Party.
+Well, let me ask you guys Let me ask you
+guys a question. Yeah. When you guys
+graduated,
+uh everyone went to undergrad Chamath,
+you went to undergrad in Canada, right?
+I have no grad degree.
+Right. Neither um but when you guys
+graduated college, what do you think the
+ratio, 80/20, 90/10, 50/50, 0/100, was
+the first two years of experience you
+guys had in the workforce versus um the
+education and knowledge you you garnered
+in college? 90% workforce.
+90% workforce. First couple of years I
+went to school at night, so I was
+working while I was at school.
+Right. I was working while I was at
+school. 100 and zero. I I went to
+school, University of Waterloo, that has
+a program called co-op, where you have
+to alternate school and work. It takes
+an extra year to graduate, but you end
+up getting 24 months of um full-time
+work experience. And
+And you graduate with a lot less debt. I
+graduated with half the debt I would
+have otherwise. Sachs, I mean, do you
+feel the same?
+I mean, you went and got a law degree.
+That's different.
+I mean, look, I think that it used to be
+the case that people would go get these
+degrees, and they would take out these
+loans, because there was a perceived ROI
+of getting this education. And I think
+one of the deeper issues we have today
+is it's very unclear what the ROI is. I
+mean, what is the return of getting a
+degree in, you know, social studies or
+art history, or frankly some woke
+studies at one of these prestigious
+universities? Their graduates go out,
+and they're not especially qualified for
+a higher-paying job. And actually, I
+think one of the really revealing parts
+of of this executive order is not just
+the debt forgiveness part. We haven't
+really touched on There's another
+provision that caps repayment levels.
+So, basically, it says that the monthly
+payments on undergraduate loans be
+limited to 5% of monthly income. Now,
+who is that the payoff to? That is the
+payoff to the art history major from
+Amherst who ends up being a barista at
+Starbucks, you know, or the Democratic
+political operative who works for the
+DSA gathering votes. I mean, that is who
+this is a payoff to. Or the art history
+the Let me give the counterargument to
+you, Sachs, and I want to hear your
+response to this. So, the the
+counterargument is, "Hey, listen.
+The airlines got bailed out for a
+trillion dollars, you know,
+cumulatively. Um 2008 financial crisis,
+700 billion or something to that number.
+I'm going to respond There is a caveat
+to that, which is we actually made money
+on that bailout. I'm going to respond to
+this, yeah. Okay, great. And then number
+three, hold on. And number three, um
+airlines, banks, and then the Trump tax
+break, 1.5 billion. So, why can't a
+bunch of students get but 300 billion?
+That is the counterargument. Everybody
+We We don't complain when,
+you know, the rich people get bailouts
+and the rich corporations and airlines
+do, but now we're suddenly complaining
+about this little pittance here. What's
+your best response to that, Freeberg?
+Well, where are you getting that from?
+Larry Summers, former uh Treasury
+Secretary of the United States, had a um
+a tweet storm about this, and he said,
+you know, "The student loan issue arises
+arouses passion.
+Um here are some observations and some
+responses. There is no analogy with bank
+bailouts. Student loans are grants that
+cost the government money. The bank
+bailouts were loans at premium interest,
+in which the government actually turned
+a profit. And it's important to think
+about all government services being
+infrastructure funding, where you are
+funding some underlying tubing or
+mechanism that allows society and the
+economy to progress,
+versus making up for the dollar mistakes
+or decisions that were made in the past.
+I also have issues, not just with this,
+but with the issues of people buying
+homes in coastal cities that they get
+bailed out at the price of that home at
+the fair market price when a hurricane
+hits. Because they paid a premium taking
+on the risk of a hurricane or a flooding
+event hitting their home, why should the
+US government and the US taxpayer come
+in and say, "You know what? I'm going to
+reimburse you for the full value of your
+home," which frankly should have been
+50% of what you paid for it, because
+it's sitting on a coastline. And that's
+a big problem that we generally have, is
+we try and use the government as a
+system for providing bailouts to make up
+for past investment mistakes made by
+individuals and businesses. And I think
+that there's a very clear distinction
+that you can make when you decide
+whether or not a And we use the term
+bailout anytime we're spending money.
+But the reality is, if you're making an
+investment that has some payoff for
+economic growth and for people and for
+this country to progress in some
+measurable way, that is a good way to
+assess whether or not that is a
+reasonable investment versus saying,
+"You know what? I'm covering someone
+else's liability." And when you do that,
+we're actually burning money and we're
+putting ourselves deeper in a hole as a
+nation and making it harder to do the
+former, to make the infrastructure
+investments and make the investments
+that allow us to move forward. And I
+think that that's a really good way to
+clarify these things. And frankly, the
+list of things that people say, "This is
+fair. This This is not fair. Yad Yad
+Yad." Go down that list and ask yourself
+that question. Is it a positive ROI to
+progress our country forward, or is it a
+bailout for people that had some
+liability they took on that they can't
+cover? And I think for all those things
+that are unfair, a really important
+point, we cannot get caught up in the
+endless cycle of making up for other
+people's unfair uh um
+benefits that they got from this from
+this government. Because at the end of
+the day, that's a road to nowhere. We
+will burn through everything we have and
+everyone will scramble for money, and
+that's the state that we're in right
+now, where everyone's raising their hand
+and they're seeing $800 billion bills,
+$600 billion bills, COVID relief,
+pandemic relief, PPP loan relief, and
+everyone says, "Well, what about me?"
+And at the end of the day, everyone's
+"What about me?" is going to drive us
+into an infinite black hole that we will
+never get out of. And we have to change
+our mindset and take individual
+responsibility and recognize that the
+dollars that we're spending have to have
+an ROI for progression of us as a whole.
+And this is a really dangerous place
+that we're in right now. Sachs, if the
+if the I have two comments. Okay. Can I
+make Can I make Go ahead. Sure. You make
+your comments and then I'll ask a
+question to Sachs. Am I am I too
+monology today? I feel like I'm very
+passionate about this.
+you're doing great. I mean, I have the
+fact that you have passion about
+something other than the straight up
+video game, yeah. That almond milk gave
+you a little
+get up and go. Maybe four cashews going
+forward. Maybe not.
+really bugs me. Guys, this stuff really
+bugs me. I'll be honest. I'll look at it
+and I'm like, yeah. Yeah, I'm like,
+dude, like this stuff just it makes me
+feel like what are we doing? It just uh
+sorry, go ahead.
+Did you put chia seeds in your cereal?
+It was the goji Was it the goji berries?
+The goji berries. Easy on the goji
+berries, dude. That's a superfood right
+there. If you if you have if you have
+chia seeds in the morning, there's a
+huge BM that's about to hit. It's just
+you're just waiting for the wave to hit.
+Yeah, yeah, so I mean, for sure you're
+going to be I have two comments. Comment
+number one is I think the thing that
+shows that this could have been better
+is that it was completely silent on the
+ability to expunge your student loans in
+bankruptcy. The ability to discharge
+that is the single biggest change you
+could make to the system to be fair to
+everybody and introduce a better ROI
+risk scoring calculation mechanism. And
+why? Why? Okay, it's a great So, look,
+this is an all debt market.
+So, let me explain it. Okay, in all debt
+markets, right? Whenever you lend money,
+there is an assumption of risk that
+you're taking and that fits on a curve
+of highly likely to default, zero
+likelihood of default, and that
+manifests in a risk scoring, so a FICO
+score, but in the debt markets, right?
+And there's these companies that provide
+that, Moody's and S&amp;P. They say,
+"You're an investment grade debt. You
+know, you're a triple A plus. You're a
+junk debt, so that you're you know,
+you're a triple B minus or whatever."
+And depending on where you are, you pay
+different rates. This is the same in car
+insurance. It's the same in home
+insurance. It's the same in health
+insurance.
+But in all of those cases, if you go
+upside down, you can declare bankruptcy
+and you can discharge those debts. Here,
+we don't have that idea. So, if you go
+bankrupt for whatever reason, this debt
+will stay with you forever, which is
+deeply unfair. Second is if you actually
+flipped it and you could allow it to be
+discharged,
+then the companies that provided these
+loans would be forced to risk score you.
+And the reason why that would be so
+powerful
+is that that would then create the
+forcing function for universities to
+actually deliver what they promise.
+And so, who do you think is really
+against the ability to discharge in
+bankruptcy? It's the universities and
+the university endowments. So, you know,
+if I were progressives,
+the thing that I would have pushed more
+than a handout to a few people, which by
+the way didn't even, you know, really
+scratch the surface of the debt that
+they had anyways,
+and it also served to piss off everybody
+else,
+I would have focused on this bankruptcy
+issue because that is a meaningful
+lasting change.
+And the second is why don't you go and
+actually get a large portion of this
+money from all these university
+endowments because
+the longer that these folks
+run what is effectively a multi-trillion
+dollar asset management business,
+they're always going to treat education
+and the ROI that comes from it as a
+second-class citizen.
+Okay? And that is what I think is wrong.
+And if you were to just fix this one
+thing,
+and then even the threat of actually
+confiscating some of the $50 billion
+that Harvard has or the $49 billion that
+UT McCombs has, you would start or the
+UT system has, you would start to see
+the seeds of change where administrators
+would think to themselves, "I have to
+deliver something of value because these
+kids are getting loans. They're going to
+be risk scored, and I don't want to be
+the person that's like a low-end
+borrower, right? I'm not serving junk
+paper to the market. I want to serve
+people that are going to go and really
+drive a huge ROI." So then, Sachs, you'd
+have an alignment between the people
+giving the loan and perhaps the value of
+the degree. And so, you could say, "Hey,
+we'll give loans to STEM degrees at a
+different rate
+or a different number of them or a
+different amount of cash or a different
+interest rate than we would for, I don't
+know,
+you're getting a degree in philosophy or
+like I did psychology, right? We just
+give a different one based on the
+outcome. And that makes total sense to
+you, yes? Yeah, I I've said well for a
+long time that we should be allowing
+student debt to be discharged in
+bankruptcy just like any other type of
+debt, just like credit card debt, just
+like other types of debt. That's right.
+That would create some risk to the
+underwriter so that they would have to
+actually assess whether this person
+getting that degree would be able to
+repay the debt. But you have to ask the
+question, is it a bug or a feature that
+they're trying to remove market forces?
+And I would argue that this is
+deliberate, that progressives in the
+Democratic Party don't want there to be
+accountability for what you learn in
+college. Why? Because as I mentioned,
+it's these colleges that are putting out
+the foot soldiers of the Democratic
+Party. I mean, listen, there's a
+37-point gap in party preference just
+based on one variable, which is whether
+you are professional class or working
+class, meaning college degree or no
+college degree. And that spans across
+different racial groups and other party
+lines. So, the fact of the matter is
+that if you go to college and get a
+degree, you are much, much more likely
+to become progressive. Now, why is that?
+I think it's because a lot of these
+colleges have basically become
+reeducation camps. I mean, these are the
+woke madrasas of uh of cultural Marxism.
+God is a great quote. Wow, a woke
+madrasa. It's kind of like Harvard has
+become like Al-Qaeda.
+Sachs, who wrote who wrote that one for
+you? I see that. Yeah. Inferno came up
+with that line. Yes. But look, these
+places are woke madrasas, and what do
+they do? They graduate these people. I
+love that. They graduate the new clerics
+of our woke theocracy. These people go
+on to become the enforcers. They become
+suicide bombers. Yes. Sachs, exactly
+right. Like there it's not it's not like
+violent like that. But listen, we we
+look down on some of these theocratic
+societies, and we don't realize how like
+them we are. I mean, look, these kids
+who graduate from these woke madrasas,
+they go off to become the speech police.
+I mean, they go enforce community
+moderation at social networks.
+They become the foot soldiers. All
+right, let let me just make a
+Can I make a final point on this? Sachs,
+Sachs, let me say one thing. It's true,
+right? How else do you explain it?
+37-point gap. Okay, Sachs, Sachs, Sachs.
+So, so wait, so if you're in the
+Democratic Party, listen, if you're the
+Democratic Party, which is run by woke
+progressive political
+operatives, why would you want to defund
+the factories that are brainwashing more
+young students to basically join your
+um I think that the the university and
+the college degree has been used as um a
+heuristic
+uh for progression out of um blue-collar
+to white-collar. It says, "If you get a
+college And J Cal, you I know you can
+speak to this because, you know, you
+come from a family
+that that works blue-collar, and you
+know, you got a college degree, but I
+think there is this um
+you know, kind of
+assertion in the United States, and and
+and it has now become, one could argue,
+a meme that if you get a college degree,
+you're no longer blue-collar, you're now
+white-collar. And the reality is that
+the quality of that degree varies
+greatly based on where you go, the
+major, and the experience you get to
+accompany that degree. And as a result,
+you may not necessarily transfer from
+blue-collar to white-collar, but you
+have the degree, you say you're now
+white-collar, and then you're working a
+blue-collar job with $120,000 of debt.
+Um and so, that
+that heuristic isn't true. And what we
+need to examine is why that heuristic is
+no longer true and what we can do about
+it. Yeah, I mean, it's pretty Secondly,
+secondly, I do want to make a defense
+for college. I think that there there is
+an incredible benefit to broadening
+individuals' exposure to topics,
+research, um and areas that they may not
+have naturally been interested in or
+that they will not necessarily get
+trained in. And there's an important
+role that that educational
+infrastructure has in allowing us to be
+a more enlightened populace, meaning we
+can understand history, we can
+understand philosophy, we can understand
+the things that shaped our our world and
+our livelihoods and what makes us who we
+are today. And we can understand the
+sciences and the maths that affect us so
+we can better understand the world and
+the people around us. So, there is a
+role, but the real question is how do
+you integrate that educational role into
+a technical training program or into a
+real-world development program? Skills
+that that basically make an educational
+system more than just a check box that
+doesn't actually do anything for you,
+but gives you that exposure accompanied
+by and maybe that's the requirement with
+you know with federal loans is that
+there should be some skill or some I
+think I think the minute I think the
+minute I don't want to lose the
+important breadth of exposure that
+college is meant to bring to people.
+College is meant to bring Yes. And
+that's valid. Go ahead Chamath and then
+I'll I'll wrap up my final comment. No,
+I was I was just going to say I I really
+think people do not understand how
+how meaningful of a change it would be
+if if you were able to discharge your
+student debt in bankruptcy.
+It is the most powerful market function
+we could create to make these
+universities more accountable. And
+I think if you guys look at my annual
+letter, I put a chart in there, but you
+know, part of the problem that we have
+in these universities, these leading
+universities is that these have become
+graveyards.
+Okay, there is a gerontocracy that runs
+these things with an iron fist.
+And as these folks have stayed in these
+jobs for enormous amounts of time now
+40, 50 plus years, the average person is
+in their mid-to-late 70s now who are who
+are the administrators of our leading
+institutions.
+They are focused on running up
+endowments and they are focused on the
+power and the influence that comes with
+their position.
+So, I I implore anybody who has any
+ability to to actually achieve this
+change, there should not be a single
+logical person
+that should not support
+the ability to discharge student debt in
+bankruptcy. And you will identify
+the insider establishment by those that
+try to stop you. You will expose them.
+100% and I I just want to put a closing
+thing here for the people listening who
+have young people making these
+decisions. When we all went to college
+as Gen Xers, college was 9, 10, 11,000
+dollars a year in tuition and if you
+came out with 10 or 20K and you had an
+average job or a salary of double or
+triple that when you graduated, it
+seemed like a good deal. The ROI broke.
+Now, market forces are at work here. I
+just want to point out two of them.
+Number one, there is a website Grow with
+Google you can just look up right now.
+They're allowing people to get
+professional certificates and this is
+free. Uh and if you could pull up uh
+Grow with Google, they've identified
+five different paths to jobs.
+Uh one of them's digital marketing and
+e-commerce, one's IT support, data
+analytics, project management, and UX
+design. They have essentially
+looked at what's needed in the world and
+aligned a three-to-six-months online
+course for [&nbsp;__&nbsp;] free that'll get you
+a job. And you if you have executive
+function, the ability to sit down, shut
+up, and learn can do this first before
+you make the decision to go a hundred
+thousand dollars in debt and then get a
+fifty-thousand-dollar-a-year job. Here
+at these jobs average, you know, 60, 70,
+80K a year and you can do it for free.
+The next piece that the private market
+is doing, you and I looked into this
+Chamath actually together, ISAs, income
+sharing agreements.
+Uh we were lucky enough to invest in a
+company called Meritos. They are
+providing ISAs for a college, Colorado
+Mountain College, for nursing. What this
+means is they will give you your tuition
+for free. It's educate now, pay later.
+You If you go to one of these colleges
+for nursing, you get educated and then
+you pay it back and you're capped at
+paying back like two times whatever the
+loan is, one and a half, whatever the
+college decides, but they take the risk
+as opposed to Harvard with 40 billion
+that takes no [&nbsp;__&nbsp;] risk. And so, the
+free market I think can also solve this,
+but you have to sit down with your kids
+and say let's have an ROI calculation.
+At 20K in debt, you know, okay, fine.
+You got a philosophy degree. You can pay
+it off. Sacks, final question for you.
+I posted this thing in the group chat,
+but what do you guys think about this
+you know,
+Republican tidal wave becoming a
+Republican ripple? That's what uh
+That's that's what that's It was a It
+was an odd set of outcomes, don't you
+think for
+I mean, Biden Look, Biden has had a good
+run over the last few weeks. Um there's
+no question about it.
+audio cut out one more time, Sacks. Can
+you say it again?
+I'll say it again. The Cook Political
+Report says that the red wave looks more
+like a red ripple. No, I think it's I
+think it's right. Well, look, I I think
+a couple of things happened. So, first,
+Biden has got some wins legislatively. I
+don't think it's good policy. I don't
+think this executive order is good
+policy. I don't think the 750 billion
+climate that pretends to be an inflation
+reduction act, I don't think that's good
+policy. But nonetheless, he has
+delivered some goodies for his his base,
+for his donors and that has basically
+ameliorated the story in the press that
+Democrats are in disarray. So, you're
+not hearing that. In addition,
+I think Biden's got two things going for
+him, Dobs and jobs. I mean, Dobs,
+there's no question. Dobs has helped the
+Democrats quite a bit.
+It certainly has motivated their base
+and then the jobs report has been
+strong. Look, I think overall, the
+economic data is mixed. Real wages are
+not keeping up with inflation, but jobs
+have so far been strong. So, yeah,
+there's no question that Democrats are
+in a materially better position they
+were in June when it looked like a
+tsunami. That being said, the election
+still 10 weeks away and I think we'll
+have to see what happens and I think the
+economy is still in a pretty fragile
+state. So, 10 weeks is a long time. But
+yes, you're right.
+So, for what for what things are looking
+like right now, things are a lot better
+for Biden. And by the way, I do think
+the Republicans have some issues with
+candidate quality.
+And so, there's a couple of races that
+you know, should have been more slam
+dunks than that are not. What was the
+first word you used there? You said Dobs
+and jobs. What was the Dobs and jobs,
+abortion.
+Ah. The Dobs case, yeah. Got it. Got it.
+Okay. Okay. That I I just didn't hear it
+perfectly. Weren't a lot of these wins
+for Biden bipartisan?
+Well, no, the inflation reduction act
+was passed on straight party lines. This
+this college loan forgiveness is
+something they can't even get through
+the Senate. It's being done as a as an
+executive order. The The things that
+were bipartisan, hold on. The things
+that were bipartisan, there was that
+Chips Act where they got some votes.
+That's great. And
+and then there was the guns bill. So,
+yeah, look, he did get some bipartisan
+wins. There's no question about it. I
+think the Republicans
+I think the Republicans got hoodwinked
+basically. The Republicans foolishly
+went along with infrastructure and with
+the Chips Act. They should have forced
+Biden to use up reconciliation on one of
+those bills and then they wouldn't have
+been able to get through the 750 billion
+inflation reduction act. So,
+Republicans, you know, as much of a um
+sort of um master strategist as
+McConnell is reputed to be, they really
+got snowed on this one.
+If it's possible for somebody to
+um masturbate themselves from the inside
+out, Jason's doing it right now. No, no,
+no, no. I'm I'm There's a There's a
+reason why we do this from the chest up.
+Okay. I think what's likely to happen in
+November is still that the Republicans
+win one of the chambers, probably the
+House. I think the Senate is still up
+for grabs. I don't think it's over. I
+think that'll be important because Biden
+won't be able to pass some of this
+legislation that's I think destructive
+from a deficit standpoint, from a
+economic standpoint. And we've talked
+about on this pod. I don't think you
+guys are too excited about most of the
+legislation he's passing. So, quite
+frankly, I'm just hoping for gridlock.
+I'd like to get back to a situation of
+gridlock. Less spending would be
+certainly great at this point. I mean,
+we're trying to fight inflation here
+while we keep spending money over here.
+It's
+it's challenging, yeah. If you want to
+get back to
+uh fiscal responsibility, you you got to
+vote for gridlock.
+Or hopefully moderates come. All right,
+we'll we'll let Sacks go. Anyway, we're
+going to go to science anyway and and
+Sacks checks his email during that
+segment. So, by the way, there's there's
+an article now. You know, when we talked
+about quiet quitting, it's now become
+this huge thing that everybody's talking
+about. Yes. And and what's so funny
+about quiet quitting is just yet another
+example of Gen Z again co-opting
+something we've already done. When we
+used to do it, it was called coasting.
+Yeah. I'm coasting.
+Rest and vest. Yeah, but but now it's
+called quiet quitting. Yeah, they're all
+up in their feelings. Do we want to talk
+about
+the gut biome? I want to hear about the
+gut biome. So, there was a there was a
+paper published
+in um
+Cell. The journal Cell.
+The paper was done by a research team
+out of Herzliya. So, I'll I'll take a
+step back. The human body is made up of
+roughly 10 trillion cells.
+Um and there are also somewhere between
+10 and 40 trillion bacterial cells that
+live in your body, primarily in your
+small intestine, in your in what people
+call the gut biome. And so, this is a
+population of microbes, bacteria, that
+are basically chemical factories. They
+eat stuff up and they spit out chemicals
+and those chemicals end up in our body
+and it turns out that the gut biome, the
+bacteria in our gut, can actually
+regulate our health in a very
+significant way. And this was the basis
+of our company Muniq. You guys can bleep
+that out if you want, which is now
+called Supergut. And J Cal, I know
+you've tried the product. Which was
+Supergut is awesome. Thank you. You sent
+me I bought Muniq. That helped me with
+my weight loss and then I just got
+Supergut bars, which are delicious.
+of that business is that there is a
+known product, a molecule, amylose, that
+you can feed the gut biome. It doesn't
+get absorbed by the human body. It sits
+in the gut biome and the bacteria in
+your gut, certain types of bacteria will
+eat it. Their population will grow and
+other population of bad bacteria will
+shrink and the good bacteria release
+chemicals called short-chain fatty acids
+that go into your blood and reduce your
+blood sugar and have a profound effect
+on on your metabolism. And there are
+also known gut bacteria that can
+regulate your sleep, your mood, your
+anxiety, your energy levels, and
+your glycemic control, the control of
+blood sugar. So, it's it's an incredibly
+telling me Are you telling me that
+Cialis is a natural compound? Is it
+bacteria?
+Wait, are you telling Are you saying we
+have to cancel our Cialis prescriptions?
+Oh, no. Yeah. So, guys, there's there's
+there's a known
+There's a known principle that's really
+deeply studied now in urology
+and neuroscience
+called the gut-brain axis that you can
+actually profoundly affect disease
+and the condition of the brain
+and and neuro conditions by changing the
+gut biome. And so, this is this is
+something that's just being studied. The
+reason it's it's all coming to light in
+the last few years is cuz of the cost of
+DNA sequencing. We It used to be very
+very expensive to sequence the DNA from
+your gut biome, which you do by looking
+at your poop, and then, you know,
+looking at all the DNA that's in the
+poop, and that tells you what your gut
+biome what bacteria in your gut. That
+used to cost a thousand bucks, now it
+costs five bucks. And so, in the last
+couple of years, there is this absolute
+explosion in research into the gut
+microbiome, and more importantly, how
+the gut microbiome affects human health.
+So, this particular paper looked at the
+effect that eating artificial sweeteners
+had on the gut biome and on human
+health.
+And so, what these researchers did is
+they they took 120 people, they gave
+them nothing or gave them sugar or gave
+them saccharin or sucralose or aspartame
+or stevia, the four most popular
+artificial sweeteners. And then, they
+looked at how their gut biome changed.
+And importantly, they looked at how
+their glycemic control or ability to
+control blood glucose changed. Blood
+glucose, as you guys may recall, you
+know, you always have glucose in your
+blood. The more If you have over, you
+know, a level of a hundred, you know,
+you and and it persists, you can
+actually have really bad health effects,
+and it causes high A1C over time, which
+is diabetes. And so, high
+more fat when you're spiking, and so,
+you get Yeah,
+when you have high blood glucose, it's
+actually damaging to organs, it's
+damaging to cells, and over time, it can
+cause very significant deleterious
+effects to the human body. That's what
+the the disease of diabetes is and does.
+It's about high blood
+high blood sugar, blood glucose. So,
+what these guys did is they gave people
+saccharin, sucralose, aspartame, and
+stevia, and then measured their blood
+glucose and their ability to convert
+sugar in the blood and absorb it and use
+it. And that's called glycemic control.
+The way you guys you guys have probably
+done this at the doctor, you take a
+glycemic control test, you drink a bunch
+of sugar water, and they measure your
+blood sugar every couple of minutes, and
+then, they show the curve on how
+effectively your body can metabolize
+that glucose. And if it cannot
+metabolize that glucose well, you have
+bad glycemic control, and ultimately,
+that is diabetes. And what they found
+was that if you eat saccharin and
+sucralose, which we always assumed were
+better than sugar, they actually
+adversely affect your ability to control
+a blood glucose. Saccharin and sucralose
+in particular drive up your blood
+glucose and makes it harder for your
+body to metabolize glucose out of your
+blood. Aspartame and stevia were
+relatively benign.
+Oh, really? Cuz that's what's in Coke
+Zero, that's what I drink. There you go.
+And so, so so that was kind of the
+realization, and then, they went deep,
+and they actually analyzed the
+microbiome, and they showed that there
+were profound differences in how these
+compounds affected the microbiome. It
+turns out that sucralose, for example,
+is more likely not being absorbed by
+your intestine, so it's sitting in the
+intestinal walls, and the bad bacteria
+are eating it, and the the good bacteria
+that are supposed to be making
+short-chain fatty acids and all these
+chemicals that regulate blood sugar
+have a lower population, and so, we
+actually see a profoundly negative
+effect from eating certain compounds.
+Have you shipped your poop to test
+these?
+Like you have to Yeah, we just did a
+clinical trial at Supergut, by the way,
+and we found and and we published it, so
+it's it's it's public.
+But wait,
+just The audience doesn't not even know
+this stuff exists in in all likelihood.
+You basically take a poop, and you put
+it in a vial, and you send it, and they
+analyze your poop. I don't mean to be
+graphic here, but have you done this
+before? How does this Yeah, I I
+I do it every day. I've done it. Yeah,
+and and and I think it's Look, here's
+here's the issue, Jason.
+Think I want to I want to I want to say
+two things that I think are really
+important to say.
+Number one is
+um
+we know very little about what bacteria
+do what in your gut. How which We're
+starting to understand which ones are
+beneficial, which ones make good
+chemicals that your body use and
+regulate your cells and regulate your
+health. And And remember, we have a
+symbiotic relationship with the bacteria
+in our gut. They're making chemicals and
+they're eating chemicals. The chemicals
+they make affect our cells, the
+chemicals they eat affect our body. So,
+the way that we evolve our health is
+actually profoundly affected by our gut
+biome. So, we we don't know enough yet
+to say definitively, this bacteria is
+good, this bacteria is bad. We're
+starting to have a good sense of that.
+The second
+just
+just so you know, just to double down on
+this, like there's a form of therapy,
+it's experimental, but it's called fecal
+microbiome
+transplantation, FMT. But,
+but you know, we are finding now that
+you can take feces from healthy
+individuals that have good, you know,
+gut biome and good bacterial counts, and
+if you put it, you know, injected into
+people that are suffering from a bunch
+of different diseases, it actually is
+looking like it's curative. So,
+Parkinson's, MS, IBS, colitis.
+So, it just goes to show you that this
+that it's incredibly
+gut bi There's
+bacteria
+into another person's intestines? Where
+do you put the poop? No, you through the
+bum.
+No, no, no, you Yeah, you could do it
+there, or you can take a pill. So,
+there's a little pill, and it's got the
+the fecal stuff in it, you swallow it,
+and then it and it So, you eat somebody
+else's poop, you get their poop.
+I I said I said it in a way so that we
+could see his reaction to in the bum,
+and Jason was like this.
+But wait, how does this impact your
+anus? That's what The audience wants to
+know, Freeberg. How much your anus
+impacts your body? Here's the other
+point I wanted to make, which ties to
+what Chamath said. This is really
+important, J Cal. So, the gut biome is
+an ecosystem, like a rainforest. There
+are trees that grow, monkeys climb the
+trees, they poop, there's jaguars,
+jaguars eat the monkeys, the trees grow
+cuz of the monkey poop. It is a whole
+ecosystem. All these organisms, all
+these microbes regulate one another and
+feed one another. And this is why
+probiotics do not work. Probiotics are
+single microbes, single bacterial
+strains or fungal strains that we put
+into a pill, and we swallow it. And just
+because that microbe happens to have
+some beneficial effect, you know, on its
+own in a in a Petri dish, it does not
+survive in your gut biome. Because it's
+like putting a house cat in a
+rainforest. The jaguar will eat the
+house cat, the house cat has nothing to
+eat, etc. It doesn't inoculate.
+Inoculate means that it survives,
+thrives, and the population grows. So,
+when we take probiotics, it's just
+passing right through our gut, it
+doesn't stay there, and it doesn't
+change anything. And it turns out that
+the reason fecal microbiome
+fecal transplants work is because you're
+taking the whole microbiome from someone
+else's gut, and you're putting it in
+your gut. The whole rainforest. The
+whole rainforest. And so, all the
+organisms that are needed that self that
+regulate one another, all of the small
+molecules that that regulate that
+cross-regulate each other, they all go
+in your gut, and then, they actually
+change your entire gut, and your gut
+becomes the rainforest of someone else's
+gut. And so, if someone else has a
+healthy gut, My anus My anus can be your
+anus, Jason.
+Wait, so we put our anuses together, and
+then, a monkey goes between them, and
+then, the rainforest is Well, let me ask
+you a question. The FDA has not approved
+any of this yet. When will the FDA be
+approving these treatments, etc.?
+a lot of There are a lot of clinical
+trials going on for fecal transplant.
+UCSF has a huge clinical trial for MS,
+as Chamath pointed out, right now, where
+they are actually doing fecal
+transplants on patients without MS into
+people with MS, and significant you
+know, the early data of these sorts of
+treatments has indicated that there can
+be a very profound effect on the
+frequency of lesions appearing on the
+brain, which is one of the primary
+symptoms of MS. And so, these organisms,
+we don't yet know why, but some of these
+bacteria
+we When will we understand this? Is it a
+five-year, ten-year thing? When will we
+know when we have like a game plan?
+Yeah, so it's already coming out.
+There's no It's not like a binary
+switch. We're discovering new things.
+There's a There's a set of companies
+that are discovering what are called
+small molecules. So, they're finding,
+what are the little chemicals that those
+good bacteria are making in your gut,
+and what are and can we turn those
+chemicals into drugs? And so, they're
+trying to turn those into drugs. Other
+companies are saying, you know, what?
+This is a set of good bacteria, let's
+just put them in your body and figure
+out a way to get them to inoculate and
+stay. Other companies are saying, let's
+do fecal transplants. And other
+companies are basically just saying,
+let's change This is what we do at
+Supergut. Let's just change the feed
+stock for your gut biome, and you can
+actually evolve the rainforest into a
+different state by changing what you're
+feeding the bacteria in your gut. And
+there's certain molecules you can feed
+the gut bacteria, and then, the
+populations will change into a more
+beneficial state. Why are people saying
+like eating drinking kombucha and
+fermented
+vegetables, pickles, whatever,
+apples are like great at fixing your
+biome, and then, taking sugar out is
+good for your biome. This is another
+thing I keep hearing. Like eating more
+fermented foods.
+are
+are making
+single point claims like that because
+they have invested in a lifestyle, and
+they want to defend their choices. It's
+not to say
+It's not to say that those things are
+bad. Those are all good, but I think
+what we know, and the fecal
+transplantation is the most simple way
+of of pointing this out, is that it's a
+broad-scale holistic approach that gets
+the best results. So, as, you know, like
+if you if you had if you've had a kid
+that's had, you know, diarrhea, for
+example, right? You know, sometimes what
+we'll do now is is of giving the kid
+some sort of diuretic suppressant, what
+you actually give them is
+a probiotic, right? And what you're
+trying to do is to reintroduce healthy
+bacteria into that child's stomach in a
+way that allows them to self-manage and
+self-heal while the bad, you know,
+diarrhea-causing stuff kind of gets
+washed away. As an example. So, will one
+thing be a cure-all for you? No. I think
+that you should be very skeptical of
+those claims. That's why everybody says
+a healthy, well-balanced diet is really
+important because we do not know
+conclusively. This is why, you know, I I
+tend to believe that the broad, holistic
+diet works the best in moderation. Yep.
+Because you just don't know what you're
+not getting. We don't know that, you
+know, we don't know you can't say
+conclusively that there isn't a form of
+bacteria that is created specifically
+when you consume animal protein that is
+extremely helpful to you. We don't know
+that that's not true. Not Now, we don't
+know that that is true, either.
+Right?
+Yeah, and there's a ton of research
+going on to try and figure that out
+right now. Have we figured out any of
+it, though? Like could this whole
+turmeric ginger movement We could we
+could do 12 episodes on this. There is
+so much amazing discovery happening.
+This is a good paper to highlight that,
+which is like, hey, maybe avoid products
+that have saccharin and sucralose in
+them. But my my my big thing is there is
+no diet, whether it's keto, whether it's
+the South Beach diet, whether it's
+specific vegetarianism, whether it's
+veganism, nothing is a cure-all for what
+ails you.
+There is nothing.
+And by the way, one important point in
+this paper, one of the points that these
+guys highlighted, which we see all the
+time in microbiome research, is that
+there are what are called responders and
+non-responders. That within a
+population, it's not like everyone that
+eats sucralose has the same negative
+effect. Some people have a really
+negative effect, and some people have a
+mild to moderate to neutral effect. And
+so, there's a range of your particular
+physiology, your particular gut biome
+that will respond differently to
+different inputs into your body. And
+that's the most important thing to
+figure out because people need to spend
+time
+eating and sampling to understand what
+makes you feel better or worse. This is
+why I I I have an issue with,
+you know, the broad-based claims of this
+path will solve all your problems. It's
+just not true. You have to solve it for
+yourself, and it's it's through
+iteration. And then the the the yeah,
+anyways. It does seem like non-processed
+foods, whole foods, things that exist in
+nature, that seems to me directionally
+correct as the way to go. And then the
+fake stuff
+and the processed stuff maybe less good
+for you. You agree with that premise?
+is this is why I think that there there
+is a little bit of a scam being run on
+people who want to be healthy. Like, for
+example, have you guys looked at the
+ingredient list on Oatly? You know,
+everybody loves oat milk, but have you
+looked at the ingredient list?
+Are you really telling me conclusively
+that that is healthier than milk?
+It's insane.
+Well, I mean, I could tell I could argue
+both ways, but yeah. Look at the
+chemicals. Look at the chemicals in a
+box of Oatly. I mean, just drink water.
+Guys, I can also tell you the chemical
+name for every chemical that's in milk,
+which is all chemical like all
+everything around us is chemicals. So, I
+I understand I understand natural
+chemicals, but you understand
+synthetically made, man-made chemicals
+that are explicit that have to be put on
+an ingredient list because of its danger
+in high quantities should be treated
+slightly differently, in my opinion.
+Yeah, I mean, Oatly's just gave us three
+subpoenas. We're all [&nbsp;__&nbsp;] We're being
+deposed by Oatly now.
+All right, everybody, we'll see you next
+time on the All-In Pod. Love you, boys.
+Love you, besties. Bye. Bye-bye.
+Let your winners ride.
+Rain Man, David Sacks.
+And I said, we open-sourced it to the
+fans, and they've just gone crazy with
+it. Love you, besties. I'm going all in.
+Queen of Quinlan.
+Let your winners ride.
+Besties are back. Chamath Palihapitiya.
+And it's funny, uh dog taking a dump
+[&nbsp;__&nbsp;] Driveway to Sacks.
+Oh, man. My guy Jason will meet me at
+the door. We should all just get a room
+and just have a one big huge orgy cuz
+they're all just useless. It's like this
+like sexual tension that they just need
+to release somehow.
+Wet your beak, wet your beak.
+Wet
+We need to get merch. Besties are back.
+I'm going all
+in.
+I'm going
+all in.

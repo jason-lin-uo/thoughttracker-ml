@@ -1,0 +1,308 @@
+# iOS 16 Hands-On: Top 5 New Features!
+# https://www.youtube.com/watch?v=WfVF-Ec4naQ
+
+so the newest version of iOS was
+revealed by Apple about a month ago
+which means sometime in the next few
+months your iPhone's going to change
+for the better luckily as long as you
+have an iPhone 8 or later
+this is iOS 16.
+[Music]
+so I've had the beta for iOS 16 on this
+iPhone for about a month played around
+with it a lot it's not stable enough to
+make your main just yet just warning you
+but there's a lot of good stuff here
+some of which Apple did talk about on
+stage some of which they didn't either
+way this is the five best features in
+iOS 16. so number five the ability to
+edit and unsend messages so I realize
+I've only been asking to do this on
+Twitter but apparently people have
+wanted this for iMessage too so now you
+can long press the message you send and
+for up to 15 minutes after you first
+send something you can edit and then
+type what you actually meant to send and
+it'll revise to whoever you sent it to
+or if you're just so disgusted with what
+you originally sent you can actually
+unsend a message completely which is
+pretty sweet if you do either of these
+things the other person will see that it
+was edited but won't see the edit
+history and if you undo send it just
+leaves an alert in place for both people
+by the way just as a heads up if you go
+to try this feature with someone who
+isn't on on iOS 16 yet it won't work so
+they won't see the edit on their end or
+the undo on their end so they'll still
+see the crazy terrible message you
+initially sent uh you've been warned but
+that brings us to number four which is
+live objects now I think I gotta just
+sort of rewind just a little bit so you
+can understand or at least fully
+appreciate how amazing this is so you
+remember live text right live text lets
+you open any picture with text in it and
+it immediately recognizes that text and
+lets you interact with it lets you copy
+paste it somewhere Etc iOS 16 also adds
+live text in videos so if you pause a
+video on a frame with text somewhere in
+it you can lift that text from inside
+the video that way but the cherry on top
+is now in a photo with a subject and a
+background you can long press and
+literally lift any object out of a photo
+to copy and paste into whatever you want
+messages for example so it erases the
+background does all the masking for you
+and does a surprise amazingly good job
+for a literal one second background
+delete you can do this with seemingly
+any photo too it's not just like
+portrait mode photos shot on the iPhone
+it can be shot on any camera as a matter
+of fact any picture it just seems to
+need to have a reasonable subject versus
+background and the iPhone will just
+figure it out I am very impressed I'll
+be making all kinds of stickers for our
+Discord now so then number three for me
+is
+the little things just all the little
+things added up together this is one of
+those things where like iOS still looks
+and feels like iOS it's not that
+dramatic of an overhaul but when you add
+together all these small things it does
+feel like a pretty nice refresh and I I
+like pretty much all the things I
+changed I like that the weather app
+finally shows you individual daytime
+forecasts now it's crazy that it took
+them buying dark sky to finally
+Implement all this but now for one day
+you can see how the temperature will
+move and fluctuate throughout the day or
+when it will rain Etc love it I like the
+new video watching UI if you choose to
+watch a video in Safari now clean simple
+I like that face ID Works in landscape
+now it's a small touch but finally thank
+you I like that the home screen says
+search at the bottom where you can pull
+up a slightly refreshed Spotlight search
+UI pops up from the bottom now and I use
+Spotlight all the time so I notice this
+right away and I like that the things
+you order with the Apple card will start
+showing up in the wallet app it's self
+so if you keep track of everything there
+then rip to some package tracking apps
+and I know a lot of people that will
+like the iPhone finally has a haptic
+keyboard
+is one of those things that Android has
+had for
+so many years a decade at this point
+probably since the beginning but it's
+funny because it's one of those things
+that immediately lets me feel when a
+phone has a good haptic engine or not
+because first thing you do is type in a
+Wi-Fi password and you can feel the
+haptic keyboard and it's either a soft
+mushy haptics or really tight and clicky
+the good ones I leave it on the bad ones
+I'll turn it off so the iPhone literally
+has the best vibration motor on any
+phone so it's about damn time the
+keyboard gets the haptic feedback and
+it's very good it's off by default but
+you can easily hop into settings and
+turn it on so there's always a bunch of
+little things with software updates that
+sort of add up to a bigger change and I
+kind of like all these they're really
+good but now it's time for the bigger
+things so number two is continuity
+camera this one
+might be my personal favorite but it's
+the one I got the biggest announcement
+reaction on stage and it was the biggest
+shocker so it's super cool so basically
+over the years our smartphone cameras
+have gotten better and better but
+webcams in laptops not so much I mean it
+was only the M1 MacBooks in 2020 where
+Apple finally updated to a 1080p webcam
+but it still looks worse than a normal
+phone camera so Apple had this brilliant
+idea why don't we use the good cameras
+that we make which are the iPhone
+cameras as your webcam
+genius so you've got to have IOS 16 and
+the latest version of Mac OS Ventura to
+do it but once you've got all that going
+continuity camera wirelessly turns your
+iPhone into your Macs webcam so doing
+that not only looks infinitely better
+but also gives you access to all the
+other cool things that your iPhone's
+camera can do like portrait mode Studio
+light and Center Stage if you want it's
+pretty sick but easily the coolest part
+of this is called desk view so by using
+your phone's Ultra wide camera when it's
+mounted on top of your laptop or your
+monitor you can get your standard webcam
+View and this top down view of
+whatever's on your desk in front of you
+so in this case it's basically showing
+what's right in front of your keyboard
+where your hands are at anything that's
+pretty flat to the ground it seems like
+black magic but it works pretty well
+that's a lot of software processing
+going on to take the edge of the ultra
+wide frame and flip it upside down and
+turn it into this perfect top-down view
+but I can see this being crazy useful in
+so many circumstances as long as
+whatever object you're working with is
+pretty flat so that is dope and that
+brings us to number one which is the new
+lock screen this is the biggest visual
+most obvious change to iOS it's got the
+most new stuff here and it's just all
+the customization of the clock and the
+wallpaper and all the stuff going on so
+let's just jump right in so first things
+first the lock screen looks different
+right away new clock font matching
+colors some widgets so to start
+customizing your lock screen you just
+hold it down and then hit the customize
+button and then just tap what you want
+to start to customize so you can mess
+with the font and the color of course to
+get the contrast right so things are
+readable and then up above the clock and
+below the clock you have slots to add
+widgets you can see I already have a few
+here and it's kind of like adding them
+to your home screen you just pick the
+one you want to add tap it or click to
+drag it in and the widgets below the
+clock are very much just like watch
+complications they're these little
+square glanceable pieces of information
+that you can't really interact much with
+but when you click them they open the
+app that they're associated with and the
+ones above the clock are mainly just a
+text format so they make a lot of sense
+for maybe calendar events or weather
+things like that so you can already play
+around endlessly with just that
+combination of things you can mess with
+the clock the weather the widgets
+whatever else you want to put in there
+but then what's nice is you can save
+your layout what you've made and then go
+to create a new one so now you can save
+multiple different lock screens that
+you've customized and set up and just
+like watch faces on the Apple watch you
+can just hold it down and switch between
+any of these ones you've made at any
+time but now here's an extra wrench to
+throw into this whole equation if you
+don't add any bottom widgets so if you
+just have your clock and maybe a top
+widget there's a new feature where the
+clock will Nestle itself between the
+foreground and the background of your
+wallpaper and this was not just for like
+portrait mode photos or photos from the
+iPhone this is any photo so Apple's
+using a little bit more of their AI
+their impressive object recognition from
+that live objects feature earlier and
+it's able to with pretty impressive
+consistency give me some pretty cool
+cutouts it's really too bad it doesn't
+work once you add widgets under the time
+at least in this beta so you have to
+choose between a cool clock cut out and
+lots of widgets on your home screen but
+I think this feature is pretty sweet
+when it works and I am also a fan of
+this little animation you're seeing
+where when you unlock it fades in the
+foreground just before it fades in the
+background from black it's a nice touch
+now to take this even further you can
+associate any lock screen that you make
+with a focus mode so if you have a focus
+mode like for work for example you could
+already do a certain home screen for
+work now you can have a certain lock
+screen for work then you can have a home
+and lock screen for going to sleep going
+to the gym going home whatever all that
+stuff just ties and switches
+automatically and then also now that
+your lock screen is so much prettier the
+notifications roll in and they don't
+cover your Masterpiece anymore they roll
+in from the bottom so I really like that
+change it's good for reachability on
+phones of all screen sizes but also just
+seems to make chronological sense the
+way they've been rolling in and they
+keep rolling in from the bottom without
+interrupting your precious lock screen
+you can choose to display notifications
+as a stack a list or account in the past
+they'd always been a list that's what
+we're used to but I like them as a stack
+now it's more Compact and another cool
+feature Apple added is called live
+activities this is basically an app that
+will update its notification live with
+new information instead of sending you
+new notifications over and over again so
+something like when your Uber is getting
+closer and closer to you before it picks
+you up or maybe live sports scores just
+update to scoreboard I really like the
+new music live activity it's much
+smaller than the huge widget was before
+and you can still script through songs
+it's great and also the new live timer
+notifications pretty sweet just having
+that little animation to count down the
+seconds just a good amount of Polish
+here on the lock screen and I think
+that's really the highlight of iOS 16 is
+just people we're going to be out here
+customizing their lock screens doing
+crazy stuff with the way they that's the
+thing that you interact with the most on
+your phone how many times do you think
+maybe a hundred times a day you unlock
+your phone and look at the wallpaper and
+your lock screen it's a big deal so
+that's pretty much it for iOS 16 let me
+know what your favorite feature is in
+the comments below and I'll talk to you
+guys in the next one
+peace
+thank you
