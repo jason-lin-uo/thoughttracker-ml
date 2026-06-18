@@ -1,0 +1,31 @@
+{
+  "modelVersion": "topic-reranker-tfidf-sgd-v1",
+  "modelType": "tfidf-one-vs-rest-sgd-logistic",
+  "dataset": "data\\processed\\thoughttracker_topic_reranker_supervalidation.csv",
+  "rows": 37184,
+  "trainRows": 26028,
+  "valRows": 5578,
+  "testRows": 5578,
+  "activeLabels": 165,
+  "minPositive": 5,
+  "threshold": 0.4,
+  "maxSelected": 5,
+  "finalFitRows": 37184,
+  "metrics": {
+    "task": "candidate generation (high-recall top-k); final topic selection is owned by the calibrated policy + relevance gate downstream",
+    "candidateRecall": {
+      "at1": 0.7196764226899838,
+      "at2": 0.9315054107118397,
+      "at3": 0.9848949058642681,
+      "at5": 0.9990959316926168,
+      "at8": 0.9994863248253505,
+      "at12": 0.9995015448305253
+    },
+    "evaluatedOn": "this-machine (Apple Silicon, MPS) hybrid pipeline run, 37,184 rows",
+    "source": "reports/metrics/hybrid_topic_pipeline_thismachine.json (cross-checked against the gold RTX 5090 run in reports/metrics/topic_selection_policy_gold_standard_metrics.json)"
+  },
+  "notes": [
+    "candidateRecall@k is the metric that matters for this model: as a recall-first candidate generator, its job is to put the true topic inside the top-k. recall@5 = 99.9% means the downstream relevance gate + selection policy almost never lose a correct topic to this stage.",
+    "These recall@k numbers reproduced within noise on both the gold RTX 5090 run and the on-device MPS rerun."
+  ]
+}

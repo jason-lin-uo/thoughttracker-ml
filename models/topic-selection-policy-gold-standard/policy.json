@@ -1,0 +1,1589 @@
+{
+    "dataset":  "data\\processed\\thoughttracker_topic_reranker_gold_standard.csv",
+    "rows":  21912,
+    "displayTiers":  [
+                         "showcase",
+                         "usable"
+                     ],
+    "device":  "NVIDIA GeForce RTX 5090 Laptop GPU",
+    "candidateTopK":  12,
+    "candidateMetrics":  {
+                             "recall_at_1":  0.7196764226899838,
+                             "recall_at_2":  0.9315054107118397,
+                             "recall_at_3":  0.9848949058642681,
+                             "recall_at_5":  0.9990959316926168,
+                             "recall_at_8":  0.9994863248253505,
+                             "recall_at_12":  0.9995015448305253
+                         },
+    "baselinePolicy":  {
+                           "threshold":  0.4,
+                           "maxSelected":  5,
+                           "rankMode":  "combined",
+                           "minRerankerMargin":  0.1,
+                           "minRelevanceMargin":  0.0
+                       },
+    "baselineMetrics":  {
+                            "micro_f1":  0.9814519980894763,
+                            "macro_f1":  0.7458542900437546,
+                            "samples_f1":  0.9844383305226678,
+                            "micro_precision":  0.9718332063375286,
+                            "micro_recall":  0.9912630986519444,
+                            "empty_row_accuracy":  0.9994979919678715,
+                            "exact_match":  0.9454636728733115,
+                            "avg_predicted_topics":  1.7369021540708287,
+                            "avg_true_topics":  1.7028568820737495
+                        },
+    "baselineErrors":  {
+                           "errorTypes":  {
+                                              "extra_topics_only":  877,
+                                              "mixed_extra_and_missing":  64,
+                                              "missing_topics_only":  254
+                                          },
+                           "topFalsePositiveTopics":  [
+                                                          [
+                                                              "superhero_movies",
+                                                              123
+                                                          ],
+                                                          [
+                                                              "open_source_ai_models",
+                                                              54
+                                                          ],
+                                                          [
+                                                              "gut_brain_axis",
+                                                              40
+                                                          ],
+                                                          [
+                                                              "family_relationships_and_attachment",
+                                                              34
+                                                          ],
+                                                          [
+                                                              "reproductive_hormone_health",
+                                                              34
+                                                          ],
+                                                          [
+                                                              "movie_reviews_and_opinions",
+                                                              34
+                                                          ],
+                                                          [
+                                                              "hollywood_studio_mergers",
+                                                              32
+                                                          ],
+                                                          [
+                                                              "family_relationships",
+                                                              28
+                                                          ],
+                                                          [
+                                                              "brain_health",
+                                                              21
+                                                          ],
+                                                          [
+                                                              "carbohydrate_intake_strategy",
+                                                              20
+                                                          ],
+                                                          [
+                                                              "doctor_doom_mcu_casting",
+                                                              20
+                                                          ],
+                                                          [
+                                                              "hollywood_casting_and_franchise_news",
+                                                              17
+                                                          ],
+                                                          [
+                                                              "warner_bros_studio",
+                                                              16
+                                                          ],
+                                                          [
+                                                              "sex_hormones_and_behavior",
+                                                              15
+                                                          ],
+                                                          [
+                                                              "circadian_rhythm_and_sleep_timing",
+                                                              15
+                                                          ],
+                                                          [
+                                                              "academy_awards_and_oscar_races",
+                                                              13
+                                                          ],
+                                                          [
+                                                              "streaming_tv_series_reviews",
+                                                              13
+                                                          ],
+                                                          [
+                                                              "apple_mac_reviews",
+                                                              12
+                                                          ],
+                                                          [
+                                                              "flagship_smartphone_reviews",
+                                                              12
+                                                          ],
+                                                          [
+                                                              "happiness_and_wellbeing_psychology",
+                                                              11
+                                                          ],
+                                                          [
+                                                              "airpods_and_earbuds_reviews",
+                                                              11
+                                                          ],
+                                                          [
+                                                              "vision_and_eye_health",
+                                                              10
+                                                          ],
+                                                          [
+                                                              "strength_training",
+                                                              10
+                                                          ],
+                                                          [
+                                                              "iron_man_and_tony_stark_mcu",
+                                                              10
+                                                          ],
+                                                          [
+                                                              "lactate_threshold_and_zone_2_training",
+                                                              9
+                                                          ],
+                                                          [
+                                                              "gut_microbiome",
+                                                              9
+                                                          ],
+                                                          [
+                                                              "education_school_policy",
+                                                              9
+                                                          ],
+                                                          [
+                                                              "oral_health_and_fluoride",
+                                                              9
+                                                          ],
+                                                          [
+                                                              "raw_milk",
+                                                              9
+                                                          ],
+                                                          [
+                                                              "deadpool_and_wolverine_film",
+                                                              9
+                                                          ]
+                                                      ],
+                           "topFalseNegativeTopics":  [
+                                                          [
+                                                              "superhero_movies",
+                                                              103
+                                                          ],
+                                                          [
+                                                              "insulin_resistance",
+                                                              95
+                                                          ],
+                                                          [
+                                                              "carbohydrate_intake_strategy",
+                                                              55
+                                                          ],
+                                                          [
+                                                              "psychedelic_therapy_and_clinical_trials",
+                                                              7
+                                                          ],
+                                                          [
+                                                              "movie_box_office",
+                                                              5
+                                                          ],
+                                                          [
+                                                              "film_characters_casting_and_performances",
+                                                              4
+                                                          ],
+                                                          [
+                                                              "flagship_smartphone_reviews",
+                                                              4
+                                                          ],
+                                                          [
+                                                              "samsung_galaxy_s_reviews",
+                                                              4
+                                                          ],
+                                                          [
+                                                              "openai_company",
+                                                              3
+                                                          ],
+                                                          [
+                                                              "movie_trailers_and_theatrical_marketing",
+                                                              3
+                                                          ],
+                                                          [
+                                                              "jiu_jitsu",
+                                                              2
+                                                          ],
+                                                          [
+                                                              "healthcare_system_reform",
+                                                              2
+                                                          ],
+                                                          [
+                                                              "foldable_smartphone_reviews",
+                                                              2
+                                                          ],
+                                                          [
+                                                              "airpods_and_earbuds_reviews",
+                                                              2
+                                                          ],
+                                                          [
+                                                              "visceral_fat_and_metabolic_health",
+                                                              2
+                                                          ],
+                                                          [
+                                                              "testosterone_optimization",
+                                                              2
+                                                          ],
+                                                          [
+                                                              "star_wars_disney_plus_series",
+                                                              2
+                                                          ],
+                                                          [
+                                                              "mcu_character_legacy",
+                                                              2
+                                                          ],
+                                                          [
+                                                              "eating_disorders_and_food_reward",
+                                                              1
+                                                          ],
+                                                          [
+                                                              "gut_brain_axis",
+                                                              1
+                                                          ],
+                                                          [
+                                                              "music_neuroscience",
+                                                              1
+                                                          ],
+                                                          [
+                                                              "testosterone_and_hormone_optimization",
+                                                              1
+                                                          ],
+                                                          [
+                                                              "sex_hormones_and_sexual_development",
+                                                              1
+                                                          ],
+                                                          [
+                                                              "ssri_and_antidepressant_use",
+                                                              1
+                                                          ],
+                                                          [
+                                                              "reproductive_hormone_health",
+                                                              1
+                                                          ],
+                                                          [
+                                                              "opioid_use_and_addiction",
+                                                              1
+                                                          ],
+                                                          [
+                                                              "substance_and_behavioral_addiction_recovery",
+                                                              1
+                                                          ],
+                                                          [
+                                                              "ai_societal_impact",
+                                                              1
+                                                          ],
+                                                          [
+                                                              "great_power_politics",
+                                                              1
+                                                          ],
+                                                          [
+                                                              "foreign_policy_establishment",
+                                                              1
+                                                          ]
+                                                      ]
+                       },
+    "thresholdMetrics":  {
+                             "micro_f1":  0.9820640909815592,
+                             "macro_f1":  0.7488029993844719,
+                             "samples_f1":  0.9848353732389877,
+                             "micro_precision":  0.9737583981030167,
+                             "micro_recall":  0.9905126899472034,
+                             "empty_row_accuracy":  0.9994979919678715,
+                             "exact_match":  0.9482931726907631,
+                             "avg_predicted_topics":  1.7321558963125228,
+                             "avg_true_topics":  1.7028568820737495
+                         },
+    "finalMetrics":  {
+                         "micro_f1":  0.9839747432362227,
+                         "macro_f1":  0.7534613634378959,
+                         "samples_f1":  0.9861642819474146,
+                         "micro_precision":  0.9782021400572094,
+                         "micro_recall":  0.9898158818642296,
+                         "empty_row_accuracy":  0.9994979919678715,
+                         "exact_match":  0.954408543263965,
+                         "avg_predicted_topics":  1.7230741146403796,
+                         "avg_true_topics":  1.7028568820737495
+                     },
+    "finalErrors":  {
+                        "errorTypes":  {
+                                           "extra_topics_only":  630,
+                                           "mixed_extra_and_missing":  82,
+                                           "missing_topics_only":  287
+                                       },
+                        "topFalsePositiveTopics":  [
+                                                       [
+                                                           "superhero_movies",
+                                                           114
+                                                       ],
+                                                       [
+                                                           "family_relationships_and_attachment",
+                                                           33
+                                                       ],
+                                                       [
+                                                           "movie_reviews_and_opinions",
+                                                           28
+                                                       ],
+                                                       [
+                                                           "carbohydrate_intake_strategy",
+                                                           21
+                                                       ],
+                                                       [
+                                                           "reproductive_hormone_health",
+                                                           20
+                                                       ],
+                                                       [
+                                                           "brain_health",
+                                                           18
+                                                       ],
+                                                       [
+                                                           "hollywood_studio_mergers",
+                                                           18
+                                                       ],
+                                                       [
+                                                           "warner_bros_studio",
+                                                           17
+                                                       ],
+                                                       [
+                                                           "hollywood_casting_and_franchise_news",
+                                                           17
+                                                       ],
+                                                       [
+                                                           "circadian_rhythm_and_sleep_timing",
+                                                           15
+                                                       ],
+                                                       [
+                                                           "family_relationships",
+                                                           15
+                                                       ],
+                                                       [
+                                                           "sex_hormones_and_behavior",
+                                                           14
+                                                       ],
+                                                       [
+                                                           "gut_microbiome",
+                                                           14
+                                                       ],
+                                                       [
+                                                           "academy_awards_and_oscar_races",
+                                                           13
+                                                       ],
+                                                       [
+                                                           "streaming_tv_series_reviews",
+                                                           13
+                                                       ],
+                                                       [
+                                                           "flagship_smartphone_reviews",
+                                                           12
+                                                       ],
+                                                       [
+                                                           "apple_mac_reviews",
+                                                           11
+                                                       ],
+                                                       [
+                                                           "airpods_and_earbuds_reviews",
+                                                           11
+                                                       ],
+                                                       [
+                                                           "vision_and_eye_health",
+                                                           10
+                                                       ],
+                                                       [
+                                                           "strength_training",
+                                                           10
+                                                       ],
+                                                       [
+                                                           "lactate_threshold_and_zone_2_training",
+                                                           9
+                                                       ],
+                                                       [
+                                                           "mobility_posture_and_lower_body_mechanics",
+                                                           8
+                                                       ],
+                                                       [
+                                                           "star_wars_disney_plus_series",
+                                                           8
+                                                       ],
+                                                       [
+                                                           "startup_fundraising_and_capital_allocation",
+                                                           8
+                                                       ],
+                                                       [
+                                                           "insulin_resistance",
+                                                           8
+                                                       ],
+                                                       [
+                                                           "selfie_and_front_camera_design",
+                                                           8
+                                                       ],
+                                                       [
+                                                           "iron_man_and_tony_stark_mcu",
+                                                           8
+                                                       ],
+                                                       [
+                                                           "molasses_and_glycemic_control",
+                                                           8
+                                                       ],
+                                                       [
+                                                           "deadpool_and_wolverine_film",
+                                                           8
+                                                       ],
+                                                       [
+                                                           "cortisol_stress_and_burnout",
+                                                           7
+                                                       ]
+                                                   ],
+                        "topFalseNegativeTopics":  [
+                                                       [
+                                                           "superhero_movies",
+                                                           105
+                                                       ],
+                                                       [
+                                                           "insulin_resistance",
+                                                           94
+                                                       ],
+                                                       [
+                                                           "carbohydrate_intake_strategy",
+                                                           55
+                                                       ],
+                                                       [
+                                                           "gut_brain_axis",
+                                                           28
+                                                       ],
+                                                       [
+                                                           "hollywood_studio_mergers",
+                                                           8
+                                                       ],
+                                                       [
+                                                           "psychedelic_therapy_and_clinical_trials",
+                                                           7
+                                                       ],
+                                                       [
+                                                           "movie_box_office",
+                                                           5
+                                                       ],
+                                                       [
+                                                           "film_characters_casting_and_performances",
+                                                           4
+                                                       ],
+                                                       [
+                                                           "flagship_smartphone_reviews",
+                                                           4
+                                                       ],
+                                                       [
+                                                           "samsung_galaxy_s_reviews",
+                                                           4
+                                                       ],
+                                                       [
+                                                           "openai_company",
+                                                           3
+                                                       ],
+                                                       [
+                                                           "maple_syrup",
+                                                           3
+                                                       ],
+                                                       [
+                                                           "movie_trailers_and_theatrical_marketing",
+                                                           3
+                                                       ],
+                                                       [
+                                                           "visual_effects_industry",
+                                                           3
+                                                       ],
+                                                       [
+                                                           "movie_reviews_and_opinions",
+                                                           3
+                                                       ],
+                                                       [
+                                                           "doctor_doom_mcu_casting",
+                                                           3
+                                                       ],
+                                                       [
+                                                           "jiu_jitsu",
+                                                           2
+                                                       ],
+                                                       [
+                                                           "reproductive_hormone_health",
+                                                           2
+                                                       ],
+                                                       [
+                                                           "healthcare_system_reform",
+                                                           2
+                                                       ],
+                                                       [
+                                                           "foldable_smartphone_reviews",
+                                                           2
+                                                       ],
+                                                       [
+                                                           "airpods_and_earbuds_reviews",
+                                                           2
+                                                       ],
+                                                       [
+                                                           "visceral_fat_and_metabolic_health",
+                                                           2
+                                                       ],
+                                                       [
+                                                           "testosterone_optimization",
+                                                           2
+                                                       ],
+                                                       [
+                                                           "star_wars_disney_plus_series",
+                                                           2
+                                                       ],
+                                                       [
+                                                           "mcu_character_legacy",
+                                                           2
+                                                       ],
+                                                       [
+                                                           "eating_disorders_and_food_reward",
+                                                           1
+                                                       ],
+                                                       [
+                                                           "music_neuroscience",
+                                                           1
+                                                       ],
+                                                       [
+                                                           "testosterone_and_hormone_optimization",
+                                                           1
+                                                       ],
+                                                       [
+                                                           "sex_hormones_and_sexual_development",
+                                                           1
+                                                       ],
+                                                       [
+                                                           "ssri_and_antidepressant_use",
+                                                           1
+                                                       ]
+                                                   ]
+                    },
+    "topicThresholds":  {
+                            "open_source_ai_models":  0.8,
+                            "gut_brain_axis":  0.7,
+                            "hollywood_studio_mergers":  0.75,
+                            "doctor_doom_mcu_casting":  0.75,
+                            "apple_mac_reviews":  0.7,
+                            "estrogen_hormone_health":  0.6,
+                            "maple_syrup":  0.7,
+                            "samsung_galaxy_s_reviews":  0.65,
+                            "sinners_film_reviews":  0.75,
+                            "right_to_repair":  0.75,
+                            "iron_man_films":  0.8,
+                            "5g_network_performance":  0.7,
+                            "high_cortisol":  0.65,
+                            "vitamin_d_supplementation":  0.7
+                        },
+    "acceptedTopicThresholdRules":  [
+                                        {
+                                            "topicSlug":  "open_source_ai_models",
+                                            "threshold":  0.8,
+                                            "support":  21,
+                                            "candidateRows":  782,
+                                            "beforeExactMatch":  0.9454636728733115,
+                                            "afterExactMatch":  0.9471522453450164,
+                                            "deltaExactRows":  37
+                                        },
+                                        {
+                                            "topicSlug":  "gut_brain_axis",
+                                            "threshold":  0.7,
+                                            "support":  88,
+                                            "candidateRows":  822,
+                                            "beforeExactMatch":  0.9471522453450164,
+                                            "afterExactMatch":  0.9472435195326762,
+                                            "deltaExactRows":  2
+                                        },
+                                        {
+                                            "topicSlug":  "hollywood_studio_mergers",
+                                            "threshold":  0.75,
+                                            "support":  106,
+                                            "candidateRows":  454,
+                                            "beforeExactMatch":  0.9472435195326762,
+                                            "afterExactMatch":  0.9473347937203359,
+                                            "deltaExactRows":  2
+                                        },
+                                        {
+                                            "topicSlug":  "doctor_doom_mcu_casting",
+                                            "threshold":  0.75,
+                                            "support":  36,
+                                            "candidateRows":  321,
+                                            "beforeExactMatch":  0.9473347937203359,
+                                            "afterExactMatch":  0.9478368017524644,
+                                            "deltaExactRows":  11
+                                        },
+                                        {
+                                            "topicSlug":  "apple_mac_reviews",
+                                            "threshold":  0.7,
+                                            "support":  164,
+                                            "candidateRows":  993,
+                                            "beforeExactMatch":  0.9478368017524644,
+                                            "afterExactMatch":  0.9478824388462943,
+                                            "deltaExactRows":  1
+                                        },
+                                        {
+                                            "topicSlug":  "estrogen_hormone_health",
+                                            "threshold":  0.6,
+                                            "support":  44,
+                                            "candidateRows":  153,
+                                            "beforeExactMatch":  0.9478824388462943,
+                                            "afterExactMatch":  0.9479280759401242,
+                                            "deltaExactRows":  1
+                                        },
+                                        {
+                                            "topicSlug":  "maple_syrup",
+                                            "threshold":  0.7,
+                                            "support":  22,
+                                            "candidateRows":  45,
+                                            "beforeExactMatch":  0.9479280759401242,
+                                            "afterExactMatch":  0.947973713033954,
+                                            "deltaExactRows":  1
+                                        },
+                                        {
+                                            "topicSlug":  "samsung_galaxy_s_reviews",
+                                            "threshold":  0.65,
+                                            "support":  315,
+                                            "candidateRows":  1998,
+                                            "beforeExactMatch":  0.947973713033954,
+                                            "afterExactMatch":  0.9480193501277838,
+                                            "deltaExactRows":  1
+                                        },
+                                        {
+                                            "topicSlug":  "sinners_film_reviews",
+                                            "threshold":  0.75,
+                                            "support":  25,
+                                            "candidateRows":  51,
+                                            "beforeExactMatch":  0.9480193501277838,
+                                            "afterExactMatch":  0.9480649872216137,
+                                            "deltaExactRows":  1
+                                        },
+                                        {
+                                            "topicSlug":  "right_to_repair",
+                                            "threshold":  0.75,
+                                            "support":  7,
+                                            "candidateRows":  752,
+                                            "beforeExactMatch":  0.9480649872216137,
+                                            "afterExactMatch":  0.9482018985031033,
+                                            "deltaExactRows":  3
+                                        },
+                                        {
+                                            "topicSlug":  "iron_man_films",
+                                            "threshold":  0.8,
+                                            "support":  7,
+                                            "candidateRows":  12,
+                                            "beforeExactMatch":  0.9482018985031033,
+                                            "afterExactMatch":  0.9482018985031033,
+                                            "deltaExactRows":  0
+                                        },
+                                        {
+                                            "topicSlug":  "5g_network_performance",
+                                            "threshold":  0.7,
+                                            "support":  23,
+                                            "candidateRows":  53,
+                                            "beforeExactMatch":  0.9482018985031033,
+                                            "afterExactMatch":  0.9482475355969332,
+                                            "deltaExactRows":  1
+                                        },
+                                        {
+                                            "topicSlug":  "high_cortisol",
+                                            "threshold":  0.65,
+                                            "support":  213,
+                                            "candidateRows":  2005,
+                                            "beforeExactMatch":  0.9482475355969332,
+                                            "afterExactMatch":  0.9482475355969332,
+                                            "deltaExactRows":  0
+                                        },
+                                        {
+                                            "topicSlug":  "vitamin_d_supplementation",
+                                            "threshold":  0.7,
+                                            "support":  172,
+                                            "candidateRows":  1447,
+                                            "beforeExactMatch":  0.9482475355969332,
+                                            "afterExactMatch":  0.9482931726907631,
+                                            "deltaExactRows":  1
+                                        }
+                                    ],
+    "acceptedSuppressionRules":  [
+                                     {
+                                         "removeTopicSlug":  "gut_brain_axis",
+                                         "whenCoPredictedWith":  "gut_microbiome",
+                                         "deltaExactRows":  14,
+                                         "afterExactMatch":  0.9489320920043811,
+                                         "afterMicroF1":  0.9822304328756928,
+                                         "afterPrecision":  0.9742670322716727,
+                                         "afterRecall":  0.9903250877710181
+                                     },
+                                     {
+                                         "removeTopicSlug":  "reproductive_hormone_health",
+                                         "whenCoPredictedWith":  "testosterone_and_hormone_optimization",
+                                         "deltaExactRows":  8,
+                                         "afterExactMatch":  0.9492971887550201,
+                                         "afterMicroF1":  0.9823474677655191,
+                                         "afterPrecision":  0.974523300894058,
+                                         "afterRecall":  0.9902982874601345
+                                     },
+                                     {
+                                         "removeTopicSlug":  "superhero_movies",
+                                         "whenCoPredictedWith":  "doctor_doom_mcu_casting",
+                                         "deltaExactRows":  6,
+                                         "afterExactMatch":  0.9495710113179993,
+                                         "afterMicroF1":  0.9824379478589186,
+                                         "afterPrecision":  0.9747533372025536,
+                                         "afterRecall":  0.9902446868383673
+                                     },
+                                     {
+                                         "removeTopicSlug":  "family_relationships",
+                                         "whenCoPredictedWith":  "family_relationships_and_attachment",
+                                         "deltaExactRows":  4,
+                                         "afterExactMatch":  0.9497535596933188,
+                                         "afterMicroF1":  0.9826077706565965,
+                                         "afterPrecision":  0.9750877470772966,
+                                         "afterRecall":  0.9902446868383673
+                                     },
+                                     {
+                                         "removeTopicSlug":  "huawei_ban_and_android_geopolitics",
+                                         "whenCoPredictedWith":  "flagship_smartphone_reviews",
+                                         "deltaExactRows":  2,
+                                         "afterExactMatch":  0.9498448338809785,
+                                         "afterMicroF1":  0.9826465073602745,
+                                         "afterPrecision":  0.9751900337837838,
+                                         "afterRecall":  0.9902178865274838
+                                     },
+                                     {
+                                         "removeTopicSlug":  "happiness_and_wellbeing_psychology",
+                                         "whenCoPredictedWith":  "relationship_psychology_and_attachment",
+                                         "deltaExactRows":  2,
+                                         "afterExactMatch":  0.9499361080686382,
+                                         "afterMicroF1":  0.9826726419234298,
+                                         "afterPrecision":  0.9752415140157314,
+                                         "afterRecall":  0.9902178865274838
+                                     },
+                                     {
+                                         "removeTopicSlug":  "oral_health_and_fluoride",
+                                         "whenCoPredictedWith":  "strength_training",
+                                         "deltaExactRows":  2,
+                                         "afterExactMatch":  0.9500273822562979,
+                                         "afterMicroF1":  0.982698777876777,
+                                         "afterPrecision":  0.9752929996832436,
+                                         "afterRecall":  0.9902178865274838
+                                     },
+                                     {
+                                         "removeTopicSlug":  "open_source_ai_models",
+                                         "whenCoPredictedWith":  "insulin_resistance",
+                                         "deltaExactRows":  2,
+                                         "afterExactMatch":  0.9501186564439577,
+                                         "afterMicroF1":  0.9827249152204269,
+                                         "afterPrecision":  0.9753444907871812,
+                                         "afterRecall":  0.9902178865274838
+                                     },
+                                     {
+                                         "removeTopicSlug":  "emotional_intelligence_and_emotion_regulation",
+                                         "whenCoPredictedWith":  "cortisol_stress_and_burnout",
+                                         "deltaExactRows":  2,
+                                         "afterExactMatch":  0.9502099306316174,
+                                         "afterMicroF1":  0.9827510539544905,
+                                         "afterPrecision":  0.9753959873284055,
+                                         "afterRecall":  0.9902178865274838
+                                     },
+                                     {
+                                         "removeTopicSlug":  "reproductive_hormone_health",
+                                         "whenCoPredictedWith":  "learning_memory_and_study_protocols",
+                                         "deltaExactRows":  2,
+                                         "afterExactMatch":  0.9503012048192772,
+                                         "afterMicroF1":  0.9827771940790786,
+                                         "afterPrecision":  0.9754474893077776,
+                                         "afterRecall":  0.9902178865274838
+                                     },
+                                     {
+                                         "removeTopicSlug":  "doctor_doom_mcu_casting",
+                                         "whenCoPredictedWith":  "bitcoin_crypto_and_digital_assets",
+                                         "deltaExactRows":  2,
+                                         "afterExactMatch":  0.9503924790069368,
+                                         "afterMicroF1":  0.9828033355943023,
+                                         "afterPrecision":  0.975498996726159,
+                                         "afterRecall":  0.9902178865274838
+                                     },
+                                     {
+                                         "removeTopicSlug":  "movie_reviews_and_opinions",
+                                         "whenCoPredictedWith":  "the_boys_tv_series_reviews",
+                                         "deltaExactRows":  2,
+                                         "afterExactMatch":  0.9504837531945965,
+                                         "afterMicroF1":  0.9828294785002727,
+                                         "afterPrecision":  0.9755505095844115,
+                                         "afterRecall":  0.9902178865274838
+                                     },
+                                     {
+                                         "removeTopicSlug":  "raw_milk",
+                                         "whenCoPredictedWith":  "molasses_and_glycemic_control",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9505293902884264,
+                                         "afterMicroF1":  0.9828556227971005,
+                                         "afterPrecision":  0.9756020278833967,
+                                         "afterRecall":  0.9902178865274838
+                                     },
+                                     {
+                                         "removeTopicSlug":  "education_school_policy",
+                                         "whenCoPredictedWith":  "vision_and_eye_health",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9505750273822563,
+                                         "afterMicroF1":  0.9828817684848968,
+                                         "afterPrecision":  0.9756535516239767,
+                                         "afterRecall":  0.9902178865274838
+                                     },
+                                     {
+                                         "removeTopicSlug":  "hollywood_studio_mergers",
+                                         "whenCoPredictedWith":  "streaming_strategy",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9506206644760862,
+                                         "afterMicroF1":  0.9829051869786747,
+                                         "afterPrecision":  0.9758558748943365,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "happiness_and_wellbeing_psychology",
+                                         "whenCoPredictedWith":  "immune_system_and_cold_flu_prevention",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.950666301569916,
+                                         "afterMicroF1":  0.9829182630906769,
+                                         "afterPrecision":  0.9758816536785101,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "reproductive_hormone_health",
+                                         "whenCoPredictedWith":  "estrogen_hormone_health",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9507119386637459,
+                                         "afterMicroF1":  0.9829313395506006,
+                                         "afterPrecision":  0.9759074338246949,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "film_production_and_screenwriting",
+                                         "whenCoPredictedWith":  "tv_season_finales",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9507575757575758,
+                                         "afterMicroF1":  0.98294441635846,
+                                         "afterPrecision":  0.9759332153329987,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "ldl_cholesterol",
+                                         "whenCoPredictedWith":  "happiness_and_wellbeing_psychology",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9508032128514057,
+                                         "afterMicroF1":  0.9829574935142686,
+                                         "afterPrecision":  0.9759589982035295,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "sex_hormones_and_behavior",
+                                         "whenCoPredictedWith":  "adhd_focus_and_treatment",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9508488499452354,
+                                         "afterMicroF1":  0.9829705710180405,
+                                         "afterPrecision":  0.9759847824363953,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "vision_and_eye_health",
+                                         "whenCoPredictedWith":  "immune_system_and_cold_flu_prevention",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9508944870390653,
+                                         "afterMicroF1":  0.9829836488697896,
+                                         "afterPrecision":  0.976010568031704,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "reproductive_hormone_health",
+                                         "whenCoPredictedWith":  "healthcare_system_reform",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9509401241328952,
+                                         "afterMicroF1":  0.9829967270695298,
+                                         "afterPrecision":  0.9760363549895638,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "brain_health",
+                                         "whenCoPredictedWith":  "film_characters_casting_and_performances",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9509857612267251,
+                                         "afterMicroF1":  0.9830098056172749,
+                                         "afterPrecision":  0.9760621433100825,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "chronic_pain_and_pain_management",
+                                         "whenCoPredictedWith":  "cortisol_stress_and_burnout",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9510313983205549,
+                                         "afterMicroF1":  0.9830228845130389,
+                                         "afterPrecision":  0.976087932993368,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "open_source_ai_models",
+                                         "whenCoPredictedWith":  "education_school_policy",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9510770354143848,
+                                         "afterMicroF1":  0.9830359637568356,
+                                         "afterPrecision":  0.9761137240395286,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "animal_behavior_and_human_pet_relationships",
+                                         "whenCoPredictedWith":  "ssri_and_antidepressant_use",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9511226725082147,
+                                         "afterMicroF1":  0.9830490433486788,
+                                         "afterPrecision":  0.9761395164486723,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "family_relationships_and_attachment",
+                                         "whenCoPredictedWith":  "adhd_focus_and_treatment",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9511683096020446,
+                                         "afterMicroF1":  0.9830621232885826,
+                                         "afterPrecision":  0.9761653102209069,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "happiness_and_wellbeing_psychology",
+                                         "whenCoPredictedWith":  "mitochondrial_health",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9512139466958744,
+                                         "afterMicroF1":  0.9830752035765608,
+                                         "afterPrecision":  0.9761911053563407,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "placebo_effects",
+                                         "whenCoPredictedWith":  "circadian_rhythm_and_sleep_timing",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9512595837897043,
+                                         "afterMicroF1":  0.9830882842126273,
+                                         "afterPrecision":  0.9762169018550817,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "happiness_and_wellbeing_psychology",
+                                         "whenCoPredictedWith":  "emotional_intelligence_and_emotion_regulation",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9513052208835341,
+                                         "afterMicroF1":  0.9831013651967959,
+                                         "afterPrecision":  0.9762426997172379,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "strength_training",
+                                         "whenCoPredictedWith":  "testosterone_and_hormone_optimization",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.951350857977364,
+                                         "afterMicroF1":  0.9831144465290806,
+                                         "afterPrecision":  0.9762684989429176,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "brain_health",
+                                         "whenCoPredictedWith":  "menopause_hormone_health",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9513964950711938,
+                                         "afterMicroF1":  0.9831275282094954,
+                                         "afterPrecision":  0.9762942995322287,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "visceral_fat_and_metabolic_health",
+                                         "whenCoPredictedWith":  "menopause_hormone_health",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9514421321650237,
+                                         "afterMicroF1":  0.9831406102380541,
+                                         "afterPrecision":  0.9763201014852794,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "menopause_hormone_health",
+                                         "whenCoPredictedWith":  "education_school_policy",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9514877692588536,
+                                         "afterMicroF1":  0.9831536926147705,
+                                         "afterPrecision":  0.9763459048021778,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "education_school_policy",
+                                         "whenCoPredictedWith":  "gut_microbiome",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9515334063526835,
+                                         "afterMicroF1":  0.9831667753396586,
+                                         "afterPrecision":  0.976371709483032,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "psychedelic_therapy_and_clinical_trials",
+                                         "whenCoPredictedWith":  "use_cannabis",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9515790434465133,
+                                         "afterMicroF1":  0.9831798584127323,
+                                         "afterPrecision":  0.9763975155279503,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "oral_health_and_fluoride",
+                                         "whenCoPredictedWith":  "adhd_focus_and_treatment",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9516246805403432,
+                                         "afterMicroF1":  0.9831929418340053,
+                                         "afterPrecision":  0.9764233229370407,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "adhd_stimulant_medication",
+                                         "whenCoPredictedWith":  "parenting_child_development",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9516703176341731,
+                                         "afterMicroF1":  0.9832060256034919,
+                                         "afterPrecision":  0.9764491317104116,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "opioid_use_and_addiction",
+                                         "whenCoPredictedWith":  "strength_training",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.951715954728003,
+                                         "afterMicroF1":  0.9832191097212056,
+                                         "afterPrecision":  0.9764749418481709,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "estrogen_hormone_health",
+                                         "whenCoPredictedWith":  "family_relationships",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9517615918218327,
+                                         "afterMicroF1":  0.9832321941871607,
+                                         "afterPrecision":  0.9765007533504269,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "oral_health_and_fluoride",
+                                         "whenCoPredictedWith":  "animal_behavior_and_human_pet_relationships",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9518072289156626,
+                                         "afterMicroF1":  0.9832452790013707,
+                                         "afterPrecision":  0.9765265662172878,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "adhd_focus_and_treatment",
+                                         "whenCoPredictedWith":  "placebo_effects",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9518528660094925,
+                                         "afterMicroF1":  0.9832583641638498,
+                                         "afterPrecision":  0.976552380448862,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "great_power_politics",
+                                         "whenCoPredictedWith":  "drone_warfare_and_defense_tech",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9518985031033224,
+                                         "afterMicroF1":  0.9832714496746118,
+                                         "afterPrecision":  0.9765781960452575,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "ai_societal_impact",
+                                         "whenCoPredictedWith":  "chip_supply_chain",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9519441401971522,
+                                         "afterMicroF1":  0.9832845355336705,
+                                         "afterPrecision":  0.9766040130065826,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "big_tech_employment_and_layoffs",
+                                         "whenCoPredictedWith":  "commercial_real_estate_debt_crisis",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9519897772909821,
+                                         "afterMicroF1":  0.98329762174104,
+                                         "afterPrecision":  0.9766298313329456,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "defense_budget",
+                                         "whenCoPredictedWith":  "commercial_real_estate_debt_crisis",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.952035414384812,
+                                         "afterMicroF1":  0.9833107082967341,
+                                         "afterPrecision":  0.9766556510244547,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "silicon_valley_bank_and_regional_banking_crisis",
+                                         "whenCoPredictedWith":  "federal_budget_and_national_debt",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9520810514786419,
+                                         "afterMicroF1":  0.9833237952007666,
+                                         "afterPrecision":  0.9766814720812182,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "streaming_strategy",
+                                         "whenCoPredictedWith":  "saas_gross_margins_and_valuation",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9521266885724717,
+                                         "afterMicroF1":  0.9833368824531517,
+                                         "afterPrecision":  0.9767072945033445,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "saas_gross_margins_and_valuation",
+                                         "whenCoPredictedWith":  "streaming_strategy",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9521723256663016,
+                                         "afterMicroF1":  0.983349970053903,
+                                         "afterPrecision":  0.9767331182909418,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "military_alliances",
+                                         "whenCoPredictedWith":  "drone_warfare_and_defense_tech",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9522179627601315,
+                                         "afterMicroF1":  0.9833630580030346,
+                                         "afterPrecision":  0.9767589434441184,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "venture_capital_fund_economics",
+                                         "whenCoPredictedWith":  "great_power_politics",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9522635998539613,
+                                         "afterMicroF1":  0.9833761463005604,
+                                         "afterPrecision":  0.9767847699629826,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "doctor_doom_mcu_casting",
+                                         "whenCoPredictedWith":  "great_power_politics",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9523092369477911,
+                                         "afterMicroF1":  0.9833892349464942,
+                                         "afterPrecision":  0.9768105978476427,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "openai_company",
+                                         "whenCoPredictedWith":  "disney_leadership_and_corporate_strategy",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.952354874041621,
+                                         "afterMicroF1":  0.98340232394085,
+                                         "afterPrecision":  0.9768364270982072,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "open_source_ai_models",
+                                         "whenCoPredictedWith":  "federal_budget_and_national_debt",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9524005111354509,
+                                         "afterMicroF1":  0.9834154132836417,
+                                         "afterPrecision":  0.9768622577147844,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "minimum_wage_and_labor_policy",
+                                         "whenCoPredictedWith":  "public_health_trust_and_science_policy",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9524461482292808,
+                                         "afterMicroF1":  0.9834285029748832,
+                                         "afterPrecision":  0.9768880896974825,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "education_school_policy",
+                                         "whenCoPredictedWith":  "immune_system_and_cold_flu_prevention",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9524917853231106,
+                                         "afterMicroF1":  0.9834415930145884,
+                                         "afterPrecision":  0.9769139230464101,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "oneplus_smartphone_reviews",
+                                         "whenCoPredictedWith":  "apple_mac_reviews",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9525374224169405,
+                                         "afterMicroF1":  0.9834546834027713,
+                                         "afterPrecision":  0.9769397577616755,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "ai_societal_impact",
+                                         "whenCoPredictedWith":  "apple_ai_strategy_and_apple_intelligence",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9525830595107704,
+                                         "afterMicroF1":  0.9834677741394457,
+                                         "afterPrecision":  0.9769655938433872,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "5g_network_performance",
+                                         "whenCoPredictedWith":  "family_relationships",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9526286966046003,
+                                         "afterMicroF1":  0.9834808652246256,
+                                         "afterPrecision":  0.9769914312916534,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "oneplus_smartphone_reviews",
+                                         "whenCoPredictedWith":  "foldable_smartphone_reviews",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9526743336984301,
+                                         "afterMicroF1":  0.983493956658325,
+                                         "afterPrecision":  0.9770172701065828,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "right_to_repair",
+                                         "whenCoPredictedWith":  "android_os_and_software_updates",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9527199707922599,
+                                         "afterMicroF1":  0.9835070484405575,
+                                         "afterPrecision":  0.9770431102882835,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "budget_android_smartphones",
+                                         "whenCoPredictedWith":  "foldable_smartphone_reviews",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9527656078860898,
+                                         "afterMicroF1":  0.9835201405713373,
+                                         "afterPrecision":  0.9770689518368643,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "smartwatch_and_wearable_reviews",
+                                         "whenCoPredictedWith":  "consumer_drone_technology",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9528112449799196,
+                                         "afterMicroF1":  0.9835332330506782,
+                                         "afterPrecision":  0.9770947947524333,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "tv_and_display_technology",
+                                         "whenCoPredictedWith":  "compact_camera_reviews",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9528568820737495,
+                                         "afterMicroF1":  0.9835463258785943,
+                                         "afterPrecision":  0.9771206390350993,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "advanced_glycation",
+                                         "whenCoPredictedWith":  "brain_health",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9529025191675794,
+                                         "afterMicroF1":  0.9835594190550992,
+                                         "afterPrecision":  0.9771464846849707,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "ldl_cholesterol",
+                                         "whenCoPredictedWith":  "eating_disorders_and_food_reward",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9529481562614093,
+                                         "afterMicroF1":  0.9835725125802072,
+                                         "afterPrecision":  0.9771723317021558,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "psilocybin_therapy_and_psychedelic_experience",
+                                         "whenCoPredictedWith":  "high_cortisol",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9529937933552391,
+                                         "afterMicroF1":  0.9835856064539319,
+                                         "afterPrecision":  0.9771981800867633,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "open_source_ai_models",
+                                         "whenCoPredictedWith":  "cortisol_stress_and_burnout",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.953039430449069,
+                                         "afterMicroF1":  0.9835987006762873,
+                                         "afterPrecision":  0.9772240298389017,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "maple_syrup",
+                                         "whenCoPredictedWith":  "gut_microbiome",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9530850675428989,
+                                         "afterMicroF1":  0.9836117952472875,
+                                         "afterPrecision":  0.9772498809586795,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "placebo_effects",
+                                         "whenCoPredictedWith":  "family_relationships",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9531307046367288,
+                                         "afterMicroF1":  0.9836248901669462,
+                                         "afterPrecision":  0.9772757334462051,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "pcos_endometriosis_and_fertility",
+                                         "whenCoPredictedWith":  "visceral_fat_and_metabolic_health",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9531763417305587,
+                                         "afterMicroF1":  0.9836379854352775,
+                                         "afterPrecision":  0.9773015873015873,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "pcos_endometriosis_and_fertility",
+                                         "whenCoPredictedWith":  "carbohydrate_intake_strategy",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9532219788243884,
+                                         "afterMicroF1":  0.9836510810522953,
+                                         "afterPrecision":  0.9773274425249345,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "raw_milk",
+                                         "whenCoPredictedWith":  "blood_brain_barrier_and_cognitive_health",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9532676159182183,
+                                         "afterMicroF1":  0.9836641770180133,
+                                         "afterPrecision":  0.9773532991163554,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "estrogen_hormone_health",
+                                         "whenCoPredictedWith":  "attention_focus_and_cognitive_control",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9533132530120482,
+                                         "afterMicroF1":  0.9836772733324457,
+                                         "afterPrecision":  0.9773791570759585,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "hollywood_studio_mergers",
+                                         "whenCoPredictedWith":  "imax_screens_and_premium_theater_formats",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.953358890105878,
+                                         "afterMicroF1":  0.9836903699956064,
+                                         "afterPrecision":  0.9774050164038522,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "television_awards_and_emmy_races",
+                                         "whenCoPredictedWith":  "superhero_movies",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9534045271997079,
+                                         "afterMicroF1":  0.9837034670075092,
+                                         "afterPrecision":  0.9774308771001455,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "warner_bros_studio",
+                                         "whenCoPredictedWith":  "star_wars_canon_and_jedi_lore",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9534501642935378,
+                                         "afterMicroF1":  0.9837165643681681,
+                                         "afterPrecision":  0.9774567391649468,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "hollywood_studio_mergers",
+                                         "whenCoPredictedWith":  "disney_animated_film_releases",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9534958013873677,
+                                         "afterMicroF1":  0.983729662077597,
+                                         "afterPrecision":  0.9774826025983647,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "disney_leadership_and_corporate_strategy",
+                                         "whenCoPredictedWith":  "warner_bros_studio",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9535414384811975,
+                                         "afterMicroF1":  0.9837427601358099,
+                                         "afterPrecision":  0.977508467400508,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "streaming_strategy",
+                                         "whenCoPredictedWith":  "ryan_coogler_films",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9535870755750274,
+                                         "afterMicroF1":  0.9837558585428207,
+                                         "afterPrecision":  0.9775343335714852,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "iron_man_and_tony_stark_mcu",
+                                         "whenCoPredictedWith":  "warner_bros_studio",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9536327126688573,
+                                         "afterMicroF1":  0.9837689572986432,
+                                         "afterPrecision":  0.9775602011114052,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "iron_man_films",
+                                         "whenCoPredictedWith":  "transformers_and_hasbro_franchise_films",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9536783497626871,
+                                         "afterMicroF1":  0.9837820564032915,
+                                         "afterPrecision":  0.9775860700203763,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "hugh_jackman_as_wolverine",
+                                         "whenCoPredictedWith":  "streaming_tv_series_reviews",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9537239868565169,
+                                         "afterMicroF1":  0.9837951558567796,
+                                         "afterPrecision":  0.9776119402985075,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "generative_ai_creativity",
+                                         "whenCoPredictedWith":  "imax_screens_and_premium_theater_formats",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9537696239503468,
+                                         "afterMicroF1":  0.9838082556591212,
+                                         "afterPrecision":  0.9776378119459074,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "mcu_post_credit_scenes",
+                                         "whenCoPredictedWith":  "academy_awards_and_oscar_races",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9538152610441767,
+                                         "afterMicroF1":  0.9838213558103304,
+                                         "afterPrecision":  0.9776636849626846,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "iron_man_and_tony_stark_mcu",
+                                         "whenCoPredictedWith":  "streaming_tv_series_reviews",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9538608981380066,
+                                         "afterMicroF1":  0.9838344563104211,
+                                         "afterPrecision":  0.977689559348948,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "wicked_movie_musical_reviews",
+                                         "whenCoPredictedWith":  "mcu_doctor_strange_films",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9539065352318364,
+                                         "afterMicroF1":  0.9838475571594072,
+                                         "afterPrecision":  0.9777154351048063,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "karate_kid_and_cobra_kai_franchise",
+                                         "whenCoPredictedWith":  "superhero_movies",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9539521723256663,
+                                         "afterMicroF1":  0.9838606583573026,
+                                         "afterPrecision":  0.9777413122303682,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "film_music_awards",
+                                         "whenCoPredictedWith":  "disney_leadership_and_corporate_strategy",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9539978094194962,
+                                         "afterMicroF1":  0.9838737599041214,
+                                         "afterPrecision":  0.9777671907257424,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "disney_animated_film_releases",
+                                         "whenCoPredictedWith":  "academy_awards_and_oscar_races",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9540434465133261,
+                                         "afterMicroF1":  0.9838868617998775,
+                                         "afterPrecision":  0.9777930705910378,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "television_awards_and_emmy_races",
+                                         "whenCoPredictedWith":  "alien_and_predator_franchise_films",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9540890836071559,
+                                         "afterMicroF1":  0.9838999640445847,
+                                         "afterPrecision":  0.9778189518263631,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "movie_budgets_and_studio_profitability",
+                                         "whenCoPredictedWith":  "apple_tv_plus_streaming_strategy",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9541347207009858,
+                                         "afterMicroF1":  0.9839130666382571,
+                                         "afterPrecision":  0.9778448344318272,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "deadpool_and_wolverine_film",
+                                         "whenCoPredictedWith":  "karate_kid_and_cobra_kai_franchise",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9541803577948156,
+                                         "afterMicroF1":  0.9839261695809085,
+                                         "afterPrecision":  0.9778707184075388,
+                                         "afterRecall":  0.9900570846621821
+                                     },
+                                     {
+                                         "removeTopicSlug":  "brain_health",
+                                         "whenCoPredictedWith":  "bdnf_and_neuroplasticity",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9542259948886455,
+                                         "afterMicroF1":  0.9839388450884295,
+                                         "afterPrecision":  0.9779219060225016,
+                                         "afterRecall":  0.9900302843512985
+                                     },
+                                     {
+                                         "removeTopicSlug":  "blood_brain_barrier_and_cognitive_health",
+                                         "whenCoPredictedWith":  "use_cannabis",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9542716319824753,
+                                         "afterMicroF1":  0.9839515216088434,
+                                         "afterPrecision":  0.9779731017685058,
+                                         "afterRecall":  0.9900034840404148
+                                     },
+                                     {
+                                         "removeTopicSlug":  "movie_reviews_and_opinions",
+                                         "whenCoPredictedWith":  "wicked_movie_musical_reviews",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9543172690763052,
+                                         "afterMicroF1":  0.983963344788087,
+                                         "afterPrecision":  0.9780749371110817,
+                                         "afterRecall":  0.989923083107764
+                                     },
+                                     {
+                                         "removeTopicSlug":  "visual_effects_industry",
+                                         "whenCoPredictedWith":  "academy_awards_and_oscar_races",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.9543629061701351,
+                                         "afterMicroF1":  0.9839751701722369,
+                                         "afterPrecision":  0.9781768102124053,
+                                         "afterRecall":  0.9898426821751133
+                                     },
+                                     {
+                                         "removeTopicSlug":  "maple_syrup",
+                                         "whenCoPredictedWith":  "raw_milk",
+                                         "deltaExactRows":  1,
+                                         "afterExactMatch":  0.954408543263965,
+                                         "afterMicroF1":  0.9839747432362227,
+                                         "afterPrecision":  0.9782021400572094,
+                                         "afterRecall":  0.9898158818642296
+                                     }
+                                 ],
+    "residualErrorRows":  999
+}

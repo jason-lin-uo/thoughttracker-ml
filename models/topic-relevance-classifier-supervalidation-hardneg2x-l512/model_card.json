@@ -1,0 +1,17 @@
+{
+  "modelVersion": "topic-relevance-supervalidation-hardneg2x-l512",
+  "baseModel": "models\\topic-relevance-classifier-deberta-hardcase-l512",
+  "task": "topic_relevance",
+  "labels": [
+    "irrelevant",
+    "relevant"
+  ],
+  "rows": 106191,
+  "maxLength": 512,
+  "metrics": null,
+  "notes": [
+    "No standalone held-out eval for the relevance classifier is recorded on disk, so metrics is intentionally null rather than fabricated.",
+    "The only numbers that exercise this model are PIPELINE-LEVEL (relevance gate + reranker + selection policy combined), captured in reports/metrics/hybrid_topic_pipeline_thismachine.json under hybridMetrics/thresholdSweep (best micro_f1 = 0.660 at threshold 0.4). Those are not this model's isolated precision/recall and should not be reported as such.",
+    "To record real isolated metrics, re-run the relevance eval against a held-out split and write the per-label precision/recall here."
+  ]
+}

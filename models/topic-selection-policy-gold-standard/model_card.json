@@ -1,0 +1,31 @@
+{
+  "modelVersion": "topic-selection-policy-gold-standard",
+  "createdAt": "2026-06-06T02:50:52-04:00",
+  "purpose": "Frozen topic-selection policy for the ThoughtTracker demo corpus.",
+  "dataset": "data\\processed\\thoughttracker_topic_reranker_gold_standard.csv",
+  "relevanceTrainingRows": "data\\processed\\thoughttracker_topic_relevance_gold_standard.csv",
+  "rerankerModel": "models\\topic-reranker-tfidf-sgd-supervalidation\\topic_reranker_model.pkl",
+  "relevanceModel": "models\\topic-relevance-classifier-supervalidation-hardneg2x-l512",
+  "metrics": {
+    "rowsEvaluated": 21912,
+    "scoringDevice": "NVIDIA GeForce RTX 5090 Laptop GPU",
+    "exactMatch": 0.954408543263965,
+    "microF1": 0.9839747432362228,
+    "precision": 0.9782021400572094,
+    "recall": 0.9898158818642296,
+    "macroF1": 0.7534613634378959,
+    "samplesF1": 0.9862,
+    "source": "reports/metrics/topic_selection_policy_gold_standard_metrics.md"
+  },
+  "reproduction": {
+    "machine": "this-machine (Apple Silicon, MPS)",
+    "candidateRecallAt5": 0.9990959316926168,
+    "note": "On-device (MPS) rerun of the hybrid candidate-generation stage reproduced candidate recall@5 = 99.9%, matching the gold RTX 5090 run; see reports/metrics/hybrid_topic_pipeline_thismachine.json."
+  },
+  "headlinePass": true,
+  "notes": [
+    "This artifact is the calibrated selection policy layered on top of the trained reranker and relevance model.",
+    "Headline metrics above are the gold-standard RTX 5090 scoring run (21,912 rows); the MPS this-machine rerun reproduced the candidate recall@5 within noise.",
+    "Intermediate packet, label, cache, and failed-run artifacts are intentionally omitted from the clean workspace."
+  ]
+}

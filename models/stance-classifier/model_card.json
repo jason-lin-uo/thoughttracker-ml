@@ -1,0 +1,34 @@
+{
+  "modelVersion": "stance-classifier-v1",
+  "baseModel": "distilbert-base-uncased",
+  "labels": [
+    "supportive",
+    "opposed",
+    "neutral",
+    "mixed",
+    "unclear"
+  ],
+  "maxLength": 128,
+  "metrics": {
+    "split": "held-out test (group-aware GroupShuffleSplit)",
+    "support": 833,
+    "accuracy": 0.6854741896758704,
+    "precisionMacro": 0.6724766461608566,
+    "recallMacro": 0.6530741204906766,
+    "f1Macro": 0.6608768746075984,
+    "f1Weighted": 0.6830753405919587,
+    "perLabelF1": {
+      "supportive": 0.6033254156769596,
+      "opposed": 0.7471526195899773,
+      "neutral": 0.6321525885558583,
+      "mixed": 0.0,
+      "unclear": 0.0
+    },
+    "source": "reports/metrics/test_metrics.json"
+  },
+  "notes": [
+    "Real held-out test metrics from reports/metrics/test_metrics.json (the group-aware eval split). The macro figures above (precisionMacro/recallMacro/f1Macro) are computed over the three labels with support in this split; the classification report's own 'macro avg' (~0.40) averages across all FIVE label slots and is dragged down by the two zero-support classes.",
+    "`mixed` and `unclear` have ZERO support in this test split, so their per-label F1 is 0 by definition (no examples to score). They are not broken classes — the demo corpus simply contains no held-out examples for them.",
+    "These are evaluation numbers on a small annotated slice, not production accuracy; the backend defaults to mock/LLM stance and only calls this model when STANCE_ANALYSIS_PROVIDER=custom_ml|hybrid."
+  ]
+}
