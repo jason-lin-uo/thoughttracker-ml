@@ -1,0 +1,79 @@
+__pycache__/
+*.py[cod]
+.venv*
+venv/
+env/
+.pip-cache/
+.env
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+*.log
+
+# Model artifacts
+# The final portfolio/runtime artifacts are intentionally committed so a fresh
+# clone can run the gold-standard ThoughtTracker pipeline. Training checkpoints
+# remain local because they are huge, redundant history.
+models/*
+!models/.gitkeep
+!models/stance-classifier/
+!models/stance-classifier/config.json
+!models/stance-classifier/model.safetensors
+!models/stance-classifier/model_card.json
+!models/stance-classifier/special_tokens_map.json
+!models/stance-classifier/tokenizer.json
+!models/stance-classifier/tokenizer_config.json
+!models/stance-classifier/training_args.bin
+!models/stance-classifier/vocab.txt
+!models/topic-relevance-classifier-supervalidation-hardneg2x-l512/
+!models/topic-relevance-classifier-supervalidation-hardneg2x-l512/*
+!models/topic-reranker-tfidf-sgd-supervalidation/
+!models/topic-reranker-tfidf-sgd-supervalidation/*
+!models/topic-selection-policy-gold-standard/
+!models/topic-selection-policy-gold-standard/*
+models/**/checkpoints/
+models/**/checkpoint-*/
+
+# Reports
+reports/figures/*
+reports/metrics/*
+!reports/figures/.gitkeep
+!reports/metrics/.gitkeep
+!reports/metrics/topic_selection_policy_gold_standard_metrics.json
+!reports/metrics/topic_selection_policy_gold_standard_metrics.md
+
+# Data outputs
+data/processed/*
+!data/processed/.gitkeep
+!data/processed/thoughttracker_topic_relevance_gold_standard.csv
+!data/processed/thoughttracker_topic_reranker_gold_standard.csv
+data/raw/*
+!data/raw/.gitkeep
+data/labeling/
+data/topic_discovery/
+
+# Local run artifacts
+logs/
+archive/
+
+# pytest + coverage outputs
+.coverage
+test-results/
+
+# YouTube transcript downloads
+# Keep the final creator .txt corpus in Git; keep raw caption caches and excluded
+# quality-control buckets local.
+data/transcripts/*
+!data/transcripts/allin/
+!data/transcripts/allin/**/*.txt
+!data/transcripts/campea/
+!data/transcripts/campea/**/*.txt
+!data/transcripts/delauer/
+!data/transcripts/delauer/**/*.txt
+!data/transcripts/huberman/
+!data/transcripts/huberman/**/*.txt
+!data/transcripts/mkbhd/
+!data/transcripts/mkbhd/**/*.txt
+data/yt-dlp-captions/
+data/yt-dlp-test/
+data/audio-test/

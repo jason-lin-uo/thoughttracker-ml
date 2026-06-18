@@ -1,0 +1,28 @@
+# Core ML stack
+torch>=2.1,<2.5
+transformers>=4.40,<5
+datasets>=2.18,<3
+evaluate>=0.4,<1
+accelerate>=1.0,<2
+
+# Classic data science
+scikit-learn==1.8.0 # pinned: must match the committed reranker .pkl (else InconsistentVersionWarning + invalid scores)
+pandas>=2.0,<3
+numpy>=1.24,<2 # <2: torch 2.4 + transformers 4.57 expect the numpy 1.x ABI
+matplotlib>=3.7,<4
+
+# API
+fastapi>=0.110,<1
+uvicorn[standard]>=0.27,<1
+pydantic>=2.5,<3
+python-dotenv>=1.0,<2
+
+# Creator onboarding / transcript collection
+yt-dlp>=2024.12,<2027
+youtube-transcript-api>=0.6,<2
+
+# Tests + lint
+pytest>=7.4,<9
+pytest-cov>=4.1,<7
+httpx>=0.27,<1
+ruff>=0.6,<1
