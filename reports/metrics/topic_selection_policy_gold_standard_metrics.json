@@ -1,0 +1,25 @@
+{
+  "artifact": "topic-selection-policy-gold-standard",
+  "dataset": "data\\processed\\thoughttracker_topic_reranker_gold_standard.csv",
+  "relevanceTrainingRows": "data\\processed\\thoughttracker_topic_relevance_gold_standard.csv",
+  "rowsEvaluated": 21912,
+  "displayTiers": ["showcase", "usable"],
+  "scoringDevice": "NVIDIA GeForce RTX 5090 Laptop GPU",
+  "metrics": {
+    "exactMatch": 0.954408543263965,
+    "microF1": 0.9839747432362228,
+    "precision": 0.9782021400572094,
+    "recall": 0.9898158818642296,
+    "macroF1": 0.7534613634378959,
+    "samplesF1": 0.9862
+  },
+  "candidateRecall": {
+    "at1": 0.7196764226899838,
+    "at2": 0.9315054107118397,
+    "at3": 0.9848949058642681,
+    "at5": 0.9990959316926168,
+    "at8": 0.9994863248253505,
+    "at12": 0.9995015448305253
+  },
+  "headlinePass": true
+}
