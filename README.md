@@ -8,6 +8,14 @@ excerpts, serves stance predictions over a FastAPI endpoint, and contains the
 topic relevance/reranking/calibration scripts used to freeze the current
 gold-standard topic-selection policy.
 
+## Product preview
+
+This repo powers the ML and reanalysis side of the public app. The user-facing
+product lives in [`jason-lin-uo/thoughttracker`](https://github.com/jason-lin-uo/thoughttracker)
+and is deployed at <https://thoughttracker-web-415a.onrender.com/>.
+
+![ThoughtTracker dashboard showing the featured Marques Brownlee foldables report and real five-creator corpus.](https://github.com/jason-lin-uo/thoughttracker/raw/main/docs/assets/screenshots/dashboard.png)
+
 > The classifier scores the **stance expressed in a transcript excerpt**
 > toward a given topic. It does not claim to know the speaker's private
 > beliefs. It is an excerpt classifier, not a truth engine.
