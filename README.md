@@ -14,7 +14,7 @@ This repo powers the ML and reanalysis side of the public app. The user-facing
 product lives in [`jason-lin-uo/thoughttracker`](https://github.com/jason-lin-uo/thoughttracker)
 and is deployed at <https://thoughttracker-web-415a.onrender.com/>.
 
-![ThoughtTracker dashboard showing the featured Marques Brownlee foldables report and real five-creator corpus.](https://github.com/jason-lin-uo/thoughttracker/raw/main/docs/assets/screenshots/dashboard.png)
+![ThoughtTracker dashboard showing the real five-creator corpus and a featured report.](https://github.com/jason-lin-uo/thoughttracker/raw/main/docs/assets/screenshots/dashboard.png)
 
 > The classifier scores the **stance expressed in a transcript excerpt**
 > toward a given topic. It does not claim to know the speaker's private
