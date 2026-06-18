@@ -22,6 +22,20 @@ and is deployed at <https://thoughttracker-web-415a.onrender.com/>.
 
 ---
 
+## What To Review First
+
+- Start with
+  [`reports/metrics/topic_selection_policy_gold_standard_metrics.md`](reports/metrics/topic_selection_policy_gold_standard_metrics.md)
+  for the frozen topic-selection results.
+- Review [`integration_contract.md`](integration_contract.md) to see how this
+  FastAPI service connects to the TypeScript product.
+- Inspect [`src/inference/`](src/inference/) and [`scripts/`](scripts/) for model
+  loading, topic relevance, reranking, and owner refresh workflows.
+- Use the main app screenshots and live app for the product-facing result of
+  this pipeline.
+
+---
+
 ## How it complements ThoughtTracker
 
 | Concern                                                                     | Owner                                |
