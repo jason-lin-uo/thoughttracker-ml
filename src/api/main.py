@@ -117,6 +117,7 @@ app = FastAPI(
         "Classifies a transcript excerpt's expressed stance toward a topic. "
         "It does not infer the speaker's private beliefs."
     ),
+    contact={"name": "Jason Lin", "url": "https://github.com/jason-lin-uo"},
     lifespan=_lifespan,
 )
 

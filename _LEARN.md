@@ -1,5 +1,7 @@
 # \_LEARN.md - thoughttracker-ml
 
+Author: Jason Lin
+
 This repo is the ML half of ThoughtTracker. It serves local models for the main
 TypeScript app and stores the final transcript/model artifacts used by the
 portfolio product.

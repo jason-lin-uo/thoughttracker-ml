@@ -1,5 +1,7 @@
 ﻿# ThoughtTracker ML - Transcript Intelligence Pipeline
 
+Built by Jason Lin as the companion machine-learning pipeline for ThoughtTracker.
+
 A companion ML project to **ThoughtTracker**. It fine-tunes a lightweight
 pretrained transformer (DistilBERT by default) on labeled transcript
 excerpts, serves stance predictions over a FastAPI endpoint, and contains the

@@ -1,5 +1,7 @@
 # Integration Contract - ThoughtTracker <-> ThoughtTracker ML
 
+Author: Jason Lin
+
 This contract describes how the TypeScript ThoughtTracker backend calls the
 Python ML service. It is the source of truth for runtime request/response
 shapes, provider settings, and expected failure behavior.

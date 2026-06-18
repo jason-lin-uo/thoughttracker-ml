@@ -1,5 +1,7 @@
 # Creator Onboarding Playbook
 
+Author: Jason Lin
+
 This document describes how ThoughtTracker scales from the current five-creator
 demo corpus to additional YouTube creators without rebuilding the whole ML
 system from scratch.
