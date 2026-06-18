@@ -1,0 +1,100 @@
+# HD Tutorial: Safari and Webkit Addons
+# https://www.youtube.com/watch?v=7g2q___Kiag
+
+hey guys today i'm going to show you how
+to
+um download and install and apply um
+add-ons for apple safari web browser
+as well as webkit which is i did
+previous video on so go check that one
+out uh first thing you want to do is
+open internet browser that you want to
+use anyone for this
+and go to apple.com i have a bookmark
+here but it's it's just apple.com
+and go to the downloads tab obviously
+there's a number of downloads from apple
+with the recent uh app store add-on what
+you want to go here is
+safari version 3.2
+um if you can't find that you can
+actually search it up here and safari
+but um
+you really don't have to just click on
+the link uh or the
+word safari on the page sorry guys
+and here it'll say why you love safari
+and everything and it'll give you the
+links to download safari but at the
+bottom it says for a richer browsing
+experience you may want to install
+plugins for safari on windows i click on
+that it's done loading already
+and here are all the plugins there are
+six of them and i know it's not firefox
+like but there are six of them and i
+have all these installed adobe reader
+flash player quicktime player
+java which is appropriate for playing
+games or chatting online or something
+a real player and the media player
+now to see which ones you already have
+installed simply hit window
+and
+i think it's help and installed plugins
+and it'll bring up all the installations
+you have i have java i have quicktime
+flash windows media player
+and shockwave and reader
+so
+all all of these are add-ons i have the
+silverlight plug-in um so all the
+add-ons that i already have in safari
+these also work in webkit so i'm gonna
+exit out of safari and open up the
+webkit build obviously that it'll go
+through the command prompt window again
+which is what i showed you in my last
+video
+so give it a second
+and then it will open up safari kit
+and again
+to see which
+to see which add-ons you have installed
+go to help
+and installed plugins and it'll show you
+which ones you have installed
+to install them you already know go to
+apple.com
+downloads
+and safari
+and plug-ins for safari on windows so
+there they are if you want to get the
+plug-in just hit the get plug-in button
+say i want real player i'll hit the
+button that says get plug-in
+and it says click the download link for
+your operating system it works for vista
+windows older versions xp
+mac os 10 and also older version of
+older versions of the mac os
+linux unix and mobile devices so
+hit the download link it'll say if you
+want to save it or open it hit open or
+save it to your desktop and then open
+whichever you like
+um
+and that'll install it in sorry that'll
+plug it right in and you'll be able to
+use those add-ons whenever you like
+it's not quite the same as the firefox
+graphing experience but i do recommend
+this for a richer browsing experience in
+safari
+so um if you use safari i highly
+recommend those thanks for watching if
+you guys have any video requests or
+tutorial ideas for me send me a message
+or leave a comment or something and i
+will get around to it and i'll do my
+best so thanks for watching peace

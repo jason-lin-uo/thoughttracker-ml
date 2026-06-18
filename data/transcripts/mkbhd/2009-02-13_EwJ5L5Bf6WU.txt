@@ -1,0 +1,166 @@
+# HD Battery Saver #3 - External Devices
+# https://www.youtube.com/watch?v=EwJ5L5Bf6WU
+
+hey everyone and wc welcome to part
+three of this battery saving video
+series so what we're going to do in this
+part is we're going to discuss discuss
+actually a number of battery saving tips
+um that I've discovered so first of all
+what we're going to do is turn off
+wireless I know you might think well
+that sounds kind of stupid but the first
+thing people people are usually using
+when they find that they need to
+maximize their battery life maybe
+they're just listening to music maybe
+they're just on an airplane maybe
+they're just chilling in their room just
+messing around with their computer I
+don't know what they're doing so what
+they got to do is disable um if they
+don't have their power supply next to
+them or near them disable um or should I
+say uh turn off wireless so Wireless is
+basically what's constantly searching
+for and also Bluetooth by the way so
+Wireless um if you have a switch on your
+computer it's what's basically
+constantly searching for emails
+constantly searching for a signal if you
+have Thunderbird it's obviously always
+checking downloading emails constantly
+um your virus scans are running on the
+emails that are being
+um searched into your computer so um as
+these things are being surged at your
+computer your computer has to process
+them and that's using your processor so
+turning Wireless off will save you a lot
+of battery life um actually a lot more
+than you might think even more than
+disabling Windows arrow and using a
+bigger battery really so uh disabling
+Wireless is the number one thing that I
+recommend and I'll show you how to do
+that in the software coming up don't
+worry I always do that so number two
+what we're going to do is cut down the
+use of external devices external devices
+being say a mouse or um maybe an
+external drive maybe you have a flash
+drive like this one um maybe you have
+one of these for your mouse that hooks
+up to your wireless mouse I did a review
+on my mouse so things like that if the
+more of these that you have uh hooked up
+to your computer the more battery you're
+going to use um so that that definitely
+drains your battery so remove them or
+shut them down when you're not using
+them so if you're just on your lap and
+you're not actually using your mouse yes
+you can go ahead and unplug that Mouse
+USB now one of my later videos is
+inevitably going to contradict this cuz
+I'm going to end up recommending a
+laptop cooler for you guys which is
+going to run on USB but um that's
+another tip for helping Windows run
+faster as well as um helping your
+computer last longer so it's not
+necessarily going to make your battery
+life better but I guarantee you that
+removing um wireless devices um and
+removing USB devices and external hard
+drives and stuff when you're just moving
+when you're just chilling and you have
+one battery that's going to help you
+guys a lot and I'm I'm pretty sure I
+said three things so I'm going to say
+the last thing is to not use to just
+remove any disc from your CD drive so
+you might have noticed when you open up
+my computer and you go click on my
+computer your hard drive starts spinning
+a little bit or your um your processing
+light on your laptop comes on and that
+might seem a little unusual but really
+it's searching for everything that's new
+that might have been added may have been
+added to your computer since you last
+clicked clicked on my computer button so
+really what you want to do is remove um
+just hit that eject button on the side
+of your computer or just you know
+whatever you go into your windows and
+eject it right click on it and eject
+that disc all the discs that are in
+there trust me spinning the disc
+constantly is going to use a lot of
+battery so the less hard drive you use
+the less USB devices you use and the
+less Wireless activity you do is going
+to they're all going to add up to
+increase the battery life of your
+computer so I hope this was tutorial I
+hope this tutorial was helpful to you
+guys and um I think I'm just going to do
+a quick a quick little software um edit
+after this to show you guys exactly how
+to do a few other the things I just
+showed you so um thanks for watching
+this was number three and uh enjoy the
+software
+peace all right the first thing I told
+you guys on my camera was to um remove
+all your USB or actually this second
+thing but to remove all your USB devices
+now what you want to do if you uh if you
+haven't already known there will be a
+little icon down here um let me just
+hold on let me just plug one in for you
+I'm going to I'm going to plug in a USB
+device in a second and you're going to
+see a little pop-up window saying you
+know you have a USB device plugged in
+exit out all right guys once this is
+plugged in and you will expand your
+system tray right here and you'll see
+this little green icon with a check on
+it but pardon the pardon that blinking
+so I'll expand this again and you'll see
+this little icon with a check I'm going
+to right click on that and there's only
+one option that comes up that says
+safely remove Hardware go ahead and
+click that option option a little window
+will come up and hopefully it'll come up
+soon and here we go it'll say I have a
+USB M storage device all you have to do
+is hit stop okay and boom it's it's
+safely removable from your computer so I
+just it out right there so the USB
+device is gone that will save you guys
+some
+battery so the second thing that I was
+going to tell you guys was to um uh to
+turn off wireless easy on my computer
+because there's a wireless switch but if
+you have this right here in Windows
+Vista there is a a little Network icon
+in your system tray double click on it
+and hit connect or disconnect and
+another window will obviously pop up
+just hit that disconnect button right
+there and last but not least remove any
+devices from your hard uh from your dis
+so I'm going to go into my computer and
+I'll just H open here and there are no
+devices in my USB drive if there was I
+would right click on it and hit the
+eject button of course it just pops out
+an empty tray so that's all I got to
+show you guys for today hope you enjoyed
+this HD tutorial and subscribe for more
+thanks for watching And subscribe peace

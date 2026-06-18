@@ -1,0 +1,237 @@
+# R92tDmqFT18
+# https://www.youtube.com/watch?v=R92tDmqFT18
+
+foreign
+hey everyone it's marcus brownlee and
+welcome to another hd tutorial and in
+this video i'll be showing you the easy
+way um that i use to make call outs in
+camtasia studio six so i'll be going
+over a number of the camtasia studio six
+features here but first of all i'm going
+to open up camtasia studio and this is
+the interface itself here we go um in
+order to add a callout first of all you
+need to have some media here so i'm just
+going to enter
+drag in two clips here just to ensure
+videos that i've done nothing special
+and i'm going to take them and drag them
+onto the timeline drag them down here
+they'll be added now you're going to
+have to choose a preset and i do upload
+all my videos in hd so if you want to
+know how exactly i get my hd preset go
+ahead and watch that video so i'm going
+to hit ok and these two clips are
+officially on the timeline and i can go
+and preview them and edit them at my
+will
+now if i'm
+if i come to a certain point where i
+want to add an annotation or sorry a
+call out which is basically the camtasia
+studio 6 version of an annotation we're
+going to do is go over here to the edit
+button and go over and hit the
+sorry go over and hit the callouts
+button
+and the callouts button is basically um
+the callouts are basically a little uh
+text boxes or different things that you
+can put over a video uh they won't slant
+with your video but they'll they'll work
+very very well and make your video look
+professional and you have very good
+video editing so um first of all you
+have to choose the type of annotation
+and there are trust me a lot of types of
+annotations that you can add here
+first of all there's arrow and you will
+always see by the way the annotation
+that you're doing in the top on in the
+preview window so you can see you
+editing your own call out here adjust
+the dimensions of it
+and you can always put text in it so you
+could say
+look
+uh look i can't type today look here so
+there it'll show up in your preview
+window live as you type it
+so what i like to do um you can also do
+i'll just go through these a two-sided
+arrow just basically looks like that an
+hour on both sides an indented arrow a
+blur call out can be used for like
+blurring personal information so if i
+don't want you to see something you can
+put several layers of a blur call out on
+top of something you don't want to see i
+do use that uh occasionally in my
+tutorials but no big deal
+next i'll show you it the highlighter
+callout
+is actually what you can use to
+highlight text now won't work very well
+with this
+with this particular clip here because
+there's no text in it but if i was doing
+the screencast and i didn't want to use
+an arrow or a spotlight which i'll show
+you in a second then i'll use a little
+a little yellow highlighter just to show
+you guys the exact text i want to show
+you
+so next oh and you can also choose the
+fill color of the highlighter next you
+can choose a highlight rectangle which
+doesn't do much it just kind of
+brightens the uh brightens what you have
+there you can change the color obviously
+the fill color of a lot of these
+different highlighters and just hit ok
+to actually change it
+now we're going to keep going down to a
+transparent hotspot i never really use
+because it doesn't work in youtube okay
+this just works for powerpoint
+presentations so if you want to see the
+powerpoint presentations video go ahead
+and look at that there's a little
+integration with camtasia studio 6 and
+powerpoints you can do a notepad one
+which basically looks like this
+i have used this once in a while
+pardon me i have used this once in a
+while you can choose which side the note
+tab is on um
+not a very big deal um you can change
+the obviously the fill color and the
+opacity of it
+and i do use these all pretty much all
+these callouts once a while and i'll
+show you samples obviously as i go
+through these here next is a bubble call
+out
+a square call out which is uh i think i
+believe transparent then the spotlight
+call out which i do use kind of often it
+grays out everything in the photo except
+for what you put
+the spotlight over so if i want to
+spotlight a certain thing i just drag it
+and i hit the finish button and it is uh
+it is actually spotlighting it for that
+particular length on the timeline
+uh let's keep going down here you can
+have a filled rectangle a rounded
+rectangle a little speech bubble
+rectangle and a text call out now the
+text callout is what i use the most it's
+just a simple text overlay uh you can
+obviously change the font here i'll
+change it to calibri my favorite font
+and change the size it'll be a little
+bigger and there you see
+on the uh in the preview window it says
+look here and there's the text so um i
+do use these callouts quite a bit in my
+videos i know you guys have asked so
+there you go that's how you use the text
+callout now custom callouts this is
+really fun um
+you can add or edit a custom callout now
+i'm going to remove these custom
+callouts but um basically if i want to
+show you guys say a picture of something
+i would go onto the internet and find a
+picture and use that as a custom
+call-out or maybe just a screenshot so
+let's go ahead and open up the snip tool
+in windows vista and uh just take a
+little uh snip of what we want to show
+everyone in our video we want to show
+everyone this little uh time this little
+uh toolbar up here i'm just going to
+snip that and there is my file i'm going
+to hit save and i'm going to save it as
+a callout
+file
+in
+my picture so it's my pictures call out
+file save it
+and you can just exit out of this it's a
+jpeg image so now when we say we want a
+custom callout we're going to go to
+add slash edit custom
+and again remove these customs and we're
+going to select new custom callout which
+is where we actually go into our
+pictures here and whether we've saved
+one from the internet or we've created a
+screenshot or whatever we're going to
+find that picture
+and here is the callout file and i'll
+just hit open
+and here it is in the preview window
+that's exactly what we're looking for
+you can change the dimensions but you
+can also obviously do that in a preview
+window
+so i'm just going to hit ok
+and then we're going to actually have to
+select it so just go to select that
+custom callout and there it is now
+there's still text overlay so i'll just
+delete that text
+and here is what we wanted to show
+people there it is we can obviously um
+we can make it bigger so people can see
+it better we can make it smaller so
+people don't uh it doesn't draw too much
+attention but what i like to do um if i
+hit finish here and i go to zoom and pan
+i like to tilt the video to one side
+and have the call out on the other side
+so i tilted the video to that side i'll
+have a call out drag it over here to the
+other side it's an extreme example it
+doesn't obviously fit very well but
+that's that's what i like to do
+so yeah that's how i add call outs you
+can obviously add text to any uh to any
+call out you'd like um it does you can
+change the font i obviously showed you
+guys where to get fonts anywhere you
+like
+and uh down in the timeline you can
+obviously change how long the call-out
+lasts so if it's a spotlight and you
+happen to zoom away you don't have to um
+you don't have to have the spotlight
+still on while you zoomed away from what
+you wanted to highlight so that's very
+good
+uh so yeah that's basically the general
+introduction of call-outs in camtasia
+studio six um i will have a lot more
+camtasia studio six uh what's it called
+tutorials coming out sorry um whether it
+has to do with audio with video editing
+and i'm trying to make a music video so
+i can show you guys a very interesting
+music video but anyway that is how you
+do callouts at camtasia studio 6. i hope
+you found this video helpful and if you
+do have any other video tutorials or
+requests just pm me or send me a message
+and if you are subscribed i'll do a
+request video i'll show you guys exactly
+how i do this kind of stuff and i'll put
+your link in the description so people
+can check out your channel so thanks for
+watching this video subscribe for more
+and i hope you like this tutorial and
+all the rest to come so thanks for
+watching peace

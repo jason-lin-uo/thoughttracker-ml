@@ -1,0 +1,292 @@
+# Pixel 6's Tensor Chip: Let's Talk!
+# https://www.youtube.com/watch?v=7hEPj13PUGc
+
+[Music]
+okay so uh i've held the pixel six
+let's talk about it
+all right so today we get a bunch of
+officially confirmed real details on the
+new pixel 6 and pixel 6 pro coming up
+this year from google i got some very
+brief off-camera hands-on time okay so i
+didn't get to shoot any of that
+but i have a lot of details and i have
+some official images that i can share
+with you so let's get into all of it so
+like i said there's a pixel 6 and a
+pixel 6 pro they're both pretty huge
+phones but the pixel 6 pro is a little
+bigger around 6.7 inches it has glossy
+metal rails instead of matte black rails
+and it is slightly curved on the sides
+of the screen it's 120 hertz screen
+instead of a flat 90 hertz on the
+smaller one there's also new camera
+hardware across both of them with a
+shared primary and ultra wide but
+there's also a new 4x telephoto camera
+on the pro and they have this horizontal
+camera bar across the whole back of the
+phone side to side that honestly it
+looks better in person than it does with
+the renders it kind of reminds me of a
+nexus 6p which also had a camera bar go
+all the way across the back and you can
+actually notice uh the metal rails on
+top and bottom of the camera bar are
+again glossy on the pro and matte black
+on the non-pro both up front will have a
+hole punch selfie camera in the middle
+and a nearly bezel-less display and of
+course both run android 12 with all the
+new aesthetics and material u and all
+those features so that's nice and that's
+exciting and there's a bunch more
+details to discuss closer to launch
+things like the exact battery size the
+screen resolution and of course prices
+but the one thing i want to talk about
+that's across both of these phones
+is the new custom designed silicon that
+will be in both of them called google
+tensor so this was rumored for a little
+bit you know pixel phones for years have
+been using a variety of snapdragon chips
+from qualcomm whatever's available just
+like every other high-end android phone
+but it was rumored that brewing in the
+background was this white chapel project
+of google designing their own silicon to
+eventually go into the pixel phone this
+turned out to be true so there's a
+couple different benefits to this and
+it's not even a new idea completely you
+know obviously apple designs all the
+chips in their iphones but also huawei
+makes the kirin chips and samsung makes
+exynos chips this is the thing that's
+been happening and there's even been
+little bits of custom silicon inside
+pixel phones before already they had a
+custom image signal processor called the
+pixel pixel visual core and then pixel
+neural core and also the the titan m
+security chip but
+this entire chip this whole phone being
+powered by just a tensor chip
+well that's a big deal i i think it's
+particularly important for the pixel
+line specifically because of how much
+google does with software and and that
+optimization process
+and i think i think we're going to see a
+lot of big changes here so let's start
+with the biggest i think most obvious
+place which is in their cameras so we
+all know by now that pixels have had
+really good photo quality specifically
+for a couple years now and that's
+because of their awesome software and
+computational photography
+but the video quality has always just
+been meh like not nothing special pretty
+average from the pixel
+and so what google showed me on pixel 6
+was a
+comparison with the pixel 6 and the
+iphone 12 and the pixel 5. and of course
+this is a very you know handcrafted
+tailored comparison to show the best
+thing they could do but
+they're basically taking all those
+computational photography chops
+and applying them to video because
+tensor enables that now
+and it was really impressive what i was
+able to see we'll see much more hands-on
+demos of course i'm sure very soon but
+that's exciting that's the hdr that's
+the noise reduction the stabilization
+all of that smarts in video now too also
+you know pixel cameras have always been
+great but
+since pixel 2
+they've basically been using the same
+kind of small at this point sensor
+because they've got it so dialed with
+their algorithms they can of course
+improve the glass and of course the iris
+opening every year but generally it's
+been the same sensor and i suspect they
+were reluctant to change it because why
+move to some huge new 50 megapixel
+sensor if you don't have the
+computational photography chops to back
+it up so they've just been sticking with
+the same sensor but this year with pixel
+6 it is all new sensors big new sensors
+and i'm really curious to see what kind
+of results we're going to get with
+tensor and the image processing on these
+big new sensors now another benefit and
+the other sort of main pillar one that
+google was talking to me about was
+speech recognition and basically being
+able to do as much of this as possible
+on device as efficiently and quickly as
+possible beyond the google assistant is
+very important to them and i use
+assistant all the time so i'm happy to
+hear this but yeah just being as
+dedicated as possible by literally
+giving parts of the tensor chip that
+sole purpose
+of decoding speech into text and making
+things like assistant way faster and
+speaking of power
+i think battery life is another thing to
+keep an eye on with the tensor chip in
+pixel six so i don't have official
+battery size numbers if i get them from
+them i'll put them on the screen here
+but the point is do you remember when
+the max switched from intel design chips
+to apple designed m1 chips and literally
+doubled in battery life
+that's because of optimization and
+efficiency i'm not saying we're going to
+get that insane level of games here
+they're still both arm based you know
+tensor and qualcomm chips already arm
+based so same architecture but we are
+now approaching the same level of
+vertical integration that apple has had
+with those macs so maybe it'll be a
+little better i think the the
+streamlining of power and efficiency
+with tensor chips
+should make for a better battery
+experience but on top of all that now we
+got to think about you know android in
+general google makes android they can
+optimize for everything but also now
+they can offer much longer
+software updates much longer than other
+android phones as of right now
+technically you know android phones can
+offer software updates as long as
+qualcomm also officially supports those
+updates so typically you'll get
+something like three years which is nice
+but now that they control the entire
+stack they can optimize android for as
+many years as possible and they want to
+they want to optimize android for as
+long as possible to continue giving you
+updates because they want to keep you on
+that phone i feel like we've seen this
+kind of from the other side from the
+iphone apple has made a lot of money
+from selling iphones for a really long
+time but that slowed down a bit and now
+people are keeping their iphones longer
+than ever so apple realizes they they
+want to make as much money from the
+person with that iphone during the life
+cycle of that phone is possible so
+you've seen them move into services
+apple tv apple news all these services
+you can buy and pay monthly and then
+that iphone that you have for a long
+time
+will make apple a lot of money so with
+the pixel google already makes a
+majority of their money from ad services
+from things like gmail and google search
+and google assistant and so now tensor
+just enables them
+the ability to guarantee way longer
+software updates to keep you using that
+device way longer like the iphone now if
+you really want to go
+uh into the weeds i think this could
+also have an effect on pricing at least
+internally i don't want to get too crazy
+with it but google has had to to bargain
+with qualcomm to you know get a certain
+price for a certain order size for a
+certain number of chips
+but then samsung might come along and
+place like a way bigger order which
+could affect like the supply of certain
+ships and the whole supply chain is out
+of their control so with tensor it's
+it's better for google to have more
+control over this
+but obviously
+uh maybe not obviously but qualcomm
+has to bargain with their foundry and
+get certain prices and eventually upsell
+to oems like google so cutting out that
+middleman of qualcomm
+can actually save them money and make
+the price overall lower especially at
+scale and i don't know you know this
+might not get passed down to the user at
+any point maybe they use those savings
+for something else but it's just one
+more advantage to this but you know what
+actually one more thing i just came to
+mind
+this could be
+the beginning of an
+ecosystem-wide
+silicon thing for google
+you know the same way i keep going back
+to apple's example but the same way that
+m1 chip we've talked so much about is
+basically it's a scaled up version of
+the a14
+i feel like there could be a scaled up
+or scaled down version of tensor in
+google's feature maybe a scaled down
+version for a pixel watch someday or a
+scaled up version for a chromebook or
+really any other device or a smart
+speaker or something like that or a
+smart display
+that would just make sense to happen
+down the line so
+yeah and that also makes sense for
+future parody because now you know the
+same reason the m1 max have better
+webcam quality than any other mac ever
+it's because they're using the same
+image processing as the iphone so for
+all of this i guess what i'm trying to
+say here is
+the first generation of tensor chip
+we're about to see in the pixel it's
+going to be really interesting to see
+what it unlocks to see how it performs
+obviously in regular day-to-day people
+are going to benchmark it and all that
+fun stuff but to see what type of stuff
+it really unlocks for the pixel
+now and then in future generations too
+so something to keep an eye on if you
+want to see uh my full video on android
+12 and all the features that are already
+coming to the pixel when this phone
+comes out later this year i'll link that
+below like button if you want to check
+it out but that's been it for me just
+some quick thoughts on pixel six which
+is coming up
+coming up along with a bunch of other
+stuff if you want to be subscribed to
+see that of course you should thanks for
+watching
+catch you in the next one
+peace
+[Music]

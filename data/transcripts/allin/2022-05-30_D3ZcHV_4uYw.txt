@@ -1,0 +1,1239 @@
+# #AIS: FiveThirtyEight's Nate Silver on how gamblers think
+# https://www.youtube.com/watch?v=D3ZcHV_4uYw
+
+we're really excited to have our next
+speaker here nate silver is the
+editor-in-chief of 538.
+um and he uh
+uh came to our poker game recently oh
+nate came to our game come on out nate
+ran the game over
+who was the big who's the big loser that
+night i think wait who is the big loser
+because nate was the big winner right
+well i he was the big winner i was
+basically trying i think
+i think i donated a little bit to uh
+nate silver's new uh model y
+i think you got the model s coming to
+the game um this was the largest poker
+win you've had in your life largest cash
+game win yeah by
+a factor of five
+two two okay yeah uh well we're happy to
+donate um you're getting by the way your
+speaker fee i just canceled it okay um
+but uh ladies and gentlemen uh nate
+silver on the mind of a gambler cool
+[Music]
+rain
+[Music]
+man we open source
+[Music]
+i'm really excited to talk to you all
+today um i'm working on a book
+about gambling risk and rationality for
+the term critical thinking to
+rationality um
+it's partly involved talking to people
+about global societal risks so talking
+to people about the risk of nuclear war
+which is like not very cheery
+conversations by the way
+but also people who take risk for a
+living or at the very least manage risk
+and have real skin in the game they're
+not just some actuary getting a salary
+they're they're assessing risk and
+making big decisions financially mostly
+based on on that assessment um
+so i've started out talking to poker
+players and sports bettors i'm a former
+poke player myself i still play
+recreation a lot i'm currently um
+i think number 301 in the global poker
+rankings not that i look that up every
+morning
+uh
+but mostly it's the examples of talking
+to other
+fantastic poker players and sports
+bettors about their process and i'm also
+talking now more
+two vcs
+two founders to hedge fund managers for
+example um
+there are a lot of similarities there's
+a certain type of person that's been
+talking about today
+personality traits modes of thinking it
+even affects maybe their political views
+a little bit and you see a lot of things
+in common
+so i gave you someone's context already
+this is a work in progress i mean the
+book is kind of halfway
+zero percent written about 50 research
+so things may change i'm evolving and
+learning and correcting things um
+but it's fun to write a book it's fun to
+have great conversations with the
+besties and other people and really kind
+of experience this firsthand so i'm
+going to start with some things that i
+think are relatively straightforward and
+obvious and then get into things that
+are maybe less so toward the end but one
+really obvious one is that successful
+gamblers think probabilistically it's
+not just a matter of understanding
+probability but being
+comfortable with uncertainty being
+willing to take bets on an uncertain
+basis that's kind of table sticks for
+even getting into
+any field involving risk
+in poker at least you probably also need
+a fair amount of mathematical ability
+there are now these things called
+solvers in poker that come up with a
+game theory optimal strategy for every
+situation
+it's a very complex situation it's way
+too hard to memorize you have to kind of
+develop a mathematical intuition behind
+it um but even players with rare
+exception phil hellmuth might be the one
+exception actually right
+but even players who are known as being
+field players or exploitive players
+people who rely on tells and psychology
+and table talk i talked to daniel
+negroni for example one of the probably
+five best book players of all time and
+he told me that about four years ago he
+realized that these solver kids as he
+calls them the math quizzes were were
+better than him at least at certain
+forms of poker and he totally remade his
+game to look at computer solutions to be
+more studious and mathematical and it's
+improved his results quite a bit
+um in the vc field i don't know you if
+you're necessarily doing as much
+modeling as i might in an election model
+for example but at the very least people
+understand the intuition and the
+intuition is
+you need both but i think the intuition
+is more important than the application
+number two this one ought to be really
+obvious um but it needs to be said
+successful gamblers are highly
+competitive things that you hear from
+people
+over and over again is i want to kind of
+prove people wrong i want to outsmart
+the competition
+i want to show who's best it's almost
+more this motivation than financial
+motivation i think
+um it's partly a matter of you can't
+settle for being average as a gambler
+the average poker player loses money to
+the house so does the average sport's
+better so therefore you have to deviate
+from average in some ways um
+but kind of one conclusion i've come to
+talking to people for this book is that
+human beings are
+are a competitive species right to get
+people to get along in society is pretty
+hard you know one good thing about
+capitalism is that you have some managed
+type of competition democracy is kind of
+a type of competition and that's
+probably a better way to kind of
+challenge these conflicting urges we
+have um than things that are too
+centrally planned but certainly people
+in this room people i talk to are on the
+high end of the competitive scale
+successful poker players and sports
+bettors have to care a lot about small
+edges it's the nature of placing bets in
+a field where you lose money on average
+so
+a very good sports bettor might win 55
+or so percent of his or her bets um
+you have to win 52 and a half percent to
+make up for the house cut for the rake
+or the vig as different names um that
+means you can't afford to make one
+percent errors right you really have to
+squeeze every last drop of expected
+value or ev out of any situation that
+you're in
+this makes people very very very
+detail-oriented poker players tend to be
+very studious about their craft they
+really kind of love poker you can't just
+get the big things right in poker you
+have to get the small things right too
+it's too competitive a field right now
+this might not be as true by the way
+of vc
+the average investment makes money it
+may not make a above market return but
+it'll make money which is not true for
+the average poker hand that you play um
+by the way casinos too if you talk to
+casino executives you might think you
+walk into a casino and everything that
+you do is maximize them to make the
+maximum amount of revenue possible
+not really right they're pretty good at
+the big stuff they protect their
+downside risk a lot um but they're not
+maximized as much as you think because
+when you have like a license to make
+money you don't have to get the small
+stuff right um but in poker where only
+10 of players probably make money in the
+long run you have to be very very
+detail-oriented
+number four you see here a a polygram
+thread about elon actually
+successful gamblers are contrarian at
+least to some degree and again i'm kind
+of repeating myself a little bit but
+there's there's no edge if someone if
+everyone does the same thing in the same
+way you have to have some angle that you
+think makes you better than what the
+market thinks and the market's pretty
+good so it's a hard thing to manage
+i think risk takers tend to view
+themselves as outsiders where they are
+or not is probably an open question
+but they think of themselves as thinking
+differently from the rest of the world
+potentially this can also make them
+potentially like a little bit annoying
+like outside of investing and gambling
+context right where if you're kind of
+always the person who says well actually
+um that can get kind of pushed back in
+social settings for example or on
+twitter
+but you can't kind of settle for having
+the average view because the average
+view doesn't do better than than the
+market
+um there is a fine line between being
+ahead of the curve
+and a permanent contrarian um
+in sports betting there's a line that's
+constantly mispriced then i can just bet
+that i don't want that
+market to correct itself i want to keep
+exploiting that error in pricing right
+um
+in vc i mean you might want to find a
+founder or a sector or a company that's
+undervalued by the market but eventually
+you want
+that sector to grow you want to attract
+more talent you want to attract future
+fundraising rounds so you kind of are
+more being
+ahead of the curve by
+by half a year to a year
+i think in some ways it's analogous to
+real estate we're trying to kind of
+anticipate where the market will be in
+the future and that's a subtly different
+skill than being maybe contrarian per se
+um but related at least
+number five and again this might be a
+little bit redundant but successful
+gamblers take shots and this is very
+intuitive in vc where you have a field
+where you might um might only have a
+unicorn or decacorn you know one percent
+of the time attempts at the time of
+course you have a whole portfolio it may
+not be that risky in the aggregate
+but you have to be willing to make
+decisions under uh under pressure and be
+somewhat fearless as a result right
+timing is important you want to be first
+to market in poker you have a finite
+amount of time you can spend on a hand
+in practice
+um sometimes people take these risks in
+a calculated way right i talked to um
+sam beckman fried for the book for
+example and he's like yeah i knew this
+would have like a only a 50 chance of
+succeeding but the payoff was so high i
+would take it some people just kind of
+more intuitively just kind of want to
+put skin in the game want to take risks
+get some excitement or pleasure from it
+again we're talking about the very
+extreme
+tales here too right um the people who
+are super uber successful maybe are
+almost taking on more risk than they
+maybe should you can instead like live a
+very happy and complacent life as an
+investment banker or something but
+people who are true entrepreneurs that
+think at scale and think and think very
+very big
+i should say one challenge of writing
+the book is that talking only to
+successful people you risk survivorship
+bias right so kind of which people fell
+along by the wayside
+if you know unsuccessful
+investors or gamblers then then send
+them my way i need to talk to some of
+them as well
+number six successful gamblers
+especially in poker work well with
+incomplete
+information
+um
+one thing that differentiates kind of
+people in academia and academia is very
+useful for basic research and for
+advancing science and things like that
+right but like but you don't get months
+and months and years and years to
+develop a hypothesis when there's actual
+money on the line by that time the
+people who were faster will already have
+moved
+so the skill is kind of knowing what
+information
+was available at the time you made the
+decision i think there is a limit to how
+useful like an after action review might
+be if you kind of pretend as though you
+had perfect hindsight right we can say
+what would we have done about covid now
+if we had known all the things we know
+now about it back in february 2020 and
+it would be an easier problem to solve
+but like that's not how the real world
+works so decision making under
+uncertainty is i think a understudied
+and under-appreciate
+appreciated topic um
+you can't be too much of a control freak
+certainly in a game like poker um you
+can lose your temper very easily
+emotional management's a big part of
+people who are successful in these
+fields um
+but you know all the value is in making
+the hard decisions right um hard because
+their edge case is hard because
+you have some information but not others
+and you're going to get some things
+wrong but otherwise if it's easy then
+everyone else is already going to do it
+there's no excess returns to be made
+i think related to this is that
+successful gamblers focus on process
+much more than results
+one thing i found good for the book and
+refreshing is
+people if you ask them kind of what
+makes you tick what's your advantage
+they're quite thoughtful and deliberate
+about it they step back and think about
+what skills do i possess what's the
+bigger kind of problem that i'm trying
+to solve um again emotional displacement
+is a big part of this uh i'm not saying
+that you're supposed to be totally
+emotionless i mean emotion can help to
+guide intuition we'll talk about in a
+bit um but it does mean you have to be
+willing to like lose poker hand lose 10
+000 bucks and then play the next hand as
+best as you can right or have an
+investment or many investments that go
+sour uh and still be on your kind of
+best state of mind for making future
+investments
+it's pretty hard
+most people aren't very good at this at
+all
+you can't go too far and sometimes make
+excuses there are lots of different ways
+to get unlucky in poker or investing um
+but having that focus on kind of what
+was my thought process um it seems
+intuitive people in this audience maybe
+but it's not intuitive for the average
+person it differentiates differentiates
+successful gamblers quite a bit
+this next slide here you may have seen
+this video online where
+there are a bunch of girls bouncing
+basketballs and they ask you to count
+how many times the basketball passed
+back and forth um and during the video
+kind of unbeknownst to the watcher a
+gorilla walks on stage like things
+change colors weird things happen
+and the point is to try and say okay
+well you were so focused on um counting
+the number of basketballs being passed
+that you ignored the gorilla in the room
+so to speak right um
+i think though that if you're instructed
+to count the number of passes that is
+actually a sign of intelligence that you
+do focus on that right if you're an air
+traffic controller
+and you're trying to like land planes at
+miami airport and you get a bunch of
+text messages from your teenage daughter
+right you shouldn't be distracted by
+that you just kind of focus on the task
+at hand
+but the point is that people have an
+amazing ability
+to vary what they're paying attention to
+especially in the moment
+and in pokers is very important because
+most of the time poker is pretty boring
+right good players fold uh 70 of their
+hands for the most part right a lot of
+decisions are fairly automatic but maybe
+once an hour or once a day you'll have a
+decision for tens of thousands of
+dollars or where you'll be knocked out
+of the tournament or win the tournament
+right and so having that kind of um
+knowing where you focus your attention
+is an underrated skill that i think
+people who are at least in poker are
+pretty good at
+um by the way one thing i've noticed is
+that you used to kind of think of poker
+players as being kind of quite
+schlubby and sloppy and some of them
+still are but more and more the good
+players are focusing on physical and
+mental filness fitness it is like a
+demanding game it's a little bit
+demanding physically to kind of keep
+your composure um and not give away
+information from your from your mental
+state and to really concentrate is like
+actually a lot of work i mean they're
+kind of famous studies of chess players
+and now magnus carlson will lose you
+know five pounds over the course of a
+chess match just thinking which might
+seem ridiculous but like but if you're
+really playing
+poker at your a game at your a plus game
+which you don't achieve very often i
+often find that when i am able to do
+that rarely i'm completely wiped out
+afterward it is a fiscally demanding
+game but in general kind of being having
+your ear to the ground looking out for
+opportunities and being flexible enough
+to take advantage of those opportunities
+is an underrated skill set
+number nine uh successful gamblers apply
+practiced intuition so um i'm 44. one of
+the things about becoming middle-aged
+you start to kind of
+uh potentially trust your gut
+a lot more which can be which can be
+risky in some ways i think people can in
+matters that happen only occasionally
+like a presidential election people
+think well my gut is that so-and-so will
+win
+you don't have enough practice at
+forecasting elections to really for that
+to be very useful right we have one
+election every four years
+if you're a poker player though you're
+playing tens of thousands of hands every
+year if you're a vc you're hearing
+thousands of pitches every year right um
+and part of what experience does is kind
+of take things that were once hard and
+then become more automatic right i mean
+you'll hear people say oh i made a
+decision
+very quickly right and i
+make staff decisions you hear someone
+give a pitch um and you decide maybe in
+30 minutes whether or not to fund them
+or not you hear examples like that um
+but that doesn't really reflect the fact
+that this person has spent years and
+years and years honing their insight and
+listening to pitches that that produces
+value down the line so it's intuition of
+a sword but it's practiced refined
+well-calibrated intuition that involves
+working really hard and and learning
+right i mean in poker you kind of go
+through cycles where um
+where you kind of are grinding and get
+better at something you feel like you
+achieve some condition of mastery
+then you kind of slip you get complacent
+maybe you tilt a little bit
+having the ability to like step back and
+re-evaluate your game like negroni or
+someone and say look i have to make some
+adjustments here
+maybe i'm doing playing barely ever have
+but now i learn different flaws that i
+have right my opponents are getting
+better too
+that bottom of this chart here where you
+re-evaluate and grind back up and expect
+that you're going to have to keep doing
+that for your whole life frankly
+differentiates successful people i think
+number 10 is one of the more subtle ones
+i think but successful gamblers
+are structured thinkers they want to
+understand
+the process behind the outcome again in
+poker it's too complex a game
+just to purely learn through
+memorization
+and rote skill right you want to
+understand how things adapt what the
+underlying kind of curvatures are and
+everything um
+heuristics or rules of thumb are are
+pretty useful right like in poker
+heuristic might be that you should um
+call with your medium strength hands
+right your best hands you raise
+um your worst hands you fold or check
+right and then you kind of call with
+your medium strength hands but they're
+acceptance of that and heuristics only
+go so far
+um but the kind of flip side of this is
+like so at this conference there's a lot
+of talk about
+investing and gambling but also politics
+um
+i do think when you're kind of the
+highly structured philosophical thinker
+um
+that politics is very frustrating right
+people in the other world i work in
+which is like you know i run a website i
+talk to people in politics talk to
+academics who are trying to get on tv
+and stuff like that right
+it's a lot of very hypocritical and ad
+hoc thinking
+in politics right it's instrumental
+reasoning toward trying to win an
+argument at that moment in that day and
+so you can see why someone um like elon
+musk might get very
+fed up
+with the kind of hypocritical nature of
+political discourse that's another
+conversation we might have in the q a
+but um but it does lead to some
+personality clashes i think
+the last one here which is maybe a
+little bit counter-intuitive but i've
+kind of learned i think from observation
+is that the most successful gamblers
+don't actually care that much about
+money
+um
+you know they tend to be for the most
+part very generous they're always going
+to pick up the tab they're going to
+spend a lot on good wine and things like
+that right um they're in it really for
+the love of the game and when they get
+bored they tend to quit
+again this might differentiate the 0.01
+or 0.001 percent from like the one
+percent um certainly you want to manage
+your money carefully in poker but still
+when you have people whose net worth
+fluctuates by the amount that poker
+players does like poker is basically
+like you know three states right super
+rich somewhat rich and dead broke like
+not a lot in between when that's the
+nature of your field and you've been in
+those states for different parts of your
+life and many good poke players have had
+periods where they're broke you tend to
+recognize the ephemeral nature of
+success and to celebrate life in the
+moment a bit more so
+that's all thank you very much look
+forward to the q a now
+ladies and gentlemen nate silver i don't
+know if there was this in the
+introduction that you run 538 like does
+everyone know that the site
+so like during the election cycle
+nate does the best job of anyone on
+earth
+gathering together polling data
+and then using statistical models to
+represent a distribution or a set of
+expected outcomes and making that known
+on his site in a way that's super i
+think informative better than anything
+else that's out there so thanks for that
+now i get really addicted to them
+leading up to elections i'm like i gotta
+go in and check what what nate's changed
+on the site every day and i know a lot
+of people did
+then what i observed on twitter which i
+think speaks to your first point here
+was a lot of people followed your
+prediction on uh the trump election
+right and they're like
+um nate made a prediction that trump was
+gonna win but what you said was that
+there was a 43 chance that trump would
+win and therefore people assumed he was
+going to lose and that the nature of a
+lot of people's understanding of things
+is very deterministic in binary it's
+like win or lose as opposed to hey the
+future is not
+binary the future is not deterministic
+it's there's a set of outcomes that may
+occur and you can get a better sense of
+what that set is you make that
+determination enough times you'll you'll
+be right most of the time you'll be
+wrong some of the time
+do you think most so my question for you
+based on how i saw people react
+negatively yeah to your polling which
+was crazy because it was like dude he
+gave a really good set of statistical
+models
+no people blamed you
+but my question is like do people have
+the ability to think probabilistically
+because you say you need to think
+probabilistically or is that a minority
+of people that can really get themselves
+there because so many people just want a
+yes or no answer they want to say this
+is the future this isn't they don't want
+to think about a distribution of
+outcomes which is really the way the
+world works i mean i think people think
+probably all the time in real life right
+if you're like running late for a
+meeting you have to decide
+should i speed what's the risk of
+getting into an accident what's the risk
+of getting pulled over or things like
+that i think in um they don't realize
+they're doing that
+yeah i mean they don't they don't know
+they're doing that like i mean i think
+part of the answer is that
+i think politics kind of breaks
+people's brain right um because like
+before
+the 2016 election we got a lot of
+criticism from like liberals for being
+too bullish on trump the market price
+was about 15 we have it 30 right so we
+are very bullish on trump relative to to
+other people but like
+people thought we were like playing with
+the numbers to try to i don't know
+effect turnout somehow or or try to
+cover our asses or things like that and
+so um so i just don't think that like
+politics teaches people to think
+critically and it's like yeah part of
+that is like they're not thinking
+probabilistically but it's more like
+people just want to see their kind of
+priors confirmed um what was it like
+when
+people blamed you for trump winning
+yeah there was a lot of that right yeah
+yeah i mean and why did you pick trump
+as president they literally i think they
+pointed to you and basically said you
+tipped the election like you you it's
+almost as if like you convinced people
+to go and like how did you how did you
+deal with that
+you just kind of have to say like [&nbsp;__&nbsp;]
+you and move on with your life i mean i
+don't like i've been very lucky
+in my life overall right including that
+like
+things that i think are not that
+remarkable like you know
+saying oh the polls are gonna be right
+usually which they were in 2008 and
+2012. like i think we got way too much
+credit for that but you can't like i
+mean again we're all poker players here
+right so it's kind of like if you kind
+of get your money in
+really good right and you make a flush
+or something like it you kind of have to
+have that attitude about it yeah
+so you were able to just basically shut
+it out and say this and and what about
+just the fact that like you live inside
+of an organization now 530 it is owned
+by abc's maybe senior year
+um
+was that before the election
+that was we were we were
+espn at the time of 2016 election now
+we're abc news currently
+and so does that change sort of like
+um
+like how do you make sure that you can
+actually just do your job no matter how
+unpopular the answer may be or the
+distribution of outcomes may be
+okay so why am i working on this book
+it's partly because i want to diversify
+away from just uh
+first of all i think
+forecasting elections is an interesting
+problem but it's not like the most
+interesting problem right but no i'm not
+going to spend the rest of my life just
+like being like the election forecasting
+guy it's it's um
+i mean you also face disincentives where
+like
+the downside like we got some elections
+like really right like 2018
+midterm we like nail like perfectly
+about as good as you could right and
+people are like oh that's nice right
+um if you get kind of like the 2020
+primary like we were very bullish on joe
+biden when people weren't and thought he
+was going to lose and so you don't get
+like a lot of
+credit and you do face like a lot of
+downside um
+for being
+actually wrong or perceived to be wrong
+um
+and so yeah i'm not going to spend the
+rest of my life making
+election forecast i hope that's part of
+the portfolio of things that i do but
+like i'm interested in like a lot of
+other questions about the world nate
+what do you think about like social
+markets that are defined about social
+behavior like an election people are
+going to vote one way or another you
+then make a prediction and then that
+changes the way people vote and so like
+and the same is true in stock markets i
+was going to ask you about your
+experience in stock markets because
+people have an assumption about rate
+hikes the the market then reacts to the
+assumption about rate rate hikes then
+the market tanks and then the fed is
+like let's change the rate
+system because the market's tanking how
+do you think about building
+probabilistic models that account for
+social feedback loops where the social
+decision that's made is driven by the
+forecast you make or by the the market
+making a forecast i think the evidence
+is that in two-way elections so democrat
+versus republican
+that there's no clear effect from and by
+the way like what we do is
+is a tradition there's always been horse
+race media coverage has always been
+polling going back for many years right
+um
+you know we think our version of it is a
+little bit more
+grounded and objective um in two way
+races it's not clear if there's any
+impact either way where can an effect is
+when you're having a multiple candidate
+race right um
+in 2020 when elizabeth warren started to
+fall behind bernie sanders in the polls
+right if you're a
+left-wing voter who prefers warren to
+sanders but sanders to biden right you
+may kind of switch your vote as a result
+of the poll that can create momentum
+mathematically trying to not uh to model
+like a multi-way election we do it it's
+very hard it's way more complex in part
+because of the feedback loops that it
+introduces for sure
+and stock markets are the same
+again i don't know
+any financial market behavior it is
+funny by the way that like if i like
+lose a thousand bucks at poker i'd be
+like furious right but like i lose like
+much more than that in the stock market
+and like oh i don't care i just invest
+in you know
+uh low fee like mutual funds and stuff
+like that i mean for sure i mean it's um
+i don't know you guys would know more
+than i would but i think there are there
+are certainly complexities that involve
+um
+feedback loops for sure nate we live in
+a very polarized world right now we all
+spend too far too much time on twitter
+and we're seeing this you know sort of
+house of mirrors i'm curious how
+you know the 19
+of people
+who believe in uh you know banning
+abortion and their impact
+and their outsized voice versus the far
+left and their outside voice with you
+know sort of democratic socialism
+um affect your ability to predict what's
+going to happen in the country because
+the majority of the country's beliefs
+sometimes are in stark contrast to
+uh political things that happen yeah and
+even on our podcast people want to pit
+you know um saks and i as being
+incredible rivals no no you you want to
+pit yourself
+just to be clear in fact we agree on
+almost everything yet it feels like in
+our society
+you know they want to push us to to pick
+very binary belief systems and i i'm
+just curious how that impacts what you
+do day to day in your job in predicting
+what's going to actually happen in
+reality and maybe you could tell us
+based on what you've learned over time
+are are people as polarized as it seems
+or is america actually got a
+majority
+um consensus on most of the issues that
+we struggle with
+well okay i one reason that markets work
+is because you get feedback in the
+market right and you adjust your
+strategy as a result of negative
+feedback from consumers people voting
+with their feed um
+i think one problem with twitter and
+with kind of the political atmosphere
+more generally is that
+both the left and the right are now
+insulating themselves from
+from feedback in a lot of ways and if
+you're someone who kind of like
+tries to call bs i mean when you know if
+there's a 12th character just like
+having a good [&nbsp;__&nbsp;] detector is kind
+of an implicit theme of people who are
+successful gamblers right and if you're
+like someone who's like i that's kind of
+[&nbsp;__&nbsp;] i can't let that sit there i
+have to say something about it even
+though it'll piss off my followers like
+you really get boundary policed a lot
+and totally yeah boundary police yes
+yeah and when feedback accidents are
+broken then you run into potentially
+some really
+dangerous outcomes right like i think i
+think um
+both the left and the right have become
+more authoritarian in certain ways i
+think the type of authoritarianism on
+the right is quite a bit more dangerous
+in the moment
+but
+uh they're both kind of moving away from
+kind of liberalism in some kind of
+classical sense in some ways and and i
+think that has to do with
+the feedback loops that social media
+tend to tend to produce that they're
+very the other thing about social media
+is like it really really flattens things
+right one thing that people
+in silicon valley get right for all
+their faults and self-servingness in
+some ways right
+they kind of get the orders of
+magnitudes right they understand scale
+um
+and social media and the daily news
+cycle really collapses that right so
+some extremely important problem and
+some trivial nonsense are kind of
+treated on the same level when one is
+one thousand times more important than
+the other and that and that pretty much
+right in a feed it's one right after the
+other yeah and you know again i don't
+know if there are ways to redesign
+twitter to make that better but like the
+fact that you're kind of
+always on right and even before twitter
+that kind of cable news cycle you have
+to have like some controversy to talk
+about and things are completely dropped
+the next day there's another news event
+i mean sometimes it should be maybe
+actually this thing was terrible but
+something is like way more important and
+so we should continue to focus on that
+and so that's damaging i think is there
+a way out of this
+will this pass in your estimation is
+this
+you know an intractable problem
+i'm a little bit um
+bearish and
+concerned in the short term yeah uh to
+be honest
+can you say more what does that mean
+i mean there are different types of
+risks that we face right i mean you know
+one problem in particular is that if we
+have a close
+election next time particularly one
+that's close where the where the
+democrat appears to narrowly win right i
+mean you're having more and more
+republican elected officials secretaries
+of state some of the candidates in
+pennsylvania for governor for example
+who kind of believe the election was
+was stolen in 2020 and like um which
+wasn't to be clear and like that's a
+very dangerous
+argument to have it may not resolve
+itself in the end of democracy but like
+that's like a you know a risk that's you
+know in the 10
+range or maybe higher of a severe
+constitutional crisis in 2024 and maybe
+repeated that in 2028 and so forth and
+so i mean that's the i think the most
+immediate threat um but also kind of
+government
+capacity to deal with big problems right
+um
+you know i don't necessarily take the
+standard line about codeword where you
+say oh we should have done this and that
+and managed it more top down more but
+clearly like state capacity seemed to be
+not so great right as we deal with other
+existential risks from climate change to
+ai potentially to nuclear threats um
+you know a little bit bearish about
+state capacity
+to make good decisions
+in complex situations
+perfect information yeah you know like
+being down in um
+[Music]
+miami you know or traveling other parts
+of the world you see like there's more
+reason to be optimistic right where um
+where people at least are excited and
+dynamic and there's something happening
+it may not be exactly the right thing
+but people are
+are
+are happy um but no i think i think i
+don't know i'm usually an optimistic
+person and i'm a little bit worried
+about
+what should we expect then going into
+the 2020 midterms
+202 midterms 122 midterms so the
+baseline is pretty strong which is that
+the president's party loses seats the
+large majority of the time um
+and given that democrats majorities are
+so narrow
+they're pretty big underdogs to keep
+both the house and the senate um
+with that said
+in senate races in particular individual
+candidates do matter to some extent and
+you might have enough off-the-wall gop
+candidates nominated that would cost
+them two or three seats potentially
+and that might be enough to save
+democrats
+in the senate the house for the
+candidates are more anonymous
+and their more seats in play is a little
+bit tougher um
+i do think something like roe v wade
+is important um democrats talk a lot
+about republican extremism but a lot of
+it is theoretical right it's saying well
+what will happen in 2024
+will be this or that this is the kind of
+rare example of big social change by the
+opposition party
+and that could i think motivate
+democrats a little bit but but midterm
+elections are more predictable
+than presidential elections and the and
+the base cases that you wind up with um
+with republican majorities of some
+magnitude sac tony thoughts on nate's
+handicapping of the situation and
+description of the political climate
+we're in
+well i mean pretty clearly the
+republicans are expected to have big
+pickups uh in this midterm right i mean
+i agree with you the senate is tougher
+for the gop because
+there aren't that many
+most of the at-risk seats are on the
+republican side right not the democratic
+side yeah i mean there are there also
+seats like pennsylvania the gp
+held and could lose potentially but you
+have like i mean i don't know how
+technical you want to get um
+if you have a generic ballot that favors
+republicans by like two points the
+democrats can probably keep the senate
+if it gets to like six points or seven
+points then
+then the wall topples and like there's
+just too many forces going the other way
+and so yeah so what so where do you
+where is it right now are you looking at
+that
+right now it's two or three however
+that's among registered voters and
+doesn't reflect voter enthusiasm
+um so typically the challenger party is
+more
+motivated to turn out you saw that in
+states like virginia last year um
+that gap seems to be closing a little
+bit um
+i do think some of the uh
+anti-abortion legislation right some of
+the facts the gop kind of is now
+back on offense on culture wars against
+lgbt people right um i think
+potentially is is
+going to help motivate democrats to turn
+out right um it wasn't the stuff in
+virginia where they were talking about
+oh schools and kind of i mean you always
+want to like play
+attack
+in politics right um and republicans
+found some effective counter attacks
+with respect to educational policy
+certain attitudes where kind of very
+left-wing ideas have crept into
+discussions of education and race and
+other things right um but now they're
+like kind of calling like
+um
+gay and lesbian people and trans people
+pedophiles and stuff like that right and
+that's like surprisingly mainstream
+discourse and like that's not i don't
+think
+politically wise it's also a little bit
+dangerous in terms of potentially you
+know triggering violence and things like
+that um
+so i don't know i mean neither party can
+really like
+help itself i don't think can kind of
+being like the worst
+version of itself
+right yeah that's interesting but yunkan
+is an interesting case because one year
+after biden won that state by 10
+yonkin wins that race by two or three so
+it was
+12 point swing yeah in one year
+um
+how
+emblematic is that of how quickly the
+mood of the country has changed is it
+like a one-off because janka was a
+strong candidate against a weak
+candidate or does it represent
+you know a much stronger generic
+republican ballot
+i think it's it's i mean that's what you
+might get if you had
+50 glen younkins running for for senate
+right um he clearly
+i mean there's usually a pretty big
+midterm shift but that was a little
+bigger
+than normal in virginia um and that
+reflects the fact that i mean you can
+like model it out mathematically we have
+lots of data points we have 35 center
+races every two years right you can
+actually see the effect of being more
+moderate we'll gain you an extra
+two or three or four points right being
+less
+moderate more radical in some cases will
+lose you two or three or four points and
+so and so
+the fact that the gp didn't kind of take
+that lesson
+and say we can actually kind of occupy
+uh
+the mainstream and
+have potentially really large majorities
+at least in 2022 i mean i think that's
+kind of
+kind of disheartening in in some ways
+and of course trump is still a big
+figure
+democrats learnt the lesson of that race
+either
+because of course they haven't yeah i
+don't think anyone's really learning
+very much
+nobody says
+because okay that's right the lesson for
+democrats would be to tack towards the
+center as well and
+uh instead of embracing sort of the the
+progressive left
+i mean the democrats are still talking
+about canceling student debt which is a
+fringe issue that affects eight to ten
+percent of the democratic party
+without realizing that it actually is
+because it represents 50 or 60 percent
+of the working majority of the
+democratic infrastructure and that's
+really for sure i mean people are people
+are
+people are self-serving and if you don't
+have good vs detectors then
+uh you become more self-serving right
+like clearly like the class of people
+who are uh
+high student loan debt
+are people who are well educated and
+aren't necessarily making as much money
+and those described people that are tend
+to be democrats right it describes
+people like academics some people in
+media like i'd be very
+democrats used to also be the the
+workers party for the welders the
+truckers the construction workers well
+you should say you should say let's
+forgive up to ten thousand dollars in
+debt
+for
+public
+university students
+undergraduate educations right that
+really does capture a lot more people
+who are who are you know truly middle
+class right half of student loan debt is
+people going to graduate school
+um
+you know i'm not that sympathetic if you
+went to
+dartmouth and got a philosophy
+degree master's master's right um yeah
+you're on your own
+school and yeah i got a degree in
+nursing and kind of yeah why should an
+electrician bail out the person getting
+a master's in philosophy but like this
+is kind of a matter of like the
+i mean that's we that's a reasonable
+thing to say yeah it doesn't seem
+partisan it doesn't seem unreasonable
+super reasonable but but you know but uh
+i don't know and again people are are
+it's also different i think if you
+needed more financial stimulus then it
+might make more sense to find some way
+to do that this is a thing that the
+president can probably do
+by executive authority it's a little bit
+disputed um but no you kind of have i
+mean
+both parties are are quite self-serving
+um and if you're kind of not listening
+to critiques or feedback then you can
+kind of wallow in in
+in that self-serving i think a little
+bit more easily all right everybody
+please thank nate silver thank you
+we'll let your winners ride
+rain man david
+and it said we opened sources to the
+fans and they've just gone crazy
+[Music]
+we should all just get a room and just
+have one big huge orgy because they're
+all just
+it's like this like sexual tension that
+they just need to release
+[Music]
+we need to get mercies
+[Music]
+i'm going on
+[Music]

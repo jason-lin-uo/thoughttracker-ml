@@ -1,0 +1,514 @@
+# 1E3tv_3D95g
+# https://www.youtube.com/watch?v=1E3tv_3D95g
+
+[Music]
+All right. So, today was Apple's big
+software event for 2025, WWDC. And it
+was a really, it was actually a really
+interesting one. I was kind of wondering
+how this would go cuz in this landscape
+of AI, AI, AI, everyone's talking about
+Gemini and GPT everywhere where it feels
+like Apple is being left behind. They
+could kind of go one of two ways. They
+could either double down on Apple
+intelligence and just lean right in like
+everything's fine, everything's going to
+plan, or they could shelf some of that
+stuff, but show a whole bunch of other
+stuff and hope that that's good enough.
+So, now we've seen the keynote and I've
+gotten to try a lot of these software
+features and think about them a lot. And
+they definitely did the second thing.
+Don't get me wrong, there's much more
+other stuff than AI versus what like
+Google was doing earlier. But I do think
+that that other stuff was actually kind
+of a lot. And so maybe you can leave a
+comment below if you agree with me after
+you subscribe, of course. But this is
+everything you need to know about WWDC
+2025. So first of all, they always talk
+about all of their OSS, all their
+platforms this year, and they are now
+all unified in their version number just
+to keep it simple. So instead of having
+iOS 19, iPad OS 19, tvOS 19, Mac OS 16,
+Watch OS 12, and Vision OS 3, they're
+now just doing version 26 for
+everything. kind of the same thing
+Samsung just did with their phones in
+2020. How they match the year even
+though it's a year ahead. Cool. Easy.
+And everything is getting this fresh
+glassy coat of paint over everything to
+be unified as well. So, it's more
+obvious in some places that I'll show
+you and less noticeable in some others,
+but in general, they're calling this
+liquid glass. And they're treating
+basically every window, every dialogue
+box, every icon, every sidebar that they
+possibly can as like a piece of physical
+glass that's mostly transparent to the
+things below it. Even the lock screen
+clock and some text, some fonts are
+clear and transparent. So, we might as
+well start here with iOS 26 because this
+is the biggest one. All of the icons are
+slightly updated. The lock screen clock
+is just this big glassy clear time that
+adapts to the size of what's behind it.
+Once you unlock the iPhone, overall like
+zoomed out, it doesn't look that
+different. It's slightly different, but
+they also kept showing this clear home
+screen setup where all of the widgets
+and icons are all clear. This is a new
+option. And I don't know about this one.
+I mean, it is new and you can do that if
+you want to or never turn it on if you
+don't want to. But I just think that's a
+it's a little much and readability might
+be kind of tough. But beyond the liquid
+glass thing, there are also some new
+features like they redesigned the camera
+app really for the first time in a
+decade plus. It's now going to be super
+simplified to just photo and video
+buttons and the shutter. And then
+there's a whole bunch of hidden UI. So
+you have to swipe to reveal the
+additional modes. And those still work
+the way they did before. But then also
+the frames per second and resolution
+settings are also super hidden. you have
+to know to hit that little button up
+there in the corner to change to 30 or
+60 fps, which is a really interesting
+choice there. I mean, especially on an
+iPhone where you kind of have to assume
+Apple knows which things people click
+most of the time. This kind of implies
+that nobody ever changes a lot of these
+things. The swipe up to reveal a lot of
+those settings. Most people will never
+see that. But hey, you're watching this
+video, so now you know that the live
+photos setting toggle is there under
+that swipe. So, good for you. There's
+also uh a new FaceTime app with a new
+landing page to quickly hit up your main
+contacts. And then also the phone app is
+updated to bring voicemail and miss
+calls and contacts all into one unified
+place. Kind of like that. And they've
+also matched or copied. You could say it
+however you want. Matched or copied. But
+they've matched two of my favorite Pixel
+features from the dialer from the phone
+app, which is call screening and hold
+for me. Those are the Pixel feature
+names. So now in iOS 26, there's a
+feature that can automatically screen
+unknown numbers and it'll answer the
+call for you and then transcribe
+whatever the person says before trying
+to ring you and showing you who's
+calling, which is interesting because
+the Pixel would let me choose that for
+every single call manually. But then
+also the hold assist feature is a
+no-brainer. Just waits on hold for you
+while you do other things and when it's
+time to come back, it rings you again.
+Both super useful. And there's also a
+couple iMessage features like you can do
+native polls inside of iMessage. Now,
+typing indicators and group chats will
+show you which person is typing, which
+is sweet. And you can add pictures as
+backgrounds for each of your iMessage
+chats. None of this is groundbreaking or
+unheard of, but it is nice that they're
+finally adding it. And then I would say
+the most AI focused thing here is
+translate. And I I feel like there's
+like a storm of like a video idea
+brewing where I might have to make an
+entire essay about how this is the year
+of live translation. It's just happening
+all at once now. Uh but yeah, in short,
+Apple added live translation to
+FaceTime, to messages, and the phone
+app. And it it works basically as you'd
+expect with the ondevice AI models. If
+you turn it on during a phone call, you
+can hear a person speak in their own
+language, and then it gets translated
+and read in your language. And then if
+you want to speak back, it gets
+translated again and read back in
+another voice to that person. It's a
+little laggy, but it gets the job done.
+There's also a little bit more stuff in
+maps and in Apple Music and a new games
+app. Uh I plan on breaking all of this
+down in a dedicated best new features of
+iOS video. Definitely get subscribed if
+you want to see that right when it comes
+out. I always do this when the public
+beta rolls around. So that's coming
+soon. But my main concern from seeing
+Apple's demo videos and playing with it
+a little bit myself is readability. this
+glass aesthetic. It looks cool
+sometimes, but it also is a little hard
+to read sometimes. Like, I get that the
+clear and glassy sheen is very modern
+and it looks like Vision OS and it's
+fresh, but also there's a reason that we
+add backgrounds to things in the video
+world a lot, even if it's subtle,
+because it's to provide more contrast to
+make things easier to see. Just basic
+stuff. and there were so many bits of
+text like notifications or menus or even
+UI elements that just looked kind of
+harder to read. Now, the OS is supposed
+to adapt to it by giving light things
+dark backgrounds and dark things light
+backgrounds, but sometimes you'll have
+like a half light half dark background
+and that's where things get weird. So,
+I'm curious how this is going to play
+out. Now, some of the other smaller
+updates, Watch OS 26 also got a lot of
+these glassy UI elements, and it's
+noticeable. There's big touch areas and
+reflections and glassy buttons galore.
+And you can also definitely feel that
+fresh coat of paint. But beyond that, I
+really like the new wrist flick gesture,
+which is just that. So, if you ever get
+a notification and you don't want to do
+anything with it, you know how it just
+kind of sits on the watch for a while,
+you can just flip it and it goes away.
+So, if you're getting a notification,
+you don't care, flip it. you're getting
+a phone call, you don't want to accept
+the phone call, dismiss it. If you got
+an alarm that's starting to ring or
+anything else like that you don't want
+to be on your screen, just flip your
+wrist and it goes away. I think I'll be
+doing this all the time. And the other
+big thing is this uh workout buddy,
+which feels I'm going to describe it as
+Spotify DJ but for Apple Watch workouts.
+Like it's basically a new customizable
+high energy voice that talks to you at
+various times that it thinks you need
+some energy or motivation during your
+workout just by telling you stuff like
+random stats like your heart rate or
+your mile splits or hey this is your
+third workout of the week. Great job.
+Keep it up. Stuff like that. Uh still no
+group fitness challenges though. I'm
+going to just keep saying that every
+year because every year I think they're
+going to do it and every year they don't
+do it. Still no group fitness
+challenges. But then there was tvOS 26.
+That also got new liquid glass. And I'll
+be honest with this one. I barely notice
+it here. But apparently the icons are
+shimmering a little differently
+allegedly. Uh but also just more content
+obviously. Otherwise, not a huge upgrade
+there. But then there's Mac OS 26, which
+is also called Tahoe. And this one,
+yeah, this one you notice this one's got
+way more very clear elements to it. And
+some of it kind of can look cool. Others
+I really don't like as much personally.
+And I I thought this again about some
+older versions of Mac OS, so I'm sure
+we'll get used to it, but like the
+control center with the super
+glassified feels a little more cartoony
+buttons. I'm just not a huge fan of
+that. You can also do clear widgets,
+clear dock, and the menu bar is
+completely clear at the top, which is
+also sweet. Makes your screen feel
+bigger. And so, yeah, there's there's
+some stuff to get used to here. I think
+I like some of it. It's just not totally
+like winning me over yet. One really
+good feature now though is live
+activities, which is already a nice
+thing on the iPhone. If you have an
+iPhone and a Mac, it'll show up in the
+little menu bar in the Mac when
+something is like happening, a delivery
+or a flight information, whatever it is,
+you can click on it and that'll view
+that convenient information from the
+live activity. And then if you want to
+click on it again, you can bring up the
+whole iPhone mirrored app to keep track
+of that live activity. Makes a lot of
+sense. Nice continuity feature. Anyway,
+the Mac also gets the new phone app. So,
+you know, your voicemail and everything
+in one place and the hold for me, all
+those features. But the number one
+biggest update I'm interested in on the
+Mac is actually the new Spotlight. Now,
+some of you might not care about
+Spotlight, but some of you are
+productivity nerds like me because
+you're subscribed to a tech YouTube
+channel. And you might already know
+about this, but my favorite productivity
+app on the Mac, and it has been for
+years. Every fresh new Mac, I install it
+first, is called Raycast. And it's it's
+basically Spotlight on steroids. It lets
+you open apps, but also do shortcuts and
+do window management and find files and
+do even more useful things like viewing
+my clipboard history. So now Apple comes
+out and shows us the new spotlight in
+Mac OS 26 and it does almost all of that
+stuff. This is what we call in the
+industry getting sherlocked. Basically,
+Apple showed a whole bunch of really
+cool stuff you can do now with the new
+spotlight. It's got this sweet animation
+which separates out things like file
+searches or Siri shortcut searches. You
+can do shortcuts from the keyboard to
+open actions inside of certain apps and
+perform them straight up entire strings
+of commands without even opening an app
+or touching your mouse. Real power user
+stuff. Productivity nerd stuff right
+here. It doesn't do fully every single
+thing that I've done with Raycast. like
+in Raycast I can tab over and and start
+a new search or conversation with GPT or
+Gemini or a bunch of other stuff. The
+spotlight doesn't do that yet, but who's
+to say if next year they might add that
+feature or might slowly start doing all
+the things that Raycast does. It's an
+interesting step. It's definitely
+better. But then, okay, Vision OS, this
+is where all the glass came from. This
+is technically only the third version of
+Vision OS, but now it's Vision OS 26.
+And there's some smaller updates to this
+one, but I think the new widgets, even
+though they're kind of silly and not
+really that functional, I think they're
+awesome. I think they're super cool.
+Basically, you can pin these things to
+persistent locations and customize the
+size and depth and color of them exactly
+how you want. So, they showed things
+like clocks and weather widgets and
+picture frames, but then they have these
+like really convincing location pinning
+plus all the reflectivity and depth that
+they always have. And I just I don't
+know. I thought it was super cool. I was
+sold. But really, this is also pinned
+with the fact that Vision OS or the
+Vision Pro will remember where you put
+your Windows now all the time, like
+through a reboot and everything, which
+it didn't do before. It was one of my
+biggest complaints I talked about in the
+original Vision OS review. So, yes, it
+will remember where you put your windows
+and where you put your widgets. The
+updated fidelity of the personas also,
+uh, it was it's inevitable. Like, we
+just knew they were going to continually
+get more and more photorealistic, so
+they showed another pretty big jump. Not
+sure if you're going to have to do
+another scan to get the updated Persona,
+but either way, looks much better and
+less cartoon ghosty. And there's also
+they added PlayStation VR2 sense
+controller support which no doubt will
+be much better for some of the more
+precise controls in certain games. Uh
+there's also a new Jupiter environment.
+So you're on one of Jupiter's moons with
+Jupiter in the sky above you. Cool. They
+also added native 360 video support
+playback for cameras from GoPro, Insta
+360, and Canon. It's pretty cool. We're
+still hoping to see like more
+highquality 360 content for these
+headsets to view. There's some on
+YouTube, but not a ton. But then the
+biggest, most interesting update of the
+day by far to me was iPad OS 26. This
+was fascinating because, you know, every
+iPad Pro video for the last 6 years or
+however long it's been has always said
+the same thing. It's great. It's amazing
+hardware. It's very powerful, but it's
+still an iPad. Meaning, it's still going
+to have lots of limitations. And we
+never really expect Apple to add those
+really computer-like extra features
+because they make computers, too. Why?
+They're a business. They're not going to
+cannibalize their own products. They're
+not going to overlap that stuff. So,
+there's iPads and then there's
+computers. But with this update, I feel
+like they they they use the word game
+changer, which they use that word all
+the time. But I actually feel like this
+genuinely fit the bill because they
+added things multitasking, file
+management, things straight from the
+Mac. So, yes, it still has the liquid
+glass, of course. It has the new phone
+app, the new lock screen, all the new
+icons and widgets and all that, but then
+this whole new multitasking and
+multi-wind system where in any app, you
+can just grab that handle in the bottom
+right corner and shrink it in and make
+the app whatever size you want
+immediately to a floating window. And
+then you can just start stacking
+floating windows and and putting them
+side by side and messing around with
+window management very very freely. I'm
+sure there's a limit to how many windows
+you can have open. I got as many as four
+open at the same time. But not only
+that, they added this three dot window
+control to the corner of each window,
+the stop lightss that we have straight
+from the Mac, so you can minimize or
+change the shape of any app, just like
+on a Mac. And on top of that, there's a
+new literal Mac menu bar at the top of
+the screen just giving you file, edit,
+view, menu, help, just stuff that you
+see in Mac apps. There's also a
+redesigned cursor that seems a lot more
+like a Mac cursor. It's less of a
+floating blob that had like the aim
+assist that we had before. Now it's just
+a normal mouse. There's also a new files
+app that lets you sort through things
+with different ways, the same way you
+would with the Finder app on a Mac.
+There's now like you can have downloads
+in your doc. There's all kinds of things
+that I mean as someone who's used a Mac
+for years.
+Uh feels exactly like a Mac. There is
+even an audio input selector built in
+now for all media apps, which sounds
+like such a small thing, but do you know
+how hard it's been to change your
+microphone input source on an iPad for
+all these years? It's like they're
+they're choosing now to add it. Great.
+Also, background activities. So, if
+you're exporting something from Final
+Cut Pro for iPad, you can close the
+Final Cut Pro app and do other things
+and the export will continue in the
+background just like a computer. So,
+yeah, as a computer user, I'm
+fascinated. This moves the iPad,
+especially like the most powerful iPad
+Pro, way further on the spectrum of
+compelling laptop alternatives for
+certain people. It certainly doesn't do
+everything. Obviously, it still doesn't
+have multiple profile support. There are
+some basics that we're still going to be
+missing, but I never thought that they
+would go this far. And it definitely
+feels like in lie of some other AI
+stuff, they took a lot of wishlist
+things that people have been talking
+about with the iPads and gave them to
+us. But speaking of that, I mean, the
+real question is, were all of those
+features enough to, you know, tide us
+over, to distract us from the lack of AI
+stuff? I looked at the transcript and if
+if the transcript that I have is
+accurate, they said the word
+Siri times in that entire 90minute
+keynote. So that clearly wasn't a big
+focus. And to me, it just feels like
+Apple's AI strength, if they have one,
+is really much more in how well
+integrated their features are. It's not
+going to be how good the AI is. It's
+just how plugged in they are to their
+ecosystem. Like a lot of features they
+showed us do use AI, but they aren't
+necessarily branded as AI or Apple
+intelligence all the time. And then also
+some of this Apple intelligence stuff is
+slowly taking steps forward, including
+them making their own foundational
+models available for developers to have
+access to those ondevice models and
+build more AI features into their apps.
+Now, are those going to be the best
+models in the world? No, probably not.
+At least not right now. but they are on
+device and local and can be used offline
+and will probably be the fastest since
+they don't have to go to the internet
+and back. So, you can probably expect
+many more apps to have little AI
+features built into them, whether it's
+just summarizations here and there or
+shortening things that were longer,
+things like that. Now, as for the big
+LLM Siri upgrade that we kind of in the
+background knew was taking too long,
+they had a statement at the very
+beginning of the keynote. If you
+blinked, you might have missed it, but
+the statement was, "This work required
+more time to reach our high quality bar,
+and we look forward to sharing more
+about it in the coming year,
+2026." We'll see. I just like that they
+added the onscreen capabilities for
+visual intelligence. So, it was just
+from the camera feed before, but now,
+you know how every Android phone has
+circle to search? Well, yeah. Now, with
+screenshots, the iPhone's going to get
+that, too. This was a fascinating WWDC.
+I am very excited to dig into these
+betas and see what's actually good,
+what's new about them. Stay tuned for
+those videos. But let me know in the
+comments what you think. Thanks for
+watching. Catch you guys in the next
+one. Peace.

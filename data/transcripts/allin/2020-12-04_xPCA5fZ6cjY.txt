@@ -1,0 +1,2790 @@
+# E14: Salesforce acquires Slack, DeepMind’s AlphaFold breakthrough, Trust Fund Socialists & more
+# https://www.youtube.com/watch?v=xPCA5fZ6cjY
+
+Okay, besties are back. Besties are
+back. Going around the horn. Rain Man
+David Sacks calling in from an
+undisclosed location suffering through
+two code 13s in one lifetime. And David
+Friedberg is here, the queen of quinoa,
+spacking everything in sight, living the
+life, calling in from a nondescript Ritz
+Carlton room, it appears to be.
+And of course the dictator himself,
+Chamath Palihapitiya, tackling like a
+fool.
+Welcome back everybody. This is what you
+pay for with your subscription to the
+All-In podcast brought to you by Slack.
+Uh if you didn't own Slack shares, raise
+your hand.
+It's been an incredible
+uh week um on a number of levels. We're
+going to talk this week about uh
+Salesforce buying Slack, Trump and
+section 230, uh the Coinbase, the
+ongoing Coinbase saga, uh Friedberg
+found some interesting science that
+could save humanity,
+and of course the trust fund socialists
+in the New York Times who hate their
+parents for giving them money.
+Uh let's start off with
+Let's start with off the most important
+thing. What is that shirt undershirt
+combo you're wearing? I mean, look
+It's just
+It's You have buttons on buttons. Is
+that Did I break the layering rule? Uh
+you can't you can't fool us. If you're
+going to layer properly, you can have
+only one layer of buttons. But to have
+two layers of buttons, That's not how it
+works. That's not how it works.
+J Cal went in and got an almond
+Layers are for players, not me. No, he
+got like an almond milk cappuccino and
+he's like, "I like how that barista
+dresses and I'm going to wear that from
+now on." And he's like
+Wait a second. Can I ask a technical
+question? Can Can I have buttons? I
+can't have buttons on buttons, but can I
+have buttons and then a zipper up like
+with a No, you can't do that either. Um
+listen, Chamath Chamath's had a weird
+aversion to buttons ever since he spent
+the time in Italy.
+Did you Was he button shamed in Italy? I
+I wasn't I was a little button shamed,
+but I'm looking at Sacks has buttons on
+his collars, which just makes no sense.
+Sacks is wearing the same Brooks
+Brothers shirt that he graduated high
+school in.
+At Brooks he owns 17% of Brooks Brothers
+at this point from the number of blazers
+he's bought there. All right, let's get
+off to it. We've insulted each other. I
+don't think Friedberg's taken the brunt
+of anything yet. Anybody have any
+uh chop busting they want to do with
+Friedberg or something? He's sort of
+built in. No, Friedberg took the
+tablecloth that I used for a picnic in
+the summertime
+and made it into a shirt. Absolutely.
+You know,
+you have to be frugal at this time. And
+also Friedberg cares about the
+environment. He's not going to just let
+a picnic
+Well, it was a it was a hemp based
+It was a hemp based tablecloth and so I
+knew it was going to get
+taken and stolen.
+how I choose to spend my time with you
+guys. I just It just pays off. Here we
+go. All right, can we kick this off?
+All right, let's kick it off with our
+advertisement for
+nobody because Chamath will not let me
+make any money off of this podcast. Uh
+and thanks again for the suggestion that
+we launch a syndicate with no carry. Now
+a bunch of [&nbsp;__&nbsp;] on Twitter are like,
+"Hey, when is the All-In syndicate
+starting?" I'm like, "Never. I need to
+make a living. I need to get my beak
+wet." And this week
+I'm sorry, but I think a an All-In
+syndicate would be super super
+disruptive and cool. I'm totally fine
+with running it as long as we can have
+the 20% carry, and I'll manage the whole
+thing. We got four people on the call.
+Four or five We each get 5% carry, but
+we got to make a living here.
+Not everybody's made it, Chamath. Not
+everybody's got SPACs A through Z or
+had all of their Slack shares bought. Uh
+I think we'll kick it off with that.
+Chamath, we saw this week
+in fact just two days ago, Salesforce in
+a record transaction for a SaaS company,
+I think it's the highest ever paid for a
+SaaS company, $27 billion
+$27.7 billion for for Slack, which has
+only been public for just over a year, I
+think. You were I think did the series B
+in Slack right after they did the pivot
+at Social Capital. I don't know if that
+was in fund one or two, but Phil
+Hellmuth keeps talking about it. It was
+a series B in Tiny Spec, but it was the
+series A in Slack. And
+um there's a really important story,
+which is that um myself
+and Ray Ko, um
+who's my partner at Social Capital,
+we've worked together now for
+my gosh, I think it's probably 15 years.
+Um
+wrote a really great memo justifying the
+investment in Slack. And it had to do
+with one thing and one thing only. We
+ignored the revenue and ARR. I mean, it
+was fine and nice and good.
+But the single biggest thing that we
+were attracted to was something that we
+looked at and which was called um
+intercompany edges.
+And even back in 2015 or 16 when we did
+this original investment, there was this
+dynamic where people across companies
+were communicating via Slack channels.
+And I was completely stunned by this
+idea because that was effectively a
+substitution for email. Because the only
+way you communicate across companies
+today is by email. You know, David is at
+craftventures.com and he emails me at
+socialcapital.com and I email Jason at
+inside.com. That's how we communicate
+across across businesses. Except now all
+of a sudden you could be messaging and
+having a much more real-time interface.
+That to me was incredibly disruptive and
+it justified
+um the entirety of the real
+forward-looking investment thesis. Now
+fast forward five years later and these
+guys have more usage on a daily basis
+than Facebook, which is stunning
+because, you know, these guys have 10
+million DAUs and Facebook has 2 billion.
+So it just goes to show you the quantity
+of traffic and and the the volume of
+information and theoretically, you know,
+productivity that's happening on Slack.
+And so I'm not sure what Salesforce
+bought. I actually think that, you know,
+you can make a case why
+um it's a shame that it got bought. Um a
+very strong one, in fact. But what they
+did get, whether they know it or not, is
+an intercompany edge effect, which is
+the most disruptive thing to email. And
+in the hands of Salesforce and that
+sales team, I think it has the ability
+to really be a very disruptive um force
+for good in enterprise software.
+All right, so Sacks, this is a natural
+um passing of the ball to you and the
+baton because you did Yammer, sold it to
+Microsoft for a billion dollars. And
+obviously Slack was the mobile successor
+to uh the desktop version of Yammer, and
+you got a lot of your um fingerprints
+all over this. But the fact is you did a
+tweetstorm about it. Slack is an
+unbelievable success. Stewart is a great
+uh founder. It's you know, he sold his
+first company Flickr for 30 million,
+this one for almost 30 billion. So
+that's pretty nice.
+But
+there was one failure, and you pointed
+out in your tweetstorm. Explain what the
+one failure, if you could pick out of
+the hundreds of things, thousands of
+things they did right. There was one
+thing they did wrong that uh to
+Chamath's point, would have resulted in
+them remaining an independent company
+that could have become worth more than
+27 billion.
+Yeah, it was it was a slowness to
+embrace the idea of enterprise sales.
+Um And and by the way, let's put this in
+context. I mean, Stewart and the Slack
+team did a phenomenal job. 30 billion
+dollar exit, um seven years of just
+about flawless execution. So I don't
+want to And and also, you know, I was an
+investor in the company, so thank you to
+Stewart for letting me invest. I
+definitely don't want to sound like an
+ingrate or a critic. I mean, they just
+they did a phenomenal job. But if you
+were to nitpick just one one little
+thing that I think they could have
+uh done faster, it would have been
+embracing enterprise sales. The big
+learning from Yammer, uh you know, we
+learned this at Yammer from 2008 to 2012
+is that enterprises don't self-serve,
+right? They don't self-close. Bottom-up
+SaaS products are phenomenal for
+generating top of funnel, basically
+generating leads, but you have to have
+sales people close the deals. And
+enterprises don't just kind of pull out
+a credit card and and self-serve. You
+they need a salesperson. And I think
+there was um something in the DNA of
+Sna- Slack that actually I see really
+a very commonly uh in the DNA of uh sort
+of producty SaaS companies, producty
+SaaS founders, which is they kind of
+have a reflexive dislike or distaste for
+sales. And they resist the idea of
+sales, and they want to believe that
+they can just be entirely product
+driven.
+And um and what what I see and across
+the board is they all come to the same
+realization that that we had at Yammer,
+which is we have to have a sales team.
+And I do remember, you know, back in
+2014,
+the whole Yammer sales team was
+basically rolling off um because of, you
+know, Microsoft acquired the company in
+2012, and there was an integration
+period. And by 2013, 2014, they were all
+looking for jobs. And I remember, you
+know, my my former uh CRO, I think was
+interviewing at Slack. And it would have
+been such a perfect thing for them
+because he had just learned all the
+lessons of how you layer on kind of an
+enterprise sale on top of a of a
+bottom-up product. And they just weren't
+ready to to make that a hire yet. Um and
+so look, if you're going to nitpick,
+look, $30 billion outcome, no one's
+criticizing. But if you were to nitpick,
+you know, um it's it's an A+ regardless,
+but you know, this would be the one
+thing you could you could say.
+Well, congratulations all around to
+everybody involved, especially Phil
+Hellmuth, who was an LP in one of
+Chamath's funds. So if you need insights
+on Slack
+or any of the inside information, you
+can just follow Phil Hellmuth on Twitter
+at being the greatest or I am the
+greatest or I'll always be the greatest.
+One of those Twitter handles is his.
+but Jason, I mean you you basically came
+to the same conclusion in your
+emergency pod, right? I mean I did. I
+hadn't seen your I think your tweet came
+after the emergency pod, but
+yeah, it just seemed to me
+this company, unlike Zoom,
+uh
+should have been able to grow quicker.
+And if you look at their numbers, they
+had 87 companies that had were spending
+over a million dollars. You put a rapid
+sales team on that product, and they go
+in like Benioff does with his sales
+team, I mean
+he was just hyper-aggressive at just
+putting huge numbers out there and
+saying you have to pay us this much
+money. So much so that I don't know if
+you remember Elon getting into a public
+spat with him where he's like,
+"Salesforce is horrible software. Get it
+out of the organization." He basically
+banned it because they came to him with
+the bottom-up people using of Salesforce
+and said, "Hey, you owe us this amount
+of money." And Elon was like, "FU.
+Banned forever from inside of our
+organization. We'll build our own
+software. We don't need it." Uh and and
+they didn't have somebody and Stewart
+didn't have that DNA, I think, to say
+aggressively,
+"We need to charge what this product is
+worth." And you saw that in, I think,
+one of their strengths and weaknesses,
+which was they only bill you for people
+who were actively using the product.
+Now, that's a beautiful, awesome
+feature. It makes you not scared to use
+it, but on the enterprise level,
+I mean
+that seemed to be like maybe one of
+those non-cutthroat things that maybe
+were holding them back. David, do you
+have any insights on this or should we
+go on to AlphaFold?
+It's It's It's really important to
+remember the the mechanics and the game
+theory around M&amp;A, especially you know,
+big game hunting when you're doing $30
+acquisitions.
+It's also kind of true at billion-dollar
+levels, but less so.
+But the bigger the acquisition gets, you
+have to remember that there's an
+asymmetry of information between buyers
+and sellers. And the question is who
+does the asymmetry favor? Hm. Right?
+Because you could look at this
+acquisition and say, "Wow, Salesforce is
+crazy for spending $30."
+And somebody else may say, "Wow, Slack
+was really stupid for selling it for
+$30, right?"
+The reality is that I think that there
+was asymmetries on both sides. I think
+that what Slack probably saw, and I
+don't know cuz I've been off the board
+now for more than a year,
+but I think what they saw was, as David
+said, just
+you know, a level of sophistication and
+scale scale and ability to cross-sell
+and upsell that was needed for
+enterprise scale. Either you overcome it
+with precision and speed or you overcome
+it by going the same pace as somebody
+like Microsoft, but with an equivalent
+product portfolio. So, that's that's
+sort of one realization that's that that
+Slack had. But in in the case of, you
+know, um
+um Salesforce, what they probably had
+was a realization that they couldn't go
+wall-to-wall inside of a customer
+because they didn't really have a
+product that was useful or usable to
+every single individual inside of an
+enterprise. And so, both of those two
+things create asymmetries. There's a
+level of fear inside of Slack and
+there's a level of fear inside of
+Salesforce. Both of them are about the
+fear of disruption. And then the
+question is who gets the better of the
+other person in the middle of the
+acquisition, right? So, the deal could
+have probably gotten done at, you know,
+22 billion. It probably could have also
+gotten done at 45 billion. Um And that's
+again to a combination of
+how well you play poker in that moment,
+right? Who blinks first and the quality
+of the bankers. This is like two people
+having top pair on a very textured
+board. It's like who
+And they're just raising versus each
+other.
+Yeah, it's who outplays who. Cuz like
+it's similar also to like how Microsoft
+bought LinkedIn, right? Cuz if you think
+about what happened in LinkedIn, if you
+remember when that happened, it was
+almost to a T very much like Slack.
+LinkedIn had a one bad quarter.
+They got decapitated by I you know, and
+I owned it at the time in the in our
+public fund. It got decapitated by like
+50, 60, 70%. I mean, something insane
+for missing numbers by like a few
+pennies, okay?
+And all of a sudden, it took a lot of
+the wind out of their sales internally.
+It didn't change the user momentum at
+all because, you know, the users that
+were signing up for LinkedIn didn't care
+what the stock price was yesterday,
+today, and tomorrow.
+But it all of a sudden created a fear.
+And I think Microsoft was able to
+exploit that fear, and within a year
+this company was bought for $25. Not
+dissimilar, you know, Slack had uh you
+know, a hiccup, and they got re-rated.
+The stock bounced back.
+But I think that if Salesforce was
+smart, they probably created, you know,
+sort of like a white knight kind of bid
+that said, "Listen, you need enterprise
+scale and the ability to cross-sell and
+upsell. I can give it to you." And Slack
+probably said, "Listen, you need to go
+wall-to-wall, so I understand why you
+need me.
+And, you know, the price is what the
+price is."
+look at the pricing,
+right? So, Slack
+nor- normally the way these big
+public company M&amp;A deals get done is the
+board has to approve the price, and they
+have to say, "This was the right deal
+for us relative to other options." And
+one of the ways you you assess that is
+you look at where the share price has
+been historically. And if you're getting
+a premium to where the share price has
+been historically, let's say 30, 40%
+higher than it's ever been, then the
+board says, "Great. That's a good deal.
+We should take it because we've got a
+long way to grow into that value." Um in
+this case, the deal was done not at a
+very high premium to where Slack traded
+just in the summer.
+Uh is that right, Chamath? So, it looked
+like it peaked It's basically if you
+look at the fully
+premium, right?
+Yeah, 10% premium. Yeah. 10% premium.
+Yeah.
+We We opened the direct listing at 40 or
+41, and then this was at 45. Right. And
+so, there there clearly was
+a sense of weakness from the board,
+which is
+I think why the Salesforce stock traded
+down afterwards. Because if they were
+willing to sell at that small of a
+premium, the forecast internally is
+probably feeling not that strong, and
+then people translate that into, "Hey,
+Salesforce bought something that's not
+that strong." Um you know, there's
+there's something a little bit amiss.
+But but obviously, to your point,
+they're missing a lot of the
+cross-selling and the synergy that that
+that that will allow.
+it's a huge slam-dunk acquisition, and I
+go back to the this idea of intercompany
+network effects.
+I think they exist, and I think they're
+real. And I think that the Slack the the
+Slack
+um product team's ability to innovate
+around that
+was not as fast as it could have been,
+but it was still very unique. And I
+think it was
+it was a true moat. And, you know, the
+the tragedy is we won't see what the
+terminal value is if they were um left
+alone to execute. And in this weird way,
+like I've always struggled with why
+Microsoft was so overly obsessed with
+Slack because if you looked at the Teams
+product, it was much more directly
+competitive with Zoom. And to this day,
+still remains much more directly
+competitive with Zoom than Slack. But,
+you know, there we have it. And if you
+look at the revenue,
+um Slack was doing 800 million run rate.
+So, anyway, round it up to a billion,
+and yet Salesforce had 20 billion.
+So, 5% revenue to revenue, and then they
+got 10% of the company. So, in that way,
+if you look at it on a percentage basis,
+which is you know, how you might look at
+the Facebook, Instagram, and and
+WhatsApp, is what percentage of the
+existing entity did they get?
+Well, Slack's growing Slack's growing
+about 60% a year, and Salesforce is
+growing about 22%, something like that.
+The other thing is the president of
+Salesforce is Bret Taylor, who was our
+CTO at Facebook, who I worked with. And
+so, I think Bret also understands
+network effects really well.
+And you know, by the way, in in this
+interesting twist of fate, Benioff was
+the underbidder, I think, for LinkedIn.
+And so,
+you know, we've
+we've seen Mark around the hoop on
+these, you know, social network network
+effect business tool
+acquisitions before, and finally with
+Twitter. He was running He was hanging
+around the basket with Twitter, and then
+they also brought his name up for
+TikTok, which made no sense. So, I think
+Benioff is just looking at this like
+if if Google and Microsoft and Apple are
+too scared to buy things because of
+antitrust, well, I'm under the radar of
+the antitrust trillion dollars, so
+I'm I'm the only game in town, right?
+He's He's under the radar because he
+doesn't have a play in this sort of
+communication or collaboration space.
+And so, therefore, there are no
+antitrust issues. Um If Microsoft were
+to do it, it would definitely be
+scrutinized because you could argue that
+they're adding to their existing
+dominant market share in in
+collaboration.
+Um But Benioff's dream has always been,
+at least since he
+uh you know, launched Chatter to compete
+with with us when we were doing Yammer,
+this is back in
+2010, 2011,
+is he his dream has always been to have
+a product that could get him onto every
+seat in the enterprise. You know, his
+current product set has is departmental.
+I mean, you've got kind of the CRM
+product for sales, and they've got the
+support cloud for customer support, and
+they've got the marketing cloud for
+marketing. And so, he's gone department
+by department, but he's never really had
+a sort of pan like sort of
+cross-company. Yeah, something that the
+entire company would use. Like a central
+login system, right? And Slack is that
+central login system. But when you when
+he came up against you, it was very You
+know Benioff. You're friendly with
+Benioff. Benioff
+came at you
+so hard, he threw three or 400 engineers
+at Chatter. He took out full-page Wall
+Street Journal ads. He tried to poach
+your people. He tried to make the
+product free. He made it personal
+against you after you would not sell to
+him. True or false, David Sacks? I don't
+I don't think he made it personal, but
+it was definitely
+personal? Um
+Did he hurt your feelings? No. No. Oh,
+no. No. No. He did. That's your way of
+saying
+no.
+That's your way of saying he No, I mean
+if we had sold to Salesforce, like we we
+ended up So what I would say is yeah, we
+got in like a very It was a very
+competitive situation. He didn't beat
+us. Um
+you know, I I What's that? He failed.
+Does that product even exist?
+Yeah. Um it it's sort of like a feed
+inside of the the CRM product. It didn't
+really succeed as a standalone
+collaboration product. And so we won
+that battle, but it definitely I would
+say it scared us enough to sell to
+Microsoft. Um because, you know, the
+What did he argue about?
+We were about to enter a new stage of
+competition. So here's what happened is
+he launched his product to kind of be a
+clone of Yammer inside of Salesforce,
+but he was initially charging $15 per
+seat. We were charging like five. And so
+they massively overpriced it and and
+they even and then they they were on
+this like slippery slope where they kept
+lowering the price to compete better
+with us. And then finally they realized
+that they should just give the thing
+away for free as a strategic move. Um
+and that was when we decided to sell to
+to Microsoft is we didn't know We knew
+we had a better product than Chatter,
+but we didn't know how it would go if we
+were up against a free Chatter. Tell us
+honestly how much did you offer? What
+was the meeting like where he made you
+the offer?
+We
+Yeah, so they they talked Yeah, so
+Here's I'll tell you the backstory. I
+mean, this hasn't been public publicly
+revealed, but um
+In service of the Yammer In service of
+the All-In podcast
+Yeah, to try and
+In service of trying to get us from
+number three to number one on the
+charts. Um you know, you know, it's
+funny. We launched uh Yammer at the
+TechCrunch 40 conference that Jason, as
+you know, you were the co-founder of.
+And Benioff was like a judge. He was a
+panelist and he was raving about it and
+you could just, you know, from from the
+moment we launched he was raving about
+it and you could see the light bulb go
+off with him.
+And um he realized that like social was
+going to be It was, you know, at the
+time obviously social was big with
+consumer social networks, but he saw the
+potential of social or collaboration
+inside the enterprise. And so yeah, I
+mean like I think a year later or
+something they were interested in buying
+the company for around $250 million.
+The big issue for them though was that
+Benioff had a bunch of like engineers
+who wanted to build it in-house. And so
+they they they actually I I don't know
+what would have happened if um
+if they
+you know,
+didn't want to build it themselves, but
+but basically they vetoed doing a deal
+and so they ended up building Chatter.
+And they threw the 300 engineers at it
+and they basically spun their wheels for
+a few years. And um anyway, it turned
+out to be much better for us because we
+ended up selling the company for five
+times as much to Microsoft. Um you know,
+if we had sold to Salesforce in like
+2010, it would have been a much smaller
+deal.
+Um but yeah, that I mean he He was very
+interested in it from the from the
+get-go.
+All right, folks, there you have it.
+Breaking news in the background on what
+actually happened. Congratulations to
+Stewart and the team. Wait, I want to I
+want to ask you a question, Chamath and
+Sachs. Did you guys um keep all of the
+shares you you originally invested in um
+to the exit here? Just to set the
+context for folks. You know, you you
+invest in a company, it's a small
+startup. It's exiting for $30 billion.
+Yeah. Did you hold it? Uh uh uh
+For every share that I owned, half of it
+were half No.
+Uh
+Yeah, for uh for of of of
+a hundred shares that I owned, per every
+hundred that I owned, um
+ten of them I sold at 38 right at the
+direct listing.
+Um
+I want to say 40 of them I sold uh in
+the mid-20s.
+And uh the rest of it just got taken out
+at this price. So you dollar cost
+average to the, you know, whatever high
+30s, maybe 40 or something.
+I I don't know my exact I mean, I I I I
+sold some and I still own some. So
+um you know, I definitely got my my beak
+wet from this acquisition. Um but
+But uh no, but look, I I I think I
+probably sold, you know, more than half
+of them, you know, um and that was a
+mistake. And you know, one of my biggest
+learnings as an investor has just been
+to let your winners ride. You know, my
+biggest mistakes as an investor has not
+been the losers. It's all It's been
+selling the winners prematurely. You did
+that with Uber as well, David. Uh and I
+sold some Uber before, but I kept a lot
+of my Uber, maybe most of it, or half of
+it, I think. Anyway,
+Uber, Facebook. I mean, Facebook, you
+know, when they IPO'd it was worth 50
+billion. We all thought that was like
+unbelievable. I mean, cuz it was over a
+50x return, but um What's the lesson for
+you, Sachs?
+Just never sell anything if you can help
+it.
+I I sold all of my Facebook in 2014 and
+bought Amazon and Tesla. I think that
+you have to be able to sell for two
+reasons: liquidity and moral obligation.
+Mhm.
+Yeah, I mean, that's an exaggeration. I
+mean, you can never It's It's It's
+People need to be able to sell, but to
+the extent you can hold on, uh just
+don't sell everything. You know, always
+you
+keep um
+you know, keep it keep it
+I mean, think about the people who were
+at Apple in the '80s or Microsoft in the
+'80s or Amazon in the '90s. A lot of
+those people got frustrated holding the
+shares for so long. And I think keeping
+at least 20% of your shares forever,
+you know, could be amazing. There was
+somebody told me had never sold a single
+share of I don't know if that's a true
+story or not. I told you that. You can't
+be leaking that information. Okay.
+Anyway, I didn't know that was a leak.
+Attack. More breaking news.
+Let's move to Apple before
+Let's move to Apple before we
+Let's please give credit All-In podcast.
+Oh my god. The same The same may or may
+not be true with and his shares.
+You know what we should do is we should
+do a
+um
+we should put beeps in there, Nick. I
+was told
+had never sold a share of
+And then we just let everybody react to
+it.
+This way nobody knows
+who we're talking about.
+I I do know that
+has not sold a single share
+and it has only sold shares of the fund
+capital calls, which is an incredible
+statement to
+fortitude and vision. Incredible.
+Incredible. It's By the way, by the way,
+it's not always worked out cuz he did
+the same with
+and those didn't go as well. Yeah, I
+mean, look, you you you have to
+diversify when when you've got all your
+eggs in one basket in one company,
+obviously you have to sell some shares,
+but um
+you know, one of the things I've just
+learned over the last 20 years is
+probably you know, people ask me what's
+your biggest regret or learning or
+whatever, it's just selling too early is
+like one of the biggest mistakes you can
+make. Um look at PayPal. PayPal's now a
+$250 billion company. We sold it in 2002
+for 1.5 billion. We thought that was a
+great deal at the time and we sold it
+for less than 1% of what it's worth
+today and the product's basically the
+same.
+You know, it's just compounding.
+the lesson. Never sell. If it's a
+winner, ride it. You can pair
+Hold on. Hold on. I'm going to put a
+final nail in this coffin and then we're
+going to go to AlphaFold. There's a
+great quote by Warren Buffett, which is
+um if you know what you're doing, the
+best thing you can do is be as
+concentrated as possible. Nobody ever
+got rich in their seventh best idea.
+And I think that that basically sums it
+up. But you have to be in a position to
+have the ability to have that kind of
+portfolio allocation and I think that's
+hard. Freeberg, explain AlphaFold,
+please.
+Uh okay. Let's explain Give me two
+minutes on I'll explain proteins and
+then um the importance of proteins and
+then AlphaFold. So um
+the numbers to remember are four, three,
+and 20. There are four nucleic acids
+that make up your DNA. We all learned
+this in high school biology. Um sets of
+three, ACTG combinations, define an
+amino acid. There are 20 amino acids.
+Um and a protein is a string of amino
+acids. So in your body and every cell,
+there are these um organelles. They make
+proteins by reading the DNA, taking out
+a copy of it, and turning it into amino
+acid chains, and that's what we kind of
+call proteins.
+Um but what's interesting is when you
+make a chain of amino acids, so there's
+20 of them that you could put in each
+point in the chain, it doesn't come out
+as a long chain. What happens is those
+amino acids, the whole thing collapses,
+and it turns into a very specific shape.
+And the shape of that protein is what
+defines its function. So pretty much
+every biological function across all
+life um is is undertaken by proteins
+doing something. Some proteins like
+hemoglobin in our red blood cells will
+has a very specific little pocket where
+oxygen molecules stick into the pocket,
+and then it moves the oxygen from your
+lungs to your cells. It's a pretty
+amazing protein to exist. Uh and it it's
+specifically shaped to do that exact
+function. There are other proteins that
+can, for example, rip apart other
+molecules, break a a molecular bond. Um
+there are other proteins, for example,
+that can take nitrogen out of the
+atmosphere and put it into plants cells
+that the plants can then use to grow. Um
+there's an incredible um
+uh you know, a set of potential on the
+nanoscale of what you can do with
+proteins, and we see that in life, and
+we're just shocked and awed and amazed
+by it every day.
+But in order to figure out how to create
+proteins that uh that do specific
+things, you have to know how do those
+amino acids turn into the shape that the
+protein ultimately takes, and that's
+what's called protein folding.
+Um and so the hard thing is um
+and you know, why is this important?
+It's important because we can easily
+read DNA,
+and therefore we can figure out what
+amino acid sequence is being made to
+define that protein. But what we don't
+know really well is what is the shape of
+that protein, and therefore how does it
+undertake the function that we see it
+taking in biology. And if you think
+about the reverse of this, the reverse
+of this, if you have a function you want
+to undertake in biology, you can design
+a protein to do that function for you.
+For example, bind to a specific point on
+a cancer cell. Um or, you know, take
+carbon out of the atmosphere. Um or
+pretty much anything else your your mind
+can kind of imagine on the nano scale,
+proteins can be designed to do.
+The challenge is, how do you write the
+code, which is the DNA, to make the
+protein that does that thing? Well, we
+don't know how the code turns into the
+shape. And that's what folding the
+folding problem is. So, the folding
+problem, there's a data set, and the
+data set is, what's the
+three-dimensional shape of a protein,
+and then what's the DNA code that
+defines the amino acid sequence that
+makes that protein?
+And how do you figure out how to predict
+the shape of the protein from the amino
+acid sequence? It has been an
+impossibility. And um
+again, if you think about this chain of
+amino acids, they each have little um
+you know, uh
+electrical spaces, and and the way that
+they bind to each other, it's very
+complicated. You can't just
+deterministically define it.
+You know, we don't have that level of
+understanding on a quantum scale.
+So, what AlphaFold has done is they have
+now been able to predict from a sequence
+of amino acids what the protein shape
+will ultimately become by learning from
+a database of hundreds of thousands of
+structural protein
+uh
+uh shapes that have been defined through
+really really really um difficult uh you
+know, scanning microscopes and other
+techniques to really try and scan a
+protein on a microscopic scale, and then
+looking at the the DNA sequence and
+figuring out, okay, what's the
+relationship?
+And the accuracy of their predictive
+model now is within the range of error
+of the microscopes that are used being
+used to actually scan and measure those
+proteins.
+So, that's incredible. Because now
+theoretically, you could come up with a
+design for a protein,
+and you could actually build that
+protein by writing the amino acid
+sequence, and that protein can do any
+number of things you want to do. And
+this has been a difficult problem that's
+been intractable by humanity, and we've
+been challenged by it for decades.
+Um for this machine learning
+breakthrough uh to to kind of be
+realized in literally less than 3 years,
+I mean, the these guys were at a score
+of 40 last year, and this year they're
+at like nearly 90, which is incredible.
+And so now, um you know, we can now
+predict what the shape will be from the
+from the DNA sequence, and and this is
+going to unlock this ability. Everyone's
+now going to take their model, if they
+license it or whatever they do with it,
+or people are going to go learn using
+the same techniques that that DeepMind
+used.
+Um but it just means that it's possible.
+And then scientists will go away and
+they'll say, you know what, I want to do
+this particular thing on a microscopic
+scale. Let me design in in
+three-dimensional space a protein to do
+that thing. Okay, now let me go figure
+out how to make that protein by writing
+the DNA code, which is really easy if
+you can use this algorithm to solve that
+for you. And it is literally dollars and
+pennies to make proteins. We can write
+DNA on a computer, we can get printed
+DNA sent to us in 48 hours in a FedEx
+envelope from a DNA printing facility.
+We can put it in a in a microbe, and we
+can get that microbe to make the protein
+for us in a day. The lab costs, any high
+school biology class can do this now.
+So, by being able to actually figure out
+what DNA to write based on the objective
+function of what do we want the protein
+to do, it's going to unlock this
+universe of things we can do in
+medicine,
+in environmental science. Uh we can do
+things like break apart plastics. We can
+do things
+um like fixing nitrogen from the
+atmosphere and getting rid of fertilizer
+plants. We can um create all sorts of
+new um you know, food solutions, health
+solutions, environmental solutions.
+Any chance you can make a pizza that
+doesn't have carbohydrates? Cuz that's
+what I'm thinking about here is, is
+there a way we can make
+a healthy pasta or pizza or something
+like that? But in all seriousness, what
+what do you think the early wins will be
+out of this technology? And and is this
+a theoretical win that will benefit from
+in 20 years, or is this a serious
+breakthrough that we're going to benefit
+from in the near term, like one to five
+years?
+both are true. This is a an incredibly
+important advancement in machine
+learning. Um but the reality is that,
+you know, Google will still have to
+spend, and DeepMind will have to spend a
+lot of time refining it. And then they
+have some really big ethical challenges
+ahead of it. How do you expose this
+technology, to whom, and under what
+conditions? And it's the same situation
+that OpenAI has with GPT-3, although a a
+lot of people I think you know, the the
+scale of the computer science challenge
+maybe was a a bigger win in GPT-3 cuz it
+was a much more open space.
+Um and I think this is a much more
+specific sort of almost expert system in
+a way. Um but the the downstream
+commercial implications of this are just
+enormous. Um And so, the just think
+about this, like this is where like you
+got to you got to love companies like
+Google, the fact that they exist,
+because from, you know, PageRank in 1999
+to CPC ads in 2003 and four, um we have
+AlphaFold in 2020. And that to me is
+just that's just fantastic.
+an argument against breaking up tech,
+because only a tech company with this
+amount of resource knowledge can then go
+spend a billion dollars on DeepMind over
+the past decade.
+burning four to five billion dollars a
+year on their quote-unquote other bets
+line, and people give them a lot of [&nbsp;__&nbsp;]
+for it. But I mean, you hit any one of
+these things, and it's a hundred
+billion-dollar payday. I mean, look at
+YouTube. YouTube's easily a
+hundred-billion-dollar payday on a
+billion-dollar bet, billion six. Oh, no,
+that's a that's a 250 to 500
+billion-dollar company now.
+Applied semantics, a lot of people miss
+this, but applied semantics was a
+hundred million-dollar bet, and that's
+the entirety of AdSense initially.
+Android. Android. Um you know, and Is
+this is this the first commercial
+application of DeepMind? Cuz until now,
+you know, they've had AlphaZero, it's
+but So, there were there was a period of
+time, a lot of people, I don't know if
+uh
+Let let me just think about this for a
+second.
+All right, cuz I Cuz AlphaZero AlphaZero
+was really good. I want to be careful
+about this, but I do think that
+No, but I I I do think I do think it was
+disclosed that they've used DeepMind uh
+to improve ads quality and improve um uh
+YouTube viewing. And as a result of
+that, you get the number of hours per
+day of the average user on YouTube to
+double or triple, ad revenue goes by 3x,
+and I think in one quarter Google was
+able to generate something like an
+incremental 15 billion annualized
+revenue from DeepMind's algorithm. And
+you know and you know what that DeepMind
+actually did on YouTube? It sent
+everybody to the alt-right and In Wars
+and Ben Shapiro. Congratulations. Be
+careful where you send people's minds
+with artificial intelligence. Maybe
+you're just arguing to break them up.
+Yeah. But I I I understand, Sachs, that
+it's being used broadly across the
+products at Google in in a in a in a in
+a now now in a much more careful way is
+my understanding. And I'm look, I'm a
+I'm a I'm I'm a big ally of Alphabet,
+I'm a big fan, and I love
+they were And I used to work there, and
+I'm very close to people there. So, You
+know who used to be on the board and was
+the major backer of that company,
+DeepMind? Founders Fund. Founders Fund.
+Elon Musk, too. And he begged them to
+not sell to Google, cuz I mean, 400
+million-dollar 400 million-dollar exit
+was a steal for Google.
+50 scientists, I think they had.
+Yeah, absolute steal.
+No, Elon I mean, Elon has publicly said
+that he thinks DeepMind is like the
+greatest threat to Well, he thinks AI is
+the greatest threat to humanity. And of
+the people working on AI, DeepMind is
+the furthest along and therefore most
+dangerous.
+Yeah, he tried to stop. He I mean, he
+told me straight up, like when he's been
+very public about this since, that he he
+said, "I'll give you an unlimited amount
+of money to not sell to Google." He's
+friends with Larry Page, too. But he
+said, "Don't sell. I want you to be
+independent. I want you to keep working
+on this." But he said that when he saw
+the AI there become aware that it was an
+AI, that that was when he was like,
+"Wait a second." No, wait. Deep DeepMind
+is not Alpha AlphaFold or AlphaZero is
+not self-aware. He felt it was becoming
+self-aware that it knew what it was. I I
+don't know if that was just Elon, you
+know, just sort of
+No, it's not it's not self-aware. So, I
+mean, I've I've watched The
+Yeah, I mean, the the amazing things
+that DeepMind has released prior to this
+were games, right? They had this um
+chess
+this chess AI called AlphaZero, which
+rapidly became not just the best chess
+um it it it not only beat every human in
+the world, it also beat every chess
+engine, because computers became more
+you know, better at chess than humans a
+long time ago because of their sheer
+computational power, but uh AlphaZero
+plays like a human, but with kind of
+that same computational power. And so
+that created a whole revolution in chess
+engines. And then they also did that
+with a game called Go, they created
+AlphaGo. And basically every single game
+that you can think of, uh DeepMind's
+created, you know, an an alpha whatever
+alpha version that um destroys
+both humans and computers. But this is
+the first thing they've publicly
+announced that that seems like it will
+be available to others eventually that
+could have
+tremendous social impact. Imagine the
+government trying to understand this.
+Can you imagine them being brought
+before like senators and congressmen?
+are these are these are the new weapons
+of mass destruction. I mean, let's be
+honest, like if if somebody else had had
+AlphaFold, and probably somebody does
+and just hasn't said, you know, I mean,
+Google actually values transparency, so
+that's the only reason why we know. Um
+imagine what they could do. As Friedberg
+said, it's like, you know, the the
+opposite of this is basically to design
+um a specific protein that basically um
+you know, destroys organs or There there
+are proteins called prions, which are
+the scariest thing known in biology, in
+my opinion. A a prion is a protein that
+it actually finds similar proteins, and
+based on its shape, it gets those
+proteins to change, and it becomes like
+a virus. And prions actually um are
+there's an extremely uh sad series of
+diseases that are related to prions,
+where your body expresses a protein in
+the wrong way and then that protein
+itself gets other proteins to change and
+creates copies of itself and it spreads.
+Um it is a fascinatingly scary um
+biological phenomenon. But, you know,
+there there are extremely scary things
+you can do with the designer protein
+capabilities in the wrong hands.
+you can make a bioweapon that would be
+similar to what the aliens in Prometheus
+and and aliens were doing, the
+engineers.
+much worse. Even much worse. This is why
+I think they're going to spend years
+before So, this is why back to that
+earlier question. It'll be years before
+this sees the light of day because
+um they're they're smart enough to know
+what they've uncovered. And I think they
+did they did the right thing by talking
+about it because I think there's a lot
+of really amazing R&amp;D.
+Um
+but the reality is that Google for the
+next 20 or 30 years will have layers and
+layers of oversight because um
+you know, it's not like you're going to
+allow a company to enrich uranium
+uh in Mountain View without oversight
+and this is the equivalent. It's just a
+we're we're buying time until
+governments realize that they have to
+that they have to do it. But let's also
+remember the protein data set they
+trained on is publicly available. You
+know, anyone can access this and with
+the you know, a catch-up in machine
+learning, you know, capability to
+DeepMind
+infrastructure-wise, theoretically, you
+know, someone could could catch I I
+think it's it's an inevitability that in
+the next 24 months someone else will
+will replicate this.
+I think I think I think I think what
+DeepMind has done is showed that
+specific um
+techniques of learning can overcome
+limitations in compute. But to your
+point, David, like we're accelerating
+silicon at a fast enough speed where,
+you know, if like if you can throw 5,
+10, 15, 100, 500 petaops at a problem,
+uh you're you know, you can run you
+know, some really really old version of
+TensorFlow and probably get to the same
+answer.
+Yeah, I actually think they published
+I'm going to find it while you guys are
+chatting, but they published um what the
+compute needs were on running this uh
+I'll find it in a second. Uh I'll tell
+you.
+But I I
+let me make one sort of slightly
+dissenting point on the whole WMD thing.
+I mean, look, obviously
+the you know, who who has access to this
+technology needs to be controlled. Um we
+we we do have to make sure it doesn't
+get into the hands of bad actors. But
+the reality is there's plenty of
+existing WMDs out there that have been
+around for a long time that bad actors
+could get at their hands on.
+Um they could already make, you know,
+extremely dangerous viruses in a lab.
+They could, you know, take something
+that's as contagious as smallpox and
+make it as deadly as Ebola or something
+like that. And it's these new
+technologies that provide a way for us
+to combat those those WMDs because, you
+know, technology has a tendency to
+become democratized. Um
+you know, um
+what was it? Uh 75 years ago the US was
+the only country that had an atomic
+weapon. Now, what? Like close to 10
+have, you know, nuclear atomic weapons.
+And so,
+um you know, these these sort of
+nefarious technologies get democratized
+anyway and we really need some of these
+new technologies and new abilities as a
+way to combat them. So, like last week
+we were talking about the ability now to
+basically print
+um you know, a vaccine using this mRNA
+technique within 2 days. You know, you
+could imagine, you know, if if if
+someone tried to use a bioweapon, create
+a new virus, we could print a vaccine
+the next day.
+Um those are the kinds of capabilities
+we're going to need to fight the spread
+of WMD. I think you're right. It's just
+that you then have a law of large
+numbers problem, meaning, you know, the
+previous problem before is you had 180,
+190, 200 state-sponsored actors. So, if
+you had a 1% you know,
+rate of people who are just bad, you're
+talking about two states.
+Now, when you talk about 5 billion
+people getting access to code that's
+basically running an AWS or GCP instance
+someplace and you have a 1% you know,
+bad guy rate, all of a sudden that 1%
+really matters.
+And that I think that's the problem.
+It's just the law of large numbers,
+David, applied to very very small rates
+of immorality.
+But I mean, you can already do very
+scary things with, you know, recombinant
+DNA, taking DNA from one organism,
+putting it in another and sending that
+organism out and, you know, uh
+theoretically you could have designed a
+virus that would spread throughout
+humanity and cause a lot of death,
+right? I mean, there's a lot of this
+capability out there.
+would have found that out because like
+you can't run these labs and you're not
+going to get, you know, monkey models or
+mouse models. It's like there's there's
+a trail of breadcrumbs there that is
+easier to track, wouldn't you agree,
+than just running an instance in a
+simulation on GCP, sending it someplace
+to then have a protein printed that
+comes in a FedEx envelope to you?
+And you have to hire people as we saw in
+Iran with, you know, their chief
+scientist being whacked by whoever
+accidentally whacked him with 60 people.
+Like you need to have the brainpower to
+do this. Once you have the brainpower to
+do it, you can track that brainpower.
+And we had uh for the last I think it's
+like since we even tested nuclear bombs,
+we've had the special planes flying
+around the globe looking for the
+signature of nuclear
+uh detonations or any kind of nuclear
+fallout.
+And we've been flying those forever.
+Uh I think also
+I think I think I think biodefense is
+going to become probably one of the
+biggest industries on planet Earth
+starting in the latter half of the
+century because you're you're going to
+get to a point where um digital biology
+is like a tool just like software was in
+the '80s where suddenly everyone could
+access it, everyone could use it,
+everyone could do stuff with it. You
+have this ubiquity of scary [&nbsp;__&nbsp;]
+happening. Hackers everywhere.
+Freeberg? Didn't we have that as well
+and those same claims about nuclear
+power and we were been able to for 100
+years
+or close to 100 years
+making it illegal?
+with nuclear in particular there is a
+material problem. You have to source and
+refine material to do something scary.
+With biology you don't. You can do this
+anywhere. You can do it on your desktop
+at home
+um and, you know, it's getting easier,
+cheaper, faster and you can use software
+and a printer and, you know, a a cheap
+sequencer and do stuff.
+believe that China has this, Freeberg?
+Yes. China? For sure. Yeah, I mean,
+look, this is yeah, I think 100%. Are
+they ahead of DeepMind or behind
+DeepMind? 100%. 100%. So, here here's
+the stats that DeepMind put out. It took
+um the equivalent of 100 to 200 GPUs run
+over a few weeks
+to build this model. I don't I don't
+care how advanced DeepMind is at this
+point. That's nothing. So, so, you know,
+if that's the the model, then someone
+else can replicate that. Uh you know,
+someone else will replicate that.
+that's what happened to to AlphaZero,
+the DeepMind chess engine. After they
+proved it, now there's a whole bunch of
+uh chess AIs. And I think we're playing
+chess now. I think we're within within 1
+year, J Cal, of a lot of startups
+replicating this AlphaFold uh technique
+and then using that to go do drug
+discovery and you'll see 50 startups
+getting funded 12 to 18 months from now
+based on some novel protein idea. Um and
+I think that this
+We got to get our beaks wet on this in
+the ISS. Everybody go to This is getting
+ridiculous. Everybody go to the
+syndicate.com/allin.
+But I but I will make I will make
+I will go ahead. We should create a we
+should create a protein folding
+syndicate. Yeah. Absolutely. Here it is.
+Everybody go to the syndicate.com/allin.
+If we do this, I'm collecting the emails
+now.
+No, but I I will I will I will make my
+first series of bets less on the
+application and more on the the
+protection. I think biodefense 30 years
+from now is going to be so important.
+If you want to invest with the best,
+ease. Can there Is there going to be a
+protein that prevents Rudy Giuliani from
+farting?
+I mean, what is going on, Sachs? Let's
+throw to you as our resident right-wing
+uh
+Joking. I'm joking, Sachs. Don't take it
+so personal. We know you didn't vote for
+Trump.
+We know you did a write-in vote for
+for Tucker Carlson.
+Let me ask you this. Have you Have you
+or have you not had dinner with Tucker
+Carlson?
+Um That's a big pause. I call
+all in.
+Um I I've actually uh yeah, I I um no, I
+don't think I've had dinner with Tucker,
+but um
+You've been to a party with Tucker
+Carlson at his mom's house.
+But let me let me let me get to
+Here's what's happening is well, I feel
+my dream of gridlock in Washington for
+the next 4 years is slipping away.
+Um you know, the
+you know, I described this as sort of
+like it was kind of a dream scenario
+that you'd have um a a divided uh
+Congress. And the Republicans, you know,
+they won 50
+they won 50 seats in the Senate in
+November. And then, you know, because of
+this stupid rule in Georgia that you
+have to you can't just win, you have to
+win by having over 50%. Um the
+Republicans would have had uh 51. But
+now these there's a runoff for these two
+open seats and the Republicans were
+ahead in the polls at the time. They
+were
+I think it's mostly just based on the
+candidates being more popular than the
+Democratic candidates. But now because
+of all these antics around the election,
+the Democrats of both Democratic
+candidates have pulled ahead. And so
+it's yeah, they are now both Democratic
+candidates in the last couple of last
+week or so.
+Um Ossoff is ahead of Perdue by about
+two points, which is a stunner because
+Perdue has already beaten him before. He
+beat him in the November election. He's
+I think a better candidate.
+though, right? And the the margin of
+error has always been small to the
+Republican. Right. But Warnock is seven
+points ahead of
+Loeffler.
+So, that one is outside the margin of
+error. He's clearly
+beating her.
+And um it you know, and now it looks
+like Perdue is in danger, too. The
+Republicans just need to win one of
+those in order for us to have, you know,
+a divided government in Washington,
+which I think tends to produce better
+results than giving one
+party all the levers of power.
+Um but but this is this is the crazy
+thing. And so, I think even from Trump's
+point of view, you know, I think this is
+a branding exercise to
+you know, prove that he didn't lose. The
+problem is Yeah, how's that going? Well,
+it's not working and it looks like it's
+going to cost Republicans the Senate,
+which is something that I think he won't
+come back from. So, if I was advising
+the president, I would tell him to drop
+this, you know, these these legal
+challenges. They fired Sidney Powell
+from the legal team, which I think was a
+good decision because of her crazy wild
+allegations, but now Rudy's out there
+doing the same stuff.
+Giuliani. Rudy.
+Oh, no. Rudy Giuliani. The answer that I
+gave you is they didn't bother to
+interview a single witness. Rudy
+Giuliani. He was adjusting. He wasn't
+waking up the genie.
+He was a he was tucking his pants in,
+laying down in the bedroom, having a
+drink with a Russian underage.
+I mean, Rudy is just I mean, fresh off
+his his guest starring appearance in the
+Borat movies.
+I mean, it's like he's
+Uncredited. Uncredited. Uncredited,
+yeah. It's like he's reenacting My
+Cousin Vinny or something in these um
+in these hearings. Um How many things is
+he lying about?
+Republicans the Senate.
+Yeah, I think they're it's so amazing.
+Like the Democrats basically have now
+have a stone cold free roll because
+there's a very good chance that these
+guys are going to
+um win these two Senate seats, which
+would just be absolutely incredible.
+Absolutely incredible.
+So so Republicans are definitely
+figuring this out. Rich Lowry had a
+great column. He's uh editor of National
+Review. He's on the right, but I think
+provides very good objective political
+analysis. He's sound His last column
+sounded the alarm bells about what was
+happening in Georgia. And look, if the
+if the issue in the Georgia runoffs is
+are these antics, if it's Rudy and
+Sidney Powell, the Republicans are going
+to lose the seat.
+The both seats. If the question of the
+election is whether Democrats should
+have a free hand to ram through whatever
+legislation they want, then I think the
+Republicans win. So, the question is
+what is that election going to be about?
+And the longer that Rudy stays on the
+stage making these crazy wild
+allegations, the worse it gets for
+Republicans.
+When is the Georgia runoff election?
+I think it's January 5th or 10th. It's
+one of those, too.
+January 5th, I think.
+My gosh. Would anybody here,
+if they had gray hair, and I know we
+have three gentlemen on the call who
+have gray hair, Friedberg, somehow
+you're you're you're you might be maybe
+you I've answered this question already.
+Just not on his head.
+Would any of you
+dye your hair if you were a 79
+87-year-old Rudy Giuliani? No, my hair
+is white and getting whiter. It's like
+it is what it is. It's a passage of
+time. I would just move on.
+David, would you consider
+take just taking that gray right out of
+your hair? Cuz you have the you're the
+silver fox as it stands. Would you ever
+consider it? You can see the decision
+I've made. You you can see the decision
+I've made, but um
+look, that's not I mean, it's
+Yeah, I mean, that was just like a
+meltdown. I mean, A a literal meltdown
+here. Meltdown.
+a literal meltdown and um It was so like
+representative of the moment. The the
+congressional Republicans want to use a
+hook to get Rudy off the stage. I mean,
+they cannot wait to get him off the
+stage and um Why don't they just stand
+up and just tell Trump to shut this
+down? I think I think it's coming. It's
+coming, so.
+Yeah. Oh, wow. So, the Republicans are
+going to stand up to Trump with four
+weeks left in office. Wow.
+What a profile in courage. Friedberg,
+are you dying your hair? Do you have
+gray hair and are you actually dying it?
+Or have you not hit the gray yet? Just
+tell us right now. It's an emergency
+pod.
+No.
+What's the truth? David, are you dying
+your hair? Yes or no?
+This is it.
+Oh, this is all natural, baby. All
+right. There's so many ways
+have an opinion on whether Trump um is
+allowed to pre-pardon himself and his
+kids? That's exactly where I was going.
+Yeah, Sax.
+Well,
+Our right-wing card
+definitely pardon his kids. I don't know
+that there's an open legal question
+whether he can pardon himself.
+Can you pre-pardon?
+Um What does it mean pre-pardoning in
+this definition? You mean pardon for
+future crimes?
+You can only
+You can only pardon for a committed
+crime, right? I mean, that's
+traditionally what a pardon is. blanket,
+right?
+can pardon for things that happened in
+the past. Um I don't think you can
+pardon for things that happen in the
+future and you can argue about it.
+You can get a blanket
+No, I don't think you have to define it.
+I think you could just do a blanket
+pardon. Um
+The I would advise Trump not to do it if
+I were one of his advisers. And the
+reason is that he can only pardon for
+federal. And the big problem the Trump
+family has right now are these, you
+know,
+the the Southern District of New York,
+these mad dog prosecutors who are
+Democrats. You know, I don't approve of
+it. This is This is To me, this is the
+To me, this is the criminalization of
+political differences. I don't I think
+it'd be great if he could pardon because
+I do think that
+those guys are again, they're trying to
+criminalize political differences. But
+but pardoning doesn't solve the problem
+with the Southern District of New York
+and Biden has already said that he
+doesn't believe in having
+any having these uh having like a a
+federal investigation of Trump. And so,
+I don't think I don't think Trump has
+anything to worry about federally. I
+think the problem is God, can I just say
+Biden is just so [&nbsp;__&nbsp;] decent and
+classy? Like, isn't it refreshing? It's
+actually boring, but isn't it just Wait,
+who are you talking about? Biden is just
+so decent.
+Who's Biden?
+Like, I haven't seen that guy. Does he
+work for us? Oh, he's been great. No, I
+mean, like he's been broadcasting
+Look, I No, he he doesn't disappear.
+He's just not crazy.
+He's Biden Biden Biden has done a really
+has done a few really smart things. I
+mean, in his acceptance speech, he did
+what Churchill advises you to do in
+victory, which is be magnanimous. He's
+made the right sort of sounds towards
+reconciliation. I think saying that he
+didn't believe in going after Trump
+criminally. I mean, look, I I don't
+think that would have been a good
+political move anyway because it would
+have created a a backlash, but it was a
+smart Yeah. uh thing to say. And so, he
+And then, I think the other smart thing
+he's done is
+uh which is very Biden anyway, which is
+he's gone establishment all the way for
+his cabinet. He has not put He hasn't
+named any totally crazy progressives to
+his cabinet yet that the Republicans
+could latch on to for the Georgia
+runoffs. And so, Biden's doing a very
+good job right now of appearing
+non-threatening and doing nothing to
+nothing to blow up his honeymoon. He and
+his advisers have run a perfect perfect
+flawless flaw It's been flawless. I
+mean, David, you just nailed it. Like
+all of all the things he could have done
+to potentially put the Senate at risk or
+to potentially give Republicans sort of
+something to hang their hats on, he has
+given zero space, right? Like he has not
+created a single opening. And so, you
+you would have thought that coming into
+this election cycle, the way that Trump
+tried to paint Biden was like this, you
+know, uh
+gaffe-aholic and instead he has just
+been picture pitch perfect.
+Rock solid. Well, I think I think I
+think he's a he's a gaffe machine when
+he speaks spontaneously, which he has
+not done. I mean, every time I've seen
+him speak since the election, he's been
+reading off a teleprompter. But I think
+that his campaign has run a really good
+They they have run a good strategy.
+Um
+And now, look, it helps that the press
+doesn't really challenge him, but
+uh it's like it's like Weekend at
+Bernie's except it's like Presidency at
+Bernie's. You know, it's like four years
+a basement.
+He only reads off the teleprompter. Hold
+him up. Put him in the on the stage. But
+yeah, the press the press let him get
+away with it. I mean, no no other
+candidate could have gotten away with a
+basement strategy, but the press was so
+determined to go after Trump that they
+really gave him a free pass on what
+Biden believed and what he was going to
+do. But look, Biden has run Biden has
+run a very good campaign and a very good
+transition. And really, I think the
+biggest mistake he made during the
+campaign was
+not declaring definitively that he would
+not try to pack the Supreme Court.
+Right. That was his big mistake. And
+what happened? The voters split the
+ticket to give the Senate to the
+Republicans so that Biden wouldn't be
+able to pack the court. And so, he
+wouldn't be able to do it anyway. And I
+think maybe his administration has
+learned from that mistake, which is
+don't do anything or say anything that's
+going to give Republicans something to
+latch on to to say that Biden is really
+a radical, we got to stop him. And
+anyway, so so now Georgia's in play and
+Biden could win the Senate. That's a
+perfect insight, Sax, cuz what you
+haven't seen as well as you haven't seen
+Kamala Harris out there all that much
+because that's something Republicans
+could glom on to. And you haven't seen
+AOC, Bernie Sanders, or Elizabeth
+Warren. They are persona non grata. They
+are not involved in this.
+Wow, they are MIA. They are MIA.
+MIA. And they the Democrats won't bring
+them up. And you have Bernie Sanders
+like hey, wasn't he supposed to be in
+charge of like
+Ilhan Omar wants to cancel rent and
+mortgages. I mean, they're
+They're throwing everything They're
+throwing everything out there just to
+see if anything sticks right now.
+Yeah, Biden Biden has really given uh
+Bernie Sanders and that wing of the
+party the high hat in the in these uh
+cabinet choices. In fact, he just named
+uh a woman to to be the head of the uh
+of OMB, the uh the, you know, the budget
+director, who has a huge Twitter feud
+with Bernie Sanders. And the Bernie the
+Bernie folks are up in arms about it. I
+don't think she's going to get through.
+Um But but yeah, I mean, Biden has
+really um stiff-armed a lot of the
+progressives in
+to be associated with the historical
+left. I mean, it's a Why would you want
+to I just
+I also think it's historical left. It's
+an appeal to the right.
+I mean, he he is he is appealing to the
+right to some extent, right? I mean,
+like by not putting those people in
+place, He's never He's never going to be
+able to appeal He's never going to be
+able to appeal to the Trump base, but
+what he's going to be able to do is
+prevent the Republicans from from sort
+of labeling him as a radical and
+therefore and therefore, you know, win
+over those independents that he needs.
+By the way, back to back to Trump for 1
+second. I apologize cuz I wanted to ask
+you, David.
+I mean, the other thing that could tip
+Georgia is this whole craziness where
+Trump is like, "I'm going to veto the
+the defense bill unless we repeal
+Section 230. And if you're, you know, um
+a military person in Georgia, you're
+like, "Wait a second. Um you're going to
+leave my brothers and sisters in arms
+basically lollygagging without any
+financial support because you don't like
+Twitter's tweet policy?" It's going to
+seem kind of crazy.
+Yeah, it was it was one of these like
+classic Trump moves where you feel like
+I I think he does have a good point with
+respect to
+uh the social media companies. I do
+think they've been engaging in
+censorship. They've overstepped their
+bounds. They are they they do deserve
+some sort of cup come up and so control.
+I personally don't think that repealing
+to to a 230 Was it 280? Um
+is the Section 230 is the way to go.
+Um
+it's um
+it's for a bunch of reasons that we
+could get into if you want, but um
+but but yeah, it was one of these like
+reflexive Trump Trump, you know, tweets.
+And you heard Republicans in in the
+Senate were very very quick to shoot it
+down.
+Um and you know, there was an article in
+Politico where um Republicans were
+quoted well anonymously saying they're
+pretty sick of this [&nbsp;__&nbsp;] That was the
+quote. And so yeah, I mean, I think that
+Republicans on Capitol Hill are kind of
+ready for for for those types of antics
+to be over.
+Okay, should he
+uh or will he pardon himself and the
+kids? Like I mean, I guess that's what
+it comes down to. And then I think we
+should move on.
+I don't I don't I don't think so. And I
+don't think it'll matter because I think
+Biden will leave him alone and it will
+not help his biggest risk. Uh and this
+is by the way why they tried to get Jay
+Clayton to resign from the SEC and move
+over to the Southern District of New
+York because they thought maybe he could
+run some kind of interference. But I
+mean, I think the state AGs will want a
+pound of flesh here.
+And And so should he should he move on?
+Should he move on? Should he move on?
+Yeah, just
+if I were advising Trump and and
+advising him on how to maximize his
+legacy, it would be, you know,
+pardon pardon people in the
+administration been treated unfairly.
+There's no need to pardon yourself. Um I
+don't I don't think he has federal
+exposure.
+Um
+and I would and I would tell him that,
+you know, if Republicans lose these
+Georgia Senate seats, that he will be
+blamed for
+uh among the base for a long time. And
+that I think will be hard for him to get
+past uh in 4 years. And so it's very
+important, I think, for him to make sure
+that that Perdue wins his election.
+Yeah.
+What do you guys Can I ask Can I ask
+another question? What do you think is
+going to happen with um So Trump is
+trying to make his case um
+but no one's listening. Twitter keeps
+putting up his fraudulent, you know, uh
+um This is disputed.
+claims disputed claims thing.
+And he's been pushing Newsmax and OANN.
+Do you think those become viable and
+real kind of media businesses now? And
+are they actually going to steal an
+audience away from Fox News?
+100%. It's already happened. It's just
+the increasing fragmentation of media,
+right?
+networks don't pick them up, do they?
+Uh
+The cable The cable companies? I've seen
+I've seen Newsmax. Newsmax has a cable
+channel.
+theory is this entire twisted like crazy
+right alt-right mania just fades into
+oblivion and the Republican Party
+reinvents itself. No. No.
+Cuz they can't win. They can't win,
+David. They can't win with this brand.
+They did They did win. Uh they
+They did and they will not in the future
+cuz they just lost.
+The Republicans won like 10 or 12 uh
+seats in the house. They've almost got
+the majority back in the house. They
+almost certainly will win back the house
+and retire Nancy Pelosi in 2 years
+during the midterm election. I'll put
+money on that right now. They held the
+Senate.
+They
+They're not going to win the presidency
+again with this strategy.
+You think they can win with the
+demographic shift with Trump in 2024,
+really?
+Y- Yeah. Um You think people want to go
+back to that level of crazy?
+Well, no, no, I mean,
+people people don't
+People don't want the They don't want
+the crazy, but this idea that the issue
+set that Trump ran on and won on is
+dead. I don't I don't agree with that.
+Yeah, I think you'll have a better
+You'll have a better branded face and a
+standard-bearer for those issues. And if
+you say it in a less crazy way and
+you're generally less crazy, I think
+that it will resonate with a lot more
+people than have already proven that it
+resonates with. It already resonates
+with 70 million. Could it resonate with
+75 and could they overtake the White
+House? It's not inconceivable. So I
+think I think we can't all of a sudden
+say this is signed, sealed, and
+delivered. It's a fait accompli. And all
+of a sudden it's just Democrats the rest
+of the way. David's right. The
+down-ballot results for the Democrats
+were not good.
+And it's a sign that moderate centrism
+is the only winning strategy. If you
+really have a strategy where it's like,
+"I really want to win and not just me,
+but my party and generations of people
+after me," you have to run a centrist
+campaign. Which is why they're retiring
+the AOC, Elizabeth Warren, Bernie Bro
+contingent, right? So if if Democrats
+want to win, they want to win that group
+of crazy.
+Right. There was a there was a
+Democratic House member, I think
+Elizabeth Spanberger,
+um who almost lost her seat. I think in
+a like a Virginia like kind of swing
+Virginia district. They were There was a
+big call of the Democratic House Caucus.
+And she was just laying into Pelosi and
+the leadership there because she was
+basically saying, "Don't ever mention
+defund the police again. You know, if
+you want me to win my my um swing
+district next time, do not mention this
+ever again." And she was just This was
+all in the Washington Post, you know.
+They um the
+The call was leaked by about a dozen
+different press out outlets, which tells
+you there was a lot of unhappiness among
+the House members who almost lost their
+seat because of these like radical
+ideas. The other The other thing is, and
+you know, unless all of a sudden
+the the folks that are in their 20s and
+30s are radically different than many
+many generations before them, the
+reality is that they will, as they get
+older and wealthier, generally speaking,
+get more conservative. And we are about
+to go through, over the next 20 years,
+30 trillion dollars of wealth transfer.
+And so, you know, I mean, you can wear
+Good segue.
+But buttons on buttons on flannel, but
+at the end of the day when you're, you
+know, mom and dad pass pass away and all
+of a sudden, you know, you have four,
+five, six, seven, eight million bucks
+and you have to think about your
+children and your children's children, I
+tend to think people generally do, very
+predictably, get more conservative. And
+so again, another reason why you can't
+count on um
+a a staid interpretation of
+progressivism. It There will be
+progressivism. I think it just will be a
+different form of policy and it'll just
+be more moderate and centrist and it'll
+be normal.
+Uh Which is a perfect segue to the New
+York Times story that came out on the
+Friday after Thanksgiving, November
+27th. The rich kids who want to tear
+down capitalism, socialist-minded
+millennials millennial heirs are trying
+to live their values by getting rid of
+their money. Lately, Sam Jacobs, and
+I'll read just a little bit of it, has
+been having a lot of conversations with
+his family's lawyers. He's trying to
+gain access to his trust
+of 30 his $30 million trust fund. At 25,
+he's hit the age where many heirs can
+blow their money on hairbrained
+businesses or a stable of sports cars.
+He doesn't want to do that.
+But by wealth management standards, his
+plans are just as bad. He wants to give
+it all away. I want to build a world
+where someone like me, a young person
+who controls tens of millions of dollars
+is possible. A socialist at college, Mr.
+Jacobs sees his family's extreme
+plutocratic wealth as both a moral and
+economic failure. His parents must be
+very proud of
+First of all, Sam Jacobs sounds like an
+idiot and he shouldn't have any money.
+So hopefully he gets his wish.
+Why did his parents give him $30
+million? This trust fund should be like
+given to somebody who deserves it. Like
+Yeah, but but what what Sam what Sam
+what Sam Jacobs wants doesn't mean that
+Sam Jacobs gets to decide for everybody
+else. And just because that he wants to
+live in a communist country, he can go
+and find one. And the reality is like,
+you know, we just talked about
+AlphaFold. Well, guess what? You know,
+there's four of us on this on this
+podcast today that over the next 20 or
+30 years are more than likely going to
+invest hundreds of millions of dollars
+in protein design.
+And uh I don't do that with any um
+sense of
+um shame.
+Um and I'm glad that Stewart Butterfield
+made me, you know, a lot of money
+because it's going to go go back into
+the world in positive ways. And you
+know, maybe if my children are taught
+properly, um they'll be able to take a
+small piece of that and they'll decide
+that, you know, there's uh something
+else that's important to them. But the
+reality is that everybody should be
+allowed to make their own decisions. And
+I don't want somebody like him,
+especially a 25-year-old [&nbsp;__&nbsp;]
+telling me or my kids, who even though
+they're, you know, under the age of 15
+are probably smarter than him, what to
+do.
+David, when you read this article, uh if
+you did read it, uh what were your
+thoughts um
+especially in regards to parenting and
+thinking about our own kids? Cuz I I
+started thinking about it. I was like,
+"Oh my god, what if one of my daughters
+wants to take her trust fund and just
+throw it into the wind?" I really don't
+want a communist
+Yeah. The part Wait, hold on. I just
+want to say one more thing. The part
+that's completely reasonable and that I
+respect is is this this 25-year-old
+seems to have come to a decision.
+What I find completely unreasonable and,
+you know, just completely lathered with
+insecurity is his need to then project
+it and say it has to be true for
+everybody else as well.
+And and the the grand arching statements
+of how it should never be just
+completely betrays, you know, what we've
+learned in how society functionally
+works. Like if you want democracy, the
+only sort of economic philosophy that's
+been partnered with with democracy to
+work well is capitalism. And so if you
+want to change one, you're going to have
+to change the other.
+And just the fact that, you know, with
+all of his education the hundreds of
+millions of dollars you know didn't get
+a course in civics to understand that is
+kind of sad.
+I just before you go David I have to
+read one comment because it's so
+deranged that it almost seems like it
+was part of a script to like some
+billions or succession.
+Um heirs whose wealth have come from
+specific sources sometimes use that
+history to guide their giving. This
+that's a New York Times saying that.
+Piers Dela Hunt a 32-year-old socialist
+anarchist Marxist communist or all of
+the above has a trust fund that was
+financed by their former step father's
+outlet mall empire.
+When I and this is uh Mr. uh
+Mr. I'm sorry MX I've never seen that
+before. Dela Hunt
+How do you pronounce Max Hunt? How do
+you pronounce MX? MX Dela Hunt takes
+non-gendered pronouns.
+Has anybody seen MX? I've never seen
+that.
+That was the first time yeah. That's the
+first for me. So I guess if you're
+non-gendered
+you don't have to say Mr. or Miss or
+Mrs. or whatever.
+where you just can group a bunch of
+people into one thing. I got it. Right.
+Um
+this is what uh MX Dela Hunt says. I'm
+just trying to figure out how it's
+pronounced. Maxis Hunt Dela Hunt um
+when
+taking a shot.
+You're Jason you're you're not showing
+respect for his pronouns. I don't want
+to get canceled.
+It just is kind of hard to pronounce MX.
+I don't mean to laugh but I need I need
+somebody to tell me how to pronounce
+MX.com.
+Um
+But this is the quote that is so insane.
+When I think about outlet malls
+and I think this is what we all think
+about when we think about outlet malls.
+When I think about outlet malls I think
+about intersectional oppression.
+What's the first thing that comes to
+mind Freeberg when you think about an
+outlet mall?
+Certainly it's intersectional oppression
+or a subway.
+I just can I just point out like the the
+New York Times has become a little bit
+sensationalist like you know if you were
+to ask statistically what percentage of
+people that are inheriting wealth are
+going to be stupid like this the answer
+would probably be pretty low but they
+find the one or two characters like this
+and they build the story around them and
+then people extrapolate that as if that
+is the persona of the entire population
+of people that are going to inherit some
+degree of wealth. And that becomes a
+story and I'm just so sick of it like I
+don't read the New York Times anymore
+and look I love the New York Times I
+would read it every single day I still
+have it on my phone I still pay for my
+subscription but I'm so sick of the
+narrative being written by the author's
+objective and then they go and find one
+or two facts that meet that narrative
+and rather than speaking about it
+statistically and saying we surveyed a
+hundred people that were wealthy this is
+how many and if it if it was 60% of them
+saying I'm going to go give away all my
+wealth and do crazy [&nbsp;__&nbsp;] great like
+that's the story. that's picking picking
+a picking an individual and building the
+narrative around that individual as if
+that is the No but David but David and
+this is the point like what they do is
+they don't even talk about people who
+want to give their money away what they
+do is they create these caricatures
+around this like judge judgment it's
+it's all about this like judgment it's
+like you know I am it's virtue it's like
+I am holier than everybody else because
+of these decisions that I made and I
+just find it so offensive. Now here's
+can I just tell you I had my physical
+last week and I have a doctor in LA
+who's superb and he's he's in many ways
+sort of a philosopher king to me he's
+been incredibly important in my life and
+you know I talked to David Agus I talked
+to his name his name is Christian Renna
+at lifespan medicine but anyways
+um and here's what you're and I talked
+to Chris about raising kids and Chris
+has seen
+you know thousands of people over the
+course of his you know journey as a
+primary care physician and he's seen the
+kids of these folks and etc. and
+you know he he boiled it down to me it's
+like
+um
+you know your job as a parent is to make
+sure that your children
+um have incredible tools
+married with incredible habits.
+And so some of these things are very
+simple like food and you know how to eat
+and self-care and exercise but some of
+these things are really important which
+is a world view
+empathy and he uses this word which is
+called awareness. And awareness is this
+idea that you understand
+the world around you and that's an
+incredibly difficult thing for parents
+to be able to teach their kids but it
+seems like if you could give them that
+that's independent of anything other
+than time and care right? It doesn't
+matter whether you're rich or you're
+poor it doesn't really matter whether
+you're black or you're white you can
+really teach the concept of awareness
+and empathy.
+And then the other thing that he taught
+me was you know there's a really big
+difference between folks like you me
+meaning guys like me who grew up poor
+and who were focused on the generation
+of money right meaning making money.
+And some of you make it some of you
+don't but you're living in this
+existential threat that you feel is
+hanging over you.
+And so you go out and you make it and a
+lot of it is driven by this insecurity
+you've had since you were young.
+But make no mistake your children's
+lives is harder than yours and it's
+about the utilization of money and
+whether they want to give it away or
+whether they want to use it you have a
+responsibility to teach them whether
+you're giving them a dollar a million
+dollars or a billion dollars and this is
+where I think somewhere along the way
+these kids as parents
+you know may or may not have done
+maybe they did the best they could but
+somewhere along the way these gaps
+are are obvious at least in the telling
+of the article and this is where I go
+back to if you're really going to talk
+about something like this which actually
+is quite important cuz again we're going
+to go through the the most enormous
+wealth transfer in the history of the
+world in the next 20 years 30 trillion
+dollars that could so talk about that if
+if enough people took their inheritance
+and decided to eradicate student debt it
+would be 3% of what's going to be
+inherited over the next 20 years. Think
+about it. So obviously you can do some
+incredible things but it's not framed in
+the right way it doesn't promote the
+right kind of discussion and all it is
+is salacious reporting that makes these
+kids look like caricatures.
+And by the way remember that money today
+is invested somewhere so to pull that 3%
+out would have a kind of triple kind of
+rippling and kind of
+um probably deleterious effect on on
+No no no forget about that it's a
+family owned business.
+this is my point also is I think that
+there's a responsibility to these
+stewards of capital right? They they
+they may be you can call them wealthy
+all you want but they really are the
+people that pull the strings of where
+money's moving. Um and there's I think
+you know to your point kind of a a
+degree of responsibility that inevitably
+has to kind of sit with this this group.
+Um because that capital is staying
+somewhere. Here's the problem with it is
+if they just wanted to give their money
+away to a charity that they thought was
+worthy and that and they were willing to
+live like you know monks or something
+and not need money that would be fine
+you know we could respect that but the
+reason why they're in such a hurry to
+get rid of this wealth is because they
+feel like money itself is ill-gotten
+that wealth itself is is by definition
+ill-gotten and must have come from at
+the expense of somebody else right?
+You only could have gotten that wealth
+by ripping people off and that is the
+thing that that's the idea that's really
+pernicious about this sort of like
+socialism movement is they don't really
+understand that the way capitalism works
+you only get rich by selling something
+to somebody that they want that makes
+their life better right? I mean all of
+us are engaged in the creation of new
+technologies and new products and that
+makes the world better and people are
+willing to pay for that and that's what
+creates value and and that's what
+creates wealth and it's really just kind
+of sad that people you know or and it it
+goes beyond this article on these trust
+fund kids but this whole
+condemnation of capitalism and this
+attack on any you know on billionaires
+or whatever
+um the problem with it is it doesn't
+recognize the way that value is created
+for everybody. Can I can I give you a
+quote um from Walter Williams who just
+passed away who's a very famous
+economist. Prior to capitalism the way
+people amassed great wealth was by
+looting plundering and enslaving their
+fellow man. Capitalism made it possible
+to become wealthy by serving your fellow
+man and that's really true and somewhere
+along the way folks folks have lost the
+script and have all of a sudden gone
+back to prehistoric capitalist times and
+um I think that we don't have enough
+good examples of constructive capitalism
+that prove that this is not a bad word.
+Yeah and and
+yeah exactly yeah I love the Walter
+Williams quote um
+you just to give another example Jeff
+Bezos just gave 10 billion dollars to
+climate change 10 billion dollars.
+what's the kid's name Teddy Schaefer or
+something like that the journalist has
+been riding him on Twitter.
+I think he works for Vox or something
+like they have basically been attacking
+Bezos since he made the announcement
+that he hasn't done enough and it's like
+10 billion dollars is the largest
+contribution ever made uh to a single
+cause I mean obviously
+uh Bill Gates gave to his foundation.
+Right and how did he do that because he
+created Amazon which has created
+enormous value for all of us. Imagine if
+one of these kids in the article instead
+of just giving their money away they by
+the way it looks like there's a bunch of
+organizations that have sprung up to
+scam these kids out of their trust fund
+it's sort of you know a fool and their
+money are
+a fool and their money are soon parted
+there's a whole bunch of
+scam artists who
+who are trying to scam these kids but
+yeah I mean they're definitely getting
+scammed but imagine if instead of just
+getting scammed out of their money they
+were to use it to create a business that
+created a new product or technology that
+served people then maybe they could turn
+that 30 million into 10 billion like
+Bezos did.
+And and if they lost it they would have
+done it in the pursuit of something
+really grand. And so, nobody would
+actually Instead of virtue signaling.
+Instead of virtue signaling on the New
+York Times.
+Yeah, like these guys were so glad to be
+in the New York Times to dunk on
+capitalists and dunk and literally dunk
+on their own parents. Think about that.
+You hate your parents so much, you have
+to go to the New York Times and tell
+them how much you hate them.
+I mean, I don't know how this changes
+Well, by the way, so speaking of virtue
+signaling in the New York Times, can we
+talk about the New York Times writing
+that hit piece on Coinbase?
+All right. I mean, if you want to go
+there, I mean, this is the third rail of
+the podcast, but we've been talking
+about Brian Armstrong. Just to set the
+table here. Brian Armstrong wrote a
+memo. He said, no politics at work.
+by the way, J. Cal, I just posted an
+image for Nick to put up here. Just to
+to to
+Don't Don't tell me it's a code 13 at
+Saks again.
+is not a code 13. It's to reinforce your
+point about the, you know, the virtue of
+capitalism. You know, this kind of dates
+back to These are three three images,
+three charts from
+the year 1500 to today.
+And
+Energy use has grown 115 times. Well, so
+this is basically a measure of
+population, consumption, and production,
+right? And so, the the capitalist
+incentive has driven the ability, while
+population has grown 14x over the last
+500 years, it's driven
+a nearly 10x increment in what is
+available for humans to consume
+per capita during that period of time. I
+mean, think about that. That was driven
+entirely by industry. And so, industry
+has enabled and and production has
+increased by 240x. We have a surplus of
+goods on planet Earth and a surplus of
+access to goods because of the
+capitalist incentive over the last 500
+years.
+And whose right is it to say that that
+was wrong? And all of the people that
+are employed by it and live within that
+mechanism and who are no longer living
+in poverty, who are no longer slaves.
+All of a sudden, 50,000 people can
+virtue signal because they're sitting in
+their warm homes in America telling
+everybody else to [&nbsp;__&nbsp;] off. I mean, I
+find it kind of a joke. I mean, I I
+would like you to go and live, you know,
+where I was supposed to live before I
+emigrated. Right. Sri Lanka.
+No heater, no roof, no food, etc.,
+right?
+What you got to do? These kids should do
+They should go to North Korea. You go go
+Come to Sri Lanka. I can show you. You
+go You go to an outhouse, okay? You sit
+there, you squat to go to the bathroom,
+okay?
+There's no [&nbsp;__&nbsp;] three-ply, you know,
+bamboo, you know, pet press free toilet
+paper to deal with. You know, you you
+you literally what you know, you clean
+yourself with your hand. You brush your
+teeth with coal. I remember we used to
+brush our teeth with [&nbsp;__&nbsp;] coal. Okay?
+We have a well for water.
+And so, you you have all these people in
+these situations where all we wanted was
+to just get a chance to run the race.
+And the people that were born with a
+silver spoon in their mouth, who had the
+chance to run the race, turns around and
+tells guys like me, "No, you can't." And
+it [&nbsp;__&nbsp;] infuriates me. Yeah, I want
+to blow up the racetrack, by the way. I
+I want to just get rid of the entire
+[&nbsp;__&nbsp;] you.
+It's a serious [&nbsp;__&nbsp;] you to these to
+these like they were
+profited and they benefited from
+democracy and capitalism. And now they
+want to revert back to a system where
+everybody who's in that They don't
+understand to get into this system. They
+don't understand what feudalism is
+because there are so many layers removed
+through their [&nbsp;__&nbsp;] filtered lenses
+and, you know, country clubs and
+[&nbsp;__&nbsp;] vacations and all this crap
+that they have no idea what it's like.
+And I'm telling you,
+I am first generation of having escaped
+that [&nbsp;__&nbsp;] and I don't want anything to
+do with it. But the point is, capitalism
+has allowed not just the US, but many
+other countries to change their course
+in life. Stephen Pinker is for all of
+the controversy he creates, his books on
+um
+you know, what humans have really
+achieved during this great kind of era
+of capitalism and industrialism and how
+we've changed our course on planet
+Earth. Improved human health, improved
+longevity, improved calorie access to
+calories, improved access to shelter, to
+medicine. It's all because of
+an incentive, a market-based incentive
+system.
+And it is very, very powerful. It is the
+most powerful force we know as a
+species. And it's allowed this
+incredible acceleration, exponential
+acceleration of possibility for our
+species. Also from the article, a great
+quote, Elizabeth Baldwin,
+a 34-year-old democratic socialist from
+Cambridge, Massachusetts.
+She plans to keep enough of her
+inheritance to buy an apartment and
+raise a family, enjoying
+the sort of pleasant middle-class
+existence denied to many people of color
+in the United States.
+What is I mean, that's just I don't
+know. I just I I don't see Let's just
+move on.
+about Brian Armstrong. They they they
+they they see they see the world in a
+zero-sum way where, you know, anything
+they have means that somebody else must
+it must have been taken away from
+somebody else. They don't really
+understand the way that value is created
+by an exchange and by people creating
+new things.
+Um and, you know, and And that's what
+technology is all about, you know? It's
+creating new things.
+was a time when everybody didn't have
+access to clean water. Now we take that
+for granted. There was a time when
+everybody didn't have access to
+affordable food. We had time and
+electricity. And by the way, look at how
+we started All of this is driven by
+capitalism.
+And look at how we started the
+conversation today. AlphaFold, I think
+is the realization of one of the
+greatest capitalist enterprises in
+history, if not the greatest, you know,
+Alphabet.
+And they're still getting started. And
+the output of that is going to be an
+incredible new tool for drug discovery
+that is going to extend human lifespan
+in an incredible way. There was a window
+of time where folks who are really,
+really good at bitching and complaining
+had a window of opportunity to [&nbsp;__&nbsp;] and
+complain. And what happened was, they
+were not able to seize power. And then,
+just in the last few months, literally,
+I think we are nailing that coffin shut.
+Because, as you said, David, you're
+going to have to all of a sudden like
+look at companies like Google and look
+at things like AlphaFold and reject
+them.
+And I don't know how people do it
+because everyone will need something
+that that company will create now and
+that AlphaFold will be responsible for.
+We are all going to need a vaccine.
+These are all coming from for-profit
+companies where that thrived on top of
+R&amp;D. You know, all of it was funded by
+past drug profits from other things. And
+so, you know, we're going to have to
+really look at ourselves in the mirror
+and say, "Did we not want that? Did we
+want to just die on the street to prove
+a point?" And I don't think anybody
+actually wants that.
+I mean, what is your What is the
+ultimate criticism of Amazon? They made,
+you know, iPhone chargers $5. Well, the
+point is, you can't have your $40. You
+can't have your cake and eat it, too.
+You can't actually, you know, complain
+about Amazon on the one hand, complain
+about no action on climate change on the
+other, complain about this, complain
+about that, complain about the other
+thing. Then you're just a [&nbsp;__&nbsp;]
+whiner. And nobody wants a whiner around
+because they're not additive. They're
+not useful.
+You don't learn anything from a whiner.
+All right. So, looking at the New York
+Times versus Coinbase, the failed New
+York Times fake news. Sorry, I'm just
+channeling Trump there.
+Okay, failed New York Times. Fake
+Well, talk about talk about whining.
+This is more virtue signaling
+whining by the New York Times. And
+actually, the the
+Look, this is clearly a hit piece
+because they don't like Brian
+Armstrong's decision to make Coinbase an
+apolitical workplace. If any workplace
+has chosen to be political, it's the New
+York Times. There's a lot of examples of
+that. The fact that
+They ran Bari Weiss out of the the
+newsroom. I mean, this this
+That's right. I mean,
+they they ran James Bennett out of there
+for publishing a an op-ed by Tom Cotton.
+Remember that? He got kicked out. He got
+forced to resign because he published
+one op-ed by a Republican senator. Okay?
+This is the most closed-minded group,
+the most closed-minded political
+workplace. And here they are lecturing a
+Silicon Valley company that in their
+view isn't tolerant enough. I mean, it's
+ridiculous. But the but the And it was
+obvious that it was a hit piece. The
+stories, the the examples in the article
+were years old. Um
+you know, the they weren't even reported
+to HR at violation as violations at the
+time. So, there's, you know, it's it's
+people cooking up things that weren't
+reported as problems at the time. But
+the but the really interesting thing
+about the story, I think, is that is the
+way Coinbase reacted to it by
+preemptively announcing that it was
+coming, which really made the New York
+Times reporters really irate. You know,
+they called it extremely unprofessional.
+were upset and they threatened that they
+would no longer The journalists said,
+"If you guys are going to front-run our
+stories,
+we are not going to call you when we
+have a story." And I responded to that
+and I was like, "Are you serious? Like,
+you're literally going to lose what
+little integrity you have left about
+fact-checking?"
+Because there was an
+somebody wrote a preemptive blog post
+about
+I'll say this about
+Brian Armstrong. I have a lot of respect
+for him for making a stand. I think
+every CEO has that right. And I'm glad
+that at the end of the day, the
+employees at Coinbase were given a
+humane way of making a decision to be on
+the same page with him or not. I will
+also say that I thought that essay was
+not well-written. And that, given the
+chance, I could have rewritten that for
+him in a much better way. I I maintain
+this the whole time. Um but I I I think
+he's in the right here.
+Wrap it up, David. Tell us what you
+think.
+Well, okay, that's
+that's interesting that that Chamath has
+It's It's interesting to hear hear your
+support for Brian. So, we've talked
+about This has become a recurring topic
+on the pod.
+But anyway, I I think, you know, the the
+important thing is the way that I think
+the tech community fought back against
+this hit piece. And it was the Like you
+said, Jason, the front-running of the
+story. Somebody
+A wag on Twitter had a had a great
+comment saying, you know, um
+basically said, you know, I try to walk
+up You I agree with the New York Times
+on this. I try to walk up to somebody
+and kick him in the nuts and they
+covered their groin. You know, how dare
+they, you know, that how I'm
+how unprofessional of them,
+It was a slow motion kick to the nuts.
+Yeah, exactly. It's coming Sunday. It's
+right, but it was
+But on Sunday we're kicking you on the
+nuts.
+So yeah, the New York Times just
+the Coinbase just covered his groin so
+the New York Times can cover kick him in
+the nuts. And and of course the
+reporters all went hysterical about
+that. But it you know, but but it but it
+was a really brilliant PR tactic by
+Coinbase cuz what it did is it almost
+like released a spike protein. You know,
+by by sort of an pre-announcing New York
+Times story it created this
+spike protein that trained the immune
+system of Silicon Valley to be ready for
+this pathogenic New York Times story and
+the the the story just really fell flat
+and didn't go anywhere.
+Yeah, it was
+and they they did the same thing with
+the Way CEO. She was too hard on people
+in Slack. All of these stories to go
+full circle involve some leak from a
+Slack room. So if you're a CEO or you're
+managing anybody, don't have any
+difficult or legal issues discussed on
+Slack. Just go for a walk with somebody
+talk to them face-to-face cuz you're
+going to get destroyed. All right,
+listen everybody.
+This has been another amazing episode.
+We had 10 more stories
+we wanted to get to that we weren't able
+to get to.
+But
+while we were doing this, I asked my
+crack team
+Sorry, at the syndicate Whoa, what was
+that?
+to set up
+the syndicate.com/allin.
+So, I'm not saying we're doing a
+syndicate.
+Yes, we are. We're going to figure out
+how to do something. We're going to do
+something to let the people who listen
+invest alongside us. We're going to
+figure it out in 2021 at some point in
+2021.
+to write a review on iTunes. No, you
+just got to sign up.
+Just got to sign up at the
+syndicate.com/allin.
+If we do a folding protein company or a
+unicorn in the ISA space, maybe
+everybody who listens to the All-In
+podcast gets to wet their beak. For the
+Rainman David Sacks.
+Wet the beak. Wet your beak. Beak.
+We need to get merch.
+Wet but I can't wet my beak is like the
+merch. The t-shirt the code 13. The
+t-shirt guy that listens to us, we love
+you. There's a code 13 obviously, but
+wet your beak or wet the beak. We have
+to figure out which one's better.
+we have a new I think we have a new
+tagline for the pod. Wet your beak. Wet
+your beak.
+Wet your beak and code 13. These are
+great merch opportunities for anybody
+who wants to go do merch. You can go do
+merch on your own. We don't care. We're
+not in the merch business. Put it up on
+your own website.
+Love you besties.
+Love you besties. So for bestie Rainman,
+the dictator Chamath Palihapitiya, and
+the queen of quinoa himself Metro Mile
+founder Spacker Piper laying pipe and
+spacks everywhere. I'm Jason Calacanis
+for the besties. We'll see you next
+time.
+Which could be in a week or a month, who
+knows, on the All-In podcast.
+Love you besties.

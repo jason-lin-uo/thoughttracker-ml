@@ -1,0 +1,2367 @@
+# Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Major Lawsuits
+# https://www.youtube.com/watch?v=4Gmd5UTF4rk
+
+All right, everybody. Welcome back to
+the number one podcast in the world. The
+Fantastic Four, the original. Oh, the
+cast is back. The cast is back.
+&gt;&gt; in arms.
+&gt;&gt; Brothers in arms. Here we go, good boys.
+We've got a big news week. David Sacks
+is back.
+And he's in the great state of Texas.
+How's it been, Sacks? How's Texas been
+for you so far? It's been great.
+Although I just got back from DC. I got
+like 3 hours sleep last night, so but we
+had a lot of news this past week.
+Mhm. Yes, and we'll be talking about
+P-cast and your role
+&gt;&gt; Yes.
+in the and da da da da da da. And your
+role going forward in the Trump
+administration. Big news that we'll be
+talking about today also relates to you.
+Oh, Sultan of Science, David Friedberg,
+with your background
+from the iconic film, for those not
+watching, looks like the iconic Thelma
+and Louise. I wonder if that has
+something to do with the budget of
+California, which you've been outspoken
+about recently.
+&gt;&gt; great rant. Which I retweeted with
+Molly.
+&gt;&gt; it, too. If only you were allowed If
+only you could be allowed the time and
+space to do those kinds of rants on this
+pod. Yeah. If you If you kept
+If you kept your mouth shut Jake and let
+him talk. Here he is. He's going again.
+He's going again.
+&gt;&gt; is, Doctor Doom. Doctor Doom, your mayor
+or your new governor. Would you consider
+it, Friedberg, after a holo running for
+governor? There is no after a holo. Oh,
+please do it.
+Oh, please do it. Wow, that'd be so
+great.
+&gt;&gt; I'm tempted to buy a holo for like 5 or
+6 billion so he just doesn't It's a
+dirty game, Paul. It's California
+politics is dirty, man.
+&gt;&gt; I don't even know what it does. I'll
+just have somebody else deal with it.
+Can you imagine the oppo research on
+Friedberg? No, no, no, no. We get him
+elected. He would do an incredible job.
+He would save the fourth largest economy
+in the world. It would be incredible.
+&gt;&gt; It'd be amazing. I would love the Here's
+the oppo research, Sacks. David
+Friedberg went to a rave in 1999
+and stayed up until 10:00 a.m.
+We have witnesses. Once he he got tilted
+at the poker game, stole a bunch of
+pistachios and lactaid and ran home.
+&gt;&gt; He did.
+We open sourced it to the fans and
+they've just gone crazy with it.
+Anthropic on a generational run. And
+OpenAI crashing out a bit, boys.
+Let's chop it up here.
+Just looking at Anthropic, pretty major
+heater this year.
+January, they launched co-work for
+business users. You know what that does?
+Cron jobs. You can connect to your
+Gmail, your Notion, whatever it is. And
+then Opus 4.6, which consensus-wise,
+everybody thought this is a major step
+function. Jensen, Michael Dell,
+everybody's called it out. Jensen
+actually called it back in November an
+inflection point and the first agentic
+model. And Opus 4.6
+has basically
+Dell said hit a threshold that we
+haven't seen before in terms of real
+productivity in teams. February, they
+dropped a bunch of Claude code plugins
+that caused the SaaS-pocalypse, not the
+SaaS-pocalypse, the SaaS, software as a
+service.
+&gt;&gt; Well, it was a SaaS-pocalypse, too.
+Yeah, there was a little bit of that
+back and forth, as well. No, I mean, as
+a SaaS investor, it was a
+SaaS-pocalypse.
+&gt;&gt; a bit of it.
+You you you were the tip of the spear
+there. We'll get into it.
+&gt;&gt; My exit comps were affected, that's all.
+Yes.
+It seems like you may have divested at
+exactly the right time.
+All right, $6 billion in annual run rate
+was added in February alone. Brad
+referenced a couple of weeks ago here on
+the pod. Earlier this week, they
+announced computer use, a new agentic
+system for enterprise grade kind of open
+claw functionality. Now you can use the
+clawed app from your phone to control
+your desktop computer, really slick
+feature. Here's the calendar release
+over the past 2 months
+for the team at Anthropic. Dario, come
+on the pod anytime.
+Uh Sachs,
+you've had a couple of flare-ups uh and
+obviously the administration uh and the
+Department of War had their kerfuffle.
+But just,
+you know, looking at it objectively,
+what's your take on the the surging
+Anthropic
+generational run as I've described it
+here?
+Well, I've never been a critic of
+Anthropic's products. I've always been
+an admirer of their products. I think
+last year I gave them credit for MCP. I
+agree that they seem to be performing
+very well now.
+The company made a big bet on coding as
+the kind of big breakout use case.
+Whether that was done for business
+reasons or ideological reasons, I'm not
+sure.
+Anthropic is sort of the most AGI pill
+of all the frontier labs and I think
+they made this bet on coding as their
+way to get to recursive
+self-improvement. As it turns out, it
+was a very good business move as well
+because code is the gateway into
+enterprise and enterprise IT budgets.
+And so, they were able to grow revenue
+pretty quickly as a result of getting
+into enterprise. Also, coding seems to
+be the basis for these other product
+extensions. So, like you said, they went
+from Claude Code to Claude Co-work. The
+idea being that, well, if you can
+generate code, you can also generate
+PowerPoints or spreadsheets.
+And you do that by generating the code
+to create that output.
+So, that was the first extension. Now
+they are extending into agents.
+This computer use product is kind of
+like an open claw knockoff. So, it looks
+like the generational run for Mac Mini
+is just about over. Look, I think
+they're firing on all cylinders.
+My issues with them in the past were
+related to what I've have called the
+regulatory capture strategy. They do
+want a permissioning regime in
+Washington for chips and models, meaning
+you have to go to Washington to get
+permission to release new models or to
+sell GPUs anywhere in the world. I think
+that's excessively heavy-handed. Their
+motives for doing that may be pure. It
+may not be regulatory capture. It may be
+ideologically motivated. Regardless, I
+do think it is a form of regulatory
+capture because it plays into the hands
+of the big companies and creates motes
+that new entrants will not be able to
+overcome. So, I have, let's say,
+philosophical objection to that part of
+it. But again, I'm not a detractor of
+their products by any means. With
+respect to what happened between them
+and the Pentagon, I'm not involved in
+that. I've stayed out of military
+procurement. In general, I don't get
+involved in what are called party
+matters. I just focus on policy matters
+which affect the whole space. I saw him
+Michael making this point a couple weeks
+ago on our podcast that if you as a
+company don't want your products to be
+used in war, don't sell to the
+Department of War. It's in the name.
+But, if you do you know,
+if you do decide to sell to the
+Department of War, you should expect it
+to be used for all lawful uses. So,
+I think that was a very pragmatic
+observation. Again, I just have to
+underscore this again. I'm not involved
+in that dispute. It's the base of a
+lawsuit right now. And I don't want
+someone trying to draw lines between
+dots that aren't there. So,
+&gt;&gt; Yeah. And in fairness, I'm staying out
+of that one. objectively, they've been
+treated the same as any other large
+language model, even though they're not
+fans of the administration, they're not
+donators to the administration. They
+have specifically been critical of the
+administration as a company, perhaps
+cynically Freeberg as a strategy to get
+uh you know, it's one of the conspiracy
+theories here in Silicon Valley
+Dario's taking the position of being
+anti this administration, anti President
+Trump in order to get
+all the PhDs, you know, there's like
+three or four thousand of these highly
+sought after PhDs and it's a way to have
+them you know, vote with their presence
+to come work in Anthropic. Your thoughts
+on that and then just generally their
+generational one.
+&gt;&gt; believes it and I think they've actually
+created and fostered a culture of that
+since the beginning and I think that
+they're representing it as a branding
+exercise at this point, but I don't
+think it's made up. I think it's
+directly representation of the people
+that work there and what they believe.
+Yeah, and it's a strategic advantage
+because probably of those 3,000 PhDs,
+90% of them are left leaning uh and
+wouldn't want to work
+necessarily with Anthropic.
+&gt;&gt; like like most things we see in the
+world today, in economics today, in
+markets today, in business today,
+everything seems to be politicized and
+you have a left and a right version of
+everything. You have a left and a right
+version of media, you have a left and a
+right version of what food to buy, you
+have a left and a right version of what
+AI tool to use. So, you know, this
+effectively may just be the natural
+manifestation in the AI market of what's
+going on elsewhere in society as we all
+kind of fracture and hustle over to our
+side.
+All right, Chamath, before I go to
+OpenAI and their recent moves, any
+thoughts on Anthropic and Dario's
+positioning of the company? Look, I
+think both are incredible businesses.
+We're in the part of the cycle where
+we're trying to create drama where I
+don't think drama exists because they're
+still fundamentally in very different
+go-to-market motions. Now, they may
+converge and compete over time, but I
+think it's important to separate where
+each of them are good. From an
+enterprise lens, which is where I see
+most of the action,
+particularly through 80/90, it's all
+Anthropic all the time. And I agree with
+Sachs. My philosophical issues with the
+management aside
+around their ideology
+and sometimes how they use some of the
+capital for things other than tech and
+R&amp;D.
+I have issues with those things.
+But in terms of the quality of that
+technical team and what they create
+it's head and shoulders above anything
+else. It allows us to build
+a vibrant business. Now,
+do I have issues with how much it costs?
+Yes. Do I have issues with how fast
+we're consuming tokens?
+Also, yes. But I think those will get
+sorted out and those are really tactical
+issues. So, the reason why I think we're
+all breathlessly trying to pit Open AI
+versus Anthropic is because we want some
+drama.
+But the reality is these are very
+different businesses and Nick found this
+tweet which I thought was really
+interesting. And cuz even at the
+absolute highest level
+these things are sort of presented in an
+apples-to-oranges way.
+And there's like these very basic issues
+of rev rec
+that are fundamentally different. And
+you may say, "Well, who cares about
+revenue recognition?" Well,
+the people that are trying to write the
+headlines that say one is overtaking the
+other and this or that
+sort of miss the fact that they're in
+completely different businesses which
+has guided how they even think about
+growth. And so, if you normalize these
+two businesses, what you would see is
+Open AI is still the overwhelming
+revenue generator in this space.
+And that over time Anthropic is catching
+up. And so, this is this little diagram
+that tries to explain this. Open AI is
+3/4 consumer subscriptions
+and a quarter API. Anthropic is almost
+the exact opposite.
+Open AI is used by consumers
+overwhelmingly. Anthropic is used either
+directly or through things like GitHub
+and Cursor.
+Open AI as a result has a very
+conservative way of recognizing revenue.
+Anthropic's, they sort of recognize
+gross tonnage as their revenue. And so
+when you start to hear these things
+about like, oh, this thing is at 20
+billion and Open AI is at N billion,
+they're two totally different
+conversations. And I think right now
+it's more about the press cycle of
+trying to create clicks than it actually
+is about the underlying quality of each
+business. Both are incredible businesses
+as this demonstrates. And by the time it
+goes public,
+both of these two businesses will have a
+very clean and I suspect normalized way
+of telling a story so that you can
+actually compare. But what I would tell
+people right now is
+everybody is running with numbers to try
+to create a narrative that I don't think
+makes sense or applies to either. Yeah,
+and there's been a lot of strategy
+change. Open AI,
+some people are saying is crashing out
+in panic mode.
+Obviously, they own the consumer with
+ChatGPT. They are the verb like, you
+know, taking an Uber or Googling
+something. People, consumers always just
+say, "Hey, did you check ChatGPT?"
+But obviously, other large language
+models are catching up. Here's another
+&gt;&gt; Can we say something to that, Jason, cuz
+like look
+You mentor tons of startups. Sachs has
+done it, Freeberg has done it, I do it.
+What is the one thing we tell folks?
+Focus, focus, focus, focus. 100%. Do
+one, maybe one and a half things, but do
+it incredibly, incredibly well.
+And everything else you start to bleed
+and smear, what was that Brad
+Garlinghouse term? Peanut butter. Yeah,
+you smear the peanut butter too far out.
+And so this is a good moment by the way
+if either of these two companies
+&gt;&gt; too far out. And so this is a good
+moment by the way if either of these two
+companies are in the smearing phase to
+recalibrate and reset because
+Yeah, you just can't do everything.
+Speaking of smears, I couldn't help but
+notice that Amiel Michael was smeared by
+an article, was it in Lever or something
+like that, accusing him of of having a
+conflict in the Anthropic
+dispute. Did you guys see that? I
+didn't. No. Yes. I saw the There was an
+article that said that he
+was an investor in Perplexity
+and therefore he's conflicted in his
+negotiation with Anthropic. That's what
+the article said pretty much.
+&gt;&gt; Perplexity is LLM agnostic. That's a
+stupid claim. Right. Well, it's
+obviously written by people who don't
+understand anything about AI really.
+Okay.
+&gt;&gt; Perplexity is a wrapper. You're like
+you're saying it uses multiple AI
+models.
+And I don't think they sell to the
+Pentagon. They're not a competitor to
+Anthropic. And moreover, as I understand
+it Emil's ownership of shares in that
+company was blessed by the Office of
+Government Ethics. Nonetheless, I think
+the timing of this is very suspicious.
+And it reminds me of what happened to me
+when I started opposing Anthropic and
+all of a sudden there was that hit piece
+in the New York Times accusing me of
+having conflicts. And I'll just say that
+Anthropic may pose as this company
+that's on the side of the angels, but
+they've hired a number of very seasoned
+brass knuckle political operatives in
+Washington.
+And you know, members of the Biden
+administration. Laura Loomer actually
+just had a piece today on one of them.
+I'm not going to rehash that. But the
+bottom line is this is I think frankly a
+political operation that's willing to
+get down and dirty. And they're not
+always on the side of the angels. I
+think they can be quite ruthless. Sacks,
+remember I told you you get one Biden
+mention a month in 2026. So you just
+used it up. So I don't want any more
+Biden Biden Biden. He's retired.
+&gt;&gt; That was not a Biden mention.
+No, but the truth is
+these whoever wrote this story
+the actual best feature or amongst the
+best features of Perplexity, which
+is actually got a really great co-work
+competitor called computer I've been
+playing with. I'm not a shareholder to
+be clear. There's no book being pumped
+here. The model council is like the
+greatest feature
+Yeah.
+&gt;&gt; that they have. And what is really
+brilliant about it is you ask it a
+question, Sax.
+It will go to all three different major
+models and you can pick which ones
+including open source. Then it tells you
+where they differ and it tries to figure
+out why they differ. This is like one of
+the great features of the product. I
+think
+Perplexity is like could be a a really
+great company as well even without a
+language model.
+But let's talk a little bit more about
+OpenAI here.
+And their market share because I think
+you're correct, Chamath, but they are
+getting off their game.
+Here's what's going on. Quick look at
+the consumer market.
+And
+obviously they started with 100% market
+share, right? They created the category
+in 2023.
+Drop down to 85% market share 2024, 75%
+market share 2025. But by how much has
+the market grown?
+Precisely. So
+uh the market is still growing. So in
+terms of number of searches and queries,
+they're obviously growing tremendously.
+But they have major, major competitors
+and the market share is going down. I
+had my team over at This Week in AI do a
+more thoughtful analysis of where this
+is going. And if you take a look at
+this,
+um there's three
+players and I'd like to get your guys'
+take on this who really haven't shown up
+yet. Apple,
+uh Meta,
+and obviously Windows. All three of
+those under represented. If you give
+them credit for just getting, you know,
+a half point of market share here and
+starting to intercept, which I think
+those three players were here will be
+here. They're going to be well under 50%
+market share and I think
+ChatGPT is going to have some big
+challenges there on the consumer side.
+While they're doing this stuff in
+consumer,
+uh they uh are cutting back on all their
+side projects. So uh you probably heard
+about the Sora video app. That's been
+shut down. This is kind of major news
+because Disney
+was going to put a billion dollars into
+OpenAI's part of it and they had done a
+licensing deal and they were going to
+integrate Sora this you know short video
+product into Disney Plus. All of that's
+now been cancelled. The billion is not
+going in. The billion's not going in,
+the licensing deal, all of that.
+And then in addition, there's supposedly
+at OpenAI a new found focus on
+chasing Anthropic down the enterprise
+path. So getting off their game, getting
+a little discombobulated perhaps or
+maybe getting on what matters which is
+enterprise.
+Apparently in terms of revenue, OpenAI
+also offered private equity investors a
+guaranteed minimum return of 17.5%
+as part of a joint venture that would
+help PE firms deploy
+AI
+and ease the high upfront cost of that.
+So lots of questions here Chamath. I
+don't know if you've tracked this PE
+model but obviously a lot of people are
+doing roll-ups in services, accounting,
+legal. Josh Kushner's got a big effort
+here. A bunch of private equity firms
+trying to essentially I guess end run
+the transition process and arguably what
+you're doing with the software factory
+at 8090. So your thoughts on OpenAI and
+this pivot and this private equity
+&gt;&gt; I think it makes a lot of sense for
+OpenAI to focus on a few things and do
+them exceptionally well.
+I disagree slightly with your first part
+which is I think that people like to
+make new decisions about new experiences
+and I think that OpenAI has incredible
+consumer mind share. I just see like how
+my kids use it. They started there and
+it's very hard to get them to switch
+even when I say, "Hey, have you tried
+Gemini?" They use Gemini and to your
+point, the reason is because they
+stumble into it more. Yeah.
+&gt;&gt; But if you give them a cold navigation
+experience, they rely on ChatGPT.
+And it's the same by the way on the
+other side in the enterprise. If you
+give us a cold problem,
+my default reaction would be to use
+Anthropic. Now, I actually think that
+that's quite healthy because you're
+going to segregate the market. And I
+think, look, if you go into the Wayback
+Machine, when we first started talking
+about this thing,
+this is sort of how we all postulated
+this would work, where even if OpenAI
+just won the consumer business, it is a
+multi-trillion-dollar company
+with enormous scale and value.
+And I think that that's okay. So, I
+think that what they probably need to do
+is say, "Where are we the strongest?
+Where is there the most obvious
+traction?
+Can traction in another market, like an
+enterprise, bleed into consumer usage?"
+If it's true, then you have to win the
+enterprise.
+I think winning the enterprise, though,
+is a very different game
+than winning consumer. Very different
+set of features, very different set of
+expectations.
+So, I think people either have to decide
+you're going to compete everywhere,
+or pick one thing and just nail it. And
+if I was OpenAI and you had to pick one
+thing, you would pick consumer because
+they're the juggernaut and they're the
+clear leader, and they have an enormous
+brand. Chamath, let me pull you into
+this because my base case here is that
+all consumer queries are going to be
+free.
+Apple's going to make them free. They're
+already free for Google. I think Meta's
+going to make them free and actually
+have a decent product soon. And
+Microsoft, same thing.
+ChatGPT has decided to push off
+advertising. They were going to put
+advertising in it. You remember, they
+got mocked by Anthropic with their Super
+Bowl ads.
+So, what do you think's going to happen
+on the consumer side? Consumers
+generally don't pay for services. That's
+usually 5 to 20% of the market is paid
+services, and everything else is free
+and ad-supported. But, it looks like
+Apple and and Google are going to just
+let it rip. So, that could take the
+revenue oxygen away from
+uh ChatGPT. So, what is your thought
+here on who wins consumer? I don't think
+that it's going to be free.
+I think there's 290 million subscribers
+for Spotify. They're paying What are
+they paying? 20 bucks a month or
+something? Probably less on average cuz
+it's global number, but yeah.
+Netflix has 325 million paid
+subscribers.
+And AI that can book your travel, answer
+questions for you, track your calendar,
+do your email, etc., etc., etc. is
+likely going to be the most valuable,
+call it meta service that consumers have
+ever seen. Mhm. And I think it's very
+likely that we're going to end up seeing
+many more consumers subscribe to a
+consumer AI service than we've seen even
+with cable television. I mean, think
+about your cell phone. Everyone's paying
+50, 60 bucks a month for a cell phone.
+Why not pay 80 bucks a month?
+&gt;&gt; 100 bucks? You pay 100 bucks. And by the
+way, in the pandemic, remember what we
+saw. The two things that people refused
+to cancel
+was not your mortgage payment or any car
+payment. You were willing to go into
+arrears and into default. The two things
+that people would would always keep was
+the cell phone number one, and then
+electricity number two. Chat GPT will be
+there. So, I think that's going to be
+the case with these consumer AI, J. Cal.
+I think that they're all going to be
+like ultra valuable and they're going to
+layer in services on top of them. Like,
+for example, do you want to watch video
+embedded in your consumer AI app? Do you
+want your consumer AI app to, you know,
+do your finances for you? And it could
+be that the consumer AI app becomes the
+new platform, much like the iPhone was
+for the app economy. There could almost
+be, whether it's through kind of
+connectors or embedded tools, an
+incredible ecosystem that were
+traditionally advertisers actually pay
+to be embedded and show up inside of the
+AI app, and the consumer can either pay
+for it or the advertiser can pay for it.
+So, I think there's going to be um a
+very different economic model, and still
+very early days.
+Sacks, the numbers
+right now would uh be more in my
+estimation about 50 million people
+subscribe to chat GPT. They got a
+billion users or they're trended to a
+billion. I think they'll probably hit it
+in the next month or two.
+Certainly they had 900 million two or
+three months ago. So it's about 5%.
+Where do Where do you think this winds
+up? Do you think it becomes
+you know, 300, 400, 500 million
+consumers are willing to pay 20 bucks a
+month for this or do you think it's more
+free and the data and the ad supported
+business of it go the meta
+and the Google route? I think it's
+possible that you could get a few
+hundred million subscribers for the
+premium tier. Look, I think most
+consumers will take the free service in
+exchange for advertising, right? Some ad
+supported model, which by the way, I
+think could be quite successful when
+chat GPT started displacing Google for
+search, a lot of people were predicting
+the death of of Google's model because
+who'd want to look at 10 blue links? I
+think that's true, but I think you can
+do something much more compelling in AI
+chat compared to just the list of links.
+So in any event, I think ad supported
+models might make a comeback here in
+addition to premium models.
+All that being said though, you know, as
+an investor, I always liked B2B
+businesses better than B2C
+because it is hard to monetize
+consumers. Their willingness to pay is
+not that high and they tend to have high
+churn rates. Whereas businesses tend to
+be very sticky and you can upsell them
+and you can get more than 100% net
+dollar retention year over year. So if
+you can make an enterprise business
+work, it's always been a model I've I've
+liked, but
+you know, that being said, obviously
+some of the most valuable companies in
+the world are consumer companies, meta,
+Google, Apple. These are all consumer
+first companies. And
+look, I think ultimately both models can
+work.
+&gt;&gt; Obviously both can work. The question is
+which one?
+I guess it really comes down to how
+motivated do we think Google and
+Facebook will be to build that bridge
+from their ad networks
+to their AI offerings. Obviously,
+Facebook is kind of MIA in all of this,
+but Google is not.
+And I think that will be the determinant
+here is
+&gt;&gt; Well, Google is going to compete very
+vigorously
+for the consumer because it is
+existential to them. I mean, it's very
+clear that search and AI chat are kind
+of merging into one space.
+That means that ad links will kind of
+merge into being in chat advertising.
+So, they have to adapt with that and
+compete for the consumer.
+I also think that Google is in an
+outstanding position to do the whole
+open claw thing because they already
+have access to your calendar, your
+documents, your email. So, the agent
+doesn't really have to earn your trust
+because you already trust Google with
+all of your stuff. Right. So, I'm kind
+of waiting for the Google version of
+open claw
+because I don't really want to share all
+my documents with
+some new service. They're the only one
+that has so much free cash flow
+that they can almost view it as two
+separate companies, which it effectively
+is. You know, GCP over here runs the
+enterprise play, and then Google
+consumer over here runs the
+consumer chatbot play, and they can keep
+them segregated. That's so much harder
+for a startup to do because on top of
+just keeping everybody organized, you
+have the financing problem of constantly
+having to raise more money because you
+don't yet have a profit engine that
+spits out cash. They're probably the
+only one. And you can see it in the
+valuations actually, which I'm going to
+get to in a second, but people believe
+the durability of Google more than they
+believe the durability of anything else.
+And Sachs, I think you weren't on the
+pod last week or maybe two or three
+weeks ago, but Google has announced
+Google work workspace studio to do AI
+automation and it's
+yeah, it's online and people are playing
+with it already. So, they have joined
+the open claw party. By the way, J Cal,
+you asked a different question earlier
+as well, which is around the PE story
+and I think the PE story is a window
+into the rest of the broader market. The
+real open question is
+what are these companies worth? There's
+like a very threshold question.
+It's kind of like a very important fork
+in the road right at the outset, which
+is do you believe that we're on a path
+to super intelligence where
+everything is incredible, where there's
+infinite abundance, where you can
+magically describe things and beautiful
+things appear, complex things appear,
+groundbreaking things appear.
+Or do you believe that it's good
+next-generational software? And the
+answer to that question is really
+important because we're financing things
+like it's the former. And GC has a big
+move in this. Chamath was on the program
+in January when we did the interview
+show and he's got GC buying up
+and rolling up accounting firms, etc.,
+healthcare firms, hospitals, etc. And
+this seems to be part of the future
+of venture capital is taking AI sacks
+and actually buying out or I should say
+big VC kind of starting to look like
+private equity, buying out hospitals,
+accounting firms,
+business processing firms in India,
+putting them all together and then
+running them with AI. So, any any final
+thoughts on that sacks as a business
+strategy?
+Well, I think it's interesting. They're
+kind of betting on the idea that they
+can own the change management around AI.
+And this is the thing is everyone just
+kind of assumes that you throw AI over a
+wall and a business just automatically
+knows how to use it and drive efficiency
+from it. And what we're seeing is it's
+pretty difficult. Chamath, you've seen
+that. There's McKinsey studies showing
+that like 95% of enterprise pilots
+aren't successful. There's tremendous
+value, latent value in AI, but it's hard
+to know exactly how to deploy it at this
+point in time. So, I I what these
+private equity firms are saying is that
+we know how to drive value from this and
+if we own the business and then own the
+change management, then we'll be able
+to,
+you know, create value that way. Their
+business model makes solving this
+problem existential.
+And this is sort of along the lines of
+this essay that I wrote. Let me just
+give you the thought exercise and you
+guys react. Today, we live in a world
+where the whole market is trying to
+debate what is the
+PE ratio that you'd be willing to pay.
+So,
+Facebook is durable. I'm willing to pay
+30 times.
+Nvidia's really durable. I'm willing to
+pay 40 times. Tesla's incredibly
+asymmetric to the upside. I'm willing to
+pay 200 times.
+And then,
+Caterpillar or John Deere, I'm willing
+to pay 15 times. I'm just using these as
+an example.
+And what it's effectively
+signaling to you is how durable all of
+these cash flows are. And all we do in
+the public markets when we make an
+investment is we're just guessing
+when do the cash flows run out?
+And we try to say, well, here's how much
+it's worth and here's how much I'd be
+willing to pay for it today.
+But if you go back to this example and
+you say, well, what if there's this
+super intelligence on the horizon,
+I think it's fair to ask the question,
+what is anything worth?
+And what is anything worth in year 10 or
+year 15 or year 20?
+Because if you have infinite abundance
+and you have all this creativity,
+won't all companies be disrupted?
+And won't we be in this constant churn
+of everything getting disrupted all the
+time?
+And if you were faced with that problem
+in the public markets, how would you
+react?
+And I think the canary in the coal mine
+are the SaaS stocks. Yes, we jokingly
+call it the SaaS apocalypse, but I think
+it's much more important. I think it's a
+big societal question. How do you view
+capital markets?
+How do you view the health of a company
+in a world where we've been told there's
+a super intelligence on the horizon that
+makes everything much more fragile than
+it was before. And the market reaction
+is to put all these companies on a
+spectrum, and they started here in
+software,
+and they're re-rating everything
+down.
+And they're changing the way that things
+are being framed from price to equity
+to a multiple of the cash that you have
+on hand.
+And I think that has huge implications,
+mostly to Silicon Valley and largely to
+employees, because we all sell the
+dream. We start a company and we're
+like, "Okay, small salary, big equity
+upside." But that's implicitly saying in
+15 or 20 years this thing is going to be
+worth some gigantic number.
+But if instead every business gets
+disrupted every five or six years,
+all you're going to end up with is just
+the cash. And so what should employees
+do? The rational reaction from employees
+will say,
+"You know what? I don't want your
+equity. Give me more money."
+And if all of a sudden you do that,
+the valuation multiples and the
+complexity changes again. So, I had my
+team put this chart together. Okay, what
+is this? Took a handful of SaaS
+companies
+and took the Mag 6.
+And I just said, "Okay, if you take the
+market cap and you divide it by the
+annual free cash flow, what that tells
+you is how many years does it take to
+get back if you bought a share of stock?
+How many years does it take from the
+free cash flow to come back so that
+you've earned back the cost of one
+share?"
+Snowflake, in 2023, it would have taken
+you almost 100 years.
+And where is it now? It's been cut in
+half.
+ServiceNow, Atlassian, Workday, you see
+it.
+And I think what this speaks to
+is the beginning of this
+re-rationalization in the public markets
+of saying,
+"If super intelligence is coming, we
+have to be very careful about what we're
+willing to pay for these things." But if
+you look on the right-hand side and the
+Mag 7,
+what's so interesting is
+Apple, Microsoft, Meta, and Alphabet,
+the market is completely flipped the
+other way. And what they're saying is,
+we believe that these cash flows
+are essentially monopolistically durable
+forever.
+That's the only reason why you would
+walk them up like this, except Nvidia.
+Which is the most unbelievably
+accretive, well-run company, highest
+margins, you know, making $200 billion.
+And they're treating it like they're
+treating ServiceNow and Snowflake. I
+just think it's so interesting what's
+happening. I can't explain this, but
+here this data sort of shows this reset
+that we're going through. A very
+complicated reset in the company.
+&gt;&gt; Chamath, what's your take on this reset
+as Chamath
+describes it? Do you think
+this is just a flight to the
+quality of the free cash flow of the MAG
+6 and just how much cash they print?
+And then maybe the other ones are
+smaller footprints and they're just more
+disruptable. We had this discussion many
+years that Google and Apple, Microsoft,
+they would all be disrupted at some
+point, Facebook. And that just simply
+hasn't happened. They've gotten much
+more nimble at copying products or
+incorporating,
+you know, features and products into
+their core offering. So, your thoughts?
+It's probably generally
+correct that there will be a decline,
+but there's also the selective
+opportunity. Do you guys see the LP
+slides that went on the internet from
+Thoma Bravo's LP conference? Yeah, those
+are great. Nick, maybe you could find
+that. They kind of highlight that within
+the broad market scape, there are
+companies that are not just going to sit
+idly by and let AI kind of
+delete their business value, but they're
+integrating AI themselves and they've
+got high-quality people to do so, and
+they're reinventing their product
+themselves. So, they've already got a
+beachhead, they've already got customer
+access, they've already got enterprise
+users. And in fact, if they can
+integrate AI into their products and
+into their tools, there's almost this
+like selective dispersion that happens
+in the market. And so, the winners are
+going to win, I think truly in every
+market, not just in software, but across
+every market including in industrial
+supply chains on who is going to
+implement and utilize AI tools and
+agents uh to do work, and it's going to
+expand the work uh productivity of that
+organization, not just create new
+features, which is what we focus on when
+we talk about software companies. But
+really imagine a complex business being
+able to do 10 times the output it can do
+today with the same capital equipment
+and the same labor force. Chamath, what
+do you pay for in a world of
+superintelligence versus in a world of
+non-superintelligence in terms of the
+durability of a business? Yeah, it's
+hard to say, man. I mean, we don't know,
+right? And that's why all the discount
+rates are going through the roof. And
+that's why the valuations are collapsing
+because we just don't know what multiple
+or what discount rate you apply or what
+terminal growth rate or which it which
+effectively implies. What do you do in
+your PA? Like do you say I don't think
+Disneyland is going anywhere. You know,
+I think there's some stuff that you
+could say is the counter AI portfolio.
+And the counter AI portfolio, I think
+it's like physical experiences. Halo.
+They call it halo. High asset low
+obsolescence. Okay, that's a great ex-
+Yeah, I'm not a big investor trader like
+you guys, but that makes a lot of sense.
+I mean, I think that's like intuitively
+to me, that seems to be an area where
+people are going to be spending a lot of
+time and they're going to they're going
+to have durability in those businesses.
+I I think businesses like NatGas
+Production, you know, I just bought uh
+LNG, that Cheniere company.
+&gt;&gt; Cheniere, yeah. Cheniere.
+Given Cheniere. I bought Cheniere given
+um all the craziness in the Middle East.
+And you know, I visited there with Doug
+Burgum. So it was the first time I'd
+ever been exposed to this business and I
+checked it That's a great business. It's
+a great business. It's really well-run
+business.
+&gt;&gt; I think that's got durability.
+Obviously, unless it gets blown up by
+some enemy,
+uh that would that would be a problem.
+So the Adam's thesis that TK shared.
+Adam's real-life mining is a great one.
+Obviously, I think the space industry is
+going to be a a bigger than we
+recognize. I actually think there's
+probably a 15 to 30 trillion dollar a
+year economic opportunity on the moon.
+That kind of a business, like you're
+going to see with SpaceX's IPO, is going
+to have an insane multiple. So, I think
+to your point, Chamath, there's a lot of
+stuff getting steamrolled here with
+crazy high discount rates where you just
+don't know. And there's a bunch of stuff
+where the pathway over the next 15 to 30
+years is maybe independent or unlocked
+because of AI. And then there's a bunch
+of stuff that's just unaffected. That
+and that that starts to get a higher
+multiple because that's where capital
+starts to flow. Sacks, there are
+probably three things that we would
+agree are great moats for businesses:
+brands, network effects, and the
+management team. Those come into play
+here as well, yeah? I don't know if I
+would consider management team to be a
+moat. I mean, it's like Warren Buffett
+says that you want businesses that are
+so strong that they could be run by a
+bunch of monkeys because one day they
+probably will be.
+Well, I was thinking more like obviously
+Elon and Tesla is going to just
+relentlessly innovate. It's a great
+point, by the way, and it's true,
+especially in the age of agentic AI.
+&gt;&gt; Yeah, I mean, look, I think though that
+does up-leveling a bit, I think you are
+right that the key question is moats
+because I do think that there are still
+strong moats in a lot of different kinds
+of businesses, and a lot of them are
+very subtle. Like you said, some of them
+are network effects, some of them
+are the the difficulty of producing
+physical world products, things like
+that. So, there's a lot of different
+types of moats out there, and that is
+the key question as we enter a world of
+let's call it digital abundance.
+Yeah, the the network effect of Apple's
+ecosystem, and they have hardware,
+right? And they've been just on that
+path of making their own silicon. That's
+incredibly defensive. And they have
+brand, right? So, that that is pretty
+strong for Apple. And then you take
+Tesla, the same thing. You got Elon
+relentlessly innovating, and it's hard
+hardware stuff. And then if you look at
+Meta and Google, these are incredible
+brands with great management teams and
+constantly innovating. If I had to bet,
+I'm going to bet that brands go to zero.
+Really? Yeah, because I think that when
+you can make things
+that are as good or better
+and you can make them in a cheaper,
+faster, better way,
+people want that abundance more than
+they wanted affiliation to a brand.
+Example? So, the perfect example is
+actually what Tesla did to BMW.
+You know, what Tesla did to Mercedes,
+what Tesla did to Porsche, what BYD and
+Geely have done to
+the car manufacturing cycle in China.
+This is a fundamentally cheaper, faster,
+better product.
+Yes, it's got a great brand, but
+nobody's going to pay a premium for
+these products. The reason why Y has
+outsold everything else is because the
+Model Y is priced better and it's
+superior on every operational dimension
+of comparison. That's also true for the
+cars in China. So, I think it's the
+opposite. I think that brands and the
+pricing power brands, other than maybe
+premium luxury goods, but even that's
+eroding. Like look at the stock like I
+don't know, Nick, show the stock chart
+of
+LVMH or Ferrari. This is not
+a commentary on the quality of the
+actual product, but what this shows an
+erosion of pricing power. All of these
+things are being eroded away.
+Yeah, this would be the value prop most
+people in brands would just say value
+propositioning. So, JetBlue is a value
+brand.
+The Tesla Model Y, perfect example of a
+value brand. And if you look at Apple's
+recent cohort, what did they focus on?
+The Apple MacBook.
+Neo, which is a value laptop, 600 bucks,
+700 bucks. So, they're even going down
+market to try to capture that value. And
+to your point, maybe the right word is
+abundance. Like the brands that bring
+abundance, that bring more to the table
+than their competitors and they're able
+to bring more at the same unit cost or
+less
+capture share.
+That's probably true. You know what's
+interesting about that, Chamath?
+As we open up the aperture of this, if
+you one of the thesis we talked about
+here a couple years ago is say, "What
+happens with AI disruption, job
+disruption, etc.?"
+Cost coming down on cars with Model Y
+getting cheaper, cyber cab coming in,
+BYD obviously, if you go to any foreign
+country, BYDs are everywhere and they
+cost 15 grand.
+Then you look at Apple making the Neo,
+that's a $600 laptop. Everything getting
+cheaper seems to be happening. I just
+think it's very hard to know which of
+these companies are going to be
+disrupted. A year ago on this pod, we
+were saying that Google was going to be
+toast, or some of us were saying it
+because it looked like
+&gt;&gt; Yeah. Okay, fine. But, you know, it
+looked to us like ChatGPT was taking
+massive share from Google search and
+the AdWords model was becoming obsolete.
+Now, because of the success of Gemini
+and the potential for personal digital
+assistants, personal agents,
+I think we're probably pretty bullish on
+that company and look at their stock
+chart, it's reflects that. I mean, I
+think it's doubled in the last year.
+Now, you take something like Apple on
+the other hand, and I'm not saying this
+is going to happen, but I'll just throw
+out a counterfactual, which is what if
+your personal digital assistant or a
+personal agent gets so good that you
+don't need to check your phone, you just
+tell it what to do, and you don't need
+the wall of apps anymore. I mean, the
+way that you call an Uber won't be to
+punch a few buttons, you'll just tell it
+what to do. So, you could imagine the
+phone operating system getting disrupted
+if the agents are good enough. You're
+onto something huge because what you're
+saying is I can confirm this to you.
+80 90 we sell enterprise software. I'll
+tell you three conversations with huge
+enterprises asked exactly what you just
+said. And we jokingly called it
+strangulation as a service, which is
+they all say the same thing, what you
+just said. Okay, look, get all this
+complicated UI out of the way. Get all
+of these products out of the way. Find a
+way to create a shim where I can just
+write what I need, tell it what I need
+it to do,
+it deals with all this complexity in the
+background. I never want to see these
+things ever again.
+And that's what people want, to your
+point. They want They want to be able to
+like say, "Okay, pay this with my Venmo
+or use my MX in this situation or get me
+that flight in some way and have all
+these wonderfully smart agents do all
+the work behind the scenes." And that's
+actually tracks with exactly what I've
+seen with Open Claw, Perplexity
+computer, Claude Co-work. Instead of
+going to your Notion, instead of going
+into your Gmail, instead of pulling up
+your calendar, you ask it, "Hey, what's
+on my schedule this week?" It brings it
+to you. So, you could you could have a
+dumb, you know, flat terminal,
+you know, chat interface on a $100
+device and it would do just as good.
+&gt;&gt; Just to make the counterargument against
+myself, I mean, even though I think that
+you'll just increasingly tell your agent
+what to do instead of be clicking around
+or, you know, touching the screen, you
+still need a a dashboard or a user
+interface to like check on it and just
+see readouts of information. You still
+need to be able to visualize it. Where
+is the Uber that I've asked to be sent
+to me? How far away is it? Still want to
+see it on a map. So, I could imagine
+that even if, let's say, you know,
+Siri++ becomes the dominant way of
+interacting with your iPhone, you'll
+still
+want that Apple user interface. Hard to
+say. I mean, I see a lot of people out
+there tweeting that Apple is brilliant
+for kind of missing the whole AI wave
+and not spending a lot of money on data
+centers or CapEx.
+And then there's other people who say,
+"Well, wait a second, they're
+they're missing critical capabilities."
+Then there's a question of, "Will they
+be able to make deals
+for, you know, an AI-powered Siri?" I
+don't know. I think this is very hard to
+know at this point in time.
+All right, and we will be discussing all
+these hard topics at Liquidity.
+May 31st through June 3rd. Chamath,
+some big announcements here from you.
+You have taken control. This is what
+happens in the Game of Thrones known as
+the All-In
+Corporation LLC. The partnership if we
+partnership The chaotic partnership.
+&gt;&gt; No mids. There literally is chaos. But
+wait, wait, wait, why are we doing this
+in California? I don't even think I can
+I can go back to the state at this point
+in time.
+&gt;&gt; You can come for 48 hours. Make it a
+current
+&gt;&gt; know. By the way, there are some people
+taxed that have zero days in state at
+this point in time.
+&gt;&gt; it. I love it. You can do 48 hours. It's
+okay. Well, Gavin Newsom might meet you
+at the airport. You can get picked up at
+the airport. The air By the way, the
+airport is about 10 minutes from the
+venue. You can fly in and fly out same
+day and you don't have an overnight.
+&gt;&gt; No overnight. So is that how it's
+counted?
+&gt;&gt; how it It's counted as an overnight in
+California.
+&gt;&gt; Head on pillow, yeah. You can come in on
+Monday,
+then fly out Monday night, fly out to
+Incline, sleep at you know, at our
+friend's house, and then fly back in on
+Tuesday, and then fly back out. You'll
+be fine. You can fly to Vegas do a
+blackjack run, overnight blackjack run,
+and then you come back in the morning,
+you just freshen up. You just get your
+fresh shirt.
+&gt;&gt; Lice and rusted. Let me announce the
+next two speakers. Oh my god, I'm so
+excited. But just for background,
+Chamath comes into this thing. Liquidity
+was this little conference I did. It's
+now part of All-In, and I start setting
+up all the speakers, and then Chamath
+goes, "Not good enough. I'm not showing
+up unless I pick all speakers." And you
+know what Friedberg and I did? Well,
+finally this this
+melon farmer is going to actually do
+some work. Great. What did you call me?
+Melon farmer. It's a Wait, when
+they play a Quentin Tarantino movie
+on like TV, instead of saying mother
+effer, Samuel L. Jackson says melon
+farmer. Oh, I see. So this melon farmer
+took unilateral control of the 10
+speaker. 10 speaker slots very coveted.
+&gt;&gt; Okay, so we've announced Dan Loeb. We've
+announced Sarah Friar. Incredible.
+&gt;&gt; And I'm very, very, very honored and
+excited to announce that Bill Ackman
+and Andrej Karpathy
+will also be speaking at Liquidity. Four
+heavy hitters, six to go. Two more goats
+on the roster of goats. So goated.
+&gt;&gt; And we have a handful of other
+Yeah, there might be some surprise
+guests and unannounced guests show up.
+You know what
+&gt;&gt; TBD. Can't can't say TBD. TBD. More
+announced soon, but we're making Let's
+get Dario to show up. Dario, come to the
+show. Come hang out with the All-In
+boys. I'm really excited. You know what
+Andrej's going to do? What Andrej agreed
+to do is he's going to do like uh
+five or 10 minutes of slides on like the
+future of the world with AI and then
+we'll do a fireside. Love it. That's
+going to be tremendous. And you know,
+he's uh he's been on a heater himself
+with his recursive uh
+GitHub.
+&gt;&gt; Oh, dude. Auto research is incredible.
+And Bill Ackman has a ton of points of
+view on all of this stuff. So we'll get
+a lot of his thoughts. I want to give a
+shout-out to Freeberg because when we
+did the
+interview with Jensen,
+he's like, "Guys, I was like I like had
+a glass of wine on a Sunday. I like vibe
+coded a replacement to my HRIS system."
+I asked all my team to do it and I and I
+was like, "Oh my god, this is
+incredible." So I asked our folks, I'm
+like, "Hey, I don't like the website is
+80/90."
+And the next day they're like, "Yeah, we
+vibe coded a new one. We'll have it up."
+And then I'm like, "Well, do you like
+the CTAs and how it's doing?" They're
+like, "No, no, no, no. We put it into
+auto research and we doubled the
+click-through rate."
+And I was like
+to Freeberg's point, this was this would
+have been many man months,
+tens of people,
+and instead, all these recipes, by the
+way, these playbooks, you know, like the
+person that runs growth at OpenAI
+publishes his recipes. Yeah, you've been
+claw palled. That's it. You've been one
+shotted.
+It's really incredible. This is why like
+I I mean, you commented on my post
+yesterday. I wake up every day and my
+head spins. I'm like, "What is what is
+going on in the world?" It's crazy. Like
+every day
+feels like a new era right now.
+&gt;&gt; Yeah. And it's disoriented because
+because I I think what's really
+interesting is you pull what would have
+normally been something that's call it a
+period of time out like a year out or
+two years out and you can pull it in and
+say I can get that done in three days
+and I don't need to hire people. All the
+sequencing and staging that would
+normally go into accomplishing something
+has been reduced and then the time
+rushes in. So all your ideas rush into
+you and they're all like immediately
+accessible and that's why it's like so
+every day is like oh my god like It's
+disoriented. Yeah, that is. I I have I
+bought the domain name annotated.com
+like 15 years ago for four grand and I
+wanted to create a service like a
+bookmark service Chamath where you like
+highlight a paragraph from the New York
+Times and then you write your comments
+on it saves it and you basically have
+the service.
+And I was talking to some developer
+about making it and I literally vibe
+coded it in the Chrome extension this
+past week and I was like, "Okay, I've
+been sitting on this domain and project
+for like 15 years and I did it in a
+weekend."
+&gt;&gt; Isn't it crazy? Weird. It's like very
+weird what's happening. It just makes me
+feel like a simulation to me that
+everything can just manifest itself.
+It's the Star Trek version of the world.
+Like remember the replicator sacks where
+you just say Earl Grey tea at this
+temperature?
+That's happening in business now. You're
+like, "CRM system, build annotated.com,
+build this new website for Aidy 90."
+Boop and it's a replicator just gives it
+to you. It's very strange. I've only
+felt this
+feeling twice. Once I was on the outside
+looking in. I was a derivatives trader
+in Toronto.
+I was looking at the first dot com
+wave and I was like, "I got to be a part
+of this."
+How do I get to be a part of this and
+I got a job in I went amp and kind of
+the rest was history.
+Winamp, the original iTunes. But I
+missed the wave. Financially it didn't
+do anything for me but I was in the
+right
+place. You got to the beach with a
+surfboard. That's all that matters. Then
+the second wave I crushed in the move to
+mobile and social.
+But this wave feels like a hundred times
+bigger than that. It's a tsunami by
+comparison. I I I had three of these.
+It's probably what it's like
+to be at Nazaré in Portugal. You guys
+ever see those clips of like that crazy
+place where like there's like a
+hundred foot waves or whatever and
+you're just towed in and you're like,
+"Okay, let's just
+&gt;&gt; This could end one of two ways.
+&gt;&gt; Let it go. Or see you goodbye.
+No, I It was like literally when I first
+saw a PC,
+when I first got on the internet and
+then saw a Mosaic. Like those two
+moments in the early '90s and then
+seeing the iPhone. I think that like
+those three moments
+&gt;&gt; very special. All right, rough week for
+Zuck. Two verdicts went against Meta in
+two days. They were first found liable
+for allowing child predators to access
+minors on Facebook and Instagram. New
+Mexico jury ordered Meta to pay $375
+in damages. The AG's office there ran an
+undercover investigation. They created
+fake child profiles. Facebook,
+Instagram, these accounts were contacted
+by predators.
+People showed up.
+Yada yada yada. A whistleblower and
+former Meta engineer testified that his
+own 14-year-old daughter received sexual
+solicitations on Instagram. Then on
+Wednesday, an LA jury found Meta and
+YouTube negligent for designing
+addictive platforms that harmed a young
+user's mental health. Basically, the
+plaintiff in this case, Zuck,
+said they started using at age six and
+Instagram at age nine.
+And she testified that features like
+notifications, algorithms made the apps
+so addictive that it caused depression
+and anxiety through that compulsive use.
+You have some thoughts on this and we we
+had um Jonathan Haidt, right? Didn't we
+do an interview together? Was that one
+of the first joint interviews? Free book
+&gt;&gt; I did. You and I did, yeah. Incredible
+book.
+Uh Yeah, things are obviously addictive.
+&gt;&gt; he had a very
+important point which is to try and keep
+kids cell phones and social media until
+they're 16 and he was kind of
+cheerleading this this verdict. But, you
+know, I'll take a little bit of a
+contrarian to the popular kind of
+sentiment on this.
+And I'll just talk broadly about this
+idea of tort litigation. Tort
+litigation, you know, costs our economy
+$900 billion a year in the United
+States. $900 billion a year. That's how
+much is spent on the litigation costs,
+the settlements, the judgments. It's 3%
+of GDP and it's growing roughly 10% per
+year. And these civil penalties decided
+by juries like they're, you know, going
+against big companies like Meta and
+YouTube, but it's also food companies,
+restaurants, everything. Anytime there's
+a window to sue someone and and extract
+uh value from them, tort firms are all
+over them. You know, it's called the
+tort tax now in America. It's not just
+losses paid by the companies cuz
+fundamentally when a big company pays
+out these tort taxes,
+they're going to invest less, there's
+less R&amp;D, less product development, stay
+high, there's new fewer new product
+launches and there's all these crazy
+restrictions on stuff. So, you know,
+look, I I agree social media causes
+immense harm. It particularly causes
+harm for kids. Kids should not be on
+social media until they're 16.
+Absolutely agree. Maybe adults shouldn't
+either beyond it, you know, as adults.
+But fundamentally I think there's an
+important question that we often ignore
+which is who is fundamentally
+responsible for that harm. You know,
+should the sugar beet and sugarcane
+farmers be responsible for diabetes in
+America? Should the soda companies be
+responsible? The retailer selling the
+soda? The FDA for not stopping it all?
+And fundamentally I think we have to ask
+the question what role does individual
+choice play and individual
+responsibility play in this equation. If
+everything is a liability, what do you
+think cuz anything any I I think we have
+to take personal responsibility. I think
+the parents that are absent taking care
+of their children are responsible for
+harm to their kids. You shouldn't let
+your kid play with a gun. You shouldn't
+let your kid go to some sketchy
+neighborhood after hours by themselves.
+You shouldn't let your kid play video
+games 100 hours a week. You shouldn't
+let your kids eat nothing but soda and
+potato chips. You have responsibilities
+as a parent. And I think parents should
+keep kids off screens and keep kids off
+social media. Once the harms are known
+of excess use or the harms are known of
+exposure to the sort of thing, I think
+there's a responsibility that sits with
+the parents. What about things like
+tobacco or processed food or Yeah, this
+is the key. Yeah, and I look, I mean the
+same the same is true of alcohol. I
+mean, dude, like alcohol is terrible for
+you. There's nothing good about alcohol.
+But I think I should have a choice on
+whether or not I want to consume
+alcohol, whether or not I consume
+tobacco, whether or not I consume
+processed goods. And the recognition
+that it's bad for you should be
+publicized by the government, should be
+publicized by the government.
+&gt;&gt; Right. So, if I had to summarize, what
+you would say is product liability law
+makes no sense. There should be human
+liability and human responsibility
+expectations in the society.
+&gt;&gt; We never talk about responsibility. We
+always talk about where the government
+failed us and where these companies
+us. And we never talk about what
+did we individually do wrong? How did I
+individually choose to eat 100 sodas a
+week? How did I individually choose to
+get my kids addicted to social media?
+Where the was I as a parent? Like
+we don't talk about our responsibility.
+And by the way, this fundamentally
+addresses this point about human agency,
+which I think is more critical in this
+era than ever, because AI is going to
+flood us with everything all the time,
+non-stop. What we choose to do in a
+world where we're already getting
+everything, and how we choose to not
+take everything that's being offered to
+us, I think is a critical part of what's
+going to distinguish human success from
+human failure. And it's going to become
+more apparent in the future. And not
+everything is about liability, and not
+everything is about the government
+failing us. It's about people making
+choices. And we don't talk about it.
+What I'll counter, I I I agree, personal
+choice, super important. What you're
+probably leaving out here,
+which you're definitely leaving out
+here, is when these companies know
+they're doing something damaging and
+they do it anyway. That was the
+key to the RJR Nabisco
+&gt;&gt; What about What about a a whiskey
+company selling whiskey to an alcoholic?
+&gt;&gt; So, What about a potato chip company
+selling potato chips to an obese person?
+I'll put those two aside because I don't
+think we've seen major cases about that,
+but I will say the auto industry knew
+for a long time about seat belts. You
+remember that? And they didn't in deploy
+them. RJR Nabisco, they knew that these
+were addictive and they designed the
+cigarettes to become more addictive and
+they didn't tell people about the health
+risks. Asbestos, same thing. Lead paint,
+same thing. This has happened over and
+over again where corporations
+subvert the release of information to
+make additional profit. So, the question
+here with Facebook
+is did they know how addictive these
+were? Did they know kids were being
+assaulted sexually and and they could
+have done something about it or didn't
+they? And so, agree that there's too
+much litigation.
+&gt;&gt; absolutely true. The The kids being
+assaulted, absolutely true. The
+not releasing information about the
+level of addiction if they had it,
+that's certainly bad. Should the product
+be legal, number one. And if the product
+is legal, who's responsible for using
+it? You know, and and where do we draw
+the line? And if we don't want if we
+don't want people to make choice, then
+we shouldn't put it out there. But if
+you as a corporation know it's dangerous
+and then you lean into that, if you know
+uh
+as the as the case with Facebook, that
+this is super addicting, super damaging
+to young girls and then you lean into
+making it more addictive and you don't
+put safeguards in place and you can
+prove that, like RJR,
+like asbestos, like many of these other
+companies.
+&gt;&gt; on whiskey? What's the What What
+safeguards does a whiskey company put?
+What safeguards What safeguards does a
+casino put? Hold on. You asked the
+question. Age is one.
+&gt;&gt; I'm not
+&gt;&gt; not about age. Yeah.
+&gt;&gt; second it it after age, which is what
+we're really talking about with kids and
+Jonathan Haidt would agree that they
+shouldn't be using this until they're
+16. So, I think that's a perfect
+analogy. Uh age-gating and then
+labeling. And then if they know of
+something that's really damaging,
+releasing that. So, there was a whole
+thing about alcohol and pregnancy and
+they covered up in the alcohol industry
+or didn't disclose exactly how damaging
+it was to drink alcohol on a on a fetus
+or a developing fetus. And then remember
+all those signs went up in bars in the
+'70s and '80s? That was directly because
+of that. So, labeling, information, and
+age-gating would be the logical things
+to do for social media and that's what's
+happened to PES. So, that that's the
+answer to your question.
+&gt;&gt; know about age-gating, but I think
+informing parents about the risks is
+fine. Like that should be a
+responsibility. But you know that the
+tort lawyers are one of the largest
+donors in political elections in the
+United States. They donate largely to
+Democrats in local elections and
+Republicans in national elections. And
+then they are the largest donor class to
+elections of judges.
+And it's it's a business and I think we
+don't talk enough about the business of
+tort law,
+um the business of litigation in this
+country. And we often ignore this
+question about choice and I don't want
+to live in a world J Cal where the
+government and companies are telling me
+what to do and what not to do, how to
+live my life, etc. You know.
+&gt;&gt; let me jump in here. Personal
+freedom and personal um
+responsibility
+versus hey, corporations maybe knowingly
+doing things.
+&gt;&gt; responsibility, J Cal.
+&gt;&gt; Parental responsibility in there as
+well. Yeah. What do you think, Sachs?
+Well, look, there's no question that the
+trial lawyers want to turn Meta into RJR
+Nabisco and the cigarette companies and
+try to fit their fact pattern around
+that. I just think that the activity is
+fundamentally different than smoking. I
+mean, smoking is manifestly harmful to
+you regardless of what your age is. And
+the only reason we allow it is because
+of assumption of risk. It's a free
+country. I think in the case of social
+networking, it's much more unclear what
+the harms are and what the benefits are.
+And I think it's much more subjective
+and it's much more of a personal choice
+for adults and also for parents.
+Freeberg, I mean, one area where I
+disagree with you a little bit is you
+said the harms of this are immense and
+well-known and understood. If that's the
+case, then let's just ban it for under
+13 or under 16 or whatever it is. But I
+don't think that's the case and because
+it's unclear, I think it's up to parents
+to decide what's for their families. And
+at the end of the day, I think the right
+way to deal with this is parental
+empowerment. You give parents the
+controls to set screen time limits or to
+decide what apps their kids install.
+Now, the debate has now moved over to AI
+apps and there's a lot of parents groups
+that want to ban kids or teenagers from
+being able to use AI chat apps because
+there was a couple of cases of
+self-harm. Now, my reaction to that is,
+look, I've got a 10-year-old and if he
+starts using ChatGPT to get answers to
+questions, I would consider that to be a
+good thing. I mean, I'll keep an eye on
+the usage, but I want him to be an AI
+native. I want him to be able to do
+research, you know, I want him to be
+able to know how to use these tools. I
+want him to get the right skills to be
+successful in the 21st century. In
+China, they're incorporating AI into
+K-12 education. Are we going to ban it
+for our kids and teenagers? I think
+that'd be a terrible mistake. So, I
+think when it comes to AI and AI chat
+apps, it has to be up to the parents
+because there's too much manifest good
+that can come out of kids learning how
+to use these apps. Maybe social
+networking is in a different category,
+but I got to say, I do think that the
+harms have been exaggerated because the
+trial lawyers have an incentive. And
+just to give you some facts about that
+LA case, so just so you understand,
+in this LA case,
+they were sued by a 20-year-old woman
+who claimed that she became depressed
+because of using social media. And she
+apparently suffered body image issues
+because of social media, and she was
+able to win this judgment for millions
+of dollars. Look, I think there's big
+causation problems with that case. In In
+the case of that plaintiff, the evidence
+showed that she came from an abusive
+home. Her father had abandoned her. Her
+own mother had body shamed her. So, it
+was very unclear where her body image
+issues were coming from. I think it's
+possible that social media contributed
+to them, or it could just be that social
+media was a scapegoat. I also got to say
+that I do think it's it's a dangerous
+precedent. I mean, are we going to allow
+plaintiffs' lawyers to sue Spotify
+because you created a playlist of sad
+music and that music contributed to your
+emotional distress. I mean, that's kind
+of what we're saying. You got to
+remember, these are free services that
+people have a choice whether to use them
+or not. And if social media is making
+you feel bad, if listening to the wrong
+playlist is making you feel bad, then
+stop doing it. But what's going on here,
+I think, is the trial lawyers are trying
+to create the next big tobacco, and
+their goal is to try and sue these
+companies into oblivion. And I don't
+think that's the right answer, either.
+The consensus, Chamath, is kids who use
+this two or three hours a day, this has
+been across many um survey many research
+studies, is that it's
+massively correlated with depression and
+anxiety um and eating disorders
+specifically in young girls, like
+if you get to two or three hours a day
+of this. So, that correlation's I think
+pretty well established. You pretty
+famously said, "Hey, and you worked at
+Facebook, so you saw this coming, but I
+think at Stanford 2017, 2018 time frame,
+you actually had some comments on this.
+We could either play the clip or you
+could just describe it, I guess. I said
+what was obvious to me then. I lost a
+lot of friends at Facebook when I said
+it, unfortunately, but essentially what
+I said was
+I don't let my kids use it and I don't
+think that this is a constructive part
+of a developing child's diet.
+I do think that Sachs is right that I
+view AI chat
+differently.
+There are different guardrails that are
+required so that if you go down some
+sort of, you know, dark corner.
+But that's possible to understand and
+the product is architected in a way
+to create cul-de-sacs. So if that if
+you're thinking about self-harm or
+you're thinking about these other
+things. Social media is very different.
+It's an incredibly fast switch algorithm
+and that's the optimization. And until
+the incentive for that optimization
+changes, these outcomes will continue to
+compound.
+I think the interesting thing is that
+the LA lawsuit
+was an individual lawsuit. The young
+woman I think was awarded three or six
+million dollars. Yeah. The other one
+though that they lost this week was in
+New Mexico and that was for 375 million
+dollars.
+And that was more around, I think, child
+exploitation. Yeah.
+The thing that I'll note is that these
+trial lawyers, which I'm not a fan of
+either, have been trying, as Sachs said
+and as Freeburg said, to make these
+folks a target because there's so much
+money on the line.
+And they've been batted back pretty
+successfully.
+But this was the first time
+where they were able to navigate
+the Section 230 protections that
+Facebook and Google have typically used
+to protect themselves because Google was
+a part of the LA lawsuit.
+And they were able to go down the
+pathway of product liability language.
+Now, to Freeburg's point,
+I think he's generally right. I think
+it's my responsibility as a parent to
+take care of myself and my children.
+But to the extent we don't change these
+product liability laws that are on the
+books,
+I think the door has been opened and a
+map has been drawn,
+which is this is how you navigate around
+Section 230,
+and you can get a decisive lawsuit in
+your favor
+against these large companies with
+enormous cash flows.
+And so I expect that this will be a
+death by a thousand cuts kind of
+scenario where folks are just going to
+rally around this. I don't think it's
+right, but I do think that that's the
+rational reaction to what just happened.
+I mean, look, $6 million to an
+individual 20-year-old girl or $375
+million.
+These are
+huge numbers. And the reality is that I
+think we've opened the floodgates.
+I do think there should be a better
+response. And I do think that parents
+should take a lot more responsibility,
+but I do hope
+that these products allow us
+a kill switch for when our kids are
+under the ages of 16. Frankly, I would
+love a kill switch under the age of 18.
+And there has to be simpler ways to age
+validate. You know, we used to work
+around this thing called COPPA
+compliance. COPPA's bull
+It's a nothing burger. Like a
+six-year-old can vibe code their way
+around COPPA.
+So, it doesn't do anything. And so, age
+verification is completely broken. It's
+harder to get age verified for a porn
+site than it is to get un-age verified
+for Face Say more, Chamath. How did you
+get around that? Yeah, how do you know
+you know that? How do you know that?
+That's just for uploading. You were
+uploading at the time, Chamath. This is
+Not your only fans. Proof of proof of
+age.
+We actually deal with this in our new AI
+framework that the administration
+released last week because the number
+one
+issue is around online child safety,
+which I think again is mostly about
+social networking, but it touches on AI
+and so it's kind of gotten lumped
+together.
+And I think we're I mean, I'm referring
+now to the White House has said it's
+willing to support some form of
+age assurance technology and
+parental controls. So, look, I think
+there needs to be a conversation around
+how true it is that social networking is
+just a fountain of ills for young
+people. If that's true, then
+why won't you just disallow it, right?
+But if if it's unclear, and I think it's
+more on the side of unclear, that's just
+me,
+uh then it's up to the parents, and what
+you want to do is again have the age
+assurance technology and the parental
+controls and let the parents decide.
+&gt;&gt; I don't think that social media is net
+bad, broadly speaking.
+But I will tell you that if my child
+uses it for two or three hours a day for
+multiple days in a row, they become
+Yes, they act weird. And so, I
+don't know what to tell you except I
+would love a kill switch until these
+kids turn 18, on all these products.
+Well, you can you should This has to do
+with dopamine, by the way. These what I
+do instead is I use Apple's family
+sharing,
+but it's hard, and I'll tell you how why
+it's hard. Our schools
+give our kids Chromebooks and say, "Use
+these Chromebooks because that's the way
+you're going to access your LMS, your
+information, your content, your
+homework." And you know what's an
+integral part of that? YouTube. And then
+now it becomes a backdoor. So, even when
+we take the devices, I take my devices,
+we lock them down, you can't bring them
+to your room, the whole thing.
+But if they need to do homework,
+and I catch them
+in a little break, I'm like, "What are
+you doing on YouTube?" They're looking
+at shorts. Of course. That's what they
+do. Yes.
+And so, it is a whack-a-mole problem for
+parents.
+I think I'll I'll just give myself the
+final word here on behalf of the group.
+It's obviously a dick thing.
+It's obviously the industry has not
+policed itself, nor would they police
+themselves because they want to get
+people addicted now, so they're addicted
+when they're adults.
+The rest of the world has realized this.
+Australia now has 16 in force, Malaysia
+16, other countries are right behind
+them, Spain, Germany, UK.
+And what should happen here in the
+United States is this should be done
+with the handset manufacturers. If
+Android and Apple showed leadership with
+Facebook and said, "We're going to by
+default when you buy a phone, you're
+going to have to age verify, you know,
+kids under a certain age." Which you
+kind of do already when you create a
+family plan like you did.
+We could solve this problem and then
+parents would opt in to giving their
+kids access to this. No good comes out
+of kids under 16 using social media and
+Jonathan Haidt in our interview said you
+should be putting phone lockers in and
+our school is doing that, other schools
+are doing it. It is the greatest thing
+ever. Kids complain
+and then they love it. I don't think
+it's that great. I'll tell you why. Our
+school does the phone condoms, I don't
+know what they're called, but like you
+put them in the the bags and you
+whatever.
+The real problem is that there's
+enormous social pressure when you're in
+high school to use these products. I'll
+give you a specific example. Our rule is
+you cannot get Instagram or TikTok until
+you're 16.
+I would love it to be 18, but we all
+agreed 16 and we're able to maintain
+that rule.
+But then high school comes around and
+I've two kids in high school now. Oh, we
+need Snapchat. No, you don't.
+No, yes, we do. No, you don't.
+Okay, great. We'll have no friends.
+Thanks a lot. We'll just sit here in our
+room dark in there. And you know,
+there's an enormous amount of social
+pressure. So, when you talk to the other
+parents, it's like, "Hey guys, can we
+all agree that we don't need Snapchat?"
+You just can't get uniform agreement
+across all parents because everybody
+views this problem differently.
+And so, I had to change the rule. Now,
+when you're get to high school, you're
+allowed Snapchat, but not Instagram. And
+you know, when you're 16, you get
+Instagram. And that's the best we could
+do. And TikTok and all that stuff, but
+it's an impossible task for a parent. I
+find it indispensable to be able to do
+iMessage with my kids and also I like
+the location awareness. You can track
+location.
+You compare iMessage those features to
+Snap, is it really that different? I
+don't think it's that different. So you
+really going to ban you going to ban you
+going to ban Snap? No, I can't. My point
+is I had to give them Snap, but you're
+right. I was like, why can't you use
+iMessage? They're like, "Dad, don't be a
+loser." Yeah.
+No, I signed up for a Snap account just
+so I could iMessage them where they are,
+where they're messaging. I prefer they
+were just on iMessage, but anyway,
+that's the reality.
+So you talk about banning all these
+things, but again, I think you're on a
+slippery slope.
+And I got to I got to just point that
+out.
+&gt;&gt; me as a parent ban them. No, I'm saying
+me as a parent.
+&gt;&gt; Yeah, you're setting guidelines.
+&gt;&gt; house, this is the rules. When you
+become a freshman, I'll give you Snap.
+And when you're 16, I'll give you
+Instagram and TikTok. Otherwise, shut
+the up, put your head down. By the
+way, I also have a tip for parents.
+You know this issue with like kids in
+headphones where they want to be
+listening to stuff all the time and you
+have kids walking around like zombies
+with headphones? I replaced their
+headphones with over the
+these brand called Shox or something. It
+goes over your ear, but your ears open,
+so you can listen to an audio book or
+music and still be able to talk.
+And so since we did that, it's like much
+less drama around the over the ear
+headphone issue. Man, managing people's
+ears is just
+&gt;&gt; Well again, it sounds like you're
+exercising parental supervision. Does it
+really make sense
+that the later when your kid turns 20,
+they could sue these companies for Well,
+to your point,
+&gt;&gt; it has to be emotional distress. It
+doesn't make sense.
+&gt;&gt; right, because to your point, that girl
+said she was using it from the age of
+like 6 and 10. Yeah, it's ridiculous.
+&gt;&gt; one product 6 and the other that's
+crazy. Crazy. I agree with you, Sachs.
+That's crazy. Where were the parents?
+All right.
+We got time for I think one more topic.
+Be amazing.
+President Donald Trump,
+47th President of the United States,
+announced his Council of Advisors on
+Science and Technology. It's called
+PCAST.
+Sacks,
+you
+have now,
+am I correct in saying moved from the
+Tsar of crypto and AI to now the leader
+of PCAST? Is that the correct way to
+frame this? Well, the President has
+appointed me to be a member of his
+Council of Advisors on Science and
+Technology and to co-chair it uh along
+with Michael Kratsios, who's the
+Director of OSTP. I'm still a AI
+advisor, but I do it on behalf of PCAST
+now. So, you remember last year I was in
+SGE, we got up to 130 days. I used that
+time up and the President appointed me
+to this new role. It allows me to
+continue being a technology advisor. In
+fact, on a wider range of issues. So,
+before it was AI and crypto, now it's
+whatever PCAST wants to study or talk
+about or make recommendations. I think
+in addition to AI, other areas that are
+interesting are nuclear power, quantum
+computing, advanced semiconductors, all
+these different areas. I think we've got
+some biotech. Thank you, Friedberg.
+And we have some incredible people who
+are now on PCAST to kind of run with
+this. Yeah, I'm looking at it. Marc
+Andreessen, Sergey,
+Michael Dell,
+Larry Ellison, David Friedberg, Jensen,
+uh Lisa Su, Mark Zuckerberg, and some
+other folks there that uh maybe not as
+uh recognizable by the audience. How
+were they selected, Sacks? The only
+criticism I've seen of this is lots of
+business leaders, great.
+Lots of technology, great, but maybe a
+little light on the scientists. Well, I
+don't know. We have people who've won a
+Nobel Prize for physics on there.
+We're talking about people who are
+experts in, like I mentioned, quantum
+computing, fusion, nuclear, Mhm.
+biotech, pretty much everything across
+the board. I would say that one
+difference between this PCAST and
+previous ones is you have more doers,
+more builders, people who've actually
+created products or companies.
+We think that's a good thing. Why would
+it be a bad thing?
+Mhm. I mean, is it a bad thing that Marc
+Andreessen invented the first internet
+browser or Jensen invented the GPU? If
+you're going to make recommendations
+about advanced semiconductors, don't you
+want to have someone who actually
+invented some of the key products in the
+space? The big question, of course,
+Sacks is
+as we've seen here with Science Corner,
+is how do you plan on staying awake for
+these meetings if it's going to be like
+all science as usually when you take
+your your bio break or your
+&gt;&gt; Well, there's it's it's science and
+technology, so we're
+&gt;&gt; you'll be awake for the
+&gt;&gt; focus on the tech stuff. Got it. And
+then we got Freeberg to focus on the
+science stuff.
+&gt;&gt; Got it. So, Freeberg, this is
+incredible. You've joined President
+Trump's
+administration now. I will say I'm
+honored to be invited and appointed by
+the president, and I appreciate Sacks
+and Michael Kratsios. You look back at
+PCAST, it's kind of rooted in FDR when
+he formed this Council of Advisors on
+science when nuclear physics and quantum
+mechanics was starting to kind of
+reinvent what was possible in the world.
+We're sort of at a similar era today
+because arguably AI is reinventing what
+is possible in the world. And I think
+there's this kind of acute moment that
+we find ourselves in in this
+extraordinary race against China. I'll
+give you a statistic. 10 years ago,
+China published 50% of the number of
+scientific research papers in
+peer-reviewed journals as the United
+States. Last year, they published 50%
+more than the United States. This is
+across all disciplines and domains,
+including physics, material science,
+chemistry, biochemistry, broad life
+sciences. There's this moment that we're
+in right now where both the world is
+being reinvented by AI,
+but there's this extraordinary race with
+China, not just in fundamental research
+and discovery, but in the
+industrialization of new discoveries and
+new technologies. You could feel it in
+DC this week. I was at the Hill and
+Valley Forum, but literally everyone in
+Silicon Valley, everyone in DC is is
+like
+absolutely honed and focused in on what
+is going on in China. It used to be in
+biotechnology, for example, that China
+was kind of a copycat and me too, or
+they were really good, for example, in
+manufacturing. But it is now the case
+that in many subdomains, China is
+becoming the scientific leader in
+biotechnology and in life sciences. And
+that is a scary thought because
+ultimately China could end up engulfing
+the entire pharmaceutical industry and
+basically becoming the leader in things
+like medicine, but most importantly,
+foundational things like AI.
+So, I just want to defend and speak for
+a moment about the choice about putting
+what I would say are like industrial
+science and technology leaders on this
+commission because this is a moment
+where there's an industrial race, not
+just a discovery race underway. That's
+why this moment is so critical. Anyway,
+I'm very appreciative to to have an
+opportunity to serve and thankful to
+David for his leadership. In related
+news, Chamath uh will be joining the
+President's Advisory Council on bomb
+pods and wagering. I'll be joining that.
+And when I saw this axe, I saw P PC and
+I was like, "Oh, is it podcasting? I'm
+in." Finally, I've been invited to the
+President's Council on podcasting. So,
+big big news coming. I don't want to tip
+anybody's cards. We'll let you know when
+that happens. Yeah, absolutely. When the
+when the President's Council on
+podcasting emerges,
+me and Lex Fridman will make our way to
+Washington DC.
+&gt;&gt; I want to thank the President as well
+and that's a great honor to be named to
+co-chair this. It is, like Friedberg was
+saying, this is a really august body
+that goes back a long time. I think the
+modern incarnation was created in 1990
+by George Herbert Walker Bush. So, this
+has been around for over 30 years in its
+current formulation. I think we have a
+slightly different take on it, which is
+we're going to have these these builders
+and doers on there.
+Like Freeberg said, we got some catching
+up to do on our industrial policy.
+We have named 15 people. There's still
+nine more slots. We can have up to 24.
+So, I think it's possible that at some
+point there'll be a second round and for
+missing some expertise they can be
+filled in. Obviously, that's up to the
+president. He can decide later who else
+might join this. All right, everybody.
+It's another amazing episode, the number
+one podcast in the world, the All-In
+podcast. Bye-bye. Love you boys.
+Bye-bye.
+Let your winners ride.
+Rain man, David Sacks.
+And as I said, we open sourced this to
+the fans and they've just gone crazy
+with it. Love you Wes. I mean, queen of
+Kinshasa.
+Besties are back.
+We should all just get a room and just
+have a one big huge orgy cuz they're all
+just useless. It's like this like sexual
+tension that they just need to release
+somehow.
+Wet your beak, wet Wet your pure beak.
+Wet
+We need to get merch. Besties are back.

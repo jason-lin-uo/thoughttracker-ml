@@ -1,0 +1,113 @@
+# HD Tutorial: Fraps
+# https://www.youtube.com/watch?v=XCuIjLI2VMg
+
+hey guys today I'm going to show you uh
+the settings that I use to get the best
+recording quality out of the fraps
+screen
+recorder uh first of all uh under the
+general tab there's not much to see here
+it's just details about the software
+itself um under the FPS tab you set your
+own hotkey you choose what corner you
+want the fps to be shown in um again not
+a whole lot down here unless you want to
+save uh certain benchmarks down
+but under movies um I set mine sometimes
+at 50 sometimes at 30 depending what
+game I'm I'm playing if I'm playing a
+less Graphics intensive game go ahead
+and set it to 50 frames per second if
+not if it's more Graphics intensive and
+go ahead and set it at 30 frames per
+second and make sure you know what your
+video capture hotkey is so that when
+you're in the game all you have to do is
+press that one button um for audio I
+chose it to to record sound and detect
+best sound input which will not
+necessarily be from your speakers but it
+might be your system sound which it can
+pick up also uh so if you have music and
+uh game sounds like a shooting game
+there might be gunfire you can hear that
+much more clearly if you uh detect best
+sound input you can choose to use
+Windows input but that might not always
+work so detect best sound input is what
+I use Vista direct stream and stereo
+because that's just the type of sound
+that I have on this system standard
+sound um and this is just a screen
+capture if you want to take uh just one
+image just one frame of the uh the game
+you're playing then um I use f11 as in
+movies I would start and end with F10
+and screenshots will start just one
+screenshot with f11 and it'll take a
+JPEG image or bit map image uh it really
+doesn't matter it could be a PNG image
+or a TJ image
+I'll use BMP for
+now and that is that is how you use
+fraps now when you're actually in a game
+I have a video a 1080p video that I
+uploaded um it didn't it wasn't the best
+quality ever but I do have a 1080p video
+up on my site so go ahead and subscribe
+and click on my name and you'll see the
+fraps 1080p test under my my videos um
+that is an example uh I when I did that
+video I only had the half version or the
+uh you were limited to 30 seconds of
+screen recording now I have a full
+version of frps so I am allowed to uh I
+have unlimited screen recording time um
+I use it to record basically whatever
+game I might be playing if I'm playing a
+game I'll open up fraps and I might do
+some benchmarking I might uh just look
+at see the FPS I'm getting frames per
+second um that I'm getting while playing
+and maybe I want want to record a video
+for keep's sake so um that's that is
+what fraps is ladies and gentlemen
+um I hope you enjoyed this video
+tutorial try to upload this one in HD so
+go ahead on the bottom right hand corner
+and click on watching this in
+HD wow and um yeah enjoy fraps oh um you
+know I'll show you where to get fraps
+just in case you don't know already
+um this is Firefox Internet Browser go
+ahead and uh go ahead and type in
+FRS and the first link was frs.com it's
+really simple scroll down it'll tell you
+all about different games you can record
+um using
+fraps and click on the downloads tab
+for downloading the actual application
+these are screenshots obviously from
+fraps which you saw in my earlier part
+of the video it's only 9956 Koby it's
+really small um but then again this is
+just the free fraps version captures the
+fastest with an Nvidia GeForce graphics
+card and sure
+enough I have an Nvidia GeForce graphics
+card where did it go where did it
+go maybe it's not going to there we go
+Nvidia G4
+9200m is my graphics card 512 Meg of ram
+so there you go download it here and if
+you want to buy the full version or you
+want to be crazy like me and torrent it
+then there's where you buy it you can
+use Visa Mastercard PayPal not a big
+deal but you can still record up to 30
+seconds of video and take screenshots
+with the free version of fraps so um and
+you can get the FPS benchmark Etc so
+that is fraps for you and hope you like
+this subscribe and more itd tutorials to
+come thanks peace

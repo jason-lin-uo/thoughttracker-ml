@@ -1,0 +1,21 @@
+{
+  "creator": {
+    "name": "All-In Podcast",
+    "slug": "allin",
+    "channelUrl": "https://www.youtube.com/@allin"
+  },
+  "entries": [
+    {
+      "videoId": "0y28p0jqPro",
+      "title": "Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner",
+      "publishedAt": null,
+      "durationSeconds": 2603.0,
+      "sourceUrl": "https://www.youtube.com/watch?v=0y28p0jqPro",
+      "thumbnailUrl": null,
+      "transcriptPath": null,
+      "status": "failed",
+      "skipReason": "ip_blocked_persistent"
+    }
+  ],
+  "writtenAt": "2026-06-11T04:43:01Z"
+}

@@ -1,0 +1,208 @@
+# Android Wear: State of Wearable Tech!
+# https://www.youtube.com/watch?v=pZiKLNnanWs
+
+[Music]
+Hey, what is up guys? MKBHD here. And if
+you'd asked someone at the beginning of
+this year what they thought this would
+be the year of, half of them probably
+would have said the year of 4K and the
+other half probably would have said
+wearables. And I already did a video uh
+in early 2014 about the state of 4K and
+where that sits right now. So I'll have
+that linked right below if you haven't
+seen that already. So, might as well now
+take a look at where we stand with
+wearable tech. Now, this video comes at
+an interesting time because of recent
+announcements that I'll get to in a
+second, but I recently did a video on
+the top five wearable tech, and Pebble
+is the king for like now, for right now.
+Obviously, Pebble has been very
+successful since their breakout
+kickstarter campaign as a company, and
+they've established themselves as
+pioneers of the smartwatch. They took
+another step forward with Pebble 2.0, so
+the new app and the new watch firmware.
+And they now have Pebble Steel, so the
+metal housing and the much more premium
+feel and the new wristbands. Uh, and
+they keep the e- in display and the app
+store and all the stuff that Pebble has
+been good at. They've gotten better at
+all of it. But even if you're Pebble
+right now and you've improved on
+everything and you lock down your
+technology and it's great, you still got
+to be freaking out at least a little bit
+after Google's announcements yesterday
+that pretty much changed everything
+about wearable tech. So yesterday,
+Google announced, in case you haven't
+already heard, Android Wear, which is a
+version of Android designed specifically
+for wearables or wearable tech. Uh, now
+Android 4.4 KitKat, as we already know,
+was designed specifically to have lower
+system requirements, which will let it
+work on lower-end devices like
+smartphones and also appliances like
+refrigerators and even cars. But Android
+Wear is designed specifically for
+wearable tech, mostly smart watches. So
+before this, if you wanted to build a
+smartwatch, you could do it one of two
+ways. Number one, you could build your
+own operating system from scratch. And a
+couple of manufacturers actually did
+this. So we saw this in the Sony
+smartwatch 2. We saw this with Tyizen
+with some Samsung watches. And we saw
+this with Pebble. They built their own
+OS and API from scratch just to work
+with the form factor on your wrist. Or
+you could do it the number two way,
+which is to modify an existing operating
+system, which in this case would be
+Android, the open source OS. Uh, and we
+saw this with the Samsung Galaxy Gear.
+The first version was a modified version
+of Android, very heavily modified, but
+they had to take that existing OS and
+change it up. Now, watching all the
+videos and promo material for Android
+Wear, it's clear that this was designed
+with the smaller display in mind. It's
+designed to be on your wrist. Uh, it's
+designed to be glancible information,
+swipeable interface. It's very pretty,
+nice and clean, elegant, and it's got a
+whole lot of information at your
+fingertips, and also a whole lot of
+integration with Google. Now, we were
+waiting to see something like this
+sooner or later from Google, even though
+we didn't exactly know what it would
+look like. So, now that we have this new
+version of Android Wear, when are we
+going to start seeing devices that use
+it? So, Motorola and LG are going to be
+launch partners, uh, but in very
+different ways. So LG, I guess being the
+less interesting uh of the two, it's
+going to be building a more traditional
+smartwatch style square display
+smartwatch just with Android Wear
+instead of a modified or custom OS. Uh
+and it's going to be a lower-end
+smartwatch, probably with a lower price
+tag and less features. But the much more
+interesting launch partner, which I
+think a lot of us are eyeing right now,
+is Motorola and their Moto 360
+smartwatch. This is the round smartwatch
+that Google showed in the Android Wear
+promo video and it's something to be a
+lot more proud of. So, this is an
+absolutely beautiful looking smartwatch.
+I mean, this thing is instaby territory
+for me right now. I cannot wait to get
+my hands on hardware like this. It's
+beautifully designed. It has some greatl
+looking watch faces and it makes really
+all the right design decisions uh to
+look like a regular watch. The Pebble
+does not look like a regular watch. It's
+a rectangle. And you can do your best
+with watch faces to make it look more
+elegant and make it look a little bit
+more like a regular watch. But no matter
+what you do, you're not going to be
+fooling anyone into thinking that that's
+a traditional watch. And that matters to
+a lot of people. The Moto 360 is
+honestly a work of art at this point to
+do what it does. Uh, and I'm not seeing
+any weird charging ports or batteries or
+cameras or anything unnecessary. It does
+its best to look the part of a really
+nice watch. And I'm sure the price tag
+will reflect that when it's released
+this summer, but I have my eye on that
+for sure. Now, the only thing I'm
+actually concerned about here with these
+new watches is the fact that they have
+LCD displays. Uh there's a reason why a
+lot of smart watches have gone with e-
+in displays recently. It's because
+that's a much more natural feeling
+technology. It's like looking at paper
+almost. And that also gives you the
+ability to have much longer battery life
+and constant on watches. So, if you want
+to check the time really quick, all you
+have to do is look at it and it's
+already there. You don't have to shake
+it to get it to appear or do some sort
+of fancy gesture to get the LCD to turn
+on. That doesn't feel very natural, very
+watchlike. So, if Moto 360 can nail down
+outdoor visibility, battery life, and
+convenience for checking the time so it
+doesn't feel
+unnatural, you can have all my money.
+Also, Android Wear is still Android, so
+it's still the open source OS. So, it'll
+likely be able to talk to any Android
+smartphone, uh, unlike some of the other
+modded Android uh, watches, which would
+only really talk to a very small number
+of devices. So, if you have a device
+that's not a Galaxy device, if if you
+have a Nexus or a Moto X or whatever
+Android device you have, maybe even an
+iOS or Windows phone device in the
+future, you'll probably be able to use
+this new watch. And also, can we talk
+about the fact that this watch is a
+circle, not a square? Like, every
+literally every other smartwatch ever
+has been a square. That's why we thought
+flexible displays were the answer to
+making these rectangular things less
+bulky on our wrists. We thought we had
+to curve them around our wrist, but
+really, I'm excited to see what
+developers do with a circle now that we
+have a circular display. I mean, where
+else do you see circular LCDs out there?
+So, I'm excited to see what developers
+do with this SDK, making their apps play
+with that correctly, that odd resolution
+and viewable area on it. Uh, but
+ultimately, this is the first circular
+display that I'm actually excited to be
+excited about. So, there you go. That's
+Android Wear. Uh, and now we know
+exactly what the future of wearables, at
+least smart watches, are going to look
+like. And it's looking pretty dope, not
+going to lie. Uh, Apple, I hope you took
+notes. So, I'm keeping an eye on Apple.
+I'm keeping an eye on Motorola. I'm
+keeping an eye on LG. Keeping an eye on
+Pebble. Uh, keeping an eye on Google IO,
+Nexus smartwatch combo, anyone? That
+would be nice. Uh, keeping an eye on uh
+all the other guys who are making smart
+watches before this with modded versions
+of Android because if we can go from
+this to this in 3 months, imagine where
+we'll be in three or four more. Uh, so
+that's pretty exciting stuff to think
+about. Either way, thanks for watching.
+Catch you next time. Later. Peace.
+[Music]

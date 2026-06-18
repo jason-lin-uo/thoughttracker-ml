@@ -1,0 +1,242 @@
+# Ubuntu Edge: Explained!
+# https://www.youtube.com/watch?v=nei16gkVxpg
+
+[Music]
+Hey, what is up guys? MKBHD here.
+Remember iuntu Phone OS? You know, we
+have Android, Windows Phone, Blackberry,
+iOS. Abuntu Phone OS is kind of the new
+player on the market, and we first
+really got to see it in action at CES in
+January of this year, and I also did a
+top five video of it detailing the best
+features of it. It's basically a new
+smartphone operating system with a lot
+of unique features that other smartphone
+oss don't have at all. Well, funny you
+should mention that. that IU Edge is the
+newest thing that has all the people
+talking, asking questions like, "Is this
+legit? Is this really as awesome as it
+looks? Is this really what I think it
+is?" Well, that's what we're here to
+answer. So, without any further ado,
+let's take a closer look. This is Iuntu
+Edge explained. So, there are three main
+things you need to know about Iuntu Edge
+to really understand it. Number one,
+this is a crowdfunding project to make a
+piece of hardware happen. Basically,
+this device doesn't exist yet.
+Canonicle, which is the company in
+charge of this, is trying to make it
+happen in the form of an Indiegogo
+campaign. So, the first link below the
+like button will be a link to the whole
+campaign page where you can read up on
+all the details and check it out and see
+for yourself. But they're asking for a
+record $32 million to make this one
+device happen. But when you think about
+it in terms of, you know, actual costs
+to make a smartphone, and when you
+compare it to other high-end flagship
+smartphones, that's not all that much
+money at all to ask for. And this is
+also a limited edition phone. So, it
+might seem crazy at first to ask for a
+worldrecord-breaking $32 million
+fundraiser on Indiegogo, but when you
+put it all in perspective, it's not all
+that insane. Now, the number two thing
+you need to know is the actual specs of
+the device they're planning to make.
+They're really weird. This device is
+supposed to have a 4.5 in 720p display
+covered with a sheet of sapphire crystal
+instead of traditional glass. It'll also
+have a camera on the back similar to the
+HTC1's in that it's optimized for low
+light photography and fast shooting.
+Sounds kind of like the HTC1's camera.
+It'll probably come in at around four or
+eight megapixels. They've also quoted
+the fastest multi-core chip available,
+which will probably be an 8 core chip by
+the time this phone launches. Plus,
+they're also looking at 4 GB of RAM and
+128 GB of flash storage. Damn, that is a
+stat line right there. In that one frame
+of their promo video, that sold a lot of
+people. Those those three things are
+just nuts. It'll also have dual LTE
+antennas for 4G in Europe and the USA
+and a slightly new silicone anode
+battery technology for a hopefully very
+long-lasting battery in this beast of a
+phone. And it'll dual boot Android and
+iuntu. So why all these crazy specs? Why
+all these ridiculous numbers on paper?
+Well, consider this. The idea of an
+Iuntu OS phone is that when you're
+holding it in your hand or when it's in
+your pocket, it'll run a normal phone
+operating system like Android. and you
+won't be able to tell that it's a crazy
+phone or anything like that. But once
+you plug it in and basically dock it to
+a display, a keyboard, and maybe even a
+mouse, it'll start running a full
+desktop operating system. They're using
+Iuntu, so a full-fledged desktop
+non-stripped down experience. That's
+going to take a pretty crazy spec sheet
+to be able to run that and fit in your
+pocket. The ibuntu Edges hardware also
+happens to look just gorgeous. Drop
+deadad gorgeous, beautiful, sexy. Did I
+mention gorgeous? They have mostly 3D
+renders at the moment, but looks like if
+you look at the campaign site, some
+actual prototyping has started as they
+have a couple of physical things in hand
+that they can use to show off the phone.
+But when you actually look at this, it's
+it's very very clean. The idea of the
+clean lines of the edge, it'll be
+crafted from a single piece of metal
+into an awesome shape for this high-end
+build quality. And on front, you can see
+edgetoedge sapphire crystal to make
+Iuntu OS's gestures much easier since
+you're not dragging your finger over
+multiple materials. And honestly, with
+the angles on the devices and the way
+the corners look, I can see where they
+got the name Edge. Makes a lot of sense.
+Oh, and I also happen to think this
+looks a lot like the Oppo Find 5. But
+maybe that's just me. So, the number
+three thing you need to know, and this
+is probably the most critical of them
+all, is how does this actually work? How
+do you have a device that runs Ubuntu OS
+and Android? How do you have something
+that has two different operating systems
+on it that work with each other and talk
+to each other? Well, the answer that
+Canonicle has come up with, they're
+calling Convergence. Convergence is
+basically Android and Iuntu OS being
+able to talk to each other, which is
+pretty freaking cool. Now, they don't
+actually have an Iuntu Edge to show us
+this on. So, for the video, they had a
+much lower spec device. They use a Nexus
+4. And basically, when they plugged in
+the Nexus 4, they were using, you know,
+stock Android before. You couldn't tell
+that it was an Iuntu phone, but they
+plugged into the desktop and it was
+running full, I guess, like we said
+before, iuntu operating system for the
+desktop. And since these two operating
+systems are talking to each other using
+this convergence, a lot of the things
+that you would expect to find in your
+phone, you will start to also find on
+the iuntu desktop. So if you use the
+contacts app in iuntu and you start
+searching for contacts, you're going to
+be searching the contacts on your
+Android phone. The music on the iuntu
+desktop will search for songs in your
+iuntu library on Android. The
+Thunderbird mail client gets its data
+from the Gmail client on the Android
+phone. And you can even use a dialer app
+in the desktop to make and receive phone
+calls through the phone that's plugged
+in. So, it's a really neat concept. And
+basically, what I'm trying to say is
+where can I give you my money? So,
+what's the point of all this? What's the
+big idea with making a high-end device
+that runs Iuntu OS? Well, basically, you
+can consider the Iuntu Edge the nexus of
+Iuntu OS. It's basically using this
+project to create a limited edition
+high-end phone that is, you know, a
+blend of the experience of what the
+experience should be when you're using
+this operating system. So again, when we
+look at the Nexus program for Android,
+you're looking at what you expect out of
+stock Android. This is what you should
+expect out of Ubuntu OS. When you're
+going to be running a high-end operating
+system from the desktop, you're going to
+need high-end specs. This is what they
+want to start off with and what other
+OEMs can follow. This isn't meant to be
+an iPhone rival or the most popular
+thing in the world. It's not going to
+sell well. Again, this is limited
+edition. It is only for the enthusiasts.
+It is only for the people that are
+supporting the project. So, that's
+basically it. They're doing a great job
+right now. One thing I kind of want to
+see, if they're even watching this or
+listening at all, is I would kind of
+like to see a physical an actual
+physical dock because the idea of, you
+know, plugging in one cable and sort of
+propping up your phone next to your
+desktop seems a little bit cumbersome if
+that's something they want us to be
+doing all the time with the Edge. And uh
+I'd also like to see a little bit more
+prototyping so they have some more
+physical units to be able to show people
+if they're trying to get bigger
+donations from people who are
+interested. But uh other than that,
+they're kicking ass right now. If you've
+checked out the Indiegogo campaign
+already, you'll see it seems like
+they're going up by a few thousand every
+time I refresh the page on Indiegogo. So
+they're kicking ass right now. And I
+really hope they reach their $32 million
+goal. How realistic is it that they're
+going to reach this goal? It's a good
+question. I mean, they did indeed smash
+records. They I think hit $2 million in
+the first 24 hours and this is a 30-day
+campaign and 4 days in they're past $6.5
+million. So it seems like they're doing
+a great job already. But uh it's it's
+definitely something that needs to be
+kickarted if you get the pun that I just
+made. Um bad idea. But either way, if
+you feel like getting this uh super kick
+started, you can just, you know, toss
+$80,000 at them. I'm sure they could use
+that. Either way, this has been Iuntu
+Edge Explained. Feel free to share this
+video with anyone who has any questions
+about this. Also, I'll include a link to
+the AMA on Reddit that CEO Mark
+Shuttleworth did, which has a lot of
+interesting questions about the business
+and technology behind the scenes
+answered there. So, I'll include that
+link below the like button below.
+Hopefully, this covers everything. If
+you have any other comments or
+questions, the discussion section is
+open below. Thank you for watching and I
+will talk to you guys in the next one.
+Peace. Heat. Heat. N.
+[Music]

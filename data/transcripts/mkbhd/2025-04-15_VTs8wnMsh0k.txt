@@ -1,0 +1,271 @@
+# Reviewing a Bionic Hand!
+# https://www.youtube.com/watch?v=VTs8wnMsh0k
+
+[Music]
+Tech reviews are getting kind of weird,
+huh? We're reviewing it by any can
+today.
+[Music]
+So, this this thing right here is called
+the psionic ability hand, and it is an
+incredibly cool, incredibly niche, and
+incredibly helpful piece of technology.
+It is specifically a carbon fiber and
+metal motorized articulating hand that
+attaches to prosthetics for people who
+have lost their hand or don't have a
+hand to regain as much functionality as
+possible. It's Bluetooth connected. It
+has its own app. It's incredibly
+durable. It's waterproof. and it's cheap
+enough to be fully covered by Medicare.
+So, you might remember a few months ago
+that video that I did with 3D Pets,
+which was 3D printed prosthetics for
+animals that made a huge difference in
+quality of life, just with some simple
+structures to help their joints even out
+and make it relatively easy to print
+another one if the animal changed in
+size or something. Well, I'd say this is
+the opposite end of the technological
+spectrum. Now, obviously I have two
+hands, so you might be wondering how I'm
+going to review this bionic hand. Uh,
+great question. Uh, there's actually two
+ways that I can show you how this works.
+One is pretty straightforward. The other
+is a little more interesting. So, the
+first way is with this control stick
+right here. It's pretty simple,
+actually. The hand, which normally
+connects to a prosthetic, connects to
+the control stick. Locks into place very
+satisfyingly, and now it's connected to
+a battery and some buttons. There's also
+some ports down here. And most
+importantly, this button at the bottom
+here turns it on. And once it
+initializes, does this little finger wag
+and it's now alive. And you can connect
+to the hand through an app that lets you
+go way into more detailed control. And
+this app is pretty smart. This is where
+you can rotate between a bunch of
+different preset hand positions known as
+grips. So this, for example, is called
+the cylinder grip. So you could use this
+to grab a larger object like a door
+handle or something like that. And then
+you can always open and close the grip
+with the buttons here. Then you might
+have something like a pinch
+grip. And that's maybe for something
+smaller like writing or picking up a
+berry or something extra small. There's
+also a grip called handshake which is
+pretty self-intuitive. If I open this
+grip and then close it in a normal
+handshake. Yeah,
+that checks out. But yeah, there's some
+other miscellaneous ones. I like that
+they're all named. Like this one is
+called sleeve, which is literally, I
+believe, just for sliding your hand into
+a sleeve and not getting it caught on
+anything. Uh you also have hang loose,
+maybe less uh utility to that one, but
+still fun. Or even my personal favorite
+peace. Uh there's also this one, which
+is called
+rude. But it's pretty crazy how much
+functionality is in this app. Side note,
+by the way, this has to be the fastest
+pairing Bluetooth device I've literally
+ever used. And it's worked flawlessly
+every time. You turn it on with that
+button, then you let it do the quick
+little initialization, wiggle the
+fingers, then scan, click, boom,
+connected in like 2 seconds flat. It's
+awesome. And so users of the ability
+hand will be able to set different
+series of grips in a row as defaults
+like daily grips or exercise grips or
+dining grips. But of course, the target
+demographic for this as a product is not
+going to be using these buttons to open
+and close the hand. Which brings me to
+my second way of controlling the ability
+hand, which
+is EMG. So, I've tested a few kinds of
+EMG tech on this channel. Most recently,
+Meta's prototype AR glasses. They had
+this wristband with a bunch of sensors
+inside that measured the electrical
+signals that my brain's sending through
+my nerves. This is using that same
+technology. So for actual customers
+missing a hand and looking to replace as
+much of that functionality as possible,
+this is how they'll open and close the
+hand. Essentially, they'll have a
+prosthetic, a connection to their arm
+with EMG, and then the hand will connect
+to the end of it. So what I do here is I
+put the hand on the end of this demo
+prosthetic. A regular prosthetic would
+be much smaller, but this is so I can
+put my hand inside. And on my arm, I'm
+going to attach these sensors to two
+spots that they've advised me are the
+best for measuring that electrical
+signal. So now what you're seeing is
+I've got the two EMG sensors hooked up
+on my skin. I've taped them on to
+roughly the right positions based on
+what they've told me. And you only need
+two because, as you can see in the app,
+it's measuring the delta between the two
+signals. And that's the difference
+between opening and closing the grip. So
+now if I flex just the right way and
+send the signals just the right way, it
+will actually close into a grip. And I
+have in the app a cycle of different
+grips that it can actually go through
+based on, like I said, what situation
+I'm in. So if I open again and then open
+again, it's ready to move to the next
+grip, which I think is like that. Then
+if I open again and again, I'm ready to
+do the peace sign, which I think
+is like that. Nice. A lot of
+concentration on
+this. Nice. So, this is the closest that
+I and fully limp people can get to
+controlling this bionic hand with their
+brain. It's a lot of fun. Actually,
+there's also haptic feedback. So, if I
+put my hand in this, there's actually a
+vibration motor where I can feel when
+I've closed my hand on something, which
+is pretty cool. And also the stronger I
+flex, the faster the grip moves between
+open and closed. So of course now the
+natural question is what can I actually
+do with
+it. So let's find out. So I am fully
+hooked up and I am practiced. I'm good
+at opening and closing my hand. So I'm
+going to try to do some stuff basically
+in an order of how difficult I think it
+will be with the asterisk that uh I'm
+not a longtime user. I'm just trying
+this out. Starting with just picking
+something
+up. So this is I mean this is a basic
+thing. This is a water bottle shop.
+HD.com. Okay, there we go. I picked it
+up. And I do actually feel the haptic
+feedback in the the hand basically. So
+when I touch something, you can maybe
+even hear it a little bit, but I do feel
+it. But yeah, that's the simplest thing,
+picking something up. All right, so next
+thing I'm going to try to pick up is
+much smaller, which is why I'm switching
+it to the pinser grip to pick up smaller
+things. Oo, it's a little harder.
+Smaller. Trying to be very precise,
+which
+is harder.
+So, it turns out changing the
+orientation of your arm, the way you
+feel things, kind of changes the way
+your inside and outside arm are
+related. All right, that's that's hard.
+That's harder than I thought. I'm giving
+that like a eight out of 10 difficulty.
+All right, next task. Peeling a banana.
+What I'm thinking I'm going to do is the
+same grip and then ideally just pinch
+the stem and pull. I've heard some
+people peel a banana from the other
+side, but I'm not going to try that. Uh
+I think here it'll just be a matter of
+getting the right
+spot then holding
+on. Oh, success.
+success. That's like a five out of 10.
+All right. Typing is another one of
+those things that I believe I can do a
+little bit better two-handed than one.
+So, I'm switching to the pointer grip
+because I feel like I'm not going to be
+able to do fullon regular typing, but
+you can still hunt and peck here from
+there. That was pretty straightforward.
+I was also surprised to find out that
+you can use phone screens with the hand.
+It seems like all the electrical the
+electronic capacitance is still
+perfectly fine. So typing and using a
+phone very easy. It's like a one or two
+out of 10.
+[Music]
+Not my most beautiful effort of all
+time, but I did write something. But
+yeah, again, it's very much it's
+interesting that you can modulate how
+quickly or how slowly you open and close
+the hand based on how much you flex
+those those muscles. So, I'm able to
+very slowly put the pen in just the
+right grip and
+ideally it's strong enough to write a
+little bit, but that is the thing that
+I've learned the most from these
+different grips. So, look, obviously
+there are lots and lots of different
+prosthetic limbs out there already, but
+in the past years, they've gotten better
+and better and more and more capable.
+And it's to the point where now in 2025,
+it kind of feels like, yeah, of course,
+we should have carbon fiber, water
+resistant, fully dextrous, five-fingered
+hands that weigh less than a regular
+human hand with a rechargeable battery
+that's controlled by EMG, of course. So,
+while obviously there are still limits,
+like I know I'm not going to go play
+ultimate frisbee or even, you know, tie
+shoelaces or do anything super crazy
+with this, it's still awesome that even
+the amount I'm able to do as a
+completely untrained user has me so
+impressed with the amount of
+functionality it's able to give back to
+the people who need it. And then they
+also have these even crazier demos like
+connecting it to a brain implant, which
+I obviously can't test myself, but seems
+to imply that the ceiling is way higher
+than what we've already seen. Overall
+though, it just is really cool to see
+how far tech has come towards improving
+the human experience on planet Earth.
+That's all this stuff is really about.
+Like, I'm not in the target demographic
+for this product, but that doesn't mean
+I can't appreciate how much work went
+into making this and how well it works.
+So, shout out to Psyionic for letting me
+play with this. I'm going to give it
+back to you now so that you can give it
+to someone who can use it much more than
+I can. Either way, technology is strong,
+but the flesh is weak. Catch you guys in
+the next video. Peace.
+[Music]

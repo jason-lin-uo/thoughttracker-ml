@@ -1,0 +1,268 @@
+# Windows 11 Reactions: It Runs Android Apps! (Kinda)
+# https://www.youtube.com/watch?v=VaSstf9VJGQ
+
+hey what's up mkbhd here okay so windows
+xp
+was great
+then windows vista
+was not great but then windows 7 was
+great then windows 8 with the tiles not
+great windows 10
+great
+and now windows 11 no pressure microsoft
+but
+this is your chance to break that cycle
+so today we got a windows 11 reveal the
+newest next version of windows coming as
+a free upgrade this holiday season to a
+pc near you now it's funny a lot of you
+probably know me as a mac user most of
+the time just because i've used a lot of
+macs here at the studio but that's not
+actually because of
+mac os
+i switched to mac os for the most part
+at work because of an app because of
+final cut pro so i'm perfectly happy to
+spend time in windows all the time and
+so watching their unveiling event today
+actually felt more compelled to react to
+this windows unveiling than anything
+they've done over in apple camp lately
+in the desktop stuff at the end of the
+day though it's just an operating system
+and you're gonna have to run apps on it
+so we'll get to the app situation in a
+minute but there's plenty of interesting
+stuff now that they're doing here in
+windows 11. so first of all the whole
+aesthetic is refreshed pretty
+dramatically so we got this new design
+that i would describe as very
+glassy like there's a lot of shininess
+and transparency and glassy translucent
+elements things happening through here
+as much as it's probably cringe to say
+it it kind of does remind me a little
+bit of the hype around windows vista
+when we had that super flat windows xp
+and then vista was all this glass but of
+course now it's much brighter and
+lighter and i'm just gonna stop
+mentioning vista now there is a new
+start menu in windows 11 which might
+make you a little nervous if you're
+familiar with them messing with the
+start button and the start menu in the
+past but it's pretty good it's actually
+centered now by default to keep with the
+theme that windows 11 should be the
+center of your ecosystem but you can
+always move it back over to the left if
+you want but yeah it has the glassy look
+it also now has suggestions for apps and
+documents to open that you recently used
+makes a lot of sense here and then
+similar to how on android you could
+swipe over to see a google discover page
+or on ios how you could swipe over to
+see a bunch of widgets with information
+or even on the mac you could do this now
+on windows 11 you can swipe over and you
+get a pane of widgets with information
+customized by ai so it's this glassy
+pullover and i assume it'll get better
+over time as it learns you but it has
+some level of customization and so you
+can see things like weather and news
+stories and social posts all over here
+and you can fully swipe over to go full
+screen with this if you want to just
+live here for a little bit it's pretty
+cool then here's an interesting no doubt
+pandemic inspired feature
+microsoft teams is now built into
+windows natively
+now okay here's the thing so microsoft
+teams i get it it's their communication
+app they want to use it as much as
+possible but also
+uh microsoft owns skype
+and they bought skype for 8.5
+billion dollars so when i when i think
+of what microsoft could do to like make
+communication easier in windows that's
+just what came to my head but you know
+they're trying to promote teams and make
+it the default messaging app and push it
+more among regular people so the demos
+they were showing in this event were
+just people having chat conversations
+with friends and family and just hopping
+on casual video calls and microsoft
+teams now i don't know about you but
+i've always thought of teams as a
+business app like a corporate video
+conferencing app because that's the only
+thing i've actually used it for it's
+literally called teams so i kind of
+wonder if building it into windows will
+actually have the intended effect like
+it's coming out during the holiday
+season which is in a couple more months
+so again we'll probably want to be
+mostly done with video calls by then but
+even for casual video calls
+like zoom
+definitely broke through from the
+enterprise to like being the default
+video calling app for the world
+microsoft like i said owns skype but
+also now facetime
+from this recent ios update will allow
+you to send links to people on android
+phones and and web devices and windows
+users can jump on facetimes now so yeah
+i don't know if microsoft teams is going
+to be that
+thing that hard hitting standard default
+but we'll see i do love though the new
+window management controls this is
+something windows has been ahead on for
+a while and they're still great at now
+in windows 11 you hover over the
+maximize button i believe and you get
+all these new multi-window snap presets
+super dope for people who work with
+multiple windows open all the time like
+i do and also joanna stern has an
+awesome exclusive piece over on the wall
+street journal right now that posted
+today you should definitely read it i'll
+link it below and in that she mentions
+there will be a windows like
+memorization basically
+with external displays
+now so if you've ever had an external
+display with a windows laptop in the
+past it's kind of annoying when you have
+a bunch of stuff nicely laid out on that
+monitor and then you unplug it and
+things all just appear on your laptop
+not anymore now they will memorize their
+location on that monitor when you unplug
+the monitor they'll all minimize and
+when you plug that monitor back in
+they'll all go back to where they were
+that's pretty dope but the biggest new
+thing the biggest most headline-worthy
+new feature from windows 11 that caught
+my eye the most has to do with apps so
+so this is the headline ready this is
+what can be printed up at the top super
+simply
+android apps
+can now run natively
+in windows 11. so right off the bat that
+is pretty cool they're showing it's
+compatible with the window management
+controls and it can potentially give you
+access to a whole new suite of millions
+of apps that we all know and love
+working perfectly on the desktop or the
+laptop or the two in one that you carry
+whatever runs windows you got to bring
+the most popular apps to windows to get
+people to use windows right but there
+are some more details behind that super
+simple headline so this is made possible
+through a collaboration actually between
+microsoft and amazon so actually what's
+going on here is it's loading up the
+amazon app store for android apps
+into the microsoft windows
+app store and this is all going to be
+run through intel bridge technology so
+again from joanna's piece she notes that
+you'll be able to search through the
+windows app store like normal and when
+you find an android app in there and you
+click to download and install it you
+will have to be signed in
+to an amazon account because it's coming
+from the amazon app store and actually
+the first time you ever do this it'll
+have you download and install the amazon
+app store app for windows which
+it's going to haul it'll it's just the
+first time but it'll work
+and then from there you'll be able to
+download all these amazon app store apps
+it's not a hundred percent overlap with
+the google play store from my experience
+it's pretty close but it's the amazon
+android app store
+loaded up into the windows app store
+that makes sense so maybe the headline
+should really read uh android apps
+that are in the amazon app store
+will work natively kind of on windows 11
+as long as you have a microsoft and
+amazon account basically it just feels
+like a super official side load it
+doesn't quite feel native but they'll
+try to make it feel as native as
+possible the move to do this by the way
+makes perfect sense like meet the people
+where you want them to be with their
+apps that they already like it's the
+same reason you can run android apps on
+a chromebook and you can run ios apps on
+a mac it doesn't mean they're going to
+be good like there's a bunch of bad
+examples of them not really working
+great they might suck for non-touch
+input
+they might just have functions that are
+broken or just don't work as well when
+they're on a computer versus when
+they're actually on a mobile device so
+it's maybe the most convoluted version
+of it all but at the end of the day you
+can say you offer
+android apps on windows sure so those
+are all the big new changes the huge
+bullet points windows 11 is looking
+fresh and clean with this new aesthetic
+and i for one am definitely on board
+with that part it feels modern and
+there's lots of other behind the scenes
+and under the hood changes as well i'm
+sure it's 64-bit only for one and
+there's also a couple other more
+interesting new system requirements so
+there's a compatibility tool that people
+can use now to check if their pc they
+currently have will work with windows 11
+but i think we'll learn a lot more as
+the betas start rolling out people start
+using them about graphics improvements
+and security and privacy and
+optimizations and all that fun stuff but
+in the meantime
+that's windows 11.
+so not bad i'm impressed
+i think they might have just
+broken the cycle
+the on off i don't want to jinx it but i
+kind of like this update we'll see let
+me know what you think in the comments
+section below if you have any strong
+thoughts on the new design or any of the
+stuff we've talked about here let me
+know if you also actually care about
+running android apps
+on windows i'd be super curious thanks
+for watching catch you guys in the next
+one
+peace

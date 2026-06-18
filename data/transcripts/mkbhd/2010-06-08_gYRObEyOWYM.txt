@@ -1,0 +1,157 @@
+# HD Tutorial: Safari 5
+# https://www.youtube.com/watch?v=gYRObEyOWYM
+
+[Music]
+hey what's up guys it's Marcus brownley
+here from MKBHD and welcome to another
+highdef video tutorial and today I'm
+going to be showing you how to download
+something uh the one thing that might
+actually have the power to pull me away
+from Google that was introduced at
+today's uh WWDC keynote by Apple 2010 uh
+I know this isn't the iPhone 4 or
+anything like that but this is uh the
+first few minutes of the Safari P Safari
+5 page going live I've been with chrome
+for a while because of extensions but if
+you look over here you can tell this
+page is new just because the little new
+logo kind of chops off introducing
+Safari 5 and it still says Safari 4 at
+the top and this is not really a very
+good-looking website right now but I'm
+going to try out Safari 5 i' uninstalled
+our previous versions so today I'm going
+to be showing you exactly how this works
+and giving you a mini review so go ahead
+and hit the free download button at
+apple.com Safari download
+I'm going to download Safari 5 for XP
+Vista or 7 and hit the download now
+button uh so keep in mind this is
+something uh you're definitely going to
+want to check out a lot of the new
+features one of the new features is
+coverflow for history and another
+feature is uh reading without
+distractions it'll automatically detect
+whether or not you're on a page with an
+article and if you are it'll go ahead
+and uh highlight that article remove it
+and let you go ahead and uh pretty much
+view the fact that you're in an article
+by itself hide all ads in the background
+just go ahead and show you what you need
+to see which is just the text so this
+installer.exe will finish installing you
+don't have to worry about where it is as
+long as you can click on safaris
+setup.exe and I'm going to go ahead and
+exit out Chrome we'll go ahead and see
+how I like Safari 5 hit that run button
+and we'll wait for the installer to come
+up so first the windows installer is
+going to launch and you go ahead and get
+pretty much a standard installation
+screen you're going to hit next a couple
+of times you're going to hit accept a
+couple of times uh this isn't really a
+very new prod process I'm just showing
+you guys what it'll look like the first
+time you get it install a desktop
+shortcut sure why not and uh I don't
+want buer I don't like Apple software in
+the first place uh so hit yes if user
+account control does happen to prompt
+you for anything in Windows 7 or Windows
+Vista and it'll go ahead and Compu your
+uh your space requirements make sure you
+have the appropriate uh video card to
+use coverflow make sure you have the
+appropriate video card for uh top sites
+and Etc and all those other different
+things so once you're finished your
+status will obviously
+uh finish to the very back of the status
+bar and we'll go ahead and open Safari
+for the first time when this uh when
+this installer finishes which it looked
+like it should be right about
+now or maybe it'll surprise me and go
+through it again yes of course so
+validating install now of course if you
+had a previous version of safari
+installed you're going to have uh all
+your bookmarks will be saved and will
+actually appear because the program
+files when you uninstall Safari Apple
+doesn't actually like to wipe your
+program files uh so all you have to do
+is just uh well you'll have all your
+bookmarks from the last version of
+safari if you did use it if you haven't
+ever used Safari on your computer it'll
+be a fresh install and you won't have
+any of that so now that the uh Safari
+has been successfully installed we'll
+hit finish to uh open it up and we
+actually have to restart our system for
+this to take effect we'll hit yes or hit
+no uh I guess we'll go ahead and hit yes
+to restart and I'll see you in a
+few all right so ladies and gentlemen
+what we've just done is a quick restart
+one of those fast reboots of Windows 7
+you guys know how fast that is and what
+we have here on our desktop is a
+shortcut for Safari 5 and what we're
+going to do is double click and open it
+for the very first time on this Windows
+machine see if there's anything special
+I remember in Safari 4 there's a neat
+little boot animation just for the first
+time you open Safari which is pretty
+cool uh we'll see if anything like that
+goes down for Safari 5 that would be
+pretty cool also the first boot of
+safari does take a little bit longer
+since you're obviously retrieving old
+program files digging through your
+system to make sure you've got uh
+everything Safari needs to work properly
+uh and so here it is it looks like it's
+opened in a 1280 x 720 window and here
+is Safari 5 now I won't go very much
+into depth from here but you obviously
+still have the top s sites button it
+kept my uh google.com as the homepage it
+looks like the top s sites button has
+changed a little bit looks a little bit
+more like a keynote you can also search
+history down here in coverflow I don't
+have much of a history yet yet in Safari
+you can also hit the the edit button at
+the bottom left hand corner and have a
+small medium or large bunch of
+thumbnails as you can see these are
+videos that I plan on doing in the near
+future so anyway that has been my
+overview of how to get Safari 4 uh I
+guess I'll go to
+engadget.com just to see uh the Safari
+reader does look cool oh they brought
+back the progress bar that is neat
+that's very cool that they brought back
+the progress bar so we'll click on on
+this enormous iPhone 4 article and uh
+you'll see that it does look pretty good
+we're going to go ahead and check out
+Safari extensions we'll check out HTML 5
+uh enhancements and support we'll check
+out the reader and everything like that
+but either way this has been a quick
+overview of safari 4 and I hope you guys
+enjoyed it so thanks for watching and
+I'll talk to you guys in the next video
+peace

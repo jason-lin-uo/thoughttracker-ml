@@ -1,0 +1,910 @@
+# All-In Summit: Bill Gurley presents 2,851 Miles
+# https://www.youtube.com/watch?v=F9cO3-MLHOM
+
+I'm Bill Gurley. I got to Silicon Valley
+in about 1997
+and was fortunate enough to become a
+venture capitalist in 98. And the
+entire, you know, first year of my
+career, I had zero interest in
+interacting with any form of government.
+It didn't seem necessary for what I was
+trying to do. I was working with
+founders and software and technology. I
+didn't see what it would bring me until
+one day where I ran into an issue which
+I'll tell you about later that required
+me to understand what was going on in
+Washington. So I checked in with a few
+adviserss. They introduced me to this
+lawyer in DC. Turns out DC lawyers do a
+lot of things that aren't lawyering. And
+and he listened to what they have. He
+said, "I'll call you back." He calls me
+back. He says, "Bill, I got exactly what
+you need. found a congressman on the
+committee that matters to what you're
+talking about and I can set up a
+meeting. I go, "Great. I'll fly out." He
+goes, "No, no, no. Don't fly out. He's
+coming to you." He go, "He's coming to
+me. That's pretty nice." He goes, "Do
+you have a conference room?" I said,
+"I'm a venture capitalist. We have lots
+of conference rooms." So, he said, "I
+need you to get some people together."
+And and here's the catch. They need to
+bring $5,000 each.
+Hung up the phone. Started thinking,
+"All right, I got six people. So, we got
+board members, CEO, $5,000, $30,000. He
+calls me back next week. How's it going?
+Great. I got six people, $5,000 ready to
+go. He goes, "Most of these meetings
+have 10 to 12 people." Says, "Shit."
+Like, now I'm inviting people that don't
+even have anything to do with this thing
+and like having to help them out. I'm up
+60K. I hang up. He calls me back a week
+later. He goes, "Bill, how's it going?"
+I go, "Oh, [&nbsp;__&nbsp;] I got 12 people. You
+know, everybody's got a check. We're
+ready to go. I'm losing interest at this
+point." He goes, "Do do they have
+spouses?" I'm like, "What kind of
+question is this? Do they have spouses?"
+He goes, "Yeah, let's let's have their
+spouses write $5,000 each." I go, "Our
+conference room's not big enough for the
+spouse." He goes, "They don't have to
+come."
+This is a true story, by the way. True
+story. And it would go on to happen two
+more times in my life. And then I
+stopped meeting with Congressman
+The reason that I needed to engage
+relates to this company. My fourth VC
+investment was in a company called
+Tropos Networks. We had industrial-grade
+mesh Wi-Fi. You could mount it on a
+telephone pole and bathe the city in in
+Wi-Fi broadband. It was awesome. We are
+so excited about it. We were changing
+the world. It was disruptive. Google got
+excited about it. Earthlink got excited
+about it. But the customer I loved the
+most that got excited about were mayors.
+There are hundreds of mayors all over
+the country that wanted to provide free
+Wi-Fi service across their downtown
+area. It would help with public safety,
+economic development, and of course,
+digital divide. So, we we were so
+thrilled. I was so pumped. I was sure we
+had a winner here. And then one day,
+these two people got excited, which
+turned out not to be a good thing. This
+is Mayor Street of Philadelphia and his
+CIO, Diana Nef. They got just as excited
+as I did. They were idealistic.
+They were, you know, optimistic. Maybe
+they were quicksotic. Maybe I was too.
+Because the next thing that happened is
+what caused me to get that meeting. You
+can't read this, but it says, "Lobbyists
+try to kill Philly wireless plan." And
+in the article, it says, "Phily's plan
+to offer an inexpensive wireless
+internet service, the most ambitious
+yet, collided with commercial interest."
+Collided with commercial interest. There
+were no voters or citizens up in arms
+about this commercial interest. How many
+of you I know there's a younger crowd.
+How many of you are old enough to
+remember Schoolhouse Rock? Awesome. So,
+like you, I learned about how Congress
+works by ABC Saturday morning
+television. And they told us there's a
+phrase in this. I I looked up the
+script. It said some folks back home
+wanted a law. So they called their local
+congressmen, implying that the people
+that have the need are the citizens and
+the people that write the law of the
+congressman. Imagine how surprised I was
+when I read this. Philadelphia was
+embarking on the research phase of the
+project when Verizon successfully pushed
+a bill through the state legislature.
+Verizon's writing legislation.
+How does that work?
+Now, it turns out this wasn't even our
+biggest problem because another
+company's headquartered in Philadelphia
+named Comcast.
+They had put a bill on Governor Rindle's
+desk, proposal drafted by lobbyists for
+the telecommunications companies. This
+isn't what I learned on Schoolhouse
+Rock.
+The governor whose bill that was on the
+desk of is Ed Rendle. He's on the right.
+Before he was governor, he was mayor of
+of Philadelphia. The gentleman in the
+middle is named Michael Nutter. He would
+go on to replace Street and was a
+longtime council member. But the guy on
+the left was the real nemesis. This is
+David Cohen, chief lobbyist for Comcast.
+Now David Cohen is to corporate lobbying
+what Bob Marley is to Ree. He's like
+there's just there's no there's no
+second. Uh the New York Times did a
+profile of him called Comcast Real
+Repair Man in which they say he's the
+most important executive in the whole
+company and I fundamentally believe
+that. Um it also says he's probably one
+of the most savvy corporate political
+operatives in the history of US
+business. The article on the right from
+the Inquirer calls him Philadelphia's
+most powerful unelected official. I
+don't even know how you can put those
+words together.
+So, here we are. Here we are in our
+little conference room with our
+spousalenhanced checkbooks.
+And this is like a second grader
+challenging Michael Jordan to a game on
+oneonone for money. Like, we had we were
+pissing in the ocean. We had no chance.
+No chance.
+Now, guess who offers citywide Wi-Fi?
+That one's easy. Um,
+AT&amp;T would join this fight. Within two
+years, they would outlaw municipal
+broadband in over 22 states. They just
+write it into the books and and just
+took took the power of these local
+decision makers away from them. All in
+the interest of the of the cit of the
+commercial interest, not the citizen.
+I want to talk about another piece of
+telecom legislation. My my my
+partnership back in those days invested
+in telecom equipment and so we were very
+interested in the telecommunications act
+of 1996. This was heralded as the most
+important telecommunications
+reform in 62 years. Now this one's
+simple. I'm just going to use the
+headlines from Wikipedia. The
+Telecommunications Act of 1996 had two
+goals. to promote competition
+and to encourage the rapid development
+of new technologies. Let's see how
+things went.
+In 1996,
+the top four had 48% market share. Four,
+five years later, after this heralded
+legislation, they're up to 85%.
+That didn't work.
+Let's check in on the second one.
+Were they promoting innovation? This is
+a chart of VC dollars into telecom
+equipment.
+This used to be 15% of what VCs did. Um,
+within 10 years it had gone below 1% and
+a year later the MVCA stopped tracking
+it. Now, if you want to talk to one of
+the expert VCs in telecommunications
+equipment, it'll be easy to do because
+they're retired.
+This market's gone. There is no more
+innovation in telecom equipment. So what
+happens here? How can you possibly have
+a super important bill signed by and
+implemented by one of the most heralded
+presidents that we've in our generation
+that doesn't just fail? Failing would be
+things stay the same and you don't
+accomplish the goal. This did the did
+even worse. It created the opposite
+thing of what it was supposed to go do.
+Let me introduce you to George Stigler.
+He's the 1982 Nobel Prize winner in
+economics and the father of regulatory
+capture.
+This is his most famous quote. As a
+rule, regulation is acquired by the
+industry and is designed and operated
+primarily for its benefit. I like to say
+regulation is the friend of the
+incumbent. Quick audience interaction
+moment. That's the one thing I want you
+to take away. So on the count of three,
+scream, "Regulation is the friend of the
+incumbent." One, two, three.
+Yes. Amen.
+All right.
+So this is this is the only slide I have
+with bullets because this is going to be
+a twominute regulate regulatory capture
+101 all from George Stigler's notes. The
+first thing he says in regulatory
+capture special interest is prioritized
+over the general interest of the public.
+Sound familiar from my other stories
+leading to a net loss for society. A net
+loss for society. That's important. The
+two mechanisms they usually use is the
+second bullet. Um limited market entry
+and price protection or even price
+increases which I'll show you more of.
+And then the mechanisms of influence are
+money made worse by Citizens United
+exposure just time around people. And
+then three revolving doors. This is
+super important. And I'll show you one
+great example of that. That's people
+moving in and out. Uh when they
+interviewed Christy on the pod the other
+day, they were talking about this in the
+military.
+All right. This is a piece of Morgan
+Stanley research from 1999.
+Someone took the time to go study five
+pieces of major US legislation that had
+happened over the years and how the
+incumbent stocks did after the
+legislation. And let's just steal a few
+sentences from this. um conclude that
+landmark regulatory action is a tendency
+to improve returns for the largest
+players in the targeted industry.
+Long-term investors should consider
+capitalizing on any temporary weakness
+caused by market reaction to regulation.
+Many attempts to increase competition or
+improve customer experience have failed.
+This is reinforcing what Stigler taught
+us. Here's a very simple quick one.
+Number of new banks in the US 2009
+nothing. DoddFrank
+Like that's what happens. All right, two
+really good stories. You might not even
+believe them because they're so
+outlandish.
+Does everyone know who Epic is?
+It's hard to know because they're not
+public. It's a very large private
+company in Wisconsin that is the largest
+player in medical ehr software, medical
+records. And this is their CEO, Judith
+Faulner. Now, in get the year right,
+2009,
+Obama put her on his health IT council.
+She was the only corporate
+representative.
+Should not surprise you that um she's a
+major donor to Obama. Now, Obama passed
+the American Recovery Act. That was his
+big piece of stimulus, kind of like
+Biden's inflation act that happened
+recently. And tucked underneath that,
+easy to hide in this big bill is an act
+that was the acronym is high-tech. It's
+this health information technology
+thing. And then they created an agency
+called ONC that oversaw it. Now, this is
+the part you're not going to believe.
+They came up with a brilliant idea. I
+have to assume she helped encourage
+this. Um, doctors would receive $44,000
+each if they bought software.
+$ 38 billion. This is true. You can look
+it up. I'm not making it up. $44,000.
+Give it to a doctor, implement some
+software. Many of you run companies.
+That'd be pretty cool, right? The
+government passed a law. If they buy
+your software, they get money. Make it a
+lot easier.
+Now, you may be thinking, are doctors
+needy? But here's the catch. You
+remember this happened because of the
+mortgage meltdown. Doctors own multiple
+homes, so they have multiple mortgages.
+So, they like
+they probably needed the assistant. Now,
+there's two more things about this act
+that are also unbelievable. First,
+there's a there's a flaw. If if someone
+said, "I'm going to pay people to buy
+software." Yeah, most people would be
+like, "Well, you're going to have a
+problem. They're going to buy it and
+they're not going to use it, right?"
+Well, they thought of that. So, guess
+what? The second phase, doctors got paid
+$17,000 more dollars to prove they were
+using it. This is called meaningful use,
+plastered all over the website of all
+the HR vendors at the time. It gets even
+better.
+So the the ONC
+decided the threshold of features you
+would need for your software to comply
+with this mandate. And I'm assuming they
+kind of took Epic's feature set and
+plowed it into this spreadsheet. But
+they got the Department of Justice to
+enforce people that didn't have the
+feature set that were getting the
+payments. And you had three record
+fines, 155 million, 57 million, 145
+million against the lesser competitors
+of Epic. Unreal.
+If you've studied uh the innovator's
+dilemma, the way startups disrupt is
+they come in with lower featured
+products, but a a feature that really
+matters to the customer and a simpler
+product and they move up. They put a
+brick wall there so you couldn't come
+up. Um, it's just amazing. Um, Obama in
+an interview with Ezra Klein said this
+was the most disappointing part of
+Obamacare. I mean, I think if any of us
+were in the room when they scratched
+this thing out, I could have told him
+that it would have failed. I mean,
+paying people to do stuff is just it's
+not going to work. Now, you may ask, am
+I am I unhappy with Judith? I'm
+disgusted with it. But
+but if I were a judge in the Olympic
+regulatory capture competition, I'm
+giving her a 10.
+This is fantastic. Fantastic.
+All right, one more. Revolving doors.
+There's one more. So many of you know
+what this is. This is a a COVID rapid
+antigen test.
+Now, this is based on a very simple
+piece of technology. Hopefully, David
+will will confirm this when he comes
+back up. Um, called a lateral flow
+assay. Now, this technology was
+developed 80 years ago in 1943, and it's
+a complete commodity. The the packaging
+almost doesn't matter. You could
+probably use the strip without it. Now,
+before I tell you what happened in the
+US, let me tell you what happened in
+Europe. Germany leaned heavily into
+rapid test. They got their scientists
+together and they evaluated
+122 different vendors and validated 96
+of them. Here they are on the right. 96
+different vendors that they okayed. And
+as a result in the German market, you
+could buy five tests for 375 or 75 euro
+cents a test.
+UK leaned in as well. They they got them
+in such numbers and so cheap they they
+distribute them to people's homes. So
+what was going on in the US around that
+time? The New York the New York Times
+did a um article like here's what's
+going on with antigen tests. First of
+all, they fought them forever. And I I
+think that may be captured as well
+because the hospitals were making a ton
+of money on PCR tests. I think they they
+made as much money as they did on
+vaccines, but that's another story. Here
+it says all the manufacturings are
+ramping up production, but right now
+they're hard to find. And then it lists
+which tests are available and they only
+list three vendors. Abbott, Elamu, El, I
+don't know, Elam, and Quidell. Three
+vendors. Now,
+you can play along on your phone if you
+want to go on LinkedIn. This guy's name
+is Timothy Stinzel.
+Now, he works for the FDA and he runs
+the group that oversees which antigen
+test gets approved. I know this because
+he would write scathing letters to the
+ones he rejected that you can also look
+up online. Now, guess what? You're not
+going to be surprised.
+Five years
+at Quiddell,
+four years at Abbott.
+It gets worse. President
+President Biden decided finally to lean
+into antigen tests and authorized $2
+billion to go purchase tests. He should
+have gone to Germany and bought them out
+of the stores. But instead,
+but but instead he he bought them from
+these guys. Now, I don't know if you've
+ever used this test. All that packaging
+is complete and utter [&nbsp;__&nbsp;] and
+unnecessary. That popsicle stick thing.
+Like, everyone else uses the lateral
+flow essay plastic thing that you can
+buy super cheap. This was
+overengineered. Um, and then and then I
+got really pissed because the Wall
+Street Journal wrote an article that was
+a victory lap for Abbott's antigen test
+execution and how well they did in the
+market. And I've never met Briana or
+Peter, but I I hope they get to watch
+this because the first thing they should
+have done in the article is put a big
+picture of Timothy Stenzel because
+that's why this thing worked. And they
+they they write the eye-catching lo card
+on a lollipop stick as if oh, it was so
+cute everyone bought it. Like
+if you tried to sell that thing in
+Germany, how many would sell? Zero. like
+at $12 a test. Yesterday I just for
+kicks kind of. I went online. This is
+Walgreens and CVS antigen test. There's
+seven tests. They're all exactly $23.99.
+What is that? That's not a marketplace.
+That's not open competition. Um I also
+went on Boots the the famous UK. They're
+the tests are about a $150$160
+per today. So you have a 6x differential
+in these tests today. And by the way,
+I'm not even talking about the fact that
+our citizenry may have been, you know,
+much enhanced by having rapid test at a
+much lower price if they were treated as
+the commodity they were. Of course, they
+weren't. Now, Washington's got its eyes
+on Silicon Valley. And it's from both
+sides. We got Lindsey Graham. We got
+Elizabeth Warren. There's an article
+here that says Major Green agrees with
+AOC breaking up big tech. And you say,
+why? Why do why are they so interested
+in tech? This is a poll of voters.
+Voters don't care. V voters are more
+worried about the industries where
+there's a lot of regulatory capture, but
+they want to come after tech. I think I
+know why. I think they want them in the
+system like the military, like finance,
+like telecom. They want them in the
+system because there's money. Now, if
+Elizabeth Warren attacks big tech, you
+think they might go fund the competitor.
+And you probably can't read this, but
+this is open secrets. spend time on open
+secrets. Four of the top 10 contributors
+to Elizabeth Warner, Alphabet, Apple,
+Microsoft, Amazon. You attack them, they
+have to come to you.
+Some of the some of our peers in Silicon
+Valley seem to want them to come too. I
+think they've read Stigler Circle.
+Please regulate us.
+Brian's on later, so this is risky. The
+more regulation,
+the more I think he's right, by the way.
+The more regulation, the better for
+Coinbase. That's exactly what Stigler
+would say.
+Marker Zuckerberg needs, wants, and must
+have regulation.
+I get it, Mark.
+And Sam's just getting started. He wants
+regulation, too.
+Now,
+there's a really scary thing in this AI
+space. The the incumbents that are
+running to meet with all the government
+um are spreading something that I don't
+think is accurate or fair. They're
+spreading a negative open-source uh
+message. And I think it's precisely
+because they know it's their biggest
+threat. And I think what Meta has done
+with Llama 2
+is actually super interesting. All
+right, I'm going to wrap up with three
+things. Um, three takeaways. First, I'm
+not convinced we're very good at
+regulation. All four of the stories I
+told you were failures. Like, they were
+a net loss for society. As Stigler says.
+This is a picture of Patrick Mahan, who
+is one of the best senators I think
+we've ever had. He kept a picture of a
+pen behind his desk as a reminder. He
+felt like Congress should have to have
+something similar to the hypocratic oath
+that doctors have first do no harm. And
+the reason he has that point of view is
+he feels personally responsible for the
+homeless situation in America. He signed
+an act with JFK in 1963 that shut down
+the mental health institutions. It had a
+second piece that was supposed to prop
+something up. This happens with with
+policy. Second part didn't happen.
+Emptied out the mental health. And when
+everyone talks about the homeless
+problem, they should read this interview
+with him because they don't go back and
+talk about this issue, but it's very
+relevant. So, I don't think we're very
+good at it. That's the first thing.
+Second, I think regulatory capture gives
+capitalism a bad name. A couple people
+yesterday said, "Oh, we got to fix
+capitalism." I think where capitalism's
+broken is where the captures the
+highest. Right? Like I just showed you
+some examples.
+You've you've seen these charts of
+price, you know, across time and the
+highly competitive products coming out
+of Silicon Valley are dropping like
+crazy. It's health care and education
+and those kind of things where you have
+price increases. Lastly, one of my
+favorite authors is Matt Ridley, and
+these two books um really cover the the
+span of human time. And he talks about
+how three things: technology,
+commerce, and the sharing of ideas um
+leads to prosperity for people, leads to
+increases in standard of living. And my
+big fear is that regulation is the
+opposite of this. It's a blocker to
+innovation. So if you care about
+prosperity
+and you kill innovation, you're going to
+kill prosperity from my point of view.
+So in closing, the reason I picked this
+title is Silicon Valley's 200 2851 miles
+away from Washington. And as these
+people put their eyes towards this, I
+would state the following. The reason
+Silicon Valley has been so successful is
+because it's so [&nbsp;__&nbsp;] far away from
+Washington DC.
+Thank you.
+Oh, he's talking. He's Okay.
+Ladies and gentlemen, Bill [&nbsp;__&nbsp;]
+girly.
+Well, that was
+it. That was it. Highlight. I think we
+know the best.
+Let's all go home. I think the best the
+best talk in the history of allin and
+and uh we need to get it out there
+immediately so it can start going viral
+and I think it will go very viral.
+Yeah.
+Well, you know, I'm just a guy with some
+experiences and I put it together in the
+deck and if you take from it whatever
+you get that's where it's going to go. I
+think the regulatory capture is bad.
+So whenever whenever you have it, you
+got to run far far away from it.
+Basically, this is what we do at poker.
+Girly, we let's let you you put a pin in
+it. What's the solution? What can we do?
+I figured you'd go there.
+Yeah. Um,
+you know, the first thing
+is politics an answer?
+Yeah. The the the thing that's
+actionable from my point of view is just
+massive transparency. So, I'd love to
+see what Open Secrets does be kind of
+mandated and way more transparent. Like
+the minute a check lands, everyone
+knows.
+Put it on Twitter. Yeah. Exit.
+Yeah. Whatever. Right. Like expose the
+hell out of it because there's a lot of
+like those meetings I had don't show up
+as tropos. They show up as all those
+people. Like there's a lot of
+obfuscation that's out there. I think
+that one's potentially solvable. Um,
+that was really the only thing I thought
+blockchain could handle. But anyway,
+that's just aside. Um,
+it gets trickier.
+Brian was watching it, by the way.
+It gets trickier after that one. Um,
+you guys talked about Christie with this
+when you're talking about the
+military-industrial complex. This
+rotating door thing is a massive
+problem. If you study, there are tons
+and tons of senators, presidential
+candidates that are in the Senate.
+They're out for two years and then they
+come back with $12 million in their
+pocket,
+right?
+And that's happening all over Washington
+all the time. And I don't know how and
+and Christie said it's impossible
+because they'd have to vote to stop this
+on their own. And I I think Citizens
+United should go away, right? But it but
+it requires
+it requires the same vote, you know. And
+girly is the existing regulatory capture
+like entropy it only goes in one
+direction or is it feas is it feasible
+to unwind?
+It feels that way. I mean, one one of
+the candidates you had on or maybe two
+were talking about like shutting down
+stuff that ONC got shut down, which is
+actually kind of unusual and nice,
+but yeah, I I don't I don't know. I
+don't know. I don't see there there have
+been attempts with with certain um
+presidents, you know, in well in the
+past of kind of deregulating, but but
+even if that's done by the regulators,
+like I'm not even sure that totally.
+How much of uh Oh, go ahead. Sex. Well,
+I was going to say, you know, on on AI,
+I I think that what um what was
+discussed at that hearing that Sam Alman
+testified at, I think it's an
+existential threat to Silicon Valley
+because, you know, what Sam proposed
+was, well, we're we should have a new
+regulatory agency kind of like the
+Atomic Energy Commission and we should
+have standards before AI software can
+get released and it gets vetted and
+we'll help you write the standards. You
+remember all this? That's great. And the
+reaction
+with pleasure
+and the reaction of the politicians. I
+remember like all these senators were
+quoted saying, "Wow, this is such a nice
+young man. This is
+this is not like the other tech CEOs
+who've been testifying up here
+basically, you know, uh, defying us, you
+know, how do we work with this person
+and they were saying all these nice
+things about him?" But the reason why I
+think this is an existential threat is
+because the cutting edge of all software
+development right now is AI. You look at
+what every software company is doing. AI
+is now part of their road maps. So if
+you subject AI to regulation, you're
+basically turning software into the next
+big pharma or into the next, you know,
+military-industrial complex. Washington
+will run the software industry and
+everything we do in terms of funding
+these little startups, you know, these
+companies with, you know, fresh ideas,
+it'll just be overc
+industry. Well, that's similar to what
+happened with that that there was a
+there was an Excel spreadsheet in that
+EHR example of the features you had to
+have in your product. Like, can you
+imagine the government like mandating
+features of a software?
+You got some product managers going to
+Washington getting approval for where
+what they add to the product.
+Another answer um might be just uh to
+your original question, Dave, is just
+awareness. So, getting people more aware
+and hopefully this kind of thing can
+help. Um, I think knowing what
+committees your legislators are on and
+when they're traveling to visit other
+states and other companies and stuff
+that have nothing to do with your local,
+you know, situation they're supposed to
+be looking after. That'd be helpful,
+right?
+But but once again, the people that
+to mandate this are the ones doing it.
+Is it just the nature of government that
+it has to scale with time that it it it
+because we we all think about the
+government sitting outside of a market
+but the government is a player in the
+market. They consume capital and they
+distribute capital and the US federal
+government now is the largest consumer
+and distributor of capital in the
+history of humankind of of of our
+civilization.
+I fear and and you had Dalio's charts of
+decline. You know, I fear that this is
+one of those things that causes the
+decline. And I fear that that democracy
+and capitalism, you know, will kill each
+other over time, you know, for this very
+reason. Um, I might point that we study
+the UK a little bit more. They've kind
+of gone longer than most societies do.
+They have some clever policies like
+losing party pays, which causes onetenth
+of the uh litigation that we have. And
+so I I wonder if there's something to
+learn from from our um our previous
+ancestors.
+The thing when you dip your toe into
+that world that is shocking is it's the
+low how low the threshold is of the
+dollars it takes to actually influence
+hundreds of billions of dollars of laws
+getting written. That's where you also
+see some of this wrong-mindedness
+because you can get any Tom, Dick, and
+Harry to co, you know, cobble together
+enough money to get in front of that
+senator or that congressperson and all
+of a sudden you see it reflected in law.
+It's shocking. Actually,
+I was talking some of you know David
+Crane who um who who's an operative in
+California helping people try and get
+things done and I asked him about this
+and he said the one thing you have to
+keep in mind is that is the duration of
+how long that person's going to be
+there. So someone from Silicon Valley
+has a problem they run to Washington and
+they think they get one meeting but are
+they coming back or you know the
+teachers union is going to be there for
+a hundred years
+right? So if you cozy up to them,
+it's forever.
+It's forever money.
+Yeah.
+Why' you do this personally?
+Why' I do this?
+Yeah.
+Just frustrated like just like
+you're mad as hell.
+Andrew's powerful.
+I mean, you notice
+you you've worked on this for a while.
+This this presentation, I saw an early
+draft. It was clearly coming together.
+It's something you've been thinking
+about a long time.
+Long time. I I've kept notes on it for
+15 years. is every time I see something,
+I write it down.
+Yeah. And you're at a point in your life
+now where
+Well, that's true. Yeah.
+Yeah. Like I I probably can't get a
+meeting in Washington.
+I mean, [&nbsp;__&nbsp;] it.
+I have trouble with investment banks
+also.
+What um
+you saw you saw the guys um before
+talking about energy. Um it's a huge
+industry. There's enormous amounts of
+regulatory capture and
+um and lots of manipulation of laws in
+that sector. Um, from that perspective,
+in that lens, are you pro- fusion and
+the possibilities of fusion? Not less
+less technologically, more
+Yeah. Well, not just fusion, but but
+fision. I just retweeted something like
+an hour ago. Apparently, they're going
+to that one of the the plant, one of the
+fision plants that's been shut down in
+America. They just voted to reinstate,
+which is a great, you know, great
+progress.
+They turned around the anti-uclear
+sentiment in what, five years, it seems
+like,
+hopefully. But there's a long way to go
+because one of the reasons fision's so
+expensive in the US and way more
+expensive than China is the regulatory
+burden.
+Exactly.
+China's building 400 nuclear fision
+power plants right now. That's their
+plan. That's their 20.
+It's not just in China. And if you look
+at the if you look at the antigen test
+thing, imagine with the complexity of
+well no this is what but but this is
+what I want to ask you is like you know
+these large energy generators the the
+existing utilities what is their
+incentive to not try to pull a Comcast
+when they see Bob and David close to the
+finish.
+Oh you have to imagine that the oil and
+gas industry's been doing that this
+whole way right I would assume
+for traditional nuclear. Yeah.
+Yeah. For traditional nuclear. Yes. So I
+would see I would I wonder and I say
+this with a lot of naive I wonder if if
+you could use open source around vision
+um to try and lower the cost of building
+it and and try and get more consistency.
+Well the big Achilles heel and energy as
+an example where it's impossible to to
+capture regulatory is that the big
+opening they left is that every
+individual here can become their own
+utility and they're subject to no
+oversight. And so the real question is
+to your point if an open- source or some
+very small modular reactor can be put in
+the hands of every individual and then
+they can make an individual decision
+that's very hard to regulate.
+But in the solar market which I know you
+spent a lot of time in the rules on
+whether or not you can run power back in
+and at what rate.
+That's right.
+Are across the entire country.
+That's right. Right, guys. Um, I know I
+speak for everyone when I say that this
+has been an unbelievable highlight and a
+real treat. Bill, thank you so much for
+doing
+Bill.
+Wow.
+I'm going
+with your
+[Music]
+besties are going all in. We'll let your
+winners ride
+out.
+We open source it to the fans and
+they've just gone crazy with it. Love
+you.
+[Music]
+Besties are
+my dog taking your driveway.
+Oh man, my will be.
+We should all just get a room and just
+have one big huge orgy because they're
+all it's like this like sexual handship
+and we just need to release someone
+else.
+Wet your feet.
+We need to get Mercy's going all in.
+[Music]
+I'm going all in.

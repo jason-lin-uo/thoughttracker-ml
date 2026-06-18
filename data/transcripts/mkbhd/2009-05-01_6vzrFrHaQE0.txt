@@ -1,0 +1,104 @@
+# HD Tutorial: Produce any Video in 16:9 HD
+# https://www.youtube.com/watch?v=6vzrFrHaQE0
+
+yo what's up guys it's marcus brownlee
+from mkbhd here with another tutorial on
+how to render a 4x3 video in 16x9 hd
+format
+now this particular method is useful
+like if you have a 43 4x3 shooting
+camera and you don't mind it being
+stretched like i do have an hd camera
+camera but if you do want uh to get your
+videos in hd so that your user can watch
+in like in the highest quality
+then you can use this piece of software
+so the link to download this piece of
+software mpeg stream clip is in the
+description
+and what we're going to do is just
+do a sample little video
+for you uh using mpeg stream clips so
+this is what it looks like when you open
+it up it's very simple looking interface
+uh we have three files or four files in
+order taken here uh that we want to
+uh render in hd with mpeg stream clip
+and i also have the introduction now
+these are all avi files so they're all
+compatible so go to file open files and
+this is just very very simple way of
+doing it go to the desktop and in order
+select the files that you want to use so
+the introduction
+and the one two three four i hold ctrl
+as i select these clips then i hit ok
+so now uh mpeg stream clip will open up
+all these files in hd or not in hd but
+uh this is obviously a preview you're
+getting of the unboxing of those
+headphones but uh yeah basically all
+those clips are in order so now what
+we're going to do to render this in hd
+uh what we're going to do is go to file
+and export to mpeg4 and mpeg4 is what i
+use to get the absolute highest quality
+here's a few things we're going to do to
+get to the highest quality we're going
+to check the de-interlaced video button
+up by 30 frames per second uh by frames
+per second select 30
+select the 1280 by 720 hd tv 720p option
+and last but not least drag the quality
+slider now uh this is different
+depending on what you want the quality
+or the file size to be like but we all
+know that h.264 is the highest quality
+compression but it's going to be a
+really big file size now yesterday i
+uploaded a video and it did get really
+good response but it was
+985 megabytes and it took me a good hour
+and a half to upload so be wary of your
+file size you cannot apply anything more
+than a gigabyte i believe so if you drag
+this past about 80 the file size will
+start getting big so i'm going to drag
+this to 80 and we're going to do is hit
+make mp4
+and go ahead and name it i'm just going
+to name it name and it's what it looks
+like when it starts to encode your video
+in 720p uh so you'll see right here um
+i'm not going to minimize it but this is
+the original window up in the left-hand
+side you'll have the exporter preview
+and we can see it's nice and widescreen
+it fills up the entire it'll fill up the
+whole youtube screen in 720p and up here
+it'll show us the encoding process how
+far we are in our movie the the bitrate
+exactly how far we are so it's one
+percent done obviously i'm not going to
+finish this for the video but yeah you
+get the point so i'm going to hit stop
+and yeah that's that's how you render 43
+videos in hd so if you do want to get
+the the highest quality out of your uh
+videos using
+not only camtasia studio 6 which i did a
+video on but now i'm out of any video
+that you do uh that you do use a non-hd
+camera for if you want to get into hd
+now you know how to do it so yeah if you
+like this video go ahead and rate five
+stars i love the ratings guys keep up
+the comments this is really great and um
+yeah subscribe if you haven't already
+and a lot more hd tutorials to come if
+you do have a request go ahead and
+subscribe and message me through youtube
+and i'll try to get to a request video
+anyway this has been mkbhd thanks for
+watching this one and stay tuned for
+more peace

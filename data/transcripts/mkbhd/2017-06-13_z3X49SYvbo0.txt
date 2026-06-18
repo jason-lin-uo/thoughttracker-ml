@@ -1,0 +1,189 @@
+# Adding 140 TERABYTES to the Studio with Linus!
+# https://www.youtube.com/watch?v=z3X49SYvbo0
+
+Hey, what is up guys? MKBHD here and
+this is a little story about how I've
+managed my footage over the years. So,
+I'm a YouTuber obviously and in the very
+beginning, most of those early videos
+were super simple. I would literally
+just hit the record button and then when
+I'm done, hit stop and then upload that
+video file.
+All right, welcome to my first video.
+There was no editing, no extra files,
+none of that. I could just keep the file
+in a folder on my desktop, a couple of
+megabytes, upload it to YouTube, and
+then share it with the world. And then
+it got a little more intricate. Uh, I
+got a camera, I got editing software,
+and I started actually stitching
+together a bunch of different clips, and
+then I uploaded that final video file to
+YouTube, and then I just deleted all the
+raw footage. And all the way up to the
+beginning of last year through all the
+camera upgrades and all the evolution of
+how I made videos, I've always put
+everything together, uploaded the final
+video, then deleted the footage, just
+keeping the final video file. And that
+was actually fine because anytime I
+needed to go back and get some previous
+footage, I could just grab it from that
+final video file. And that was fine with
+me. But now it's 2017 and we're not just
+shooting 1080p and 4K video files
+anymore. We're shooting 5K, 6K, 8K video
+files to the point where if I want to go
+back and use them, I'm not getting the
+full quality out of it. So, if I want to
+go back and use clips from older videos,
+I'm grabbing a 4K version of something
+that was originally shot in RAW 8K,
+which isn't the end of the world or
+anything, but imagine in a couple of
+years having the full 8K clips would be
+able to breathe new life into them on
+new platforms. So, late last year in
+2016, I decided I'm not going to delete
+all the raw video files anymore. I'm
+going to keep everything or everything
+that's useful. So all the high
+resolution videos, everything so that it
+can be manipulated again and shared
+later without losing any quality. And to
+do that, I would need a lot of storage.
+The average 1 minute 8K video file
+coming off this Helium sensor at 8:1
+compression is about, depending on
+what's in it, about 10 to 12 or 15 gigs.
+So to put it in perspective, that Casey
+Studio tour, that video shoot we did,
+all the videos we got totaled about a
+terabyte. I understand it's completely
+overkill for YouTube in 2017, but again,
+think of YouTube in 2025, 2030. So, a
+couple months ago, I got this thing.
+This is the Promise Pegasus 2. It's a 48
+terbte Thunderbolt 3 raid array. And I
+started keeping all the original footage
+and media on this along with the final
+video file for every project. And to me,
+and a lot of people, I'm sure, that's a
+perfectly good solution for a long time.
+huge amount of storage, locally
+attached, fast, really quiet, sits right
+on your desk, you can edit off it, it's
+great. But if you do the math, at around
+a half a terabyte per project, that's
+less than 100 videos before it's full.
+So that's where Lionus from Linus Tech
+Tips and Seagate and 45 Drives and
+Unrade come into play. This is a 10 TB
+hard drive. Seriously, 10 terabytes in
+the palm of my hand. This was literally
+a fantasy a couple of years ago. Now
+it's real. And this is what's called a
+Storinator AV-15 by 45 Drives. This is a
+high-capacity storage server with 15
+drive bays, and yet still small enough
+that you can put it right next to your
+desk. It's about the same size as a
+regular PC. It has a Xenon CPU inside, 8
+gigs of RAM, a 650 watt power supply,
+and a 10 GB Ethernet connection, and has
+all these fans in here, but when they're
+running, they're pretty quiet, so barely
+audible from like 10 feet away. So,
+Linus brings this thing over and then
+basically starts handing me these
+drives. 10 terab, 10 terabytes, 10
+terabytes, 10 more terabytes. And we
+start populating the Storinator with
+these drives. Not going to lie, it was
+really fun to add them in. He's got
+this. He's got this. He slides it into
+the rail. He aligns it with the bottom
+rail. He makes a slight adjustment
+and it's in. So, we get to seven drives
+of the 15 slots because the rest of them
+were actually delayed because of
+shipping. But a couple days later, I get
+the rest of the drives and install them
+myself. Bam. 10 terabytes. 10 terabytes.
+10 terabytes. And just like that, the
+140 terbte RAID array is up and online.
+15 10 TB drives, one for redundancy, a
+super secure backup now for all the raw
+footage I shoot from here on out. So,
+Lionus, what are some of the advantages
+of the setup we're looking at? Tell me
+about it.
+22 seconds this guy gives me, but I'm
+going to do my best. This is a fantastic
+NAS that I flew out here to deliver for
+the consumption of the one and only
+MKBHD and it's pretty flipping awesome.
+It's built by 45 drives in a custom
+enclosure using server grade hardware
+like this super micro motherboard that
+has 10 gigabit network speeds. So, if he
+wants to be able to dump footage on here
+super fast, then that's going to be a
+thing. And we've gone ahead and equipped
+it with 15, some of them are still in
+the mail, 15 of Seagate's Iron Wolf Pro
+Naz hard drives. So, these are special
+because they have a 5-year warranty.
+They're rated at 300 terabytes of yearly
+data or something stupid like that. And
+they include data recovery service
+within the warranty period. So, that's
+really special because we're running
+them on unrade, which means that because
+we're not striping the data, the odds of
+recovering our data fully in the event
+of a catastrophic failure where multiple
+drives die is actually much better.
+Other benefits of unrade, though I'm not
+100% sure how he's going to use them,
+are things like being able to run a Plex
+server. Yeah, I'm getting a no. Okay. Uh
+being able to run Windows in a virtual
+machine. I'm getting a no. Um being able
+to add high-speed SSD caching for
+multiple people to work off it. If you
+expand the team, I'm getting the nod.
+Yes. Okay, I'm on a roll here. Uh how
+about choosing things to back up to
+cloud storage like Dropbox? Getting the
+nod. Yes. Okay. So, it can do all that
+crap. So, this is pretty much the only
+way to have more than 100 terabytes of
+storage easily accessible in one place,
+at least right now with current drive
+densities. Maybe that'll change in a
+couple years. Maybe we'll have some
+crazy 50 TB SD cards or something like
+that, but until then, this is what that
+looks like, and I think it'll be a
+pretty fresh start for starting to keep
+everything. Combine that with the pretty
+fresh looking front plate from 45 Drives
+and uh the sweet little chassis we have
+it in the airy server case. Uh I think
+that's a a pretty solid start as a a
+little little piece in the studio, too.
+So, that's pretty much it. Thank you for
+watching. I hope you enjoyed. Maybe you
+learned something. There'll be links in
+the description below if you have any
+questions about any of this stuff, but
+uh I'll hang out in the comments
+section, too, and uh answer any
+questions you might have. Thank you for
+watching. Talk to you guys in the next
+one. Peace.
+[Music]

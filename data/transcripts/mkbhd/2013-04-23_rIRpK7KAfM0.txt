@@ -1,0 +1,191 @@
+# Google Babel: Explained!
+# https://www.youtube.com/watch?v=rIRpK7KAfM0
+
+Hey Google, define babel. Babel, a
+confused noise, typically that made by a
+number of voices. All right, then. This
+is Google Babel explained.
+Hey, what's up guys? MKBHD here and
+let's say I get a Google Talk message on
+my phone, my Android phone, as I'm
+walking into my apartment. I answer the
+message and I start having a
+conversation with this person. And then
+I put my phone down and I'm done with
+the conversation. And then I open up my
+tablet and I have a new notification, an
+unread message, but I already read that
+message. It's already completed the
+conversation on my phone. That's fine. I
+swipe to clear that message. But then I
+go back to my computer and I have a
+Gmail tab open and I have another unread
+notification from Google Talk of the
+same completed conversation. That is
+just one of the problems Google now has
+with their messaging platforms. But the
+real problem right now is that Google
+has multiple chat services, multiple
+messaging and instant messaging
+services. And that's the real problem.
+is because they don't talk to each
+other. Their notifications don't sync.
+You can read a conversation on one and
+you have to pick every single time you
+want to chat with someone how you want
+to communicate with them. Do you want to
+use Google Talk? Do you want to use
+Google Voice? Do you want to use Google+
+Messenger? Do you want to use Gmail?
+What do you want to use? Do you want to
+use a Google+ Hangout? How do you
+communicate with this person? It's a bit
+of a mess right now. So, Babel is the
+expected service that Google will use to
+essentially brand these all into one
+social messaging platform that basically
+replaces all the ones that currently
+exist. It's a pretty smart idea. It may
+seem like a minor thing, but I'm
+expecting this to be a pretty solid
+thing, pretty big chunk of what Google
+talks about at Google IO this year in
+2013. So, what's Babel going to be like?
+What are the features going to be like?
+Well, the number one expected feature is
+it's going to have a unified user
+interface across every single platform.
+So, it's kind of a mess already right
+now. For example, with Google Talk, you
+notice the way it looks on the desktop.
+You use a Google Talk conversation in
+Google+, it'll have a direct link to a
+Hangout and it'll have a bunch of
+different Google+ related things. But if
+you use it in a Gmail tab, it looks
+different from that. And if you use it
+on your Android phone, it looks even
+different from that. And you also notice
+Google+ Messenger is totally separate
+randomly inside of the Google+ app,
+tucked away in there. Doesn't talk to
+any other services for some reason. So,
+they all look different and they all
+don't talk to each other. So, Google
+Babel along with unifying all the
+different messaging services into one
+core service, it'll all look the same.
+So, you know it's the same service.
+Number two is that everything is
+expected to sync and talk to each other.
+So, Babel on every single platform will
+notify itself. And if you take pick up a
+conversation on your tablet, the
+notification will disappear from every
+other device that you own that has Babel
+on it. And number three, expect video
+chat. Expect Google+ Hangouts to be very
+tightly integrated. And expect your
+whole Google+ account to be very tightly
+integrated into this service. After all,
+it is Google making it. And Google
+already has a pretty good idea of how to
+build and integrate things with each
+other that it already controls. So,
+expect Google+ Hangouts. Expect a button
+inside of Babel to directly take you to
+a video chat that will end up being a
+Google+ Hangout. In fact, it might even
+be called Plus Babel, but I wouldn't put
+money on that. But again, expect the
+chat hangout feature to be there. And
+lastly, number four, expect a bunch of
+little improvements. For example, in the
+clients we use today, like Google Talk
+and Google+ Messenger, there are a bunch
+of little hiccups and quirks with, for
+example, group messaging. Uh, so expect
+some improvements there. There was also
+said to be more than 800 emojis and
+emoticons, so sources close to it are
+pretty confident this is going to be a
+pretty well-built system. And also
+things like sending pictures and maybe
+videos and small files the way you can
+with Skype now. So, it's really taking
+on the bulk of all the different
+services we have today all at once. Now,
+Babel will be most successful and be
+able to separate itself from other
+services similar to this, which I'll get
+to in a second, if it's available
+everywhere. And Google's pretty good at
+that right now. It kind of covers all
+its bases, even though they don't
+overlap. But if Babel is available
+everywhere, we can expect to see it
+right off the bat in iOS, on Android,
+with a Chrome app, with a Windows app,
+with an OS 10 app, and with a web app.
+And that way, it'll pretty much cover
+the majority of people who are going to
+be using the service. There's no talk
+really about a BlackBerry OS or Windows
+phone app yet, but hey, you never know.
+That could be a priority later. Now,
+Google's not blind to the competition.
+What is the difference between this and
+iMessage? Because iMessage is basically
+Apple's equivalent of this. Well, the
+main difference is its availability.
+Right now, I can't use iMessage if I
+don't have a Mac or some sort of iOS
+device. So, if you have an iPad or an
+iPhone or a Mac, you can use iMessage
+and talk to your other friends who have
+those same devices. But there's no web
+client, so your Windows buddies won't be
+able to talk to you on iMessage. And it
+kind of talks to your SMS as well. So,
+that's nice if you have an iPhone. But
+the idea of Babel is to be able to use
+it everywhere on every single device.
+Even if you have a Windows phone, you
+can go and log into your browser and
+continue conversations there the same
+way you'd be able to with Gmail. So
+overall, Babel may seem like a minor
+thing at first, but I've gotten so many
+questions about it that it's turned out
+to be a pretty major thing in my mind as
+we approach when can we expect to see
+it. I would expect to see it alongside
+the next or latest version of Android
+Key Pi at Google IO this year. So just a
+couple of weeks away from that. Uh and
+expect it. It's pretty much imminent
+now. Almost the name is basically
+confirmed. We've seen leaked screenshots
+of the user interface and little
+dialogue boxes that have been popping up
+on people's screens by accident. So,
+it's pretty much confirmed that it's
+going to be called Babel. B- A B E L.
+Uh, so if you guys are wondering, it's
+just around the corner and we should be
+seeing it sometime very soon. So, that's
+it. Just a quick video talking about
+Google Babel. Again, if you like videos
+like this, definitely be sure to hit
+that like button below and the subscribe
+button if you want to see more. And, uh,
+hopefully we'll get some uh, pretty
+awesome videos coming this week and
+next. There are some awesome awesome
+videos coming up. I can just tell you
+that. Guarantee it. Either way, thanks
+for watching and I'll talk to you guys
+in the next one. Peace. And uh if you
+want bonus points, Google, throw chatads
+in there. I love chatads.
+[Music]

@@ -1,0 +1,126 @@
+# CwapC2jZ_JI
+# https://www.youtube.com/watch?v=CwapC2jZ_JI
+
+hey what's up youtube welcome to another
+hd tutorial in this video i'll be
+showing you how to remove unwanted
+background noise from your videos and
+from your audio using two programs okay
+the first one i'm going to use is
+audacity
+you've probably watched my audacity
+tutorial already but if you haven't go
+check it out showing you guys how to
+download audacity and a brief intro
+so what we're going to do is remove
+the background noise and audacity so i
+have a sample clip here and it has a
+little bit of background noise in here
+just a little bit of white noise that i
+might want to get rid of especially in
+this ending part right here what i'm
+going to do is select a part just by
+clicking and dragging and letting go
+when i'm done and this is the part i've
+selected with the white noise in it so
+i've intentionally paused at the end of
+my speaking to give it a chance to
+realize that's white noise
+now that i've selected i'm going to go
+to effect and go down to noise removal
+click it and you'll have to go step one
+is to click uh select a few seconds of
+just noise so audacity knows what to
+filter out then click get notice profile
+so we're going to we already selected it
+we select get notice profile
+and then we're going to select the
+entire track just by clicking and
+dragging over the entire thing
+and we go to effect and we go down to
+noise removal again and this is where we
+select all the audio which we already
+did and choose how much noise you want
+filtered out so i'm gonna a good rule of
+thumb is to drag it all the way to less
+and to preview it and you obviously
+won't hear the preview but you're going
+to hit the uh oh you did hear it but
+yeah we hit the preview button and you
+realize um if you want more or less
+audio taken out i'll drag it to about
+where i think it's done and after you've
+heard the preview again hit remove noise
+and the noise is already completely
+removed so if you were to play it back
+you might not hear it but it actually is
+completely gone and all your um all your
+background noise is good so you'll be
+able to focus exactly on my audio and
+i'm going to try to use it for this
+video too
+so that's how you do it in audacity and
+stay tuned for a lot more audacity
+tutorials uh to come so uh let's open
+the second way which is to actually do
+with the camera file in camtasia studio
+six so we're gonna do is import media
+and we're just gonna import any random
+video here i'll just go into
+my videos i have a few videos i'll
+import
+obviously an introduction video isn't a
+great idea because it has music in it
+but again if you were to import a camera
+file with you speaking uh you would want
+to do this kind of thing so i just drag
+your file to the timeline it has to be
+on the timeline uh before you do
+anything with it and you obviously
+choose your preset i'm going to choose
+my hd preset
+and if you do want to know how to use
+that or make that hd preset just go
+ahead and watch the video it's very good
+so once you have this we're going to
+select where we want uh to do the noise
+removal so i'm going to zoom in here
+and say there's a part um
+i don't want to move it into in the
+introduction but after the introduction
+when i'm speaking i'm going to highlight
+that part where i'm actually speaking
+and this is the part where i want to
+remove noise
+so we're going to go up here to the edit
+tab and we're going to go to audio
+enhancements
+and while this region down here is still
+selected we're going to hit manu we're
+going to go automatically try to detect
+noise on the timeline
+and just hit uh remove nice
+and there you go it's finished removing
+the noise from the timeline so now when
+you do play it back and by the way the
+region that's selected afterward is the
+part where it's identified you're
+actually you have white noise so you can
+go ahead and play it back and just make
+sure you know
+that that's the way you like it now if
+you don't like that you can obviously go
+ahead and hit the restore noise button
+and restore all the noise that was there
+before and when you're done hit ok
+and your audio has been fixed
+so that is how you fix
+noise background noise white noise
+computer running noise in the background
+um in two different programs camtasia
+studio six obviously audacity so if you
+did like this tutorial go ahead and
+subscribe there are a lot more tutorials
+to come as well as my previous videos
+which you should probably check out and
+uh thanks for watching this one peace

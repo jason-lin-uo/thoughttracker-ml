@@ -1,0 +1,241 @@
+# Top 5 Ubuntu Phone Features: Explained!
+# https://www.youtube.com/watch?v=NSWOvw5N4nU
+
+hey what's up guys MKBHD here and today
+we're going to be talking about auntu
+phone now a lot of people have been
+asking me to do a video on auntu phone
+as it's kind of come into its broadest
+light recently it's been very popular it
+was at CES where a lot of people got
+their first Hands-On and first
+impressions of it but basically it's a
+really new thing so uh let's go and talk
+about
+[Music]
+it what is it well first of all it's an
+operating system auntu phone is the name
+just like we see Windows phone on all
+windows phone phones we see iOS on every
+iPhone we see Android on a ton of phones
+so auntu phone is a new operating system
+that will run on other phones now what
+devices and phones will it run on well
+that's a good question because it's not
+completely answered yet but in all the
+demos we've seen in all the videos of at
+CES and everything it's running on a
+Samsung Galaxy Nexus which is Google's
+last generation development phone not to
+say it's an old or a bad phone but it's
+one-year-old Hardware now according to
+jono bacon who is a community manager
+over there for auntu there are three
+possible ways that this could work
+number one is that there phones like the
+Galaxy Nexus that currently run Android
+they will be able to run auntu phone so
+just nothing but auntu phone just the
+plain operating system and that will be
+the only OS that they run not the iPhone
+not the blackberries not Windows phone
+just phones that are capable of running
+Android will be capable of running just
+a Bo phone option number two is
+something I'd like to see is higher-end
+phones with you know quad core
+processors and extra Ram these Android
+phones would run Android in your pocket
+but then when you hook them up to a dock
+and a desktop top maybe a display you'll
+be able to run a full version of desktop
+abtu Linux so it's an Android phone in
+your pocket but it's also a desktop PC
+when you hook it up to a dock and a
+keyboard and a display and the Third Way
+is certain devices will be able to run
+auntu phone in your pocket and be able
+to Dock and run the full version of M on
+your desktop with terminal and
+everything so if you're ready for that
+that's definitely going to be the full
+complete experience and I think that's
+what they're going to be aiming for but
+I definitely like option number two with
+a high-end Android phone being able to
+Dock and suddenly run a BTU on the
+desktop also an unofficial prediction
+for me I kind of have a feeling we're
+going to be seeing this on tablets soon
+as well this year just because of how
+thumb friendly the OS is but we'll get
+to that in a second you should also know
+that aunu phone is an open- Source
+operating system the same way Android is
+and what that means for Android is that
+manufacturers can come in and spin it
+however they want and then output that
+and it'll be different variations of
+Android in the end same thing will
+probably be possible with auntu phone
+there will be different spins of it
+different variations of it or maybe just
+certain customizations that uh
+developers will be able to add maybe you
+want a lock screen to look a certain way
+or you'll be able to change things
+basically the same way you can with uh
+Android so what makes this different
+from Android well the biggest difference
+I see with Android is the user interface
+the user interface is really clean
+really simple but it's also got a little
+bit of a learning curve to it it doesn't
+use any actual buttons no capacitive or
+software buttons the only buttons that
+you use are the actual power and volume
+buttons on the phone the Hands-On demos
+with it haven't been super smooth we've
+seen a lot of frame stuttering and
+things like that that but again this is
+very Alpha this is way pre-release and I
+have a certain feeling that this is
+going to be as smooth as anything else
+out there when it hits Market also
+something notable about it is that
+there's no Central home location or home
+button there's home screens but there's
+no home button that you can stamp and go
+home the same way you see on Android
+there's a home button you can go home on
+iOS there's always a physical circular
+home button that you can go home even on
+Windows phone you have a certain button
+you press to go home that doesn't exist
+on auntu phone so if you're familiar
+with auntu and Linux you probably won't
+have a problem with this but you should
+note that that it's going to have a
+little bit of a learning curve so
+without any further Ado here are my top
+five features of auntu phone starting
+with number five and that's the color
+scheme now this may seem Minor A lot of
+people are like oh the color scheme
+that's nice but a lot of people who are
+already using auntu or Linux on their
+desktops are familiar with that orange
+and you know that it's a good looking
+color scheme I have to admit and uh you
+know running on black phone so it's a
+black bezel with the orange wallpapers I
+don't know it just looks pretty good I
+thought it was notable number four is
+the built-in apps and they were doing a
+lot of these at the demo at CES that I
+got to look at and especially things
+like the gallery app it just looks
+really I don't know it looks clean it
+looks intuitive but again it's different
+so you're going to have to learn it but
+I think the built-in apps were
+noteworthy especially things like the
+gallery app which just it just struck me
+as being different the number three
+feature is multitasking and this is done
+really well very similar in fact to
+Chrome for Android when you swipe in
+from the right hand side you'll be able
+to swipe between your open applic a so
+you'll cycle through those by swiping in
+from the right hand side of the display
+it looked pretty smooth again not as
+smooth as probably the final release but
+it did look pretty good and uh but this
+is slightly incomplete I feel like
+because there was no real way to close
+open things just like in Chrome for
+Android you can close your existing tabs
+but when you switch between these you
+don't really have a way to close open
+applications you can just cycle between
+the ones that are open so it's nice the
+way it works but uh I think when it's
+complete it'll have a way to close app
+so that's pretty cool and that brings us
+to number two number two feature is just
+the overall guesture based UI so I said
+there are no real buttons involved only
+the power and volume buttons so the way
+you get around this is using the swipes
+from the top bottom and left and right
+edges of your display swipe in from the
+bottom and that'll bring you to your
+menu that's a contextual menu so say if
+you're in the gallery and you swipe in
+from the bottom you might get a share
+menu to be able to share that photo or
+edit that photo or video that you're
+looking at if you swipe in from the
+right that's where you get your
+multitasking so you'll be able to cycle
+between open application and swipe in
+from the left and that's where you get
+your basically your app launcher so
+swiping in from the left here will allow
+you to scroll up and down and open
+whatever app you have Facebook Camera
+Gallery browser whatever you want and
+you'll be able to open this just from
+the launcher on the left hand side that
+launcher on the left will asks you be
+able to bring you to the desktop the one
+of the essentially home screens on a BTU
+phone and on the top that brings us to
+our number one that is your settings
+toggles which are brilliant the settings
+toggles in a BTU phone give you really
+really fast but also really quick and
+intuitive access to your settings
+basically you swipe down from the top
+and then before you go all the way down
+you swipe to the left or to the right to
+pick the setting you want to adjust and
+then swipe all the way down to get
+access to it so it's very very specific
+gives you a lot of control and a lot
+more options actually than the quick
+Android 4.2 settings pretty much every
+other OS is really far behind in terms
+of Quick Settings toggles and controls
+so right above Android I would put auntu
+phone's Quick Settings toggles they are
+goodlooking they are fast and they are
+smooth and they are really useful so I
+like that that's my number one feature
+so there you go guys that's the new
+player in the market aunu phone should
+be coming out on some unknown range of
+devices later this year what do you guys
+think about it I mean I personally think
+I want to try this I'm not one to really
+play around with a ton of different
+operating systems I've stuck to maybe
+three total on my phones uh Windows
+phone Android and iOS but I I don't know
+I think I would give this a try this
+year considering whatever devices it
+runs on especially if it uses that
+second option where it can be maybe
+Android in your pocket and then auntu on
+the desktop that seems that seems cool
+so either way if you enjoyed this video
+feel free to give it a thumbs up below
+or a plus one or if you learn something
+feel free to reshare it it definitely
+helps out a lot with the channel either
+way thank you for watching and I will
+talk to you guys in the next video peace
+[Music]
+a
+[Music]

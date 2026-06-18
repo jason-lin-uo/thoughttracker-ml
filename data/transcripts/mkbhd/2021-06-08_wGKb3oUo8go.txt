@@ -1,0 +1,324 @@
+# Why iPhone's Features are Always "Late"
+# https://www.youtube.com/watch?v=wGKb3oUo8go
+
+24 7. hey what's up I'm Kim BHD here and
+yesterday was Apple's WWDC their
+worldwide developer conference event
+their big software event every year
+where they go over a bunch of new
+features for all their os's we got new
+iOS 15 stuff we got new iPad OS 15 stuff
+and we got Mac OS Monterey a bunch of
+other stuff now I do plan on making a
+separate video going over some stuff in
+more detail especially I want to talk
+about iPad OS 15 because I think they
+made some interesting changes some of
+which did what I wanted but also some of
+it didn't so make sure you subscribe to
+see that when it does come out but I
+couldn't help but notice yesterday
+watching all these new features get
+unveiled for the iPhone for iOS 15. that
+a lot of them were familiar because
+we've seen them before
+and Android now this isn't new at all
+like this this literally happens
+basically every single developer event
+like every WWDC we see features in the
+iPhone that we've already seen in
+Android and every Google I O we also see
+some stuff that we've seen in previous
+iPhones it's fine I actually literally
+just made a video my last one about why
+companies should copy the good stuff
+from each other
+but there is a trend that mainly Apple's
+features come later
+and also arguably typically better like
+you probably all remember how widgets
+literally widgets and an app drawer and
+picture-in-picture were all famously
+late to iOS 14 last year after being an
+Android for a while well there was a
+bunch of new iOS 15 features now that
+were just announced many of which are
+really cool
+also many of which have been in Android
+for a while
+just slightly different so I think ios's
+new live text feature is like the
+perfect example of this okay so live
+text takes any image in your gallery or
+in the camera recognizes any text inside
+of it and then just lets you long press
+to copy and paste that real life text
+anywhere else you want it feels kind of
+like magic if you can just lift
+handwritten text or printed text and
+labels Etc and take them put them
+anywhere else in any other app if you
+took a picture of a business with a sign
+out front you can long press the text on
+that sign and look them up or call their
+phone number and it'll even do some more
+complex image recognition where if you
+take a picture of a pet or something
+It'll recognize that it's a dog you can
+long press the dog and it'll tell you
+what breed of dog it is so that's pretty
+cool now I don't know if you've ever
+used Google lens on an Android phone but
+it's basically the exact same thing as
+all the stuff we've just described and
+it's been around for a while you can
+point Google Lens at literally anything
+with text in it give it a second and
+it'll let you copy and paste that real
+life text again into whatever you want
+on your phone translate it in Google
+search
+Etc that's built into the viewfinder of
+a lot of phones and inside phones like
+the pixel that use Google photos as the
+default photos app you can hit the lens
+button at any point to find and copy and
+paste any text or look up similar images
+with object recognition and it isn't
+always perfect but it is impressively
+accurate sometimes it does way more than
+just pets too now on most Android phones
+it isn't quite as as seamless feeling as
+apples where if I'm just looking at a
+photo in the gallery and I see a phone
+number on a sign just long pressing that
+phone number and being able to call
+right away is a slight step faster than
+having to go through hitting the Google
+Lens button and copying and pasting but
+I feel like you can almost guarantee
+that will now be lifted into Google's
+next version FaceTime got a bunch of
+neat little features like spatial audio
+and blurred background portrait mode and
+different microphone modes so you can
+choose standard or isolating voices or
+wide spectrum mode depending on
+background noise but probably the
+biggest addition is called share play
+which lets you watch things and share
+things like your screen inside of
+FaceTime now
+you've been able to screen share inside
+of Google meet Zoom teams whatever else
+you use for forever but FaceTime now
+being able to do this it's a little more
+well integrated than the others because
+here you're now listening to Apple music
+with this nice UI and it's all synced up
+or you can watch TV shows or movies with
+synced playback controls so if somebody
+pauses it pauses for everyone if
+somebody fast forwards to show you
+something it fast forwards for both of
+you so everyone can see the same thing
+at the same time it's super easy to stay
+in sync and of course developer
+conference gold shareplay will have a
+new API so any developer that makes a
+media app will be able to plug into this
+and make it work in FaceTime so I think
+you already have HBO ESPN Disney and I
+imagine things like Netflix Spotify in
+the future YouTube hopefully but the
+point is all this stuff is better than
+the typical like screen sharing while
+you play a video where you're getting
+like 5 to 10 FPS and it depends on your
+internet connection it's just not quite
+as good as it being built in the way it
+is here oh also by the way small detail
+you can now share FaceTime links to
+anyone
+just anyone who can click a link which
+means you can join a FaceTime call from
+the web on an Android phone or a Windows
+desktop
+I guess now we can officially say we
+have FaceTime on Android never thought
+I'd say that but you can say it now
+Apple also added on device voice
+recognition so it works offline and much
+faster which feels like a huge step up
+for Siri which you guessed it is
+catching up to a Google assistant and
+Google voice recognition has been doing
+on pixels since 2019 that I've been
+absolutely loving they also improve
+their photo memories feature which
+strongly resembles Google photos memory
+feature and they added a lot of really
+cool street level features to Apple maps
+that continue to make big strides
+actually towards catching up to and
+matching Google Maps there's way more
+street view level information and
+there's an AR View and a few select
+cities get these really detailed maps
+where 3D models of landmarks are dropped
+in there so yeah clearly you can see the
+trend a lot of these new features new
+features that'll show up on the iPhone
+have already been in Google's versions
+for a while ever it seems like every
+time the iPhone gets new features
+they've been somewhere in some Android
+phone before so why the question is why
+it's not like Apple's just choosing to
+be later all the time there's good
+reasons for it and it turns out of
+course Google is incredible software
+company and that's why they've been so
+Innovative there for a long time but
+also Apple's teams have a distinct focus
+on this ecosystem thing that we've
+talked about so I've made an entire
+video about the ecosystem I'll link it
+below the like button if you want to
+watch it but it's a huge Focus for Apple
+not just to make good new stuff but to
+make everything plug into each other
+seamlessly because of course it makes
+the products better but it also makes it
+harder to leave the ecosystem they think
+about this constantly people might like
+their iPhones but really love their
+airpods so it's harder to leave the
+iPhone because of how well they work
+with the airpods and how much they love
+them or maybe it's air tags or iMessage
+or airdrop with the Mac there's tons of
+these but it's not just devices it's
+also the increasing number of services
+they make too it's Apple new use it's
+Apple TV it's iMessage it's FaceTime so
+while Google's teams can be ridiculously
+Innovative because the teams are a
+little more siled and they get to work
+sort of without the constraints of
+having to talk to each other all the
+time they will often churn out amazing
+incredible new features that just don't
+talk to anything else meanwhile Apple's
+teams even if they have the exact same
+idea at the exact same time as Google's
+teams they will often have this
+constraint of having to work with the
+rest of the ecosystem and plug into as
+many different things as possible which
+often multiplies the amount of time
+needed to make the thing work but the
+end result is typically something that's
+got some functionality or some plugs
+that the other versions don't so with
+notifications for example we've I mean
+Android notifications have just been
+better than ios's since the beginning of
+time just facts but iOS 15 did get some
+new notification stuff and one of the
+newest feature teachers I really liked
+is called Focus modes and this is sick
+so as someone who likes customization it
+kind of feels like multiple profiles on
+your iPhone or at least as close as
+they've ever gotten to it so you can set
+your phone to do not disturb mode or
+sleeping mode or personal or work mode
+and when your focus mode is set to work
+for example you only get notifications
+from your work apps and your work
+contacts and when it's set to personal
+it Grays out all of your work apps and
+work contacts and has a separate set of
+things you can do and you can even set a
+new home screen for your non-work focus
+mode now there have been some Android
+phones with like a work profile mode and
+that's not super new but the cherry on
+top now is when you set that Focus mode
+on your iPhone all of the other iCloud
+devices also now will switch to that
+same work Focus mode and have that same
+restriction so you set it on your iPhone
+at some time can be triggered by a time
+of day or location or whatever then your
+iPad your Mac your watch everything is
+now also locked to that same same set of
+restrictions and your iMessage status
+will also now show as in work Focus mode
+to everyone that usually connects with
+you over iMessage so that's a lot of
+extra work to make all of that work but
+now hey everything's working together as
+you'd expect it to you saw how they tied
+iMessage into Apple news where if
+someone sends you an article and
+messages it'll appear in the for you
+section of the Apple news app like I
+don't see Google adding seamless
+integration between Google messages and
+Google news I mean maybe it will
+eventually but those apps and those
+teams that make them don't really seem
+to work together at all that continuity
+feature you saw of dragging your cursor
+from your Mac to your iPad back and
+forth seamlessly and literally dragging
+and dropping files between them that is
+one of the coolest slickest ecosystem
+Flex features I think I've ever seen and
+I don't know how many years we would
+have to wait to see Google doing that
+with a Chrome OS laptop and an Android
+tablet but I would hold my breath that's
+just one of the things that Apple does
+so well that they take extra time for
+but that ends up being really great uh
+Dieter from The Verge did a really great
+video recently you should watch on how
+Apple's sort of been laying the
+groundwork for stuff like that over the
+years but the bottom line is it's what
+we've come to expect
+so
+yeah we wait for it so that's just a fun
+theme I figured I would highlight also
+if you've been hanging out in the
+official MKBHD Discord you already know
+this but we've been chatting over all
+the new stuff that Apple's announced at
+WWDC if you haven't already joined over
+there I'll leave a link below and also
+I'm gonna host a Discord stage Channel
+event in our Discord uh today this
+afternoon
+I'll put a Time below and I'll have some
+YouTube friends in there and we'll talk
+about some of these WWDC announcements
+but also the themes of like which
+features we saw in Android and places
+we've seen before versus what's new in
+iOS 15 and on the iPad it'll be fun we
+should hang out we should chat over
+there but also for those of you in the
+YouTube comments section let me know
+this
+do you have a preference between super
+Innovative new bleeding edge features
+versus a little bit later but a little
+bit more well polished or plugged in
+features let me know what you think of
+that
+okay either way that's been it thanks
+for watching catch you guys in the next
+one peace

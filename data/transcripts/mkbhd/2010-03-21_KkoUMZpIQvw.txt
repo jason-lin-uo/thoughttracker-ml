@@ -1,0 +1,85 @@
+# Tweetdeck Notifications!
+# https://www.youtube.com/watch?v=KkoUMZpIQvw
+
+[Music]
+hey what's up guys it's Marcus brownley
+here from MKBHD and welcome to another
+highdefinition video and welcome to the
+first in a video series that will
+Premiere once a month that will
+basically discuss whether you agree or
+disagree so for this first episode we're
+going to keep it relatively simple and
+what I have to talk about with you guys
+today is a tweet deck feature request
+for those of you who don't know tweet
+Tech is a very popular Twitter client
+for those of you tweeters out there who
+don't want to go to the actual
+twitter.com to post a message I can also
+get notifications for their replies and
+direct messages Etc the one thing about
+tweet deck that I don't like is the
+actual notification sound
+itself now some of you may actually like
+it but I do know a couple of people who
+actually stopped using tweet deck
+because of that annoying notification
+sound and I was actually one of those
+people who switched to cmic for Windows
+just to get away from it for a while now
+twch would be happy to know that I came
+back to their software because of a few
+missing features and other Twitter
+clients but I've been constantly looking
+for a way since then to change the
+notification sound in tweet deck so this
+is the closest that I got pardon the
+background I actually went into the
+program files for tweet deck now there
+are a lot of things that can go wrong
+when you go into the program files of a
+program and change things that have been
+designated to do certain things I
+figured it was it was worth it the shot
+and if it didn't work I would just go
+ahead and uninstall and reinstall tweet
+deck so I dug through these program
+files and I was eventually able to find
+that sound which is called ping deep in
+the program files of tweet deck I went
+and found my own different notification
+sound from destroyed Twitter one of
+those many Twitter clients I reverted to
+while avoiding this sound and dragged it
+right into tweet deck unfortunately
+replacing it with a different sound even
+though it was named ping as well also
+broke tweet deck so the act of digging
+into the program files of tweet deck and
+finding the notification sound and
+replacing it with your own notification
+sound downloaded from the internet turns
+out to be completely useless and you'll
+have to reinstall tweet tech for this
+reason the topic of today's episode of
+do you agree or disagree is heck does
+tweet Tech need a way to integrate its
+own changing notification sounds in my
+opinion yes even if all this in the
+program files is successful the average
+user isn't going to want to do all that
+to change that but yet again the average
+user does want to be able to customize
+their notification sound so go ahead and
+leave a comment down below what Twitter
+CLI do you use and if you use tweet dech
+do you like the notification sound or do
+you like the notification sound of the
+Twitter client that you use now I'm
+interested to see your responses maybe
+I'll switch clients again anyway thanks
+for watching this episode and I'm
+looking forward to your comments again
+thanks for watching guys peace
+n

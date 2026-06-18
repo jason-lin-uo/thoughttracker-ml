@@ -1,0 +1,760 @@
+# Juan Carlos Izpisua Belmonte, Altos Labs | All-In Summit 2024
+# https://www.youtube.com/watch?v=uUjF3RG28SQ
+
+[Music]
+scientists think they found the Fountain
+of Youth what I think will become the
+cover story on magazines that humans
+have discovered the Fountain of Youth
+and this will arise from yamanaka Factor
+based cell reprogramming methods it
+feels like a piece of technology that's
+fallen through a wormhole from the
+future it does sound a little bit like
+science fiction A3 billion investment
+that was just made in Altos Labs which
+is probably one of the biggest seed
+Investments ever he has made seminal
+contributions to understanding stem cell
+reprogramming so at this time it's my
+pleasure to introduce our uh recipient
+this year Juan Carlos espia
+[Music]
+[Applause]
+[Music]
+belante good afternoon my name is Juan
+Carlos
+Belmonte I'm going to start my
+participation with a rather provocative
+question which is
+can we rejuvenate an
+organism and if so what is the
+implication of that respon for human
+health for human
+disease so the the book of Our Lives is
+given to us when we are born our parent
+past has this set of instruction these
+millions and millions of letters that
+constitute our
+genome and by and large this is a very
+solid process but every now and then
+there is mistakes in these
+letters and they may have importance for
+our life or may be
+irrelevant let me give you an example
+for instance you change in this
+case a c to a
+t you're going to have a phenotype that
+is depe here the these kids they are in
+the picture between 6 and 10 years old
+but they look much older they're really
+all and they're not going to pass their
+teenage H age and just because of this
+small mutation a c into a
+t now fortunately in the last few years
+we scientists have developed method by
+which we can reverse that change we can
+fix that mistake and for instance we
+have models in the lab we have animal
+models in this case is a mouse where we
+have created the same
+mutation the C into a t and this mouse a
+lab mouse lives for about 2 years this
+mouse will live just for a couple of
+month three four months maximum and it
+will have the same accelerated aging
+process of the human but we can fix this
+we can change this T back into a c and
+we get this mouse which has nothing to
+do with the previous Mouse is healthier
+live longer and is able to regenerate
+some of their tissues that before it
+couldn't do
+it the problem as I was indicating
+before is that
+um this is a very small percentage of
+the mistakes that happen in our life by
+and large this is less than 1% there is
+mistakes that generate diseases like
+this by and large we have many other
+diseases that are not due to a mutation
+in our
+genome and if we look at this graphic
+that represent age and the possibility
+of
+death you can see that after certain
+number of years around 4
+45 the major risk factor for getting any
+disease is precisely that years
+age so the
+longer we live The increased risk to get
+diseased and around 40 45 we start to
+develop all these diseases that you see
+at the top of the
+screen and they are not related to
+changes into C or a t or a particular
+mutation so how this
+happen how these diseases appear and
+what can we do about reversing these
+diseases so let's go down to the cell
+level here you have two type of cells a
+very young cell healthy
+cell and an all an unhealthy
+cell the healthy cell is very res
+resilien in the presence of risk factors
+it has a very strong buffer capacity we
+call that that can deal with
+these these stresses however the all an
+unhealthy cell in addition to the fact
+that has been exposed because of time to
+more factors excuse me it has less
+buffer capacity it's less resilient to
+these factors that damage reach the
+cell and the question
+that I want to present today has to deal
+with this buffer capacity and what is
+buffer capacity let's see if I can
+explain this well so with time as time
+passes there is more risk factors during
+normal aging there is more stress and
+the buffering capacity the resilient of
+these cells goes go down and when these
+two arrows these two curve mix the Seas
+appear and the question is can we
+increase buffer capacity so that then
+the disease appears later or it never
+appear can we increase the cell
+resilience to deal with the disease that
+appearing with aging when we are
+young we really don't think about AG
+when we are all a big percentage of our
+days is just thinking how bad I feel and
+what can I do so can we increase this
+buffer capacity so that disease doesn't
+appear it takes longer to appear or we
+can even reverse it and how can this be
+done just pause for a moment what is
+aging what makes that cell fragile
+unhealthy many things our metab po
+change with
+ag our energy levels drop our
+mitochondria don't produce that ATP that
+is needed for the cell to work
+properly stem cells in our body die many
+things happen while we
+age but I'd like to Poe the idea that
+among all these things that happen
+during aging there is one very important
+thing that could help to increase this
+buffer capacity and this has to do with
+what we call the epig
+genome Epi comes from the Greek above
+above our genome above the instructions
+that we receive from our
+parents and if we look at the cell and
+the The genome the DNA of of any cell is
+is very big it will take approximately 6
+ft if we were to extend it
+here but we need to pack it inside a
+cell and it has a special
+conformation bounded by the specific
+proteins which in a very basic way we
+can divide it in in a confirmation that
+is open for business that we call open
+chromatin or close for business close
+chromatin and just this changing the
+conformation of the chromatine may have
+huge effect in the health
+of the cell and the
+organism in the time when the disease
+appears and the first and most important
+experiment to demonstrate this was done
+by Dr s
+yamanaka where what he did was a very
+simple experiment he took four
+genes added to an adult cell a cell that
+is fragile that is
+unhealthy and make that cell an
+embrionic like cell
+again and he did this by changing this
+confirmation of the
+chromatin now can this help us this
+experiment for which he was awarded the
+Noel price can this help us deal with
+the problem I am trying to convey today
+reverse disease bring back time and make
+the cell more resilient and healthy
+again so through a few years of studies
+the message is this that there is a
+correlation between the conformation of
+the chromatin aging and disease when the
+epigenome when the chromatine is closed
+we call this
+heterochromatin the cell is Young is
+healthy when the chromatin is open it
+leads
+to the increase the loss of buffer
+capacity and therefore disease and aging
+and the question is can we reverse that
+can we this correlation can we do
+something to alter the confirmation of
+this chromatin and demonstrate that just
+by bringing an open chromatine to a
+closed chromatine we can rejuvenate a
+cell and how do we do that we took
+advantage
+of the initial ideas and studies of s
+yamanaka and using again this mouse
+model that I indicated before this
+animal that has a
+mutation that has a c into a te that
+leads to an accelerated aging you can
+see the animal here doesn't have hair
+it's small it's not going to leave for
+too long and what we did we took these
+four factors So-Cal yamanaka factors and
+put it inside this mouse this old mouse
+we're not fixing the mutation remember
+at the beginning there is Technologies
+by which we can fix the mutation what
+we're doing here is just altering the
+chromatin the mutation is still there in
+this mouse the cause of the problem that
+letter is still there not fixed but
+we're altering the
+chromatin and we do this not
+continuously we just do short pulses of
+the yamanaka factors we put just during
+the weekend we put these factors not
+during the entire week to this mouse and
+what happen is that we get a very
+different Mouse healthy mouse that is
+able to live
+longer and remember we have not fixed
+the mutation the te is still there so
+just by this small change in the
+chromatin we can rejuvenate a
+mouse and here is the just example of
+what I'm telling you we can either with
+very precise tools that we have
+developed correct bre a specific
+mutation at the top the C to a t or
+without knowing the mutation just that
+we know that this Mouse has a problem we
+just alter the status of the chromatine
+and we practically get the same
+phenotype we get Rejuvenation on this
+mouse either genome correction or
+epigenome buffering increasing the
+capacity the buffering capacity of this
+mouse so we have gone through from the
+initial point to a later point where the
+mouse will live longer and will have a
+healthier
+life now anyone could tell me yes you
+are telling me just about one case this
+particular mouse that has this mutation
+does it work for something else for
+other
+diseases and the answer is yes let me
+tell you just one more example and a few
+others in a summary here we have another
+mutation these mice have a mutation in a
+gene called
+leptine which make these mice eat all
+the time and as such they get fat they
+change their metabolism they get older
+faster Etc if we just give a short pulse
+of these yamanaka factors we get this
+mouse the mouse still keeps eating
+because it has the mutation we haven't
+corrected but the mouse now has less fat
+in the the liver and can respond to
+glucose like a
+normal young and healthy
+Mouse and if we extend now and I don't
+have time to go through this to many
+other diseases that we have test in the
+lab kidney disease skin disease liver
+disease muscle disease Etc the same
+thing happen we can bring back this
+buffer capacity and make the cell
+younger and the mouse younger
+there's a sentence there that says a
+deceased agnot this approach when you
+are you have a problem you have a
+disease you go to the doctor and it give
+you a medicine but if you have another
+disease it give you another medicine if
+we have a mouse with a mutation we try
+to correct that mutation another mouse
+with another disease we correct that
+mutation but what I'm telling with this
+slide is that independent of the disease
+just by this small switch of changing
+the chromatin we can
+increase the capacity of resilience of
+this mouse so that the disease takes
+longer or is even
+reverse I think this is a very profound
+message that is not very precise we are
+not touching the genome we're touching
+the epigenome but without this Deion we
+can revert
+disease now the key question is this is
+great I told you can we rejuvenate an
+organism at the beginning it seems that
+based on this and other
+experiments in Rodin in the lab the
+answer is yes we take mice with
+different pathologies we pass them
+through these short pulses of yamanaka
+factors and they they're better the the
+disease takes longer to appear they live
+longer
+but even though in science this this
+animal is the one that we know more
+about health and disease much more than
+humans our interest is healthy people
+would this work in humans and this is
+our mission in Aldos try to by this
+cellular Rejuvenation
+programming increase the buffer capacity
+of a human cell so that the Sease is
+reversed or can take longer to
+appear we have done this in isolated
+human cells in the
+petrides but the next step is to move to
+a human being an entire organism like
+the
+mouse and this has to be done so that
+there is with all the safety and all the
+precautions so that we do not harm when
+this experiment is done these mice are
+healthy healthy they're fine there is
+nothing wrong with them but we need to
+really be very cautious when touching a
+human
+cell so rather than delivering these
+factors inside inv Vivo of a human being
+what if we do it ex Vio and here is an
+example organ transplant we know that
+organ donations save thousands and
+thousands of lives every year in our
+planet but nonetheless there are many
+thousands of organs that are discarded
+because their quality because they are
+all the doctor when the organ
+comes look at the organ and said this is
+this organ is not good enough doesn't
+have enough quality to be transplanted
+and it just get
+discarded what if instead of going
+directly into a human being we try to
+rejuvenate this organ that is
+discarded and see if the doctor now will
+say now this organ is ready to be
+transplanted whatever conditions and
+quality requir by this doctor and we are
+making progress into this area you can
+see here when we
+transplant ER in this case is still in
+Rodin an all
+kidney into a young rat and we compare
+this with the transplantation of a young
+kidney the life of the horse is very
+different you see these two the green
+and the blue lines so the
+blue line is with no treatment the green
+line is after a short pulse of these
+factors that is given X Vivo to this
+organ before it's transplanted and that
+lead to an increase in the survival of
+the hor so that's one way to start
+approaching of moving this technology
+that we are developing in the lap in
+mice into humans but at the same time
+there's one thing that and I'm finishing
+there is one thing that I would like to
+stress it's not that all the cells of
+our organism go bad with time otherwise
+we'll be dead there just a few cells and
+with time there is more and more of
+these fragile unhealthy cells that don't
+have enough buffer capacity and you can
+see this in this diagram the blue dots
+indicate that with time we have more and
+more of these nonfunctional cells but
+what we don't want to touch is what is
+working we don't want to deliver these
+factors to cells that are healthy and
+that are
+functional how do we deliver these
+factors just to those cells that are not
+work work into these blue cells so you
+see here the two H situation in a y
+tissue you almost don't have any of
+these fragile and healthy cells and how
+can we deliver the factors just in the
+age situation to the unhealthy cells but
+we don't touch we don't want to touch
+the healthy cells and this is what we we
+have been doing there is a specific
+genes and markers that Target and
+identify by the unhealthy cell and with
+these markers we can guide our yamanaka
+factors just to the unhealthy cell and
+we obtain the same phenotype you can see
+here an increase in life span just
+targeting the unhealthy cell increasing
+the buffering capacity of the unhealthy
+cell and the last slide that I want to
+show you is for instance an organ like
+the skin if we bring these factors to
+the non healthy cell of the skin you see
+phenotypes like this for instance an old
+mouse like us with time will get gray
+hair it would just bring the factors to
+the unhealthy cells of the of the skin
+that
+produce this deterioration of function
+now you see that the gray hair doesn't
+appear or if we do a wound in the skin
+of an animal of an animal and this in us
+after a certain age the wound takes a
+long time to close or even it doesn't
+close you can see at the top the
+nontreated in red there is there is a
+wound there that has doesn't heal while
+the treated one even in a very very old
+mouth it just make a perfect Skin So
+summary of what I have told you today is
+this that
+there is what we call Precision Medicine
+by which we
+can fix some of these mutations errors
+that our parent transmit into the book
+of our life but that's less than 1% of
+the diseases the majority of diseases
+correlate with
+age passing of the time and they don't
+have anything to do with particular
+mutations and without touching the
+genome with this Precision medicine just
+just modifying the conformational
+structure of the chromatin we can bring
+a disease and aged cell into a cell that
+is more resilient and more functional
+and certainly this type of experiment
+and the messages that it open up the
+question of can we rejuvenate a human
+being and can we reverse diseas in human
+thank you for your
+[Applause]
+right ju caros thank you for the
+presentation I want to I I don't I don't
+know if you can
+overstate the significance of the
+discovery you have made and it's funny
+to me how it's not popular uh knowledge
+at this point because of the results
+that you and other
+scientists have collected and the impact
+it will have to literally restore uh
+cellular health and and deage an
+organism and um the yamanaka factors or
+four proteins just just for Layman's
+conversation there are four proteins
+that's what a factor is it's a A protein
+that causes a change in the epigenome
+and unwinds parts of the DNA and as a
+result new genes get turned on other
+genes get turned off and the cell kind
+of revitalizes it becomes young
+again um you discovered that you can
+actually and and they did this all the
+and made the cells go back all the way
+to being stem cells but what you
+discovered was the ability to partially
+ReStore youthfulness in the cells
+through partial reprogramming and that's
+a dose Factor you put a smaller amount
+of the yanaka factors on the cells what
+how do you control it and then I want to
+ask a question um about if you put too
+much does it then because I know there's
+been tests in mice where you end up with
+cancer because then the cells start
+multiplying too quickly so maybe you can
+tell us a little bit about what it means
+to do partial reprogramming with the
+amak what does partial mean very
+important question thank you for let's
+see if I can clarify this what Dr s
+yamanaka did is something that we no one
+in in science in general could believe
+that you can bring an adult
+cell to a start life again become an
+embryo cell embryol likee cell an
+embryonic stem cell can be whatever we
+have more than 250 cell types in our
+body our skin cell is different than our
+eye cell is different than our brain
+cell because different genes are turned
+on and off in each of those cells they
+have the same DNA but they have a
+different epigenome different genes are
+turned on perfectly explained thank you
+so and
+what I think it's so for people to get
+that yeah what SAA did was just to
+delete delete all that information the
+identity of a skin cell of a heart cell
+and bring it back to the very beginning
+to the to the very first time when we
+are born to this type of cells
+now is when he was putting these factors
+it's his factors the yamanaka factor for
+a long time four proteins for four prot
+four proteins put them on the cell this
+happens now we don't want this imagine
+if we were to put this in the
+heart the key cell in the heart is
+called cardom myosite and what it does
+is beat so if we remove the identity
+can't of that cell is not anymore a
+cardom myosite and go back to an
+embryonic cell the heart is not going to
+beat if we do that in the liver theoy is
+not going to do its function so doing
+this going back in in time to really the
+earli
+stages it will not do good to our bodies
+and then and cancer arises and then if
+you bring and lose the identity of a
+particular cell then you are open for
+that cell to become something else right
+like a cancer cell or a skin cell is
+transformed into aite many wrong things
+could happen we want to maintain the
+identity of this cell
+and the small switch here that we did as
+you are asking me is rather than having
+the factors for a long time we just gave
+a short
+pulse what that is doing is altering the
+chromatin but for a very short time it's
+a small shock and then the chromatin get
+close and maintain its
+identity the cardiomyocyte is a cardom
+myosite has not gone back
+to a different cell typee but its
+function is much better this is so the
+idea is just a short P of these proteins
+which by the way these are the proteins
+that s yamanaka discovered but I'm
+convinced that there will be many other
+proteins so that's organism that's the
+next thing I wanted to ask you so it
+sounds like the search is on in various
+startups at Alto slabs for other
+proteins that can do this but perhaps
+not protein but smaller molecules
+peptides or small molecules where
+theoretically you could take a
+pill and it would do the same thing is
+that a
+reality so I think that one of the
+biggest inventions that we humans have
+made is the place we're here today the
+university the Curiosity the knowledge
+to advance in things that we don't
+understand um
+and discovering what other proteins what
+other factors could do the same thing
+belongs to that domain of the Curiosity
+and trying to increase our knowledge but
+many times we need to try to apply this
+knowledge and you're asking me how are
+you going to deliver whatever factors
+you discover into a human
+being you can do this in the lab with
+many other ways but ideally you would
+like to just put that into
+appeal and so here is where the other
+important thing come and that's
+industry by mixing the Bas
+of
+Academia this curiosity this trying to
+understand how we can close and open the
+chromatin with many other
+factors with the experience the drive
+and the focus of
+Industry can we answer the question that
+you are asking can we put these factors
+or any other factors that alter the
+chromatine into appeal this is precisely
+our Endeavor try to make this safe and
+available to can I ask you a more maybe
+a more basic
+question um if this buffer
+capacity is essentially the insulation
+that we are born with that then decays
+so
+young cell good buffer capacity old cell
+no buffer capacity in very simple terms
+based on your side what is the
+scientific community's understanding
+about how to minimize the rate of change
+and the Decay by things that people in
+this room can control where we live the
+things that we're exposed to our food
+supply do any of those things to your
+understanding have an impact that's
+measurable
+and achievable by us today while we wait
+for altos and others to deliver more
+chemical manipulation of this huge
+impact incredible question and really
+huge impact just think of exercise we
+have compare what are the changes in the
+Cell between
+exercise and the short pulses of Y Mana
+factors and you couldn't believe the
+similarities in the changes in gene
+expression that exercise
+th and how overlap these changes happen
+when we do the yamanaka the sh PES of
+yamanaka factors so things like exercise
+but exercising what kind of exercise how
+much how
+often why you want to know the answer
+too what don't laugh actually you know
+what don't answer the question you can
+tell us afterwards because they don't
+care don't it's
+[Applause]
+fine and exercise things that your
+mother will tell you eat less
+exercise H when I say stress I mean it
+stress to the cell that is going to
+alter the epigenome so until we really
+understand how these changes in
+chromatine happen all these things that
+we do sometime with our life really
+improve the buffer capacity and has that
+been published or studied in a way
+that's digestible for Layman meaning
+like whether it's intermittent fasting
+or whether it's the the quantity of food
+or whether it's you know specific forms
+of exercise over another has that been
+well studied enough that we can at a
+minimum we can even just link to all of
+this so that you guys can get this
+information but is it out there this is
+I would say the last 10 years have been
+an
+incredible jump into into these studies
+so far most of them have been done in
+animal models in the lab and we are
+starting to translate this to humans um
+for instance I just finish it's not I
+think I can say that tomorrow it will be
+just one of these molecules that
+diabetic people take metformine to lower
+down their glucose they can reprogram
+the cells so that all the cognitive
+function or not just rodents and this is
+the key thing but of monkeys which are
+99% % their book of life is very 99 9%
+similar to us right it can reprogram
+these cells and the cognitive abilities
+of monkeys and their lifespan is
+increased so this is coming this is not
+something that is just this small Mouse
+in the lab where we know a lot about
+their health and disease but I feel the
+next decade probably many of these
+discoveries with the caveat that it's a
+mouse and a mouse is not a human might
+be translated to human you put a slide
+up there where you had a obviously a
+whole bunch of Target markets some were
+autoimmune diseases some were cancers
+some were more just general aging
+um how do you decide or how do you
+figure
+out where there is the uh most real
+application today because I part of it
+is there's a obviously
+Market issue of making sure you continue
+to have capital and prove scientific
+value but part of it is there may be
+some small winds today in rare diseases
+or something that could allow you to
+commercialize this faster so how do you
+think about which problems should come
+first good question I put up there the
+ex Vio example with the organ
+transplant this is probably one of the
+most cautious and safest safest approach
+where say uh acute liver disease there's
+nothing about this you're are going to
+die in 3 days right and if an organ is
+not there you can do nothing so acute
+and and deadly diseases that could
+happen could be an
+initial um target for these type of
+approaches um but again I I want to say
+that even though we are trying to move
+as fast as we can into humans and we are
+doing this experimen in human cells in
+the Petri a mouse is not a human and
+this will need time to be replicated in
+a human being before we wrap can we just
+talk about how altto Labs is set up it's
+probably got more funding than any other
+private company in recent history it's
+really incredible how the the maybe you
+can tell us how how you've organized
+this this work this Mission um and again
+is reflecting on the importance that we
+know so little and about the fundamental
+science of what is behind this big
+question is a question that we human
+beings have have tried to approach since
+ever how can we deal with disease with
+aging so there is so many things we
+don't no basic sign is needed so as a
+startup you raised billions of dollars
+to do a lot of core research as well as
+product development and at the same time
+in parallel yeah with all the safety
+approaches that we can think of and we
+were talking about one possible
+example perhaps without knowing every
+detail of how it works provided is safe
+and could have a positive effect trying
+to move this forward so it's a
+combination of what we like to call the
+base of basic science and the base of
+Industry yeah well look I mean I don't
+think there's a human on earth that will
+uh not benefit and does not appreciate
+the the effort and and obviously
+everyone hopes that you guys are
+extremely successful in both the
+scientific and Commercial uh Pursuits I
+it seems to me like as you guys have
+your breakthroughs which I think you're
+uh you're going to have given the
+backing and people that are involved
+over time uh partial cell reprogramming
+could be one of the most profoundly
+impactful technologies that humans have
+ever discovered or invented so we
+appreciate the work that you do and and
+thank you for being here with us thank
+you for thank you
+[Applause]

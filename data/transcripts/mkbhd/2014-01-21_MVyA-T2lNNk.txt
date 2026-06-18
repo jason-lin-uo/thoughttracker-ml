@@ -1,0 +1,164 @@
+# New Mac Pro Performance Review!
+# https://www.youtube.com/watch?v=MVyA-T2lNNk
+
+[Music]
+hey what is up guys I'm kbd here and
+this is a video dedicated entirely to
+the performance of the new Mac Pro so
+this is a bit of a preview leading up to
+the full review that I'm working on of
+the Mac Pro but I mentioned a little bit
+in my unboxing and first impressions
+video that I got the 8 core Mac Pro for
+a reason over the 12 core I actually
+opted for the 8 core model for a couple
+of reasons that I'll go into but
+essentially this is all the benchmarks
+and sort of performance test that I
+thought would make sense for Apple's
+only workstation grade machine so there
+are a couple of key benchmarking apps
+that a lot of people use to Benchmark
+Macs and all sorts of desktop machines
+that you guys shared with me on Twitter
+and things that I've used in past
+projects including the fastest Mac Mini
+in the world project and the Hackintosh
+pro project so the first of these is
+called Blackmagic disc speed test and
+essentially this just measures the read
+and write speeds that you're going to be
+capable of on the Mac Pros PCI based
+ssds so if you'll recall the fastest Mac
+Mini in the world project had a single
+ver Vortex 4 SSD and the Hackintosh pro
+project had a pair of ssds in raid zero
+but as you can see by the Numbers
+neither of these compare to the results
+of the PCI based ssds in the new Mac Pro
+and that's going to get you some crazy
+FAST program opening times and data
+access all right so the next test is a
+very popular geekbench app you've
+probably seen it already run on phones
+and tablets everything from the iPhone
+all the way up to the previous
+generation Mac Pro so as a benchmark the
+fastest Mac Mini in the world project
+scored around 10,000 on geekbench that
+actually wasn't shown in the video
+series interestingly enough and the
+Hackintosh Pro actually scored
+15,800 and actually I want to be clear
+here these are the multi-threaded scores
+as geekbench 3 here will always kick out
+a pair of scores a single-threaded score
+and a multi-threaded score so geekbench
+on this Mac Pro kicked out without
+screen recording on 3,600 for the single
+threaded score and
+26,000 for the multi-threaded score and
+I'll give more context on these in a
+second so the next test is called Nova
+bench it's a less popular bench marking
+app a lot of people don't use it but
+since I've used it in my two previous
+projects then I figured I'd continue to
+use it now for a benchmark so it scored
+roughly 800ish on the fastest Mac Mini
+in the world and roughly 1,600 on the
+Hackintosh Pro now even though it looks
+fairly comprehensive it's definitely an
+older Benchmark and I don't even know if
+all the numbers looked right when
+looking at the composition for the final
+score but either way the final score
+here in Nova bench was a much higher
+2,200 on the Mac Pro now last but not
+least in the benchmarking department is
+called cinebench and I actually think
+that cinebench is one of the most
+accurate overall all-encompassing
+Benchmark apps you can use it tests both
+the GPU side and the CPU side of things
+and there's a really wide range of
+scores you can get so on the GPU side
+this Mac Pro has the absolute highest
+end dual AMD firepro d700 workstation
+grade graphics cards with 6 gigs of
+video RAM each and these absolutely
+killed it topping out the Benchmark at
+an average of 86 frames per second this
+isn't necessarily a representation of
+gaming performance because they're not
+gaming cards but more of just how much
+power you have at your disposal with
+these cards in here that a number of
+production Suites and applications can
+take advantage of and on the CPU side
+this is the8 core Beast like I mentioned
+and it ended up with a score of
+1,223 which is surprisingly not that far
+behind the 12 core Mac Pro at all uh and
+that's actually what impressed me the
+most but honestly with eight cores 16
+threads you kind of expect it to crush
+benchmarks and it absolutely did
+n
+[Music]
+so it's really easy to tell by all these
+Benchmark results that the Mac Pro is
+clearly a very fast very powerful
+machine but that brings us back to the
+question why did I go with the 8 core
+Mac Pro over the 12 core Mac Pro and the
+simple answer to that is single core
+single-threaded performance there is a
+four core six core 8 core and 12 core
+version of the Mac Pro and each time you
+move up in number of cores you move down
+in clock speed from 3.7 GHz to 3.5 5 to
+3.0 to 2.7 but the thing is higher clock
+speeds mean better single core
+performance for everyday apps but more
+cores in general means better multi-core
+performance for the bigger apps that can
+take advantage of it so the four core
+Mac Pro would be like driving a van down
+the parkway you know pretty fast but
+also still pretty strong where the 12
+core Mac Pro on the other hand would be
+an 18-wheeler cab definitely not the
+quickest thing in the world but there is
+no way anything is going to slow it down
+even the heaviest of tasks so the 8 core
+Mac Pro would fall somewhere in the
+middle so at the end of the day as a
+person that's using the Mac Pro as both
+a beast of a video editing rig and a
+day-to-day machine it would makes sense
+to have a nice balance between amazing
+multi-threaded performance and nice
+single core and everyday use performance
+which means when I'm Runing out videos
+in Adobe Premiere or projects in
+Photoshop and things like that all eight
+cores are going to be kicking in and
+it's going to take full advantage of
+that but at the same time at 3 gz on a
+single core apps like Google Chrome and
+just browsing around the internet
+watching YouTube videos day-to-day
+things like that will also be quick and
+they won't be quite as slow as they
+would have been on the massive 12 core
+so there's the reasoning and there's the
+performance of the 2013 Mac Pro but
+there's a lot more information about
+that coming up especially in the full
+review video which is in the works and
+on its way thank you for watching and
+I'll talk to you guys in the next video
+peace
+the
+[Music]

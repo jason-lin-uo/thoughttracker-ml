@@ -1,0 +1,1202 @@
+# All-In Summit: Stephen Wolfram on computation, AI, and the nature of the universe
+# https://www.youtube.com/watch?v=2cQmQIYNI5M
+
+[Applause]
+solo no besties yeah everybody else was
+scared away I'm afraid yeah or you
+scared them away yeah I mean it was uh
+um challenging prompt interview Steven
+Wolfram on stage in 40 minutes so here
+we
+go let your winners
+ride rman
+[Music]
+David
+and instead we open sourced it to the
+fans and they've just gone crazy with it
+queen
+[Music]
+of um it's a huge honor to talk to
+Steven Wolfram creator of Mathematica
+wolf from
+Alpha and the Wolf from language the
+author of A New Kind of Science the
+originator of wolf physics project and
+head of wol
+research Steven first used a computer in
+1973 and quickly became a leader in the
+emerging field of scientific Computing
+in 1979 he began the construction of SNP
+the first modern computer algebra system
+he published his first scientific paper
+at age 15 and had received his PhD in
+theoretical physics from Caltech by
+20 wolfram's early scientific work was
+mainly in high energy physics Quantum
+field Theory cosmology and complexity
+discovering a number of fundamental
+connections between computation and
+nature and inventing such Concepts as
+computational irreducibility which we'll
+talk about today wol firm's work led to
+a wide range of applications and
+provided the main scientific foundation
+for such initiatives as complexity
+Theory and artificial life wolm used his
+ideas to develop a new Randomness
+generation system and a new approach to
+computational fluid dynamics both of
+which are now in widespread use the
+release of wolf from alpha in May of
+2009 was a historic step that has
+defined a new dimension for computation
+and AI now relied on by millions of
+people to compute answers both directly
+and through intelligent assistants such
+as Siri and Alexa and so on among others
+um so thank you for being here thanks
+for having me I worked on um the at the
+Lawrence Berkeley National Lab at the
+center for beam physics for two and a
+half years and was when I was undergrad
+and I worked exclusively in Mathematica
+as I shared with you the other night so
+um that's when I first got to know about
+you and and your work um
+who here has seen an interview that
+Steven's done before just to get a
+sense okay I want to try and guide the
+conversation a little bit so maybe we
+could start with
+computers okay um you talk about this
+concept of
+um computational irreducibility yes
+maybe you can just and I want to try and
+connect with a broad audience yeah yeah
+in what is computation what is
+computation okay so at it's at the base
+computation is about you specify rules
+and then you let those rules you figure
+out what the consequences of those rules
+are computers are really good at that
+you give a little program the computer
+will run your program it will generate
+output I would say that the the kind of
+the bigger picture of this is how do you
+formalize anything you know we can just
+use words we can talk vaguely about
+things how do you actually put something
+down that is a kind of precise formalism
+that lets you work out what will happen
+that's been done in logic it's been done
+in mathematic itics it's done in its
+most general form in computation where
+the rules can be kind of anything you
+can specify to a computer then the
+question is given that you have the
+rules is that the end of the story once
+you have the rules do you then know
+everything about what will happen well
+that's kind of what one would assume
+kind kind of the the traditional view of
+science is once you work out the
+equations and so on then you're done
+then you can predict everything you
+you're kind of you you you've done all
+the hard work turns out this is not true
+turns out that even with with very
+simple rules the consequences of those
+rules can be arbitrarily hard to work
+out it's kind of like if you just run
+the rule step by step step by step it's
+making some pattern on screen or
+whatever else you can just run all those
+steps see what happens that's all good
+then you can ask yourself can you jump
+ahead can you say I know what's going to
+happen I know the answer is going to be
+42 or something at the end well the
+point is that that isn't in general
+possible that in general you have to go
+through all the steps to work out what
+will happen and that's kind of a
+fundamental limitation of kind of the
+sort of prediction in science and
+something people people have gotten very
+used to the idea that with science we
+can predict everything but from within
+science we see this whole phenomenon of
+computational irreducibility it's
+related to things like girdles theorem
+undecidability halting problem all kinds
+of other other kinds of ideas but from
+within science we see this fundamental
+limitation this fundamental inability
+for us to be able to say what will
+happen so so we can't just skip ahead in
+a lot of cases we can't just create
+simple heuristics or simple solves that
+avoid all of the hard work to simulate
+something to calculate something to come
+up with the computational output of
+something we're trying to figure out in
+a sense this is a good thing for us
+because it's kind of we lead Our Lives
+time progresses things happen if we
+could just say we don't need to go
+through all of those steps of time we
+could just say and the end it will be 37
+or something that would be a bad feature
+for us feeling that it was worthwhile to
+to sort of lead our lives and see time
+progress it would be a kind of you don't
+really need time to progress you can
+always just say what the answer will be
+I mean this kind of idea has has many
+consequence I mean for example when it
+comes to AIS you say well you've got
+this AI system and it's doing all kinds
+of things can you figure out what it
+will do you might want to figure out
+what it will do because you might want
+to say I never want the AI system to do
+this very bad thing that you know I'm
+trying to prevent so then you say well
+you know can I work out what it will do
+can I be sure that these rules that I'm
+putting in for the AI system will never
+have it do this very bad thing well
+computational irreducibility says you
+can't guarantee that you kind of have
+this trade-off with an AI system you can
+either say let's you know let's
+constrain it a lot then we can know what
+it will do but then or let's let it sort
+of have its way and do what it does if
+we don't let it have its way it's not
+really making use of the computational
+capabilities that it has right so we
+can't have this trade-off we either can
+understand what's going to happen in
+which case we don't let our AIS really
+do what they can do or we uh or we say
+okay we're going to run the risk of the
+AI doing something
+unexpected so can we just so
+AI a lot of what people call AI are
+predictive models that are effectively
+built off of Statistics that make some
+prediction of what the right next step
+in a sequence of things should be
+whether it's a pixel to generate an
+image or a series of words to generate a
+chat uh response through an llm model
+like chat GPT or Bard or what have you
+um those are statistical models trained
+on past data are they is that different
+than um the the problems in computation
+that you're talking about about better
+understanding the universe the nature of
+the universe solving bigger problems
+that AI has its limitation in how we
+think and talk about it today and maybe
+you can connect computation and this
+idea of AI being this very simple
+heuristical statistical thing that just
+predict stuff right well I mean the the
+computational universe of possible
+programs possible rules is vast and
+there are I just want to I just want to
+make sure everyone understands that the
+comp to say that the comput
+computational universe so so you know
+the set of things you can compute that
+you want to try and compute I mean so so
+people are used to writing programs that
+are intended for particular human
+purposes but let's say you just write a
+program at random you just put in the
+program it's a it's a random program
+question is what does the random program
+do so a big thing that I discovered in
+the 1980s is the thing that greatly
+surprised me was even a very simple
+program can do very complicated things I
+had assumed that if you want to do
+complicated things you would have to set
+up complicated program turns out that's
+not true turns out that in nature nature
+kind of discovered this trick in a sense
+you know we see all this complexity in
+nature it seems like the big origin of
+that complexity is just this phenomenon
+that even a very simple program can do
+very complicated things so I mean that
+that's the so this this sort of universe
+just give a quick example if you
+wouldn't mind like yeah yeah so I mean
+like three three genes in a genome in in
+DNA okay so my my favorite example yes
+are things called cellular autometer yes
+and they work like this they have a a
+line of cells each one is either black
+or white it's an infinite line of cells
+and you have a rule that says you go
+down the page making successive uh lines
+of cells you go down the page and you
+say the color of a cell on the next line
+will be determined by a very simple kind
+of lookup from the color of the cell
+right above it into its left and right
+okay so very simple setup there are 256
+possible rules with just two colors and
+nearest neighbors you can just look at
+what all of them do many of them do very
+simple things they'll just make some
+some triangle of black it looks like a
+pyramid a triangle when it's done or
+right right right and then my my
+all-time favorite it's kind of you turn
+the telescope into this computational
+universe and see what's out there my
+all-time favorite Discovery is Rule 30
+and the numbering of these these rules
+you you you can specify that rule 30 you
+started off from one black cell and it
+makes this really complicated pattern it
+makes a pattern where if you just saw it
+you would say somebody must have gone to
+a huge amount it looks designed it looks
+like there was an architect yes that
+came in and designed that thing and
+that's the only way that thing could
+have been created cuz it's so beautiful
+and intricate and right resonates but it
+had two simple rules change be black if
+the left is black and the right is white
+and be white if right those those those
+kinds of things so that's the kind of
+set up and and for example when you look
+at rule 30 you look at like the center
+column of cells it looks for all
+practical purposes completely random
+even though you know that it was really
+made from some simple rule When You See
+It produced it looks random it's kind of
+like a a good analogy if you know you
+know digits of pie people memorize you
+know
+3.14159 it's about as far as I can go
+you got you were one ahead of me I
+that's why build software to do these
+things we can go to you know I don't
+know about that PhD at
+20 but uh but you know the the the point
+is that the the rule for generating
+those digits it's you know the ratio of
+the circumference to diameter of a
+circle there's a very definite rule but
+once you've generated those digits they
+seem completely random yes it's the same
+kind of phenomenon that that you know
+you can have a simple rule it produces
+things that look very complicated yes
+now so so so that's a
+simple computer that's a simple
+computational exercise by the way it's
+not such a simple computer because turns
+out when you kind of try and rank you
+know you set up a computer you make it
+with uh electronics so you might make it
+you know some some mechanical computer
+comp from the past or something like
+this you ask the question you build a
+computer of a certain kind how
+sophisticated are the computations it
+can do is it just an adding machine is
+it just a multiplying machine yes how
+far does it get big Discovery from the
+1930s is you can make a fixed piece of
+Hardware that's capable of running any
+program that's capable of doing any
+computation that's the that's the
+discovery that launched the possibility
+of software launched most of modern
+technology so one might have thought you
+have to go to a lot of effort to make a
+universal computer turns out that's not
+true it's a thing I call the principle
+of computational equivalence which kind
+of tells one something about how far one
+has to go and the answer is pretty much
+as soon as you see complicated Behavior
+the chances are you can kind of use that
+complicated Behavior to do any
+computation you want and that's actually
+that's the reason for this computational
+irreducibility phenomenon because here's
+here's how it works so so let's say
+you've got some system and it's doing
+what it does and you're trying to
+predict what it's going to do so both
+the system itself and you as the
+predictor are computational systems so
+then the question is can you the
+predictor be so much smarter than the
+system you're predicting you can just
+jump ahead and say I know what you're
+going to do I've got the answer or are
+you stuck being kind of equivalent in
+computational sophistication to the
+system you're trying to predict right so
+this principle of computational
+equivalence says whether you have a
+brain or a computer or mathematics or
+statistics or or whatever else you are
+really just equivalent in your
+computational sophistication to the
+system that you're trying to predict and
+that's why you can't make that
+prediction that's why computational
+irreducibility
+happens but you know you were asking
+about AI I mean in the the the thing
+that we have only just started mining is
+this computational universe of all
+possible programs most programs that we
+use today were engineered by people
+people said I'm going to put this piece
+in and that piece in and that piece in
+so now we have a program that can make
+programs yes well we have we have there
+sort of a vast Universe of possible
+programs we can say if we know what we
+want the program to do we can just
+search this computational universe and
+find a program that does it often I've
+done this for many years for many many
+purposes just give me an example there
+so well so so very simple example
+actually from rule 30 is you want to
+make a random number generator you say
+how do I make something that makes good
+Randomness well you can just search the
+set of possible simple programs and
+pretty soon you find one that makes good
+Randomness you ask me why does it make
+good Randomness I don't know it's it's
+not something there's no narrative
+explanation so now with AI we're
+generating a ton of programs and we now
+have a bigger space of programs or
+bigger library to go select from to
+solve problems or figure stuff out for
+us is that actually I think AI is sort
+of AI is very limited in the
+computational universe yes I mean the
+computation this the connection I wanted
+to make because yeah I mean it's it's
+you know the computational universe is
+all these possible rules we can talk
+later about whether the I just want to
+be clear because you use the term
+Universe in the sense of all the things
+and I want to disconnect that from
+everyone's concept of universe okay just
+yes we're going to talk about whether
+the I hope we're going to talk about
+whether we talk about the universe and
+the nature of the universe which we're
+going to talk about Consciousness and
+we're going to smoke weed and then we're
+going to go to lunch
+[Laughter]
+but we're going to talk about you know
+whether our physical universe is part of
+this computational universe but what I
+when I say computational universe I just
+mean this very abstract idea of all
+these possible programs all the program
+the library of possible programs yeah
+and so there are many many things that
+those programs can do most of those
+things are things that we humans just
+look at them and say well it's kind of
+interesting I don't know what the
+significance of that is they're very
+nonhuman kinds of things yeah so what
+have we done in AI what we've done is
+we've given for example a large language
+model we've given it you know 4 billion
+web pages for example we've given it
+kind of the spefic specific parts of
+essentially the computational universe
+that we humans have selected that we
+care about yes we've shown what what we
+care about and then what it's doing is
+to say Okay I I know what you humans
+care about so I'm going to make things
+that are like what you said youve care
+about yes and that's a tiny part of the
+computational universe right just like
+we saw in Caleb's video his AI said this
+video is me telling you that all the
+stuff you've talked about AI is
+Terminators and blowing stuff up
+and you know that's the limit of what
+we've we've done right and it can only
+construct stuff from the limit of what
+we've done recorded scen right our data
+sets so so I mean the thing is so in
+terms of so give us an example of
+something that needs to be
+computed a a a computational exercise
+something we got to figure out something
+we want to solve outside of what AI is
+possibly able to to solve for today well
+I mean any any of these computationally
+irreducible problems anything where
+we're asking yeah so just just just to
+connect it yeah yeah yeah right I mean
+oh gosh to pick an area I mean without
+without esoteric topology and algebra or
+something like yeah yeah right I mean
+you know okay here's an example so
+you've got a biological system you've
+got a good model great example biology
+okay so we we've got something we're
+trying to figure out this collection of
+cells it behaves in this way is it going
+to grow forever and be really bad and
+make a tumor or is it going to
+eventually Halt and stop growing okay
+that's a classic kind of computational
+irreducible type of problem where you
+know you know we could imp if we knew
+enough detail we could simulate what
+every cell is going to do every molecule
+every atom every cell every interaction
+if we knew enough we could simulate each
+of those steps and there's no easy way
+to solve that answer that question you
+can't jump ahead and say so I know this
+thing is never going to turn into a
+tumor for example right and so
+simulating the physical Universe whether
+you're simulating atoms in a cell or
+SpaceTime and discrete SpaceTime or non
+disc great space time itself becomes
+this thing that where we don't have a
+simple heris a simple equation that says
+based on this condition this is how
+things are going to end up but you have
+to actually go through a lot of
+calculate calculated steps we haven't
+known that I mean people have hoped that
+you can just write down a formula for
+how physics works and then work out the
+answer directly from that that's that
+was the big advance I mean in in you
+know if you go back to Antiquity people
+were just trying to sort of reason about
+how the universe works yes sort of
+philosophically and then late 1600 unds
+sort of big Advance we can write down a
+mathematical formula we can use calculus
+we can kind of just write essentially
+jump ahead and say what's going to
+happen in the universe we can make a
+prediction we can say you know the comet
+is going to be in this place at this
+time and so on so there's all these hard
+problems that we can't solve with AI we
+have
+today or can we and can you just help me
+and help everyone understand what are
+you excited about with respect to AI
+what is it that has happened in the last
+couple of months and years that you were
+excited about what does that allow us to
+do that we couldn't do before using just
+raw approaches to okay so so I mean
+several different things here I mean in
+in the first thing to say is you know we
+humans have been interested in a small
+part of what's computationally possible
+AI is reflecting the part that we have
+been interested in that's sort of AI is
+is is doing those kinds of things in
+terms of what's happened with AI I mean
+the big thing that happened you know a
+year ago was the arrival of successful
+large language models and uh you know
+what does that tell us I think that um
+you know it was a surprise to everybody
+including the people who were working on
+large language models that we kind of
+got past you know got to this point
+where they seemed reasonable to us
+humans where they were producing text
+that was reasonable to us humans and not
+just completely boring and and
+irrelevant and so on and I think the you
+know there's this you know this jump
+that happened now in 2012 there was a
+sort of previous jump in machine
+learning that happened with images and
+things like that image recognition and
+so on so what's the significance of
+large language models but one question
+is why do they work you know why is it
+possible to make this neural net that uh
+can successfully kind of complete an
+essay or something and I think the
+answer is that it's kind of telling us a
+piece of science that in a sense we
+should be embarrassed we hadn't figured
+out before it's a question of sort of
+how do you construct language and we've
+known forever that there's kind of a
+syntactic grammar of language you know
+noun noun verb noun etc etc etc um but
+what you know the llms are showing us is
+that there is a kind of semantic grammar
+of language there's a way of putting
+together sentences that could make sense
+yeah and you know that for example
+people are always impressed that the LMS
+have figured out how to quotes reason
+and I think the what's happening is you
+know logic is this thing that's kind of
+this formalization of everyday language
+and it's a formalization that was
+discovered you know by Aristotle and
+people in Antiquity and in a sense
+probably one can think about the way
+they discovered it they looked at lots
+of speeches people had given and they
+said which ones make sense okay there's
+a certain pattern of how things are said
+that make sense let's formalize that
+that's logic that's exactly what the LM
+has done as well it's noticed that there
+are these patterns of language that you
+can kind of use again and that we call
+logic or reasoning or something like
+that so you know I think as a practical
+matter the you know llms provide this
+kind of linguistic user interface we've
+had kind of graphical user interfaces
+and so on now we have this linguistic
+user interface you say you know you've
+got some very small set of points you
+want to make you say I'm going to feed
+it to an LM it's going to Puff it up
+into a big report I'm going to send that
+report to somebody else they're probably
+going to feed it to their own llm it's
+going to grind it down to some small set
+of uh set of results it's kind of you
+know it's it's allowing one to use
+language as a transport layer I I think
+that's a you know there there are a lot
+of these practical use cases for for
+this it's always seemed to me like the
+rate limiting step in humans is
+communication like the rate at which you
+and I are speaking to one another is
+pretty low bandwidth like a couple words
+a minute or something and yeah the
+question is what really is communication
+I mean you know in our brains there are
+all these neurons that are firing and
+you know there's 100 billion of them in
+each of our brains and and there's a lot
+of sensory input besides the words that
+you're saying that are traveling through
+vibrations in the air to my ear and
+that's some information from you but
+there's so much more information that
+the human brain can gather and is
+building models around all the time
+making predictions around whether this
+light's going to be on or off or that
+person's going to go to the bathroom or
+sit back down or what have you um but
+you know I think one of the things
+that's sort of interesting is this you
+know we've got stuff in our brains we
+are trying to package up those thoughts
+you know the structure of each of our
+brains is different so the the
+particular nerve firings are different
+but we're trying to package up those
+thoughts in a kind of transportable way
+that's what language tends to do it kind
+of packages Concepts and that's what
+these llms have done yes I mean because
+they're outputting a packet of
+communicate to me and yes yes I mean so
+but is there anything else that's
+exciting to you from a
+computational perspective what else can
+the AI do and what else okay we learn a
+lot from the AIS you know that they're
+telling us there is a science of llms
+which is completely not worked out yet
+there's kind of a a bulk science of
+knowledge and things that that the llms
+are kind of of showing us is there
+there's a kind of a science of the
+semantics of language which llms are
+showing us is there we haven't found it
+yet it's kind of like like we just saw
+some new piece of Nature and we now get
+to make science about that kind of
+nature now it's not obvious that we can
+make sort of science where we can tell a
+narrative story about what's going on
+right it could be that we're just we're
+just sort of dumped into computational
+irreducibility and we just say it does
+this because there's this black box that
+the that the the training model created
+that black box we don't know what it
+does I put a bunch of words in a bunch
+of words come out it's amazing now
+you're saying we're going to try and
+understand the the nature the graphs the
+nature of that box and that'll tell us a
+little bit something about I think we'll
+discover that for example we'll discover
+that that human language is much less
+it's it's it's much simpler to describe
+human language than we had thought yeah
+in other words it's showing us rules of
+human language that we didn't know yes
+and that's that's that's an interesting
+thing now if you ask what what else do
+we learn from the AI I'll give you
+another example of something I was was
+playing with recently so you know use
+image generation uh generative AI for
+making images as we can now see also
+making videos and so on there's this
+question of of you you go inside the AI
+and you say you know in inside the AI
+you know the concept of a cat is
+represented by some Vector of a thousand
+numbers let's say the concept of a dog
+and another thousand numbers you just
+say let's take these vectors of numbers
+and let's just take arbitrary numbers
+what what does the AI think what what is
+the thing that corresponds to the sort
+of arbitrary Vector of numbers okay so
+you can have these definite Concepts
+like cat and dog they particular numbers
+in this sort of space of all possible
+Concepts and there's this idea I've been
+calling it interc concept space what's
+between kind of the concept of a cat and
+the concept of a dog and the answer is
+there's a huge amount of stuff from even
+from a generative AI That's leared from
+us yeah it is finding these these kind
+of interc concept things right that are
+in between the things for which we have
+words sort of embarrassing to us that
+you know simple estimate simple case if
+you say what fraction of the space of
+all possible concept so to speak is now
+filled with actual words that we have
+you of the 50,000 words that are common
+in English for
+example what what um uh you know what
+yeah that's a that's a didn't know that
+number that's interesting yeah right if
+you're an llm person that's the uh you
+know when it produces
+when it says what's the next word going
+to be cuz that's what llms are always
+doing they're just trying to predict the
+next word what it's doing is it says
+here's this list of 50,000 numbers which
+are the probabilities for each of the
+possible 50,000 words in English and
+then it'll pick the most likely one or
+or the next most likely one or whatever
+else but in any case the the um you know
+this when you ask the question in the
+space of sort of all possible Concepts
+how many do we have words for the answer
+is it's 1 in 10 600 wow it's like we
+have a we have have explored a tiny tiny
+fraction of even the kind of Concepts
+that are revealed by the things that
+sort of we put out there on the web and
+so on that's more than there are atoms
+in the universe yeah they 10 to the 8th
+atoms in the universe right 10 to the
+8th is very small compared to a lot of
+the numbers one deals with but um uh you
+know I think
+the yeah it's a we should talk about the
+universe that I want to talk about the
+universe yeah right it's pretty cool so
+um people want to talk about AI That's
+why I wanted to just make sure we we got
+your point of view so I it's appreciated
+um what is the nature of the
+universe and what do we have wrong
+what's that and what do we have wrong
+yeah what do what does consensus have
+wrong yeah well so I mean this this is
+where this is like where you like let
+the Reigns go and then you you go yes
+like we had CH at dinner the other night
+so I'm excited yeah it's it's um you
+know physics as we know it right now was
+kind of 100 years ago big advances made
+in physics three big theories in physics
+um general relativity the theory of
+gravity quantum mechanics the theory of
+small kinds of things and statistical
+mechanics the theory of heat and uh sort
+of how and the second law of
+Thermodynamics law of entropy increase
+things like this okay so those are three
+big theories that were invented about
+100 years ago physics has been sort of
+on a gradual incremental trajectory
+since then I've been interested in
+trying to understand kind of what what
+could be underneath everything that we
+see in in the world and I think we
+figured it out which is kind of exciting
+not something I expected to see in my
+lifetime not something I kind of
+expected to see for 50 100 more than
+that years and kind of the the the
+number one thing that you say what do
+people get wrong one question is what is
+space well you know people just sort of
+say space is the continuous thing you
+put things in any different place in
+space people have been arguing about
+whether space is continuous or discreet
+since Antiquity discret means that it's
+broken up into little pieces yes yes so
+so you know this argument also happened
+for matter is matter continuous or
+discrete you know you have water is it
+just this continuous fluid or is it made
+of discrete kinds of things that got
+answered about 120 years ago the answer
+is water is made of discrete molecules
+same thing happened for light light is
+made of discrete photons space got kind
+of left out space people still think
+it's a continuous kind of thing so the
+kind of the starting point of things
+I've tried to figure out is actually
+know that's not true space is discret
+there are atoms of space so to speak not
+like physical atoms like hydrogen helium
+and things they're just uh these sort of
+points there're slots where things can
+fit is that a way you think about it
+they're they're really just things
+Nothing fits in them I mean they're just
+all that one knows about them they're
+abstract things all one knows is that
+one is different from another so there
+are the two discret things next to each
+other there's no next there's no next
+there's no space we're about to build
+space so there is a graph is that a way
+to think about it a relationship between
+two things right well relationship
+between several things it's kind the
+giant friend network of the atoms of
+space right and that's that's all there
+is that's what our universe is made of
+and you know all the things that we
+observe you know electrons black holes
+all these kinds of things they're all
+just features of this network and that's
+it's it's kind of like you might say how
+could that possibly be the way things
+are you know if you think about
+something like water you think about a
+little Eddie in the water that Eddie is
+a thing where you can say there's a
+definite Eddie that's moving through the
+water yet it's made of lots of discrete
+molecules of water yet we can identify
+it as a definite thing and so it is with
+electrons etc etc in the universe it's
+all features of this giant Network and
+it's it's so that's the way it seems to
+be help so does each particle as we know
+it an electron a proton have a feature
+that
+defines its
+relative connectedness to other
+particles and that definition that
+little number is what we look at as
+space as a whole is that a way to think
+about it no an electron is a pretty big
+thing relative to the atoms of space we
+don't know exactly how big but it's a
+big floppy thing um the the the the
+feature I mean right now in in in it has
+been assume that electrons are actually
+infinitesimally small but that doesn't
+seem to be true but the thing that that
+kind of defines something like an
+electron it's kind of like it's sort of
+a topological kind of thing it's like
+you can have a you can have a piece of
+string and you can either knot it or you
+can not knot it right and you know there
+are lots of different ways you can make
+the knot but it's still it's either
+knotted or it's not knotted and that's
+there's either an electron or there
+isn't an electron so you know kind of
+the the structure of space it's kind of
+much like what happens between molecules
+and a fluid like water there are all
+these discret atoms of space and they
+have these relations to each other and
+then if you look kind of at a large
+scale what are all these I should say by
+the way that these atoms of space the
+main thing that's happening is pieces of
+this network are getting Rewritten so a
+little piece of network this is really
+important yes I think this is really
+important because it I'm going to ask
+the follow on question all right so so
+so what is time time is this kind of
+computational process where this network
+that represents the change through this
+physical Network is time yes yes so so
+time is a computational phenomenon time
+is the is the progressive change of the
+network one particle touches another one
+touches another this thing changes this
+one this changes this one and sounds to
+me like you're describing your cellular
+automata Yes except it's it's very much
+like that it's a computational process
+and it happens to be operating on these
+Piper graphs rather than just lines of
+black the universe
+itself is a computer yes running a
+computational exercise yes well I don't
+know whether you call it an exercise but
+yes it's a it is Computing yes it is
+Computing and that's that's what the
+progress of time is time is the is the
+progress of that computation yes and
+that is what people mean when they say
+are we living in a simulation
+no no I think that's a philosophically
+rather confused thing I mean there's
+there's there's a little bit deeper in
+the rabbit hole that you have to go to
+understand why that doesn't really make
+sense
+but but um no so so I mean you know then
+then the question is just like you have
+all these molecules bouncing around they
+make sort of continuous fluids like
+water you can ask what do all these
+atoms of space make turns out they make
+Einstein's equations that describe
+gravity and describe the structure of
+SpaceTime so that's kind of a kind of a
+neat thing yes that that's because it's
+not been imagined that one could
+derive the properties of of something
+like that from something lower level I
+mean I should say
+okay this is this is a big complicated
+subject but but um the the um the thing
+that you guys doing
+okay okay good
+the the the thing that's pretty
+interesting in all of this is the way
+that the nature of us as observers is
+critical to the kind of thing that we
+obser this is the most important thing
+I've heard in the last year when I
+watched your interview a few weeks ago
+so I I just want you to walk everyone
+through this statement again cuz this is
+so important well all right so that the
+okay this this
+um let's let's the the question is what
+for for example if we're looking at a
+bunch of molecules bouncing around in a
+gas and we say what do we see in those
+molecules well we see things like the
+gas laws pressure volume things like
+this we see things like the gas tends to
+get more random things like this that's
+what we see because we're observers with
+certain characteristics if we were
+observers who could trace every molecule
+do all the computations to figure out
+what all the molecules would do we would
+make quite different conclusions about
+what happens in gases it's because we
+are observers who are bounded in our
+computational capabilities we're not
+capable of untangling all those all
+those kind to see all those atoms we
+have to look at the whole can of gas we
+can't look at each atom individually
+right we can't we can't trace the motion
+of each atom individually
+so
+ouris is the PV equals nrt the the gas
+laws right we look at that gas and we
+say this is the ratio of temperature
+which is the total energy of the system
+as opposed to the energy of each
+individual atom and there's a lot of
+different energy states of all these
+different atoms so we kind of sum sum
+everything up we take an average of a
+lot of stuff to understand it right and
+and the point is that people haven't
+understood the fact that we sort of have
+to take that average because what's
+underneath is computationally ired
+usable but we comp are computationally
+bounded and it turns out that exact same
+phenomenon is the origin of SpaceTime
+and gravity that these all these atoms
+of space operating in this network it's
+all this computationally irreducible
+process but observers like us observers
+who are computationally bounded
+necessarily observe this kind of uh sort
+of aggregate Behavior which turns out to
+correspond to the structure of SpaceTime
+same happens in quantum mechanics
+quantum mechanics is a little bit harder
+to understand one of the big features of
+quantum mechanics is in in classical
+physics you say you know I throw a ball
+it follows a definite trajectory in
+quantum mechanics you say I do something
+there are many possible Paths of history
+that could be followed we only get to
+work out things about averages of those
+paths so it's sort of there are many
+different Paths of history that being
+being pursued in these networks and
+things what's happening is that there
+are many different rewrites to the
+network that can occur we get these many
+branches of history and so then the
+question is and like a quantum computer
+is trying to make use of the fact that
+there are many branches of history that
+it can kind of follow in parallel but
+then the question is well well how do we
+observe what's actually happening well
+we are embedded in this whole system
+that has all these branching parts of
+history and so and we're limited well we
+we we our brains are full of sort of
+branching behavior and so on but we are
+we're sort of computationally bounded in
+what we can do we are effectively
+we we're sort of the question you have
+to ask is how does sort of the branching
+brain perceive the branching universe
+and as soon as the brain has this sort
+of computational boundedness in its
+characteristics and it also has one
+other assumption which is it assumes
+that it is persistent in time right so
+it's like we are at every moment we are
+made of different atoms of space yet we
+believe that it's the same us right at
+every successive moment right as soon as
+so our concept of consciousness
+precludes us from being able to see
+perhaps a different nature of the
+universe a different okay yes told you
+guys we were going to go like really
+right so so you know it's kind of like
+observers like us who are
+computationally bounded believe they're
+persistent in time the big result is
+that that observers like us inevitably
+observe laws of physics like the ones we
+know yeah and so you know imagine sort
+of the alien that isn't like us that
+isn't computationally bounded doesn't
+believe it's persistent in time it will
+observe different law of the universe
+and so the laws of the universe are only
+based on our nature yes but but very
+that's what I thought was so interesting
+right it's a very coarse feature of our
+nature it's not like we have to know
+every detail of us yes the laws of
+physics only require these and actually
+I suspect that as we there are other
+things that we probably take for granted
+about the nature of us as observers and
+as we start putting these in we'll
+probably actually find more things that
+are inevitable about the way the physic
+that physics works so the the belief as
+I use that term I kind of feel um like
+I'm deluding myself because I am not the
+same Adams as I was a second ago a
+second ago second ago second
+ago this belief that we have a self talk
+about your understanding I know this is
+a bit farfetched from maybe your
+specialty I'm sure you have a point of
+view on then what is this concept of
+Consciousness that we have where we
+think we're persistent in time where we
+have this concept of self-identity you
+know what does this all
+and how do you think about this notion
+of Consciousness and the observer in the
+context of the universe I'm observing
+stuff in the universe and I'm think I'm
+a human body and I'm really I'm a bunch
+of atoms floating around with a bunch of
+other atoms like yeah you know I used to
+think kind of there was a sort of
+hierarchy where Consciousness was at the
+top but I don't think that anymore I
+think Consciousness is a very it's just
+just like the AIS are not doing all
+possible computation you know we are
+actually rather limited in our kind of
+uh observation of the universe we have
+you know we're localized in space we
+have this belief that we're persistent
+in time and so on imagine what you would
+feel like so to speak if you were much
+more extended in the universe if you
+were in fact one one of the things that
+we see in our in our models is this
+thing we call the ruad which is this
+kind of this entangled limit of all
+possible computations and we are every
+mind in a sense is just at some small
+Point some small region in this ruad and
+so it it's and you you imagine what
+happens if if you uh and and by the way
+as we as we learn more in science we're
+effectively expanding in this kind of
+Ral space where just like we can send
+spacecraft out our aggregate
+Consciousness yes as a species yes yes
+so you know just like we can send
+spacecraft out that Explore More of the
+physical universe so as we expand our
+science as we expand kind of the ideas
+that we use to describe the universe
+we're kind of expanding in this Ral
+space and so you might say well what
+happens if we kind of expand you know
+that that should be the future of
+civilization to expand in Ral space to
+expand kind of our domain of
+understanding of things it's a do is is
+is a shifting Consciousness like hippie
+type question but like there's this um
+there's this uh a guy in the UK named
+Darren Brown he's a mentalist he puts
+these two advertising execs in a room
+and he tells them hey come up with an ad
+the name of the company come up with a
+logo come up with a a catchphrase he
+goes out for a few hours comes back
+pulls off a thing he copied exactly what
+they he had written down exactly what
+they were going to do the way he did it
+is as they drove over he subliminally
+put a little image in the cab he had
+some kids walk across the street with a
+logo and they just basically were
+programmed to Output what he asked them
+to do and they they they thought that
+they were creative Geniuses they're like
+well these high paid adex look at our
+genius look at what we did and it always
+struck me as like the human is just the
+unconscious computer we just the you
+know the the node in the the neural net
+that you know takes the input gets
+sensory programmed output and we're part
+of the computational exercise is that a
+um like a a way to think about this idea
+that we are part of this broader
+computation and as we do that this
+Consciousness you're the person you
+mentioned you know they're cheating
+computational irreducibility so to speak
+yes they're they're they're saying I'm
+going to I'm going to put this thing
+which is going to be the answer and
+that's you know that that the you know
+the more interesting way to sort of lead
+life in a sense is just by this process
+of letting time progress and sort of
+this irreducible computation occur and
+is that what gives you
+Joy yeah I think so I mean I think it's
+it's a it's a funny thing because when
+you when you kind of think you know sort
+of what's underneath the universe and
+and how kind of all this all these ideas
+fit together and you kind of realize
+that uh it's it's you know I I'm I'm a
+person who likes people and so it seems
+very bizarre that I should be interested
+in these in these things that kind of
+deconstruct everything about about
+humans and I I realized at some point
+you know one of the things about doing
+science that's one of the more difficult
+human things about doing science is you
+have to kind of you know get rid of your
+prejudices about what might be true and
+just you know follow what the science
+actually says and so I've done that for
+years and then I realized actually it
+turns out the thing that I've done puts
+humans right back in the middle of the
+picture you know with these things about
+the fact that matters what the Observer
+is like realizing that you know in this
+sort of space of possibilities that we
+are just you know what we care about is
+this part that is the result of human
+history and so on um you guys asked for
+more science corner so I hope this fit
+the bill guys please join me thanking
+Steven
+[Applause]
+wolf let your winners
+ride Rainman
+[Music]
+David and said open source it to the
+fans and they've just gone crazy with
+[Music]
+it

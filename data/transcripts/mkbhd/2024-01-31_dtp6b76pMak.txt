@@ -1,0 +1,992 @@
+# Using Apple Vision Pro: What It’s Actually Like!
+# https://www.youtube.com/watch?v=dtp6b76pMak
+
+all right so you've seen the unboxing
+now it's time for the breakdown what is
+using the Apple Vision Pro actually
+like this is easily one of Apple's
+craziest most radical possibly dystopian
+products of all time and I have a lot of
+thoughts here like I've been using it
+for about a week now there are some
+parts of this thing that are absolutely
+incredible and some other parts that
+feel weird or borderline unfinished
+there are all kinds of new technologies
+from a new operating system to infrared
+eye tracking to virtually reconstructed
+versions of you I feel like there are so
+many actually new things that you have
+to understand in order to get a sense of
+what this headset actually is and what
+it does so I'm going to break this down
+into two parts this video is all about
+using the Vision Pro it's everything
+I've learned from the past week of
+wearing and getting used to this thing
+every single day but I'm also working on
+a more wide ranging possibly more
+existential review video but let's just
+start with the more Hardware
+fundamentals right like what is this
+thing that I'm holding literally Apple
+Vision Pro at its core well it is a VR
+headset now Apple would never say that
+and they probably won't like that I'm
+saying that word you know I made an
+entire video about why they refuse to
+use those words and they're calling it
+spatial Computing instead we'll get
+there but the truth is it's a really
+really really high-end virtual reality
+headset it's it's something we've seen
+before right it's got displays and
+lenses and speakers and fans and buttons
+and this is a form factor this is a
+thing that we have seen before but
+before I even turn this thing on there
+are clearly several things that are a
+little different about this one so first
+of all it's made of metal lots of metal
+and glass here which are high quality
+but heavy materials Rel ly speaking so
+there's this precisely machined aluminum
+frame around the outside and yes those
+are intakes for fans at the bottom and
+then vents for those fans at the top on
+the right side there's your digital
+crown that can be pressed in or turned
+and then on the other side is just this
+single larger button so kind of
+basically the same two buttons as an
+Apple Watch and then when you get a
+little further back on this band here
+these little pods with downward facing
+grills these are speakers which are
+pointed straight at your ears and work
+surprisingly well though of course it
+also means that people around you can
+hear a little bit of what you're hearing
+there's a little bit of bleed and I have
+a lot to say about spatial audio so stay
+tuned for that but the main event is at
+the front there's an enormous piece of
+glass which yes is very easy to
+fingerprint and smudge and then behind
+that thing there's this outward facing
+OLED display and a bunch of sensors all
+the way around outside facing sensors
+that go forward sideways and straight
+down there's depth sensors infrared
+illuminators light hi R scanners and
+just regular old RGB cameras all being
+processed by an M2 Chip and an R1 chip
+inside this thing and then maybe the
+craziest part inside the headset there
+are a bunch more sensors facing your
+eyes tracking your eyes in real time for
+all the eye control and everything that
+comes with that and also then to display
+a representation of your eyes on the
+outside of the
+headset kind of we get there but overall
+when you put it all together you get a
+very well-made very high-end but also
+pretty heavy computer to wear on your
+face uh so officially this this headset
+with this solo knit band when I weighed
+it showed up as 638 G which some of you
+on Twitter have already pointed out is
+actually slightly less than the plastic
+meta Quest Pro but that Quest Pro also
+has a lot of battery on the back of your
+head as a sort of a counterbalance so
+the weight distribution is very
+different also the quest Pro is not that
+comfortable anyway but the point is this
+for Apple made the choice of taking the
+battery off of the headset which means
+okay now there's nothing on the back of
+your head so you can wear it and lean up
+against things and that might be an
+upside but that also now means you have
+to deal with this cable all the time
+running up to your head and the fact
+that it's very front weighted now all of
+the weight is on the front of your face
+so this is the battery uh as you saw in
+the unboxing if you haven't already seen
+the unboxing that just went up I'll link
+it below the like button but this
+battery is a surprisingly small
+3,366 Mah I say surprisingly small
+because a normal battery Bank of this
+size you might expect to be 10 15 20,000
+Mah hours I suspect there's a lot of uh
+heat insulation happening here but it
+comes with a non- removable 4ft cable
+and a proprietary connector at the end
+of the cable that will twist and lock to
+the headset and so the lock is really
+solid it makes sense that it's not just
+straight USB that could get disconnected
+easily once you connect it it starts
+glowing and then it starts booting up
+and there's even a little Apple logo
+that displays on the outside screen
+while it takes you know a little under a
+minute to turn on so there is no on or
+off button or switch anywhere on this
+headset maybe kind of like airpods Max
+or something like that so if you ever
+take the headset off and put it down it
+will enter a standby mode after some
+time but it won't turn off if you want
+to turn it off you literally have to
+twist and unplug the cable that's the
+only way to actually turn the headset
+off now famously already the battery
+life with this included battery is not
+super long on this headset 2 to 4 hours
+is actually realistic for what you can
+expect for just like this built-in
+battery but that's also kind of right in
+line with a lot of other VR headsets
+battery life on VR headsets is not that
+great in general if you do want to use
+it longer the only way to do that is
+there's a USBC port on the battery and
+you have to plug the battery in so you
+can plug the battery into the wall for
+infinite battery life or I guess you
+could plug it into like a you could
+daisy chain another battery into the
+other pocket or something for even
+longer life but yeah 2 to 4 hours now at
+first it seemed weird to me that the
+port is on the same side of the battery
+as the non- removable cable but I think
+it's because they just want you to
+default to putting this battery like in
+your pocket probably in your back pocket
+so even if it's plugged into the wall it
+can still be in your back pocket you're
+just going to want to get a longer USBC
+cable so there are no controllers that
+come with this headset now it does
+support other input methods that are
+like game controller and mouse and
+keyboard and those can be incredibly
+useful but by default the primary input
+method for everyone using the Vision Pro
+is your eyes and your hands so the first
+time you put on this headset it goes
+through this calibration process and
+it's pretty interesting so the first
+time you ever put it on it first adjusts
+the distance between the lenses
+physically moving them inside the
+headset to match the distance between
+your eyes then it does a sort of a hand
+scan so it understands your hands and
+then you go through this process of
+basically looking at a bunch of dots all
+the way around the screen and then
+tapping your fingers together to select
+them kind of feels like an eye test or
+something and then you're in so first
+thing you're going to notice is you can
+actually kind of put your hands anywhere
+as long as the headset can see this just
+your fingers touching together so
+there's a lot of pictures of of people
+like using a headset with their fingers
+like out in front of them pinching like
+that but you actually don't have to do
+that it's such a wide angle because of
+the sensors facing forward and sideways
+and down you can kind of just rest your
+hand anywhere in front of you in your
+lap as long as you pinch like that it
+can generally pick it up which is
+impressive so you're pinching to control
+anywhere in that 180° bubble in front of
+you and then the digital Crown you hit
+that once and the app drawer comes up
+pretty simple doesn't seem that
+impressive but this is actually a peek
+at the first really impressive thing
+about this headset to me which is it
+seems to have incredible spatial
+positioning lock and like it's really
+hard to show like have you appreciate
+this through a YouTube video reviewing
+VR headsets is hard but like turn around
+in the room you're in and like picture a
+a wall or a window just appearing locked
+in place in 3D space in your room and no
+matter how much you move your head or
+move around it stays exactly kind of
+floating where it's supposed to be but
+when I say floating I think you're
+picturing like a a soft float but it's
+locked and that's how it starts so now
+you're in Apple's new vision OS I would
+describe this as kind of similar to iPad
+OS but way more glassy and like of
+course with the extra dimension of 3D
+space so hitting a digital Crown will
+always get the app drawer back in front
+of you and then simply look at the icon
+you want and pinch your fingers together
+to select it and open that app scrolling
+is basically as you'd expect you just
+kind of pinch and grab in the air and
+then pull as if it's on a string and
+physics let you pull things through the
+air it's pretty intuitive it's resp
+responsive it's fluid sometimes it's
+kind of bouncy even I would say the
+biggest adjustment is only being able to
+control exactly what you're looking at
+and I don't think people realize how
+often they're controlling things that
+they're not exactly looking directly at
+with other computers and other uis but
+with this you can look at the button to
+select it and if you look at the next
+thing you're going to do you're no
+longer controlling the button you have
+to look exactly where you're trying to
+interact with things takes a few extra
+brain Cycles to remember to always is be
+looking exactly at the thing you're
+controlling so when you open a window of
+a vision OS app like any one of the
+default Apple apps here it locks into
+place it's floating there it kind of
+looks again like an iPad app but very
+glassy like this frosted glass around
+the UI sort of lets you see through a
+little bit to the color behind it and it
+even sometimes casts a shadow on the
+ground in the correct zspace so it
+really solidifies that it's floating in
+front of you all of this makes it feel
+like the window is in the space around
+you then if you look at the bottom of
+the window you get a little bar you can
+always just look at that bar and pinch
+to drag it around so drag it Forward
+backward anywhere you want in XY and Z
+space and then let go and it just stays
+absolutely locked and then you can look
+at either bottom corner to resize to
+make it bigger or smaller and then
+finally there's a little X at the bottom
+you select that that closes it so that
+is the basics of vision OS and just
+using an app now this entire time by
+default and almost anytime they can pass
+through is on which means you have the
+headset on but you can see with the
+cameras right through to everything
+around you and I think this is where
+Apple really wants to normalize the term
+spatial Computing because it feels like
+augmented reality it feels like you're
+always able to see the space around you
+but technically it's not actually AR
+because you are still looking at a
+reconstructed version through a camera
+feed of the world around you instead of
+the actual world around you but maybe
+it's all just mantics I will say this is
+the best pass through of any VR headset
+I have ever used and it's not even that
+close now again it's it's so hard to get
+this through a YouTube video I I it does
+have screen recording built in so I'm
+going to try to use that but imagine
+putting a headset on and not really
+feeling like you're looking at a screen
+with the real world because of the pixel
+density because of the 90 HZ refresh
+rate and because of the impressive
+dynamic range of the cameras and the
+correctly adjusting shutter speed you
+you just almost don't you almost just
+feel like you're looking at the real
+world not through a headset also the
+pass through is so close to real time
+that I could legitimately interact with
+all kinds of things I could catch items
+flying at me I even tried playing
+pingpong it was easy no hesitation so
+officially the R1 chip is doing all the
+processing of all this stuff and
+adjusting the shutter speed for
+different lighting conditions and always
+keeping pass through latency Under 12
+milliseconds which is the lowest in the
+industry but it's it's really combining
+that with how close to reality the
+colors and brightness and everything are
+that keeps it feeling kind of real
+basically the only noticeable
+restriction is super close-up items and
+objects can get a bit blurry and then
+you can't quite make out like really
+small or fine text so you can't like
+read an email or tiny text on your phone
+in your hand but you can absolutely text
+people or read your notifications while
+keeping the headset on if you've tried
+other VR headsets you know how
+impressive that is it's just it's really
+good with the tech that exists now for
+VR headsets uh but you can definitely
+still take the headset off and be like
+oh it's way brighter in here than I
+thought it was either way that's all
+pass through but if you ever want to
+fully immerse yourself I mean it is a VR
+headset after all all you got to do is
+uh rotate this digital Crown clockwise
+just keep turning it and it will slowly
+dial your environment more and more into
+your field of view until you dial it all
+the way up to fully surrounding you so
+all of the Windows you might have had
+open will still stay stuck where they
+were but everything you're doing is just
+on the moon now so yeah there's a couple
+environments Apple has built in here
+most of them relaxing Scenic locations
+like in California somewhere or one
+really nice one is Mount Hood with a
+little bit of rainf falling they're not
+quite photorealistic but they're just
+short of photorealistic like they're the
+most realistic digital environments that
+I've seen so then the last two big
+quirks of the UI control center so the
+only way to get to control center is to
+look up like and you can't just look up
+but you have to physically turn your
+head up and look at this arrow that
+appears above you so once you see that
+you select that and then you get your
+control center for things like you know
+battery life and notifications Focus
+modes and screen recording and pairing
+to a Mac but the other big Quirk is text
+input so you might be wondering how does
+text input work with no physical
+controllers uh so there's basically
+three ways to do this so let's say
+you're in Safari and you want to go to
+MKBHD
+docomond hoodies for the rest of winter
+great how do you do it so the first way
+is to literally hunt and Peck poking the
+keys on the keyboard that appears in the
+air in front of you so this one is tough
+because it literally only reacts to your
+pointer finger on each hand so you
+actually can't type fast like with home
+row or anything like that not great the
+second way though I think is actually
+kind of good it's at least faster which
+is looking at the key you want to
+interact with and then pinching to
+select it so just looking at looking
+around the keyboard like this and
+selecting the keys and you might be
+surprised how fast you can type like
+this if you actually know your way
+around a keyboard pretty well I actually
+prefer this to poking the virtual keys
+because I at least get a little bit of
+haptic feedback from my own fingers
+tapping together but then in Safari the
+last way to do it is literally to just
+look up at the microphone and say the
+URL out loud mkb.com and then it just
+hears you and goes to the site pretty
+quick if it's a URL that you know you
+can actually say out loud so what can
+you actually do with this thing like now
+that we know what it is it's the M2 Chip
+a computer on your face with the
+displays and the lenses inside and all
+sorts of sensors everywhere what can
+this thing actually do and I feel like
+the most common way to phrase that is
+what is the killer app because that's we
+feel like we need some sort of
+justification to spend $3 $4,000 on this
+thing like applications made the iPhone
+what it is as we know it like apps made
+the iPad so what is the app situation on
+the Vision
+Pro so there are two types of apps on
+the Vision Pro actually the first is
+apps that are built specifically for the
+Vision Pro to take advantage of its
+awesome experiences and there are a few
+of those right now and then there are
+all the other apps which basically are
+iPhone and iPad apps that happen to be
+comp compatible because the developer
+didn't opt out and the first kind is way
+cooler so these are Apple's stock apps
+here that come with the Vision Pro and
+so these are all of course made just for
+Vision Pro so they're going to have
+stuff that takes full advantage of what
+this thing is capable of Apple music is
+a pretty classic one like it has all the
+same functionality of any other Apple
+music app but in this super glassy
+frosted window and shows the colors of
+whatever's behind it and you have the
+sort sort of sorting menu on the left
+hand side instead of across the bottom
+that's the basic layout same thing with
+the notes app and the settings app very
+glassy almost looking like an iPad app
+in the air just rebuilt with this new
+material design and then there's the
+media apps so Apple TV and Disney plus
+they both come pre-installed which they
+have built entire environments inside of
+them for watching media and there's even
+a small collection of videos on the
+Apple TV app that are shot on a new
+proprietary format specifically for
+Vision Pro so it it drops you into a
+space with a full 180° video and Alicia
+Keys walks right up to you and starts
+singing right to your face it's crazy
+there's also the photos app which will
+let you look at like panoramic photos
+for example in this fully immersive view
+so you can blow them up to full screen
+and then it gives you a bit of a
+parallax effect around the edges so it
+feels like you're like looking into a
+window of your own photo and looking
+around it's kind of incredible and then
+there's also some other really fun third
+party apps that I've tried that were
+built ahead of time so sky guide this is
+a good one you can look around a real
+representation of the sky around you or
+any of the you know constellations would
+normally be you can look at it a little
+longer and it'll pop it out you can pull
+it out of the sky to get more
+information about it it's a pretty great
+idea there's another one called jigspace
+which is it's a sick app I don't know if
+I'd ever use it but basically it lets
+you load 3D models into the space you're
+in and mess around with them take them
+apart view them in actual ual size and
+this really takes advantage of how good
+the placement lock is on the Vision Pro
+and you know you can walk around and
+really gets you a better understanding
+of the scale of things that you don't
+get to see up close very often and then
+keynote is another funny one so you can
+of course go through and edit a keynote
+just like normal if you want to but then
+they've built this whole environment for
+practicing your presentation skills so
+you press that and it says oh would you
+like to go to a conference room or the
+literal Steve Jobs theater so you can
+rehear
+talking to your audience with your
+keynote slides behind you it is
+genuinely incredibly immersive and
+there's already a bunch more apps like
+this in the app store already at launch
+that are specifically built for Vision
+Pro so they'll take advantage of its
+various strengths now are any of these a
+killer
+app not really I mean I don't if you're
+if you're looking for any one of these
+to be the reason why you spend like
+$4,000 on this headset I don't think we
+have that yet but then at least there's
+all the other
+non-native but technically still
+compatible apps that are in the App
+Store and these are going to look just
+like iPhone and iPad apps actually
+there's a pre-installed folder on the
+home screen when you get this thing
+literally called compatible apps and
+there's a bunch of them from Apple here
+they look exactly like iPad apps I'm
+surprised actually that more of them
+aren't fully built out to take advantage
+of Vision Pro but like Apple Maps is
+just the iPad app and so it would be
+cool if there were some like fun
+augmented reality overlay walking
+directions type stuff but nope it's all
+the exact same functionality that you
+would find if you open this app on your
+iPad and you can go to the App Store and
+search a bunch of the names of apps you
+already know and love and find them by
+name and grab them and they'll work the
+exact same way crazy enough though there
+are already some notable exceptions uh
+no Netflix app for The Vision Pro no
+YouTube app for The Vision Pro no
+Spotify app for The Vision Pro Apple has
+a kind of a contentious relationship
+with a lot of developers right now
+especially some of the bigger ones um
+and so some have made the active choice
+to opt out they're like we don't want to
+be there this won't be a big enough
+platform to matter to us to justify the
+work so they're not there now I totally
+get it but also now as a Vision Pro
+owner and someone who's using it I'm
+like oh it's kind of a bummer I really
+wanted to be able to watch like a
+Netflix show offline downloaded ahead of
+time but you can't do that now but at
+least at least for now for the record
+you can use the browser and anything
+that would work in the browser so if you
+pull up Safari and you get a full screen
+4K YouTube video going and locked in
+space or even in an environment it looks
+great it's razor sharp like I could
+totally watch YouTube videos like this
+but you will definitely be missing like
+the features of having the dedicated app
+like offline video honestly to me the
+killer app of the Vision Pro isn't just
+an app it's actually the ecosystem and
+we knew this was coming but the second
+you log into a Vision Pro with your
+Apple ID immediately it starts pulling
+all the services and all the stuff that
+you're used to from all the other Apple
+devices you already have and I said this
+before the Vision Pro is announced I was
+like this is the most obvious strategy
+for Apple because there are lots of
+people out there who have never
+considered buying a VR headset that are
+considering only this one because they
+have an iPhone and this is the one that
+works with the iPhone and none of the
+others are particularly close so all
+your iMessages are already here all of
+your photos are already here and loaded
+up and backed up all your notes are
+already at your fingertips you already
+saw the keynote app but okay easily my
+favorite feature is connecting to your
+Mac right so anytime your Mac is in
+front of you and it's turned on hit that
+arrow and then there's this little icon
+to become my Mac's virtual display so I
+click that and then pick my Mac and it
+pretty much instantly it actually blacks
+out the display of my Mac and then turns
+that display into a 4K window inside of
+the headset so now my keyboard and
+trackpad still work even if it is a
+desktop the keyboard and the trackpad
+still control everything and you can
+continue using it just like a normal
+computer but with the ability to make
+your new 4k monitor as big or as small
+or close or far away as you want which
+is super sick and then the bonus is you
+can still open up and place other Vision
+Pro apps around your Mac computer so
+like you can have your Mac in in the
+middle here maybe you're editing or
+doing some work on the Mac App and then
+you have a safari window or or messages
+or whatever else you want right next to
+it around it and then your keyboard and
+trackpad can move seamlessly between
+them all to control all of them this to
+me as a Mac User the ease of use for
+setup to make this happen this feels
+like the biggest game changer like the
+most compelling futuristic feeling use
+of this headset to me especially on a
+plane oh my God I can't tell you how
+many times I've had an awkward
+conversation because like I'm editing a
+video on the plane the person next to me
+sees I'm editing a video of myself and
+it's kind of weird and hard to explain
+but I'm picturing putting the headset on
+the display blacks out but now I can do
+all the editing I want and I can make
+the screen as big as I want so I've
+really enjoyed using that feature again
+the biggest challenge though is still
+remembering to look exactly at the thing
+you want to control so aside from typing
+on the real keyboard on whatever windows
+open if you want to control something
+you have to be looking at it again it
+doesn't sound like a big deal but when
+you try it you'll see what I mean and
+then also odd limitation one monitor
+only from the Mac one virtual monitor
+only at a time so if you usually run
+like a dual display setup like I do for
+Final Cut Pro big preview on one side
+timeline on the other side you can't do
+that you have to use the big one monitor
+version of your setup all right so you
+might have realized I've left one thing
+out this whole time one thing you could
+call it one more thing sure it's one
+more huge crazy thing but it's kind of
+the defining characteristic of this
+product and that is personas so in all
+the advertising you've seen a Vision Pro
+there's these eyes on the outside of the
+headset that looks like they're kind of
+in like a pass through like in a dark
+astronaut helmet type of thing easily
+the most memed most unique aspect of
+this headset right it's the only headset
+with an outward display and I mean it's
+very very prominent in those videos but
+in real life as you've started to see
+from some of my footage it is very
+different and I think I figured out why
+so first of all it's not actually
+see-through right there's a whole bunch
+of computer in between me and you right
+now so the eyes aren't on the outside
+it's a representation of my eyes based
+on what all the sensors on the inside
+are seeing it's reconstructing it on the
+outside so Those sensors are track at 90
+frames per second and they give you
+optic ID which is it's how you log into
+the headset and keep things secure it's
+basically the same as face ID or touch
+ID it's just looking at and identifying
+your eyes and it also Powers the One
+beta feature of this headset which is
+personas which is it's the most
+impressive and weirdest thing about this
+headset at the same time I'm calling it
+right now so the purpose of the eyes on
+the outside is really not for you the
+wearer of the headset in fact you'll
+never see it but it's for the people
+around you so when you're in a pass
+through mode your eyes will shine
+through to indicate that you wearing the
+headset can see the person outside so
+that right there is already pretty
+unique but then when you're in something
+immersive and you can't see what's
+around you it covers up your eyes with
+this sort of like a blue purple glowing
+animation so that intuitively makes
+sense you can see the eyes when they can
+see you you can't see the eyes when they
+can't see you but crazily enough there's
+also a feature where if you have someone
+who's outside the headset looking at you
+talking to you and you are in an
+immersion but you want to talk to them
+through that they will kind of appear
+through the fog of whatever immersive
+environment you're in so you just start
+talking and looking in their Direction
+it detects that and sort of Parts a
+little bit of a fog and that person's
+eyes will show through the fog it's
+pretty decent it it basically only shows
+one person at a time and when this is
+happening on the outside of the headset
+it shows a little bit of your eyes
+poking through the purple and blue glow
+it's as you can see it's it's all
+working but also I think it looks
+nothing like the eyes from the ad so in
+an effort to make the the eyes as
+presentable as possible two things first
+of all this screen is actually behind a
+lenticular film uh which I didn't even
+realize that from the initial media
+they've published but if you've ever
+heard of that it's sort of what gives it
+like this 3D depth you might have seen
+this on other like holographic displays
+and stuff but the point of that is to
+make the eyes appear to be sunken into
+the display like on your actual face
+instead of like glued to the front of
+the headset which would look a little
+more weird but then two to represent
+your actual eyes they've built in a way
+to scan in and create a digital
+representation of your face which is
+called your persona and it looks like
+this so to get those eyes on the outside
+of the Vision Pro headset you have to do
+something called registering your
+persona this is how it creates the
+digital version of you that includes
+your eyes that will show up here so
+let's do that now it's actually kind of
+a cool process so I'm going to put it on
+and hopefully the screen recording works
+so you can see exactly what I'm doing I
+hit the digital Crown I'm going to go to
+settings and you can do this when you
+first set it up but I'm going to
+Persona and I'm going to hit get started
+so let's refine my hands real quick
+captures this is capturing detail from
+the front of the headset of the hands in
+front of
+me once it's done with that remove
+Vision it's going to ask me to take it
+off so this when you're ready hold Apple
+Vision Pro at eye
+level keep your arms and shoulders
+relaxed align your entire face within
+the frame my face shows up like face ID
+slowly turn your head to the right
+now slowly turn your head to the
+left now tilt your head
+up then tilt your head
+down next let's capture your facial
+expressions smile with your mouth
+closed then make a big smile with your
+teeth
+showing now raise your eyebrows
+Close Your Eyes For a
+Moment capture
+complete put Vision Pro back on to
+continue I will do that so now I have a
+menu that says creating
+Persona and it says it's in beta and now
+there's there's my Persona right there
+kind of
+uncanny the hair is a little bit
+different but the
+face wow wow okay so there's different
+lighting you can choose it to always be
+in studio lighting and always be in
+Contour lighting I'll just leave it at
+natural and hit next you can change the
+color temperature of your skin tone cool
+to warm I think I'm around there
+brightness
+Darkness I think I'm around there near
+the middle
+next and then I can add glasses so if I
+typically have glasses which obviously I
+wouldn't be able to wear in the Vision
+Pro you can still look like you have
+glasses anytime you're on that FaceTime
+call and then
+next uh safe and that's
+it so I think
+now you should see my
+eyes
+maybe and that that's the thing
+it barely shows up you can barely see my
+eyes when I'm wearing the headset now
+I've tried a couple other scans
+subsequently so I've tried different
+lighting conditions I've tried different
+backgrounds simple backgrounds tried
+different shirts and things like that it
+doesn't really ever appear any brighter
+I think if you have a darker skin tone
+like me just don't expect the eyes to
+show up very brightly on the outside of
+the headset it's pretty subtle even when
+it does show
+up it's a little weird looking the eyes
+are a little too far apart some
+sometimes times they're a little dim you
+see like one eye at a time it's it's
+kind of weird but that Persona
+though that is some pretty interesting
+stuff it's crazy that this is actually a
+real thing being shipped like first meta
+started doing it now Apple's doing this
+this is again is technically in beta so
+I don't know there's room for
+improvement but it still works but as of
+right now I feel like this is both
+incredibly impressive and slightly
+unsettling like it's it's very
+impressive that this thing this headset
+I'm wearing on my face is tracking every
+all these little micro expressions and
+little movements for my eyes and my
+cheeks and my mouth and everything but
+at the same time it's just quite not
+quite human it's right at the edge of
+the uncanny valley of I'm not looking at
+a person
+so yeah but the crazy part is you can
+now use this persona
+as your camera feed for any apps in
+Vision Pro that require a front-facing
+camera like FaceTime and so I've tried
+I've been using FaceTime a few times in
+The Vision Pro and it is technically
+speaking incredible so I've made a few
+FaceTime calls in the past few days with
+some fellow reviewers who you'll
+probably recognize from their personas
+who are also testing the Vision Pro and
+universally once we all got past the
+shock of oh my got it's it's you it
+looks like a digital version of you this
+is crazy I've never seen anything like
+this before once we got past that there
+is a ton happening here so you can see
+the FaceTime Windows literally appear as
+just that they're just like glassy
+Windows floating in space with people
+looking through them and then the angle
+that you look into the window is going
+to match the angle that they see you
+looking at them meaning if we're all
+envision Pros on this call unlikely but
+hear me out if we're all envision Pros
+uh and you've got a bunch of people on
+this FaceTime call so there's somebody
+to the left and somebody to the right if
+I look to the person and make eye
+contact with the person to the right the
+person to the left sees like the side of
+my head because I'm looking at somebody
+else that's already pretty cool and then
+the same thing is true for hand gestures
+so we try this out turns out you can
+reach out and make hand gestures that
+are tracked by the cameras in this
+bubble in front of you and they show up
+at the correct angle towards the person
+that you're gesturing at so not towards
+everybody else on the call oh wait wa
+wait okay good test so wait Justine do
+you see this yes and I don't see that I
+don't see that Marquez now wait so now
+Brian do you see this now I can see that
+Marquez and then on top of that spatial
+audio here is incredibly welldeveloped
+so again you're on the call the voice of
+the person to the right comes from the
+right side the voice of the person to
+the left comes from the left but also
+you can just pick up and move the window
+around and that Ang will match where the
+people are in the room and where their
+sound and video comes from if I put you
+on the other side of the room it sounds
+like they're further away and if I turn
+up the environment and bring them into
+like the moon or some other 3D space it
+actually sounds much more like I'm in a
+gigantic space with no Echo versus in
+the actual room it's all very subtle but
+very well considered so once you're in
+this a while you start to notice all
+these these little smaller things again
+it's not quite humanlike it's not like
+looking at a video feat of a human
+face but it is still like it has a lot
+of like this would be the best Avatar
+anyone's ever made in 2K like no one's
+ever done a 2K face scan and had it look
+this good but it's still not as good as
+like a perfect reality it's a you've
+heard The Uncanny Valley thing before I
+think the number one weakness for the
+avatars or the personas that I've seen
+is hair so basically everyone I've
+talked to has like a Frozen lump of hair
+instead of flowing realistic hair and
+that's true about all flowing things
+like however your hair was when you did
+the scan it's frozen that way and so is
+any necklace you're wearing whether it's
+crooked or not or I guess technically
+also any makeup you had on or however
+you looked when you did the scan maybe
+that could be a good thing maybe you did
+a scan when you were looking all doled
+up and then you get on a 7: a.m. call
+and you still look perfect even though
+you look like you just woke up in real
+life so I guess I guess there's that too
+but anyway all that is to say FaceTime
+FaceTime is the most well con wellth
+thought out like most
+futuristic Vision Pro experience it just
+is so I'll end this video with this now
+you know what it's like to use and
+operate the Vision Pro but there's still
+a lot more to consider when actually
+considering if you should buy and own
+this thing from the use cases to the
+things that work well and don't work
+well the philosophy behind it the prices
+all of that stuff that's what's going to
+be for my full review like there are
+parts of this thing that are absolutely
+amazing unparalleled best I've ever seen
+but the reason it's so interesting is
+because it's actually a young category
+like we're so used to this slow boring
+iteration in mature categories like
+smartphones and laptops and you always
+see the comments talking about how Tech
+is so boring but now they're actually
+jumping into something risky and it's
+actually fun and there is downfalls and
+flaws and it's fun to actually weigh the
+pros and cons so I'll be expanding on
+all these way more in the full review
+but I'll leave you with this I've got my
+upsides and downsides to Vision Pro it's
+been a week upsides some of the stuff
+that's the best I've ever seen in a
+headset immersion placement in space ey
+tracking and hand control pass through
+ecosystem and spatial audio and the
+downsides weight and comfort the eyes on
+the outside app selection right now
+battery life and price so the full
+reviews and The Works definitely get
+subscribed to be among the first to see
+that when it drops either way till the
+next one thanks for watching catch you
+later peace
+[Music]
+[Applause]

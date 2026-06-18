@@ -1,0 +1,360 @@
+# Does Fast Charging ACTUALLY Ruin Your Battery?
+# https://www.youtube.com/watch?v=UpqaQR4ikig
+
+okay so it seems like every few months a
+new company someone comes out with the
+new fastest ever charging smartphone
+like years ago the flagship iPhone was
+charging at 5 watts and that was fairly
+standard it would take about 2 and 1/2
+hours to charge the phone from 0 to 100
+then when the pixel 1 came out that was
+super fast charging at 18 Watts then
+soon the iPhone bumped up to 20 then you
+might remember one plus beat out
+everybody for a couple years with 30
+Watts but soon we had 45
+65 80 now today right now this xiaomi 12
+Pro ships with
+this 120 W charger this you could you
+can buy this right now today it charges
+the whole phone from 0 to 100 in 17
+minutes and then just a few weeks ago
+Oppo demoed this it's not on a real
+smartphone yet but it would charge a
+theoretical
+240 Watts which would go from 0 to 100
+in 9 minutes minutes that's pretty
+ridiculous and then as you may have
+noticed like I have pretty much anytime
+one of these demos gets posted somewhere
+universally the comments across the
+board are like I don't want that in my
+phone that definitely is going to
+overheat good luck plugging that in for
+more than 5 minutes before it explodes
+people across the board are universally
+convinced that there is no way that this
+can be good for your smartphone's
+battery which got me thinking if this is
+true then why would these companies keep
+doing this is fast charging actually
+ruining your battery so I dove into it I
+just Dove straight in plenty of Google
+searches plenty of articles read plenty
+of people talked to and plenty of hot
+takes out there but this is what I found
+so batteries have improved in their
+chemistry over time but right now all
+phones use lithium ion or Lithium
+Polymer batteries and the way they work
+is they have a positive side and a
+negative side and the lithium ions flow
+from the negative to the positive side
+through a liquid electrolyte solution
+and as they flow energy is released into
+the circuit that's what's keeping the
+phone powered by the battery when that
+flow is over though the battery has
+reached 0% and it's dead so charging the
+battery back up is moving those ions
+back through from the positive to the
+negative side through that electrolyte
+solution so the first thing to know
+about charging a battery is batteries
+are kind of like a sponge like they they
+absorb the most energy when they have
+the least in them and then as they get
+closer and closer to full they can't
+absorb quite as efficiently and then
+there is some excess lost with a sponge
+it's just extra water passing through
+with a battery that's just excess heat
+and so what that looks like is charging
+actually happens on a curve those
+numbers that you keep seeing with the
+100 watts and 150 watt fast charging
+that's not the constant rate of charging
+that's just the peak the maximum that
+they're capable of but that's typically
+only briefly the actual rate so a 65 wat
+fast charger for example will typically
+only hit 65 Watts for the first few
+minutes pretty early on in the charge
+from low battery and then take paper off
+and basically only trickle charge at a
+lower wattage after around 80% and you
+can actually view that if you get one of
+these incredibly nerdy cables with the
+display on it that lets you see exactly
+how much power your phone is accepting
+while you're charging I'll link one of
+them below the like button but then the
+second thing to know is batteries do
+degrade over time the iPhone as you've
+probably seen lets you literally
+visualize it it shows you the percentage
+so if you go to settings and battery and
+battery health you can see your iPhone's
+degradation rating as a number from 1 to
+100 so this 13 Pro I've been using is
+still good for 97% of the capacity it
+had when I got it 5 months ago so why
+does it go down is the real question
+we're trying to answer and turns out
+there are several things that degrade
+batteries I mean these are they're picky
+little things they're very energy dense
+little storage units they don't like
+being at 100% exactly they don't like
+being at 0% and they do naturally
+degrade over time as they go through
+charge cycles and the ions pass through
+that electrolyte solution over and over
+again slowly breaking it down this is
+totally natural and can't really be
+avoided as you charge the phone more and
+more but the number one factor that
+damages batteries that degrades them
+faster than normal that ruins your
+battery is heat so the ions are moving
+through that electrolyte a lot but you
+can think of the electrolyte basically
+like salts so they can be pretty
+sensitive to changes in heat they can
+actually crystallize and clog up the
+anodes and cathodes which stops them
+from being able to store store the
+lithium ions and like I mentioned
+earlier when the battery isn't in the
+optimal state of charge it's less
+efficient and that extra runoff energy
+manifests as heat heat is no good so
+clearly the goal here is to minimize any
+excess heat around that battery which
+would damage it faster than normal now
+the thing is generally the more wattage
+the more power you're pumping into this
+battery the more heat it's going to
+generate so it sounds like this extra
+fast charging is clearly bad for your
+phone it's more heat generated and it's
+bad
+degradation but that's not something
+these companies aren't thinking about so
+over the years a bunch of these
+different smartphone companies have
+basically been working on trying to
+figure out how to charge these phones as
+fast as possible without generating any
+extra heat like if you look at just
+xiaomi's page for their fast charging
+alone there's tons of charts and graphs
+and claims about what they're doing to
+get around this so one new advancement
+came from one plus when they dropped
+that warp charge 30t charger it's kind
+of interesting and a little confusing
+maybe that we had warp charge 30 and
+warp charge 30t and both were 30 Watts
+but 30t was faster but this is because
+with 30t the power management got
+handled in the brick instead of in the
+phone so there was more heat produced by
+the brick in the wall instead of on the
+phone near the battery so OnePlus could
+put the same amount of power into the
+phone but for a longer period of time
+without heating it up as much and so the
+charging curve could be improved like
+this so that's a nice step the down side
+there is we're now we're getting larger
+power bricks but that's a bit of a
+trade-off people are willing to make I
+guess but then another way we've seen a
+bunch of companies jump on especially
+lately is with something called parallel
+charging so basically instead of putting
+a ton of power into a single battery
+they actually split up the battery into
+two cells next to each other and then
+add power management Hardware to split
+the incoming power this is a simple but
+brilliant way to get faster charging
+times without a ton of heat imagine
+instead of trying to pump 50 watts into
+a single 5,000 mAh battery just doing 25
+watts into two batteries of half the
+size that's going to generate way less
+heat it's only 25 watts but combined
+when you draw the curves you can achieve
+the equivalent of 50 wat charging and
+you get to put 50 Watts on the box but
+it's with way less heat but again
+there's a downside to this method too
+which is a slightly smaller overall
+battery capacity because if you take the
+same internal volume of two batteries
+instead of one that means there's more
+space taken up by the boundary between
+the batteries
+and the housing and that charging
+management Hardware I mentioned so
+you'll often end up with slightly
+smaller overall batteries if they're
+split like this and then of course
+something we've seen in just about every
+new phone coming out which doesn't
+really have a downside is just adding
+more cooling Hardware onto the phone
+itself sometimes that's heat shields and
+Vapor Chambers sometimes it's a a whole
+fan but specifically we're trying to get
+the parts inside from getting too hot it
+feels like every smartphone announcement
+for the past two to three years has some
+sort of section about cooling especially
+gaming phones you're of course cooling
+the system on a chip too but the better
+the cooling system overall the more
+power you can put into the phone without
+it getting too hot so the real question
+is is it
+working like is it is it that simple you
+can just as long as you keep the phone
+cool enough you can put as much power
+into it as you want well there are the
+downsides I mentioned earlier with the
+larger brick and maybe the phone's got
+to be thicker with more Cooling and has
+a smaller capacity battery but the
+question we're trying to ask is what
+counts as ruining your battery that's a
+simple one and it turns out there's
+actually an industry standard for this
+so from the research I've done and the
+people at these companies I've talked to
+the generally accepted Target goal is
+80% battery health after 800 charges so
+let's say you charge your phone roughly
+once a day that'll pan out to about 2
+years so 80% charge after 2 years so
+this iPhone now that I'm at 97% after
+about 5 months is on track to be at
+roughly
+85% after 2 years which that's pretty
+good that's above the industry standard
+officially not being ruined now for all
+these super fast Chargers that are new
+well it's tough cuz they're new so
+they've just come out and we don't have
+long-term data and it sucks that the
+only information I can use is just
+coming straight from those companies so
+I'm basically taking their word for it
+that yeah the fast charging doesn't ruin
+the phone over time but it's the best
+information we have and it is actually
+Sur surprisingly impressive so from
+their test results xiaomi on their site
+say that their 120 W charging Tech is
+rated to maintain 80% battery health
+after 800 charge cycles apple on their
+site they don't have the fastest
+charging but they say 80% after just 500
+charges but like I said it seems like
+they're outperforming their own claims
+hey under promise overd deliver and then
+Oppo and OnePlus who've announced
+they'll have a 150 wat charging phone
+this year say that they've specifically
+stated it'll go 80% battery health after
+1,600 Cycles so that will outperform the
+industry standard which I guess means
+they have room to keep going up now
+don't get me wrong the trade-offs are
+very real not everybody wants a thicker
+phone or a larger power brick or a
+slightly smaller capacity battery but
+from where I'm sitting and from the test
+results that we can go by basically fast
+charging does not have to ruin your
+battery life and really the best part
+that is just convenience on top of the
+fact that these companies are all
+actively still working on making this
+stuff better you might have heard about
+gallium nitride chargers there's a
+couple actually out there already in the
+market that allows the brick to actually
+be much smaller than the typical silicon
+Chargers we're all using now so you can
+do a 65 wat gallium nitride charger half
+the size and still put the same power
+into the phone but really what it comes
+down to these days is it's called a
+smartphone for a reason batteries these
+days are smart like modern phones all
+have tons of hardware and sensors inside
+the phone to help measure temperature
+and regulate charging so it's doing all
+kinds of stuff automatically and then
+the phones all will add a bunch of
+software features on top to help you
+actively maintain the battery to the nth
+degree plus you know phones like the Rog
+phone 5 have pass through charging so
+when you're plugged in and gaming which
+is typically not a good idea on a
+regular phone it can just power the
+system and it doesn't add charge to the
+battery at all so you're not putting
+extra stress and heat on the battery and
+it can maintain battery health for a lot
+longer the latest iPhones and pixels 2
+right now have a feature where if you
+plug in at night around the same time
+every night after a few days it learns
+when you wake up so instead of charging
+right to 100% when you plug it in it
+charges up to 80 then Waits all the way
+until you're about to wake up maybe an
+hour before your alarm and then charges
+the rest of the way up to 100 so you
+wake up with a full battery but better
+health and pretty much any other phone
+with this super fast charging coming up
+is going to have to have a suite of
+battery health options that you can mess
+with in the software to take your
+battery health protection to the next
+level so I don't know how fast these
+phones charging is is going to get in
+the next couple years inevitably it's
+just going to keep getting better as the
+company's work on it but what I can tell
+you is the best thing we can do for our
+phones is to just use them like normal
+and basically don't give them any extra
+reason to get hot you know leaving it in
+the dash of your car on a sunny day
+gaming wall plugged in for long periods
+of time stuff like that if you can avoid
+your phone getting super hot you're
+doing the best thing you can for your
+battery and these smartphone companies
+all know that battery problems are bad
+news so if they're all doing their jobs
+then we should all be good fun fact the
+famous Galaxy Note 7 battery exploding
+issue as crazy as it was it wasn't
+actually due to fast charging or
+overheating it was actually just them
+with their battery supplier getting some
+Dimensions wrong and some bending going
+on of the battery with the positive and
+negative sides up in the
+corners something to think about either
+way now you have the answer thanks for
+watching catch you guys in the next one
+peace

@@ -1,0 +1,309 @@
+# iPadOS 26: Ready for Laptop Duty?
+# https://www.youtube.com/watch?v=AphNalSmvlk
+
+[Music]
+So, when iPad OS 26 got unveiled at WWDC
+this year, it looked like a game
+changer. And I wasn't the only one
+saying that. Many, many people had the
+same feeling watching all this new
+stuff. It felt like everybody on the
+internet who was waiting for years for
+Apple to just do the thing. Just watched
+Apple finally do the thing. They just
+made the iPad a computer. But, you know,
+this is Apple we're talking about here.
+And there's no way they would just turn
+the iPad into a Mac, right? They still
+need to sell Macs. Obviously, there's
+got to be some kind of catch, right? So,
+I did what any logical tech reviewer
+would do. I installed iPad OS 26 beta as
+soon as it was available on my iPad. And
+then I took my MacBook Pro that I've
+used daily out of my backpack. So, I've
+been living with the iPad in its place
+for the past 3 weeks or so now to be
+able to give you a real answer. So,
+first things first, I already loved my
+iPad before this update. Like full
+disclosure, it was one of my favorite
+pieces of tech. And I will also admit
+that I didn't use it that much because
+when you also have a MacBook Pro readily
+available to do any work tasks and stuff
+that I need to get done outside of the
+studio, this just kind of became like a
+glorified media machine. Like lots of
+YouTube video watching, lots of web
+browsing, some occasional email or
+Slack, and then once in a while I'll
+have some fun with image editing or
+playing a game or two. But again, if I
+have my laptop with me, which I almost
+always do, then this extremely powerful
+iPad often went underused. So, I would
+consider this update a success if I can
+stop carrying my MacBook Pro with me
+except for editing. I know I'm probably
+always going to need that for editing
+just based on my workflow, but for
+everything else, I wanted to see if the
+iPad could do it. So, that's what I did.
+And I was actually pretty excited to try
+this. Now, the thing is, I feel like
+many YouTubers have taken on this exact
+challenge before with previous versions
+of iPad OS over the past few years.
+They've probably used the same title of
+this video before. Can this iPad be a
+laptop? Can the iPad be my full-time
+productivity machine as a student? Can
+it be my only computer? What is a
+computer? Each one of those videos
+details the walls that you run into when
+you try to do computer-like things
+on the system that is iPad OS. With this
+latest update, some of those walls are
+now gone. Some of those walls are
+definitely still there. So, here's an
+example. The thing you've probably heard
+the most about is this new window
+management menu bar and all this stuff.
+And it is awesome, or at least it's
+dramatically better than before. It
+breaks down the wall of multitasking
+with several windows open easier than
+ever. Literally any app you open on the
+iPad, you can drag the corner to resize
+a window to whatever size you want. And
+then you can just go crazy opening a
+bunch of overlapping windows, moving
+them around, going back and forth, and
+multitasking to your heart's content.
+It's never been quicker or easier to get
+into this multi-wind state, which feels
+very Mac-like. And then there's plenty
+of tricks to managing the windows once
+you're there. Like you can flick a
+window to each side to take up half the
+screen. That's super useful. You can
+double tap the top of any app for it to
+go back to full screen. And then at any
+time you can swipe down to see the menu
+bar for an app, which looks exactly like
+it would on a Mac and includes the
+stoplight window controls in the corner
+to maximize or minimize or close
+something on the spot. And also, I got
+to be honest, I don't know that there's
+a difference between minimizing and
+closing an app on the iPad because when
+I close an app, it just goes away. If I
+minimize an app,
+it just goes away. But the minimizing
+version feels very Mac-like. So, hey,
+give the people what they want. But I
+think the most important thing to
+remember here is this multi-wind mode is
+just that. It's a mode that you can
+easily flip on and off with a single
+touch in the control center. So, I found
+this super useful. When it's off, you
+know, apps open full screen every time
+like they always did. The handle at the
+bottom corner is gone and you can pull
+down from anywhere at the top to get
+notifications or control center and
+swipe across the bottom to flip between
+recent apps. This is the iPad we've all
+always been used to and it still works
+exactly like that. But if you go to
+control center and go into windowed apps
+mode with one click, suddenly that
+resizing anchor appears. Use it wherever
+you want. Also, swiping down from the
+middle now brings up the menu bar
+instead of notifications unless you
+swipe down again or swipe down from the
+far left. And multitasking remembers
+groups of windows and even window sizes
+as you're working. It's very powerful,
+even more than stage manager was. You
+can now have up to eight windows open at
+the same time instead of four. But, you
+know, it's also a little different from
+a Mac. For example, I noticed just as
+you're resizing Windows, some apps
+respond instantly as you're dragging
+your finger. So, you can just drag them
+to size and move on really quick. But,
+some apps don't respond quite in real
+time as you're dragging your finger.
+They kind of go in stages. So, you might
+have to resize a few times to get it
+exactly the way you want it. But then,
+of course, you know, on a Mac, there is
+no window limit as far as I know that
+you could easily reach anyway. Uh, so
+you can go way crazier. There's more
+spaces for multitasking and way more
+probably more RAM and just more
+flexibility in general. But the ceiling
+for multitasking on an iPad is higher
+than ever before. By the way, I was
+curious how this would look on an iPad
+mini or if they would like restrict any
+of this multi-wind stuff or having a ton
+of stuff open at once, but nope. You can
+go just as crazy with tiny floating
+windows all over the iPad Mini's
+display. You can knock yourself out.
+It's way less useful here because
+there's way less pixels, but confirmed
+they still let you do it. Anyway, as I
+continued to use the iPad through these
+weeks, it would continue to be mostly
+painfree. Lots of using it like the
+usual, like full screen, then occasional
+blitzes of multitasking once in a while.
+And here and there, there would be one
+computer-like task that I'd have to
+really think through. And then it would
+be a little bit slower and kind of a
+pain, but then I could figure it out. I
+could basically eventually get it done.
+Like I got sent a PDF on Slack that I
+had to sign and send back. Okay, on a
+computer that's pretty easy. But here,
+let's see. Open it. Okay, open in
+browser. Share more. Okay, mark up. Then
+I sign it. And then I save it to the
+iPad again. And then go back to Slack
+and attach it. Okay, success. Like
+there's no wall there. You can
+definitely still do the thing. It just
+takes a little bit of extra thinking, a
+little more friction, and some final
+management stuff, but that's scattered
+throughout the days. And all of this
+made me realize, you know, with the apps
+that I use and the workflows that I've
+built, the question isn't actually, can
+I replace my laptop with an iPad?
+Because yes, I can. The question really
+became, do I want to? because sometimes,
+yeah, I do, but also sometimes I don't
+want to. Like, there's many, many
+moments of the iPad being better and
+more enjoyable to use than any laptop.
+It's this awesome touchscreen first
+device. You know, you have one app full
+screen at a time. To me, that just means
+like I can't get distracted by Discord
+or Twitter or just other windows I have
+open, so I can just lock in on one or
+two things at a time. The iPad's display
+is beautiful. It's super thin and this
+thing is a pound lighter than my laptop.
+So, my backpack feels lighter just
+carrying the iPad around. It sounds
+subtle, but it really felt great. And
+this stuff makes me want to use the iPad
+all the time for as much as I can. But
+every once in a while, like I said, I'd
+run up against that little wonky thing
+or this tiny limitation here or there.
+Like on the iPad, I can't have two audio
+sources playing at the same time. So, I
+can't have music playing in the
+background while I also watch a YouTube
+video while researching something. I can
+only do one at a time. Dang. Or when I'm
+trying to work without a table on a
+couch or something. The iPad's keyboard
+case, it's good. It's better than it's
+ever been. There's a real cursor now.
+It's fantastic. But compared to a
+laptop, like this thing is still really
+topheavy and kind of clunky and weird to
+use. And there's less metal, more
+silicon and rubber, and it's just harder
+to open and close. Dang. Also, the files
+app, the new files app is great. Way
+better than ever before. You can plug in
+external storage and sort through things
+easily, import, export, view information
+about your files, connect to servers,
+the whole thing. But it can sometimes be
+just a little confusing where files
+actually are. Like when I airdrop photos
+and media to the iPad and it doesn't go
+into the downloads folder like it would
+on a Mac, just slightly off. Dang. So,
+look, I couldn't be more clear. I love
+the iPad's display and how good it looks
+and how good it sounds and how thin and
+sleek and fun it is to use this
+touchcreen everywhere. And it's more
+capable than ever with this new
+software. That's a fact. But the iPad's
+strength is actually its versatility. So
+my take is I still don't think the iPad
+was designed to replace a laptop for
+most people most of the time, but I do
+think it is capable of becoming almost
+an entire laptop with the right
+accessories. But then look at what
+you've created. Like adding a mouse and
+a keyboard, a display, uh the folio
+case, like the whole thing you're
+carrying around is suddenly basically
+the same thickness and weight as a
+laptop again. So, you might as well just
+get the laptop. But the iPad can also be
+a great media machine. It's a really
+nice lean back experience instead of the
+typical lean forward experience, if that
+makes sense. It also happens to have
+cameras on the back, so you can take
+photos and videos with it. Uh, it also
+has cellular, which a lot of computers
+don't. It also happens to have an
+awesome stylus support, so it can be
+your handwritten notepad or it can be an
+artist's canvas. all of these things
+that computers and laptops typically
+don't have. So that's the point. It's
+it's just more versatile than a single
+laptop would be. So if you're trying to
+answer the question, you know, should
+you get an iPad instead of a laptop?
+Well, then I'm going to just stop you
+right there. If all you need is a
+computer,
+then no. I think you just get the
+computer. It's designed to be better
+just at that. Better balance, better
+hinge, better keyboard. That's what it's
+made for. But if you want something that
+can be most of a computer, but also do
+all these other things, then just like
+think of the top five things you're
+going to do on this machine and think,
+would you rather do those five things on
+a tablet or on a computer? And then
+there's your answer. So, no doubt the
+ceiling has been raised for what an iPad
+is capable of as a computer, but it's
+still an iPad, which is pretty sweet,
+too.
+Thanks for watching. Also, if you want
+to check out the rest of my iOS 26
+coverage and all the other stuff that's
+new with that, check out my iOS 26
+video. It'll be right here. So, all the
+liquid glass and the new features and
+stuff. Catch you guys in the next one.
+Peace.
+[Music]

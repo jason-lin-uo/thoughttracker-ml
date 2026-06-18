@@ -1,0 +1,217 @@
+# CyanogenMod 10 on the Samsung Galaxy S3!
+# https://www.youtube.com/watch?v=IT73da-C4sw
+
+hey what's up guys MKBHD here and today
+we're going to be taking a look at a
+pretty commonly requested video about
+the Samsung Galaxy S3 I've reviewed the
+Samsung Galaxy S3 already and part of
+the thing that I talked a lot about was
+TouchWiz which was on top of it and
+Touchwiz is the skin on top of Android
+4.0 on the Galaxy S3 when you get it
+it's planned to have an upgrade to
+TouchWiz the next version which will be
+on top of Android 4.1 but I've enjoyed
+my Galaxy Nexus so much that I wanted a
+pure almost near stock Android
+experience on my Galaxy S3 so without
+any further Ado I'm going to be taking a
+look at my favorite ROM so far for the
+Galaxy S3 if you Roo it you can get S
+engine mod 10 where the nightly builds
+and I'll show you what it looks like
+running on MAR Verizon Galaxy S3 let's
+go ahead and take a look by the way I
+have no idea if this is the final angle
+for what I'm going to be doing videos at
+I'm still sort of messing around with
+things getting it set up but uh let's
+get into this real quick now the first
+thing you notice about your device when
+you turn it on is your lock screen and
+that's because the lock screen here I
+have it right next to to the Galaxy
+Nexus here this is running Pure Stock
+Android 4.1 and this is running cyan
+engine mod and you can see here that the
+lock screen is identical I could add
+some other shortcuts up here and up here
+if I wanted to but you also have to
+swipe up Google Now left for camera and
+right to unlock and that is where you'll
+get to your home screen and that's where
+the uh the similarities are pretty much
+the same for the rest of everything else
+with some minor additions than to cyan
+engine mod so first of all to make sure
+you have Android 4.1 Jelly Bean you can
+go to menu and system set settings and
+at the bottom there's a about phone and
+you can see here Android version
+4.1.1 and San engine mod is a kernel
+version and we have of course our full 2
+gigs of RAM you'll actually find that
+you use less Ram because TouchWiz does
+use a little bit of the RAM and you
+won't have any of that Ram being used by
+TouchWiz when you're running stock
+Android some other need additions are
+you get to swipe down from the
+notification bar and you'll get your
+toggles here from S engine mod so Wi-Fi
+toggle Bluetooth your GPS and you can
+change your volume and set it to volume
+on or vibrate or silent or whatever you
+want to do there also Project Butter is
+present throughout the operating system
+so everything is just dead smooth
+there's no hiccups or stuttering as far
+as I've seen uh just like Android 4.1 on
+other devices that are running stock
+Android there aren't many but you can
+get that experience by running Cyanogen
+mod and it is absolutely buttery smooth
+Google Now still works so I'll ask it a
+random question like uh what's the
+weather
+like what is the weather
+like and it'll go ahead and tell me what
+the weather's like here and if you have
+the volume on it'll go ahead and read
+stuff out Google now works flawlessly
+data Works flawlessly there is nothing
+missing or wrong or incorrect about this
+ROM and that's why it's been working
+perfectly as a daily driver for me also
+I'll show you the camera this is another
+big reason that I've been using the
+Galaxy S3 is because that 8 megapixel
+camera but it still has instant shutter
+so of course if we take a picture here
+it'll move to the side and it's
+instantly available and you can swipe
+left and right and go through the
+pictures you've taken all that software
+still works can still take take Panorama
+and you can now take 1080p video and
+just keep taking really really fast
+shutters and 8 megapixel photos will
+just fly through like that also for
+location aware apps like say Google Maps
+the Galaxy S3 actually has some of the
+fastest GPS lock of any device I have
+ever used so if you ever have any issues
+with that well you won't have any issues
+with that Google Maps navigation uh any
+GPS tagging stuff like four square
+that'll all work perfectly quickly and
+really really fast thanks to the fast OS
+and the fast GPS lock on this phone some
+neat things that you notice there are no
+software buttons on the bottom so I'll
+bring in the Nexus again so you can see
+there are these software buttons back
+multitasking and home uh but you don't
+have these here on the Galaxy S3 because
+you have your home button here you have
+your menu button and you have your back
+button and those all still work
+perfectly in terms of battery life I've
+gotten some pretty decent battery life I
+do use my phone quite a bit you can see
+here it's been on for 6 hours with quite
+a bit of screen on time actually not a
+lot of screen on time but quite a bit of
+usage basically and uh it's halfway
+through the day and I have 76% battery
+life left I typically end the day around
+11:00 p.m. and I'll have about 20% left
+which is pretty good but besides that
+everything else about the phone is fast
+I mean I haven't gotten a lot of
+questions about it but basically uh
+people wanted to know is it daily driver
+material and uh from what I got to say
+from my experience yes this is daily
+driver material so I can use this for
+all my apps that are compatible with
+Android 4.1 and Below you know Twitter
+apps notifications all that kind of
+stuff it just works I haven't found any
+flaws with it uh and it's been a really
+enjoyable experience so far so connects
+to really fast data I'll go ahead and do
+a speed test here just because I happen
+to feel like showing off my new Wi-Fi
+but I mean there's not a whole lot that
+goes wrong at all I haven't had any
+random reboots this happens to be the
+Verizon version of the Samsung Galaxy S3
+which means you'll have to get past the
+bootloader before you do any of your
+rooting and flashing your ROM so I'll
+have instructions for that below but
+basically if you have any questions feel
+free to send me a message on YouTube
+YouTube or go ahead and leave a comment
+below and I'll do my best to help you
+out this is an absolutely highly
+recommended ROM I just there's nothing
+wrong with it at all and uh it's a
+pleasurable experience here's a quick
+tip I use on all the 4.x devices if you
+go to settings and you go down past all
+that sign engine mod and Google stuff
+and you go to developer options you can
+go down here into your animations and
+change the animation scale to 0 5x so
+let's say you want to make it really
+really slow by 5X you'll see all the
+animations are really really slowed down
+by default it's actually 1X if you make
+it0 5x you'll notice your device just
+feels a lot snappier and you can turn
+animations off completely uh but I
+prefer to have them on really Snappy and
+it feels really really fast and last
+thing you should know is there are some
+uh S engine mod settings in here so if
+you go to interface you can change some
+settings about the launcher so you can
+change your look and feel uh you can
+change all the different Sage mod
+settings if you have themes if you have
+profiles all the stuff is accessible in
+here so if you're really hardcore
+Android person you can go in and
+customize and change everything about
+this stuff you can change which buttons
+you have up here in the widgets uh you
+can change which toggles you have all
+that stuff is available to you and uh
+that's pretty sweet so I have been using
+Canan engine mod 10 for Android
+4.1.1 and I love it so there you go it's
+really really close to stock Android and
+it has been my daily driver for a couple
+months now actually it's a really really
+solid ROM and I'd recommend it if you've
+rooted your Galaxy S3 for those of who
+are new to the whole flashing AR ROM
+process and being rooted I'll have some
+links below this video where you can
+check out the best way to get your phone
+rooted to get your bootloader unlocked
+and to flash whatever ROM you want
+thanks for watching this video go ahead
+and give a thumbs up if you enjoyed it
+or if it was helpful at all and uh next
+video is one that will be uh that's been
+requested a lot more than this
+particular video was so I hope you guys
+are ready for that either way thanks for
+watching and I'll talk to you guys later
+peace
+a
+[Music]

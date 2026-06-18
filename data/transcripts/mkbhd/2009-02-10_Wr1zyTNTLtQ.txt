@@ -1,0 +1,78 @@
+# HD Tutorial: Tweak Safari for Speed
+# https://www.youtube.com/watch?v=Wr1zyTNTLtQ
+
+hey everyone and welcome to another HD
+tutorial in this video I'll be showing
+you how to speed up your Safari web
+browser just a little bit faster I won't
+be using webkit for this video just for
+the purposes of people who don't
+actually have webkit yet so I've opened
+up Safari and the first thing that I can
+tell you guys is that you can go to the
+history CL history Tab and clear your
+history the second thing that you can do
+is go to the edit button and hit empty
+cache this will empty um saved web pages
+in uh Safari's history the next thing
+you can go to the edit Tab and hit reset
+Safari now you can choose which ones of
+these uh tabs that will actually apply
+but um it can close all safari windows
+it will clear recent web searches I
+unchecked to remove
+autofill because I actually use it and
+uh remove save names and passwords I
+also unchecked that but um I left all
+the others checked and I hit reset this
+reset and opened a new Safari window
+browser and that will make Safari much
+faster the last thing you can do is open
+use private browsing so when private
+browsing is turned we not saved inry
+downloads are not saved and they're
+automatically removed from the downloads
+window and autofill also isn't saved so
+nothing is saved no cookies will be
+saved and no Information Tracking spam
+malware nothing will be saved um when
+you're using in private Brower browsing
+so I do that and to make sure you're
+still in with private browsing hit the
+edit button and make sure there's still
+a check next to that so that is how that
+is another way to make Safari faster a
+quick way to do a lot of these things is
+to use the C cleaner tool that I did a
+review on earlier um C cleaner does a
+lot of uh removing these temporary
+internet files if you just run the
+cleaner once you can see it's removed uh
+3 megabytes of temporary files roaming
+Etc um the last thing can do is if
+you're on a really intensive website
+such as maybe I went to
+youtube.com and or let's say I just went
+to myspace.com
+right I would hit the develop button
+which I also did a video on how to get
+and I could disable images so now I will
+go to myspace.com
+again and there are much fewer images on
+the page except for the advertisements I
+could go to develop and disable Styles
+disable JavaScript now as you can see
+this page is going to load extremely
+simply but quite quickly so that is
+another way of speeding it up if you can
+always uh reclick all of these um styles
+and such to uh get these images back
+so those are just a few ways to increase
+the speed of your Safari web browsing
+experience without actually switching to
+web kit and um I hope you found this
+tutorial helpful if you have any other
+video ideas for for me just subscribe
+and uh DM me a link or a uh video idea
+and um otherwise um thanks for watching
+peace

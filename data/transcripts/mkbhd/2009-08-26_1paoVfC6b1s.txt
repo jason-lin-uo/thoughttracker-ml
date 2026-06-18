@@ -1,0 +1,81 @@
+# HD Tutorial: Custom Dock Icons
+# https://www.youtube.com/watch?v=1paoVfC6b1s
+
+[Music]
+hey what's up guys it's Marcus brownley
+here from MKBHD and welcome to another
+HD tutorial in which I will show you
+guys how to change the icons you have in
+your rocket doc folder uh so or not your
+folder but your rocket doc icons so at
+the top you might see here that I do
+have a number of Rocket dock icons I
+have these you know they shortcut
+basically to different programs uh and
+Rocket Dock and object doc are both the
+docs that I use on the top and on the
+left U actually I'm going to show you
+guys how to CH change your object dock
+icons uh using a few simple steps now
+you might have noticed that a few of the
+icons on here don't have the most uh
+appealing icons for example the Camtasia
+Studio icons usually aren't uh nice
+looking and they usually look like this
+right here so I'm going to change you
+I'm going to show you guys how to change
+the icon you have um for whatever image
+you like so first of all you're going to
+have to find your image so you know just
+hook up a search engine and go ahead and
+search uh whatever you want and make
+sure it's a PNG file because those have
+a transparent background so I'm going to
+search camcorder icon PNG and I'm going
+to filter it for images and uh you might
+like a number of the uh icons here I
+happen to like this digital camcorder
+icon right here and it's convenient
+because it is a 128x 128 Square what
+we're going to do is rightclick it and
+Save image to desktop um and once we
+have it on our desktop here you can you
+know move it around to any place we want
+uh just make sure we can always find it
+now we're going to change uh that
+camcorder that Camtasia Studio camcorder
+to what we actually want it to be so
+just go ahead and right click on the
+icon of choice and scroll down to dock
+entry properties click dock entry
+properties and here you'll go ahead and
+hit that change image button now there's
+there's actually a number of bundled
+images that you can choose from uh that
+actually come with object doc but I
+didn't I didn't want to use any of those
+so go ahead and browse for our PNG file
+go to our desktop and here we'll find
+that cam recorder image hopefully right
+there there it is digital cam recorder
+PNG image perfect just go ahead and hit
+open and okay and it'll be right there
+so there you go there's that object doc
+icon that's the Camtasia recorder I'm
+probably going to change the cam
+Camtasia Studio One as well uh and if
+you do plan on changing uh where you
+where you store this digital camcorder
+icon make sure you reroute this and you
+go ahead and reset it uh after you've
+moved it uh so that is basically it guys
+uh enjoy your new uh your new fully
+revamped object Dock and uh you know I
+hope it matches the theme of your
+computer whatever you happen to like and
+um that is basically it so thanks for
+watching this tutorial and I'll catch
+you guys in the next video
+[Music]
+peace
+h

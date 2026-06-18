@@ -1,0 +1,263 @@
+# HD Tutorial: Complete Rocketdock Walkthrough
+# https://www.youtube.com/watch?v=RVx0BoomLTU
+
+[Music]
+hey everybody and welcome to another HD
+tutorial and in this video I'll be
+walking you through the entire um
+basically rocket dock interface now I've
+already done a video about how to
+acquire the rocket do software you can
+probably uh just click on my name or
+I'll try to put that in the description
+somehow but um forgive me if it's not
+there so basically what we're going to
+do here is go over rocket doc if you
+want to see what's in my doc you can
+look here now we have our internet
+browsers and our internet related things
+we have um oh yeah downloader and C
+cleaner then we have our Microsoft
+Office documents and as well as
+Photoshop then we have uh our
+Communications section which includes
+email Skype ukam which is the webcam
+software and Google Earth and
+Bluetooth now we have a few tools which
+I have Cam Studio the Camtasia software
+the uh Windows 7 calculator notepad um
+little OCR which is basically my scanner
+uh converting that to text
+Etc um the sage dictionary um here's my
+media section you can see I have
+separators in between the sections we
+have Windows Media Center iTunes Windows
+Media Player and the wrap City for my
+phone and then we have the stuff that
+came with it by standard and I also
+added a download section so they have my
+computer network documents music
+pictures this is the standard stuff and
+I put uor all the way on the right hand
+side with the recycling bin and dock
+settings now dock settings is the most
+important thing basically in the whole
+software section of um the rocket dock
+so what we're going to go over here
+let's start with the general tab is this
+is all the in the languages that you can
+choose to have um your Dock and your
+language in I'm not going to change
+anything with that because I speak
+English so we can have it run at startup
+I have lift that check which means the
+doc will automatically come up at your
+startup uh Store settings in a portable
+inii that's just basically if you want
+someone else to log into your computer
+then their rocket dock would just be the
+standard one but yours when you logged
+on would have all your icons minimize
+windows to the dock now if I tick that
+and I hit okay I just have to show you
+what that looks like if I have a notepad
+document up here and I minimize it
+you'll see it swipes in and there is my
+notepad document I click it and it kind
+of d Rags out and again
+minimize it has a little animation that
+you can disable if it gets annoying but
+um that's basically what minimize
+Windows to Doc means and if you do have
+Windows Vista then you will get the live
+previews so you have a YouTube uh
+YouTube thing running then that will
+work however I have disabled that so
+they minimize the tray cuz I actually
+like the way they work here in Windows
+Vista so next we have a running
+application instance or indicator so I
+have a Firefox preloader right now so
+right now there's a little black Black
+Arrow above it you can see and that is
+what the uh open application in instance
+or indicator actually means so I have
+Skype on right now I should put that as
+do not disturb I have Skype running
+right now I have my email client as well
+as the screen recorder Etc so that is
+what that means um open running
+application instance means that if I
+already have a notepad document open and
+I go up here and hit the notepad button
+it will bring up the one that is already
+open so that's pretty cool and lock
+items is basically so I can't
+accidentally drag one out and delete it
+um you can easily just right click on
+the dock and hit unlock items and then
+that will simply um unlock all the items
+and you can drag them around change the
+order change the icon itself Etc let's
+go to icons right now I have it on high
+quality because of my computer's I mean
+the computer I'm running this on is a
+pretty intense uh gaming machine it's a
+laptop but it's very good so I left it
+on high quality just to get the best
+quality out of my uh my icons I left
+them on 100% opacity now what this means
+if you see the dock above here this
+means that whenever I I'm looking at
+them they have full opacity they're
+completely opaque over my desktop but if
+I were to lower the
+opacity you see they get a little
+transparent but I've checked the box
+that says Zoom opaque so when I actually
+Mouse over it the one that I'm mousing
+over is no longer transparent it's
+actually opaque again so that's pretty
+cool that I can do that that um but I
+leave them all pretty much on full
+opacity so I can see them whenever I
+want the size is basically the size of
+the icons very very self inuitive there
+um now there's two hover effects there's
+a bubble which you see when I go over
+these there is a plateau which kind of
+just spreads them out more and doesn't
+go up and down vertically as much and
+then there is zoom flat which just
+completely goes sideways and you can
+move the entire rocket dock like this I
+think this is the coolest way but I
+really don't need it to expand that much
+so I don't use
+that um so I leave it at Zoom bubble you
+can also have no Zoom which is also that
+actually works in Mac OS 10 you just
+have the names pop up if you're tired of
+those animations so I've left it on Zoom
+bubble next we have the actual amount
+that it does zoom and the zoom width
+that's pretty much self-explanatory if
+you want it to zoom to be humongous say
+I go from 15 to 128 look it just gets
+ginormous and you can see the higher
+quality of the icons when I actually do
+like that's a not very good icon that's
+very pixelated but that's a really high
+quality icon right there so that's
+pretty good um I leave this down closer
+to about 20 or no I leave it closer to
+about 15 pixels which is what I had
+before so now let's go to position this
+is where it gets kind of interesting a
+lot of people like to put their rocket
+dock down or you can also choose what
+monitor it's on I have unplugged the
+other monitor so my laptop's only got
+one monitor hooked up um you can choose
+the screen position to be on the bottom
+okay so it'll be all the way on the
+bottom of your screen almost exactly
+like Mac OS 10 obviously you'll want to
+have some Edge offset so it's not on top
+of your toolbar but a lot of people that
+I know actually unlock this taskbar and
+drag it to the top so they have their
+task bar on top and they have their
+rocket dock on the bottom okay and
+that's giving it a whole lot more of a
+Macos 10 theme especially with the theme
+that I've installed on this rocket dock
+that's pretty cool but I'm just going to
+reverse that cuz I live pretty much
+leave it on on the top you can also put
+it on the left or the right if you so
+desire so I'm going to leave mine on the
+top Edge offset is basically how far
+from The Edge it is you can have it
+halfway down your screen or you could
+have it right flush with the edge so I
+leave mine flush and also centering I
+leave mine M dead in the center you can
+make it further to the left if you have
+the sidebar maybe or further to the
+right now let's go to um Style Style I
+did a previous video on it so I'm not
+going to talk too much about it but
+basically you can install and uh
+download and get more by this button a
+whole bunch of themes and also change
+the fonts and the opacity of the fonts
+when you Mouse over one of those icons
+so that's pretty
+cool next is the behavior button this is
+pretty much the last um the last
+important one if you actually click on
+an icon like in Mac OS 10 it'll bounce
+for a second so look if I click on cam
+Studio actually no I can't do it now so
+if I hit okay and I click on cam studio
+it'll bounce for a second and you can
+see that that's the kind of attention
+that it gets when it when you uh when
+you actually click on it so if I click
+on my computer it bounces once or twice
+then it opens it up so that's pretty
+cool um if I go back into settings I can
+actually disable that because again that
+just takes a tiny bit more CPU and I'd
+rather not the Uber icon effects I have
+not found that to work very well but if
+I do try it let's see if I do try it no
+it doesn't work it just it kind of makes
+it a little a little uh explosion effect
+when you click on the icon it's not that
+great but so I just leave it at none and
+also you can set it to autohide now
+here's the cool thing A lot of people do
+if I hit okay the Dock's just gone right
+but whenever I Mouse over close to the
+top of the screen it comes back and I
+can choose whatever I want from here
+then when I leave it it hides back again
+so that's a pretty cool feature if you
+really like a really clean desktop you
+may have noticed I have absolutely no
+icons on my whole desktop so that is uh
+that's why I use a rocket dock in first
+place so you can also choose how long it
+takes to pop up um you can choose the
+delay how long it takes pop up Etc so I
+left unchecked Auto hiide and that is
+basically it you can reset the all the
+defaults at any time by just pressing
+that default button and also you can see
+this is version
+1.3.5 copyright Punk software so you can
+update it just by hitting that one
+simple button if you have any problems
+with it you can hit the fors button and
+that is basically it so um I hope you
+enjoyed this tutorial a little
+walkthrough of the menus and also uh
+there's this little thing where you can
+right click I didn't show you yet you
+can hit the unlock items button so I can
+remove an icon and then it would just
+disappear or I would um drag it back in
+wherever I want to put it so that's
+pretty interesting feature I like to
+show you guys um in Mac on the uh the
+rocket Dock and hopefully I can get back
+to you guys with more tutorials if you
+have any requests for any tutorial at
+all I will handle it as best as I can
+all you got to do is subscribe and send
+me a personal message and I'll get to it
+as soon as I can thanks for watching
+guys peace
+[Music]

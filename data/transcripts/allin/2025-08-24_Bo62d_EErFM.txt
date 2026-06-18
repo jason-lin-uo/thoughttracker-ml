@@ -1,0 +1,266 @@
+# Is The AI Bubble About To Pop? - Chamath Palihapitiya
+# https://www.youtube.com/watch?v=Bo62d_EErFM
+
+AI mainet hit a bit of a detour this
+week. All over the, you know, three or
+four days, AI stocks were down across
+the board because of this MIT study that
+went viral as well as Sam Alman's
+comments about a bubble and Zuck
+instituting a hiring freeze in AI after
+going on a complete blitzkrieg. So,
+let's get into it. Act one, Monday,
+Fortune dug up a generative AI study
+that MIT published last week or last
+month, I should say. In that study, MIT
+found that 95% of Geni pilots are
+failing to make it to production because
+of employee resistance, poor quality
+output, and the most interesting problem
+seems to be resource misallocation.
+According to the study, 70% of JN AI
+budgets are going towards things like
+building sales and marketing tools,
+which have poor ROI. The highest ROI was
+found in back office optimization
+like automating tasks that cut back
+spends you know on various departments.
+Basically
+these pilots aren't working. Shamath is
+what the study found they evaluated 300
+AI implementations and interviewed 150
+leaders across 52 companies. You've been
+grinding it out with your own software
+company now called 8090.
+Does this align with what you're seeing
+on the field, Jamal?
+&gt;&gt; I think what I would tell you is that I
+think the first wave was just a lot of
+boards who read the words AI somewhere
+in an article and then went to a board
+meeting and turned to the CEO and said,
+"What's your AI strategy?"
+&gt;&gt; Mhm.
+&gt;&gt; And then the CEO turns around and sends
+that down into their or eventually hits
+the CTO's desk. And I think the first
+wave is mostly people just spending
+money because they had large existing
+budgets. And so they were like, let's
+just go and try a bunch of different
+things. And I think now we're going
+through the sorting function of
+realizing that there's a big difference
+between probabilistic software and
+deterministic software. That's probably
+the biggest reason why you're seeing so
+many failure modes in sales and
+marketing. It's very hard to codify
+sales and marketing into a set of
+heristics that never change. But back
+office processes,
+why they're so good and a great target
+for AI is ultimately you have so many
+people that have been hired to deal with
+edge cases, right? I think like that's
+what people do in most companies is
+they're in charge of a process and
+they're they're dealing with edge cases.
+And I think that you can get extremely
+high rates of accuracy if you implement
+AI correctly in back office tasks.
+I think the real question is like what
+happens to all of this revenue that has
+been generated. You're seeing companies
+generating $50 million of ARR in a
+matter of months and then raising huge
+rounds. I think what we haven't seen is
+whether there'll be any sort of either
+logo churn or dollar churn as new
+companies come in with even cheaper
+solutions. the foundational models move
+up the stack and just absorb capability
+or things just don't work and they get
+abandoned. All of that churn happened in
+social. I remember when I was in the
+middle of helping build Facebook, we
+went through that whole cycle. There was
+seven or 8,000 social companies
+&gt;&gt; and within six years there was five of
+us left. It happened in SAS when I was
+investing in SAS. There's a couple of
+very early and important successes like
+Yammer which Sax started which I was
+very lucky to be an investor of but then
+it took many years for the handful of
+winners to get really sorted out and I
+suspect we're about to go through that
+same cycle in AI. So I think that
+article basically paints a very accurate
+picture. There's been a lot of triing
+and experimentation.
+We now need to go through a sorting and
+a cleansing and then we'll rebuild from
+first principles around the
+&gt;&gt; and not surprising
+not surprising to our sultan of SAS
+David Sachs because the sales and
+marketing departments they they're very
+promiscuous when it comes to new tools
+getting a great lead closing a sale you
+can directly connect it so we always see
+them test stuff out doesn't surprise me
+that we'd see sales and marketing go
+after this first but what do you think
+about the brittleleness of this revenue
+the churn sachs. Are we going to see a
+lot of these companies rocket up to 100
+and come back down to 50? Is this
+something you're seeing uh or your your
+firm which I don't know your status at
+the firm? Maybe you could tell us how
+how that's working out in terms of your
+intelligence there. But what is craft
+seeing on the field there?
+&gt;&gt; I think we're seeing a lot of
+interesting AI applications being
+developed, but it's still very early
+days. And I think that over the past
+week or so, there was a correction in
+sentiment towards AI, but I think it was
+a healthy correction. I don't think this
+was the beginning of a bus cycle or
+something like that. I I still think
+that we're in a boom. I still think
+we're in a investment super cycle, but I
+think there was a healthy dose of
+skepticism applied to some of the more
+fantastical claims that have been made
+about AI. And I think this is why you
+saw there was like roughly what, like a
+10% correction in public AI stocks. And
+there was that MIT report that said that
+95% of projects and companies are are
+not making it to production yet and so
+forth and so on. So I feel like we're
+getting in the weeds a little bit here
+and what we should be talking about is
+just sort of where we are in this um in
+this AI super cycle.
+&gt;&gt; And where do you perceive us at? We're
+in the experimentation phase. We're in
+the pilot phase. But this issue around
+probabilistic versus deterministic makes
+it hard to trust the software. Is that
+what you think the key issue is? Well,
+let me tell you why I think that this
+correction is actually healthy is that
+after chatbt launched at the end of 2022
+and then throughout 2023, the dominant
+narrative in AI is that AGI was just two
+to three years away and everyone kind of
+had their own definition of AGI was, but
+it was kind of this idea of smarter than
+human super intelligence and kind of
+magic AI. AI would be able to do
+everything. And as a result of that, you
+kind of had both utopian and dystopian
+narratives really proliferated. And so,
+you know, you started getting this like
+job loss narrative that within a few
+years, 50% of knowledge workers would be
+out of jobs. You got this rapid takeoff
+narrative that basically the leading AI
+models would be able to turn their
+intelligence towards improving
+themselves towards recursive
+self-improvement and therefore within a
+couple of years the leading models would
+basically achieve super intelligence and
+leave everyone else in the dust and then
+capture all the value of humanity and
+then based on that narrative which again
+it was the same underlying narrative
+that fueled both utopian and and
+dystopian or doomer takes on AI. You
+got, I think, a huge backlash which has
+already been forming where you have a
+thousand bills running through state
+legislatores right now and you have all
+this AI safety legislation. You got
+bills like in California the SB 1047
+which would have applied tremendous
+amount of of new regulation to AI. So
+you saw this policy backlash happen as
+well and it was all based on these
+fantastical and kind of magic views of
+what AI was going to do in just the next
+2 to 3 years. And I think that the
+reason why this recent skepticism is
+healthy is because I think it's
+rebutting all of that and it's showing
+that, you know, AI is a powerful tool. I
+mean, I I definitely think it's a new
+and important form of computing and it
+is going to unlock tremendous value in
+the economy, but it's going to take us a
+while to get there. I mean, you can't
+just tell the AI, you know, be a sales
+rep, be a customer service rep, and kind
+of throw it over the wall and expect
+that it's going to replace a human. It
+takes a lot of prompting and iteration
+and validation to make the AI work to
+make it generate business value. And if
+we were on a path towards rapid takeoff,
+then what you would see is that the
+leading AI models would be increasing
+the distance between like the top one or
+two models would be increasing the
+distance between you know the rest of
+the models. And instead what we're
+seeing is a clustering of model
+performance around the same performance
+bench.
+&gt;&gt; It's incremental, right? They're
+incrementally
+&gt;&gt; the progress to be a little bit more
+incremental. It's more evolutionary
+rather than revolutionary. And I I think
+this really crystallized around the
+launch of chat GPT5 where a lot of
+people were expecting GPT5 to be this
+huge breakthrough. Sam Alman was sort of
+teasing this concept by posting photos
+of the Death Star that the idea that
+this model was going to blow everybody
+else away and the reviews ended up being
+very mixed and then we saw that on the
+performance evaluations.
+&gt;&gt; It's not that the model didn't represent
+progress, it just fell short of these
+lofty expectations that have been
+created. So Freeberg, let me get you in
+on this
+&gt;&gt; just to sorry I've been kind of
+longwinded here, but just let me just
+sum this up, which is please I think
+that what people can now see is that
+we're not in like a a loop of recursive
+self-improvement. We're seeing that
+there are a handful of of great model
+companies, but the development of this
+technology is going to be a more normal
+technology race. It's not like the
+leading players just all of a sudden
+going to achieve AGI just very quickly.
+And as a result of that, I I think
+because it is a more normal technology
+race, I think we can apply a more normal
+logic to it from both an investment and
+a policy standpoint. And I think that a
+lot of the narratives that were hyped up
+about imminent doom or imminent utopia,
+depending on what side you were on, were
+just massively overhyped. And this is
+why I think it's just a very healthy

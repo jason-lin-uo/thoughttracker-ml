@@ -1,0 +1,135 @@
+# Pixel Density: Explained!
+# https://www.youtube.com/watch?v=pzGsUp3yM8w
+
+Hey, what's up guys? MKBHD here and
+today we're going to be talking about
+pixel densities. Everything you could
+possibly want to know about pixel
+densities. In the last video, in case
+you missed it, I mentioned that the iPad
+3 might possibly have a retina display.
+And a lot of you guys were thinking that
+that's a little bit unnecessary. I mean,
+it's just a tablet. Why would it need a
+retina display? Things like that. So,
+today I hope to be able to address that.
+Let's go ahead and get started with this
+video. Well, to start, individual pixels
+on a display contain a certain number of
+sub pixels for each color. And there are
+different display technologies like
+pentile displays that have less sub
+pixels per pixel and therefore tend to
+look a little bit worse when displaying
+the color that they are missing. But for
+the sake of simplicity, let's assume
+that all displays are made up with
+pixels with red, green, and blue sub
+pixels. Now, when we're talking about
+resolution, we tend to refer to it in
+its simplest form, the xy form, where x
+is the number of pixels in the
+horizontal direction and y is the number
+of pixels in the vertical direction. A
+full HD display, for example, would
+measure 1,920 pixels across by 1,080
+pixels down or 1920 x 1080. So, when I
+want to talk about pixel density, we
+need to measure the number of pixels on
+the display and divide it by the size of
+the display, the area. So, here in
+America, we use pixels per inch, as
+silly as inches are. So we multiply the
+horizontal resolution by the vertical
+resolution to get the total number of
+pixels on the display. Then multiply the
+horizontal size by the vertical size of
+the display to get the total area in
+square in. Divide the two numbers and
+that's how we calculate pixel density.
+So a retina display, a term dubbed by
+Apple, is really any display with a
+pixel density so high that the retina of
+the human eye cannot detect individual
+pixels from a typical viewing distance.
+The iPhone has a resolution of 960x 540
+on a 3 and 1/2 in screen, giving it a
+pixel density of
+326 pixels per inch. And you're
+typically using an iPhone less than 2 ft
+away from your eyeball. So again, the
+higher pixel density, the better when
+it's that close to your face. Now, just
+about any phone display with a pixel
+density of around 250 PPI or higher will
+look excellent from such a close range.
+But not every phone has such a high
+pixel density. As you can see here,
+there are quite a few that come nowhere
+near that. Now, moving on to tablets.
+Now, when you're using a tablet, you're
+using it from a little bit further away,
+so pixels can be a bit bigger before
+your retina can detect them. People use
+a tablet from roughly 3 ft away from
+their eyes. So, the average pixel
+density for tablets drops off a bit. The
+iPad 2 comes in at 132 PPI, and the
+Motorola Zoom and Asus Transformer Prime
+at 150. You can occasionally see pixels
+at this density, but usually not. But
+this is why people are looking forward
+to a high resolution iPad 3. And then we
+move on to computer displays which have
+stuck around the same resolution for
+years. The typical 24inch monitor has a
+resolution of 1920x 1080 which gives it
+a pixel density of just 91 ppi. And it
+doesn't stop there. Take a lower-end
+19-in monitor with a resolution of 1280
+x 1024 86 ppi. And while you may be
+inclined to believe that your precious
+Apple Thunderbolt display is superior in
+clarity, seems very sharp, it's really
+not. This 27inch monitor comes in at
+2560 by440, giving it a pixel density of
+109, putting it right in line with other
+displays in that size and that price
+range. Of course, we use desktop
+monitors from a little bit further away,
+maybe 4 ft from our eyes, so we
+typically don't notice a much lower
+pixel density. Then, of course, there
+are TVs. Now, we sit much further away
+from TVs, so pixel density drops off
+again here. A 42in 1080p TV has a pixel
+density of just 52 ppi. I'm sure when
+you were young, you looked up at the TV
+up close and noticed the red, green, and
+blue dots that made up the picture.
+Yeah, you were looking at sub pixels
+there. So, there have been rumors about
+a retina display MacBook Pro, but I
+wouldn't put any money on it. The real
+bet here is in high resolution tablets
+next. In fact, the Asus Transformer
+Prime TF700T tablet has already been
+announced and will be available later
+this year with a 1920 x 1200 display.
+And Samsung has rumored 11inch tablet in
+the works with a resolution of 2560
+by600, the same resolution we see on a
+lot of 30-inch monitors today. The iPad
+3, like I mentioned in my last video, is
+rumored to have a resolution of 2048
+x536 on that 10.1 in display, bringing
+it to a pixel density of
+528 PPI. Overkill? Probably. But will it
+be beautiful? Absolutely. So, this has
+been an MKBHD video. Thank you for
+watching. If you enjoyed it, please give
+it a thumbs up as that really does help
+out a lot. And I'll talk to you guys in
+the next video. Thanks for watching.
+Peace.
+[Music]

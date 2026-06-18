@@ -1,0 +1,118 @@
+# 4G and LTE: Explained!
+# https://www.youtube.com/watch?v=wiWXQEkO5ws
+
+Hey, what's up guys? MKBHD here and
+welcome to 4G and LTE explained. So,
+what is 4G exactly? I mean, we've seen
+it on all sorts of carrier branding and
+commercials and stuff. Sometimes we see
+it on the back of our phones or on the
+front of our phones, but there's no real
+widely accepted definition of 4G. So,
+let's try to explain that. So, as far as
+the name goes 4G, the G stands for a
+generation of wireless technology. With
+each new generation, you get
+significantly faster data speeds, but it
+becomes incompatible with the previous
+generation. So, you'll never see a 3G
+phone working on a 4G network. And there
+are carriers that have both 3G and 4G
+networks like Verizon, but we'll get to
+that in a second. The first G, the
+original G, was the old analog cellular
+systems. They were obviously super slow.
+2G moves to digital, but they are still
+very, very slow, somewhere around 10 to
+200 kilobits per second. The first
+iPhone was 2G. Fun fact, 3G is a much
+faster digital and it starts at around
+384 kilobits per second. 4G systems like
+LTE and YAX claim to initially start out
+at around 5 megabits per second, which
+is a lot higher than all the rest we've
+already seen. But 4G isn't just faster
+than 3G. The 4G networks also tend to
+have a lot more capacity than the 3G
+networks. So, you're going to see a lot
+less bandwidth caps when you're on 4G.
+When you're on 3G, you tend to be
+limited. And when you're on 4G, you'll
+see a lot more higher data plans. But
+the complication that has people
+wondering what really is 4G is the fact
+that there are some really modern 3G
+networks, like we'll get to in a second,
+that are actually faster than the
+beginnings of the 4G networks. For
+example, HSPA Plus. It's really, it's 3G
+basically, but it's really, really fast
+3G. Somewhere around 7 megabits per
+second. It's been evolved for so long.
+T-Mobile runs an HSPA plus network and
+they plan to continue to evolve it to
+get it up to 30 megabits per second. So
+instead of being left out of the 4G
+chatter that's going to be the way of
+the future, they just figured they'd
+stamp a 4G sign on their HSBA plus
+network and just declare it 4G cuz who's
+going to argue? And one other difference
+between 3G and 4G, since we haven't
+mentioned it already, is that in order
+to hop on the brand new 4G network, like
+I said, it's probably incompatible well
+it is incompatible with the 3G network.
+So, you need one of those new 4G radios
+in your device. And those are some very,
+very power-hungry 4G radios. This is why
+in the United States, we pretty much
+haven't seen any device, any smartphone
+at all with both quad core and 4G,
+because that's just way too much power
+for a single battery to handle. Phones
+these days have, you know, huge screens.
+They have extremely fast RAM, these
+great processors. But to throw 4G on top
+of all that would be a huge power suck
+for the battery. And that's why we
+haven't seen something like the HTC1X,
+which is quad core overseas, come to the
+United States quad core. If it's coming
+to the United States and you want it to
+sell, well, you just got to put 4G in
+there. And that's why they're saying,
+"All right, we'll make it dual core and
+hopefully it'll have enough power to
+last through the day." Will we ever see
+a 4G quadcore device in the United
+States? I don't really know. I did a
+little bit of a rant on battery
+technology already, and hopefully if
+battery tech improves, we'll be able to
+see one. Maybe the Galaxy S3 will be
+quad core in the United States, but I
+don't really know yet. I'm hoping maybe
+the next iPhone. I don't know.
+Competition is good. Uh either way,
+hopefully this video helped to explain
+4G for you guys. And just in case you
+were wondering, LTE stands for long-term
+evolution and HSPA stands for high-speed
+packet access. I don't really know why
+those are named that way, but either
+way, give a thumbs up on this video if
+you learned something. Hopefully, you
+guys like the explained video series.
+And if you also have anything else that
+you want to be explained, something
+technical that I could break down and
+make a fun interesting video, let me
+know in the comments section below that
+like button. But either way, thanks for
+watching and I will talk to you guys in
+the next video. Peace.
+[Music]
+Heat up
+[Applause]
+here.

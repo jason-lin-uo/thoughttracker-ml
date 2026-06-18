@@ -1,0 +1,255 @@
+# The iPad's Odd New Feature
+# https://www.youtube.com/watch?v=DFgYGBtJLnI
+
+hey what's up mkbhd here and i've been
+using ipad os 16 on the new ipad pro for
+a little while and one of the biggest
+new features on it is called stage
+manager and i have a theory about it
+now a lot of ipad power users like
+myself have been excited for this
+feature to drop because we've been
+waiting for a sort of mac like
+real multitasking experience on the ipad
+so stage manager comes along and it is
+technically a multitasking ui but the
+more i use it the more i can sort of
+crystallize this theory in my head which
+is that
+apple doesn't seem to want the ipad to
+do
+anything
+the same way the mac does it now this
+goes back a long way you know when the
+ipad first came out it was more or less
+a gigantic iphone but it's slowly gotten
+more and more powerful in front of our
+eyes until this point we have a thousand
+dollar ipad pro with a 13 inch mini led
+display and a whole m1 chip inside the
+exact same chip that's in some of the
+most popular computers that they make
+but the ipad software has stayed
+remarkably
+consistent which is a nice way of saying
+it hasn't advanced quite at the same
+rate as this hardware so a lot of people
+have big ipad dreams of wanting this to
+be their only computer and have it be
+just as capable as any other computer
+but it hasn't been and that's been the
+biggest knock on the ipad for a while
+now sure we've gotten some stuff we have
+widgets on the home screen since ipad os
+15 we have our split screen apps we have
+our slide over apps and all this stuff
+but again you'll notice
+that they specifically don't do anything
+here the same way they would on a mac
+they always want to find
+a new
+ipad way of doing it like when the ipad
+first got a trackpad and mouse support
+that was a big deal we were waiting for
+that but instead of a normal mouse we
+got this unique circle pointer thing
+that floats between possible touch
+targets very much the ipad way you might
+remember when i asked craig federighi
+why there wasn't a dedicated weather app
+and calculator app on the ipad this was
+his answer the ipad still does not have
+a default weather and calculator app and
+they want to know why
+you know there's some things that we
+we have not done because
+we to do it we would want to do
+something really distinctly
+great in that space and uh i think it's
+obviously easy to create a calculator
+app uh but creating one that feels like
+wow this is this is this is the greatest
+ipad calculator app that it felt like i
+think we we we want to do it when we can
+do it really really well and and we we
+honestly have just uh
+uh
+haven't gotten around to doing it great
+so uh that that day that day may come
+but uh
+and you know whether it be easy enough
+to scale up our additional our existing
+weather app but we feel like what would
+a great weather app for ipad be like
+let's let's do that before we do it i
+suppose that makes perfect sense but
+listening back to that two years later
+it sounds even more like
+we haven't really gotten around to doing
+it the ipad way yet even the headline on
+apple's website for ipad os 16
+incredibly capable unmistakably ipad so
+when it comes to multitasking this is
+like the last big hurdle on the ipad's
+way to finally feeling like it's a real
+computer we all know what we expect
+multitasking to look like on a normal
+computer like a mac but in accordance
+with my theory and this i can't prove it
+but this is just my theory is
+apple doesn't ever want the ipad's
+multitasking to look or feel or work
+like it does
+on a mac
+they've got to find
+a
+ipad way of doing this now to throw a
+wrench in my theory this is also coming
+to the mac in the latest version but the
+latest feature here is called stage
+manager and uh it's not
+bad it's just an inherently
+new
+different way of doing multitasking on a
+touch screen or on a monitor like this
+and it's just another thing you're gonna
+have to learn to get the most out of
+this thing so basically what it looks
+like is you enable it in the settings
+then toggle it on in control center once
+you do you can open up an app to bring
+it on stage and then off to the left
+here you have your recent apps that are
+off offstage so you're on stage app it's
+a window it isn't quite full screen and
+so you can drag the corner and move it
+around and you can see that there's a
+bunch of slightly different
+predetermined window sizes it's not
+perfectly fluid it's just a bunch of
+sizes that apple picked and then you can
+bring other apps from off stage to be on
+stage at the same time so now this is
+officially the first time you can have
+more than one windowed app open at the
+same time on the ipad and again you can
+mess with the sizes you can group apps
+together and then you can bring them on
+or off stage at will so it is still
+definitely very much not the same thing
+as multiple windows open on a computer
+with the little buttons in the corner
+and then fully fluid window sizes and
+all the stuff but it is running
+simultaneous things at once and it is
+multitasking and it is the ipad way you
+can have up to four apps on a stage at
+once which can look kind of ridiculous
+and probably even more so on a smaller
+ipad but then you can move a whole pile
+of apps off stage by switching to
+something else and then bring all four
+of them back on at once it's just
+technically a lot happening
+simultaneously and then if you connect
+the ipad to an external display finally
+finally the ipad doesn't just mirror
+anymore but it actually treats it like a
+second display to extend onto and lets
+you have up to four more piles to the
+side on stage manager so you can really
+multitask to your heart's content on a
+large display where it doesn't feel as
+crowded and you can have a ton of
+processes happening at once it's
+impressive but it's not perfect there
+are already some pretty well documented
+downsides the first one just being that
+it's not very widely available literally
+only m1 ipads will support this so
+resource intensive that it uses memory
+swaps so that's not very many ipads
+right now but more importantly
+i still think this is a little bit
+complicated and not the most intuitive
+thing in the world now this isn't the
+end of the world for a ipad power user
+who's just like yeah bring on the new ui
+and stuff i'll learn it no problem but
+are you also going to remember that if
+you open an app that's already in
+another group it will open that whole
+group so you have to manually drag the
+app out into another group if you want
+to work in a different set of apps or
+what about that you can't make it
+automatically open apps maximize so you
+have to drag them to cover the whole
+display or hit the dots at the top and
+hit zoom every time to bring them to
+full screen or what about the fact that
+there are iphone size apps still like
+whatever the hell instagram is still
+doing hence they don't resize at all and
+they seem to mess with the whole
+multitasking thing since you can't seem
+to choose where it goes either and also
+the fact that this feels like about the
+fifth different way to multitask on an
+ipad that's buried behind some slightly
+obscure gestures and is off by default
+there are still the three dots at the
+top of every window if stage manager
+isn't on and that's how you still get
+into split screen apps which again have
+a set number of predetermined sizes and
+that's also how you get into slide over
+apps which are the tall skinny apps that
+you get to by sliding over from the side
+which by the way have an entire
+multitasking carousel of their own you
+also can't drag windows straight from an
+ipad to another display so you got to
+click the three dots then move to
+display and then do that same thing
+again if you want to move them back and
+the ipad does not work with a secondary
+display while its own screen is off so
+like a laptop a computer might have
+clamshell mode where you close it but
+it's still plugged into a monitor you
+can use with the ipad if this screen is
+off so is everything it's connected to
+plus don't forget about the keyboard
+shortcuts if you have the magic keyboard
+that goes along with the ipad a lot of
+them are the same as they are on a mac
+but there are some that are slightly
+different
+it's a lot so i feel like you probably
+get what i'm saying the the state of the
+ipad is fascinating apple's given us an
+amazing piece of hardware and it's very
+powerful and they've added a bunch of
+features to try to take advantage of it
+but now in their effort to do it the
+ipad way every single time they're
+walking a tightrope between two sides
+where one side is amazing intuitive
+powerful on the other side is a little
+too complicated a little bit unintuitive
+and hard to remember they're just
+right down the middle for people who use
+an ipad how do you use your ipad what do
+you do
+specifically on the ipad are you a one
+full screen app at a time person you
+just keep it propped up in a folio touch
+screen all the time let me know in the
+comments section below how you use
+the ipad and until the next one i will
+continue to be confused about the
+what is a computer question
+thanks for watching catch you guys in
+the next one
+peace

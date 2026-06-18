@@ -1,0 +1,4379 @@
+# X4QE6t-MkYE
+# https://www.youtube.com/watch?v=X4QE6t-MkYE
+
+welcome to the huberman Lab podcast
+where we discuss science and
+science-based tools for everyday
+[Music]
+life I'm Andrew huberman and I'm a
+professor of neurobiology and
+Opthalmology at Stanford school of
+medicine today my guest is Dr Nolan
+Williams Dr Williams is a medical doctor
+and professor of Psychiatry and
+Behavioral Sciences at Stanford
+University School of Medicine his
+laboratory and Clinic focus on
+depression and other mood disorders they
+focus specifically on the use of
+transcranial magnetic stimulation which
+is a brain stimulation technique that
+can either activate or quiet specific
+brain circuits as well as circuits
+within the body in order to treat
+depression and other mood disorders
+other Laboratories and Clinics use TMs
+what sets apart the work of Nolan
+Williams and colleagues is that they
+combine TMS with other treatments and
+some of those treatments are among the
+more Cutting Edge that you've probably
+heard about these days including ibigan
+psilocybin MDMA cannabis DMT and Other
+Drugs that at this point in time are
+experimental in terms of clinical trials
+but that at least the preliminary data
+show hold great promise for the
+treatment of depression and other mood
+disorders in the course of my discussion
+with Dr Williams we covered things such
+as the history of each of these drugs
+how they came to be and their current
+status in terms of their clinical use
+and legality we also talk about their
+safety profiles both in children and in
+adults and we talk about what the future
+of Psych delic research and clinical use
+really looks like for instance we
+discuss how a number of Laboratories and
+Clinics are modifying psychedelics to
+remove some of their hallucinogenic
+properties while maintaining some of
+their anti-depressant or anti- truma
+properties you'll also learn about some
+fascinating research in Dr Williams
+laboratory focus on ketamine which is a
+drug that is increasingly being used to
+treat depression and contrary to Common
+belief the effects of ketamine in terms
+of relieving depression may not actually
+arise from its dissociative effects one
+thing that you'll find extraordinary
+about Dr Williams is that not only does
+he have vast knowledge of the various
+treatments for depression but that he
+and his laboratory are really combining
+these treatments in the most potent way
+that is combining psychedelic treatments
+with brain machine interface or
+combining brain machine interface with
+particular learning protocols that is
+neuroplasticity protocols which can
+directly change the brain in specific
+ways so today you're going to learn a
+tremendous amount about the neural
+circuitry underlying depression as well
+as positive moods you'll also learn
+about all the various drugs that I
+described and you're really going to
+learn about the current status and
+future of the treatment of mood
+disorders today you'll also learn about
+a number of ongoing studies in Dr
+Williams's laboratory I should mention
+that they are recruiting subjects for
+these studies if you go to BSL which
+stands for brain stimulation laboratory
+so that's BS sl. stanford.edu you have
+the opportunity to apply for one of
+these clinical trials for the treatment
+of depression and other mood disorders I
+confess that the conversation with Dr
+Williams was for me one of the most
+stimulating and informative
+conversations I've ever had about
+psychedelics which is simply to say that
+his breadth and depth of knowledge on
+that topic is incredible and his breadth
+and depth of knowledge in terms of the
+underlying brain science and how it can
+all be combined with clinical
+applications is also extraordinary I'm
+sure that by the end of today's episode
+you're going to come away with a
+tremendous amount of knowledge about the
+clinical and non-clinical uses of those
+substances and you're going to
+understand a lot more about how the
+healthy and diseased brain work I'm
+pleased to announce that the hubman Lab
+podcast has now launched a premium
+channel I want to be very clear that the
+hubman Lab podcast will continue to be
+released every Monday at zero cost to
+Consumer and there will be no change in
+the format of these podcasts the premium
+channel is a response to the many
+questions we get about specific topics
+and it will allow me to really drill
+deep into specific answers related to
+those topics so once a month I'm going
+to host an ask me anything so-called
+amaama where you can ask me anything
+about specific topics covered on the
+hubman Lab podcast and I will answer
+those questions those of course will be
+recorded there will also be other
+premium content available to premium
+subscribers such as transcripts and
+short videos of new tools and unique
+tools for mental health physical health
+and performance if you want to check out
+the premium channel you can go to hubman
+lab.com premium there's a $10 a month
+charge or $100 per year and I should
+mention that a large portion of the
+proceeds from The Hub lab premium
+channel will go to support scientific
+research that de develops the very sorts
+of tools that we talk about on the
+hubman Lab podcast the rest of the
+support from the hubman Lab podcast
+premium channel will go to supporting
+the regular hubman laab podcast again
+that's hubman lab.com premium before we
+begin I'd like to emphasize that this
+podcast is separate from my teaching and
+research roles at Stanford it is however
+part of my desire and effort to bring
+zeroc cost to Consumer information about
+science and science related tools to the
+general public in keeping with that
+theme I'd like to thank the sponsors of
+today's podcast our first sponsor is
+inside tracker insid tracker is a
+personalized nutrition platform that
+analyzes data from your blood and DNA to
+help you better understand your body and
+help you reach your health goals I've
+long been a believer in getting regular
+blood work done for the simple reason
+that many of the factors that impact
+your immediate and long-term Health can
+only be analyzed with a quality blood
+test one problem with a lot of DNA tests
+and blood tests however is you get data
+back about levels of metabolic factors
+levels of hormones Etc but you don't
+know what to do with that information
+inside tracker makes interpreting your
+data and knowing what to do about it
+exceedingly easy they have a
+personalized platform where you can go
+and you can see those levels of hormones
+metabolic factors lipids Etc and they
+point to specific nutritional tools
+behavioral tools supplement based tools
+Etc that can help you bring those
+numbers into the ranges that are optimal
+for you if you'd like to try insid
+tracker you can go to insidetracker
+docomo to get 20% off any of insid
+tracker's plans again that's insid
+tracker.com huberman to get 20% off
+today's episode is also brought To Us by
+eight sleep eight sleep makes Smart
+mattress covers with cooling Heating and
+sleep tracking capacity I started
+sleeping on an eight- Sleep mattress
+cover a few months ago and it is simply
+incredible in fact I don't even like
+traveling anymore because they don't
+have eight Sleep mattress covers in
+hotels and airbnbs one of the reasons I
+love my eight Sleep mattress covers so
+much is that as you may have heard
+before on this podcast or elsewhere in
+order to fall and stay deeply asleep you
+need your body temperature to drop by
+about 1 to 3° bre and I tend to run warm
+at night which makes it hard to sleep
+and sometimes wakes me up in the middle
+of the night when you sleep on an eight
+sleep mattress cover you can program the
+temperature of that mattress cover for
+specific times in the early middle and
+late part of your night so that the
+mattress stays cool and as a consequence
+you sleep very very deeply it also
+tracks your sleep so it's paying
+attention to how many times you're
+moving how deep your sleep is it gives
+you a sleep score all wonderful data to
+help you enhance your sleep and of
+course sleep is the foundation of mental
+health physical health and performance
+which makes an eight sleep a terrific
+tool for enhancing not just your sleep
+but all aspects of your life really if
+you're interested in trying an eight
+sleep mattress cover you can go to
+eights sleep.com huberman to check out
+the Pod 3 cover and you can save $150 at
+checkout eight sleep currently ships to
+the USA to Canada the UK and select
+countries in the EU and Australia again
+that's 8sleep.com
+huberman to save $150 at checkout
+today's episode is also brought To Us by
+roko roko makes eyeglasses and
+sunglasses that are of the absolute
+highest quality the company was founded
+by two All-American swimmers from
+Stanford and everything about Roa
+eyeglasses and sunglasses were designed
+with performance in mind I've spent a
+lifetime working on the visual system
+and I can tell you that your visual
+system has to contend with some pretty
+significant challenges in order to be
+able to see clearly As you move from one
+area to the next for instance when you
+go from a shady area to a bright area
+Roa understands this and have designed
+their sunglasses and eye glasses
+accordingly so you always see with
+Crystal Clarity in addition because they
+were initially designed for performance
+things like running and biking they're
+extremely lightweight but they have a
+terrific aesthetic so unlike a lot of
+eyeglasses and sunglasses that were
+designed for sports and make you look
+like a cyborg they have styles that make
+you look like a cyborg if you like those
+but they also have styles that you'd be
+perfectly comfortable wearing to work or
+out to dinner Etc they're really
+terrific glasses I love mine because I
+can wear them anywhere and I also use
+them when running and going out hiking
+Etc if you'd like to try Roka eyeglasses
+or sunglasses you can go to Roa that's
+r.com and enter the code huberman to
+save 20% off your first order again
+that's Roka r.com and enter the code
+huberman at checkout on many episodes of
+The hubman Lab podcast we talk about
+supplements while supplements aren't
+necessary for everybody many people
+derive tremendous benefit from them
+things like enhancing sleep and the
+depth of sleep or for enhancing focus
+and cognitive ability or for enhancing
+energy or adjusting hormone levels to
+Optimal range for you the huberman Lab
+podcast is now partnered with momentous
+supplements to find the supplements we
+discuss on the hubman Lab podcast you
+can go to live momentus spelled o us
+liv.com huberman and I should just
+mention that the library of those
+supplements is constantly expanding
+again that's liv.com
+huberman and now for my discussion with
+Dr Nolan Williams thanks for joining
+today I'm really excited to have this
+conversation it's been a long time
+coming and I have a lot of questions
+about different compounds psychedelics
+in particular yeah but before we get
+into that discussion
+I want to ask you about depression
+broadly speaking sure intractable
+depression how common depression is or
+isn't I heard you say in a wonderful
+talk that you gave that depression is
+perhaps the most debilitating condition
+worldwide and yet in contrast to other
+medical conditions like cancer we
+actually have a fairly limited number of
+tools to approach depression
+and yet the number of tools and the
+potency of those tools is growing so if
+you could educate us on depression I
+would really appreciate it yeah
+absolutely so depression is a a
+condition that um it has a lot of a lot
+of uh manifestations you know so you can
+have kind of a a depression that's
+primarily loss of interest you can have
+folks who feel very anxious and they're
+kind of overactive you can have people
+who don't have any anxiety at all and
+they're very underactive and they have
+low motivation to do anything you know
+so you have this huge range of symptoms
+that are in that umbrella of depression
+and some of our work is to actually work
+with with folks like hunor Liston and
+Cornell and try to actually get uh
+biotypes based off of neuroimaging to
+see if we can kind of parse out the
+different depression kind of um
+presentations in the and see that
+clinically and also see that in the
+brain depression is U the most disabling
+condition worldwide um what's
+interesting about depression is it's
+both a risk factor um for other
+illnesses and it makes other medical and
+psychiatric illnesses worse right so
+recently the American Heart Association
+added depression is the fourth uh major
+risk factor for coronary artery disease
+right so alongside the risk factors that
+we know hypertension high blood pressure
+hyper lipidemia high cholesterol and um
+and diabetes you know high blood sugar
+those three have been on the list for a
+long time and Depression end up you know
+being added to the list as the fourth
+one and um you know really interesting
+right so in addition to taking
+medications to address those other three
+risk factors we really have to be
+thinking about um how do you treat folks
+with depression to reduce the risk of
+having a heart attack in the future and
+you know there's some of that's being
+worked on now but we don't have a
+complete solution to thinking about that
+at this time and then the other thing
+that's interesting is once you have a
+heart attack in the in the individuals
+end up having having a heart attack the
+risk of having depression after the
+heart attack is higher than the normal
+population right and so a lot of what
+we're doing in the lab actually is um is
+measuring kind of brain heart
+connections and we can actually with
+transcranial magnetic stimulation a form
+of brain stimulation we can actually
+decelerate the heart rate we capture
+that heart rate deceleration um over the
+mood regulatory regions and so actually
+a direct probe of that connection so
+it's it's it's interesting and so you as
+you said a second ago you know it's a
+it's a very disabling condition moderate
+depression is about as disabling as is
+having a heart attack acutely having a
+heart attack severe depressions is
+disabling is having cancer without
+treatment you know and and dying from
+from a cancer without treatment and so
+you know it's um it's kind of
+underappreciated just how disabling
+depression is in that way and I think uh
+important as stigma is consistently kind
+of being reduced over the years for
+mental illness uh for mental illnesses
+then the idea that we can start really
+putting more funding and putting more
+Focus the federal level you know private
+Foundation level whatever it is at a
+given University to to thinking about um
+developing treatments we've been very
+interested in a very particular um
+clinical set of problems around the the
+most severe and the most high Acuity um
+settings that folks with Depression end
+up being in and that's in you know
+emergency settings where they go into
+inpatient units and uh you know in the
+rest of medicine if it's talking about
+heart attacks if I start having chest
+pain right now and um and you bring me
+to a primary care doctor's office
+they're going to have a certain number
+of tests and treatments right but very
+limited because it's an outpatient um
+facility if you bring me to the
+emergency room after that there are more
+tests and more treatments if you put me
+in the ICU or in the cath lab where they
+do um invasive procedures to the heart
+there are more tests and more treatments
+in
+Psychiatry as we Elevate the Acuity of
+an individual you go from being just
+depressed to being depressed and now
+thinking about ending your life the
+number of treatments actually go down on
+average I mean in some scenarios they go
+up but on average they go down and there
+are no tests right and so we've been
+very focused on that particular problem
+somebody that maybe was doing you know
+fairly okay with a pretty moderate
+depression and then their depression
+gets worse and then they end up in an
+emergency setting and the the field
+really hasn't developed a way of um you
+know consistently being able to treat
+that problem and folks end up getting
+the same standard oral anti-depressants
+that they've been getting outpatient and
+and I came to this because a you know
+dual trained as a neurologist and
+psychiatrist went back and fourth
+between neurology and Psychiatry saw
+that in neurology we have all these ways
+of treating acute brain-based problems
+and really wanted to emulate that in
+Psychiatry and find ways to develop and
+engineer new you know brain-based
+Solutions there's a lot to unpack there
+one thing that you said um is I'd like
+to focus on a bit more because I think
+we hear that the brain and the heart are
+connected but you described I believe uh
+a direct relationship between areas of
+the brain associated with emotion and
+heart rate yes and that makes perfect
+logical sense to me but I think um at
+the same time many people out there
+probably think of the relationship
+between the the heart and the mind as
+kind of woo or kind of a a soft biology
+but here you're talking about an actual
+physical connection yep between uh what
+area of the brain is it the the the you
+know the first place where the
+stimulation goes is called the
+dorsolateral prefrontal cortex it's kind
+of the sense of control kind of governor
+of the brain and then and then what we
+know is that when you use a magnet use
+kind of what we call Faraday's law this
+idea of um using a magnetic pulse to
+induce uh an electrical current in
+electrically conducting substances so in
+this case brain tissue but not skull or
+SC scalp or any of that or hair you
+avoid all that just the brain tissue
+then you have a direct depolarization of
+cortical neurons you know the surface of
+the brain's neurons in this dorsal
+lateral prefrontal
+and if you do that in the actual scanner
+which we can do you can see that that
+distributes down into the anterior
+singulate in the insula and the amydala
+and ultimately the tract goes into
+something called the nucleus tractus
+solitarius and ultimately into the Vagas
+nerve into the heart so the the heart uh
+very consistently seems to be the end
+organ of the dorsolateral prefrontal
+cortex if you measure heart rate in
+standard ways that cardiologist measure
+heart rate and you stimulate over this
+left do c lateral you get a deceleration
+of the heart rate and it's very time
+loock to the stimulation so it's a 2C
+train of stimulation at 1 second you see
+the deceleration it goes down about 10
+beats per minute and then it'll drift
+back up there's a break for eight
+seconds on the stimulation drifts back
+up and the stimulation goes back in and
+then the heart rate goes back down so
+you see the heart rate just do this 10
+beats per minute every train and so we
+know and you do that over visual cortex
+you don't get that or motor cortex you
+don't get any of those findings it's
+really specific to this kind of control
+region of the brain and so yeah it seems
+to you know it's our work other other
+folks work Martin arens and um in in
+Europe uh the Netherlands work showing
+the same connection so I think it's been
+rep replicated like four or five times
+so you mentioned left dorsal lateral
+prefrontal cortex anytime I hear about
+lateralization of function I get
+particularly curious yeah um because
+obviously we have two uh mirror
+symmetric sides of the brain um there
+are you know rare exceptions to this
+like the pineal and things of that sort
+uh that are only there is only one
+pineal um what is special about the left
+dorsal prefrontal cortex does this have
+anything to do with handedness right
+hand or left hand because we know
+right-handed and left-handedness has a
+lot to do with lateralization of
+function for
+language um a topic for another time but
+um why do you think the left dorsal atal
+prefrontal cortex would be connected to
+the heart uh in this way yeah yeah I
+think so so left or Catal um uh you know
+is is thought to be the the side that
+when you excite it when you kind of um
+do excitatory stimulation potentiating
+sort of stimulation that you can reduce
+depressive symptoms and uh a guy by the
+name of Mike Fox at Harvard has
+demonstrated that if you have um Strokes
+in the brain that um that cause
+depression you put them on the human
+connecto uh 100 you know thousand
+patient map and you ask the question
+what they're all functionally connected
+to left dorsal lateral if you take
+lesions that cause Mania in individuals
+and you put those all on the human
+connecto map and ask what they're all
+the one common area they're all
+connected to it's the right dorsal
+lateral and so there seems to be a
+hemispheric you know uh you balancing of
+mood uh between these two brain regions
+and we know this from an experimental
+standpoint too because you can take
+individuals with depression and you can
+excite the left or you can inhibit the
+right and they they're both
+anti-depressant you can um excite the
+right and that's antim manic in some
+studies and so this idea that there is
+this hemispheric balancing of mood is is
+quite interesting right it's incredibly
+interesting and just so um people know
+if um
+if you're curious what the connectome is
+a connectome is a term that was built
+out of this notion of genomes being a
+large collections of sequencing and
+mapping of genes they're proteomes of
+proteins of uh connectomes as U
+so-called connectomics of connections
+between neurons so the human connectone
+project is ongoing um and I find that
+incredible that within the connectone
+project they can identify these
+regularities of right versus left or
+Catal prefrontal cortex especially since
+um I've looked at a fair number of
+brains um from humans not certainly not
+as many as you have uh and if you look
+at the architecture the layers the cell
+types and even the neurochemicals of
+which cells are expressing say dopamine
+or serotonin or receiving input from
+areas that make dopamine or serotonin
+they don't look that different on the
+right and left side and yet here we're
+talking about a um kind of an
+accelerator and a break if you will on
+um on depression and Mania
+using what at least by my eye and I
+think other people's eye look to be
+basically the same set of um bits the
+same parts list more or less so what
+gives the these properties um to the
+right and left dors lateral prefrontal
+cortex is it the inputs they receive is
+this something that we learn during
+development or do you think that we come
+into the world with these um hemispheric
+biases yeah it's a it's a great question
+and and you know it hasn't been worked
+out which your original question was
+around and I a lefthanded individual
+which as you know 25% of those folks end
+up having a right brain dominance or 1%
+of right-handed people have a right
+brain dominance if it's flipped right
+and that you know unfortunately that
+study still hasn't been done at the
+level because that would be probably
+pretty helpful for teasing some of this
+out but you know it's it's um it's still
+you know it's still being sorted out
+right we we know enough to know this
+phenomenon exists because we can use TMS
+is a probe and do this sort of these
+sorts of manipulations but um to my
+knowledge there hasn't been anybody
+that's gotten so interested in it that
+they've been able to get a mechanism of
+why that is but uh but it you know it's
+kind of empirically true in the sense
+that you can push and pull on those
+systems or in this in the case of of
+Strokes that folks have and then you
+kind of get their brains and and their
+brain images and look at where The
+Strokes landed those kind of causal bits
+of information point to this this um
+asymmetry interesting well in that case
+going with what we do know that
+stimulation of dorsolateral prefrontal
+Cortex slows the heart rate down
+transiently but slows it down and seems
+to alleviate at least some symptoms of
+depression leads me to the question of
+why would that be the case is it does it
+tell us anything fundamental about
+depression that uh anxiety is inherent
+to depression I think a faster heart
+rate is you you know part and parcel
+with uh with with uh anxiety um in my
+laboratory we've studied fear a bit in
+animals and in humans and we um often
+observe brachi cardio where somebody or
+an animal is afraid of something and
+rather than the heart rate speeding up
+it actually slows down something that
+most people don't uh think about or
+recognize but um given that stimulation
+of dorsolateral prefrontal Cortex slows
+the heart rate down and can alleviate
+depressive sympt symptoms and that there
+are other ways to slow the heart down I
+have two questions what do you think
+this tells us about the basic
+architecture of depression and its
+physiology at the level of the heart and
+does the circuit run in the opposite
+direction too if one were to have or
+find other ways to slow the heart rate
+down say with a beta blocker um does
+that help alleviate depression yeah
+that's a great question so the um I'll
+answer the second question first um so
+we know that um and their ongoing trial
+of this uh if you stimulate in the Vegas
+nerve um in an implanted Vegas nerve
+stimulator you can actually um you know
+have this the aparant um parts of the
+the Vegas um you project ultimately up
+to the dlpfc through the singulate
+through these anterior insula so that
+same that obviously the same tract right
+and you can uh stimulate there and
+alleviate depression which seems very
+unusual right you're stimulating a
+cranial nerve down in the neck but if
+you can get up into the brain you
+actually can improve depressive symptoms
+and so you know more evidence that this
+is a a kind of a whole track and system
+and um if you stimulate in part of that
+system it appears that you can uh
+improve mood and what if I were somebody
+who did not have a stimulating electrode
+in my Vegas nerve and I was dealing with
+minor depression and I decided I wanted
+to take some other approach to slow my
+heart rate down via the Vegas for
+instance um exhale emphasized breathing
+or deliberately slow cadence breathing
+um things of that sort is there any
+evidence that behavioral interventions
+of those kinds um Can alleviate
+depression or some symptoms of
+depression and is there any evidence
+that it does indeed feed back to the
+dorsal lateral prefrontal cortex to
+achieve some of that alleviation
+absolutely yeah so there's there's a
+number of studies um implicating DP the
+dorsal lateral and uh and say you know
+meditation uh mindfulness that sort of
+thing and and they're small studies but
+but pretty welld designed studies
+suggesting that behavioral interventions
+in mild depression actually work quite
+well there seems to be a volitional
+threshold for depression where at some
+point you you start losing it you you go
+from being completely in total volition
+to having kind of semi volition you have
+thoughts that you really have a hard
+time controlling and that sort of thing
+and when you go through that Threshold
+at some point it gets harder and harder
+for those sorts of things to kind of
+kick in and work and the extreme form of
+that is catatonia right where people in
+a very severe form of depression get
+kind of stuck motorically right and they
+obviously can't they have no control and
+so um or or very limited control and so
+you know I think there's a threshold in
+which these sorts of interventions will
+work exercise seems to really be a good
+treatment for for mild depression and it
+may work through the mechanism you're
+describing right as as we all know you
+know athletes hold a lower resting heart
+rate um than folks that that aren't you
+know if you're if you were an athlete
+you had a lower resting heart rate you
+stopped you know exercising and a couple
+years later your resting heart rate in
+many cases goes up right and so maybe
+that's um maybe that's part of the
+process I'm not aware of any studies
+specifically um looking at dorsal
+lateral
+prefrontal um physiology pre poost
+exercise but it would be a great study I
+think that would be really helpful to
+understanding this especially if you had
+a correlation of changes and kind of
+lowering of say heart rate with mood
+improvements um there there's been a lot
+of work with heart rate
+variability and um and depression and
+you know studies are kind of Point
+towards it it's not not every study is
+is is you know um positive for this but
+um but quite a few studies say basically
+that low
+heart rate variability is uh associated
+with se you know moderate to severe
+depression um and that may be part of
+that mechanism of that heart brain uh
+risk so I'm both intrigued and a little
+bit perplexed by this relationship
+between heart rate and depression on the
+face of it I would think of depression
+as depressed so lower heart rate might
+make somebody more depressed you even
+mentioned Catatonia or somebody that
+just doesn't seem motivated or excited
+to do anything I think a Mania is
+elevated heart rate being excited on the
+other hand I realiz that anxiety which
+you know brings about ideas elevated
+heart rate is also built into depression
+which brings me back to what you said
+earlier which is that when we say
+depression are we really talking about
+four or five different um disorders to
+for lack of a better word and for what
+percentage of people that have
+depression
+does some approach to reducing heart
+rate work whether or not it's
+stimulation of the dorsal left dorsal
+lateral prefrontal cortex by way of
+transcranial magnetic stimulation or by
+taking a beta blocker or by stimulating
+the Vegas can we throw out a number a
+rough number does that help 30% 50% how
+Pro how long lasting is that that relief
+yeah and to be clear the um the
+deceleration of the heart rate is in the
+moment when the stimulation is happening
+but it's not something that's
+necessarily maintained chronically it's
+more of an indicator that you're in the
+right Network more than it's than it
+appears to be itself you know Central to
+the mechanism the heart rate variability
+piece may be and there's some studies
+that link the two but the actual
+deceleration seems to be much more of a
+marker that you're in the right system
+but you know it very well could be that
+the heart rate system and the mood
+system just sit next to each other and
+the stimulation hits both if you look at
+how much of the variance in the mood is
+explained by the heart rate deer a it's
+not it's not a huge you know it's not a
+huge amount right so it only explains um
+a small percentage and so it's it's
+unlikely that simply dis you know simply
+reducing the heart rate and in fact you
+know for many years Propranolol and
+these sorts of drugs actually were
+implicating causing depression and so
+that that's been kind of debunked but
+it's it's unlikely that simply
+decelerating the heart rate is going to
+improve depression but what it does tell
+you is that if you're in that that area
+that is the mood regulatory area there's
+some parasympathetic cortical kind of
+process that's going on that gets in and
+and causes this to happen and it's you
+know it's independent a mood you can
+take a normal healthy um individual and
+you can do this and they're going to
+decelerate their heart rate I'm so glad
+you mentioned the parasympathetic
+nervous system which of course is the
+most people think of as the rest and
+digest or the kind of calming side of
+the autonomic nervous system as I'm
+hearing you say all this and in
+particular particular what you just told
+me which is that it's not as if having a
+lower heart rate protects you against
+depression or a higher heart rate is
+associated with depression although at
+the extremes that might be true but
+rather it's something about the
+regulatory Network the ability to
+control your own nervous system to some
+extent um and when I think about the
+autonomic nervous system I like to think
+about as a seesaw of you know alertness
+and calmness and when you're sleep it's
+very a lot of calmness and when you're
+panicking it's a lot of alertness to the
+but that and I don't think this has ever
+been defined and when I teach the
+medical students at Stanford neur
+Anatomy I my wish is that someday I'll
+be able to explain what the hinge in
+that process would be right not the ends
+of the Seesaw we know what the
+sympathetic nervous system is and what
+it's to wake us up and make us Panic or
+make us feel nicely alert and calm we
+know what puts someone into sleep or a
+coma or makes them feel relaxed but what
+shifts from one side of the Seesaw to
+the other and the tightness of that
+hinge seems to be what you're describing
+that that depression is sort of a lack
+of control over inner state so that when
+I'm stressed I can't get myself out of
+it when I'm feeling completely collapsed
+with exhaustion I can't get out of bed
+and get motivated to do the very things
+that would help me get out of depression
+like a workout or social connection or
+eat a a quality meal these kinds of
+things yeah so this is perhaps the first
+time that I've ever um heard about a
+potential circuit for the hinge as I'm
+referring to it does that make any sense
+all absolutely okay I just want to make
+sure that I'm framing this correctly in
+my mind yeah absolutely and in some
+studies if you do the same identical
+stimulation on the right dorsal lateral
+you can get an
+acceleration you know just kind of
+further confirming this idea of
+lateralization right that that even it
+appears that even the prefrontal cor you
+know cortical uh areas seem to be
+lateralized in this in this way and I
+you know it's um it's less uh the right
+finding is is more variable depending
+upon the study the left's very
+consistent in this way um so uh so we've
+talked about Sharon's cranial magnetic
+stimulation for getting into these
+networks and and I also just want to
+take a brief tangent and say I because
+I've heard you say this before I think
+it's so vital what you're saying that
+it's really not about stimulation of
+areas it's or any specific brain area or
+vegus nerve being important per se it's
+really about a network a connection a
+series of connections I think that's
+really important for people to
+understand and is kind of new emerging
+theme really the the other thing that to
+me seems extremely important for us to
+consider is what ex what are these
+lateral prefrontal cortices doing are
+they involved for instance in sensation
+sensing the heart rate are they involved
+in thinking and planning and this gets
+down to a very simple question that I
+know a lot of people have which is can
+we talk ourselves out of depression if
+it's mild can we uh talk ourselves into
+a manic state or an excited state a
+positively excited state that doesn't
+qualify as Mania you know other areas of
+the brain I I think of they is
+responsible for perception or for for
+motor control but here we are in this
+mysterious frontal cortex area which
+people say executive function planning
+Etc are we talking about thoughts are we
+talking about structured thoughts or are
+we talking about dreamlike thoughts what
+in the world is going on in the
+prefrontal cortex and here I spent my
+career you know in neuroscience and
+still I I still can't really understand
+what it's doing and maybe it's doing 50
+things yeah no it's a great it's a great
+question so you know to so one of the
+one of the studies that that we've been
+working on in addition to the depression
+work is actually trying to change trait
+hypnotizability so um David Spiegel and
+I have been working on this and um you
+know he's found and uh published this 10
+years ago that a different part of the
+left doors Catal um is functionally
+connected with the Anor the dorsal
+anterior singulate uh with a lot of
+functional connectivity in high
+hypnotizes and not much in low
+hypnotizables and that's a different
+kind of a different sub region within
+this bigger brain region we call left or
+Catal prefrontal cortex than the part
+that seems to be important for
+regulating mood and so the left doors
+lateral seems to have connections that
+are locations specific within the
+overall kind of named Brain region that
+connect to various parts of the
+singulate and seem to regulate it right
+and so if you knock out the left or
+Catal prefrontal cortex and you have
+people do the Stroop task for instance
+which is a a task where you have it's a
+simple task probably know this you have
+people name the color of words and so if
+I if I look at a what you know if I look
+at one of the cards that they'll show
+you it'll have the word red in red and
+that's very easy and that's called a
+congruent and then the in congruent is
+red in the color blue and you have to
+name you have to say the the word you
+don't um name the color so you have to
+suppress a response yeah yeah exactly
+and so um I'm sorry you do the you name
+the color and you you and you see the
+word written um in a different way and
+so basically um if you if you stimulate
+in a way that inhibits the left door
+Catal prefrontal port or either one you
+can actually knock out the ability to do
+that well and it'll take longer for
+people on the in congruent cards to uh
+to be able to name it and so they have a
+they have a kind of a time delay that's
+greater than they had before they got
+stimulated so that's a part of the the
+prefrontal cortex that's different than
+the part of the prefrontal cortex that's
+involved in mood regulation the nice
+thing about TMS is that you can go
+through and you can find these areas
+that are functionally defined through
+brain Imaging and you can perturb them
+and answer the question you're talking
+about how do I understand this part of
+the prefrontal cortex and its function
+this part and so we were able to
+stimulate in in inhibitory way within
+the left dorsal lateral prefrontal
+cortex that's involved with you know
+this sort of cognitive control um area
+and we were able to knock that area out
+and um and increase trait Hypno iability
+so people had uh greater um
+hypnotizability after they got active
+stimulation versus when they got sham
+and so it suggests that that brain
+circuit is involved in the uh in the
+process of what Hypno you know
+therapeutic hypnosis ends up being but
+it's a very different region within the
+left or Catal than say we do when we do
+these very intensive uh stimulation
+approaches to treat severe depression
+and we're able to get people out of
+depression um you know with the part of
+this of the dorsal lateral that seems to
+be lower in the you know kind of more
+lateral um and um and um inferior on the
+uh dlpfc and connected with this
+subgenual anterior singulate so the part
+of the Interior singlet that processes
+emotion I'd like to take a quick break
+and acknowledge one of our sponsors
+athletic greens athletic greens now
+called ag1 is a vitamin mineral
+probiotic drink that covers all of your
+foundation nutritional needs I've been
+taking athletic greens since 2012 so I'm
+delighted that they're sponsoring the
+podcast the reason I started taking
+athletic greens and the reason I still
+take athletic greens once or usually
+twice a day is that it gets me the
+probiotics that I need for gut health
+our gut is very important it's populated
+by gut microbiota that communicate with
+the brain the immune system and
+basically all the biological systems of
+our body to strongly impact our
+immediate and long-term health and those
+probiotics and athletic greens are
+optimal and vital for microbiotic health
+in addition athletic greens contains a
+number of adaptogens vitamins and
+minerals that make sure that all of my
+foundational nutritional needs are met
+and it tastes great if you'd like to try
+athletic greens you can go to athletic
+greens.com
+huberman and they'll give you five free
+travel packs that make it really easy to
+mix up athletic greens while you're on
+the road in the car on the plane Etc and
+they'll give you a year supply of
+vitamin D3 K2 again that's athletic
+greens.com huberman to get the five free
+travel packs and the year supply of
+vitamin D3 K2 based on what you told us
+about the stoop task and the role of the
+prefrontal cortex and stoop task to me
+the sto task is a rule switching Game Y
+you're saying in one moment the the rule
+is you read whatever the word says and
+then then you switch and then you say
+the rule now is you tell me what color
+the word is written in and you suppress
+whatever it is the word says okay that's
+right okay a rule in some sense is a uh
+like that is a a transient adopted
+belief system y so I could imagine that
+in depression which has all sorts of
+backstory to it um that of course the
+psychiatrist or psychologist or friend
+can pull on that thread like for
+instance somebody might believe that
+they are bad um or that they don't
+deserve love I'm trying to bring this
+into the typical language that people
+talk about or that they will never
+succeed or that even if they keep
+succeeding it's just going to get harder
+and harder and it will never feel good
+these are sort of rules like the stro
+task at some level they're rules that
+are more pervasive over time
+unfortunately but I could imagine that
+if the PFC is also contains some sort of
+maps or algorithms related to rules of
+emotionality or self-representation or
+things that we've heard I think there
+must be data out there that saying that
+you know whatever we heard in middle
+school when someone made fun of us we
+can remember that cuz I can remember
+things that people said um about a
+jacket I wore one day or something the
+fourth grade crazy I didn't even like
+the jacket um now I think it was kind of
+cool but anyway the point being that we
+have an intense memory for these things
+to set up a sort of rule or a question
+like maybe I don't really know how to
+dress for instance maybe that's why I
+always wear the same black shirt but in
+all seriousness it seems like the the
+dorsal ow prefrontal cortex is in this
+amazing position to access rules which
+are beliefs and beliefs are rules and
+then for moments or longer to those
+rules and so for somebody who's
+depressed to just simply look themselves
+in the mirror and say you are great you
+are fantastic that's it feels like a lie
+if you feel like garbage to say that it
+it doesn't fit with the rule it's like
+saying that card is not red that card is
+green when your eyes tell you that it's
+that it's red and that's right and it
+seems like there's something about
+prefrontal cortex that that in principle
+gives flexibility to rules based on what
+we know about the stoop task so so given
+its connectivity can we assume that the
+talk therapy that occurs in a the
+psychiatrist office or with a friend or
+through journaling out something um
+because we do know that reporting things
+about trauma are difficult circumstances
+or the rules that we contain and tend to
+hide inside of us about how we feel
+miserable about ourselves or anything
+really that in rescripting that that
+somehow it allows us to do a sort of
+Stroop task on our beliefs is that is
+that a tremendous leap I'm just really
+trying to frame this in the context of
+what what I and most people think of as
+depression yeah totally um because the
+network components are vitally important
+but I I guess what I'm trying to figure
+out is like what are the what are the
+the algorithms that govern prefrontal
+cortex yeah absolutely so in a in a kind
+of standard cognitive behavioral therapy
+session right what what um the therapist
+is trying to do is identify those
+beliefs and um and you know kind of
+determine how how fixed they are you
+know if they're flexible as you're
+saying and then um and then help folks
+to find another explanation for them and
+to uh and to kind of reintegrate that
+potential other explanation into their
+their memory system right um where where
+I think TMS is really interesting
+actually we had a lot of patients who've
+told me like my my therapist told me
+that I wasn't trying hard enough in
+therapy and um you know and I I really
+am trying hard but these are you know
+moderate pretty severe depressed
+patients and as soon as we get them well
+with with the TMS approaches you know
+kind of Rapid you know 5-day approach
+and the next week we come in and see
+them and they'll say you know what I did
+all weekend is I looked at my therapy
+books and now I can understand it and so
+you know I actually see TMS is a way of
+having kind of exogenous sorts of
+cognitive functions that in milder forms
+of depression we we can pull off with
+Psychotherapy you know this idea of
+being able to kind of turn that
+prefrontal cortex on and have it govern
+these deeper regions in depression the
+deeper regions govern the prefrontal
+cortex they they precede the prefrontal
+cortex timing wise and we've got some
+data in review now we we're seeing that
+in depressed individuals that are
+responsive to our rapid TMS approach we
+call Stanford accelerated intelligent
+neurom modulation therapy or S&amp;T or
+Saint if you look at the Brain before
+people get this they
+will they will have a temporal delay
+where the singulate is in front of the
+dlpfc and in people that are normal
+healthy controls no depression the
+dorsolateral prefrontal cortex is
+temporally in front of the anterior
+singulate with effective treatment we
+can flip the timing of things so the
+dorsal lateral is in front of the
+anterior singulate just like in a normal
+person so you're not talking about
+obviously physically moving these
+structures talking about in time their
+Activation so in one case it's like the
+coach telling the player what to do and
+in other like a player telling the coach
+what to do and you you restore order to
+the game you restore order to the game
+and and and what it looks like is dep
+depression to your point is a bunch of
+kind of
+spontaneous content that's semi
+volitional that's being kind of
+generated out of this conflict um
+detection system the singulate that
+seems to to uh to sense conflict and
+kind of feed that information gets
+overactive in
+depression and um and then in depression
+it looks like the left doors lateral
+does not sufficiently clamp down on it
+and what therapy appears to do is to
+kind of restore that what we see with
+TMs over that region is we just
+exogenously do the same sort of thing we
+restore the governance of the left dors
+Sal lateral over the singulate area and
+that is correlated with treatment
+Improvement so the degree in which you
+can re time re-regulate in time the left
+doors Catal over the singulate the more
+of an anti-depressant effect you
+have can we therefore say in in crude
+terms that the dorsal lateral prefrontal
+C Tex really is the governor of how we
+interpret physiological signals and
+spontaneous thoughts it is it it places
+a lens that the rest of the brain sees
+things through and and you can you can
+do these experiments where you you can
+put a normal healthy control person in
+the in the scanner and you can make them
+feel like they have a loss of control
+and then you can see that region come
+offline right so you can experimentally
+manipulate the system and so kind of
+buffing it up I it's like almost TMS is
+almost like exercise for the brain right
+you're you're kind of exercising this
+region over and over again with a
+physiologically relevant signal and kind
+of turning that system on and what's
+interesting uh I think really
+interesting for for this show is to you
+we had a couple of folks um You probably
+five or six folks that have actually
+told me this where if they remit early
+enough in the week we have this very
+dense stimulation approach where we can
+stimulate people really rapid
+over a 5day block we don't discriminate
+when they get better to when they stop
+so if they they get better on day one we
+still give them the other four days
+because it's in the protocol to do that
+we can't we're we're getting to a point
+where we can tell how long it's going to
+take but we're not there yet and so you
+know every time somebody gets better at
+day one or two at the beginning when we
+first started doing this we'd say you
+know we're not sure you know we think
+this is safe to keep going but you know
+what do you want to do and everybody was
+like no I want to keep going and so you
+know they're by Wednesday they're like
+totally zero down on the depression
+scales you know even better than most
+people walking around like really no
+anxiety no no depression or anything by
+Thursday the first guy that that told me
+this he came in and he said you know I
+was driving back to my hotel and I
+decided to go to the beach and I just
+sat there and I was totally present in
+the present moment for an hour and he's
+like I read about this in my mindfulness
+books but I experienced it last night
+and I've never experienced anything like
+this before and I was like hm that's
+interesting but kind of wasn't sure and
+then and then I didn't tell any you know
+obviously any more patients about that
+and then about five over the last couple
+of years when they get they remit early
+in the week by the end of the week
+they're like going to the beach and
+they're like totally having a what
+people describe as a pretty mindful
+present moment sort of experience which
+is really interesting you know what that
+is I mean I don't have full-on
+scientific data to tell you but it it's
+just it's a it's an interesting anecdote
+right that that folks when you push them
+through this point of of feeling kind of
+clinically well that some people end up
+reporting this additional set of
+features so you mentioned the singulate
+and the anterior singulate in particular
+um because now I feel like for the first
+time in my career I have some sense of
+what prefrontal cortex might actually be
+doing um besides providing a bumper for
+the for the rest of the the brain
+um is the singulate it seems is is a
+more primitive structure in the sense
+that it's um it's under the ideally it's
+under the regulation of this top down
+control from prefrontal cortex but
+what's mapped in the singul in and for
+the non- neuroscientists out there when
+we say mapped if if we were to put
+someone in a scanner and focus in on
+singulate or put an electrode in there
+what what makes the neurons in their
+fire what what sorts of things in the
+body and in the mind and out in the
+world uh light up for lack of a better
+phrase the singulate what does the
+singulate like yeah yeah so so that
+stoop task those in congruent word color
+associations the the dorsal part of that
+um for obsessive compulsive disorder
+patients certain you know certain kind
+of triggers you'll you'll see some some
+of the neur Imaging studies will point
+to to anterior singulate uh in the kind
+of very crude psychosurgery World 50
+years ago the anterior cingulotomy was a
+way of treating um obsessive compulsive
+disorder right because that area seems
+to be overactive in people who are
+experiencing obsessive compulsive
+disorder you can kind of walk the
+singulate wraps around you know this
+white matter track like bundles it wraps
+around that and so there's a part that's
+above that around that and below that
+and depending upon how emotion how much
+of the um the conflict task has an
+emotional component the more um ventral
+and
+subgenual that um that activation is so
+the dorsal part of the anterior singular
+seems to be kind of more of a pure
+cognitive maybe um obsessive compulsive
+disorder sort of area whereas when you
+start getting into mood sorts of
+triggers like facial expression um
+conflicts where you're supposed to they
+you know there's an emotional Stroop
+task where you show the word happy and
+then you have a face of of a person that
+looks mad then that's another way of
+having the same sort of Stroop conflict
+that seems to be more perig genual
+subgenual areas right so you can kind of
+you can trigger the singulate based off
+the level of emotional veilance from
+none down to a lot and uh and that seems
+to be how the how it's distributed there
+are you know heart rate kind of
+components to it autonomic components in
+there too there's something called a
+kinetic mutism you you know I'm a a
+board certified neuros psychiatrist beh
+behavioral neurologist and I've seen you
+know a lot of these what we call zebra
+cases in neurology where people have you
+know these unus usual neurological
+presentations and one of them is a a
+kinetic mutism and so you have a Goma
+sitting in the inner hemispheric Fisher
+and H kind of having um pressure on the
+singulate people can get into an almost
+catatonic looking state where they kind
+of get stuck and they don't speak and
+and so that tells you something about
+how the how the singulate works as well
+right it's it's like if it's um if it's
+not functioning then people have a hard
+time kind of connecting with reality it
+seems to need to be constantly on you
+know online to be able to interact with
+the exterior world is it involved in
+some of the dissociative states that
+sometimes people who are very stressed
+or or depressed experience you said
+Catatonia being an extreme one but um I
+know someone for instance that when they
+get really stressed and it can even be
+if someone um yells at them or someone's
+angry even if someone's angry with them
+or they perceive someone's angry with
+them there's a developmental backstory
+to why they they likely feel this way um
+they sort of just kind of can't this is
+a high high functioning individual
+normally and they they just sort of
+can't function they can't complete
+simple things like email or or groceries
+or things for for a short while it's
+it's almost like a Catatonia and they
+refer to as a dissociative State um do
+you see that in depression and I mean
+we're we're speculating here as to
+whether or not that involves a singulate
+but what you're saying has holds a lot
+of salience um for me and thinking about
+this example yeah yeah there's um so you
+see you see Catatonia as an extreme
+outcome of depression and of um and
+sometimes schizophrenia and other
+illnesses um dissociation is an extreme
+outcome or even some cases a less
+extreme outcome of PTSD and and Trauma
+and um you know and it's also a
+phenomenon that happens naturally in
+some people that are highly hypnotizable
+and so if you ask David Spiegel he'd say
+that um some of the work that he's been
+working on is around posterior singulate
+and and the capacity to dissociate but
+yeah you know with our stimulation
+approach to to dlpfc Dorsal anterior
+singulate one of the subscales that
+moved the most was the dissociative
+subscale for for hypnotizability so even
+a normal individual um you know you see
+that that change in in uh in that kind
+of experience of dissociation I am
+highly hypnotizable D David hypnotized
+me a number of times in fact we have a
+clip of that on our cuber live Channel I
+I've always um well always starting my
+early teens I started exploring hypnos
+I'm extremely hypnotizable and um self
+hypnosis or assisted hypnosis um I don't
+know that I ever go into associative
+States uh I'll try and avoid um forcing
+you into running a clinical session
+right now but uh to assess anything like
+that but this brings about something
+really um interesting I think which
+which is I'm aware that some of the more
+popular emerging treatments for
+depression include things like ketamine
+Y which is a dissocia of anesthetic is
+that right yep and yet and my assumption
+is that as a dissociative anesthetic
+that it leads to dissociative States
+where people can sort of third person
+themselves and be some feel somewhat
+distanced from their emotions yes I've
+also been hearing that there are
+emerging treatments
+psilocybin being one of them but some
+other treatments uh MDMA Etc that we'll
+parse each of these in in detail that
+lead to the exact opposite State during
+the effect of the drug which is a highly
+engaged um emotionality and heart rate
+and sense of self yeah and can also lead
+to relief of depression now whether or
+not this again reflects that depression
+has many conditions as opposed to just
+one or whether or not somehow tickling
+uh or in some cases pushing really hard
+on the opposite ends of the the scale
+really matter I am absolutely fascinated
+and again also perplexed by this why
+would it be that a drug that induces
+dissociative States and a drug taken
+separately that induces hyper
+associative States would lead to relief
+of the same condition yeah no that's a
+great question yeah so for um for
+ketamine you know the the level of of
+dissociation appears to be correlated
+with the the therapeutic effect it
+appears to be um necessary but not
+sufficient to produce an anti-depressant
+effect and so um folks that that don't
+have any any psychological change um
+from the ketamine or or don't experience
+any dissociation T typically tend to
+have less um less potent anti-depressant
+effects from ketamine we did a study a
+couple of years ago it was really
+interesting so we we gave folks
+Naltrexone which is an opiate um
+antagonist a mu and Capa opiate receptor
+antagonist and we we we gave F the same
+individuals a pill of that or a pill of
+placebo and they had no idea which one
+they were getting was this low dose
+nxone 50 milligrams so it's pretty high
+dose okay yeah and so we we gave a
+typical ketamine therapeutic dose and
+then we gave 50 milligrams of
+nxone uh or Placebo and then in the same
+individuals we we gave two you know two
+infusions one with each of those
+conditions and and if they had an
+anti-depressant effect we waited until
+they relapsed then we gave them the
+other condition and then we look to see
+what um what effect of blocking the
+opioid receptor um what effect would you
+see on the anti-depressant effect of
+blocking the opioid receptor with the
+idea that if ketamine works the way that
+a lot of researchers at the time thought
+that it you know completely worked in
+which is the glutamate system then you
+would have um no effect of nxone because
+nxone just interacts with the opiate
+system it doesn't do anything with any
+other systems ketamine has a lot of
+effects over you know it has OPI clear
+opiate effects um in mice and various
+ways of looking at that um and in MDA
+receptor antagonism and
+glutamate effects and so if it's just
+that the glutamate part is um is the
+part driving the anti-depressant effect
+you shouldn't have any difference in the
+anti-depressant effect between the two
+conditions if however the
+anti-depressant effect is primarily is
+the the opioid properties of ketamine
+are are necessary for the
+anti-depressant effect then you should
+have a loss of anti-depressant effect
+during the ketamine plus nxone condition
+that you observed in the ketamine plus
+Placebo condition and what we what we
+saw was that there was a dramatic
+blockade of the anti-depressant effect
+when elone was present in yeah in the
+people that had a had an anti-depressant
+um effect with ketamine plus um Placebo
+alone and um and then some friends of
+mine did a TMS study with pain and they
+stimulated over the left do lateral
+prefrontal cortex and they gave noox IV
+nxone which works basically the same way
+as nxone and they were able to block the
+anti- pain effects of
+TMS with a opiate blocker so this idea
+that another kind of convergent point
+right this idea that the opioid receptor
+may have a role in mood
+regulation it's also interesting is if
+you look at people that are getting a
+total knee operation very painful
+operation right um you know total knee
+replacement and you you age sex you know
+everything match the individuals that
+are going through that but you have a
+group of people that don't have
+depression and a group of people that do
+have depression the presence of
+depression triples the the oral uh
+opioid dose by day four that's required
+that's required to to cover the pain but
+what may be happening is it's not just
+treating physical pain maybe treating
+emotional pain as well right at least
+transiently it seems to have a pro an
+anti-depressant effect chronically it
+seems to have a very Pro depressant
+effect and can make people treatment
+resistant but you know it's it's an
+interesting phenomenon but yeah the
+opioid system seems to be pretty pretty
+involved but what's interesting there
+with the the ketamine trial is that we
+didn't see any effect on the
+dissociation and so the dissociation was
+the same each time so the psychological
+effect of the what we call the trip or
+the the kind of dissociative effect
+where people are having a psychological
+phenomenon from ketamine that was
+identical both times and so it it kind
+of um it also challenged this idea that
+the psychological experience of the
+Psychedelic effect may be all that's
+necessary to produce an effect and that
+the pharmacology doesn't matter as long
+as you can achieve that state and so you
+know we think we pretty clearly debunked
+that idea that the underlying
+pharmacology and the state um you know
+seem to be important we don't know for
+sure if you can and a lot of people are
+working on this if you can take out you
+know essentially the psychological
+effect and still have a drug that works
+to to treat the the under the illness
+that you're trying to Target and you
+know a lot of there was a mouse study
+out this week where where they had an
+LSD analog and they were able to see
+some some uh animal level data to
+suggest that could be true but but until
+we figure that out in humans it's it's
+kind of to be determined but it is it is
+curious right being able to kind of use
+experimental manipulations to try to
+separate you know some of these
+phenomenon apart and really understand
+what's what's doing what it's so
+critical and it's so critical to the
+other conversation that we'll surely get
+to which is the progression of
+psychedelics from elicity legal drugs to
+clinically um validated and and
+presumably at some point either
+decriminalized or legal drugs which has
+not yet happened at least not in the US
+um but just to make sure that people are
+uh getting this um and how crucial this
+is what we're really talking about here
+is the fact that you know somebody takes
+a multi-gram dose of psilocybin or
+somebody takes um MDMA or they take
+ketamine and they experience relief from
+their trauma their depression their
+addiction or any number of the other
+things that indeed those compounds have
+shown to be useful for in certain
+contexts clinically supported
+Etc there's this like gravitational pull
+to the idea that oh it was the
+hallucinations it was the dissociative
+state it was the feeling of
+connectedness and what we're really
+saying is that while that certainly
+could be true it may be the case that a
+major source of the positive shift that
+occurs after the effect of the drug is
+some underlying biology like shifts in
+the MU opioid receptor Allah your
+experiments with nxone or a change in
+the underlying neuromodulation that had
+anywhere from nothing to something to do
+with the real shift yeah and I know
+there's a group up at UC Davis that
+published a paper in nature about a year
+ago also looking at um these are is a
+chemistry lab essentially modifying
+psychedelics to remove this the
+hallucinogenic properties the mood
+altering properties and actually seeing
+some pretty impressive effects in shifts
+in mood after the drug wears off and I
+know this this gets people upset when
+they hear it a lot of this gets a lot of
+people upset really because people think
+oh no it's the it's the intense
+experience that matters but um in fact
+uh that may not be the case at all in
+fact it's so powerful for people that
+sometimes I liken it in my mind to you
+know it's like somebody it's like the
+birth of a new child and it's such an
+incredible experience and then people
+feel so much connection and they sort of
+connect the the experience of the of the
+ual birth to the connection when in fact
+there that's true it turns out but there
+are a bunch of other things happening
+too that are that's simply the
+reflection of the fact that you're
+holding a child and the fonal effects
+Etc so anyway I I think it's very
+important that these different um
+variables be uh figured out along those
+lines I I want to make sure that before
+we dive a bit deeper into ketamine and
+psilocybin um that we do touch on a
+really important topic that has been in
+the press a lot lately which is SSR
+selective serotonin reuptake Inhibitors
+because we can't really have a
+discussion about depression without
+talking about ssris and then I want to
+Circle back to um ketamine and
+psilocybin it seems that um there are
+now data that essentially say state that
+there's no direct link between serotonin
+levels and depression although I my
+understanding is that the ssris are
+powerfully effective for certain forms
+of obsess obsessive compulsive disorder
+and may also be effective for treatment
+of depression but it may again be
+through some effect unrelated to
+serotonin itself is that right and how
+should we think about ssris are they
+useful are they not useful um what's
+what's going on with ssris in your
+patients and in other other people as
+well yeah that the um yes the the
+experiment that I described a bit ago
+around the n trexon and and ketamine was
+the first time I'm aware of where we
+were able to essentially eliminate
+an an anti-depressants effect by using a
+second drug as an kind of a blockade and
+it highlights a bigger issue right the
+issue that we haven't had a good way of
+really understanding how these drugs
+work and so it's the difference I think
+a lot of the the controversy there is
+that um it's been difficult I think for
+folks um to see that something can in
+one hand work and on the other hand we
+don't know know how it works right um
+and so um ssris clearly work um you know
+many many meta analyses kind of proving
+that out right that that in a
+subpopulation of individuals they
+achieve great benefit from depression uh
+you know for depression uh for obsessive
+compulsive disorder for generalized
+anxiety disorder Panic you know all
+these things you can see a an
+improvement in those symptoms um with
+what we call ssris or selective
+serotonin reuptake Inhibitors the issue
+there is that these selective serotonin
+reuptake Inhibitors end up um blocking
+the the reuptake of Serotonin and
+leaving the the serotonin you know in
+this um in this kind of in between U
+between two neurons um for a while and
+allowing for more serotonin to kind of
+be there the issue um is that they don't
+they don't work immediately right so
+they don't work like the same day you
+start taking them and that that suggests
+that probably it's not exactly the
+serotonin being in there that's directly
+driving it that it's much more likely
+that it may have some say plastic brain
+plasticity effects right we know that
+things like brain derive neurotrophic
+Factor get upregulated with chronic um
+oral anti-depressant use and and so
+that's that's kind of the idea is that
+um is that these things work but what's
+powerful and I think what the author
+of this paper was extremely
+controversial P paper were were u in
+part trying to say was that there's not
+a there's not a deficit of Serotonin
+you're not born with uh what people call
+a chemical imbalance and Psychiatry has
+known this this is not actually new
+information anybody you know it's kind
+of a rehashing of a bunch of information
+we've known for a while now but in the
+lay press it's kind of hit in a way that
+it didn't seem to to grab attention um
+before with previous Publications but
+this idea that this chemical imbalance
+idea is wrong um I I really I really
+think that part's important because I
+think that um you know for a while I
+think Psychiatry you know what I'll call
+Psychiatry 1.0 right this kind of idea
+of Freud and and Psychotherapy and its
+and its Origins um it was a lot around
+you know the your family and those
+experience and Psychotherapy kind of
+going in and correcting or helping you
+to figure out or and you know show you
+being able to see or people hear you so
+that you can eventually come to the
+conclusion of certain cognitions that
+aren't helping you right and there's a
+huge you know there's a huge importance
+there but there's a history where you
+know things like the schizophrenogenic
+mother and all of that you know that was
+a concept at some point right and so
+we've transitioned from that to to the
+you know for a long time chemical
+imbalance which I'll call Psychiatry 2.0
+you know this idea that there's
+something chemically missing and um and
+and I I think that the trouble there for
+a patient who's not a physician who's
+not someone who's you know um who's
+who's steeped in these sorts of ideas
+who's you know more of you know kind of
+um kind of a person of average American
+out there right is that it's telling
+it's sending a message of there's
+something missing with me whether it be
+my experiences I had no control of over
+when I was a child or um a chemical in
+my brain what I think is really powerful
+with with
+TMS um you know really powerful TMS and
+a level even powerful the Psychedelic
+story is it saying something different
+you know TMS works and there's no
+serotonin coming in or out of the brain
+right and we're we're doing a rapid form
+of TMS that works in 1 to 5 days there's
+no there's it's very unlikely that
+there's some long-term kind of
+upregulation of Serotonin that's driving
+that so our work actually kind of pushes
+back on this serotonin hyp hypothesis as
+being kind of the center of depression
+because it says look we're not giving
+anybody any serotonin we're simply
+turning these brain regions on and we're
+focused on the circuitry and that's
+Psychiatry 3.0 it's not just like
+neuromodulation neuromodulation is a
+really nice you know use case for
+Psychiatry 3.0 because it's a a way to
+focally and directly perturb brain
+regions and whatever modality you're
+using but you know there are a lot of a
+lot of groups that are actually doing
+neuroimaging before and after and
+they're able to see circuit level
+changes for something like psilocybin or
+ketamine long after the drug is gone
+right suggesting in those same brain
+regions converge so the subgenual
+default mode network connection that we
+see is changing with our our our St um
+Stanford neurom modulation therapy
+technique it's that same set of brain
+regions that that ketamine and uh
+psilocybin seem to act on act on these
+connections between brain networks that
+seem to shift and so it refocuses the
+story on something that's highly
+correctable and it's it's basically
+electrophysiology and it's basically
+kind of recalibrating a circuit that is
+re-calibrate instead of I have something
+missing or I have some Phenom some set
+of experiences early in life that are um
+that are going to Forever trap me in
+these these psychiatric diagnoses and so
+it kind of challenges that idea and I
+think that's what's so powerful about
+Psychiatry 3.0 um this idea of focusing
+on the circuit because it gets us gets
+us into thinking about Psychiatry and
+psychiatric illnesses as something that
+are recoverable people can get better
+people you know we've seen with our TMS
+techniques we've seen it with with some
+of the Psychedelic work that we've done
+where people are actually in normal
+levels of mood for sustained periods of
+time or within five days within five or
+less days and in the case of the
+psychedelics within a few days right so
+we can get people out of these States
+they're totally well there's no drug in
+their system at that point in the case
+of psychedelics it was never a drug in
+their system in the case of of TMS and
+it and it just tells us us that that
+it's it's it's fixable it's it's just
+like the heart it's just like you know
+it's just like an athm in the heart it's
+just like you know these these other
+illnesses that it's like a broken leg we
+can go in and do something and we can
+get somebody better then I think what's
+what's empowering and what a lot of
+patients have told me is they say you
+know I've gotten dep you know some
+people will relapse and need more
+stimulation or need more psychedelics
+whatever it is but they'll tell me I
+I've relapsed and I'm depressed again
+but I'll never think about killing
+myself again because I know that if I go
+get stimulated
+again it it improves it gets better it
+it it will I will be able to re aieve it
+and I can't and and I I don't fear that
+I'm chronically broken I don't fear that
+the chemical imbalance is still
+imbalanced I don't fear that these
+things that I couldn't control in my
+childhood you know are going to be there
+and drive this problem forever and I
+think that's that's what's so powerful
+about this the sense of control the
+sense of control the sense of they're
+not doing the stimulation themselves
+they're not administering the drug in
+these trials themselves they probably
+never will these will probably be
+Medical Treatments but they are choosing
+to do it and in that sense they are in
+control yeah I have a a good friend I
+won't out him for for reasons that will
+become clear in a moment who um was
+quite obese um and lost a lot of weight
+and was really proud of himself and then
+I guess we could say he sort of relapsed
+in a sense not not not all the way but
+but far along but his tone around it was
+very different he knew he had
+accomplished what his goal once before
+he was disappointed in himself but he
+knew exactly why he had relapsed it was
+very clear he had essentially relapsed
+to the previous set of eating behaviors
+and lack of exercise behaviors and has
+now brought himself back again um and it
+it just resonates uh with your story
+that you know once somebody understands
+they can do it because they've been
+there before this this idea again of of
+considering new rules that that there um
+and and that brings me to this uh
+question about psychedelics and and the
+frankly the altered thinking and
+perception that occurs in in high do
+psilocybin clinical sessions um it seems
+that the disordered thinking even though
+it could uh be random right uh hearing
+hearing colors and and seeing sounds is
+always the you know kind of cliche
+statement of the Timothy L era um also
+you know right there that's a stoop task
+of sorts it's it's a it's a synesthesia
+it's a combining of perceptions but it's
+it's sort of stoop task is in that it's
+a new set of rules for the same stuff
+yeah right and um people do many people
+do report improvements in uh trauma
+related symptomology and depression as I
+understand it from my read of the
+clinical trials after taking psilocybin
+because during those sessions something
+comes to mind
+spontaneously as uh you and I were
+talking about earlier um they will
+report for instance a a new way of
+seeing the old problem that's and the
+old problem could be the voice that
+they're no good they'll never nothing
+will ever work out or could be even more
+subtle than that so um that raises two
+questions one is about the basic
+functioning of the human brain um which
+is why do you think um the brain would
+ever hold on to rules that um uh don't
+serve us well that's one question and
+then the second question is
+um what is it about psilocybin and
+related molecules in terms of their
+neurochemistry in terms of the ways they
+disrupt thinking and feeling Etc during
+the
+session that allow this uh novel rule
+consideration phenomenon yeah so the
+first question I think it's an it's an
+it's an EV evolutionary neurobiology
+answer right I think that at the
+individual person level you know it
+doesn't make a whole lot of sense that
+when we're really stressed out some of
+us want to eat more right at the
+individual person level because it's
+like that's not particularly that good
+for my health in the long term but if
+you think about it like you know in some
+500 years ago a thousand years ago if
+I'm highly stressed out it's most likely
+that I'm about to not have food at some
+point and I should eat a bunch of food
+that is high fat high sugar high carb
+food to put on weight for that you know
+next phase where in this stress I may be
+in battle and I don't have food and I
+have enough fuel on board right and so
+we we end up being a you know we end up
+being a result of of probably a lot of
+biology that's not that useful in the
+modern era and I think in the brain for
+for say let's say PTSD right a lot of a
+lot of veterans come back and they
+experience these PTSD symptoms and
+they're not at all useful back home
+right you know that you know they hear
+some loud noise and all of a sudden
+they're behind a car or behind a you
+know I've heard of folks you know jump
+and run behind a trash can or whatever
+in the middle of San Francisco when they
+hear a loud noise but if you put them
+back in the
+battlefield highly adaptive that's
+highly adaptive right and so I think
+what what the what's
+interesting is that um we in the absence
+of using substances like psychedelics
+end up having these very persistent
+memories that are attached to negatively
+valanced emotion
+predominantly um as you were saying
+earlier the jacket and and Elementary
+School we you know I had various things
+like that for me too right you you you
+remember these things um and uh and we
+we hold on to those things from I think
+an evolutionary neurobiology standpoint
+but what seems to for whatever
+reason kind of alleviate that are these
+um are these substance is some new like
+MDMA some that have been around for
+thousands of years like psilocybin and
+used um in in kind of sacramental as a
+Sacrament in uh in
+Traditions um seem to have a therapeutic
+effect that seems to be pretty long
+lasting for these phenomenon and so it's
+it's just curious right it's curious
+that that in the absence of that these
+things will keep going on and on but in
+the presence of that exposure then all
+of a sudden you see a resolution of the
+problem and we have some work now we're
+treating folks with Navy Seals and data
+is still being you know being analyzed
+but the anecdotes that we're getting
+right are folks are coming back and
+they're saying finally it's finally gone
+right this kind of these set of PTSD
+symptoms are finally gone and so this
+idea that for whatever reason going into
+what's probably a highly plastic State
+like we were talking about ear
+upregulation of brain derived
+neurotrophic factor in the case of
+ibigan G derived neurotrophic Factor
+this highly plastic State and um the
+ability to re you know kind of
+re-experience memories and then as you
+know you know we we we always
+reconsolidate a memory uh when we bring
+it back up we always Rec consol but
+reconsolidating it in that state for
+whatever reason um May Drive um drive a
+therapeutic effect um and um you know
+the the the the jury's still out there's
+a I'm a I would say that I'm I'm kind of
+a I'm an agnostic to what tool I'm using
+kind of guy like I'm my business is to
+find treatments that help people and so
+I'm much more like pragmatic about it
+you know if if this sort of thing which
+um has a lot of cultural baggage um but
+if this sort of thing ultimately ends up
+being therapeutic if we can design
+trials that convince me and others that
+it is then we should absolutely use it
+you know and uh and if it doesn't then
+um then then we clearly shouldn't use it
+right um and I think that's a big that's
+a big question the field is going to
+have to work out we have a hard time
+blinding these trials because the
+placebo condition is not easy to to pull
+off obviously a placebo for a psilocybin
+journey is is hard to
+imagine we've got you know we've been
+thinking about this and maybe that
+ketaman study that I talkinging about
+earlier if we could give people n treone
+and ketamine maybe that's a good you
+know uh a good sort of placebo condition
+right because we know that we can block
+any of the actual anti-depressant
+effects Kine they can still have an
+experience you know so that's one way of
+doing it but thinking about ways to do
+that really kind of proving this out and
+that's been um yeah I think that's been
+been kind of central to the way I've
+been been thinking about this but yeah I
+think there's the work that's been done
+so far the first Sil cybin trial um the
+first MDMA trial was published in nature
+medicine recently um and what do those
+generally say I mean that that that that
+they are effective for a number of
+people after one session two sessions
+what's what's sort of the general
+Contour let's let's uh start with
+psilocybin and MDMA yeah so MDMA appears
+to in in um you know one to a few MDMA
+sessions have a an anti- PTSD effect
+that seems to be you know um outside of
+the kind of um stand assumed levels of
+PTSD Improvement that you can observe in
+individuals um with this level of PTSD
+right so what we call the effect size
+which is essentially like a a a measure
+a coin D effect size is a measure that
+allows for you to compare different
+treatments to each other for different
+conditions that are you know agnostic to
+what the actual illness is you know um
+the effect size is there you know
+approach effect sizes things that are
+pretty effective like ant acids for or
+heartburn right and you see that with
+with um with MDMA treatment so does that
+mean that um for people that have trauma
+who do a and again we're talking about
+in a clinical setting they they take one
+or two doses of of MDM I think the
+standard Maps dose is 150 to 775
+milligrams again doing this with a
+physician ETC control clinical trial
+legal um yep exactly they do it once or
+twice and broadly speaking what
+percentage of people who had trauma
+report feeling significant relief from
+their tra trauma afterward it's about
+two-thirds of people had a had um a
+clinically significant uh change in
+their PTSD that's impressive which is
+impressive right and how how long
+lasting was that I mean these trials
+were ended pretty recently so it it
+appears to last for a while in the
+earlier trials where they followed
+people out it seemed to last for kind of
+in the Years range for some people and
+so it's you know it's pretty it's pretty
+compelling um psilocybin um you know
+that contrast it with ketamine which
+only on average lasts about a week and a
+half for a single infusion so it's a
+much shorter so they have to get
+repeated infusions of ketamine every 10
+days or so yeah or forever for some
+people or they end up getting like like
+like a bunch of doses for a couple of
+weeks and then for some people that
+seems to last a while um you know that's
+where I think I think the the psilocybin
+story for depression and the um and the
+MDMA story for PTSD seemed more
+interesting to me so for psilocybin what
+is the um rough percentages on and this
+would be relief not from trauma but from
+depression yeah yeah exactly so it's you
+know in open label studies it's closer
+to like half to two-thirds of people end
+up getting better depending upon their
+level of treatment resistance in the in
+the blinded trials it was more like a
+third or so of people you know
+experienced um relief and and this is
+you know this is a press release of of
+the data you know and so it hasn't uh to
+my knowledge it hasn't been published
+yet and so you I'm looking forward to
+say the full paper on that one but but
+it you know separated from from Placebo
+and looks you know looks pretty pretty
+good as well it looks like it's um you
+know the first of two trials that need
+to be done to get this thing um approved
+for treatment resistant depression and
+so um so that stuff looks looks good in
+terms of MDMA um for many years it was
+reported uh in the popular press and
+there was a paper publish in science
+that MDMA was neurotoxic that it would
+kill serotonin neurons this was what was
+always said then I saw another paper
+published in science that wasn't a
+retraction of the previous paper but
+rather was a second paper from the same
+group that essentially admitted that the
+first time around they had in in
+injected these monkeys because with not
+MDMA but with methamphetamine which is
+known to be neurotoxic so it was kind of
+a public admittance of oops or big like
+really big screw up so oops um but never
+a retraction and then never really a a
+publicly acknowledged um correction in
+the in the popular press so it seems
+that in the appropriate dosage range and
+with these one or two sessions my
+assumption and this again is an
+assumption um tell me if I'm right or
+wrong here is that MDMA is not
+neurotoxic for serotinergic neurons at
+appropriate Doses and with appropriate
+sourcing Etc so um it was an interesting
+study that um I think the guy's name is
+is Halper uh last name's Halper at um
+not Casey Halper not different different
+I think Joshua Halper I'm blanking on
+his first name but but um Casey hel was
+a guest on this podcast um and is a
+former colleague of ours at Stanford who
+unfortunately we lost to University of
+Pennsylvania and maybe someday we'll
+we'll bring him back yeah that's right
+so this this individual um you know
+received some NIH funding to actually
+Nida you know National Institute for
+drug abuse funding to um to explore uh
+individuals um of the Mormon faith in
+Utah who um who partake in only
+MDMA so um the way this works is that uh
+MDMA um happened kind of after a lot of
+the religious documents were were uh
+developed and so MDMA isn't on the
+prohibited drug list the ban substance
+ban substance list I have some good
+friends who are LDS
+I do I do as well um you know just a
+kind of set of facts you know and so um
+so these these folks um only use MDMA
+but they don't they're not you know the
+problem with with some people using
+drugs they're poly substance users right
+so you can't you can't say it's the MDMA
+if they've also taken other psychedelics
+and they've taken opiates and they've
+taken cocaine and you have this picture
+where you can't really tease out that
+problem but but with this right it was
+just individuals that were part of the
+Mormon faith and so they they were um
+kind of purists in the sense they only
+used MDMA and he confirmed all of that
+and um and it was a a brilliant study
+right because then he was able to go in
+and look at their cognitive profiles
+versus individuals of you know the same
+geography the same Faith all of that
+that happened to not take uh MDMA and
+found there were no
+neurocognitive uh differences so it it
+does that mean that it was not damaging
+it was not damaging it
+it's hard to know because to really do
+this study well you'd have to track
+these folks down before they ever took
+MDMA and do a pre-post and compare to
+people that didn't but you know this is
+about as good of a study as you can do
+uh in given the you know given the
+situation to be able to check this out
+um additionally when I was back in
+Charleston and working at the Medical
+University of South Carolina I one of my
+mentors um there Dr Wagner um was a
+nurse olist at MUSC and he was also the
+the neuropsychologist for the early MDMA
+trials and so he did all the
+neurocognitive batteries for individuals
+pre poost and similarly did not see any
+changes in neurocognitive profiles in a
+negative way and so you know there's
+there's data from experimental patients
+receiving this there's data from people
+that are chronic users you know who only
+take
+MDMA um and that that combination of of
+uh of data suggests that um there's no
+there's certainly uh no apparent risk in
+the kind of one to two to three dose
+range um it's it's probably unlikely
+that at least you know modest dose
+exposure over a lifetime doesn't appear
+to have a a profound neurocognitive um
+damaging effect yeah interesting yeah I
+know that um sourcing is key and we're
+here we're talking about clinical trials
+where Purity is assured um and you know
+years ago when so-called Raves were
+really popular maybe they're still
+popular never been been to one so I
+wouldn't know um if they're happening or
+not that's how um in the no I am but um
+it was clear that you know testing for
+Purity was important because that
+sometimes the drugs um
+are made such that there are
+contaminants like methamphetamine which
+we know is highly neurotoxic I think
+that one reason why people think that
+MDMA might be neurotoxic is the the uh
+reported um drop in energy or sort of
+feeling fatigued for a few days
+afterward I spoke to a physician
+colleague of ours who said that that uh
+very likely has something to do with the
+surgeon prolactin that arrives
+subsequent to the big dopamine surge
+that occurs in um in MDMA and I mention
+that because I know a number of people
+um talk about serotonin depletion after
+taking MDMA he has it in mind that while
+that could be true it's likely that
+anytime somebody takes something or does
+something where there's a huge lift in
+dopamine that there's very likely a huge
+compensatory increase in prolactin that
+follows and prolactin has a kind of
+sedative effect numbing effect on mood
+and libido Etc that eventually also
+wears off does that make sense to you as
+a physician yeah it makes sense I mean
+you know the difference between say MDMA
+and and psilocybin is that MDMA is kind
+of an amphetamine of sorts right so it
+has it has effects in dopamine and the
+uh in cybin you know pretty pretty
+neutral and you know maybe a little bit
+of dopamine effects but kind of much
+more of a serotonergic focused drug and
+so yeah I think you're going to see kind
+of a different profile after and and
+that makes I haven't heard that story
+but that makes sense to me
+too since you mentioned siloc cybin
+let's talk a little bit about the
+neurochemistry of psilocybin as a
+serotonergic agent my understanding is
+it um operates on these uh is it the 5ht
+serotonin 2C receptor 2A excuse me 2A
+and and uh receptors and that I've seen
+a bunch of different reports in terms of
+what it's actually doing to the brain
+while people are under the effects of
+the drug and this is important for us to
+segment out because there are the
+effects that happen while people are
+under the influence and then the more
+long lasting effects but some of the
+effects I've heard about are for
+instance and tell me again if these are
+right or wrong um that there is
+increased con uh activation of lateral
+connection sort of broader areas of the
+brain being co-active than would
+normally occur maybe that explains some
+of the synesthesias you know seeing
+sounds and and hearing colors and the as
+the trivial example but rule breaking um
+within the mind um but then I've also
+heard um that perhaps it's lack of
+gating of sensory input so normally if
+I'm looking at something I'm not
+thinking about the sensation in my right
+toe unless it's irrelevant but if I'm
+thinking about the sensation in my right
+toe I'm generally not thinking about the
+truck around the corner so we have these
+attentional spotlights but that somehow
+it creates a more um
+it adds
+spotlights degates the thalamus degates
+the thalamus right through the reticular
+thalamic structure so um what is the
+evidence that any of that is true and
+are there other phenomena is there
+involvement of dorsolateral prefrontal
+Cortex that we aware of and what I'm
+really headed here in a few minutes is
+um you know is there a place for
+combining directed stimulation of the
+brain with psychedelics so that the
+effects of Serotonin could be um
+primarily within the structures that you
+know from your work to be relevant to to
+depression so what so but to simplify at
+first what's going on when one takes
+psilocybin and um why is it interesting
+in light of depression yeah definitely
+so um
+you David nut and Robin carard Harris's
+work around neuroimaging psychedelics
+they're kind of the some of the first
+folks to do that work and um you know
+and to their great surprise they thought
+there was going to be an increase in
+activity on psychedelics and what they
+found is the opposite right there's kind
+of a an overall decrease in the level of
+activity in the brain um with
+psychedelics but they they've also
+looked at connectivity and there's this
+kind of small world you know large World
+connectivity that you you think about
+and so you know small world meaning
+there's a lot there's kind of a much
+more kind of focused kind of cortical
+function or you know subcortical
+function or whatever it is and uh and
+what you see is a difference in that um
+in that level of Engagement of of brain
+regions the connectivity kind Global
+connectivity to your point kind of
+increases and so you know it's it's it's
+interesting you know I think to to kind
+of have a convergent theory on this it's
+still you know to be determined there's
+still a lot of work I think that needs
+to be done but um but it's certainly um
+suggestive that there's pretty profound
+changes in um in brain activity and
+brain connectivity after and what we
+found to be really interesting is the
+the anti-depressant effects of
+psilocybin have a
+particular um connectivity change that
+we also see with our our TMS approaches
+right and it's this connectivity between
+the subgenual anterior singulate and the
+default mode Network and so when we do
+this effective Stanford neurom
+modulation therapy stimulation we see a
+downregulation the connectivity between
+the negatively valanced mood state in
+the case of depressed individual in the
+self- representation of the brain and
+you see that same connectivity change
+occur post
+psilocybin you know suggesting there's a
+convergent mechanism and it makes sense
+right you've kind of got an overc
+connected negatively valanced system
+conflict system that's kind of you know
+kind of attached onto the self-
+representation and people feel stuck
+right and then when you when you do
+whatever you do that's effective it it
+un it unpairs those two systems I want
+to ask you about this phenomenon I've
+heard about during psilocybin Journeys I
+heard about this from um Dr Matthew
+Johnson who's running a lot of the
+clinical trials at John's Hopkins and uh
+has been a guest on this podcast he said
+that there's something seems to be
+important about the patient who's
+depressed or who's and is under the the
+influence of psilocybin or the patient
+who's trying to get over smoking or an
+eating disorder who's taking psilocybin
+and is in the
+clinic that there's something important
+to this notion of Letting Go that people
+will feel as if their thoughts and their
+feelings and maybe even their body
+aren't under their control and that the
+clinician's job under those
+circumstances is of course to make sure
+that they're physically safe that they
+don't jump out a window or try actually
+gave an example of a patient who thought
+that um I think it was a she could move
+into the painting in the wall and
+obviously that wasn't true in the real
+world although it was true in her mind
+so they prevented her from doing that
+but that letting go that some how um
+untethering from the autonomic arousal
+that's occurring is
+important um which brings us back to
+this idea or me back to this idea of a
+like a seesaw where sort of letting go
+of the hinge just sort of you your heart
+rate's going up like Just Go With It in
+trust you know your heart rate's going
+down Just Go With It in trust you're
+thinking about uh something very
+powerful and depressing related to your
+childhood you're just supposed to go
+there without fear you're thinking about
+what's possible in terms of could happen
+so anyway you get the the
+picture can we think of that as as just
+the willingness to um do a million
+different variations on the the
+emotional Stroop task you know you will
+entertain the full full array of rules
+within your head and consider them or is
+there something more to it you know and
+again we're we're in the the outer
+margins of of understanding here but
+what are your thoughts on on this notion
+of letting go such a key variable for
+relief from depression during the
+Psychedelic Journey yeah so I'll I'll
+talk a little bit about something called
+exposure and response prevention therapy
+that that's a typical kind of gold
+standard treatment for OCD and it help
+to kind of you know help help this a
+little bit U conceptually and so what
+that really is it's a Letting Go therapy
+and so you know uh exposure response
+prevention the idea is that you have to
+expose the individual to something that
+that you know some something that
+triggers an obsession that they then
+want to do whatever the compulsion is
+right and so I'll give you you know my
+first exposure and response prevention
+patient when I was a resident um he was
+very concerned about um leaving the
+lights on this car and um and so what we
+did is we went out and we turned the
+lights on in his car and locked his door
+so his lights were on and he was super
+worried this going kill his battery um
+and we went and we spent an hour talking
+about things and we went back out to his
+car and his battery was fine and his
+lights were on and he cranked the car
+and we did it maybe one other time and
+then all of a sudden that was gone right
+and that's the idea is that you know
+you're essentially exposing and you want
+to do it at levels that are from an
+anxiety standpoint
+tolerable but exposing the person to
+something and then letting them see that
+that exposure ends up being fine right
+it ends up not causing the thing that
+they're that they end up being worried
+about um and so you know in some sense
+being in the Psychedelic State and we
+are all we are all taught at a level to
+to retain some level of control you know
+people have more or less of that but
+we're all effectively retaining some
+level of control we all wake up in the
+morning and put clothes on to go into
+society we all try to say you know most
+people try to say the right things they
+don't try to do things that are outside
+of cultural norms when they're in
+conversation and so we're we're
+constantly at some level controlling the
+situation that we're in and so it's you
+know it's not it makes a lot of sense
+that in that state part of the
+therapeutic effect that may be linked to
+the neural circuitry is this idea of
+Letting Go and essentially letting the
+system
+you know the network configuration maybe
+whatever it is um assume a state that
+you've essentially been fighting the
+whole time the same way that my OCD
+patient was fighting this uh need to
+click the off button on the lights of
+his car 50 times before he would go and
+do whatever he needed to do and at some
+level letting go there meaning letting
+us just turn the lights on and him not
+do anything
+or letting go meaning in the Psychedelic
+State you're just letting go of whatever
+it is you're holding on to negatively
+balanced think thoughts about yourself
+in the in the um you know setting of
+having depression or you know
+reexperiencing a trauma um you know
+memory and allowing that to just happen
+and reeing it again through a Different
+Light um you know feels the same in the
+sense that that's allowing for whatever
+is going on with these psychedelic
+states to do whatever they do it's
+fascinating um you said exposure
+response therapy is the traditional name
+exposure response prevention prevention
+therapy done outside of this the
+Psychedelic Journey it's done outside
+the Psychedelic Journey but that idea of
+Letting Go is is you know present in
+both of those you know psychother kind
+of straight up totally sober non
+psychedelic non anything psycho
+manualized Psychotherapy that we know
+works really well for OCD and then you
+know in that psychedelic State and so
+people have done studies with with
+psilocybin and now there's some studies
+with MDMA trying to look at um you
+treating OCD um you know with the same
+sort of idea of letting go right and how
+do you how do you have an OCD patient
+kind of let go maybe even letting go of
+not washing their hands anymore you know
+kind of accepting the idea they're not
+going to get germs on their hands or
+whatever it is you know and so it's kind
+of part of that part and parcel that
+same sort of thinking when I was in
+college I developed a compulsive
+Superstition I'm not afraid to admit
+this I um somehow developed a knock on
+wood Superstition and I would uh I was
+actually kind of ashamed by of it
+because it rationally made no sense I'm
+I don't consider myself a superstitious
+person never was a superstitious kid you
+know I'd step on the sidewalk cracks i'
+C I'd walk under ladders you know even
+try to walk under a ladder um even
+though I don't suggest it um but somehow
+I picked this thing up and um and I used
+to sneak it at times I told my
+girlfriend at the time I had it in hopes
+that that would prevent me from doing it
+um and it's It's tricky sometimes it
+actually comes back where I think gosh I
+didn't say you know knock on wood I
+didn't knock on wood I hope that doesn't
+actually happen and it's and it's quote
+unquote crazy right but I crazy in the
+sense that it makes no sense rationally
+why the events would be linked and yet I
+think a lot of people out there do have
+in internal superstitions um maybe by
+talking about it now it'll it'll go away
+I just clearly I just need to challenge
+it um you know it's uh anyway I mention
+it because I um I consider myself you
+know generally rational person but um
+it's interesting how these motor
+patterns um get get activated and and
+this notional letting go because I don't
+actually know what consequence I fear
+and the fear as I was hearing the
+example you gave you know the fear of
+the car running battery running down I
+was about to say well what if the
+battery actually did run out then the
+therapy would be undermined and yet that
+could also be interesting too because
+it's not that big of a deal jump the car
+but in my case I I need to think about
+what the ultimate fear is yeah and you
+know I I think uh I think a lot of
+people so there's it's interesting if
+you look at say the OCD scale or the
+depression scale or whatever we don't
+Define normal as zero we Define normal
+as some number range Above So zero to in
+the case of the Montgomery asberg
+depression rating scale one of the
+depression scales we use 10 right that's
+the normal noral range and so people can
+have some sadness and still be
+considered normal in the case of the OCD
+scale it's about the same tin right
+where we say it's kind of starts to be
+you know AB you know mildly abnormal or
+something and I always you know i'
+always tell the medical students look my
+friends that are surf instructors
+they're more like a zero on the ybg
+people that are professionals you know
+they're they're they're nonzero but
+you're it's still within the normal
+range and and especially you know in the
+in the case that you're talking about it
+doesn't sound like it got in your way it
+doesn't sound I mean you're obviously
+highly successful tenur professor at
+Stanford and do all the the great things
+that you do um and so it's it's very
+much kind of within the normal range and
+ex I think totally um totally assume
+that a lot of people have have these
+sorts of things and as long I think
+something as a psychiatric diagnosis
+when it severely impairs your ability to
+function and that's when we kind of
+cross that threshold but know I think
+that I think that a lot of people and
+it's great that you're bringing this up
+I mean it's very anti- stigmatizing that
+you're bringing it up right because I
+think a lot of people hold that stuff in
+and they don't want to talk about it
+because they're worried that somebody
+else may think something but the the
+reality is is a psychiatrist I talk to a
+lot of patients a lot of people that are
+you know family members you know um
+folks that are just going through a
+death in the family whatever it is and
+what you figure out is like everybody's
+got a little something here and there
+everybody has the knock in some way if
+that makes sense and it's just and we're
+we're just all we're all just kind of
+more predisposed not to talk about it
+but I think it's important to talk about
+it because I think that when we start
+all talking about it then we realize
+that we're all kind of in this together
+in a way and that we're and then some
+folks that you know have you know have
+to knock a hundred times we call that
+OCD or you know and they have all you
+know germ they're worried about germs
+and all these other things we call that
+OCD and then in that circumstance you
+know they need treatment right but but
+it is really on just like blood sugar
+just like blood pressure it's on a range
+you know and it's not just these discret
+diagnoses you have them or you don't
+it's good to know I actually feel some
+relief just hearing this because I am
+slightly I wouldn't say ashamed ier
+embarrassed by it but I I I offer it as
+a you know that you know it it is what
+it is as they say um and it certainly
+doesn't seem to hinder hinder my um my
+life much knock on wood
+um so if we could talk a bit about ibaan
+I I'm I don't know much about ibaan
+although anytime I hear the you know a I
+ne you know lidocaine iag I think of an
+anesthetic um uh and going to the
+dentist which is an unpleasant
+experience for me generally um what's
+what is ibigan um does this have
+anything to do with uh the so-called
+toad um you know people talk about
+smoking frog skin toad skin um
+what is it used for clinically is it
+legal in the US in ter as a clinical
+tool um who's using it and for what
+purposes if you could educate me on Iain
+I truly know nothing about it except I
+think I know how to spell it correct
+yeah that's fair yeah so so ibugan is a
+um is one of the alkaloids that you can
+extract from a um an iboga tree root
+bark that's um typically growing in the
+compan the in the country of gaban
+Africa
+so gaban is one of the West African
+countries kind of middle um of Africa
+the on the west coast and um and gaban
+is
+um has a a group of of folks um you know
+called the buti um it's a religious kind
+of sacramental
+group that sacramentally uses um iboga
+root bark as part of of that the
+sacrament um and they uh they've been
+using iboga root bark for a very long
+time um and it's it's you know part of
+the tradition there's a whole um there's
+a whole set of of kind of ceremony
+around it um if you're interested in
+this there's a book called breaking open
+the head by uh Daniel pinchbeck that
+goes goes through and talks about this
+um this whole process but essentially um
+the gabanes have been using this for a
+long time and um and it's a it's a kind
+of an atypical psychedelic it's
+not it's not a psychedelic that we
+normally think about with psilocybin and
+LSD where there are visual perceptual
+changes right so if you if you take psoc
+psilocybin or LSD what you what you
+experience is you experience these kind
+of visual um perceptual differences in
+the external world right and on enough
+LSD or Sol cybin an individual can
+actually perceive something visually in
+the external world that isn't there as
+we talked about earlier um ibigan
+doesn't do that ibigan does something
+different it it's kind of like have you
+ever seen Minority Report with you know
+the movie with Tom Cruz I think 15 or 20
+years ago or something so it dates us a
+little bit but um it was this it was
+this movie where he would be able to go
+and see these kind of pre- crimes and he
+had this big you know this big screen
+where he could look at scenes from from
+time and like kind of go through that
+scene and see it and so what what
+individuals taking iigame will say is
+that open eyes they don't see anything
+but closed eyes they'll go back through
+and re-experience earlier life memories
+and they will be able to experience it
+from a place
+of empathy not only for themselves but
+from others and kind of an ATT detached
+empathy and being able to see this as
+almost a third party even though they
+were there but they're able to see it
+you know as a third party so claudo
+nanho a psychiatrist from Argentina you
+know described this a lot of books that
+that he wrote and I think the 80s and
+90s around this and so you know ibag
+again's been around for a long time
+Howard lotof American guy that brought
+it over from um from Africa he was a
+poly substance user used every drug you
+know on you know that he get his hands
+on took ibigan including a lot of other
+psychedelics by the way took ibigan and
+then never did another drug again
+supposedly because he had such a
+profound ibaan experience ibigan is in
+no way a recreational substance it's not
+a recreational substance if you want it
+to be a recreational substance because
+you're essentially having this what they
+call a Life review they also call it 10
+years of psycho therapy in a night so
+these are the terminology that people
+talk about the issue how long does it
+last is it truly one night it's it's
+usually you know it can go depending
+upon if you get redosed or anything go
+sometimes depending upon how fast you
+metabolize it sometimes 24 sometimes 36
+hours sometimes it can be shorter but it
+is a long time wow it's a very long time
+so it's it's definitely the longest
+acting psychedelic substance I know of
+and um and so
+people people you know will take this
+and they'll they'll have this
+re-evaluation of the a given memory and
+then as we were talking about earlier
+reconsolidate that memory again and then
+it seems to have you know an effect of
+of that reconsolidation process and so
+you know
+about five four or five years ago I was
+tapped by Rob Robert Minka one of the um
+you know senior neuroscientists we both
+know in the University he says well
+there's a you know there's an unnamed
+donor that's very interested in um in
+funding uh a group you know a scientific
+kind of open label study of um of the
+Navy Seals that have been going down to
+Mexico and taking uh ibigan and and also
+5mt which I'll talk about in a second um
+to treat PTSD you know they claimed have
+traumatic brain injury um depression you
+know that whole constellation of
+symptoms you know and as as it was
+described to me um by various people
+that had done this by their spouses and
+and whatnot um you know John we'll just
+say John JN couldn't screw a light into
+a light
+like a light bulb into a light fixture
+right they just they were just so
+debilitated they couldn't do kind of
+simple tasks what we call activities of
+daily living and they were coming back
+and having these really dramatic
+improvements in uh in you know all
+aspects of of life and so you know we
+have over the last couple of years been
+able to um to do this first inhuman kind
+of full neurobiological clinical neuro
+cognitive evaluation of what iban is
+doing in this case in in Special
+Operations Special Forces individuals
+former Navy Seals former Army Rangers
+that that kind of crew of folks and look
+at the pre-post changes that we um that
+their experience to be able to totally
+quantitate all of that and so we've been
+able to capture all the clinical scales
+you know depression scales PTSD scales
+all that standard stuff neurocognitive
+batteries so how does your executive
+function work specifically how does your
+verbal memory all that and then
+neuroimaging and EEG so this will be the
+first human study of ioan for those and
+the reason why is because ibigan is kind
+of the both seemingly the most potent
+and most um and and mo seemingly to me
+at least most powerful um psychedelic
+but the the one that has the most risk
+too because it has a cardiac effect it
+seems to be that you can screen people
+out that have risk off of their
+electrocardiogram and and reduce the
+risk quite a bit and that's what we we
+all did but um but but that's why people
+haven't really studied it as much um and
+it's it isn't as uh in addition there's
+like no nobody goes to a rave on IBU
+game there's no Recreation at all with
+this it's not fun it's people say that
+it's relieving but it's hard work right
+because yeah you're re you're
+reexamining things and um you know and
+so then so then we we we see these folks
+after and I I'll tell you you know we
+have't fully analyze the data yet but
+I'll tell you
+that you know from from what my folks
+are telling me it's pretty dramatic you
+know people come back and they're doing
+um they're doing a lot better they're
+doing a lot better and um nobody I'll
+knock on what nobody's had any sort of
+uh cardiac issue at all um in you know
+in the cohort that we've studied and um
+and they look a lot better and they feel
+a lot better too and uh and they
+describe these experien of being able to
+go back through and you know um soldiers
+experienced something called moral
+injury right where they maybe they
+accidentally blew something up and it
+had a kid in it or something like that
+you know you know if they're in
+Afghanistan or Iraq maybe you know child
+died on accident or maybe maybe a you
+know a civilian died or whatever it was
+right and they and they suffer these
+moral injuries as part of the job it's
+almost one of the kind of you know
+vocational risks they come back and say
+that they've they've they've um forgiven
+themselves you know which is which is
+huge right and and part of that is being
+able to see themsel in a different light
+and having empathy finally for themsel
+and being able to kind of have that
+experience of of forgiving and so so
+very cool the the study um you know what
+was happening was they were taking Ian
+and then taking something called 5mo DMT
+people call the Toad it's the
+Sonoran um River toad I think it's like
+you you can find these in Mexico find
+them in Ariz Iona um in in the back of
+the the the toad um produces something
+called 5 Meo DMT which is a um you know
+flavor of DMT that produces a particular
+psychedelic effect also used um as a
+Sacrament is it a dimethyl tryptamine is
+that it is it is a five U Meo dimethyl
+tryptamine so it's a kind of dimethyl
+tryptamine with with a kind of addition
+to it the the deal there is um that it
+lasts longer than traditional DMT you
+know it's like 20 minutes to 5 or three
+or whatever kind of thing and um and so
+then so these guys were taking IA and
+then they would take the 5o DMT after we
+had to kind of divorce those two things
+to be able to do the study and just
+understand what Iain was doing and they
+go back down a month later and they'll
+do the 5mo DMT so two completely
+separate sessions two two completely
+separate sessions and one quick question
+about Iva game before a bit more on 5mo
+DMT um is the Iain Journey guided or the
+person just closes their eyes and they
+just start falling into the back catalog
+of memories they have um a bunch of
+Preparatory sessions and then they have
+a bunch of sessions after that they kind
+of um they're able to kind of rehash
+things um during there's a sitter that
+sits there and kind of sits with them um
+and and and helps them out but it's not
+it's pretty the phenomenon of the drug
+seems to drive a lot of this right um
+and so a lot of it ends up being what we
+call supportive Psychotherapy you're
+just kind of being there and you know
+maybe you're holding the person's hand
+maybe you're just saying I'm here maybe
+whatever it is but you're making sure
+they know you're around but you're not
+really there's not really an interaction
+per se and then the whole kind of goal
+there is just to get to get folks to
+kind of go back through and reexamine
+these memories and ultimately look look
+like they re um reconsolidate them and
+um you know it's very interesting I mean
+there's a there's this kind of Tim as
+you said earlier Timothy L kind of
+sociocultural construct that ends up
+being overlaid over psychedelics and
+what I think is that if you rid yourself
+of all of those preconceived notions of
+what it is and isn't and the
+counterculture movement all that stuff
+that neither of us were ever involved in
+neither of us are ever partake in you
+know is is kind of straight scientists
+looking at this right if you can kind of
+rid yourself of all those social
+cultural constructions and then
+reexamine this these if we just
+discovered these today we would say that
+these sorts of drugs are a huge
+breakthrough in Psychiatry because they
+allow for us to do a lot of the sorts of
+things we've been thinking about with
+with ssris with psychotherapy but kind
+of combined right Psychotherapy plus
+plus drugs in a in a substance that kind
+of allows you to reexamine these things
+and so it's it's interesting it'll you
+know there's a lot to do to try to
+figure out if that's true you you know
+and and I can say that as it stands
+right now we don't know if it's that
+statement is true right there's a lot
+more work that needs to happen for that
+statement to be proven to be true but
+the hypothesis is if it is true then
+it's very likely that this will be seen
+as a breakthrough because it allows you
+to do these sorts of things that you
+can't do with normal waking
+consciousness but also why we have to
+really think about this and you know
+these drugs can't be recreational drugs
+they really shouldn't be recreational
+drugs right they're really too powerful
+to be used in the context of recreation
+because they can put you into these
+states and in the this generation of
+psychedelic researchers are really clear
+about that you know I think the 60s
+folks were not clear about that and they
+they felt like there was a this whole
+kind of cultural thing that was going on
+there but I think this cohort of
+individuals really
+understands that in order to really make
+this happen we have to understand that
+if you need a prescription for an SSRI
+which doesn't change your Consciousness
+a whole lot and we we're very worried
+about that and the doctor has to
+evaluate you for that every week that
+the idea that some of these substances
+would would go outside of of very strict
+medical supervision is uh is kind of
+properous actually it's kind of it's
+kind of a dumb moment I think for for
+all of medicine to say look we've you
+know if we're going to do this right
+we've got to do it in such a way that's
+so protected that's so safe that we make
+sure people know these things are not
+recreational and they're really for the
+pure purposes of of really powerfully
+changing um cognition for a while and
+letting people have these what seem to
+be you know relatively therapeutic
+States I think it's great that you're
+doing this study and along the lines of
+the sort of the early iterations of
+psychedelics and the counterculture of
+the 60s and 7s some of which took place
+like one floor of the Cuckoo's Nest I
+think is actually based on um the menow
+park VA which is you know in our
+neighborhood of Stanford um and things
+are quite a bit different now I know um
+you and I have spent some time with the
+operators and former operators at an
+event on last Veterans Day in fact um
+the so-called veterans solutions group
+that's um pioneering a lot of these
+psychedelic treatments for former
+special operators and current special
+operators and what's interesting to me
+about that is in contrast to the
+counterculture movement of the 60s and
+70s um that room was filled with people
+that are very much of a structure the
+military right so it's no longer um
+considered leftwing right-wing
+anti-military pro-military here this
+isn't just but one group of people who's
+exploring psychedelics as a treatment
+for trauma and PTSD and other other
+things and of course you also have other
+domains of society looking at this and
+in fact there were it was really
+interesting because they were both um
+farle and far right politicians at at
+that event up on stage together talking
+about um in kind of lighter terms heart
+medicine but also talking about
+neurobiology and talk it was just
+fascinating from a from the perspective
+of somebody who's trying to learn about
+this stuff that psychedelic therapies no
+longer sit within the anti-establishment
+realm it's it's both it's it's it's
+independent of all that um certainly
+when people in the military are adopting
+it as a potential treatment again still
+under exploration but also under
+exploration at universities like
+Stanford and Johns Hopkins and UCSF and
+University College London and on and on
+um along the lines of tree barks and
+Toad skins um tell me about Iowaska um
+and as a plant uh you know it's
+intriguing um and is it a Ser Pro
+serotonergic um drug like psilocybin um
+and is it uh useful for the same sorts
+of conditions that we've talked about um
+thus far and if you could um perhaps
+tell me a little bit also about the um
+Brazilian prisoners study yeah yeah
+definitely iasa is another psychedelic
+it's used as a Sacrament um in um in
+Brazil and um in Peru and Ecuador and
+Colombia so a lot of the South American
+countries and um and what they do is
+they combine two plants together with
+where one plant of the two plant
+combination would effectively do nothing
+but the two plant combination together
+is capable of
+producing um producing this very
+profound psychedelic effect and what's
+really kind of curious is that there're
+as I understand at 10 to 20,000 plant
+species in the
+Amazon and
+somehow somebody tried them all combined
+these two plants together in certain
+proportionality in cooked this for five
+10 hours to the point where you cook out
+the dimethyl tryptamine out of one of
+the plants and cook out the reversible
+monoamine oxidase inhibitor out of the
+other plant it's such a way that the
+reversible monoamine oxidase inhibitor
+prevents the the GI breakdown of the
+dimethyl tryptamine in such a way that
+it's then allowed to cross the bloodb
+brain barrier and get into the brain and
+if you didn't add the reversible mono me
+oxidase inhibitor plant derived into
+this combination then it would never
+cross the brain if you put people on a
+standard Psychiatry prescribed mono
+amune oxidase inhibitor that wasn't
+reversible you you'd throw them in
+serotonin syndrome right so this kind of
+like sweet spot that somehow iasa
+practitioners have found being able to
+get DMT into the brain from an oral
+source with this combination of am
+monoamine oxidase inhibitor is
+curious um and so that that substance
+has been explored as an anti-depressant
+agent and some Studies have looked at
+that it also seems to be very safe there
+um there's a there's a psychiatrist down
+at um UCLA Harbor who's done a lot of
+work with this where um where he's
+looked at children even that have been
+exposed to of small doses of iasa is is
+kind of a Sacrament within Amazonian
+tribes and found no neurocognitive
+effects no neurocognitive effects in
+adults and um and so it appears to be
+safe it's part of it's kind of part and
+brought into various religions including
+kind of merged with Catholicism in South
+America which is kind of very
+interesting and so you know in some
+sects of Catholicism in Brazil it's used
+as Sacrament during religious um
+ceremonies
+and so it became interesting to
+Brazilian researchers as to whether or
+not they could affect recidivism rates
+for prisoners in Brazilian prisons right
+so they gave half of the
+prisoners um you know some sort of inert
+substance and half of the prisoners a um
+aasa session and the the uh recidivism
+rate or the return to prison rate in the
+iasa exposed individuals was
+statistically significantly lower than
+the recidivism rate in in the uh in the
+control group suggesting that um you
+know whatever is going on there seems to
+have an effect on whatever drives
+criminal Behavior whatever criminal
+behavior that happened to be and I don't
+have the the details on the exact nature
+of the crime um you know no I am also in
+no way saying that we should just be
+giving psychedelics to to to folks in
+prison and all of that I think that that
+that that is a very edgy thing to do and
+probably not something that anybody
+should try but but it does it does kind
+of bring up this this curious question
+of of what is it about that that would
+drive people to um to change those
+behaviors and and why why do people make
+those behavioral decisions and and a lot
+of times if you look at prisons in the
+United States you know you say people
+say this what's the biggest mental
+health facility in the in the United
+States it's a
+prison yeah there's a a lot to unpack
+there for sure uh you know the homeless
+issue the prison issue um it does lead
+to something that I heard recently which
+is related to all this which is um
+cannabis um you know we hear a lot
+nowadays about uh people will say well
+it's safer than alcohol and we did an
+episode on alcohol that at least by my
+read of the literature um indeed alcohol
+does seem to be um quite bad for our
+health Beyond I think it's pretty clear
+that not drinking is better for your
+health than drinking at all and here I'm
+not trying to tell people what to do but
+that those are what the data say and
+forget the studies on red wine you'd
+have to drink so much red wine to get
+enough Resveratrol it's not even clear
+Resveratrol does anything useful anyway
+etc etc nonetheless cannabis is now
+available in a lot of very high potency
+forms people are vaping cannabis um
+people are smoking cannabis I certainly
+am not saying that cannabis is bad for
+people necessarily although I think
+children I would like hope that their
+brain development would be be completed
+first you know get to age 25 I know that
+sounds late um for a lot of people but
+um the THC obviously Taps into some um
+endogenous systems of of of OC cannaboid
+systems and is powerful and I've seen
+this uh this report that was in uh Lance
+at
+Psychiatry this last year that said that
+early use of potent cannabis meaning age
+14 to 20 or so can potentially lead to
+an exacerbation of psychosis later in
+life and I actually put this out on
+social media and it sort of exploded um
+I didn't expect it to people were saying
+well that's not causal and obviously
+it's not causal um because people say
+well maybe people with psychotic
+Tendencies are seeking out cannabis
+although that's sort of a weak argument
+in in the sense that there's a at least
+a four times um 4X increase in these uh
+psychotic episodes for people later in
+life but what are your thoughts about
+cannabis because I do want to
+acknowledge that it does have medical
+benefits for certain things a pain
+chemotherapy
+um so by no means trying to to knock on
+cannabis in its appropriate medicinal
+use but what what should we think about
+cannabis in terms of this finding that
+it can exacerbate a psychosis in certain
+individuals yeah so I think you know
+there's this kind there's a couple of
+things right so cannabis is is multiple
+you know cannaboids right TC CBD CBN
+sativas and you know
+indicas yeah there's a lot there to
+unpack there's a there's a lot of
+there's but there are two there are two
+main you know kind of chemicals you
+think about and kind of how things are
+are are um are essentially bred right
+and so you know there's a lot of
+cannabis it's really bred to be very
+high very potent
+THC and there's a lot and there's
+cannabis where the THC is bred
+completely out so there's stories um you
+know from from Colorado right this this
+um strain of of cannabis that's THC free
+there's no THC at all
+and it's all CBD and they uh it's called
+Charlotte's Web um and a bunch of uh
+kids parents one kid and then kind of a
+string of parents after that moved to
+Colorado when cannabis was legal because
+legalized because CBD is anti-epileptic
+so CBD is also antis psychotic and so
+there have been a number of studies that
+if you give CBD at high doses it's antis
+psychotic in schizophrenic established
+schizophrenic patients the issue is that
+we've bred CBD out of marijuana
+selectively over time we've gotten very
+good at figuring out how to do that
+right
+conversely THC is pro
+psychotic and proepileptic
+right and so when you talk about is
+cannabis cause psychosis or does
+cannabis treat psychosis it appears to
+be more related to the proportions of
+CBD to T C than it does to the kind of
+idea of cannabis so for me there's a
+there's a and I have no stock in this or
+anything like that but there's a company
+called GW Pharmaceuticals and I haven't
+looked into them in a while but they um
+they they have a lot of clinical trials
+for something called draes syndrome
+which is a seizure disorder where kids
+seiz a whole lot Linux gasto syndrome
+which is a seizure disorder kids are
+seizing 300 times a day both of these
+are like kids are seizing so much they
+they're basically in a seizure or in the
+postal phase
+constantly and and they've failed
+everything they failed barbituates they
+failed bromides which we we just don't
+use anymore except in these cases
+because of the side effects and they'll
+give kids CBD and I think CBD is pretty
+safe drug compared to bromide right and
+so this idea that that CBD in a kid is
+actually safe it's it's it's a cannaboid
+but it's CBD and it's safe right and so
+that to me is is totally fine also
+giving CBD is an adjunctive treatment
+for for schizophrenia there have been
+some positive trials and negative trials
+in that but there seems to be no
+negative side effects it seems to reduce
+some of the metabolic syndrome issues in
+in uh folks with schizophrenia who are
+having side effects from the primary
+antis
+psychotic the the converse is there's
+clearly cases where people that are
+taking very high doses of
+THC become psychotic they get put into
+the psychiatric unit nothing happens
+other than they they kind of get the THC
+out of their system and then they
+resolve their psychosis right and so
+that that and you know a handful of
+people who have had you know seizures
+related to to high doses of THC and
+Syncopy and all sorts of things and so
+this idea that
+THC high doses of THC can be Pro
+psychotic is also not taking a shot at
+people that think that cannabis overall
+is a good thing it's just it it's just
+is what it is and the kind of pure if
+you I think if you zoom back and you say
+you're a true naturalist you're thinking
+about natural medicines in the world you
+should think well probably marijuana was
+balanced THC CBD at some point and then
+we just we humans messed with it right
+and and that most likely that was
+probably okay at some level and then we
+pushed it one way or another and what I
+mean by okay is in a 45-year-old it's
+okay kind of thing
+now what I think is going on with the
+with the kids with the teenagers is
+you've got prefrontal maturation right
+and then you're exposing them to a whole
+lot
+of high THC load and um while it's
+unclear if it's if it's cause or effect
+it's certainly in the picture and if I
+were a parent I wouldn't want my
+16-year-old smoking marijuana if I were
+a parent and my 30-year-old otherwise
+healthy
+um totally fine you know whatever Banker
+lawyer kid decided to try marijuana for
+the first time I wouldn't scold them
+about it right so I think it's it's kind
+of a different thing right I would never
+want my up to 25 year-old just like
+you're saying before prefrontal
+maturation I would never want my kid to
+be exposed at all but it looks like
+accept in you know susceptible
+individuals that are susceptible to drug
+induced psychosis it looks like you know
+it's a it's a relatively safe thing past
+prefrontal
+maturation you know again I can't I'm
+not going to comment of cause and effect
+but but I would say that you know it
+doesn't if you're a parent it doesn't
+make much sense right it might you know
+you want to you never know what's
+ultimately going to hurt your kid I mean
+you know my wife's PR we were talking
+about this earlier my wife's pregnant
+now she she kind of avoids everything
+right rightfully so right this idea that
+we just we want to be careful when our
+children's brain are developing and I
+think that's really what you were saying
+and I think actually important the
+bigger question you asked which is
+relative risks of drugs is an
+interesting one so David nut published
+in I think it was in the Lancet I'll
+have to look it up but I think in the
+Lancet an article about relative drug
+risks for the person and for society and
+this was like he was on the the the UK's
+like British um drug uh policy group
+where essentially what he showed was if
+you took if you look at societal risk
+plus personal risk and you combine those
+two you know what drug is The Most
+Dangerous Drug in the world I'm gonna
+guess it's alcohol it's alcohol right
+behind heroin and cocaine and and
+somewhere in the middle is marijuana and
+right on the tail end on the other on
+the exact other end of this silos
+cybin is caffeine usually doesn't make
+the list I I it may have been on list it
+was if it was it was probably pretty
+close to psilocybin but somewhere in the
+middle was ketamine somewhere in the
+middle was was was um amphetamine
+somewhere in the you know a little
+closer to cocy I think was MDMA you know
+but but if it's it's this combined
+personal you know kind of world risk of
+these things and so alcohol makes it
+because there's a huge amount of
+personal risk and there's a huge amount
+of societal risk right drunk drivers
+kill x amount of kid you know people in
+the world fight sexual assaults all that
+yeah and then all the cancer and all
+that stuff and so it it beats out
+cocaine it beats out heroin it beats out
+all of these things and and yet um and
+yet we don't we don't as a culture for
+whatever reason we don't as a culture
+see it as a drug and that's the part
+that really baffles me you know and they
+serve it I mean this is no knock on
+Stanford at all of course I wouldn't do
+that this is every institution I've been
+to they serve alcohol at the graduate
+student events that's right you know
+they serve alcohol they we they do a
+happy hour I've never been a drinker I
+can take it or leave it so and I realize
+that some people they really enjoy
+alcohol you know um my former partner I
+mean she just was in that you know 10%
+or so of people who would have a glass
+of wine and just feel great and the
+second one feel great I I just want to
+take a nap after I I have a bit of
+alcohol so it never does much for me I
+always feel poisoned I feel lucky in
+that sense but it's it's
+unbelievable that it is so prevalent and
+it's it's just it's baked into the
+medical even Medical Institution they
+they'll pop a bottle of champagne to
+celebrate the opening of a hospital
+that's right that's right it's pretty
+crazy yeah no you're absolutely right
+you know I think I think what's going to
+happen but this is me you know looking
+at the crystal ball a little bit but I
+think what's going to happen is what
+happened with doctors and smoking so if
+you look at the 50s and 60s right
+there're all these pictures of doctors
+smoking cigarettes you know with patient
+are you know psychiatrist doing
+Psychotherapy and smoking a cigarette
+with the patient sitting on the couch
+you know surgeons smoking a cigarette in
+between cases they all these pictures of
+that right and now all of a sudden
+smoking's totally banned I think it's
+totally banned from most of Stanford
+campus my suspicion is as you're
+suggesting right you know this is
+everywhere and it's all kind of
+ubiquitous at some critical point some
+Tipping Point everybody's going to
+realize that just like with smoking
+we've got a red Hospital systems and
+universities of
+alcohol and at some point in 50 years
+it's my view that we'll look at back at
+these these scenarios that you're
+talking about and and be like you know
+what we uh we were foolish about this we
+I can't believe that we we gave people
+alcohol on the way you know when they
+graduated from whatever you know and I
+think we'll have a different take on it
+but it's going to take it's going to
+take a longer time I think I think
+people did a really good job tying
+smoking to lung cancer and it's like
+very a very simplistic story smoking
+lung cancer you know now you know as you
+know alcohol increases the risk of a lot
+of different cancers not so clear which
+one I mean there's like you know the
+kind of oral like the throat tongue
+cancer that's one breast cancer yeah
+breast cancer you know and so it's it's
+kind of it's a harder story to tell you
+know and I think that's why and
+everybody you know and then there's this
+whole it's you know my mom says this
+it's like I drank my glass of wine
+because my doctor told me it was heart
+healthy and we were talking about this
+and I try to no no no but but Dr so and
+so said it's heart healthy and so it
+ends up being this thing where like
+she's drinking alcohol because she
+thinks that it's it's good for her heart
+and um you know and it's it's hard I've
+had those conversations with her it's
+hard to untie that and I think that um
+yeah some point we're going to hit some
+some threshold moment and it'll be
+interesting if we really look at the
+data and really look at what's safe and
+not safe from purely from this analysis
+it kind of It kind of points to the
+right direction it's really interesting
+and also say nothing of poor judgment
+under the influence of alcohol I mean I
+I would venture that if we were to
+remove alcohol from University campuses
+watch watch the students are going to
+Lobby against me if I say this but if
+you were to remove alcohol from campuses
+I mean just think about the the what I
+suspect would be the Improvement in good
+decision making oh and and um that would
+occur or you know I've got stories from
+graduate school and it it it was very
+different you know 10 years ago there
+was a lot more alcohol consumption again
+that was never my thing but I know
+people who made really bad decisions
+yeah um in any case um there's a whole
+landscape there emerging I think you got
+your finger right on the pulse of it I I
+want to touch on something slightly
+different than what we've been talking
+about but definitely related to
+depression and this again is one of
+these intriguing but perplexing things
+which is that sleep deprivation yeah can
+improve symptoms of depression and yet
+I'm imp personally very familiar with
+the fact that if I don't sleep well for
+one night or don't sleep at all in fact
+I do have an ability to function pretty
+well the next day I'll do this non-sleep
+deep rest practice that I blab a lot
+about on the hubman Lab podcast which
+for me is tremendously restorative but I
+like a good night sleep I think
+everybody understands now thanks to the
+great work of Matthew Walker and others
+that really gotten out into the world
+saying look the foundation of mental
+health physical health and high
+performance if that's your thing being a
+functional human being is to try and get
+enough quality deep sleep at least 80%
+of the nights of your life if you can
+that's that's something to focus on just
+like good nutrition good just like
+exercise and social connection Etc so
+sleep deprivation we know can Imp in
+particular I think rapid eye movement
+components of sleep deprivation can
+improve the symptoms of depression
+and yet um being sleep deprived can also
+really disregulated our control of the
+autonomic system I noticed on night two
+or night three of poor sleep if I'm
+going through a stressful phase and
+that's happening all of a sudden my
+heart rate is chronically elevated my
+thought patterns become really disrupted
+I can't then exercise do I my decision-
+making is thrown off my emotionality is
+more lab out the hinge as we referring
+to it earlier feels Less in control uh
+under my control and maybe I wonder
+sometimes if I enter that state that you
+referred to earlier where the dorat
+prefrontal cortex is no longer leading
+the singulate but the singulate is now
+in charge the players are in charge of
+the coach yeah um not a good situation
+so I know you've done some work on sleep
+deprivation and light and effects um
+please tell us about that and please
+tell us about this triple therapy is
+that yeah yeah so friend of mine Greg
+Salem one another one of the professors
+at Stanford um was very interested in
+sleep he did a bunch of bunch of
+training in sleep before you went to
+medical school and um and got very
+interested in this idea that as you're
+saying if you sleep deprive somebody um
+One Night in just kind of an isolated
+single night at the at the end of that
+sleep deprivation they will have an
+anti-depressant effect but as soon as
+they fall asleep they lose it so if it's
+a depressed individual you can get them
+to be less depressed acutely soon as
+they fall asleep they wake up 8 hours
+later then they come they come back into
+the same level of depression and so the
+idea was that you needed to do some sort
+of circadian reset and that part of what
+part of what depression is is that it's
+a disregulated circadian system and so
+mentors of Mind say if you can just get
+the sleep better that's half the battle
+of dealing with depression because so
+many people have insomnia around
+depression and have a whole host of
+types of insomnia fall having a hard
+time falling asleep waking up in the
+middle of the night and waking up early
+are all symptoms of depression and
+so what this does is it sleep deprives
+the individual and then there's a
+certain calculation of shifting their
+phase and simultaneously exposing them
+to Bright Lights so that's the triple
+the phase shift the sleep deprivation
+and the bright light to try to get their
+circadian rhythm essentially the the
+theory is
+reentrained and so um you know in the in
+the trials that we've done and other
+trials um prior to ours and and and
+after you know it looked like there was
+a pretty pretty profound anti-depressant
+effect from this triple therap this
+triple therapy that seemed to be durable
+meaning durability is this term we use
+to say that not only can you get kind of
+Point Relief but that the relief ends up
+you know lasting what's important to
+know about this is like you shouldn't do
+this at home for sure this what you
+would need to do this with a
+professional because it's complicated
+it's not just one thing and it in sleep
+deprivation while it seems to be
+anti-depressant it's pro- anxiety so if
+you take a highly anxious person that's
+not depressed and you sleep deprive them
+they get profoundly anxious and so
+that's the other thing that that you
+have to really realize is that this is
+like everything else that I've talked
+about today all things that you you have
+to do under medical supervision but but
+curious right and and I think you know
+the question that always comes up is why
+isn't this used more and I think the
+reason is that there's not really a
+mechanism for or you know ultimately in
+in medicine as sad as it is you have to
+have a code to do a thing there has to
+be a code associated with a treatment
+and it's hard to figure out how to make
+a code for this and so I think that's
+part of it and so if if there's a way
+and somebody's got to kind of take that
+baton on that but if there's a way to
+make a code for this um you know I think
+you could you could actually you know
+turn it into something that was more
+widely widely utilized and you know
+dream up ways of how to how to integrate
+AI passive sensing all that stuff to
+really make that work um but I think
+that would be that would be the the idea
+that would be the trajectory I'd see so
+yeah yeah having a billable to Insurance
+code is is fundamental and a lot of
+listeners of this podcast I I think have
+a background in engineering science and
+we will put a link to that uh manuscript
+that talks about the triple therapy
+because here we're talking about one
+night sleep deprivation some timed light
+exposure to the eyes and and then
+shifting in the circadian clock things
+Central to the themes of this the
+podcast that come up often um I think
+for the typical person can we say uh
+that trying to get a regular light dark
+cycle and sleep Rhythm would be
+beneficial for overall mood regulation
+yeah I think for for the typical person
+um you know really really kind of
+re-regulating your sleep and and trying
+to get you know a good night sleep in
+which you fall asleep stay asleep wake
+up in a set time every morning is going
+to be pretty crucial um you know in mild
+depression I think that one has a lot of
+control over that as we were talking
+about earlier I think when you you hit
+some threshold in depression where
+things become kind of semi volitional
+and it's harder to kind of will yourself
+into that um there are therapies like um
+you know there there's a CBT for
+insomnia for instance where you can do
+cognitive behavioral therapy to help
+with insomnia sometimes people and I'm
+not I'm No Sleep expert that kind of
+pass this to Greg to fully talk about
+this but but um but some of what goes on
+that people with kind of milder insomnia
+experience is like blue light out of
+their computer and things like that that
+they so you can use like blue light
+blockers to to it tricks your your brain
+as you know better than me it tricks
+your brain to think that it's still
+light outside and so people will they'll
+have insomnia because their brain still
+thinks that it's light outside and then
+people will um you know the kind of
+strict CBT for sleep um you know uh
+therapists will say there are only two
+things that you should do in your bed
+and if you're under a certain age and
+and whatnot it's really one thing that
+you should do in your bed which is to
+sleep and um and and be with your
+partner uh right so those are those are
+kind of the two um the two things that
+you should do in a bedroom and that's
+really the only things that you should
+do in a bedroom if you're having sleep
+problems you shouldn't watch TV in a
+bedroom you shouldn't eat in the bedroom
+you shouldn't you know hang out keep the
+phone out of the bedroom keep the phone
+out of theed bedroom yeah yeah um we
+should get Greg Salem on the podcast we
+the I'll just mention for people that
+want to regulate their sleep we have a a
+sleep toolkit that's available as a
+downloadable PDF at huberman lab.com
+just go to the menu and a lot of the
+things in that toolkit are based on work
+from Stanford sleep Laboratories
+including Jamie zeiters and other lab um
+not aimed at depression specifically
+um listen uh Nolan Dr Williams uh this
+has been an amazing uh Voyage Through
+the circuitry of autonomic control this
+landscape of the prefrontal cortex is uh
+I find incredibly fascinating and I I
+just I'm going to start off by saying
+please do come back again and teach us
+more about that and your TMS work I
+before we wrap however I do want to give
+you the opportunity to talk about the
+saint study yeah is it Saint or Saints
+plural yeah it's Saint so so um Saint or
+what're we're calling it S&amp;T now um
+saint has you know the intent was not to
+to to kind of connect it to religion but
+uh but we may have um accidentally done
+so and so we we abbreviated it to S&amp;T
+for the for the subsequent trials which
+was initially Stanford accelerated
+intelligent neurom modulation therapy or
+now we're calling Stanford neurom
+modulation therapy but it's um the idea
+there which is a cool idea is that TMS
+um is a device that delivers um the
+delivers a treatment and the treatment
+is the protocol and the protocol is the
+stimulation parameter set in a specific
+brain region for a specific condition
+and so what's cool about neuromodulation
+whether it be trans cranial magnetic
+stimulation or trans cranial direct
+current stimulation or deep brain
+stimulation like what Casey hurn talked
+about you know um on another podcast is
+this idea that in all those cases the
+device self is a physical layer conduit
+of a stimulation protocol that's
+therapeutic for a given condition in a
+given brain region and so in the case of
+depression which we know the most about
+for with TMS we've been doing TMS
+studies for depression for you know
+since
+1995 right in a clearance in 2000 um
+2008 2009 and in that um in that time
+frame we were able to go from really
+knowing very little at all all about how
+to do something like this to getting an
+FDA clearance and and the way that it
+went down was that there were two groups
+studying um different components at NIH
+the first group was studying mood
+neuroanatomy on functional Imaging that
+was kind of the first generation of
+functional Imaging back then so pet
+scans um which are kind of metabolic
+scans um and then spec scans and the
+idea there was looking at activity and
+Metabolism in prefrontal cortex and what
+they found in these kind of more crude
+scans is a just general hypoactivity
+hypo
+metabolism the other group right
+upstairs at the National Institute for
+neurological diseases and stroke in
+inds they were looking at using TMS
+which had been around for 10 years and
+rep repetitively stimulating in motor
+cortex what they found was gosh we can
+get a readout in thumb um muscle
+movement amplitude that's really
+reproducible across people it's like you
+know universally reproducible and if we
+do certain stimulation approaches they
+are biologically active to either
+increase excitability I.E the thumb
+motion and a set intensity goes up the
+amount of amplitude goes up or
+inhibitory dep potentiating it goes down
+with other biological stimulation
+approaches then a third outcome which is
+important that it's inert it doesn't do
+either so you can have stimulation
+approaches that do one you know increase
+activity decrease activity or you know
+or are inert and so what they found was
+oh we can excite certain brain regions
+and my mentor Mark George said had this
+kind of aha moment where he said wow
+there's underactivity in prefrontal
+cortex and depression and we can
+increase activity using this thing that
+we know we can increase activity in
+motor cortex we just need to put it in
+the left or Catal prefrontal cortex and
+then they combined the two and started
+stimulating
+once a day in this kind of very
+abbreviated fashion and lo and behold
+some of those depression patients
+resolved their depression and back then
+and still today you can go and as a
+psychiatric patient stay at the National
+Institute of Mental Health and go
+through clinical trials to try to get
+treated and there were P patients who
+had been there for months and they were
+able to be discharged because their mood
+was better yeah and so this very crude
+approach where they were using ruler
+measurements or where dlpfc was and they
+were stimulating with devices that you
+needed to physically dunk the coil in an
+ice bath and with that they still were
+able to the kind of Genius of this Mark
+and others still be able to to create a
+a a purely engineered stimulation
+approach what's what's cool about that
+is that that they they kind of found two
+things right they found this one
+stimulation protocol that does have some
+anti-depressant effect it's it's limited
+it doesn't treat everybody it does have
+some anti-depressant effect and this
+bigger concept
+that a neuromodulation device is kind of
+like a pharmaceutical company for you
+right that in a given individual a TMS
+device or whatever neurom modulation
+device is able to generate to to you can
+create a stimulation approach that is
+specific to a given condition and
+specific to an individual and so the
+physical layer is just how you exert
+that similarly to how we make
+pharmaceutical drugs in a pharmaceutical
+company but the actual therapy itself is
+what you do where you do it and so what
+we learned from you know another 20 30
+years of this is that you can modify the
+stimulation protocol in such a way where
+you can create a whole new treatment and
+put it through the same TMS device or
+thank God an evolved version of it where
+you don't have to dunk it nice baths and
+and it can actually really handle much
+more aggressive stimulation approaches
+and so in 2005 um a group published a
+neuron a paper demonstrating that if you
+if you stimulate with the
+hipocampal rhythms through a TMS coil
+you can excite the brain with memory
+rhythms and it'll last an hour so you
+can change cortical excitability in this
+thumb twitch for an hour sending 3
+minutes of excitatory or 40 seconds in
+the case of inhibitory stimulation that
+mimics The hample rhythms so much more
+efficient than the original TMS approach
+approaches and so you know after that
+group tried to do it in this kind of six
+we schedule and after that you know and
+while they were doing that we decided
+gosh you know this problem I talked
+about at the beginning of the show where
+you have these you know this problem
+that we we don't have a treatment for
+people who are in these high Acuity
+psychiatric emergency States right this
+idea that we're going to engineer a
+treatment where we can reorganize the
+stimulation approach in time to be much
+more efficient by utilizing something
+called space learning theory and so you
+you probably know about the space
+learning theory the idea for the for the
+viewers is it's a simple psychological
+thing but we've also seen it in
+hippocampal slice sort of physiology too
+where if I'm cramming for a
+test what I do is I write out 60 note
+cards and I read each one for a minute
+until I get to the first note Cardon
+again and that's about an hour later
+right and we just we just intuitively do
+this we all we all all you know
+automatically do that and we we we
+Intuit it that because we know that what
+doesn't work is writing out one note
+card and looking at it over and over
+again nobody ever does that right you
+you know we we've all been in in
+graduate school medical school and we
+have these big stacks of note cards that
+space learning theory it's this idea
+that you need to see it about every hour
+to an hour and a half and that optimizes
+learning if you take the same
+stimulation approach that I'm talking
+about this Theta birth stimulation
+approach and you take a hippoc cample
+slice of a Mouse and you stimulate you
+you enlarge some dendritic spines and
+you prime some and then if you stimulate
+right after that you don't get any
+change it's called in Mass stimulation
+but if you wait about an hour to an hour
+and a half you get more dendritic spines
+enlarged and more primed which by the
+way also is what ketamine does it does
+it causes this dendritic spine
+enlargement and so you know what we
+found was is that the old way of doing
+TMS this idea of just doing it once a
+day day every day 5 days a week for six
+weeks didn't utilize the space learning
+theory it's like studying for a month or
+two just a little bit once a day like
+you remember some of that stuff but it's
+like not as potent as that week where
+you're kind of cramming right and what
+we realized is that if we could
+reorganize the stimulation in times that
+we took the whole six week course we
+actually figured out a way to do it in a
+day and then what we also figured out is
+that people were underdosing TMS because
+if you just keep going after 6 weeks out
+to month three four five more and more
+people got better so we figured out it's
+not just one day we're going to get five
+times the normal dose we're going have
+seven and a half months worth in five
+days using space learning theory so
+every hour every hour for 10 hours for
+five days for five days so it's a 50h
+hour Block it's 90 minutes of actual
+stimulation but spread out through the
+day in the same way of learning which is
+perfect for an impatient psychiatric
+unit right five days is manageable yeah
+you can get stimulation no nobody's ever
+dropped out by the schedule um they they
+they you know folks that want to do this
+want to do it so they'll do their 9
+Minutes they'll go get breakfast they'll
+do their 9 Minutes they'll go see their
+therapist or whatever it is and so what
+we found um with this reorganization in
+in time of the stimulation dose and then
+the third component is we do resting
+state functional connectivity scans on
+everybody and we have ways now in the
+last 5 to 10 years of picking out that
+specific subgenual dlpfc subcircuit that
+I was talking about earlier that
+singulate dlpfc we can pick that out in
+every single one if you if you want to
+come to the lab we can we can find your
+dlpfc subgenual it's even more robust
+thanate too just while we're in there
+yeah if you want to we can we can move
+around your hypnotizability um and we
+can we can find that
+spot in each person and instead of
+finding the same spot on the skull we
+find the same spot on the brain and we
+can stimulate we do that every hour on
+the hour what we found what we've found
+is that folks will um will within one to
+five days you know in in more cases than
+not and depending upon if you're looking
+at this open label or in Trials
+somewhere between 60 and 90% of the time
+they will go into fullon remission in
+the sense they're totally normal from a
+mood standpoint at the End of
+This and like I said with variable dur
+durability so that's the part we have to
+figure out now about dosing and how to
+keep people well but for some people you
+know we've had four years of remission
+you know a year of remission and it's
+it's it's really that cramming of the
+test it's really that idea that you're
+laying in that information in the exact
+right spot and the the signal is a
+simple signal but it's a profound one
+which is turn on stay on remember to
+stay on you know that idea that you're
+you're sending this memory signal into
+the brain and you're doing it in such a
+way that you're telling the system
+you're kind of taking it out of the
+hippoc campus's hand your own hippoc
+campus's hand and you're sending the
+same signal the hippocampus normally
+signals out now you're sending that
+signal into the prefrontal cortex and
+kind of utilizing the brain's own
+communication style to get it to get out
+of the state and what's very cool about
+this is that um is that people when they
+when they kind of exit out of that they
+end up um they end up saying they don't
+have any any side effects from it and
+they feel back to normal like some
+people you know not everybody but
+there's a subsection of people that with
+with ssris where they'll say I kind of
+feel numb or I have gi side effects or I
+can't I can't you know I don't have the
+sexual interest that I used to have and
+that sort of thing you know not anything
+gets esized as I said earlier
+life-saving you know for a subsection of
+people these things really work but with
+this what you see is that people don't
+talk about any of that stuff and I think
+it's it's likely because you're tapping
+into that core circuitry and you're
+reversing it and you're doing it with a
+with a magnet that because it's a very
+profound electromagnet it's the same
+field strength as an MRI scanner it's
+able to induce a current in the brain in
+this focal targeted way without getting
+into the rest of the brain without
+getting into the rest of the body at all
+and just really kind of acting only on
+that circuitry that's involved
+incredible is the saint study still
+ongoing and if people are interested in
+potentially being um uh patients or
+subjects in the study uh can we provide
+them a portal link abs absolutely yeah
+so we have um now the the treatment um
+my some of my students went over to a
+company called Magnus medical um and
+they've been working on this they've got
+an FDA clearance now and um and now
+folks can get it through trials over the
+next couple of years because it's going
+to take some time for that company to to
+kind of get up and running and and get a
+um you know get a get a device and get
+the whole thing set up uh nationally but
+while that's all going on there's still
+about a th patients that need to be
+recruited across a bunch of different
+trials all over the country we'll take
+people from anywhere in the country we
+also have Partners in New York and San
+Diego and and other and soon to be South
+Carolina and other places where we can
+actually kind of you know my lab can
+help to kind of let people know where to
+go where they you know based off of
+where they're at in the US and get them
+access to being able to be in a trial
+and what we've tried to do is make it so
+that even if you get the you know 50/50
+chance you're going to get the real deal
+or get the the the non-real deal but
+what we have figured out is a way to let
+everyone have access um if they if they
+got the not real deal version the kind
+of sham version or the fake version for
+the first part of the trial there are
+other trials where they can have access
+to the real version so essentially
+everybody eventually gets access to
+having the real version and so that's
+been a big thing for me is I I want
+everybody that comes through one of our
+trials to be able to have access I think
+think it's important while um while you
+know the companies doing what they're
+doing and what the labs doing and kind
+of nationally what you know other
+partner labs are doing well I can assure
+you you're gonna get some interest uh
+happy to happy to have it yeah thank you
+and listen thank you so much uh for
+taking us on this incredible Voyage
+Through the neuros circuitry underlying
+certain aspects of depression the
+coverage of the different types of
+depression the various uh therapeutic
+compounds how they work with we've um
+talked about a lot of things today and
+you you've shared so much knowledge and
+even as I say that I um I very much want
+to have you back to talk about many
+other things as well that we didn't have
+time to cover but also just really want
+to thank you for the work that you do I
+know we are colleagues but um you run an
+enormous laboratory enormous in my book
+40 uh people is a is a big group uh very
+big group plus you're you're in the
+clinic you also have a a life uh of your
+own outside of work and to take the time
+to sit down with us and share all this
+knowledge that really is in service to
+mental health and and human feeling
+better and in fact avoiding often
+suicidal depression it's just incredible
+work and incredible generosity and just
+thank you so much oh thank you man I
+mean I I you know similarly I want to
+thank you for for what you're doing I
+mean I think I think that what you you
+know I've got a lot of friends uh folks
+that are not in the medical profession
+friends of mine uh you know one of my
+buddies who's a real estate agent who
+works with us uh who's a big big fan of
+your show and uh you know I told a
+couple people like that I was was coming
+on and um and they were like super
+stoked they're like we you know we watch
+we watch every show and um you know
+super excited to to to watch um mine and
+they they said something very important
+to me that you know you make this this
+complicated neuroscience and and kind of
+you know brain body science accessible
+you know in in a way that that few have
+a gift to do and I think that that's so
+so important and um and this show is
+doing so much to to help with science
+literacy and uh yeah appreciate you so
+well thank you I'm I'm gratified and
+honored uh by your statement and um I
+look forward to more thank you
+absolutely thank you thank you for
+joining me today for my discussion with
+Dr Nolan Williams I hope you found our
+discussion about psychedelics and other
+compounds about transcranial magnetic
+stimulation and about the treatments for
+depression in general to be a
+stimulating as I did if you'd like to
+learn more about the work being done in
+Dr Williams laboratory you can go to the
+brain stimulation laboratory website
+which is BS l. stanford.edu and there
+you have the opportunity to apply to be
+in one of the clinical trials for
+depression or other studies as well if
+you like to support the work being done
+in Dr Williams laboratory for the
+treatment of depression and other
+psychiatric disorders if you're learning
+from and are enjoying the hubman Lab
+podcast please subscribe to our YouTube
+channel that's a terrific zeroc cost way
+to support us in addition please
+subscribe to the huberman Lab podcast on
+Spotify and apple and on both Spotify
+and apple you also have the opportunity
+to leave us up to a five-star review if
+you have questions for us or comments
+about the information we've covered or
+suggestions about future guests please
+put those in the comment section on
+YouTube we do read all the comments
+please also check out the sponsors
+mentioned at the beginning of today's
+episode that's the best way to support
+the hubman Lab podcast not so much today
+but in many previous episodes of The
+huberman Lab podcast we talk about
+supplements while supplements aren't
+necessary for everybody many people
+derive tremendous benefit from them for
+things like enhancing sleep and focus
+and hormone optimization the hubman Lab
+podcast has partnered with momentus
+supplements if you'd like to see the
+supplements of the hubman Lab podcast
+has partnered with momentus on you can
+go to live momentus spelled o us so Liv
+mous.com
+huberman and there you'll see a number
+of the supplements that we talk about
+regularly on the podcast I should just
+mention that that calog of supplements
+is constantly being updated as mentioned
+at the beginning of today's episode the
+huberman Lab podcast has now launched a
+premium channel that premium channel
+will feature monthly amas or ask me
+anything where I answer your questions
+in depth as well as other premium
+resources if you'd like to subscribe to
+the premium channel you can simply go to
+huberman lab.com
+premium I should mentioned that the
+proceeds from the premium channel go to
+support the standard hubman Lab podcast
+which will continue to be released every
+Monday per usual as well as supporting
+various research projects done on humans
+to create the sorts of tools for mental
+health physical health and performance
+that you hear about on the hubman laab
+podcast again it's hubman lab.com
+premium to subscribe it's $10 a month or
+$100 per year if you haven't already
+subscribed to our zeroc cost newsletter
+we have what is called the neural
+network newsletter you can subscribe by
+going to hubman lab.com go to the menu
+and click on newsletter those
+newsletters include summaries of podcast
+episodes lists of tools from the hubman
+Lab podcast and if you'd like to see
+previous newsletters we've released you
+can also just go to hubman lab.com click
+on newsletter in the menu and you'll see
+various downloadable PDFs if you want to
+sign up for the newsletter we just ask
+for your email we do not share your
+email with anybody and again it's
+completely zero cost if you're not
+already following me on social media
+it's huberman lab on Twitter on Facebook
+and on Instagram and at all three of
+those places I cover topics and subject
+matter that are sometimes overlapping
+with the information covered on the
+hubman Lab podcast but that's often
+distinct from information on the hubman
+Lab podcast again it's hubman lab on all
+social media channels and last but
+certainly not least thank you for your
+interest in science
+[Music]

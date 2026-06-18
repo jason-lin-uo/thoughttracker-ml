@@ -1,0 +1,445 @@
+# iPhone Air Review: Beauty is Pain
+# https://www.youtube.com/watch?v=tDARtYjUiHs
+
+Every product design is a series of
+trade-offs. It's like a slider where you
+can push it either towards form or
+towards function. And it can be exciting
+when you push it way towards form.
+This is the iPhone Air.
+[Music]
+So, Apple decided to make a ridiculously
+thin iPhone. Yes. Uh, it's thinner than
+a number two pencil. Thinner than any
+previous iPhone that's ever been made,
+including the one that bent. It's
+thinner than the freaking iPod touch.
+That is ridiculous. And this isn't
+simply an iPhone shrunken down. Apple
+has done a ton of rearranging parts and
+pieces inside the phone. They've
+squeezed a lot of the compute and memory
+and logic board up into the top of the
+phone and allowed a bit of a bulge,
+which they're calling a plateau, which
+leaves most of the slimmer bottom of the
+phone for just battery. The edges are
+nice and softly rounded, and the whole
+outside frame is shiny titanium, which
+picks up a ton of fingerprints, but also
+is remarkably durable. They 3D printed
+the USB type-C port to fit and all of
+the buttons and camera control, as thin
+as they are, go pretty much right up to
+the front and back edges of the phone.
+The end result is an iPhone that is
+noticeably thinner and lighter than it's
+been in a long time. It is super
+impressive and importantly deserving of
+the Air name.
+But it's not perfect. Of course, it's
+not perfect. You wouldn't be watching
+this review if it was that easy. There
+are a bunch of trade-offs to making it
+this thin. It doesn't just get this thin
+magically without a bunch of sacrifices.
+Beauty is pain, after all. And so, now
+that I've been using this phone for a
+couple of weeks, I'm just going to give
+you each of the trade-offs that Apple
+made and how much you'll actually notice
+them. And I have some small concerns,
+some medium concerns, and then the big
+concerns. So, small concern number one
+is they did remove the bottom speaker to
+achieve this. So most of the bottom of
+this phone is battery, but then those
+grills at the bottom of the air are just
+for microphones. So the only speaker in
+this whole phone is up in that earpiece
+at the top. Couple things, a speaker
+that small is not going to get as loud,
+but there's also way less bass. So
+things are a bit tiny. But the worst
+case scenario is actually when you turn
+your phone landscape to watch a video or
+or game or do something with stereo
+audio, in which case you'll probably
+notice all of the audio is coming from
+one side of the phone. And if you
+accidentally block that earpiece with
+your thumb, that's even more annoying.
+So the speakers are definitely not
+great, but they're acceptable for most
+everyday use. At least they're not
+horrible. You kind of just get used to
+it. So then the iPhone Air is eSIM only
+globally. This is again in an effort to
+make enough room for the battery.
+They're just getting rid of the slot
+where you normally have a little plastic
+SIM card. So this is a very direct
+trade-off to get more battery out of
+that saved space. Apple won't say
+exactly how much battery they gained
+back, but some of the numbers I'm
+starting to see pop up around the eSIM
+versus non ESIM iPhones. Looks like
+there's around 200 mAh of extra battery
+they're getting out of this. And believe
+me, I'll talk more about battery in a
+minute. But yeah, lots of people use
+regular SIM cards to this day. And I
+guess it's a bigger deal to me because I
+swap phones a lot and there's lots of
+phones from like Huawei and Oppo that I
+wouldn't be able to get my SIM card into
+and doesn't work well with eim. So, I
+really dislike it, but I suppose for the
+average person, they'll only notice this
+once or twice. Once when they switch to
+the phone and then once when they move
+on to another phone. But speaking of
+carriers, the iPhone Air, unlike the
+rest of the iPhone 17s, does not support
+millimeter wave 5G.
+And the thing is, most people outside of
+the US have never used millimeter wave
+5G. And most people in the US have also
+never used millimeter wave 5G. So, you
+know, it's super convenient once in a
+while when you have it. You know, I
+found myself near a hot spot with a
+supporting device, and if I happen to
+have something to download in that
+moment, it's great, but that is so rare
+and so far between that you might as
+well not worry about it yet. The modem
+in the iPhone Air is brand new. It's the
+new C1X chip, and alongside Apple's new
+in-house designed N1 chip, which does
+all the networking, Wi-Fi 7, Bluetooth
+6, and Thread, it's performed great. it
+does not seem to have any weaknesses in
+speed or coverage versus Qualcomm
+iPhones, previous iPhones with other
+modems. So, that's been great to see.
+But then, uh the the USBC port at the
+bottom of the air is is only USB 2
+transfer speeds. So,
+that's just dumb. But now, let's get to
+the medium concerns. First of all, less
+cooling. Okay, so I did notice this
+phone getting hotter. It's running the
+more powerful A19 Pro chip with one less
+GPU core than the Pro phones, but it's a
+Pro chip and the Pro phones are way
+thicker and they're made of aluminum for
+better thermal conductivity and they
+have a new vapor chamber to draw heat
+away from that chip and dissipate it
+through the body. The Air has none of
+that. And so I did have a few instances,
+especially early on, where I was doing a
+lot of the sustained activity and the
+back of the phone was heating up a lot
+in my hands, especially like right below
+the camera plateau. No question it's got
+to be throttling down that chip with any
+sort of heavy sustained use. It's a
+little concerning, but the phone never
+actually did overheat or give me an
+overheating message. So, I guess that is
+a good thing. So, then there is the
+single camera and I'm putting this in
+medium concerns, but it's really very
+much depends on the person. For some,
+it's just like are you cool with this or
+not? Because a lot of people a lot of
+people are currently using iPhones that
+have more than one camera. Lots of older
+iPhones even have that useful ultrawide.
+And most of the people thinking about
+buying this Air have those second
+cameras, even third cameras. And so the
+Air doesn't have an ultrawide. And I
+can't tell you how many times I went to
+go take a picture of something and then
+realized I can't switch to the
+ultrawide. And there's also obviously no
+zoom as well. I will say Apple makes a
+big deal about their processing pipeline
+for the 2x crops on the Fusion camera.
+So, the middle 12 megapixels for a 2x
+photo having a decent quality shot. But
+that still doesn't replace having an
+actual quality zoom camera. And that's
+especially noticeable when you try to
+zoom in. I'd say anywhere past about 5x,
+the quality really starts to drop off in
+all shooting scenarios. All that said,
+the one camera you do get is really
+good. It's essentially the same as the
+base iPhone 17. And in the world of
+thousand phones, it is right up there
+with the best. The selfie camera 2,
+which I'll talk more about in the base
+iPhone 17 review, genuinely innovative
+and dramatically better than previous
+iPhones. I think casual photo and video
+takers will actually mostly be fine with
+this single camera solution in a vacuum,
+but we're not in a vacuum, and there are
+other options out. And you just have to
+know that there are other phones that
+cost $1,000 that have way more capable
+camera systems that can do zoom, that
+can do ultrawide, that can do macros.
+This won't do that. So, for me, someone
+who relies on the cameras on the phone a
+lot, this is one of the reasons I'm not
+going to be switching to or dailying the
+Air. Uh, but for your parents or someone
+you know who takes most of their photos
+and videos on the main camera all the
+time anyway, they'll probably be totally
+fine with this. And this this was a
+carefully considered cut from Apple to
+get there. But now, my two main concerns
+with the iPhone Air and probably for
+most people, the durability and the
+battery. And some of this is actually
+kind of shocking. It turns out the
+iPhone Air is not just a survivor of the
+famous jerryrig everything bend test.
+It's literally one of the most
+impressively durable smartphones of all
+time. I'm not exaggerating. It's kind of
+ridiculous. I think in most people's
+concerns when seeing a piece of hardware
+this thin, naturally they're thinking,
+"Oh, am I going to break this? Am I
+going to snap it in half?" And the
+answer, it turns out pretty
+definitively, is no. This is not any
+less durable than a normal smartphone.
+The titanium frame can withstand more
+bending than any human can put their
+mortal hands through. And it'll snap
+back to flat even if you do get it to
+flex. And you can almost undoubtedly sit
+on the phone for an extended period of
+time like an insane person and it will
+survive. It's still IP68 water and dust
+resistant. Dunk it under water if you
+want to. And the ceramic shield too on
+the front and back is actually even more
+scratch resistant than previous
+versions. I know they say that a lot.
+Oh, this one's the most scratch
+resistant yet. But it's to the point
+where it didn't even show the normal
+scratches at level six with deeper
+grooves at level seven on Zach's famous
+test. It passed even beyond normal
+smartphones. Now, of course, glass is
+glass and glass still breaks. That is
+you could still drop this phone and
+shatter the front or back glass, of
+course. But, you know, I think we all
+went into this thinking that the
+durability would be a major weakness of
+this phone. And it turns out it's one of
+the biggest strengths, which is crazy.
+Turns out those engineers and material
+science people over there are actually
+pretty good at what they're doing. Or
+maybe they had some incentive to not
+repeat a certain past incident. And then
+it also turns around and gets a 7 out of
+10 from iFixit for repairability and
+still retains dual entry when you go in
+to repair it. So you can take just the
+front glass or just the back glass off.
+And Apple posted all their disassembly
+guides on day one. Kudos. So, I guess I
+shouldn't be surprised that through all
+my throwing it in a frisbee bag and
+tossing it on a chair next to me and all
+the abuse I've put this phone through,
+it hasn't even come close to breaking or
+bending. So, that brings us to the last
+main concern. Battery. So, the battery
+on the iPhone Air is pretty weak, and
+there's no getting around that. Remember
+earlier this year, though, when I said
+one of the big pillars of 2025
+smartphones was going to be these new
+higher density silicon carbon batteries?
+Well, it turns out two of the biggest
+phone manufacturers out there, Samsung
+and Apple, well, they just didn't want
+to take the dive on that quite yet on
+any of their phones. So, not only is
+this phone thinner than ever with less
+room inside for battery than ever, but
+it's also not even a special highdensity
+battery to make up for it. So, the
+result is this big, bright, gorgeous 6
+1/2 in 120 Hz OLED display being powered
+by a battery the same size as the one in
+the iPhone 11. I will say parts have
+gotten more efficient, right? So like
+the display can throttle down all the
+way to one hertz and the A19 Pro chip
+can underclock super well. So it's not a
+disaster, but I'm giving the battery
+about a C minus. Ending the day with
+like 15% left in low power mode in
+normal use with 4 hours of screen on
+time for a brand new phone is not that
+great. makes me concerned for how this
+will look in three or four years down
+the road. It's actually kind of similar
+to the camera situation. Like there are
+lots of people who are now today might
+be you using a phone with a big battery
+that was awesome when you first got it,
+but now years later if you're getting to
+the end of the day and it's dying and
+you realize you need a battery upgrade,
+the Air is probably not the phone you
+should be getting. But if you are
+getting to year three or four of your
+phone and battery is not an issue and
+you feel like you're a pretty light
+user, then the Air could be fine for
+you. So to be specific, for my own use,
+like standby time I noticed was pretty
+good like it is on so many other
+iPhones. But this Prochip can spike up
+pretty quickly. So even with like some
+screen off stuff like wireless CarPlay
+for example, it would take big chunks
+out of my battery. Anytime the phone was
+doing anything heavy, battery beware.
+And then this phone also charges slower
+than the rest of the 17 lineup which
+makes it even more annoying. So if
+you're a heavy user like me, well, you
+literally just end up keeping it on a
+wireless charger as much as possible.
+It's annoying. It's It was just very
+annoying to be honest. Uh and that's
+sort of the two things that made it a
+dealbreaker for me is the cameras and
+the battery. The difference though
+between those is the battery you can
+kind of work around it. The camera kind
+of can't. Also pretty classic Apple move
+to make the problem and then sell you
+the solution. So this is the MagSafe
+battery they launched alongside the Air.
+It's sold separately for 100 bucks and
+it's also just to be honest not a very
+good accessory. It turns out it's
+basically the exact same battery that's
+in the iPhone Air but only charges it to
+about 65% because of the heat loss
+during wireless charging. Not a great
+deal. So originally I said there were
+basically two ways to look at the iPhone
+Air. One is it's just Apple trying
+something new, throwing it out the wall
+to see if it sticks. Oh, maybe people
+like this. Or it is a long premeditated
+preview at the future of all smartphones
+when they're all this thin.
+But I lied. There's actually a third way
+to look at this phone, and that is as
+half of the upcoming foldable iPhone
+that we all expect as early as next
+year. because it's easy to be impressed
+by the thinness of the iPhone Air. But
+if you've paid attention to the rest of
+the smartphone world lately, each half
+of a good folding phone is often even
+thinner than this iPhone. It's obviously
+a huge priority for them because they're
+trying to get to the same thickness as a
+normal phone when closed. So, double
+their typical Z-axis. So, all of this
+work, all this incredible reorganization
+of the inside of the phone and the
+components and the miniaturization of
+parts and the efficiency maxing with
+their in-house developed parts like N1
+chip and C1X. All of that effort is
+absolutely geared towards seeing if they
+can make the first ever truly new form
+factor of an iPhone, maybe since the 10,
+one that folds in half. and it just so
+happens to enable this really thin form
+factor air phone that they'll make in
+the meantime. Kind of the exact same way
+we got a Galaxy S25 Edge and then a few
+months later got the ZFold 7, which was
+an ultra thin foldable from Samsung. So,
+I'm very much looking forward to that
+crazy foldable iPhone when it comes and
+what it'll call it and what software
+it'll run and all that other stuff. But
+for now, this one, uh, yeah, it's an
+iPhone still. You know, every year we
+get the new iOS and all of its features
+and the clear theme and visual
+intelligence and all the iPhone stuff.
+And I review that separately, and you
+guys already know about all that stuff.
+And then we get the new iPhone's
+announcement. And there are almost zero
+new actual features here other than the
+selfie camera. So, but now it's like I'm
+I'm reviewing, you know, the box that
+iOS comes in, you know, and I think this
+package, as cool as it is, like this
+will speak to plenty of people. It's
+beautiful. It's super trim. It's super
+light in the hand, which is underrated.
+People are going to pick this phone up
+and immediately love it. But I think
+maybe the best thing about the iPhone
+Air is actually how much it seems to
+have freed Apple up to make the Pro
+phones even more pro, which are now
+thicker and have more battery and
+heavier and bigger cameras and all
+unibody metal. Now, that's the one I'll
+be daily driving. Stay tuned for the
+full review, of course, on the Pro
+phones next. But hey, if you are
+planning on picking up an iPhone Air or
+literally any other iPhone or any
+Android phone for that matter, then
+channel sponsor Ridge has you covered.
+And I know Apple made their MagSafe
+wireless charger, but trust me, you'd
+rather have Ridge's wireless charger
+because this power bank is 10,000 mAh.
+So, that's good for about three full
+charges. Plus, it can actually do other
+things. So, it can charge your Apple
+Watch. It has two built-in cables, USB
+type-C at 20 watts and lightning for any
+legacy Apple devices. And it even has a
+kickstand builtin to pop up your phone
+and watch videos while you're charging.
+It comes in matte black, matte olive, or
+basecamp orange to match your style. So
+whether you're upgrading to the iPhone
+Air, or literally grabbed any other new
+phone, that Ridge Power Bank has you
+covered. So check it out today at
+ridge.com/mkbhd
+for 10% off. Thanks for watching. Catch
+you guys in the next one. Peace.

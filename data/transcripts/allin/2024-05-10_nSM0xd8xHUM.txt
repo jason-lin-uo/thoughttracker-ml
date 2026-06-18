@@ -1,0 +1,2710 @@
+# nSM0xd8xHUM
+# https://www.youtube.com/watch?v=nSM0xd8xHUM
+
+I first met our next guest Sam mman
+almost 20 years ago when he was working
+on a local mobile app called looped we
+were both backed by seoa capital and in
+fact we were both in the first class of
+seoa Scouts he did investment in a
+little unknown fintech company called
+stripe I did Uber and in that tiny
+experiment did Uber I've never heard
+that before yeah I think so it's
+possible starting already you should
+write a book Jacob
+maybe let your winners
+[Music]
+Rainman
+David and in said we open source it to
+the fans and they've just gone crazy
+[Music]
+with that tiny experimental fund that
+Sam and I were part of a Scouts is
+sequoia's highest multiple returning
+fund couple of low digigit Millions
+turned into over 200 million I'm told
+and then he did yeah that's what I was
+told by ruoff yeah and he did a stint at
+Y combinator where he was president from
+2014 to 2019 in 2016 he co-founded open
+AI with the goal of ensuring that
+artificial general intelligence benefits
+all of humanity in 2019 he left YC to
+join openai full-time as CEO things got
+really interesting on November 30th of
+2022 that's the day open AI launched
+chat GPT in January 2023 Microsoft
+invested 10 billion in November 2023
+over a crazy 5ay span Sam was fired from
+open AI everybody was going to go work
+at Microsoft a bunch of hard emojis went
+viral on x/ Twitter and people started
+speculating that the team had reached
+artificial general intelligence the
+world was going to end and suddenly a
+couple days later he was back to being
+the CEO of open AI in February Sam was
+reportedly looking to raise $7 trillion
+do for an AI chip project this after was
+reported that Sam was looking to raise a
+billion from masi yoshian to create an
+iPhone killer with Johnny I the
+co-creator of the iPhone all of this
+while chat GPT has become better and
+better and a household name is having a
+massive impact on how we work and how
+work is getting done and it's reportedly
+the fastest product to hit 100 million
+users in history in just two months and
+check out opening eyes insane Revenue
+ramp up they reportedly hit two billion
+in ARR last year welcome to the all-in
+podcast Sam mman thank you thank you
+guys Sak you want to Le us off here okay
+sure I mean I I think the whole industry
+is waiting with baited breath for the
+release of GPT 5 I guess it's been
+reported that it's launching sometime
+this summer but that's a pretty big
+window can you narrow that down I guess
+where where are you in the release of
+GPT 5 uh we we take our time on releases
+of major new models and I don't think we
+uh I think it will be great uh when we
+do it and I think we'll be thoughtful
+about how we do it uh like we may
+release it in a different way than we've
+released previous BS models um also I
+don't even know if we'll call it gbt 5
+um what I what I will say is you know a
+lot of people have noticed how much
+better gbd4 has gotten um since we've
+released it and particularly over the
+last few months I
+think I think that's like a better hint
+of what the world looks like where it's
+not the like 1 two 3 4 5 six seven but
+you you just you use an AI system and
+the whole system just gets better and
+better fairly continous ly um I think
+that's like both a better technological
+Direction I think that's like easier for
+society to adapt to um
+but but I assume that's where we'll head
+does that mean that there's not going to
+be long training cycles and it's
+continuously retraining or training
+submodels Sam and maybe you could just
+speak to us about what might change
+architecturally going forward with
+respect to large
+models well I mean one one one thing
+that you could imagine is this just that
+you keep training right a model uh that
+that would seem like a reasonable thing
+to
+me do you think you talked about
+releasing it differently this time are
+you thinking maybe releasing it to the
+paid users first or you know a slower
+roll out to get the red teams tight
+since now there's so much at stake you
+have so many customers actually paying
+and you've got everybody watching
+everything you do you know is it is it
+moreful now yeah still only available to
+the paid user users but one of the
+things that we really want to do is
+figure out how to make more advanced
+technology available to free users too I
+think that's a super important part of
+our mission uh and and this idea that we
+build AI tools and make them super
+widely
+available free or you know not that
+expensive whatever it is so that people
+can use them to go kind of invent the
+future rather than the magic AGI and the
+sky inventing the future and showing it
+down upon us uh that seems like a much
+better path it seems like more spiring
+path I also think it's where things are
+actually heading so it makes me sad that
+we have not figured out how to make gp4
+level technology available to free users
+it's something we really want to do it's
+just very expensive I take it's very
+expensive yeah chamal your thoughts I
+think maybe the the two big vectors Sam
+that people always talk about is that
+underlying cost and sort of the latency
+that's kind of rate limited a killer app
+and
+then I think the second is sort of the
+long-term ability for people to build in
+an open source World versus a closed
+Source world and I think the crazy thing
+about this space is that the open source
+Community is rabid so one example that I
+think is incredible is you know we had
+these guys do a pretty crazy demo for
+Devon remember like even like five or
+six weeks ago that looked incredible and
+then some kid just published it under an
+open MIT license like open Devon and
+it's incredibly
+good and almost as good as that other
+thing that was closed source so maybe we
+can just start with that which is tell
+me about the business decision to keep
+these models close source and where do
+you see things going in the next couple
+years so on the first part of your
+question um speed and cost those are
+hugely important to us and I don't want
+to like give a timeline on when we can
+bring them down a lot cuz research is
+hard but I am confident we'll be able to
+um we want to like cut the latency super
+dramatically we want to cut the cost
+really really dramatically um and I
+believe that will happen we're still so
+early in the development of the science
+and understanding how this works plus we
+have all the engineering Tailwinds so
+I I don't know like when we get to
+intelligence too cheap to meter and so
+fast that it feels instantaneous to us
+and everything else but I do believe we
+can get there for you know a pretty high
+level of intelligence and um I it's
+important to us it's clearly important
+to users and it'll unlock a lot of stuff
+on the sort of Open Source close Source
+thing I think there's great roles for
+both I think
+um you know we've open sourced some
+stuff we'll open source more stuff in
+the future but really like our mission
+is to build towards AGI and to figure
+out how to broadly distribute its
+benefits we have a strategy for that
+seems to be resonating with a lot of
+people it obviously isn't for everyone
+and there's like a big ecosystem and
+there will also be open source models
+and people who build that way um one
+area that I'm particularly interested
+personally in open source for is I want
+an open source model that is as good as
+it can be that runs on my phone and that
+I think is going to you know the world
+doesn't quite have the technology for
+for a good version of that yet but that
+seems like a really important thing to
+go do at some point will you do will you
+do that will you release I don't know if
+we will or someone will but someone
+llama 3 llama 3 running on a phone well
+I guess maybe there's like a seven
+billion version yeah yeah uh I don't
+know if that's if that will fit on a
+phone or not but that should be fitable
+on a phone but I don't I I'm not I'm not
+sure if that one is like I haven't
+played with it I don't know if it's like
+good enough to kind of do the thing I'm
+thinking about here so when when llama 3
+got released I think the big takeaway
+for a lot of people was oh wow they've
+like caught up to GPT 4 I don't think
+it's equal in all Dimensions but it's
+like pretty pretty close or pretty in
+the ballpark I guess the question is you
+know you guys released four a while ago
+you're working on five or you know more
+upgrades to four I mean I think to
+Chamas point about Devin how do you stay
+ahead of Open Source I mean it's just
+that's like a very hard thing to do in
+general right I mean how do you think
+about
+that what we're trying to do is not
+make the sort of
+smartest set of Weights that we can can
+but what we're trying to make is like
+this useful intelligence layer for
+people to use and a model is part of
+that I think we will stay pretty far
+ahead of I hope we'll stay pretty far
+ahead of the rest of the world on that
+um but there's a lot of other work
+around the whole system that's not just
+that you know the the model Waits and
+we'll have to build up enduring value
+the oldfashioned way like any other
+business does will have to figure out a
+great product and reasons to stick with
+it and uh you know delivered at a great
+price when you founded the organization
+you the stated goal or part of what you
+discussed was hey this is too important
+for any one company to own it so
+therefore it needs to be open then there
+was the switch hey it's too dangerous
+for anybody to be able to see it and we
+need to lock this down because you you
+had some fear about that I think is that
+accurate because the cynical side is
+like well this is a capitalistic move
+and then the I think
+you know I'm I'm curious what the
+decision was here in terms of going from
+open we the world needs to see this it's
+really important to closed only we can
+see it well how did you come to that
+that conclusion what were the disc part
+of the reason that we released chat GPT
+was we want the world to see this and
+we've been trying to tell people that AI
+is really important and if you go back
+to like uh October of 2022 not that many
+people thought AI was going to be that
+important or that it was really
+happening um and a huge part of what we
+we try to do
+is put the technology in the hands of
+people uh now again there's different
+ways to do that and I think there really
+is an important role to just say like
+here's the weights have at it but the
+fact that we have so many people using a
+free version of chat GPT that we don't
+you know we don't run ads on we don't
+try to like make money on we just put
+out there because we want people to have
+these tools um I think it's done a lot
+to provide a lot of value and you know
+teach people how to fish but also to get
+the world um really thoughtful about
+what's happening here now we still don't
+have all the answers and uh we're
+fumbling our way through this like
+everybody else and I assume we'll change
+strategy many more times as we learn new
+things you know when we started open AI
+we had really no idea about how things
+were going to go um that we'd make a
+language model that we'd ever make a
+product we started off just I remember
+very clearly that first day where we're
+like well now we're all here that was
+you know it was difficult to get this
+set up but what happens now maybe we
+should write some papers maybe we should
+stand around a whiteboard and we've just
+been trying to like put one foot in
+front of the other and figure out what's
+next and what's next and what's next
+and I think we'll keep doing that can I
+just replay something and just make sure
+I heard it right I think what you were
+saying on the open source close Source
+thing is if I heard it right all these
+models independent of the business
+decision you make are going to become
+asymptotically accurate towards some
+amount of accuracy like not all but like
+let's just say there's four or five that
+are
+well capitalized enough you guys meta
+Google Microsoft whomever right so let's
+just say four or five maybe one
+startup and on the open web and then
+quickly the accuracy or the value of
+these models will probably shift to
+these proprietary sources of training
+data that you could get that others
+can't or others can get that you can't
+is that how you see this thing evolving
+where the open web gets everybody to a
+certain threshold and then it's just an
+arms race for data beyond that doesn't
+so I definitely don't think it'll be an
+arms race for data because when the
+models get smart enough at some point it
+shouldn't be about more data at least
+not for training it may matter data to
+make it useful um look the the one thing
+that I have learned most throughout all
+this is that uh it's hard to make
+confidence statements a couple of years
+in the future about where this is all
+going to go and so I don't want to try
+now I I will say that I I expect lots of
+very capable models in the world and you
+know like it feels to me like we just
+like stumbled on a new fact of nature or
+science or whatever you want to call it
+which is like we can create you can like
+I mean I don't believe this literally
+but it's like a spiritual point you know
+intelligence is just this emergent
+property of matter and that's like a
+that's like a rule of physics or
+something um so people are going to
+figure that out but there will be all
+these different ways to design the
+systems people will make different Cho
+choices figure out new ideas and I'm
+sure like you
+know like any other industry I would
+expect there to be multiple approaches
+and different people like different ones
+you know some people like iPhones some
+people like an Android phone I think
+there'll be some effect like that let's
+go back to that first section of just
+the the cost and the
+speed all of you guys are sort of a
+little bit rate limited on literally
+nvidia's throughput right and I think
+that you and most everybody else have
+sort of effectively announced how much
+capacity you can get just because it's
+as much as they can spin out what needs
+to happen at the substrate so that you
+can actually compute cheaper compute
+faster get access to more energy how are
+you helping to frame out the industry
+solving those problems well we we'll
+make huge algorithmic gains for sure and
+I don't want to Discount that I you know
+I very interested in chips and energy
+but if we can make our if we can make a
+same quality model twice as efficient
+that's like we had twice as much compute
+right and I think there's a gigantic
+amount of work to be done there uh and I
+hope we'll start really seeing those
+results um other than that the whole
+supply chain is like very complicated
+you know there's there's logic Fab
+capacity there's how much hbm the world
+can make there's how quickly you can
+like get permits and pour the concrete
+make the data centers and then have
+people in there wiring them all up
+there's finding the energy which is a
+huge bottleneck but
+uh I think when there's this much value
+to people uh the world will do its thing
+we'll try to help it happen faster um
+and there's probably like I don't know
+how to give it a number but there's like
+some percentage chance where there is as
+you were saying like a huge substrate
+breakthrough and we have like a
+massively more efficient way to do
+Computing but I don't I don't like Bank
+on that or spend too much time thinking
+about it what about the device side and
+sort of you mentioned sort of the models
+that can fit on a phone so obviously
+whether that's an llm or some slm or
+something I'm sure you're thinking about
+that but then does the device itself
+change I mean is it does it need to be
+as expensive as an iPhone
+uh I'm super interested in this uh I I
+love like great new form factors of
+computing and it feels like with every
+major technological Advance a new thing
+becomes possible
+uh phones are unbelievably good so I
+think the threshold is like very high
+here like what like I think I think like
+I personally think an iPhone is like the
+greatest piece of technology Humanity
+has ever made it's really a wonderful
+product what comes after it like I don't
+know I mean I was gonna that was what I
+was saying it's so good that to get
+Beyond it I think the bar is like quite
+High well you've been you've been
+working with Johnny IV on on something
+right we've been discussing ideas but uh
+I don't like if I knew is it that that
+it has to be more complicated or
+actually just much much cheaper and
+simpler well every Mo almost everyone's
+willing to pay for a phone anyway so if
+you could like make a way cheaper device
+I think the barrier to carry a second
+thing or use a second thing is pretty
+high so I don't think C given that we're
+all willing to pay for phones or most of
+us are I don't think cheaper is the
+answer different is the answer then
+would there be like a specialized chip
+that would run the phone that was really
+good at powering a you know a phone size
+AI model probably but the phone
+manufacturers are going to do that for
+sure that doesn't that doesn't
+necessitate a new device I think you'd
+have to like find some really different
+interaction Paradigm that the technology
+enables uh and if I knew what it was I
+would be excited to be working on it
+right now but well you have you have
+voice working right now in the app in
+fact I set my action button on my phone
+to go directly to chat gpt's voice app
+and I use it with my kids and they love
+it talking to it's got latency issues
+but it's really we'll get we'll we'll
+get that we'll get that better and I
+think voice is a hint to whatever the
+next thing is like if you can get voice
+interaction to be really good it
+feels I think that feels like a
+different way to use a computer but
+again with that by the way like what why
+is it not responsive and you know it
+feels like a CB you know like over over
+it's really annoying to use you know uh
+in that way but it's also brilliant when
+it gives you the right answer we are
+working on that uh it's it's so clunky
+right now it's slow it's like kind of
+doesn't feel very smooth or authentic or
+organic like we'll get all that to be
+much
+better what about computer vision I mean
+they have glasses or maybe you could
+wear a pendant I mean you take the
+combination
+of visual or video data combine it with
+voice and now ai knows everything that's
+happening around you super powerful to
+be able to like the multimodality of
+saying like hey cha gbt what am I
+looking at or like what kind of plant is
+this I can't quite tell
+um that's obvious that that's like a
+that's another I think like hint but
+whether people want to wear glasses or
+like hold up something when they want
+that like I there's a bunch of just like
+like the the sort of like societal
+interpersonal issues here are all very
+complicated about wearing a computer on
+your face um we we saw that with Google
+class people got punched in the face in
+the mission started a lot of I forgot
+about that I forgot about that so so I I
+think it's
+like what are the apps that could be
+unlocked if AI was sort of ubiquitous on
+people's
+phones do you have a sense of that or
+what would you want to see built
+uh I I think what I want is just this
+always on like super low friction
+thing where I
+can either by voice or by text or
+ideally like some other it just kind of
+knows what I want have this like
+constant thing helping me throughout my
+day that's got like as much context on
+as possible it's like the world's
+greatest assistant um and it's just this
+like thing working to make me better and
+better uh there's there there's like a I
+know when you hear people like talk
+about the AI future they're imag they
+imagine there's sort of
+two different approaches and don't sound
+that different but I think they're like
+very different for how we'll design the
+system in practice there's the I want an
+extension of myself um I want like a
+ghost or an alter ego or this thing that
+really like is me is acting on my behalf
+is um responding to emails not even
+telling me about it is is is sort of
+like it it becomes more me and is me and
+then there's this other thing which is
+like I want a great senior employee
+it may get to know me very well I may
+delegate it you know you can like have
+access to my email and I'll tell you the
+constraints but but I think of it as
+this like separate entity and I
+personally like the separate entity
+approach better and think that's where
+we're going to head um and so in that
+sense the thing is not you but it's it's
+like a always available always great
+super capable assistant executive agent
+in a way like gets out there working on
+your behalf and understands what you
+want and anticipates what you want is
+what I'm reading into what you're saying
+I think there'd be agent like Behavior
+but there's like a difference
+between a senior employee and an agent
+yeah and like I want it you know I think
+of like my I think like of it like one
+of the things that I like about a senior
+employee is
+they'll they'll push back on me they
+will sometimes not do something I ask or
+they sometimes will say like I can do
+that thing if you want but if I do it
+here's what I think would happen and
+then this and then that and are you
+really
+sure I definitely want that kind of vibe
+which not not just like this thing that
+I asking it blindly does it can reason
+yeah yeah and push back it can reason it
+has like the kind of relationship with
+me that I would expect out of a really
+competent person that I worked with
+which is different from like a sycophant
+yeah the thing in that world where if
+you had this like Jarvis like thing that
+can reason what do you think it does to
+products that you use today where the
+interface is very valuable so for
+example if you look at an instacart or
+if you look at an Uber or if you look at
+a door Dash these are not services that
+are meant to be pipes that are just
+providing a set of apis to a Smart Set
+of agents that ubiquitously work on
+behalf of 8 billion
+people what do you think has to change
+in how we think about how apps need to
+work of how this entire infrastructure
+of experiences need to work in a world
+where you're agentically interfacing to
+the world you I'm actually very
+interested in designing a world that is
+equally usable by humans and by AIS so I
+I
+I I I like the interpretability of that
+I like the smoothness of the handoffs I
+like the ability that we can provide
+feedback or whatever so you know door
+Dash could just expose some a pi to my
+future AI assistant and they could go
+put the order and whatever or I could
+say like I could be holding my phone and
+I could say okay AI assistant like you
+put in this order on door Dash please
+and I could like watch the app open and
+see the thing clicking around and I
+could say hey no not this or like um
+there there's something about designing
+a world that is
+usable equally well by humans and AIS
+that I think is a interesting concept
+excited humanoid robots than sort of
+robots of like very other shapes the
+world is very much designed for humans
+and I think we should absolutely keep it
+that way and a shared interface is nice
+so you see voice chat that modality kind
+of gets rid of apps you just ask it for
+sushi it knows Sushi you like before it
+knows what you don't like and does its
+best shot at doing it I it's hard for me
+to imagine that we just go to a world
+totally where you say like hey Chachi BT
+order me sushi and it says okay do you
+want it from this restaurant what kind
+what time whatever I think user I think
+visual user interfaces are super good
+for a lot of things um and it's hard of
+me to imagine like a world
+where youd never look at a screen and
+just use voice mode only but I I can't
+imagine that for a lot of things yeah I
+mean Apple tried with Siri like you
+supposedly you can order an Uber
+automatically with Siri I don't think
+anybody's ever done it because it's why
+would you take the risk of not the
+quality to your point the quality is not
+good but when the quality is good enough
+you're you'll actually prefer it just
+because it's just lighter weight you
+don't have to take your phone out you
+don't have to search for your app and
+press it and oh it automatically logged
+you out oh hold on log back in oh TFA
+it's a whole pain in the ass you know
+it's like setting a timer with Siri I do
+every time because it works really well
+and it's great and I don't need more
+information but ordering an Uber like I
+want to see the prices for a few
+different options I want to see how far
+away it is I want to see like maybe even
+where they are on the map because I
+might walk somewhere I get a lot more
+information by I think in less time by
+looking at that order the Uber screen
+than I would if I had to do that all
+through the audio Channel I like your
+idea of watching it happen that's kind
+of cool I think there will just be like
+yeah
+different there are different interfaces
+we use for different tasks and I think
+that'll keep going of all the developers
+that are building apps and experiences
+on open AI are there few that stand out
+for you where you're like okay this is
+directionally going in a super
+interesting area even if it's like a toy
+app but are there things that you guys
+point to and say this is really
+important um I met with a new company
+this morning or and bar even a company
+it's like two people that are going to
+work on a summer project trying to
+actually finally make the AI tutor like
+and I've always been interested in this
+space a lot of people have done great
+stuff on our platform but if if someone
+can deliver
+like the way that you actually
+like H they used a phrase I love which
+is this is going to be like a monor
+level reinvention for how people how
+people learn things yeah um but if you
+can like find this new way to like let
+people explore and learn and new ways on
+their own I'm personally super excited
+about that um a lot of the coding
+related stuff you mentioned Devon
+earlier I think that's like a super cool
+vision of the future the thing that I am
+Health Healthcare I I believe
+should be pretty transformed by this but
+the thing I'm personally most excited
+about is the sort of doing faster and
+better scientific discovery gp4 clearly
+not there in a big way although maybe it
+accelerates things a little bit by
+making scientists more
+productive but Alpha 43 yeah that's like
+but Sam that will be a Triumph those are
+not like these these models are train
+Tred and built differently than the
+language models I mean to some obviously
+there's a lot that's similar but there's
+a lot um there's kind of a groundup
+architecture to a lot of these models
+that are being applied to these specific
+problem sets these specific applications
+like chemistry interaction modeling for
+example does you you'll need some of
+that for sure but the the thing that I
+think we're missing across the board for
+many of these things we've been talking
+about is models that can do reason
+and once you have reasoning you can
+connect it to chemistry simulators or
+guess yeah that's the important question
+I wanted to kind of talk about today was
+this idea
+of networks of models people talk a lot
+about agents as if there's kind of this
+linear set of call functions that happen
+but one of the things that
+arises in biology is networks of systems
+that have cross interactions that the
+aggregation of the system the
+aggregation of the network produces an
+output rather than one thing calling
+another that thing calling another do we
+see like an emergence in this
+architecture of either specialized
+models or network models that work
+together to address bigger problem sets
+use reasoning there's computational
+models that do things like chemistry or
+arithmetic and there's other models that
+do rather than one model to rule them
+all that's purely
+generalized I don't know um
+I don't know how much
+reasoning is going to turn out to be a
+super generalizable thing I suspect it
+will but that's more just like an
+intuition and a hope and it would be
+nice if it worked out that way I I don't
+know if that's
+like but let's walk through the the
+protein modeling
+example there's a bunch of training data
+images of proteins and then sequence
+data and they build a model predictive
+model and they have a set of processes
+and steps for doing that do you envision
+that there's this artificial general
+intelligence or this great reasoning
+model that then figures out how to build
+that submodel that figures out how to
+solve that problem by acquiring the
+necessary data and then resolving there
+so many ways where that could go like
+maybe it is it trains a literal model
+for it or maybe it just like knows the
+one big model what it can like go pick
+what other training data it needs and
+ask a question and then update on that
+um I guess the real question is are all
+these startups going to die because so
+many startups are working in that
+modality which is go get special data
+and then train a new model on that
+special data from the ground up and then
+it only does that one sort of thing and
+it works really well at that one thing
+and it works better than anything else
+at that one thing you know there there's
+like a version of this I think you can
+like already see when you were when you
+were talking about like biology and
+these complicated networks of systems
+the reason I was smiling I I got super
+sick recently and I'm mostly better now
+but it was just like body like got beat
+up like one system at a time F like you
+can really tell like okay it's this
+cating thing and uh and that reminded me
+of you like talking about the like
+biology is just these like you have no
+idea how much these systems interact
+with each other until things start going
+wrong and that was sort of like
+interesting to see but I was using
+um I was like using chat GPT uh to try
+to like figure out like what was
+happening whatever and and and would say
+well I'm you know unsure of this one
+thing and then I just like posted a
+paper on it without even reading the
+paper um like in the context and it says
+oh that was the thing I was unsure of
+like now I think this instead so there's
+like a that was like a small version of
+what you're talking about where you can
+like can say this I don't I don't know
+this thing you can put more information
+you don't retrain the model you're just
+adding it to the context here and now
+you're getting a so these models that
+are predicting protein structure like
+let's say right this is the whole basis
+and now now other molecules at Alpha
+3 can they can yeah I mean is it
+basically a world where the best
+generalized model goes in and gets that
+training data and then figures out on
+its own and maybe you could maybe you
+could use an example for us can you tell
+us about Sora your video model that
+generates amazing moving images moving
+video and and what's different about the
+architecture there whatever you're
+willing to share on how how that is
+different
+yeah so my on the general thing first
+my you clearly will need
+specialized simulators connectors pieces
+of data whatever but my
+intuition and again I don't have this
+like backed up with science my intuition
+would be if we can figure out the core
+of generalized reasoning connecting that
+to new problem domains in the same way
+that humans are generalized reason
+ERS would I think be be doable it's like
+a fast unlock faster unlock than I think
+I I think so
+um but yeah you Sora like does not start
+with a language model um it's that
+that's a model that is like customized
+to do video uh and and so like we're
+clearly not at that world yet right so
+you guys so just as an example for you
+guys to build a good
+video model you built it from scratch
+using I'm assuming some different
+architecture and different data but in
+the future the generalized reasoning
+system the the AGI whatever system
+theoretically could render that by
+figuring out how to do it yeah I mean
+one example of this is like okay you
+know as far as I know all the best text
+models in the world are still a lot of
+regressive models and the best image and
+video models are diffusion models and
+that's like sort strange in some sense
+yeah yeah so there's a big debate about
+uh training data you guys have been I
+think the most thoughtful of any company
+you've got licensing deals now ft Etc
+and we got to gu be gentle here because
+you're involved in a New York Times
+lawsuit you weren't able to settle I
+guess an arrangement with them for
+training data how do you think about
+fairness in fair
+use we've had big debates here on the
+pod
+obviously your actions are you know
+speak volumes that you're trying to be
+fair by doing licensing deals so what
+what's your personal position on the
+rights of artists who create beautiful
+music lyrics books and you taking that
+and then making a derivative product out
+of it and and then monetizing it and and
+what's fair here and how do we get to a
+world where you know artists can make
+content in the world and then decide
+what they want other people to do with
+it yeah and and I'm just curious your
+personal belief because I know you to be
+a thoughtful person on this and I know a
+lot of other people in our industry are
+not very thoughtful about how they think
+about content
+creators so I think it's very different
+for different kinds of I mean look on
+unfair use I think we have a a very
+reasonable position under the current
+law but I think AI is so different that
+for things like art we'll need to think
+about them in different ways but I would
+say if you go read a bunch of math on
+the internet and learn how to do math
+that I think seems unobjectionable to
+most people and then there's like you
+know another set of people who might
+have a different opinion well what if
+you
+like actually let me not get into that
+just in the interest of not making this
+answer too long so I think there's like
+one category people are like okay
+there's like generalized human knowledge
+you can kind of like go if you learn
+that like that's
+that that's like open domain or
+something if you kind of go learn about
+the Pythagorean theorem um that's one
+end of the spectrum and then I think the
+other extreme end of the spectrum is um
+is Art and maybe even like more than
+more specifically I would say it's like
+doing it's a system generating art in
+the style or the likeness of another
+artist um would be kind of the furthest
+end of
+that and then there's many many cases on
+the Spectrum in between
+uh I think the conversation has been
+historically very caught up on training
+data but it will increasingly become
+more about what happens at inference
+time as training data
+becomes less valuable and the what the
+system does accessing you know
+information in in context in real time
+or uh you know know taking like like
+something like that what happens at
+inference time will become more debated
+and and how the what the new economic
+model is there so if you say like
+uh if you say like create me a song in
+this in the style of Taylor
+Swift even if the model were never
+trained on any Taylor Swift songs at all
+you can still have a problem which is it
+may have read about Taylor Swift it may
+know about her themes Taylor Swift means
+something and then and then the question
+is like that model even if it were never
+trained on any Taylor Swift song
+whatsoever be allowed to do that and if
+so um how should Taylor get paid right
+so I think there's an optin opt out in
+that case first of all and then there's
+an economic model um staying on the
+music example there is something
+interesting to look at from the
+historical perspective here which is uh
+sampling and how the economics around
+that work this is not quite the same
+thing but it's like an interesting place
+to start looking Sam let me just
+challenge that what's the difference in
+the example you're giving of the model
+learning about things like song
+structure Tempo Melody Harmony
+relationships all the discovering all
+the underlying structure that makes
+music successful and then building new
+music using training data and what a
+human does that listens to lots of music
+learns about and and their brain is
+processing and building all those same
+sort of predictive models or those same
+sort of uh discoveries understandings
+what's the difference here and why why
+are you making the case that perhaps
+artists should be uniquely paid this is
+not a sampling situation you're not the
+AI is not outputting and it's not
+storing in the model the actual original
+song it's learning structure right I
+wasn't trying to make that that point
+because I agree like in the same way
+that humans are inspired by other humans
+I was saying if you if you say generate
+me a song in the style of Taylor Swift I
+see right okay where the prompt
+leverages some artist I I think
+personally that's a different case would
+you be comfortable asking or would you
+be comfortable letting the model train
+itself well a music model being trained
+on the whole Corpus of music that humans
+have created without royalties being
+paid to the artists that um that music
+is being fed in and then you're not
+allowed to ask you know artists specific
+prompts you could just say hey pay me a
+play me a a really cool pop song that's
+fairly modern about heartbreak you know
+with a female voice you know we have
+currently made the decision not to do
+music and partly because exactly these
+questions of where you draw the lines
+and you know what like
+even I was meeting with several
+musicians I really admire recently I was
+just trying to like talk about some of
+these edge cases but even the world in
+which if
+we went and let's say we paid 10,000
+musicians to create a bunch of music
+just to make a great training set where
+the music music model could learn
+everything about strong s structure um
+and what makes a good catchy beat and
+everything else um and only trained on
+that let's say we could still make a
+great music model which maybe maybe we
+could um you know I was kind of like
+posing that as a thought experiment to
+musicians and they're like well I can't
+object to that on any principal basis at
+that point um and yet there's still
+something I don't like about it now
+that's not a reason not to do it um
+necessarily but it is
+did you see that ad that Apple put out
+maybe it was yesterday or something of
+like squishing all of human creativity
+down into one really thin iPad what was
+your take on
+it uh people got really emotional about
+it yeah it's stronger reaction than you
+would think yeah there's something
+about I'm obviously hugely positive on
+AI but there is something that I think
+is beautiful about human creativity and
+human artistic expression and and you
+know for an AI that just does better
+science like great bring that on but an
+AI that is going to do this like deeply
+beautiful human creative expression I
+think we should like figure out it's
+going to happen it's going to be a tool
+that will lead us to Greater creative
+Heights but I think we should figure out
+how to do it in a way that like
+preserves the spirit of what we all care
+about here and I I think your actions
+speak loudly we were trying to do Star
+Wars characters in dolly
+and if you ask for Darth Vader it says
+hey we can't do that so you've I guess
+red teed or whatever you call it
+internally yeah you're not allowing
+people to use other people's IP so
+you've taken that decision now if you
+asked it to make a Jedi Bulldog or a
+Sith Lord Bulldog which I did it made my
+Bulldogs a Sith bulldogs so there's an
+interesting question about your spectrum
+right yeah you know we put out this
+thing yesterday called the spec um where
+we're trying to say here are here's
+here's how our model is supposed to
+behave and it's very hard it's a long
+document it's very hard to like specify
+exactly in each case where the limit
+should be and I view this as like a
+discussion that's going to need a lot
+more input um but but these sorts of
+questions
+about okay maybe it shouldn't generate
+Darth Vader but the idea of a Sith Lord
+or a Sith style thing or Jedi at this
+point is like part of the culture like
+like these are these are all hard
+decisions yeah and and I think you're
+right the music industry is going to
+consider this opportunity to make tlor
+Swift songs their opportunity it's part
+of the four-part fair use test is you
+know these who gets to capitalize on new
+Innovations for existing art and and
+Disney has an argument that hey you know
+if if you're GNA make Sora versions of a
+aoka or whatever Obi-Wan Kenobi that's
+Disney's opportunity and that's a great
+partnership for
+you you know to pursue so we're I think
+this section I would label as AI in the
+law so let me ask maybe a higher level
+question what does it mean when people
+say regulate AI totally Sam what does it
+what does that even mean and comment on
+California's new proposed regulations as
+well a few if you're up for it uh I'm
+concerned I mean there's so many
+proposed regulations but most of the
+ones I've seen on the California state
+things I'm concerned about I also have a
+general fear of the states all doing
+this them themselves um when people say
+regulate AI I don't think they mean one
+thing I think there's like some people
+are like B the whole thing some people
+like don't allow it to be open source
+required to be open source um the thing
+that I am personally most interested in
+is I think there will
+come look I may be wrong about this I
+will acknowledge that this is a
+forward-looking statement and those are
+always dangerous to make but I think
+there will come a time in the not super
+distant future like you know we're not
+talking like decades and decades from
+now where AI say the frontier AI systems
+are capable of causing
+significant Global harm and for those
+kinds of systems in the same way we have
+like Global oversight of nuclear weapons
+or synthetic bio or things that can
+really like have a very negative impact
+Way Beyond the realm of one country uh I
+would like to see some sort of
+international agency that is looking at
+the most powerful systems and ensuring
+like reasonable safety testing you know
+these things things are not going to
+escape and recursively self-improve or
+whatever the
+criticism of this is that you're you
+have the resources to Cozy up to Lobby
+to be involved and you've been very
+involved with politicians and then
+startups which are also passionate about
+and invest in um are not going to have
+the ability to Resource uh and deal with
+this and that this regulatory capture as
+per our friend you know Bill Gurley did
+a great talk last year about it so maybe
+you could address that headon do do you
+if the line were we're only going to
+look at models that are trained on
+computers that cost more than 10 billion
+or more than 100 billion or whatever
+dollars I'd be fine with that there'd be
+some line that'd be fine and uh I don't
+think that puts any regulatory burden on
+startups so if you have like the the
+nuclear raw material to make a nuclear
+bomb like there's a small subset set of
+people who have that therefore you use
+the analogy of like a a nuclear
+inspectors kind of situation yeah I
+think that that's interesting sax you
+have a question well go ahead you had to
+follow can I say one more thing about
+that of course I'd be super nervous
+about regulatory overreach here I think
+we can get this wrong by doing way too
+much I or even a little too much I think
+we can get this wrong by doing not
+enough
+but but I do think part of and
+I and now I mean you know we have seen
+regulatory overstepping or capture just
+get super bad in other areas um and you
+know like also maybe nothing will happen
+but but I think it is part of our duty
+and our mission to like talk about what
+we believe is likely to happen and what
+it takes to get that right the challenge
+Sam is that we have statute that is
+meant to protect people protects Society
+at large what we're creating however a
+statute that gives the government rights
+to go in and audit code to audit
+business um trade Secrets uh we've never
+seen that to this degree before
+basically the California legislation
+that's proposed and some of the federal
+legislation that's been proposed
+basically requires the fed the
+government to audit a model to audit
+software to audit and review the
+parameters and the weightings of the
+model and then you need their check mark
+in order to deploy it for commercial or
+public use and for me it just feels like
+we're trying to
+reigning the the the government agencies
+for fear and and because folks have a
+hard time understanding this and are
+scared about the implications of it they
+want to control it and because they want
+and the only way to control it is to say
+give me a right to audit before you can
+release it asess these people cluel I
+mean the way that the the stuff is
+written you read it you're like G to
+pull your hair out because as you know
+better than anyone in 12 months none of
+this stuff's going to make sense anyway
+totally right look the reason I have
+pushed for an agency based approach for
+for for kind of like the big picture
+stuff and not a like write it in laws I
+don't in 12 months it will all be
+written wrong and I don't think even if
+these people were like True World
+experts I don't think they could get it
+right looking at 12 or 24 months um and
+I don't these policies which is like
+we're going to look at you know we're
+going to audit all of your source code
+and like look at all of your weights one
+by one like yeah I think there's a lot
+of crazy proposals out there um by the
+way especially if the models are always
+retrained all the time if they become
+more Dynamic again this is why I think
+it's yeah but but like when before an
+airplane gets certified there's like a
+set of safety tests we put the airplane
+through it um and totally it's different
+than reading all of your code that's
+reviewing the output of the model not
+reviewing the insides of the model and
+and so what I was goingon to say is I
+that is the kind of thing that I think
+as safety testing makes sense how are we
+going to get that to happen Sam and I'm
+not just speaking for open AI I speak
+for the industry for for Humanity
+because I am concerned that we draw
+ourselves into almost like a dark ages
+type of era by restricting the growth of
+these incredible technologies that can
+prosper human that that Humanity can
+prosper from so significantly how do we
+change the the sentiment and get that to
+happen because this is all moving so
+quickly at the government levels and
+folks seem to be getting it wrong and
+I'm I'm just to build on that Sam the
+architectural decision for example that
+llama took is pretty interesting in that
+it's like we're going to let llama grow
+and be as unfettered as possible and we
+have this other kind of thing that we
+call Llama guard that's meant to be
+these protective guard rails is that how
+you see the problem being solved
+correctly or do you see at the current
+at the current strength of models
+definitely some things are going to go
+wrong and I don't want to like make
+light of those or not take those
+seriously but I'm not like I don't have
+any like catastrophic risk worries with
+a gp4 level model um and I think there's
+many safe ways to choose to deploy this
+uh may maybe we'd find more common
+ground if we said that uh and I like you
+know the specific example of models that
+are capable that are technically capable
+not even if they're not going to be used
+this way of recursive
+self-improvement um or
+of you know autonomously
+designing and deploying a bioweapon or
+something like that or a new model that
+was the recursive self-improvement Point
+um you know we should have safety
+testing on the outputs at an
+international level for models that you
+know have a reasonable chance of of
+posing a threat there uh I don't think
+like GPT 4 of course does
+not POS any sort of well I want to say
+any sort cuz we don't yeah I don't think
+the gp4 poses a material threat on those
+kinds of things and I think there's many
+safe ways to release a model like this
+um but you know when like significant
+loss of human life is a serious
+possibility like airplanes
+or any number of other examples where I
+think we're happy to have some sort of
+testing framework like I don't think
+about an airplane when I get on it I
+just assume it's going to be safe right
+right there's a lot of hand ringing
+right now Sam about
+jobs and you had a lot of I think you
+did like some sort of a test when you
+were at YC about Ubi and you've been
+result in that come out very soon I just
+it was a fiveyear study that wrapped up
+um or started five years ago well there
+was like a beta study first and then it
+was like a long one that ran but uhk can
+you explain yeah why did you start why'
+you start it maybe just explain Ubi and
+why you started it um so we started
+thinking about this in 2016 uh kind of
+about the same time started taking AI
+really seriously and the theory was that
+the magnitude of the change that may
+come to society
+and jobs in the economy and and sort of
+in some deeper sense than that like what
+the social contract looks like
+um meant that we should have many
+studies to study many ideas about new
+new ways to
+arrange that um I also think that you
+know I'm not like a super fan of how the
+government has handled most policies
+designed to help poor people and I kind
+of believe that if you could just give
+people money they would make good
+decisions and the market would do its
+thing and you know I'm very much in
+favor of lifting up the floor and
+reducing eliminating poverty um but I'm
+interested in better ways to do that
+than what we have tried for the existing
+social safety net and and kind of the
+way things have been handled and I think
+people money is not going to go solve
+all problems it's certainly not going to
+make people happy but it
+might it might solve some problems and
+it might give people a better Horizon
+with which to help themselves and I'm
+interested in that I I think
+that now that we see some of the ways so
+2016 was a very long time ago uh you
+know now that we see some of the ways
+that AI is developing I wonder if
+there's better things to do than the
+[Music]
+traditional um conceptualization of Ubi
+uh like I
+wonder I wonder if the future looks
+something like more like Universal basic
+compute than Universal basic income and
+everybody gets like a slice of gpt7
+compute and they can use it they can
+resell it they can donate it to somebody
+to use for cancer research but but what
+you get is not dollars but this like
+productivity slice yeah you own like
+part of the productivity right I would
+like to shift to the gossip part of this
+gossip what gossip let's go back let's
+go back to November what the flying
+happened um you know I I if you have
+specific questions I'm happy to maybe
+I'll answer maybe you said you were
+going to talk about it at some point so
+here's the point what the hell happened
+you were fired you came back it was a
+palace Intrigue did somebody stab you in
+the back did you find AGI what's going
+on tell us this is a safe face
+Sam um I was fired I
+was I talked about coming back I kind of
+was a little bit unsure at the moment
+about what I wanted to do because I was
+very upset um and I realized that I
+really loved open Ai and the people and
+that I would come back and I kind of I
+knew it was going to be hard it was even
+harder than I thought but I I kind of
+was like all right fine um I agreed to
+come back um the board like took a while
+to figure things out and then uh you
+know we were kind of like trying to keep
+the team together and keep doing things
+for our customers and uh you know sort
+of started making other plans then the
+board decided to hire a different
+interim CEO um and then
+everybody there many people oh my gosh
+what was what was that guy's name he was
+there for like a scaramucci right like
+uh em great and I I have nothing but
+good
+scari um and then where were you when
+they um when you found the news that
+you'd been fired like taking I was in a
+hotel room in Vegas for F1 weekend I
+think text and they're like fire pick up
+said I think that's happened to you
+before J I'm trying to think if I ever
+got fired I don't think I've gotten
+fired um yeah I got no it's just a weird
+thing like it's a text from who actually
+no I got a text the night before and
+then I got in a phone call with the
+uh and then that was that and then I
+kind of like I mean then everything went
+crazy I was like uh it was
+like I mean I have my phone was like
+unusable it was just a Non-Stop
+vibrating thing of like text messages
+call basically you got fired by tweet
+that happened a few times during the
+Trump Administration a few uh C TW
+before tweeting was nice of them um and
+then like you know I kind of did like a
+few hours of just this like absolute
+State um in the hotel room trying to
+like I was just confused beyond belief
+trying to figure out what to do and uh
+so weird and then
+like flew home it maybe like got on a
+plane like I don't know 3 p.m. or
+something like that um still just like
+you know crazy non-stop phone blowing up
+uh met up with some people in person by
+that evening I was like okay you know
+I'll just like go do AGI research and
+was feeling pretty happy about the
+future and yeah you have options and
+then and then the next morning uh had
+this call with a couple of board members
+about coming back and that led to a few
+more days of craziness and then
+uh and then it kind of I think it got
+resolved well it was like a lot of
+insanity in between what percent what
+percent of it was because of these
+nonprofit board members
+um well we only have a nonprofit board
+so it was all the nonprofit board
+members uh there the board had gotten
+down to six people um
+they and then they removed Greg from the
+board and then fired me um so but it was
+like you know but I mean like was there
+a culture clash between the people on
+the board who had only nonprofit
+experience versus the people who had
+startup experience and maybe you can
+share a little bit about if you're
+willing to the motivation behind the
+action anything you
+can I think there's always been culture
+clashes
+at look
+obviously not all of those board members
+are my favorite people in the world but
+I
+have serious respect
+for the gravity with which they treat
+AGI and the importance of getting AI
+safety right and even if I
+stringently disagree with their
+decision- making and actions which I do
+um I have never once doubted
+their integrity or commitment to um the
+sort of shared mission of safe and
+beneficial
+AGI um you know do I think they like
+made good decisions in the process of
+that or kind of know how to balance all
+of things opening I has to get right no
+but but I think that like the intent the
+intent of the magnitude of yeah
+AGI and getting that right I actually
+let me ask you about that so the mission
+of open AI is explicitly to create AGI
+which I think is really
+interesting a lot of people would say
+that if we create AGI that would be like
+an unintended consequence of something
+gone horribly wrong and they're very
+afraid of that outcome but open a makes
+that the actual Mission yeah does that
+create like more fear about what you're
+doing I mean I understand it can create
+motivation too but how do you reconcile
+that I guess why is I think a lot of I
+think a lot of the
+well I mean first I'll say I'll answer
+the first question and the second one I
+think it does create a great deal of
+fear uh I think a lot of the world is
+understandably very afraid of AGI or
+very afraid of even current Ai and and
+very excited about it and even more
+afraid and even more excited about where
+it's going um and
+we we wrestle with that but like I think
+it is unavoidable that this is going to
+happen I also think it's going to be
+tremendously beneficial but we do have
+to navigate how to get there in a
+reasonable way and like a lot of stuff
+is going to change and change is you
+know pretty pretty uncomfortable for
+people so there's a lot of
+pieces that we got to get right and ask
+can I ask a different question you you
+have
+created I
+mean it's the hottest company and you
+are literally at the center of the
+center of the
+center but then it's so unique in the
+sense that all of this value you issued
+economically can you just like walk us
+through like yeah I wish I had taken I
+wish I had taken Equity so I never had
+to answer this question if I could go
+back in why don't they give you a grand
+now or just give you a big option Grant
+like you deserve yeah give you five
+points what was the decision back then
+like why was that so important the
+decision back then the re the original
+reason was just like the structure of
+our nonprofit it was uh like there was
+something about yeah okay this is like
+nice from a motivations perspective but
+mostly it was that our board needed to
+be a majority of disinterested
+directors and I was like that's fine I
+don't need Equity right now I kind
+of but like but in this weird way now
+that you're running a company yeah it it
+creates these weird questions of like
+well what's your real motivation versus
+to that's that it is so deeply un I one
+thing I have noticed it is is so deeply
+unimaginable to people to say I don't
+really need more
+money like and I well people think I
+think I think people think it's a little
+bit of an ulterior motive I think yeah
+yeah yeah no so it assumes what else is
+he doing on the side to make money
+something if I were just trying to say
+like I'm going to try to make a trillion
+dollarss with open AI I think everybody
+would have an easier time and it would
+save me it would save a lot of
+conspiracy theories totally this is
+totally the back Channel you are a great
+dealmaker I I've watched your whole
+career I mean you're just great at it
+you got all these connections you're
+really good at raising money uh you're
+fantastic at it and you got this Johnny
+I thing going you're inhumane you're
+investing in company she got the orb
+raising $7 trillion to build
+Fabs all this stuff all of that put
+together J loves fake news I'm kind of
+being a little fous here you know
+obviously it's not you're not raising 7
+trillion doll but maybe that's the
+market cap of something putting all that
+aside the T was you're doing all these
+deals they don't trust you because
+what's your motivation you you your end
+running and and what opportunities
+belong inside of open AI what opportuni
+should be Sam's and this group of
+nonprofit people didn't trust you is
+that what happened so the things like
+you know device companies or if we were
+doing some chip Fab Company it's like
+those are not Sam project those would be
+like opening ey would get that Equity um
+they would okay that's not the Public's
+perception well that's not like kind of
+the people like you who have to like
+commentate on the stuff all day
+perception which is fair because we
+haven't announced the stuff because it's
+not done I don't think most people in
+the world like are thinking about this
+but I I I agree it spins up a lot of
+conspiracies conspiracy theories in like
+Tech commentators yeah and if I could go
+back yeah I would just say like let me
+take equity and make that super clear
+and then every be like all right like
+I'd still be doing it because I really
+care about AGI and think this is like
+the most interesting work in the world
+but it would at least type check to
+everybody what's the chip project that
+the S trillion do and where' the Seven
+trillion number come from makes no sense
+I don't know where that came from
+actually I genuinely don't uh I think I
+think the world needs a lot more AI
+infrastructure a lot more than it's
+currently planning to build and with a
+different cost structure um the exact
+way for us to play there is we're still
+trying to figure that out got it what's
+your preferred model of organizing open
+AI is
+it sort of like the move fast break
+things highly distributed small teams or
+is it more of this organized effort
+where you need to plan because you want
+to prevent some of these edge cases um
+oh I have to go in a minute uh it's not
+because
+it's not to prevent the edge cases that
+we need to be more organized but it is
+that these systems are so complicated
+and concentrating bets are so important
+like
+one you know at the time before it was
+like obvious to do this you have like
+deep mind or whatever has all these
+different teams doing all these
+different things and they're spreading
+their bets out and you had Open the Eyes
+say we're going to like basically put
+the whole company and work together to
+make gp4 and that was like unimaginable
+for how to run an AI research lab but it
+is I think what works at the minimum
+it's what works for us so not because
+we're trying to prevent edge cases but
+because we want to concentrate resources
+and do these like big hard complicated
+things we do have a lot of coordination
+on what we work on all right Sam I know
+you got to go you've been great on the
+hour come back any time great talking to
+you guys yeah fun thanks for for being
+so open about it we've been talking
+about it for like a year plus I'm really
+happy it finally happened yeah it's
+awesome I really app come back on after
+our next like major launch and I'll be
+able to talk more directly about some
+you got the zoom link same Zoom link
+every week just same time same Zoom link
+drop time just drop in just put on your
+calendar come back to the game come back
+to the game in a while I you know I
+would love to play poker it has been
+forever that would be a lot of fun send
+where Cham when you and I were heads up
+and you you had remind me you and I were
+heads up and you went all in I had a set
+but there was a straight and a flush on
+the board and I'm in the tank trying to
+figure out if I want to lose this back
+when we playing small Stakes it might
+have been like 5K pot or something and
+then chath can't stay out of the pot and
+he starts taunting the two of us you
+should call you shouldn't call he's
+bluffing and I'm like I'm going I'm
+trying to figure out if I make the call
+here I make the call and uh it was like
+uh you had a really good hand and but I
+just happened to have a s I think you
+had like top pair top kicker or
+something but you you made a great move
+because the boy was so almost like a
+bottom set Sam has a great style of
+playing which I would call RAM and jam
+totally you got to get I don't really
+know if you I don't I don't know if you
+could say about anybody
+else I don't I don't I'm not gonna you
+haven't seen Jam play in the last 18
+months it's a lot
+different much more so much fun now find
+find hard to have you played bomb pots I
+don't know what that is okay you'll love
+it we'll see you is nuts
+it's do two boards and congrats
+everything honestly than thanks for
+coming on and love to have you back when
+the next after the big launch sounds
+please do cool bye gentlemen some
+breaking news here all those projects He
+said are part of open AI That's
+something people didn't know before this
+and a lot of confusion
+there chamat what was your major
+takeaway from our hour with Sam I think
+that these guys are going to be one of
+the four major companies okay that
+matter in this whole space I think that
+that's clear
+I think what's still unclear is where is
+the economics going to be he said
+something very discreet but I thought
+was important which is I think he
+basically my interpretation is these
+models will roughly all be the same but
+there's going to be a lot of scaffolding
+around these models that actually allow
+you to build these apps so in many ways
+that is like the open source movement so
+even if the model itself is never open
+source it doesn't much matter because
+you have to pay for the infrastructure
+right there's a lot of open Source
+software that runs on Amazon you still
+pay AWS something so I think the right
+way to think about this now
+is the models will basically be all
+really good and then it's all this other
+stuff that you'll have to pay for
+interface whoever builds all this other
+stuff is going to be in a position to
+build a really good business freeberg he
+talked a lot about reasoning it seemed
+like that he kept going to reasoning and
+away from the language model did you not
+did you note that and anything else that
+you noted in our hour with yeah I mean
+that's a longer conversation because
+there is a lot of talk about language
+models eventually evolving to be so
+generalizable that they can
+resolve pretty much like all intelligent
+function and so the language model is
+the foundational model that that yields
+AGI but that's a I think there's a lot
+of people that at different schools of
+thought on this and how much my my other
+takeaway I think is that the I think
+what he also seem to indicate is there's
+like so many like we're also enraptured
+by llms but there's so many things other
+than llms that are being baked and
+rolled by him and by other groups and I
+think we have to pay some amount of
+attention to all those because that's
+probably where and I think freedberg you
+tried to go there in your question
+that's where reasoning will really come
+from is this mixture of experts approach
+and so you're going to have to think
+multi-dimensionally to reason right we
+do that right do I cross the street or
+not in this point in time you reason
+based on all these multi-inputs and so
+there's there's all these little systems
+that go into making that decision in
+your brain and if you if you use that as
+a a simple example there's all this
+stuff that has to go into
+making some experience being able to
+reason intelligently sax you went right
+there with the corporate structure the
+board and uh he he he gave us a lot more
+information here what are your thoughts
+on the hey you know the chip stuff and
+the other stuff I'm working that's all
+part of open AI people just don't
+realize it and that moment and then you
+know your questions to him about Equity
+your thoughts on um I'm not sure I was
+like the main guy who asked that
+question jakal but um well no you did
+talk about the the nonprofit that the
+difference between question about the
+clearly was some sort of culture Clash
+on the board between the the people who
+originated from the nonprofit world and
+people who came from the startup world
+we don't really know more than that but
+there clearly was some sort of culture
+class
+I thought one of the a couple of the
+other areas that he drew attention to
+that were kind of interesting is he
+clearly thinks there's a big opportunity
+on mobile that goes beyond just like
+having you know a chat gbt app on your
+phone or maybe even having like a Siri
+on your phone there's clearly something
+bigger there he doesn't know exactly
+what it is but it's going to require
+more inputs it's that you know personal
+assistant that's seeing everything
+around you help really I think that's a
+great Insight David because he was
+talking about hey I'm looking for a
+senior team member who can push back on
+me and understands all context I thought
+that was like a very interesting to
+think about an executive assistant or an
+assistant that's has executive function
+as opposed to being like just an alter
+ego for you or what he called a
+sycophant that's kind of interesting I
+thought that was interesting yeah yeah
+and clearly he thinks there's a big
+opportunity in biology and scientific
+discovery after the break I think we
+should talk about Alpha fold 3 it was
+just announ let's do that and we can
+talk about the the Apple ad and
+I just want to also make sure people
+understand when people come on the Pod
+we don't show them questions they don't
+edit the transcript nothing is out of
+bounds if you were wondering why I
+didn't ask or we didn't ask about the
+Elon lawsuit he's just not going to be
+able to comment on that so it' be no
+comment so you know and we're not like
+our time was limited and there's a lot
+of questions that we could have asked
+him that would have just been a waste of
+time and com so I just want to make sure
+people understand of course he's going
+to no comment in any lawsuit and he's
+already been asked about that 500 times
+yes should we take a quick break before
+the next before we come back yeah I'll
+take a bio break and then we'll come
+back with some news for you and some
+more banter with your
+favorite besties on the number one
+podcast in the world the only podcast
+all right welcome back everybody second
+half of the show great guest Sam mman
+thanks for coming on the Pod we've got a
+bunch of news on the docket so let's get
+started freeberg you told me I could
+give some names of uh the guests that
+we've booked for the all in Summit I did
+not you did you've said each week every
+week that I get to say I did not I
+appreciate your interest in the all in
+Summits lineup but we do not yet
+have uh enough critical math uh to feel
+like we should go out there well uh I am
+a loose canidate so I will announce my
+two guests and I created The Summit and
+you took it from me so and done a great
+job I will announce my guests I don't
+care what your opinion is I have booked
+two guests for the summit and it's going
+to be out look at these two guests I
+booked for the third time coming back to
+the summit our guy Elon Musk will be
+there hopefully in person if not you
+know from 40,000 feet on a starling
+connection wherever he is in the world
+and for the first time our friend Mark
+Cuban will be coming and so two great
+guests for you to look forward to but
+free BG's got like a thousand guests
+coming he'll tell you when it's like 48
+hours before the conference but yeah two
+great speaking of billionaires who are
+coming isn't coming too yes coming yes
+he's booked so we have three
+billionaires three billionaires yes okay
+hasn't fully confirmed so don't okay
+well we're going to say it anyway has
+penciled in back we say penciled yeah
+don't back out this is going to be
+catnip for all these protest organizers
+like if
+youke the bear well by the way speaking
+of updates what do you guys think of the
+bottle for the all-in tequila oh
+beautiful honestly honestly I will just
+say I think you are doing a marvelous
+job that
+I was
+shocked at the design shocked meaning it
+is so unique and high quality I think
+it's amazing it would make me drink
+tequila you're going to You're Gonna
+Want to going to it it is uh stunning
+just congratulations and um yeah it was
+just when we went through the deck at
+the uh at the monthly meeting it was
+like oh that's nice oh that's nice we're
+going to do the concept bottles and then
+that bottle came up and everybody went
+like crazy it was like somebody hitting
+like a Steph Curry hitting a half court
+shot it was like oh my God it was just
+so clear that you've made an iconic
+bottle that if we can produce it oh Lord
+it is going to be looks like we can the
+make it yeah it's gonna be amazing I'm
+excited I'm excited for it you know it's
+like the Des so complicated that we have
+to do a feasibility analysis on whether
+it was actually manufacturable but it is
+so or at least the early reports are
+good so we're going to H hopefully we'll
+have some a for the in time for the all
+Summit I mean why not sounds I mean it's
+great when we get barricaded in by all
+these protesters we can drink the
+tequila did you guys see did you see
+Peter te Peter teal got barricaded by
+these ding-dongs at Cambridge my god
+listen people have the right to protest
+I think it's great people are protesting
+but surrounding people and threatening
+them is a little bit over the top and D
+think you're exaggerating what happened
+well I don't know exactly what happened
+because all we see is these videos look
+they're not threatening anybody and I
+don't even think they tried to barricade
+him in they were just outside the
+building and because they were blocking
+the driveway his car couldn't leave but
+he
+wasn't physically like locked in the
+building or something yeah that's that's
+what the headlines say but that could be
+fake news fake Social yeah this was not
+on my bingo card this Pro protester
+support by saaks was not on the bingo
+card I got to say I contitution the
+Constitution of the United States in the
+Amendment provides for the right of
+assembly which includes protest and sit
+in as long as they're as long as they're
+Peaceable now obviously if they go too
+far and they vandalize or break into
+buildings or use violence then that's
+not Peaceable however expressing
+sentiments with which you disagree does
+not make it violent and there's all
+these people out there now making the
+argument that if you hear something from
+a protester that you don't like and you
+subjectively experience that as a as a
+threat to your safety then that somehow
+should be you know treated as valid like
+that's basically violent well that's
+that's not what the Constitution says
+and these people understood well just a
+few months ago that that was basically
+snowf fakery that you know just because
+somebody you know what I'm
+saying we have the rise of the woke
+right now where they're buying yeah the
+woke right they're buying into this idea
+of safetyism which is being exposed
+ideas you don't like to protest you
+don't like is a threat to your safety no
+it's
+not every we absolutely have snow fakery
+on both sides now it's ridiculous the
+only thing I will say that I've seen and
+is this this this uh surrounding
+individuals who you don't want there and
+locking them in a circle and then moving
+them out of like protesta that's not
+cool yeah obviously you can't do that
+but look I think that most of the
+protests on most of the campuses have
+not crossed the line they've just
+occupied The Lawns of these campuses and
+look I've seen some troublemakers try to
+barge through the the encampments and
+claim that because they can't go through
+there that somehow they're being
+prevented from going to class look you
+just walk around the lawn and you can
+get to class okay and you know some of
+these videos are showing that these are
+effectively right-wing provocators who
+are engaging in leftwing tactics and I
+don't support it either way by the way
+some of these camps are some of the
+funniest things you've ever seen it's
+like there are like a one tent that's
+dedicated to like a reading room and you
+go in there and there's like these like
+Center oh my God it's unbelievably
+hilarious look there there's no question
+that because the protests are
+originating on the left that there's
+some goofy views like you know you're
+dealing with like a leftwing idea
+complex right but and you know it's easy
+to make fun of them doing different
+things but the fact of the matter is
+that most of the protests on most of
+these campuses are even though they can
+be annoying because they're occupying
+part of the lawn they're not violent
+yeah and you know the way they're being
+cracked down on they're sending the
+police in at 5:00 a. to crack down on
+these encampments with batons and riot
+gear and I find that part to be
+completely excessive well it's also
+dangerous because you know things can
+escalate when you have mobs of people
+and large groups of people so I just
+want to make sure people understand that
+large group of people large you have a
+diffusion of responsibility that occurs
+when there's large groups of people who
+are passionate about things and and
+people could get hurt people have gotten
+killed at these things so just you know
+keep it calm everybody I agree with you
+like what's the harm of these folks
+protesting on a lawn it's not a big deal
+when they break into buildings of course
+yeah that crosses the line obviously
+yeah but I mean let them sit out there
+and then they'll run out their food cars
+their food card and they run out of
+waffles did you guys see the clip I
+think it was on the University of
+Washington campus where one kid
+challenged this antifa guy to a push-up
+contest oh
+fantastic I mean it's it is some of the
+funniest stuff some of some content is
+coming out that's just my favorite was
+the woman who came out and said that the
+Columbia students needed humanitarian
+Aid and oh my God the overdubs on her
+were hilarious I was like uh
+humanitarian Aid the he was like we need
+our door Dash right now we need we
+Double Dash some boba and we can't get
+it through the the police need our Boba
+low sugar Boba with the with the popping
+Boba bubbles wasn't getting in but you
+know people have the right to protest
+and uh Peaceable by the way there's a
+word I've never heard very good sax
+Peaceable inclined to avoid argument or
+violent conflict very nice well it's in
+the Constitution it's in the first
+amendment is it really I've never I
+haven't heard the word Peaceable before
+I mean you and I are sympatico on this
+like I I don't we used to have the
+ACLU like backing up the KKK going down
+Main Street and really fighting decision
+yeah they were really fighting for I I'm
+and I have to say the Overton window is
+opened back up and I think it's great
+all right we got some things on the
+docket here I don't know if you guys saw
+the Apple new iPad ad it's getting a
+bunch of criticism they use like some
+giant hydraulic press to crush a bunch
+of creative tools EJ turntable trumpet
+piano people really care about Apple's
+ads and what they represent we talked
+about that that uh Mother Earth little
+vignette they created here what do you
+think free BR did you see the ad what
+was your reaction to it made me sad it
+it did not make me want to buy an iPad
+so huh did not seem like it made you sad
+it actually elicited an emotion meaning
+like commercials it's very rare that
+commercials can actually do that most
+people just Zone up yeah they took all
+this beautiful stuff and heard it didn't
+it didn't feel good I don't know it just
+didn't seem like a good ad I don't know
+why they did that I don't get it I I've
+I don't I don't know I think I think
+maybe what they're trying to do is the
+the selling point of this new iPad is
+that it's the thinnest one I mean
+there's no innovation left so they're
+just making the devices yeah you know
+thinner yeah so I think the idea was
+that they were going to take this
+hydraulic press to represent how
+ridiculously thin the new iPad is now I
+don't know if the point there was to
+smush all of that good stuff into the
+iPad I don't know if that's what they
+were trying to convey but yeah I I think
+that by destroying all those creative
+tools that apple is supposed to
+represent it definitely seemed very
+offbrand for them and I think people
+were reacting to the fact that it was so
+um different than what they would have
+done in the past and of course everyone
+was saying well Steve would never have
+done this I do think it did land wrong I
+mean I I didn't care that much but but I
+I was kind of asking the question like
+why are they destroying all these
+Creator tools that they're renowned for
+creating or for turning into the digital
+version yeah it just didn't land I mean
+shath how are you doing emotionally
+after seeing me are you okay buddy yeah
+I think this is uh you guys see that in
+the
+birkshire annual meeting last
+weekend Tim Cook was in the audience and
+Buffett was very laudatory this is an
+incredible company but he's so clever
+with words he's like you know this is an
+incredible business that we will hold
+forever most likely then it turns out
+that he sold $20 billion worth of Apple
+shares in the
+cat we're gonna hold it forever which
+which by the way sell if you guys
+remember we we put that little chart up
+which shows when he doesn't mention it
+in the in the annual letter it's
+basically like it's foreshadowing the
+fact that he is just pounding the cell
+and he sold $20 billion well also
+holding it forever could mean one share
+yeah exactly we kind of need to know
+like how much are we talking about I
+mean it's an incredible business that
+has so much money with nothing to do
+they're probably just going to buy back
+the stock just a total waste they were
+floating this rumor of buying rivan you
+know after they shut down Titan project
+the your internal project to make a car
+it seems like a car is the only thing
+people can think of that would move the
+needle in terms of earnings I think the
+problem is J like you kind of become
+afraid of your own shadow meaning the
+the folks that are really good at m&amp;a
+like you look at Benny off
+the thing with benof m&amp; strategy is that
+he's been doing it for 20 years and so
+he's cut his teeth on small Acquisitions
+and the market learns to give him trust
+so that when he proposes like the $27
+billion slack acquisition he's allowed
+to do that another guy you know narora
+at pandw these last five years people
+were very skeptical that he could
+actually roll up security because it was
+a super fragmented Market he's gotten
+permission then there are companies like
+Dan that buy hundreds of companies so
+all these folks are examples of you
+start small and you you earn the right
+to do more Apple hasn't bought anything
+more than 50 or hundred million do and
+so the idea that all of a sudden they
+come out of the blue and buy a 102
+billion dollar company I think is just
+totally doesn't stand logic it's just
+not possible for them because they'll be
+so afraid of their own shadow that's the
+big problem it's themselves well if
+you're running out of In-House
+Innovation and you can't do m&amp;a then
+your options are kind of limited I mean
+I do think that the fact that the big
+news out of apple is the iPad's Getting
+Thinner does represent kind of the end
+of the road in terms of innovation it's
+kind of like when they added the third
+camera to the iPhone yeah it reminds me
+of those um remember like when the
+Gillette yeah they came out and then
+they did the five was the best onion
+thing was like we're doing five f
+it but then Gillette actually came out
+with the Mach 5 so yeah like the parody
+became the reality what are they going
+to do add two more cameras to the iPhone
+you have five cameras on it no makes no
+sense and then I don't know anybody
+wants to remember the Apple Vision was
+like gonna plus why are they body
+shaming the the fat
+iPads that's a fair point Fair Point
+actually you know what it's actually
+this didn't come out yet but it turns
+out the iPad is on OIC it's actually
+dropped a lot that would have been a
+funnier ad yeah yeah exactly oh oh
+ohic we can just Workshop that right
+here but there was another funny one
+which was making the iPhone smaller and
+smaller and smaller and the iPod smaller
+and smaller and smaller to the point it
+was like you know like a thumb siize
+iPhone like the Ben Stiller phone in
+Zoolander or
+correct yeah that was a great scene is
+there a category that you can think of
+that you would love an Apple product for
+there's a product in your life that you
+would love to have Apple's version of it
+they they killed it I think a lot of
+people would be very open minded to an
+Apple car okay they they just would it's
+it's a connected internet device
+increasingly so yeah and they they
+managed to flub
+it they had a chance to buy Tesla they
+managed to flub it yeah right there are
+just too many examples here where these
+guys have so much money and not enough
+ideas that's a
+shame it's a bummer yeah the one I
+always wanted to see them do saxs was TV
+the one I always wanted to see them do
+was the TV and they were supposedly
+working on it like the actual TV not the
+little Apple TV box in the back and like
+that would have been extraordinary to
+actually have a gorgeous you know big
+television what about a gaming console
+they could have done that you know
+there's just all these things that they
+could have done it's not a lack of
+imagination because these aren't exactly
+incredibly World beating ideas they're
+sitting right in front of your face it's
+just the will to do it yeah all in one
+TV would have been good if you think
+back on Apple product lineup over the
+years where they've really created value
+is on how unique the products are they
+almost create new categories sure there
+may have been a quote tablet computer
+prior to the iPad but the iPad really
+defined the tablet computer era sure
+there was a smartphone or two before the
+iPhone came along but it really defined
+the smartphone and sure there was a
+computer before the Apple 2 and then it
+came along and it defined the personal
+computer in all these cases I think
+Apple strives to define the category so
+it's very hard to define a television if
+you think about it or gaming console in
+a way that you take a step up and you
+say this is the new thing this is the
+new platform so I don't know that's the
+lens I would look at if I'm Apple in
+terms of like can I redefine a car can I
+make you know we're all trying to fit
+them into an existing product bucket but
+I think what they've always been so good
+at is identifying consumer needs and
+then creating an entirely new way of
+addressing that need in a real step
+change function from the like the the
+the um iPod it was so different from any
+MP3 player ever I think the reason why
+the car could have been completely
+reimagined by Apple is that they have a
+level of credibility and trust that I
+think probably no other company has and
+absolutely no other tech company has and
+we talked about this but I think this
+was the third Steve Job story that that
+I left out but in
+200 I don't know was it
+[Music]
+one I launched a 99 cent download store
+right I think I've told you the story in
+winam and
+Steve Jobs just ran total circles around
+us but the reason he was able to is he
+had all the credibility to go to the
+labels and get deals done for licensing
+music that nobody could get done before
+I think that's an example of what
+Apple's able to do which is to use their
+political Capital to change the rules so
+if the thing that we would all want is
+safer roads and autonomous vehicles
+there are regions in every town and city
+that could be completely converted to
+level five autonomous zones if I had to
+pick one company that had the
+credibility to go and change those rules
+it's them because they could demonstrate
+that there was a methodical safe
+approach to doing something and so the
+point is that even in these categories
+that could be totally reimagined it's
+not for a lack of imagination again it
+just goes back to a complete lack of
+Will and I understand because if they
+had if you if you had $200 billion do of
+capital on your balance sheet I think
+it's probably pretty easy to get fat and
+lazy yeah it is and and they want to
+have everything built there people don't
+remember but they actually built one of
+the first digital cameras you must have
+owned this right freeberg you're I
+remember this yeah totally it beautiful
+what did they call it was it the ey
+camera or something quick take quick
+take yeah um the thing I would like to
+see apple build and I'm surprised they
+didn't was a smart home system the way
+Apple has Nest a drop cam a door lock
+you know a AV system go equestron or
+whatever and just have your whole home
+automated thermostat Nest all of that
+would be brilliant by Apple and right
+now I'm an apple family that has our all
+of our home automation through Google so
+it's just kind of sucks I would I would
+like that all to that would be pretty
+amazing like if they did a crant or
+Savant CU then when you just go to your
+Apple TV all your cameras just work you
+don't need to
+yes that's the that I mean and everybody
+has a home and everybody automates their
+home so well everyone has Apple TV at
+this point so you just make Apple TV the
+brain for the home system right that
+would be your Hub and you can connect
+your phone to it then yes that would be
+very nice yeah like can you imagine like
+the ring cameras all that stuff being
+integrated I don't know why they didn't
+go after that that seems like the easy
+layup hey you know everybody's been
+talking freedberg about this uh Alpha
+fold this folding
+proteins and there's some new version
+out from Google and uh also Google
+reportedly we talked about this before
+is also advancing talks to acquire
+HubSpot so that rumor for the $30
+billion market cap HubSpot is out there
+as well free break your as our resident
+science Sultan uh our resident Sultan of
+Science and as an Google
+alumni pick either story and let's go
+for it yeah I mean I'm not sure there's
+much more to add on the HubSpot
+acquisition rumors they are still just
+rumors and I think we covered the topic
+a couple weeks ago but I will say that
+Alpha fold 3 that was just announced
+today and demonstrated by Google um is a
+real uh I would say breathtaking moment
+um for biology for bioengineering for
+human health for medicine and maybe I'll
+just take 30 seconds to kind of explain
+it um you remember when they introduced
+Alpha fold at Alpha fold 2 we talked
+about DNA codes for proteins so every
+three letters of DNA codes for an amino
+acid so a string of DNA codes for a
+string of amino acids and that's called
+a gene that produces a
+protein and that protein is basically a
+like think about beads there's 20
+different types of beads 20 different
+amino acids that can be strung together
+and what happens is that necklace that
+bead necklace basically collapses on
+itself and all those little beads stick
+together with each other in some
+complicated way that we can't
+deterministically model and that creates
+a three-dimensional structure which is
+called A protein that molecule and that
+molecule does something interesting it
+can break apart other molecules it can
+bind molecules it can move molecules
+around so it's basically the Machinery
+of chemistry of biochemistry and so
+proteins are what is encoded in our DNA
+and then the proteins do all the work of
+making living organisms so Google's
+Alpha fold project took threedimensional
+images of proteins and the DNA sequence
+that codes for those proteins and then
+they built a predictive model that
+predicted the three-dimensional
+structure of a protein from the DNA that
+codes for it and that was a huge
+breakthrough years ago what they just
+announced with Alpha fold 3 today
+is that they're now including all small
+molecules so all the other little
+molecules that go into chemistry and
+biology that drive the function of
+everything we see around us and the way
+that all those molecules actually bind
+and fit together is part of the
+predictive model why is that important
+well let's say that you're designing a
+new drug and it's a protein based drug
+which biologic drugs which most drugs
+are today you could find a biologic drug
+that binds to a cancer cell and then
+you'll spend 10 years going to clinical
+trials and billions of later you find
+out that that protein accidentally binds
+to other stuff and hurts other stuff in
+the body and that's an off Target effect
+or a side effect and that drug is pulled
+from the clinical trials and it never
+goes to Market most drugs go through
+that process they are actually tested in
+in animals and then in humans and we
+find all these side effects that arise
+from those drugs because we don't know
+how those drugs are going to bind or
+interact with other things in our
+biochemistry and we only discovered
+after we put it in but now we can
+actually model that with software we can
+take that drug we can create a
+three-dimensional representation of it
+using the software and we can model how
+that drug might interact with all the
+other cells all the other proteins all
+the other small molecules in the body to
+find all the of Target effects that may
+arise and decide whether or not that
+presents a good drug candidate that is
+one example of how this capability can
+be used and there are many many others
+including creating new proteins that
+could be used to bind molecules or stick
+molecules together or new prot that
+could be designed to rip molecules apart
+we can now predict the function of
+threedimensional molecules using this
+this capability which opens up all of
+the software based design of chemistry
+of biology of drugs and it really is an
+incredible breakthrough moment the
+interesting thing that happened though
+is Google alphabet has a subsidiary
+called isomorphic Labs it is a drug
+development subsidiary of alphabet and
+they've basically kept all the IP for
+Alpha fold 3 in is
+so Google is going to monetize the heck
+out of this capability and what they
+made available was not open source code
+but a webbased viewer that scientists
+for quote non-commercial purposes can
+use to do some fundamental research in a
+web-based viewer and make some
+experiments and try stuff out and how
+interactions might occur but no one can
+use it for commercial use only Google's
+isomorphic Labs can so number one it's
+an incredible demonstration of what AI
+outside of llms which we just talked
+about with Sam today and obviously
+talked about other models but llms being
+kind of this consumer text predictive
+model capability but outside of that
+there's this capability in things like
+chemistry with these new AI models that
+can be trained and built to predict
+things like three-dimensional chemical
+interactions that is going to open up an
+entirely New Era for you know human
+progress and I think that's what's so
+exciting I think the other side of this
+is Google is hugely advantaged and they
+just showed the world a little bit about
+some of these jewels that they have in
+the treasure chest and they're like look
+at what we got we're going to all these
+drugs and they've got Partnerships with
+all thesea companies at isomorphic Labs
+that they've talked about and it's going
+to usher in a new era of drug
+development design for human health so
+all in all I'd say it's a pretty like
+astounding day a lot of people are going
+crazy over the capability that they just
+demonstrated and then it begs all this
+really interesting question around like
+you know what's Google G to do with it
+and how much value is going to be
+created here so anyway I thought it was
+a great story and I just rambled on for
+a couple minutes but I don't know it's
+pretty cool super interesting is is this
+AI capable of making a science Corner
+that David saak pay attention
+to well it will it will predict the Cure
+I think for the common cold and for
+herpes so he should pay attention
+absolutely folding cells is the app that
+Sachs casual game Sachs just downloaders
+playing how many uh how many chest moves
+did you make during that segment sex
+sorry let me just say one more thing do
+you guys remember we talked about
+yamanaka factors and how challenging it
+is to basically we can reverse aging if
+we can get the right proteins into cells
+to tune the expression of certain gen to
+make those cells youthful right now it's
+a shotgun approach to trying millions of
+compounds and combinations of compounds
+to do them there's a lot of companies
+actually trying to do this right now to
+come up with a fountain of youth type
+product we can now simulate that so with
+this system one of the things that this
+Alpha 3 can do is predict what molecules
+will bind and promote certain sequences
+of DNA which is exactly what we try and
+do with the yanaka factor-based
+expression systems and find ones that
+won't trigger off Target expression so
+meaning we can now go through the search
+space and software of creating a
+combination of molecules that
+theoretically could unlock this Fountain
+of Youth to deage all the cells in the
+body and introduce an extraordinary kind
+of health benefit and that's just again
+one example of the many things that are
+possible inredible with this sort of
+platform I I and I'm really I gota be
+honest I'm really just sort of skimming
+the surface here of what this can do the
+capabilities and the impact are going to
+be like I don't know I know I say this
+sort of stuff a lot but it's going to be
+pretty for half there's um on the Block
+post they have this incredible video
+that they show of
+the Corona virus that creates a common
+cold I think the S P&amp;M protein and not
+only did they literally like predict it
+accurately they also predicted how it
+interacts with an antibody with a sugar
+it's nuts so you could see a world where
+like I don't know you just get a vaccine
+for the cold and it's kind of like you
+never have colds again amazing I mean
+simple stuff but so powerful you can
+filter out stuff that has offt Target
+effect so so much of drug Discovery and
+all the side effect stuff can start to
+be solved for in silicone and you could
+think about running extraordinar large
+use a model like this run
+extraordinarily large simulations in a
+search space of chemistry to find stuff
+that does things in the body that can
+unlock you know all these benefits can
+do all sorts of amazing things to
+destroy cancer to destroy viruses to
+repair cells to deage cells and this is
+a hundred billion dollar business they
+say I alone I feel like this is where I
+I've said this before I think Google's
+got this like portfolio of like
+quiet
+extraord what if they hit and the fact
+and I think the fact that they didn't
+open source everything in this says a
+lot about their intentions yeah yeah
+open source when you're behind closed
+Source lock it up when you're ahead but
+show yamanaka actually interestingly
+yamanaka is the Japanese whiskey that
+saak serves on his plane as well it's
+delicious I love that Hokkaido yak
+Jason I feel like if you didn't find
+your way to Silicon Valley you could be
+like a Vegas Lounge comedy guy
+absolutely for sure yeah I was actually
+yeah somebody said I should do like
+those 1950s those 1950s talk shows where
+the guys would do like the the stage
+show somebody told me I should do um
+like spald and gray Eric bosan style
+stuff I don't know if you guys remember
+like the uh the monologue is from the
+80s in New York I was like oh that's
+interesting maybe all right everybody
+thanks for tuning in to the world's
+number one podcast can you believe we
+did it jamath uh the number one podcast
+in the world and the all-in summit the
+Ted killer if you are going to Ted
+congratulations for genu flecting if you
+want to talk about real issues come to
+the all-in summit and if you are
+protesting at the all-in summit let us
+know uh what mock meet you would like to
+have freeberg is setting up mock meat
+stations for all of our protesters and
+what milk you would like yeah all vegan
+if you if your o milk nut milk
+come five different kinds of zanth gum
+you can from all of the nut milks you
+could want and then they'll be
+mindful can we have some soil likein
+please yes on the south lawn we'll have
+the goat yoga going on so just please
+note that the goat yoga will be going on
+for all of you it's very thoughtful for
+you to make sure that our protesters are
+going to be well well fed well taken
+care of yes we're actually freeberg is
+working on the protester gift bags the
+protester gift bags they're made
+Yak folding proteins so you're good
+folding proteins I think I saw them open
+for the Smashing Pumpkins in
+2003 on fire on fire enough I'll be here
+for three more nights love you boys
+byebye love you besties is this the all
+Potter open mic night what's going on
+it's basically I'm just
+bored let your winners
+ride Rainman David
+said we open source it to the fans and
+they've just gone crazy with it love
+queen
+[Music]
+of Besties
+are my dog taking
+driveway oh man myit will meet me we
+should all just get a room and just have
+one big huge orgy cuz they're all this
+useless it's like this like sexual
+tension that they just need to release
+somehow
+[Music]
+your we need to get
+[Music]
+merch all right that's episode 178 and
+now the plugs the all-in Summit is
+taking place in Los Angeles on September
+8th through the 10th you can apply for a
+ticket at summit. Allin podcast.co
+scholarships will be coming soon if you
+want to see the four of us interview Sam
+Alman you can actually see the video of
+this podcast on YouTube
+youtube.com Allin or just search all-in
+podcast and hit the alert Bell and
+you'll get updates when we post we're
+doing a Q&amp;A episode live when the
+YouTube channel hits 500,000 and we're
+going to do a party in Vegas my
+understanding when we hit a million
+subscribers so look for that as well you
+can follow us on x x
+/the all inpod Tik Tok is allore inor
+talk Instagram the all inpod and on
+LinkedIn just search for the all-in
+podcast you can follow chth x.com chth
+and you can sign up for a substack at
+cho. substack docomo freeberg can be
+followed at x.com freeberg and ohal is
+hiring click on the careers page at ohal
+genetics.com and you can follow saxs at
+x.com davit saxs saxs recently spoke at
+the American moment conference and
+people are going crazy for it it's
+pinned to his tweet on his X profile I'm
+Jason kakanis I amx.com Jason and if you
+want to see pictures of my Bulldogs and
+the food I'm eating go to instagram.com
+Jason inth firstname Club you can listen
+to my other podcast this week in
+startups just search for it on YouTube
+or your favorite podcast player we are
+hiring a researcher apply to be a
+research you're doing primary research
+and working with me and producer Nick
+working in data and Science and being
+able to do great great research Finance
+Etc Allin podcast.co resesarch it's a
+full-time job working with us the
+besties we'll see you all next time when
+the Allin podcast

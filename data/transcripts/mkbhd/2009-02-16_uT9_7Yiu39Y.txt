@@ -1,0 +1,124 @@
+# HD Tutorial: Upgrade Safari
+# https://www.youtube.com/watch?v=uT9_7Yiu39Y
+
+[Music]
+Hey everyone. Today I'm going to show
+you guys in another HD tutorial how to
+upgrade your current version of Safari,
+whether it's for a Mac or for a PC. As
+you can see, Apple software update has
+just detected that version 3.2.2 2 of
+Safari web browser available for my
+computer. I'm not actually going to use
+this. I'm going to go into Safari and
+actually show you what version I have
+now. So, if you go to help and about
+Safari, you can see I have version
+3.2.1. So, we're going to upgrade by
+going to Apple
+and simply go to the download section
+again like we did when we were
+installing the original Safari. And
+look, it says version 3.2. So, we're
+going to click on it.
+And it says download version 3.2 now.
+And I'm 100% confident that Safari will
+detect that I already have version 3.2.1
+and download and install version 3.2.2
+and save all my favorites and bookmarks,
+etc. over with this. So, select Safari
+for Windows XP or Vista. And I'm going
+to uncheck that box and avoid putting in
+my email address and hit download
+Safari. Now,
+the dialog box comes up and Safari
+setup.exe is downloading. So, I'll exit
+out of the actual Safari browser. So,
+here it is downloading. It's 1.5 meg a
+second. Pretty good. All right. Now that
+we see that it's done, I'm just going to
+exit out of the downloads window. And it
+says Safari.exe. Do you really want to
+run this file? I will hit yes and exit
+out of here.
+Now, UAC just came up and I hit okay
+because I I obviously want to allow this
+program to run on my computer. And that
+is pretty much all you need to do to
+enable the um the installation of
+Safari. We'll get a dialogue box um
+finishing up our installation here so
+that we can actually use version 3.2.2.
+So, I'm going to open up Safari again.
+Actually, I'm not going to open it up
+because I want to watch the installation
+process here.
+All right. Here it says welcome to the
+Safari installer. Um click next and
+accept the terms and license agreement
+and hit next again. This is where you
+can select where it will actually be
+installed. I'm I'm fine with it
+installing in program files/s Safari
+because that's where my current version
+is. Hit next. And now it's going to
+actually install Safari. All the program
+features that I already had and all the
+plugins and add-ons that I showed you
+how to get will still be in your version
+of Safari. So don't worry about that.
+All right. Here it is finishing up
+registering my product and removing the
+old temporary files that it used. So,
+while it was installing, so now it has
+the fullblown new Safari. And I'll just
+go ahead and show you. It has put an
+icon on my desktop for me. Obviously,
+they all want you to have that icon on
+your desk. So, now it's validating
+install and finishing everything up. So,
+I'll hopefully this will be done in a
+second. And Safari has been successfully
+installed on your computer. So, I'm
+going to uncheck no I'm going to uncheck
+the box that's open Safari after this
+exits. I'm just going to finish. So now
+what I'm going to do is rightclick and
+unlock my rocket doc real quick so I can
+remove the old Safari icon and place in
+the new Safari icon. I'm not sure if
+this actually makes a difference, but
+hopefully it will. That will launch
+Safari version 3.2.2.
+So here we go. First launch of Safari
+3.2. You can see it kept my old Windows
+arrow theme. It kept my old all my
+favorites here. Even still has all the
+uh the logos and everything that I used.
+So, that is how you easily install
+version 3.2.2 of Safari on your current
+computer. And if I obviously go to help
+and about Safari, you see here I'm using
+version 3.2.2.
+Uh, let's go bring up a quick acid 3
+test
+just to see if it does any better. I
+showed you WebKit got a 100 out of 100
+and again, link test failed and 75. So,
+if you really want to make Safari that
+much better, I would go with WebKit,
+guys. and uh just go ahead and watch my
+video on how to download and install and
+use the Safari WebKit browser which does
+get a 100 out of a 100 and is quite a
+bit faster. So, I hope you like this
+tutorial on how to upgrade your version
+of Safari without using any other type
+of software. Um just Windows installer
+and a simple Apple website interface.
+So, uh if you like this tutorial, go
+ahead and subscribe and many more videos
+to come. Go ahead and if you have an
+idea, just send me a personal message
+and I'll get to it. I'll do my best.
+Thanks for watching, guys. Peace.

@@ -1,0 +1,702 @@
+# Arm CEO Rene Haas on AI: Nvidia Lessons, Intel’s Decline and the US-China Chip War
+# https://www.youtube.com/watch?v=JKUFTJJX19w
+
+There's a company nearly every chipmaker
+relies on that doesn't actually make
+anything tangible. Yet, its Blockbuster
+IPO in September valued it above 54
+billion.
+&gt;&gt; It's the largest public offering in over
+2 years.
+&gt;&gt; The valuation of the company has
+tripled.
+&gt;&gt; If you have a smartphone in your pocket
+or in front of you, you have an ARM
+circuit somewhere inside of it.
+&gt;&gt; We are the CPU, the heart of everything.
+&gt;&gt; They're the winner of the CPU side. the
+foundation models, the software, it's
+moving far faster than the hardware. So,
+what we're seeing is people investing
+faster and faster into new hardware,
+which ends up being a good thing for us.
+Ladies and gentlemen, please welcome ARM
+CEO Renee Hos.
+[Applause]
+[Music]
+&gt;&gt; Thank you so much.
+&gt;&gt; How are you?
+&gt;&gt; Welcome. Welcome,
+&gt;&gt; David. Hey, good to see you. Hi.
+&gt;&gt; Hello,
+&gt;&gt; Renee. What are you banging these days?
+3 milligrams of AL pouches or you're up
+to nine.
+&gt;&gt; I know you're competing with Nvidia, so
+you probably want to go with the nine,
+right?
+&gt;&gt; I will go with the nine with Jensen. You
+have to go big.
+&gt;&gt; You have to go big with Jensen. What's
+that like to compete against Nvidia?
+&gt;&gt; Well, I will say uh Nvidia is a customer
+of ours. So, I'm not going to say Jensen
+is my competitor uh today, but you know,
+I worked for Nvidia for for many many
+years as as you know. uh and he's
+fantastic right and uh learned so much
+working there working for him working
+with him and then Nvidia you know almost
+acquired ARM in 2020 uh so I almost you
+know had a chance to work with him again
+&gt;&gt; what did you learn from Jensen
+&gt;&gt; you know one of the things about Jensen
+that is amazing I think it's also true
+for people like uh Michael Dell uh Masa
+you have these entrepreneurs who started
+their companies uh 30 years ago 40 years
+ago go and and they're still running it.
+So, you have this amazing set of
+characteristics of vision, speed,
+fearlessness, taking risk, and a an
+ability to pivot uh very very fast. And
+and I saw that a lot at NVIDIA. You
+know, when I was there, we were only
+about $4 billion in sales. And uh and at
+that time, we were looking at lots of
+different ways to grow business models
+and such. And I just remember being, you
+know, one story we were at a a strategic
+offsite and it was supposed to be a
+review of road maps where we were
+looking at each one of the general
+managers going through what they uh
+projected in their business and what was
+intended to be a roadmap review turned
+into we're changing the strategy. We're
+abolishing this product line. We're
+going to move 2,000 engineers off of
+project X onto project Y. And by the
+way, we were only about 6,000 people at
+the time.
+&gt;&gt; What was project X? What was project Y?
+So we were involved uh at that time in
+trying to do uh mobile chipsets
+connecting to an Intel processor, right?
+And back in the day uh for those who
+remember PC architecture doing these
+chipsets competing with Intel was was
+really hard business and Intel was
+making it very very hard to compete uh
+relative to the integration that they
+did. And in fact that was the genesis of
+starting to pivot to ARM in a very big
+way inside Nvidia because at that time
+Jensen looked at what was going on with
+SOC's and ARMbased architecture and
+moved everybody onto the program.
+&gt;&gt; Let's maybe take a step back and level
+set for the audience. So just to give
+some background um Masayoshi Sun and
+Soft Bank took ARM private
+&gt;&gt; took private yeah for $32 billion.
+&gt;&gt; $32 billion and then tried to sell it
+famously.
+&gt;&gt; Yes.
+&gt;&gt; Couldn't find a bidder.
+&gt;&gt; Could not find a bidder.
+&gt;&gt; Hung on to it. took it public. It's now
+a $150 billion market cap company.
+&gt;&gt; That's right.
+&gt;&gt; And you were telling us backstage he
+famously, you know, refuses to sell a
+share.
+&gt;&gt; So, it's like a slow kind of process of
+just building the the shareholder base,
+but you've done phenomenally well as a
+business.
+&gt;&gt; Just set the landscape for people that
+want to understand Nvidia, the most
+valuable company in the world, but it's
+a it's a window to understanding AI.
+&gt;&gt; Mhm.
+&gt;&gt; Why does what do they make that's so
+powerful? And why aren't there other
+competitive solutions at at that level
+of scale yet? And how do you think that
+changes over the next 5 10 years?
+&gt;&gt; Oh boy. Uh lot lot a lot there to uh to
+describe. So the the way to think about
+Nvidia uh and to some extent I I don't
+even though I'm the CEO of ARM I don't
+want to tie it necessarily back to ARM
+but in our world what really drives
+demand is compute workloads. you know at
+the end of the day is compute workloads
+and when a new workload is uh
+essentially either identified and or
+invented then it comes down to what is
+the best architecture processor-wise to
+address that workload. So let's look at
+AI. You know the lightning bolt moment
+of of Alex Net uh and the work actually
+that the Demison team were working on.
+AI particularly training uh is a very
+very complex parallel problem that is
+well suited for a GPU and in fact the
+very first work done by the engineers on
+AlexNet was not with Blackwell. It was
+not with a an AI processor but it was
+with a gaming GPU a gaming card. So
+Nvidia was in a a very very good place
+to seize that moment relative to the
+deepmind moment slalexnet
+slash the transformer/training
+and fast forward training these complex
+AI models as Dennis was just talking
+about this is a huge huge amount of work
+now what role does ARM play there every
+one of these workloads requires a CPU to
+not only run the computer but help the
+accelerator run and that's where Nvidia
+is a customer today their most advanced
+chip called Grace Blackwell is 72 ARM
+CPUs with a Blackwell architecture and
+that's that's where Nvidia plays today.
+So back to uh where does Nvidia fit?
+There is competition. You know Demis
+talked about uh prior with Google they
+do their own chip called TPUs. Uh
+obviously Nvidia is the leader with
+general purpose but right now we're in
+this interesting world where people are
+looking at is it a general purpose chip
+is it a custom chip etc etc. It's a
+fascinating time to be in this industry
+for sure.
+&gt;&gt; Where do you think companies like
+Tesla, you know, Tesla recently merged
+two pads and now they're working on AI5
+and AI6? Um, and some of the more
+emerging companies like Cerebras and
+there's a whole slew of companies now,
+Grock and others that have raised
+enormous amounts of money. Um, do you
+believe that the the role of ARM should
+be to be the lack of a better phrase,
+the arms dealer to all of those folks
+that need that capability or at some
+point do you think that you know you see
+enough of it where you're like gosh I
+could just do this better?
+&gt;&gt; Maybe a little bit of both. Uh, I mean
+today the role we play is we are now
+increasingly that microprocessor that
+connects to these accelerators whether
+it's something that's done by Cerebras
+or it's something that's done by Nvidia.
+uh something done by uh by Google,
+they're connected. Uh could we do
+something ourselves custom? It's
+possible. Could we also supply the
+intellectual property to somebody
+building a custom chip? We're doing that
+today. So to some extent um we're in a
+very unique place that not only can we
+provide the solution whether it's
+standard or custom but as AI moves from
+gigawatt data centers to running in
+these headsets or running in a wearable
+or running in something that needs to be
+energy efficient you still need to run
+the compute workload but now you need to
+run the run the AI workload and that is
+a place that I think only ARM is
+uniquely positioned to address.
+&gt;&gt; So you're going to make chips and
+compete with Nvidia. Uh, I'm not going
+to say that today, but could we do that?
+I hinted in the last conference call
+that we're looking at going a little bit
+further than we do today.
+&gt;&gt; Could we see in the, you know, next few
+years, could we see a divergence in the
+market between training and and
+inference? Because what I've noticed is
+that you've got XAI and OpenAI and, you
+know, Google's already doing it with
+TPUs. They're they're building their own
+chips for inference, which might be, I
+don't know, 99% of the workloads. They
+seem to acknowledge that Nvidia is the
+best at training and they don't seem
+they haven't at least announced an
+effort to challenge Nvidia for for
+training. So is there is there a
+possibility that you know the the market
+could sort of bifurcate into training
+chips and inference chips and inference
+gets much more competitive? Yes. I and I
+also think you have a third bucket where
+training distills down to simpler
+training chips that you don't need to
+run a trillion parameter model. You
+could have a giant model that now treats
+and teaches smaller models, mixture
+experts, 20 billion parameters that can
+be a mix of inference and training doing
+reinforcement learning where the chip is
+now helping uh learn trained areas. It's
+almost like the professor teaching a
+student who can also be a student
+teacher, right? Who can do a little bit
+of both. Uh and then there's inference
+that over time will be very dedicated
+and particularly as you get to uh end
+points that you can't have a GPU that
+you know runs at at a kilowatt of power
+you just it's impossible
+&gt;&gt; right so if you have robots in the field
+we have 500 million robots what is the
+chip market going to look like for
+robotics how what makes it different
+than what we have today on the embedded
+side versus the data center side for AI
+in
+&gt;&gt; yeah physical AI is going to be a
+gigantic market I mean today quite
+candidly bigger than data centers.
+&gt;&gt; Uh yeah, I think so. Uh and because I
+think they're going to today they
+largely use repurposed automotive chips,
+right? Things that have functional
+safety uh compliance around ADAS, but
+they're not specific for actuators or
+specific for smaller parts of the joint.
+So physical AI, particularly AI that can
+learn, uh is I think going to be a giant
+market because the robots themselves
+will have tens of chips, hundreds of
+chips. So yeah, from a unit standpoint,
+it could be huge. Uh the numbers are
+going to be well beyond what we what we
+see today.
+&gt;&gt; You started the business or ARM started
+really making reference designs and then
+working with partners. Does that give
+you a different perspective on things
+like export controls and export
+restrictions and the role that China
+plays in this ecosystem than say a
+different kind of vendor who would
+actually be you know originating trying
+to tape out themselves and trying to
+sell through
+&gt;&gt; to some extent? uh although we don't
+build anything right our business model
+is we do the design someone else has the
+chip built mostly at TSMC some at
+Samsung even Intel uh but because we are
+early in the value chain relative to the
+software ecosystem in other words we
+probably see what people are doing
+earlier than anybody else because
+ultimately we're the link between the
+hardware and the software so on export
+control yes to some extent we have a
+very big lens into it now today The
+China ecosystem actually follows the
+global ecosystem uh which which is good
+uh from the standpoint that every mobile
+phone in China it doesn't run Google
+Android but it runs a version of Android
+and it leverages this the app ecosystem
+that comes off of Android. Same thing
+with autonomous vehicles. They leverage
+the the ADAS stack that was created by
+uh by ARM and then Qualcomm and Nvidia.
+So right now the China ecosystem on
+software looks a lot like uh like the
+west which for us is obviously great. Uh
+and we have a very you know market
+opinion in terms of where we want things
+to go. It's great if the global
+ecosystem remains open.
+&gt;&gt; What's your take on um President Trump
+taking 9 10% of Intel and and how did
+that company miss this entire revolution
+so badly?
+So, you know, semiconductors, which I've
+spent my entire career at. I I started
+TI in 1984, and I've just been
+semiconductors my my whole career. There
+are long product cycles. It takes a long
+time to develop chips. It takes a long
+time to invest in fabs. It takes a long
+time to define architectures and
+ecosystems.
+If you miss a few, uh time is very very
+uh you will be punished for that. And I
+think Intel has unfortunately been
+punished on a few areas. They were
+punished on on mobile obviously they
+missed that completely. They were also p
+punished in terms of manufacturing of uh
+of going to EUV uh on uh EUV is a an
+advanced uh methodology for building the
+smallest chips on the planet. They
+decided not to invest in that probably a
+decade ago at the rate that TSMC did and
+they fell behind. Once you fall behind
+in chips, it's very, very difficult to
+catch up because the cycle gets on top
+of you. TSMC now has the best fabs in
+the world. The leading edge companies,
+Apple, Nvidia, AMD, they all build a
+TSMC. TSMC gets better at what they're
+building.
+&gt;&gt; An Intel, a Samsung, they don't get the
+opportunities. It just compounds. And
+and and that flywheel once it compounds
+and it compounds, it compounds, it's
+very hard to catch up.
+series of position.
+&gt;&gt; So if you think about maybe then Intel
+having lost its footing, you did mention
+EUV and the leaders there like companies
+like ASML and then even one step back
+companies like Carl Zeiss that make
+these lenses. Those are critical
+infrastructure that the west needs.
+Is there a role for the government to be
+spending more capital to incubate those
+kinds of things so that we have a little
+bit more diversity in the supply chain?
+So that you know if you contrast and
+compare there's the Intel investment but
+then there's these other things that are
+still maybe we should also be doing.
+&gt;&gt; Oh 100%. I mean if you look at um one of
+one of the most critical components in
+building chips are these rare earth
+compounds and there's a belief that oh
+China has cornered the market because
+they have all the access to these rare
+earth minerals. The access for the
+minerals are global. There's no issue in
+getting access to materials. Yeah,
+&gt;&gt; the issue is in the refinement and
+actually building the factories that can
+refine the materials.
+&gt;&gt; Again, that's a decades level of
+investment. And I'll tell you one thing
+that I when I I lived in China for a
+number of years and one of the things
+that I was very impressed with when I
+lived there and still am is the uh
+industrial policy that sits inside the
+central government that will last uh
+respectfully an election cycle and it
+will essentially be something that they
+require a lot of the folks who are in
+the Ministry of Technology to be
+engineers to be thinking about a policy
+on on building. So to your question,
+should the US do it? Absolutely.
+&gt;&gt; Okay. So Rene, let me put you on the
+spot. Look, between the Korea trade
+deal, the Japanese trade deal, the
+European trade deal, you know, we have
+close to now two trillion of investment
+capital that these countries will make
+into the United States. How do we go
+about creating
+an ASML type company or capability or
+you know these lenses like how do we do
+that? What universities do we go to or
+what labs do we go to? What do we do?
+&gt;&gt; I I I think there probably needs to be
+more of some of the US companies working
+together. And I'll say this because ARM
+is not a US company, but we I would do
+the same if I would working together uh
+pool pulling capital for some of these
+initiatives to essentially get some type
+of grounding. You need universities uh
+but you need corporations to get behind
+this as well as well as uh financing
+private equity all kinds of different
+capital because this is a this is a huge
+capital investment that also requires
+investment from companies and and and
+private equity but at the same time
+needs to last for years.
+&gt;&gt; Just talking about the fabs TSMC's built
+this facility in Arizona. There was
+reports about the inability to get labor
+to train labor to get a workforce that I
+don't know what the right term to use is
+culturally the workforce would operate
+the same way as they do back in Taiwan
+and they were really challenged and they
+had to bring folks over to Arizona to
+work the facility. These were news
+reports so I I we don't know this
+firsthand. Do you think we have the
+capacity to do fabs in in the United
+States on uh on shore here? And what's
+it going to take if you were in the
+administration? Let's say you were the
+AISAR for example. What would you advise
+the president to do to ensure that that
+happens successfully?
+&gt;&gt; Yeah, I don't want I don't want to take
+anything away from David. He's doing an
+amazing job as the AISAR. You've hit a
+very key tenant though relative to uh
+worldclass manufacturing inside the
+United States and what is required to uh
+to make that happen. We had it decades
+ago, believe it or not. There was there
+was a time where the leading contract
+manufacturers
+uh in the world were US-based companies
+uh and uh and we knew how to do that.
+And if you go back 30 years ago when
+Apple and Compact used to build their
+own PCs and they had their own
+factories, believe it or not, then all
+of that went to companies like
+Flextronics and SCI etc etc. So we had
+that uh ultimately for cost reasons that
+began to move all the way to uh to the
+Far East into Foxcon in China etc etc.
+There's a great book uh Apple in China
+that documents a lot of this to your
+point in terms of you know could we get
+that back in some ways there's no reason
+why we why we couldn't but it is a
+mindset TSMC is a 24/7 operation where
+if a line goes down or a customer's got
+a problem not only are the technicians
+need to be ready to go the engineers to
+be need to be ready to go and that is
+something that uh I think we've lost the
+muscle memory inside the United States
+quite frankly on how to go do that. I
+mean, we may have had it a generation or
+so ago. I don't know that we have it
+now. And we certainly haven't trained a
+generation of folks to look at
+manufacturing jobs as being something
+that is as lucrative and prestigious.
+They're sort of thinking, "Oh, it's a
+blue collar job. I don't want to go into
+that way." It's not viewed that way uh
+in Taiwan, right? And in Taiwan, if you
+say you're working for TSMC or studying
+to go off and do that, it's a highly
+prestigious kind of thing. So, it's it's
+not just the AISAR's uh problem. I think
+it's uh it's deeper than that in terms
+of us getting
+&gt;&gt; so you've diagnosed the problem. Do you
+have a solution or recommendation? Is
+there a short form that you could
+highlight?
+&gt;&gt; I I you know I think we've seen a huge
+amount of work already done by
+universities. I was at Carnegie Melon uh
+a couple weeks ago. They now have micro
+electronics classes for chip design.
+That was gone a number of years ago.
+There weren't even people designing
+chips. So I think getting manufacturing
+operations excellence uh into the
+universities making that a field of of
+discipline uh that the universities get
+behind to build up that capacity in the
+US. I think that's required. Let me go
+back to export controls which Jamath
+mentioned. And I'm not sure people here
+know exactly how these things work, but
+basically if a product like a advanced
+semiconductor is put on the export
+control list, it means that the company
+that's selling it or the buyer, they
+have to apply for a license from the
+commerce department to get their
+purchase order fulfilled. And the the
+commerce department will then, you know,
+process that license request and it goes
+through some inter agency committee and
+five different departments will
+basically have to sign off on it. And
+best case scenario, it takes months, but
+there are license applications that
+literally have been in the hopper for 2
+years, by which time the chip is
+obsolete. And believe it or not, there
+are a lot of people on groups in
+Washington right now who are calling for
+literally every sale of a advanced
+semiconductor worldwide to be a licensed
+sale uh because they think that GPUs are
+like plutonium or something and they're
+inherently scary. I mean, this is
+seriously the the the discourse that's
+going on right now. And in fact, there
+was um there's a major uh rule that was
+put forward called the Biden diffusion
+rule in the last 5 days of the Biden
+administration that basically did
+require every sale of a GPU worldwide to
+be licensed subject to some carveouts.
+Uh we we rescended that, but there is a
+neverending clamor and pressure in
+Washington to bring back these sorts of
+of rules. And the irony is that the
+people who are advocating for these
+things called themselves China hawks.
+But it seems to me that the whole basis
+of the semiconductor industry, the
+reason why it's moved so fast, why you
+get new chips every year is it's really
+been left alone by the government for
+the most part and hasn't it hasn't been
+a highly regulated industry. And I'm
+curious, what do you think will happen
+to the industry and the pace of
+innovation if the government now makes
+it heavily regulated in the way that I'm
+describing? You you brought up a great
+point and I think I think we may even
+have a couple of those in the queue that
+hasn't been approved for for a couple of
+years. You're right. Semiconductors have
+not been regulated traditionally. And
+because of that, if you look at the real
+heart of what drives uh semiconductor
+growth, compute, whether it's Intel,
+whether it's ARM, whether it's Nvidia,
+that's the West. And why is that the
+West? Because that requires both
+innovation at the chip level and a
+global software ecosystem. And the world
+works really well when it's flat and
+there isn't constraints relative to who
+you sell to or how ecosystems get built.
+If you shut off supply of a computing
+architecture into other parts of the
+world, what what will happen? Certain
+parts of the world that have the
+capabilities either in terms of people,
+technology,
+uh innovation, they will find a way and
+they will find a way around around the
+problem. And once that happens, you've
+now created two parallel universes. And
+then the US and the West would be at
+risk of that other ecosystem being an
+ecosystem of choice. So if you can
+navigate for those licenses being
+expedited, uh the the world works really
+well in semis when it's flat and a
+global ecosystem. Uh may the best
+company win. Renee, the company started
+in Cambridge
+and uh originally all the employees were
+there, but now it's sort of, you know, I
+think 50% of the employees are in the
+UK. Um, tell us about building a company
+there and just multiculturally and where
+you're going based on sort of, you know,
+where technology is going. company was
+started in uh in the UK in Cambridge uh
+in a barn uh part of a joint venture for
+uh the Apple Newton uh building a
+processor combination of a joint venture
+of Apple and BLSI technology. They
+needed a lowcost chip that could run off
+a battery. They contracted a company to
+build the chip. The chip wasn't so good,
+but a bunch of guys said, "You know
+what? The design's pretty good and why
+don't we try to build a business from
+it?" And that that's how ARM uh ARM was
+born. I'm the fourth CEO. Um, I'm the
+first one that is not from the UK. Uh,
+and I'm what I've been trying to do in
+the in the three and a half years that I
+took over is to keep the great
+scientists and technology innovation
+that we have in Cambridge, but inject a
+bit of a a Silicon Valley uh
+aggressiveness and and twist to uh to
+moving faster and going quicker. Uh now
+as you said half the employees are in
+the UK but we've got folks globally
+2,000 people in Bangalore uh probably
+over over a thousand in the United
+States different parts of Europe. So
+it's a highly global company and we go
+where the talent is and we look for
+great engineers.
+&gt;&gt; Are you able to find great STEM talent
+still here or do you need now more
+investment in core double E and chip
+design?
+&gt;&gt; We need far more investment. Uh our
+business is not one yet where I can say
+I'm hiring less people because of AI.
+I'm certainly hiring less finance people
+and legal people. Sorry Jason and
+Spencer if you're in the audience. But
+for engineers, uh, AI for development,
+AI for creation, AI for science, that's
+still a hard problem to solve. Uh, which
+is why we need more engineers to develop
+chips, which is great. I think back to
+is there more demand for compute? Is
+this AI wave that we're seeing going to
+continue in the world of generating AI
+for science and creation? I think
+there's a ways to go.
+&gt;&gt; Leveling up for a second and looking at
+our relationship with China and to get a
+little geopolitical here, how do you
+view China versus America? Is this going
+to be a winner take all with AI? Or can
+these two, you know, powers get along?
+Are we competitors? Are we
+collaborators? Are we destined to fight
+uh and go to war in Taiwan like we
+talked about last year on this stage?
+What's your take on it? And is there a
+path to us having a great collaboration
+with China?
+&gt;&gt; I'm going to be an optimist here, Jason,
+and say I think yes. Uh I think uh that
+that China views some of the things
+around AI in terms of whether there are
+these are things like guard rails or
+policies or things to keep things in
+such a way that we've got the right
+level of safety checks. I think their
+their their minds are in the right
+space. And I say this just based upon
+conversations I've had with folks over
+there. I wouldn't necessarily compare it
+to the nuclear arms race, but in some
+ways it's not dissimilar in the sense
+that you need the the the countries that
+have the capabilities to be willing to
+sit at the table to have the
+conversations and China in my experience
+has shown that so far.
+&gt;&gt; Ladies and gentlemen, Renee Hos. Thank
+you.
+[Applause]
+Thanks, Rene.
+[Music]
+Thank you so much.

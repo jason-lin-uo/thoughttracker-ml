@@ -1,0 +1,786 @@
+# Tekedra Mawakana | All-In Summit 2024
+# https://www.youtube.com/watch?v=sCY214KiwNs
+
+hop in a driverless taxi with the Google
+owned self-driving company whmo opening
+up its Robo taxis to all users in that
+City the technology of course is hugely
+expensive alphabet's autonomous vehicle
+unit weo completing another major round
+of funding Teedra has served as co-ceo
+at whamos since
+2021 we are on a mission to build the
+world's most experienced driver and make
+it safe and easy for people and things
+to get where they're going this is not a
+move fast and break things this is a
+move with great great iterative pace and
+focus on
+[Music]
+safety please uh join me in welcoming to
+kedra from weo to the
+stage hi thank you for thank you it's a
+pleasure thanks for coming thank you so
+much Hi D thank you tea thanks so much
+for being here yeah thank you uh tequa
+has been co-ceo of weo since
+2021 where she leads the company's
+business operations and expansion in
+autonomous driving recently weo has been
+reported to be completing I don't know
+if weo put this out or if it wasn't been
+used but over 100,000 pay trips per week
+now is that is that public is that like
+a true thing it's completely true it's
+over 100,000 over 100,000 week week per
+week yeah that's awesome and um we can
+now see wh Mo's autonomous ride haing
+Services in Phoenix La San Francisco in
+the Bay Area Austin and I think on X you
+announced 5 billion an additional
+committed funding from alphabet I don't
+know if that was recent to support wh's
+expansion it was recent congratulations
+and um so thanks for joining us uh the
+weo story started a long time ago as a
+Google X Project when did you join and
+how did you kind of become coo yeah
+thank you um so weo started as the
+Google self-driving car project back in
+2009 and uh actually my co-ceo was one
+of those founding team members Demitri
+doov and in 2016 at the end of 2016 we
+spun out and sort of became wh um and
+that's when I joined um at that point it
+had been determined that the technology
+was on a good enough path to start to
+think about commercialization and scale
+um and so the funny the fun thing about
+joining a moonshot is you know I came
+from Big tech company so I'm like oh
+product Market fit like it's all there
+I'm going to join and we're going to
+scale and the reality is it was an
+opportunity to learn how much this is a
+process of discovery um how much this is
+a process of figuring out not only the
+technology roadmap but also the external
+environment and at that time I had been
+head of policy at a lot of companies and
+I joined under the idea that if the
+technology works the market opportunity
+would come from being able to open
+markets and so that was super terrifying
+to me because if you're at most large
+tech companies doing policy work you're
+actually trying to
+avoid costs or you're trying to defeat
+legislation that's harmful but this was
+really the opportunity of like how do
+you Usher in this amazing technology and
+so that's when I joined and then I um
+was asked by my prior CEO to help
+launched the first Market which was
+Phoenix back then it was Chandler um and
+we launched that back in 2017 and we've
+been since 2018 a lot of people don't
+realize we've had a 247 ride hailing
+service um Around the Clock it was in
+2020 during covid though that we removed
+the driver from behind the wheel so we
+have the weo driver uh that's driving
+the vehicles at all time but there's no
+human behind the wheel and we've been
+offering that service now we're almost
+at four years 24/7 not only in Phoenix
+which was a 315 square m mile territory
+but also in San Francisco and now here
+in La so in that sort of ushering in
+from Market one to this role I moved
+through this coo role um and that's when
+we actually remov the driver and that's
+you know it was the we're the first
+company that's done that and um so it
+was daunting and I think that's one
+thing I love about wh we call our team
+wonuts is you just have to every time
+get to this point of determining what's
+good enough uh what's safe enough yeah
+and then make that leap and then learn
+because you can't learn until you get to
+that next point and so of course we have
+rigorous safety culture um but it was in
+that time that I was coo and then in
+April of 21 I moved into the co-ceo role
+with Demitri so now now that it's
+scaling 100,000 paid rides a week maybe
+we can talk a little bit I mean Jason SP
+a lot maybe starting with security would
+be an interest safety rather would be a
+really good idea um you've done it seems
+like millions of rides now no fatalities
+correct that's right um but there have
+been accidents so when you look at the
+the accidents that have occurred how
+often does an accident occur and in what
+percentage of the time is it just
+somebody running into the weo versus the
+wayo running into somebody else yeah so
+we've done 2 million sort of paid rides
+um so when we think about we just
+released this week our safety Hub so
+this you're sort of tapping into an
+issue that's really important what we've
+been able to determine as of June of
+this year with over 22 million what we
+refer to as Ro miles those are miles
+that are fully autonomous
+uh we've been able to have 83% fewer
+airbag deployments which of course is
+important because those are high impact
+um and 74 or 73% fewer injury causing
+crashes now that's what we're focused
+over a human over a traditional
+traditional human meaning the
+counterfactual in that area at that same
+point in time exactly via insurance
+claims and other data ex we're not we're
+comparing in San Francisco not on
+highways there Apple Apple's comparison
+we're comparing in San Francisco or in
+Phoenix okay great because this is the
+next piece which is you're not yet on
+highways that's right we're testing on
+highways in Phoenix and San Francisco
+saf drivers with employees and a human
+behind the wheel at times and maybe you
+could explain to us when why you're
+taking that approach cuz in my
+experience driving a Tesla since the
+beginning with full self-driving and
+autopilot before that um it seems like
+it's better on the highway than is on
+local streets where you have people
+jumping out and weird things that occur
+on the highway you very rarely have a
+run into a weird thing it's it's pretty
+ABC so I I would think it was the
+opposite but is it because speed kills
+what what's the thinking there so I
+think so just for everyone to orient um
+when you think about the levels of
+autonomy we are only focused on level
+four and above level four and above
+means you do not need a driver's license
+nor do you need to sit behind the wheel
+so when you're focused on tackling the
+hardest challenge first it's really
+important to for the driver the weo
+driver to ingest dense Urban
+environments because that is where the
+driver is going to learn the most
+sitting on freeway seeing the same thing
+every day can be predictable it's not
+entirely predictable but it's not
+additive to what the machine learns
+that's a great answer so we're trying to
+learn as much as we can learn and we've
+always from the beginning been focused
+on freeways it's just that freeways
+isn't actually how the machine learns
+the fastest in the most sophisticated
+environments but because you brought up
+you know sort of a level three or two or
+one system I think it's also important
+that for systems where you need someone
+to sit behind the wheel you can have a
+completely different approach to this
+technology but we're really when I don't
+know how many of you here have had the
+chance to take a away my ride here in La
+it actually includes this campus where
+we're sitting right now but we you don't
+you can't sit behind the wheel so
+there's no ambiguity you sit in the
+passenger seat or you sit in the back
+seat so let's talk about the lar versus
+camera bet elon's been pretty clear hey
+you don't need lar it's a waste of money
+the lar on Whos I believe is still in
+the $1 to $220,000 in incremental class
+am I ballpark correct I not sure oh okay
+um so with that as you scale costs go
+down yeah of course
+so who's who's right I mean are you
+using the liar and is that a critical
+piece of this or do you think eventually
+hey the cameras are seeing
+360° they have higher Fidelity than
+human eyes so and if humans do a great
+job and you just have to beat the humans
+at driving why even have the liar what
+do you think so obviously we have
+conviction that we need liar radar and
+cameras uh we have all three it's given
+us the opportunity to scale at this
+point we're the only company that's
+doing level four driving on public roads
+24 hours a day it's very different to
+get to the place of a demo we learned
+that ourselves back in 2015 and 16 and
+17 we had an autopilot Highway um
+product we allowed employees at the time
+Google employees to ride in that product
+we told them to pay attention we told
+them you have to be alert and be
+prepared to take over what did they do
+they do we're human we want to do other
+staff when we're in the car like I want
+to be on the phone I want to get to that
+meeting I need to send that last email I
+need to check whether or not my son's
+doctor's appointment is tomorrow and
+next Thursday we're distracted and so
+what happens the thing's beeping at you
+it's telling you to re-engage and pay
+attention and what we learned is that
+that's not a way to improve road safety
+and so the question is what's the end
+goal is it to improve Road Safety or not
+for us as a company we are obsessed our
+our culture is about safety this mission
+is about safety and we want to expand
+the number of people who have access to
+Mobility options if you need a driver's
+license then it's just like every other
+Mobility platform you have to be behind
+the wheel can I sorry go ahead I'm
+curious about when this flips from a
+technology problem and a go to market
+problem to one of Public
+Health um because that's a staggering
+fact and you know we all know people
+that have lost somebody close to them
+whether it's just a road accident or the
+dunk driving or to you know I don't know
+if you guys saw anybody follows hockey
+but the you know Johnny hocky who was
+killed with his brother the day before
+his sister's wedding by a drunk drive
+this is like so avoidable so what does
+it take for a politician or a group of
+of politicians and I don't even know at
+which level this decision would get made
+where they say okay we've seen enough
+that should be the only solution and are
+you pushing for that so we are pushing
+to make sure people who put autonomous
+vehicles on the road have to demonstrate
+their safety case we think the worst
+thing that could happen is introducing a
+new technology that doesn't actually
+improve this problem because it'll kill
+the whole industry because it'll kill
+the whole industry and the State of
+Affairs 4 ,000 Americans 1.35 globally
+dying annually from Road crashes is
+avoidable and so the challenge that we
+have to tackle with a lot of humility is
+how prepared is the public you know
+humans can kill other people how
+prepared is the public to accept that
+this isn't going to be a Panacea and
+it's not going to be perfect you didn't
+hear me say 100% 100% 100 right was 70
+there'll be a small error R there's
+going to be a small and so that's the
+work that we're doing which is we have
+Community Partners Mothers Against Drunk
+Driving national Safety Council a host
+of organizations who've been trying to
+tackle this issue who we partnered with
+early because it's it's actually in both
+of our interest to figure out how to
+tell the story that if this technology
+can reduce 60% of the uh fatalities then
+it's worth the exposure to the risk are
+you on any sort of internal shock clock
+meaning there must have been a moment
+where you convened a meeting or you guys
+had a meeting and you said all right we
+have enough data let's go we're going to
+pull the guy out of the car or hey this
+is it we're ready and then you show it
+to regulators and they say okay is there
+a set of these really important
+Milestones that we're going to feel like
+goes to other cities like is it only
+grid cities where this works like so
+where do you go from here yeah I hope I
+hope that what over time you start to
+experience is one because we are you
+know super focused on safety you'll see
+us scaling
+um and because we're building a driver
+and not a car you'll see a scaling in a
+number of ways so we have Partnerships
+right now we have a partnership with
+Uber in Phoenix why are we doing that
+people are like oh my gosh I got my Uber
+Eats in AO like why are you all doing
+that it's because we're building a
+driver and so we're trying to figure out
+all of the ways in which this driver
+could be applied to future use cases and
+so over time you're certainly going to
+see us announce new places but you're
+also going to see like in San Francisco
+we launched a 24-hour service in a
+limited territory and over time we've
+expanded that territory is a step
+functioning complexity to go to cities
+that are more how would I call it more
+chaotically City planned it is
+definitely an opportunity for the driver
+to learn more and so coming to Los
+Angeles for example was more like being
+in Phoenix going to Austin exactly
+exactly going to Manhattan we will
+certainly benefit from our work in San
+Francisco same thing with DC start with
+the GD cities and work your way into
+more complex Series so can I follow up
+on the um on that that last point I I I
+have a friend who's the third or fourth
+investor in Uber and
+um and he he's uh he's very worried that
+once this product scales there's not
+really giv me a need for Uber anymore
+right why would you need Uber if you can
+just summon the robot car directly or
+the robot driver whatever you want to
+call it right driver car whatever I mean
+doesn't this logically disrupt
+Uber at you know once it's at
+scale I think
+um well they're a current part I said we
+have a partnership with right I mean I
+have we have a partnership your friend
+hasn't sold enough
+share your friend's doing just fine we
+have the partnership with Uber because
+we think it's important for us to create
+an AV ecosystem around this technology
+like this isn't going to be we've
+created technology we're going to figure
+out everything ourselves like that would
+be foolish and very expensive and we'd
+never find ourselves profitable but
+having companies that are experts in
+integration having Automotive partner
+you know we have we're not building the
+car having network Partners having Fleet
+operating Partners public officials like
+there's a lot that is built around us
+and these are the early days the early
+Innings and so that's part of it is
+learning in the I'd say five years ago
+people would say to me you know Network
+operators would say oh this is exactly
+like we know how to do this well this is
+a constrained Supply it's not a supply
+you just sege this is a driver that you
+need to understand actually how to
+operate with and so I think we're going
+through those steps to learn together
+and so what I would say is there's room
+for a lot of people under this is the is
+the insurance Lobby in the insurance
+industry a proponent
+or do they would they try to constrain
+your progress so one of the largest uh
+reinsurers in the world swisser is
+actually been doing our safety yeah they
+would want to underwrite this yeah but
+I'm talking about more like the Geico of
+the world same I think they're very
+eager to get the data sets that we're
+releasing like we released set 20 uh
+safety papers last year they're all
+wanting to understand what the actual
+impact of this technology can be because
+you know one of the things I think
+that's hard for us to grasp as as humans
+or at least I'll say for me I don't like
+speaking for everybody the
+you know we drive in a week more than a
+human drives in a
+lifetime and you can say that as a
+company that runs fleets but we're the
+only company where it's one
+driver and that's not like that's not
+the way the world is organized right now
+right FedEx has a lot of drivers all of
+you who have Teslas have a lot of
+drivers like everyone has a lot of
+drivers and all of those drivers have
+different capabilities this is one
+driver learning all the time in
+unison and so like what can we
+demonstrate that's possible and it
+really goes back to your other question
+of like what do what are policy makers 5
+years from now really going to want to
+know and how will they be able to derive
+from what we're doing today where were
+you when you heard the news of Cruz
+dragging that woman in San Francisco 20
+feet and then where were you and what
+was your reaction internally to when you
+found out Cruz covered it up
+um I don't remember where I was uh when
+I learned but I um you know it's we're
+here to improve Road Safety so it was
+pretty um upsetting I think to me and
+the whole org I think as we learned
+about the lack of transparency like our
+view has just been be transparent it's
+not Perfection like it's technology yeah
+but you're considered they contemporary
+and you have a different approach you
+would never cover it up um they
+obviously had something dysfunctional
+did that set the industry back
+significantly how are Regulators talking
+to you before and after that if
+differently if at all it definitely led
+to more scrutiny in San Francisco
+because there was already an active and
+continues to be a fairly active voice
+against technology in San Francisco and
+so we needed to continue to engage which
+we were already doing provide more data
+which which we're of course willing to
+do and I think over time what we'll see
+is you know we have to get to a place
+where the amount of data that we're
+providing actually advances the safety
+concerns I think at that point it was
+just providing a lot more engagement so
+if the mission is to reduce those debts
+and to really scale this technology Uber
+is doing a quarter billion rides a week
+uh you just raised five billion it's a
+big number uh that gives you another
+50,000 cars um which is a fraction of
+the rides in but one city
+it seems like you need a lot of Partners
+in the car space to build this so
+wouldn't the best strategy be to license
+this technology to every car maker and
+then allow the Ubers the lifts the door
+dashes um and Fleet managers to handle
+cleaning the puke in the back of the
+cars and putting the air in the tires
+because I don't think wao wants to be in
+the back of that car cleaning up the
+puke and the and doing the air Tire
+right there has to be somebody who
+manages all that so so maybe talk a
+little bit about that possibility of and
+even a more beautiful thing would be for
+you to open source it so has there been
+a discussion internally about open
+sourcing this technology so I'll start
+at the beginning I think what you just
+described is exactly the AV ecosystem
+that I'm talking about and yes out of
+necessity and because we are the I mean
+whoever was first was going to need to
+create this it doesn't exist right so
+we're doing that um I think the second
+part of what you're talking let everyone
+do what they're good at like we're good
+at building this driver there's though a
+period where we have to become really
+good at what does it mean to operate at
+scale and that's the that's where we are
+right now what does it mean to operate
+at scale what does it you know
+technology can work and not be
+delightful not be reusable not be
+repeatable and that you know we don't
+just want people having tourism rides we
+want people actually integrating this
+into their lives and we just did a a ux
+study and we found that a third of
+people use the service in San Francisco
+to go to their doctor appointments we're
+like that feels like real life and 36%
+uh we using the vehicles to go to local
+businesses which is also real life and
+so these are the kinds of signals that
+we're trying to get as far as like
+personally Owned Cars we've always said
+as part of our strategy from the
+beginning that we would start with ride
+hailing and local delivery and that
+eventually we would make our technology
+available to um Automotive companies so
+that this you know at some point you'll
+find wayo cars sitting on showroom
+floors for sale oh wow so you you we
+could go buy one and then put it into
+whatever Fleet we want yes what does it
+cost to make one of these cars today and
+where do you see it in 5 years yeah and
+just I guess on that question where's
+the Tipping Point Unit economics so if
+you look at on the ride hailing business
+based on I know a lot of people drive
+during rush hour and then they don't
+need rides the rest of the time so
+there's a lot of excess inventory
+sitting around so if you look at the
+utilization of a car over its lifetime
+and the cost of the car over the
+lifetime what's the the breaking point
+where the unit economics Mak sense yeah
+um so your question of cost of car we
+just don't break it out since we're not
+um reported separately for alphabet
+we're just bundled rumor is a buck 50
+right now it's
+close Okay fck 25 not commenting on
+rumors not commenting on rumors wa wait
+if that's that's just the um the system
+for self-drive the car plus the system
+The Car Plus but what 125 to 150 is the
+rumor rumored cost for the car today
+actually is like comment on the rumor
+well but but that's I mean that's
+obviously a lot more than a Tesla right
+so
+yeah t 40,000 50,000 yeah so do we do we
+know ballparks here what can we
+say keep on so fun we're just we're
+poker players so we're trying to read
+you and bait you and it's not working we
+didn't know you were a Jedi so so so
+sorry let me just ask is it about
+Reinventing the system or getting the
+next gen of the system before the unit
+economics break or is it about volume
+what's the breaking point of where the
+unit economics become profitable become
+positive um yeah not not going to get
+into that other than to say to you I is
+the thing I spend all of my time focus
+on and we are on but there's a path
+there there's completely a path there
+well without getting into costs so is
+one of the plans here to sell this to
+you know all the car makers so that they
+can compete with Tesla because most of
+the car companies do not have the
+technical capabilities to develop their
+own self-driving it's just impossible so
+are you guys going to be like an oem to
+all the car makers so that they can
+provide self-driving yeah we've said
+sort of publicly and we've had
+Partnerships where we've made the
+technology available um it's a question
+of when you know when will a level four
+sort of product be available and
+interesting to Consumers at scale you
+know that's part of the question but
+absolutely this is part of our strategy
+friend of mine can I that yeah of course
+I'm sorry friend of mine um who couldn't
+make it here um is an angel investor and
+Uber and um
+he uh
+was no uh if you look at the business
+outside of the United States actually if
+you look at Uber's business um there's a
+lot of opportunity in other markets and
+sometimes in other markets they will
+prove probably more able and open-minded
+to taking like the public health
+priority around these things so why such
+a heavy Reliance on America considering
+the scale and the impr premature of
+Google could probably pull you into any
+number of markets anywhere around the
+world yeah so we really think about it
+as this sort of Learning Journey but
+it's also just where we started right I
+mean part part of the conversation we
+get to have now is what would if the
+driver was at this level of maturity
+where would we have started um that said
+we have Global aspirations we are always
+thinking about the does it just take one
+geography to prove this point or do do
+you view it the problem that way like
+it's like we're training we're training
+we're training and then at some point
+there'll be some City or yeah County
+which point I just want to make sure I
+understand this idea where like you can
+prove that it's just so reliable and
+valuable and that you're saving just I I
+really care about that idea yeah to who
+who who would it prove the point to the
+people that would make the rules I guess
+yeah I think I hope I I don't know I
+think there's a lot of noise in the
+system there's a lot of confusion about
+full autonomy versus partial
+autonomy um there's not a lot of
+legislative activity that's informed by
+experts right so I don't know right like
+certainly It's My Hope and I think one
+of the things when you think about
+certain countries around the world there
+is more of a nation state top- down
+approach to some uh regulations and so
+that could be easier Singapore yeah you
+prove it it's codified into law you
+launch um it had it that hasn't been the
+primary way we've thought about Market
+entri or opportunity but certainly one
+of the yeah are but as long as some
+markets adopt the rest of the markets
+will see and they'll fall behind and I
+mean you just have to penetrate some
+markets yeah from Google had amazing
+success with Android and open source so
+back to that open source question you
+must have had this discussion many times
+internally why not open source the
+technology and then provide you know the
+premium Android to people who want want
+to pay and is that something on the road
+map because I hear there's a big
+discussion internally to car OEM just
+open sourcing the maps the software to
+make everybody contribute to it to just
+get this out quicker so where where are
+you at with those internal discussions
+that wayo give away the whole business
+yeah exactly no well I mean Android it's
+worked right I 20 billion in it's like
+let's just give it away well I mean but
+freedberg if you look at Android it's
+only gotten stronger right completely
+different I think that that was
+Defensive on search but not your answer
+no I like it when you guys answer each
+other's questions cuz I get to learn
+what you actually want to see your
+answer we we fight a lot it's fine no
+it's fun it's actually fun for me um so
+feel free to keep so on the question of
+open sourcing that isn't something that
+we're spending a lot of time talking
+about right now let's talk about level
+six which I believe is inclimate weather
+and really heart yeah oh level five
+rather sorry um and I know when I'm in
+my Tesla it gives me a little warning
+hey in Clement weather and the FSD might
+be degraded you know extra attention
+time um how close are you you know to
+feeling comfortable with these things
+driving in snow ice rain or when that
+happens do fleets just pull over and
+game over you know you have you can't
+use these this technology yeah we've uh
+been improving weather we've tested
+across 25 cities specifically for that
+so we had massive storms in San
+Francisco last year and we didn't take
+down the fleet like our fleet was able
+to handle all of the rain so rain and
+flooding pretty good rain May good
+because of like uh liar and radar
+maybe you said it okay fog snow ice um
+so we've tested
+in we've tested in snow and ice we don't
+have any deployments there but that's an
+area that we're learning fog we've been
+able to master that
+280 no problem same thing with those
+sandstorms in Phoenix that was an early
+like those are actually you know very
+challenging and then there swarms of
+birds in Phoenix like really and and
+heat right you have a machine brutal
+it's like it's like Revelation
+like there's a lot there's a lot and you
+know we're the only company that can
+pick you up autonomously at the airport
+right and so
+like is whole thing what has been the
+hardest um challenge for you as CEO
+I think we've heard I mean we've heard
+all these rumors about like cultural
+issues at Google or whatnot but you know
+I get the sense that you're much more
+separated in terms of building a much
+more Technical and specific culture but
+what what have been the hardest
+challenges for you I think one of the
+hardest challenges was making we made
+such a big decision in going fully
+autonomous which is sort of the reason
+we're here during CO mean getting that
+person out the person from behind the
+wheel scaling this and so then bringing
+the culture back together to now scale
+so we just needed like we needed a
+minute to lock back in that's one of the
+things and the other one I would say is
+what you just said which is you know
+it's a brilliant team and the team works
+really hard but like bad things are
+going to happen in the real world with
+human drivers around our cars and the
+team takes that so seriously and so
+that's it's it's like a it's like having
+worked at I mean I worked at a I know
+there too but like other kinds of tech
+companies I know every kind of company
+is stressful it's a different kind of
+stress When people's lives are
+completely and they personalize work
+yeah and so that's it's just a different
+level of stress and
+accountability responsibility
+differently because of that pressure or
+no you do when things happen in Industry
+you know we need people to sort of you
+know stay buckled in and believing that
+this is something that is worth it it's
+audacious it's hard but it's worth it
+and it and it's bigger most people come
+because they have lost someone like
+they're very Mis can I be very honest
+with you it's it's an incredible framing
+you gave and I I totally missed it for
+so many years which is when you said
+we're building one driver I thought for
+whatever reason you were building an
+autonomous driving system which I I
+interpreted very technologically for a
+very long time but you're absolutely
+right you have one goal it's very
+clarifying actually the world's greatest
+driver one the world's greatest driver
+world's most trusted driver most trusted
+driver Teedra thank you forred yeah I
+mean incredible thank you so much
+yeah thank you it was awesome thank you
+so much

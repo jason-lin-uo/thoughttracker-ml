@@ -1,0 +1,2284 @@
+# E174: Inflation stays hot, AI disclosure bill, Drone warfare, defense startups & more
+# https://www.youtube.com/watch?v=hZp80SYIRlY
+
+all right everybody welcome back to the
+all-in Pod episode 174 almost up to 175
+I believe there are a lot of folks
+getting together next week at the all-in
+meetups around the world to watch the
+show unfortunately jcal had an oral
+incident this week he will not be
+joining us I guess he cracked a tooth
+and couldn't make it so he is sitting
+this one out very last minut decision
+cracked her tooth eating a bison r about
+the Salt Lick in hustin which is a true
+story freir I think we found an image of
+okay let's Jake out at the Salt Lick
+cracking his tooth on a
+[Music]
+rib let your winners
+ride
+Rainman and instead we open source it to
+the fans and they've just gone crazy
+with
+[Music]
+it all right so we are going to announce
+be all-in Summit 2024 back to
+LA we had such a great time in LA it was
+a great location for everyone we really
+appreciated the facilities at UCLA this
+year we're upgrading the experience once
+again for everyone so the event's going
+to be September 8 through 10th in La if
+you haven't seen it please watch the
+recap video from last year we put it up
+on
+YouTube and then there's all the
+interviews from last year are also on
+YouTube we're going to have another
+amazing lineup of speakers this year and
+have a much more kind of upgraded
+elevated experience for everyone
+applications are open today so go to
+summit. Allin
+podcast.co to put an application in to
+join us this year as you know we had way
+more applications last year than spots
+and this year we're going to have all
+sorts of upgrades we're GNA have
+transportation to and from all the
+events for everyone a concierge booking
+service to help you book your rooms and
+get you set up in La for the trip we're
+doing a full day event on the Sunday
+September 8th followed by two days of
+content Dy about town on the first night
+two blowout parties it's going to be
+awesome so we're really excited about it
+we've got a much bigger budget this year
+and we're going to try and really make
+the uh the experience awesome while also
+delivering the great content so really
+excited to do this again in La I
+appreciate everyone's support of that we
+had a lot of debate internally about
+where to take
+it and we settled on going with what we
+know and trying to make it a little bit
+better this year so anything else you
+guys want to say about Summit and
+there's only one kind of ticket this
+year right that's right so we're not
+doing like regular ticket and VIP we're
+just doing one ticket for everyone and
+everyone's gonna get this kind of
+elevated experience she'll be cool sax
+just show up would be awesome hope to
+see you there I want to invite a couple
+of speakers yeah you've got some good
+speakers I saw yeah it's gonna be great
+when are we gon to start announcing the
+speakers freeberg we will do that in a
+couple weeks we already have a bunch
+booked and it's going to be awesome oh
+that's really exciting that's awesome
+yeah I know CP you wanted to take it
+somewhere else I mean we were in debate
+on Vegas maybe going to some other
+country but uh you went to another
+country where'd you go this week I was
+in Paris France what were you doing
+there there's like a important AI
+conference and Jonathan Ross the founder
+of grock and I kicked it off with like a
+fireside chat for like 45 minutes at the
+beginning just to get everybody amped up
+and excited
+cool yeah it was really anything
+interesting come out of
+it I think the sound bite that made an
+impact on me was was from Jonathan so I
+think he did a very good job of
+explaining where Nvidia is really strong
+which is really in learning and where
+Nvidia is trying to build the
+business which is an inference but the
+problem is the features almost compete
+with each other between learning and
+inference and I think that that was a
+good clarification and then the second
+thing is he said that if he deploys his
+road map he'll have 50% of the available
+inference compute by the end of next
+year wow based on all the needs of like
+open Ai and meta and everybody else
+which is a wait but that's a smaller
+physical footprint is that right and
+it's just because they can do higher
+token per second less power higher
+tokens per second across all the major
+models so it would it would be
+meaningfully less power and meaningfully
+cheaper
+so that was a pretty amazing sound bite
+though his his whole explanation was
+actually really good so I mean if you
+listen to the spaces we did I thought it
+was good I thought this was even better
+so I'm trying to get a copy of
+the of the talk because it was taped so
+that we can kind of post it at a minimum
+anybody who's interested in studying
+Nvidia should listen to what he has to
+say because I think the the nuances
+between us and them are really profound
+and they were pretty Stark the way that
+he described them so it was cool it was
+great to be in Paris frankly how does
+Nvidia respond to this movement or this
+notion that there's an entirely
+different chip category focused purely
+on inference do they have inference
+focused chips in development or a
+different road map that they're going to
+have to kick up now I mean I think it's
+very hard for them it's it is a
+structural innovators dilemma and why is
+that because they've made some
+architectural decisions around things
+like hbm which is high bandwidth memory
+or specific kinds of extremely high
+throughput optical cables and why these
+things matter is that they've gone and
+bought up the world Supply and they've
+basically bare hugged these markets as a
+structural part of their design now that
+makes sense and it's very legal the
+problem is that if you architect around
+it and go through a totally orthogonal
+design process we're not subject to any
+of those supply chain considerations and
+I think he explained that really well I
+didn't understand it in nearly as much
+detail as I did leaving so I think
+that's an important takeaway it's also
+really important for for all the
+hundreds of Chip startups and for these
+Venture investors who are ripping money
+into these companies to know these
+differences because if you are investing
+in a company that is subject to you know
+hbm in their design decisions or these
+specific optical cables or a whole bunch
+of other things you're going to be in a
+really difficult spot because nvidia's
+bought them
+all so I thought that that was a that
+was really interesting the other thing
+that Nvidia does brilliantly is what
+Intel did in the 80s and 90s when they
+wanted to kind of Choke the market for
+CPU competition which is that they were
+able to define a metric that everybody
+started to pay attention to which for
+them was clock speed and if you remember
+Intel would push Moore's Law and they
+would push transistor density and clock
+speed as the measurement of value now
+for a lot of consumers none of us knew
+any better and so every time we saw a
+new chip we would go through the Pentium
+upgrade cycle because we thought that's
+what we were supposed to do it turns out
+that clock speed doesn't really factor
+into speed the way that you think about
+it and experience it as an end user
+using software and it's the same in Ai
+and so we talked about that as well so
+it's an incredibly important company
+NVIDIA is I think they're performing
+brilliantly they're running many of the
+same plays that Intel did to try to
+create total dominance but there's some
+very important nuances
+around power and around supply chain
+decisions and Technology decisions
+that frankly some people would think are
+unsustainable and the more I understand
+them I would be in that camp as
+well so I thought it was a very
+important conversation and hopefully we
+can post it yeah it cool it and by the
+way it's great to be in Paris too what
+do you think of Paris you know I have a
+new appreciation for what's going on in
+these major cities I think that all
+major cities are crumbling I don't and I
+don't mean to be alarmist or very
+dramatic about that it's just that I
+spent aot lot of time with entrepreneurs
+that are in
+Paris and they struggle with the same
+things that the people in San Francisco
+do and then I had couple of
+conversations with some folks that are
+entrepreneurs in London who were
+there and they suffer from the same
+things lots of petty crime lots of
+garbage lots of vandalism lots of
+drugs and so no place is perfect it
+turns out everybody is struggling from a
+lot of experimentation gone wrong and
+how these cities run that was that was
+actually my
+the biggest takeaway outside of the
+actual AI conference itself but that's a
+western City problem you're not I mean
+have you visited many cities in China or
+other parts of Asia and is that like a
+western problem I have not been to China
+in six years I've been to Hong Kong but
+I've not been into China for six years
+so I don't
+know I would say that India has its own
+vagaries so those issues are not the
+same I've been to Singapore a couple
+times my kids were just in Japan for
+spring break so I saw a bunch of the
+pictures those cities look relatively
+the same very orderly well run clean but
+yeah you're right these Western cities
+are a bit chaotic yeah sax is this like
+a western social liberal
+manifestation how cities are being
+challenged generally M like Malay has I
+think Malay said this right he said like
+all these Western social liberal beliefs
+are having lifestyle impact in urban
+centers well it's hard for me to speak
+to what's happening in Europe but we
+know what's happening in the United
+States all the biggest cities are blue
+and they're run by a certain ideology
+and in those cities we've had now a
+decade plus of decriminalization de
+prosecution
+decarceration and the impacts of this
+are obvious we also at least in San
+Francisco we have subsidies for people
+who want to live on the streets and do
+drugs all day I mean it's not prohib to
+do that so all of our public spaces have
+been taken over by people who are happy
+to take the whatever it is $7 or $800
+subsidy and do drugs all day you also
+had this referendum in California that
+essentially lowered a whole bunch of
+felonies to misdemeanor basically if you
+steal less than
+$950 that's considered a misdemeanor now
+instead of a felony and so there there's
+been a huge increase in crime because of
+that you know shoplifting just doesn't
+get prosecuted anymore and misdemeanors
+don't get prosecuted anymore we've had
+all these sour daas who don't want to
+prosecute misdemeanors so I think if
+voters had understood that
+lowering a lot of these crimes from
+felonies to misdemeanors meant that they
+wouldn't get prosecuted at all I don't
+think they would have done it but that's
+kind of where we are but are we seeing a
+rebound from that now Sach is democracy
+working because I know that in San
+Francisco we had an election recently
+and in the ballots it seemed to indicate
+that voters were sick and fed up with
+the the living situation in the city and
+they're putting different people in
+office and have an intention of changing
+the city Charter and
+changing the the laws in the city so
+that we can reverse this trend is that
+not where things are I mean like sitting
+you know sitting where you sit like
+don't you see San Francisco kind of
+trying to write write itself and as a
+result doesn't democracy work over time
+yeah it's just that we live in a one
+party State and that one party has been
+captured by ideologues and so it's very
+hard to to change it is true that in San
+Francisco there was an election recently
+and the more
+radical supervisors were defeated we
+have I think finally a good da in San
+Francisco but these um radicals have had
+a long time to entrench their power and
+the party Machinery helps keep them
+entrenched so yeah I think you can argue
+that we've bottomed out because the
+public has recognized the problem but
+it's still very hard to fix and it's
+going to take a while I think for the
+first time in a long time time I'm more
+optimistic than not given the people
+I've seen that tolerated the conditions
+historically have reversed course over
+the last year and have said we got to
+act and we gotta yeah you know do our
+kind of Civic process well time with
+tell you have to remember like when when
+New York City was a chaotic mess in the
+70s and 80s it took two different mayors
+and it took almost a decade for that to
+get cleaned up but it took the strength
+of leadership first David dinkin set the
+framework and then Giuliani really
+executed Rudy Giuliani and between the
+two of them and I think what people call
+the broken windows Theory they hired a
+lot more policemen and they just really
+cleaned up all of these really bad areas
+and then it had this knock on effect the
+problem is when I'm staying at a hotel
+in Paris or when I was speaking to some
+of my friends who live in London it's
+the same thing it's like the amount of
+knife crime is so egregious as an
+example that they tell you don't wear a
+watch I mean I don't I don't wear
+watches anymore when I go out but what's
+crazy is they will tell you that you'll
+get stabbed over a phone where it's like
+you don't need to stab me for my iPhone
+here just take the iPhone so there's a
+level of lawlessness and petty crime
+that's affecting
+tourists that to me was like very
+surprising and so even when I was
+walking around Paris I was like should I
+really
+feel scared here and my reaction was no
+I've never felt scared in Paris but then
+what's ringing in the back of my ears
+are These Warnings from people that are
+that are that have lived there for 10
+and 20 years who've had this stuff
+happened to them that was really
+surprising to me so that stuff in San
+Francisco as far as I can tell or any
+major city in the west hasn't really
+been fixed because you haven't had a
+shift in leadership yet where they've
+really said okay we're going to double
+down on policemen and policing and we're
+going to amp up the punishment that
+hasn't happened yet well I was just in
+Vegas this week and it doesn't feel how
+was your trip give us the trip report
+yeah I went to the Google next
+conference but I will say first off like
+no crime in Vegas like Vegas is Vegas
+it's it's a very different
+environment but I yeah I went to the
+Google next conference I ended up going
+out because at ohal we did a partnership
+with uh with gcp so we're moving all of
+our infrastructure and doing a lot of
+model development on
+gcp and it was great I think there was
+30,000 people at this event which was
+insane have you guys been to any of
+these like AWS reinvent or
+the Google next or any of these no I
+have not what I didn't realize prior to
+going to this was how much of an
+ecosystem there is like you go they they
+take over the whole Convention Center at
+manderlay Bay and there's hundreds of
+companies that have built services or
+build services on gcp that are there
+pitching cios and CTO of other companies
+and so it's this real Network effect
+type of business model that I hadn't
+fully appreciated just how like deep the
+network is and and how entrenched it is
+I I also got to go to this thing where I
+spent a lot of time with c and CTO at
+other companies big
+companies and a big takeaway for me that
+I also didn't realize was how most of
+them are not on a single cloud
+provider almost everyone I spoke with is
+on multiple clouds so they're all on
+like AWS and AER and gcp and they use
+different aspect of each cloud and
+there's a lot of interoperability
+between the clouds now which I had
+previously my naive concept of this
+because I'm obviously not deeply in the
+space was that a company picks a cloud
+and they move everything over to that
+one service provider but it turns out
+that they split and then they allocate
+dollars based on the services and the
+pricing so it was pretty clear that
+everyone is it's like a race to the
+bottom on pricing for basic
+commoditizing services in the cloud like
+data storage right and then whoever has
+the better higher level Services Whoever
+has access to better mod or has a lower
+price on running models or on running
+things like inference that's where the
+money is made and the gross margin on
+that is quite different and I think
+that's where a company like Google
+probably has a much bigger Advantage
+because of the uniqueness and the
+quality of the models that they've
+developed but yeah I just didn't I
+didn't really appreciate like how much
+there was so so my other big takeaway
+was the cloud is a wide open competitive
+market right now like there is no AWS
+lockin in this market there's no a zero
+lock in there's no gcp lock in like you
+guys yeah the lock in comes from the
+developer services that they provide so
+both Amazon and Google and I'm I'm
+assuming Azure as well will give you
+access to incredibly talented Engineers
+who will help you build production code
+yeah and the ecosystem on how so like a
+lot of the clouds are competing for the
+Consultants who actually do the work for
+the big Enterprises so Cap Gemini deoe
+PWC they have these massive booths
+facilities and then go and build tools
+for companies is also a key part of the
+business strategy and yeah I mean it's
+such a competitive market I did not
+appreciate just like how much of an open
+game this still was sure it was a great
+great couple days in Vegas and I got to
+see some of our friends we ducked in and
+saw helmuth in the poker Go studio for a
+minute some big tournaments going on at
+the ARA it was fun we had a good time
+okay let's move on so you know on the
+docket today we were going to talk about
+CPI the March CPI numbers came in from
+the Bureau of Labor Statistics yesterday
+higher than forecast at 3.5%
+year-over-year this is up from 3.2%
+year-over-year inflation reported by the
+Bureau of Labor Statistics in February
+higher than expected for three straight
+months now let's pull up this chart next
+as we all know the FED did 11 rate hikes
+in 2022 and 23 and the intention was
+that we would see inflation come down to
+their target of 2% and they would start
+to lower rate rates and obviously we're
+not seeing that inflation is remaining
+hot things are getting more and more
+expensive I pulled together some of the
+numbers on year-over-year price increase
+housing is up 5.7% year-over-year
+Transportation costs are up
+10.7% year-over-year and the highest car
+insurance is up
+22.2% year-over-year
+so the expectation has been that the
+market will do rate Cuts Larry Summers
+came out and said you have to take
+seriously the possibility that the next
+rate move will be upwards rather than
+downwards I guess sax let me let me ask
+you first for your commentary on how
+this plays into the election cycle I
+know Biden was expecting a rate cut or
+several rate Cuts going into the
+election which usually helps the case of
+the incumbent maybe you can comment on
+where the the election cycle might be
+influenced by this inflation report well
+I think it's definitely bad news for
+Biden I was expecting fed put this year
+and really the whole Market was the
+market was expecting three rate Cuts
+this year which would have been really
+good news for for Biden and I think this
+latest inflation print was kind of a
+dagger to the heart of of that
+expectation and I think the Wall Street
+Journal put it best it said here
+Wednesday's report had been hotly
+anticipated because fed leaders had been
+willing to play Down stronger than
+anticipated inflation readings in
+January and February as as reflecting
+potential seasonal quirks but a third
+straight month of above expectations
+inflation data erodes that story and
+could lead fed officials to postpone
+anticipated rate Cuts until July or
+later so it's not just the fact that
+this inflation print was higher than
+expected it was also higher than
+expected in January and February but
+people were willing to kind of Overlook
+that saying well maybe it was just kind
+of a you know quirky reading but now
+we've had three straight months it's
+pretty clear that the narrative that we
+had going into this year which was that
+inflation was on its way down that it
+peaked at 9% uh as the official rate I
+think in 2022 and then it was going down
+every month through all of 2023 and I
+think the expectation going into 24 was
+it would keep going down we get these
+rate Cuts well after three straight
+months of inflation being more
+persistent and stickier Than People
+expected I think that narrative is
+basically dead so I think the narrative
+now is it's going to be rates are going
+to be higher longer and I think Larry
+Summers is reflecting that view Larry's
+going further he's not just saying that
+rates are going to be you know at the
+current rates for longer he's saying
+they might actually
+increase and that's a risk yeah last
+summer he said and this was last summer
+so almost a year ago he was saying the
+Market's got it totally wrong we're
+actually going to need much higher rates
+than the Market's anticipating for much
+longer as well than the market is
+anticipating and so did Mario drogy both
+said the same thing no one paid
+attention to him everyone ignored it and
+assumed that this was going to be a
+quick rebound to normalization it's
+clear that you know once again Larry has
+proven himself to be fairly
+preci understanding where are headed
+Larry Summers has for the most part been
+spot on from this on this whole
+inflation question going all the way
+back to 2021 remember 100% 100% in q1 of
+2021 Biden's first quarter in office the
+big legislative push was for the $2
+trillion covid relief bill this the so
+called American Rescue plan and Larry
+Summers said that it was it risked
+inflation it was an inflationary bill it
+was stimulatory yeah too didn't need it
+the the economy was already coming back
+and we didn't need it and Biden was
+risking inflation but of course
+inflation was only at 2% at that point
+so the administration kind of poo pooed
+Larry and said you know that's is Larry
+Summers being Larry or whatever and sure
+enough we were at 5% inflation by that
+summer and you have to wonder if Biden
+had listened to that advice
+would he be in a different position
+right now going into the election I
+think probably he would have been and
+you got to wonder for what I mean what
+are that two trillion dollar accomplish
+I mean covid was winding down I mean
+these were the last bit of stimy checks
+and payments to these Pharma companies
+and I mean it was basically a grab bag
+and it was passed on straight party
+lines and it was just totally
+unnecessary I mean the economy certainly
+didn't need it and so here we are and I
+think that a a lot of people including
+the markets thought that Biden was kind
+of out of the woods that this year we'd
+see the final leg of inflation going
+back to normal but that's not going to
+happen and I think you know going beyond
+the political ramifications I think
+there could be several other knock on
+effects that we should talk about I mean
+one is for the
+consumer this means that the cost of
+borrowing is going to be higher for
+longer that makes it harder to buy a
+house mortgage payments are higher
+that also means if there's fewer home
+sale transactions that means the price
+of housing could come down so there
+could be a correction in that market
+second if you want to buy a car your car
+payment's higher and if you have loans
+uh your your personal interest is going
+to be higher and this is why I think
+consumers feel like they're worse off
+than the economic data would otherwise
+reflect and Larry Summers actually had a
+tweet storm about this about a month ago
+where he calculated that if you included
+the cost of borrowing in infl
+that inflation was much higher than
+people thought and that it actually
+peaked not at 9% but at 18% so Larry had
+an excellent tweet storm on that and he
+said that the cost of borrowing which
+used to be calculated in inflation but
+is not anymore was the reason why
+consumer sentiment about the economy was
+depressed he said that that accounted
+for about 70% of it so people should be
+feeling better off because GDP growth is
+good and unemployment is low but they're
+not because inflation is so high and if
+you include cost of
+borrowing the inflation's even higher so
+I think this is really bad news for
+Biden but it it's a story that's been
+going on now for three years it's not
+just this one inflation print right it's
+funny yesterday Biden said during a
+press conference with Japanese prime
+minister kashida that he's sticking with
+his prediction of a rate cut before
+Year's end but there might be a delay uh
+which I think is obviously
+you know based on what the data is
+showing and what folks that seem to know
+and have been pretty good predictors are
+saying is unlikely we were supposed to
+get one in April yeah and we were
+supposed to get one in June oh yeah
+remember the fed the FED Open Market
+Committee in December stated that they
+expected three rate Cuts this year and I
+think the market in some cases we're
+predicting as high as four or five right
+and now we may not have any and we may
+actually see a rate hike if you were to
+follow some well if we if we see a rate
+hike before the election I think Biden
+is toast
+yeah but I mean I think Summers gave
+that maybe a 15 to 20% chance which is
+it's still not the most likely scenario
+but uh possible but possible no one's
+counting on that in December chamat if
+you're a Fed
+governor and obviously the the the
+Federal Reserve Board of Governors sets
+the uh rates they meet and they they
+make these decisions how influenced are
+they politically how how influenced are
+they by this election cycle and you know
+historically this is meant to be a
+fairly independent board but there's
+been a lot of consternation over the
+last few years that this board acts like
+almost a political apparatus
+particularly an election yours you mean
+when they're not
+plagiarizing well tell us what you're
+talking
+about it turns out that before I answer
+your question that that was a joke Nick
+you can please show the Tweet but there
+was an article that came out that said
+one of the FED Governors has apparently
+massively plagiarized most of the work
+that got her to the position of being
+fed Governor yeah so the same thing that
+happened to the president of Harvard so
+TBD what happens to that fed Governor
+but it seems you know my observation
+there was just more that it's like the
+preferred method of defenestration now
+of academics and the appara right before
+if you had right leaning views or
+Centrist views you get run out of town
+and get fired now all of those folks are
+using these search engines to basically
+f fig out really quickly that you
+plagiarize large quantity of your
+academic work and that your scholarship
+is is a little bit more speculative
+which then brings into question why do
+you get the right to to help set the
+policy of the most important economy in
+the world well anyways so that that was
+that joke but so I think that you're
+asking the absolute right question I
+think that the FED has become
+increasingly
+politicized and I do think that there
+are actions that foreign governments
+take to influence the election but I do
+not think it's what most people think
+when I say that most people ideas goes
+to like some dark room conspiracy theory
+and misinformation and I think that's a
+little bit naive I think the more
+obvious way in which other
+governments can impact the US election
+is exactly how Sac said which is they
+know that if inflation ticks High and
+interest rates are up and consumers are
+under pressure and meaningfully
+displeased with the economy they'll vote
+out the sitting
+Administration and so what can other
+governments do they can do what they're
+doing so
+Nick I I love this like explanation in
+three charts Nick chart number one
+please what is this so this is a core
+driver of inflation which is the price
+of energy and what you see here is that
+since the beginning of the year oil
+prices have gone up which ultimately
+will translate to into a higher cost of
+doing business right running your
+factory keeping the lights on keeping
+your home warm getting from point A to
+point B all of these things go up which
+that ultimately get reflected in prices
+which is what inflation is and so that's
+a very bad Trend obviously we had a lot
+of really good stuff happen through the
+course of last year but it's largely
+reversed itself so it's important to
+double click into this and figure out
+well who's driving this is it just a
+random act or is it a systemic set of
+decisions and it turns out it's systemic
+so if you go to the next chart what this
+shows you is what the US has been doing
+so the United States has clearly created
+an incentive to flood the economy with
+oil which the laws of supply and demand
+would say prices should go down and by
+bringing prices further down they would
+have further brought down inflation and
+they would have pulled forward these r
+cuts that we had been expecting from the
+fed the problem is that the rest of the
+world actually said no hold on and
+that's what you can see on the next
+chart so for every time we were trying
+to increase production all of these
+other countries have been cutting
+production and this is the change in the
+OPEC plus crude production targets of
+2024 so what you see here is for every
+barrel of oil the US would pump out of
+the ground more than that one barrel of
+oil would get actually restricted by all
+of these countries on this list which is
+just to show you that these countries
+have a very specific view about how they
+want that energy Market as and that's
+just one market but it's an input a key
+input into inflation and rates to work
+so you're saying that the the OPEC has a
+price per barrel price Target and
+they're able to manipulate production to
+maintain that price Target so while the
+US is trying to lower the price per
+barrel these other countries are are
+able to have a stronger influence and
+balance out production to get when you
+when you make these Cuts Like This
+prices will go up because OPEC plus is
+meaningfully bigger the sum of all the
+parts of OPEC plus is meaningfully
+bigger than just the United States on
+its own yeah and so the United States
+May amp up a few hundred thousand
+barrels a day but if OPAC cuts by a few
+million barrels a day you see what you
+saw in that first chart which is the
+price will go up and that's largely why
+prices have gone up so I think why this
+happens is because when they see the
+United States trying to manage inflation
+and manage Global rates right because us
+rates are not just for the United States
+they're the they're the trends Setter
+for everything else I think that in part
+there's a decision that this rate
+philosophy the economic philosophy the
+political philosophy if they wanted to
+support that what they would do is
+actually also keep prices where they
+were or increase production but by
+reigning in production what you're
+essentially doing is voting against that
+entire apparatus right so OPEC and all
+of those countries and those decisions
+are not made by an oil Minister let's be
+they're made by the leaders of those
+countries whose decision then gets
+reflected by the minister of petroleum
+or oil in all of these countries is a
+vote against Biden and the United States
+government and the politicization
+potentially of the fed and then the last
+comment is just that when you look at
+the reverse repo rate which is a
+fundamental measure of liquidity what
+you also see is liquidity very quickly
+getting sucked out of the system which
+is also generally a system health check
+that the FED uses to make sure that the
+system is operating as required so in
+totality what I see is that there is a
+structural disillusionment with the
+current Administration and where people
+can make decisions in their own best
+interests versus the collective
+interests of the United States in a
+broader framework that the US may
+represent are voting against it and so
+this is why the idea of a persistent
+inflation rate is a lot more credible
+than it was six months ago and I and I
+think sorry just the last point and I
+think it's just what sa says which means
+that we're probably now unbalance 5050
+between a hike and a cut and I think if
+you don't see this thing change in the
+next three months you're going to see
+7525 for a hike of at least 25 basis
+points and I do think David's right I
+don't see how the sitting Administration
+in any
+government will be able to withstand the
+onslaught
+of electoral displeasure
+if rates are four and a half five and 6%
+going into November Toth if that is I
+think everything you said makes sense
+going into this election rates are high
+and Andor going higher what does the
+Biden Administration do the fact is they
+are very likely going to come up with a
+strategy to try and win votes that will
+likely involve some sort of stimulatory
+process would be my guess and that
+stimulatory process may look something
+like more student loan forgiveness more
+debt
+forgiveness she had a whole speech about
+debt forgiveness and here's here's the
+irony the actions that the
+administration is likely to take to
+support themselves in the election cycle
+are likely going to further fuel
+inflation and that's the biggest concern
+and worry I have is that there's almost
+this inevitable set of behaviors that
+are coming down the pipe here over the
+next few months because of the inflation
+report that are actually going to make
+things worse not better I mean to to
+your point Biden just announced a new
+student loan forgiveness plan remember
+the Supreme Court invalidated his last
+one so now he's trying again and it
+would potentially give loan forgiveness
+to something like 30 million borrowers
+so yeah they're going to try and buy
+votes but I think it's already very late
+in the game to be trying to do that I
+think that's what they've been doing
+over the past few years I mean Biden has
+been a huge spender you know he passed
+the the covid relief bill he passed the
+inflation reduction act which was a
+ridiculous name for was it 750 billion
+of of more
+spending and uh there was the chips act
+which yeah and there was the chips Act
+and the infrastructure Bill and then
+remember he wanted four and a half
+trillion of build back B on top of that
+and he wanted even more he didn't get it
+any event I think that this is a classic
+case of Biden spent the last three years
+making his bed and now he's going to
+have to sleep in it and if in fact
+inflation is persistent and sticky and
+not going away and he doesn't get rate
+cuts
+again this may cost him the election but
+but look I want to move beyond the
+political aspect of this and just talk
+about some more of these KnockOn effects
+because we talked about the impact on
+the consumer there's also an impact on
+investors there's an impact on the
+government and there's an impact on on
+the banks so let's just deal with the
+banks for a second we've talked about on
+the show how commercial real estate
+developers are hanging on by their
+fingernails right now you know they they
+basically borrowed huge amounts of money
+to buy commercial real estate when rates
+were really low and they did so at high
+valuations now there's been a huge
+correction on that market and they
+cannot pay back those loans and they
+can't get refinanced so what's happening
+well they're working with the banks to
+restructure those loans to tack on the
+interest they can't pay now to the end
+of the loan and then the bank will hope
+and pretend that they'll be able to get
+paid back one day it's called extend and
+pretend well the extend and pretend
+strategy could work if you believe that
+r cuts are coming really soon because
+you just need to hold on until the rate
+cuts are here and then you can get
+refinanced at lower rates but if rates
+are going to be higher longer that
+strategy is not going to work and you're
+going to see more and more real estate
+sponsors throwing in the towel and banks
+are going to end up foreclosing on these
+properties and you're going to see more
+and more fire sales there's a really
+dramatic example just the other day in
+St Louis a building that was bought a
+few years ago for $200 million just fire
+sailed at $2 million I mean 99%
+reduction this is like like crash level
+that's for the equity right yeah no this
+is like the price of the deal I mean I
+asse the equity was completely wiped out
+yeah I guess they sold it for three and
+a half million are you sure that's not
+the equity that's got to be the equity
+there's no way that's the no it's just
+the price of the
+building okay I don't know I mean with
+the debt it's got to have the debt
+attach way look I mean either way it's a
+total wipe out for the equity holders
+yeah but it's also going to be a wipe
+out for the bank that made that loan
+originally yeah or that bought that loan
+when is packaged into cmbs or whatever
+it was so I would expect that if rates
+stay higher longer that's going to
+create tremendous stress on Commercial
+Real Estate and and therefore on the re
+Regional banking system that made all
+these loans to commercial real estate
+developers so that's knock on effect
+number one knock on effect number two is
+is the government's cost of borrowing
+the 10e rate's already risen to 4 and a
+half% now and if rates stay higher
+longer as more and more of the
+government debt rolls it's going to end
+up getting refinanced at higher rat
+and the need to refinance all this
+government debt is going to continue to
+put pressure on the bond markets and I
+think this is why Larry is fundamentally
+pretty bearish on rates going down is
+the government's financing costs are so
+huge and they continue to grow we're
+adding something like a trillion dollars
+of new debt every hundred days there
+have been some reports of this yeah 7.6
+trillion is getting refinanced of old
+debt in the next 12 months right 7.6 is
+sitting around 2%
+and now it's going to get bumped up to
+close to 5% right which adds which adds
+an incremental $210 billion a year of
+Debt Service expense just on the debt
+that's getting refinanced in the next 12
+months not to mention the deficit not to
+mention etc etc so right so the
+government was extending and pretending
+as well I mean they were hoping that
+rates would go down fast enough that
+when all of those massive government
+debt rolls and needs to be refinanced
+it' be done at lower rates so the
+interest costs wouldn't swamp us we're
+already I think at over a trillion
+dollars now of annual interest expense
+for the federal government we are yeah
+and it's going to get it's going to rise
+to 1.6 trillion so it's going to be 60%
+greater than our defense budget just
+servicing the old debt we're basically
+in a classic debt spiral where we're
+borrowing our annual deficit is we're at
+2 trillion plus now so we're not paying
+back the principle on the debt we're not
+even paying back the interest on the
+debt we're borrowing money to pay off
+all the interest
+and then some on top of that so that's a
+huge problem for the federal government
+and then I think the the last piece of
+this is investors if you pull up this
+Fred
+chart on the FED funds rate over the
+very very long term so what this chart
+shows if you just zoom in on this is the
+Fed funds rate basically over the last I
+don't know like 75 years and you can see
+that it peaked in the early 1980s when
+vulker decided to break the back of
+inflation by jacking up interest rates
+to like 18% and it was very painful we
+had a pretty severe recession and I
+think it was 81 or 82 but then the
+economy came roaring back by 83 and
+Reagan got elected in ' 84 in any event
+that began a period of declining and low
+interest rates for investors again
+starting in the mid 80s and it continued
+all the way through I mean especially
+through I think the post GFC period and
+then this Co period where we had zero
+interest rates for a long period of time
+and you can see the last Spike we've had
+was when the FED decided to jack up
+rates to 5% in response to inflation so
+the fact that we've got this persistent
+sticky inflation suggests that this
+whole you could call it really a almost
+a 40-year period of declining in low
+interest rates maybe over and when
+interest rates are going down it creates
+a huge Tailwind to the stock market and
+the bond market because the discount
+rate is lower so stocks and bonds are
+going to be more valuable well if we're
+in a in a long-term environment that's
+more inflationary and rates have to stay
+higher longer that's not great news for
+investors it hurts the stock market and
+it creates in in the private investing
+world like VC and real estate it creates
+a much higher hurdle rate so it's harder
+for for private investors to justify
+fundraising so you know I think think
+it's too early to say that this 40-year
+trend is over but I think it could be
+and um and and the reason for that is
+just the huge pressure of government
+borrowing crowding out private investing
+and this sort of everpresent need to
+keep issuing more and more debt at
+higher and higher rates to make it more
+attractive is going to create I think
+just very bad conditions for for
+investors so Chim let me ask you if you
+concur
+given that today where we're sitting as
+of recording right now towards the end
+of market on Thursday April 11th the
+NASDAQ is sitting at an all-time high
+and the NASDAQ is up 1.6% today
+following this inflation report
+yesterday what's the disconnect in the
+market on why investors are buying
+equities given that we're likely going
+to have persistent higher rates and as a
+result multiples should compress
+particularly in growth stocks
+and why the nasdaq's kind of firing
+up I think it's important to look at
+what stocks are actually lifting the
+NASDAQ just like what stocks are lifting
+the S&amp;P 500 and we've seen this there's
+a massive dispersion there's like seven
+or eight companies that matter and 500
+odd companies that don't matter
+much and so the reason why things go up
+in an environment like that is
+irrespective of the economy money
+managers are paid to deploy money and I
+don't know if you guys saw this but Nick
+maybe you can find it I linked to it in
+my newsletter last Sunday which was an
+article about the fact that the global
+amount of total available equities to
+buy is
+shrinking right so if you think about
+that what that means is that the number
+of dollars is growing right linearly and
+in some years it seems exponentially but
+then the and so then a certain
+percentage of that Finds Its way into
+the equity markets but when the equity
+markets continue to shrink and there's
+few and fewer things to buy prices will
+still go up irrespective of the
+underlying justification so I think that
+the the thing is you can't look at these
+things as a sign per se you know if you
+look at Commodities as a different
+example Nick I sent you
+this Commodities are up broadly speaking
+30% since the beginning of the
+year the I think the reality is the
+following countries are feeling
+increasingly uncomfortable
+with the decisions that the United
+States are making whether that's its
+position to keep funding the war in
+Ukraine whether that it's the continued
+instability in the Middle East whether
+it's posturing with China whatever it is
+and so every country is now making a
+very different calculation about what
+they want to do and I think how it gets
+reflected is that they're optimizing for
+their own economies and what that yields
+is each of them trying to make as much
+money as they can in the short term and
+as as a country that is a net importer
+we are going to feel the price of those
+decisions as inflation and I think saaks
+is right like that's where we have to
+start figuring out how we rebalance
+these decisions from a foreign policy
+and economic perspective because if you
+don't change something here all of these
+countries are basically going to be like
+we're on our own we're going to optimize
+for ourself they're these countries are
+basically voting in a way that says we
+are not being led in a way that we trust
+and that unfortunately Falls at the feet
+of the sitting president yeah well look
+I'm
+hopeful as we all are that work in the
+tech industry that new tools and Ai and
+other Technologies would have a massive
+driver on productivity which netn net
+could help even this out that's the one
+last great hope sitting here AI
+obviously viewed as being highly
+disruptive by non- technologists and
+deeply concerning and particularly in DC
+what is but what is that thing that Bill
+Gates says things are overestimated in
+the short term and deeply underestimated
+in the long term I think that that's
+that's what AI that's right that's right
+and so AI is a bunch of no offense
+probabilities and statistics today okay
+and so we talked about this last time so
+we should debunk this whole thing of
+like there's some glowing brain
+somewhere that's capable of doing
+everything doesn't mean that we
+shouldn't underestimate it being capable
+of this in five or 10 years which is
+probably the window in which we have
+some form of AGI but today it's not that
+and so the the great leaps in
+productivity freeberg that you're
+talking about are probably a 3 to five
+year phenomenon not a three to five
+month so what saak says is Right which
+is how does the sitting Administration
+buy votes today stimulatory be it'll
+have to make a ton of promises the
+problem is it can't really work its way
+into the economy fast enough come the
+November election and so that that's
+where I think they're in a really tough
+spot which means that then
+and and I hate to B it bear or bad news
+but this is where you have a lot of
+these Wag the Dog kind of scenarios that
+come to mind because then the only way
+to really Galvanize a populace is to
+distract them yeah well look let's talk
+a little bit more about AI because I do
+think that regardless of the near-term
+and longer term implications there is a
+peing of fear peing of Interest both
+different spelling of the word Peak Adam
+shiff yesterday proposed a bill sorry
+earlier this week called the generative
+AI copyright disclosure act in response
+to I think over a hundred musicians
+signing a letter saying they're
+concerned that their copyrighted works
+are being used to train AI models and
+Nick if you'll pull up the text from the
+bill that I pulled out here real quick
+we can take just a quick look it's a
+very short bill it's only five pages
+long and it defines a generative AI
+model uh that's a combination of
+computer code and numerical values
+designed to use artificial intelligence
+to generate outputs in the form of text
+images audio or video and that it
+substantially uh incorporates one or
+more models as a system and it's
+designed for use by consumers and what
+the bill then asks is that anyone
+developing these models has to submit to
+a register run by the federal government
+a list of all of the data that they used
+that might be copyrighted to train the
+model and that this becomes a precursor
+to being able to legally develop and use
+AI models that you actually have to
+register the training data so I have a
+rant on this which I'm going to preserve
+for the end given my rights as moderator
+here today but I'd love the reaction
+from saaks first on shift's proposed
+Bill Jam moth and we'll run this one
+around the horn pretty quick well I
+first of all I think it's just it's too
+soon for this legislation I mean the the
+first thing that needs to happen is we
+to get the question of fair use
+arbitrated by the courts we've talked
+about this before people publish lots of
+information on the internet and I guess
+technically it's copyrighted but it's
+been published in a completely public
+way and humans are obviously allowed to
+read it and and use it to generate their
+own work I think there's a question
+about whether AIS are allowed to learn
+from it as well and I would argue that
+they should be to some degree under fair
+use maybe if you're talking about
+copyright write of songs I don't know if
+that's different anyway these questions
+need to be arbitrated and once we know
+that then we'll know whether there's a
+need for a rights Clearing House of some
+kind which may not be a bad idea I
+actually got pitched by a Founder
+recently to create a rights marketplace
+with copyright holders on the on the one
+side or rights holders could be
+musicians could be movie studios could
+be anyone who owns content and then AI
+on the other that want to license that
+content for training purposes and I
+actually thought it was a pretty good
+idea
+so my point is just that there are
+entrepreneurs working on solving this
+problem as well and I guess what I'm
+saying is I'd like to see fair use
+figured out and i' like to see what the
+private Solutions are going to be before
+we try to legislate this problem away
+from really a point of ignorance because
+we're so early in the development of
+this market now I think one of the
+questions you have to ask here is why
+did Adam Schiff introduce this bill and
+who is Adam Schiff Adam Schiff is a
+powerful California congressman who is
+the candidate for US Senate right now
+and he's expected to win he's he's ahead
+of Steve Garvey who's the Republican
+candidate by like 30
+points Schiff is in addition to being a
+vicious partisan who's known for for
+rushia gate he also is a prodigious
+fundraiser and when he's not in front of
+the camera he's very effective in closed
+doors appealing to the key special
+interests in California that matter and
+my guess is that he's not carrying water
+here for the hundred musicians who
+signed that letter he's carrying water
+for the big studios the big Hollywood
+Studios including music labels but also
+the movie studios and he's an LA based
+Congressman yeah I mean that's who he's
+representing now at the same time my
+guess is that he's run this by the big
+tech companies and he's probably got
+their blessing some degree because like
+Bill Gurley always points out they like
+rules like this because of regulatory
+capture they can comply with them but
+the little guy the entrepreneur who's
+trying to create something new has a
+much harder time complying with these
+regulations so this is basically a big
+special interest group sort of deal that
+I think he's he's putting forward do you
+think this becomes law not yet but it's
+Paving the way for something and it's
+more like his promotional effort during
+his campaign effectively well I
+mean his they'll still try to move it
+legislatively but yeah I mean the the
+big La powers that be like this and they
+love this yeah
+Jam any reaction to this bill I
+think there was an article in The Verge
+that I
+posted it turns out that open AI
+transcribed over a million hours of
+YouTube videos to train
+gp4 my take away when I read this was
+well if Google's not going to sue open
+AI then this is a mood
+point because you're talking about one
+of the most valuable companies in the
+world with one of the most valuable
+sources of training data in the
+world and so if if that if it's true
+that there was a copyright violation and
+Google just lets us go what's anybody
+else supposed to do what chance does
+these group of singer songwriters have
+and you know no offense to Adam shift
+but he's not going to be able to do
+anything so if this multi-trillion
+dollar company doesn't draw a line in
+the sand then none of this matters and
+everybody's going to train on everything
+I think like my big Takeaway on all this
+is that there's a real deep
+misunderstanding on what
+these models really are and what they're
+doing the assump
+I think
+naively is that they take in a buch of
+data and then they spit that data back
+out and in some cases maybe slightly
+transformed but the truth is that the
+models don't actually hold the data that
+they're trained on they develop a bunch
+of synthesized predictors that they
+learn what the prediction could or
+should be from the data and this is
+similar to how humans operate
+can you pull up the article Nick that I
+posted this article is from last May and
+you guys may remember this case I can't
+remember if we talked about it on the
+show but Ed Sheran was
+sued by the estate of the writer of uh
+the Marvin Gay song Let's Get It On for
+infringement in his song Thinking Out
+Loud and he actually prevailed in court
+where he went through with the jury how
+he comes up how he runs his creative
+process how he came up with the song and
+how he does his work and as you know Ed
+Sheron and nearly every musician or
+every artist listens to other people's
+music looks at other people's art and
+they synthesize that data they
+synthesize that knowledge and that
+experience into their own creative
+process to
+Output what in their mind is a novel
+creation and I think that AI Works in a
+similar vein in that it's not actually
+storing the images it's not actually
+storing the music of third parties it's
+learning from that process we all like
+musicians learn on classical music they
+listen and play other pop artists music
+and then they learn things that they
+like things that they don't like things
+that fit together well certain
+intonations syncopations and that's how
+they develop their own tracks and so I
+think that the um assumption in AI is
+that it's almost guilty until proven in
+inent is what's going to really
+challenge this technology getting
+Mainstay appeal and being useful uh in
+the way that it could and should be that
+the de facto is that it's learning and
+training is copyright infringement I
+don't buy that you that stores the data
+no that that just because you're
+learning like a human it's not copyright
+infringement and I'm sorry let me let me
+make my last statement which is that I
+do think that similarity is measurable
+and that is copyright infringement so I
+would rather than focus on how you train
+the model I would encourage legislators
+to find as Saks points out a better
+process to Define what makes one thing
+distinct from another run that analysis
+and then use that analysis to determine
+uniqueness and that analysis is
+ultimately what should determine whether
+there is copyright infringement versus
+the how was the model trained exercise
+which is rought with challenges as you
+guys know how do you determine
+weightings how do you determine whether
+this was even relevant to the model we
+don't even know if the models ignore the
+data or use the data in their synthesis
+or in their waiting it's all very opaque
+and so it's almost like hey here's a
+list of stuff that I read but I may not
+have even paid attention to 95% of it
+when I was reading it we don't know and
+so I'd rather focus on is there
+copyright infringement in the output
+does the output mimic an original
+copyrighted source and if it does then
+that's where the infringement should lie
+not on the how did you do it I think
+that you're creating an impossible
+standard is it 5% the same is it 8% the
+same is that 14% where's your threshold
+is it how that different than training
+how's that different than training if
+I'm JK rling am I not allowed to read
+other authors copyrighted books for fear
+that by reading it I will now use their
+copyrighted material in my novel
+book okay stick with that example but we
+can also use the Edge shear an example
+Nick can you play this video I could
+play you every song in the pop charts
+right now over four chords you name any
+song and I'll play it in the four chords
+so these These are CS fcgn messenger um
+that's your friend um uh cuz you only
+need the light when it's burning low
+only miss when its starts only know you
+love when you let her go I'm walking
+away CRA David uh C David I'm walk
+away the in last one Let It Be Beatles
+when
+I why is that important obviously it's
+not illegal for Ed to have learned these
+four chords but if he tries to produce
+those songs and calls them something
+else that's clearly somebody else's IP
+similarly I think that if you don't give
+people the right to say yeah of course
+the letters AB c d e FG all the way to Z
+are not my invention it's the alphabet I
+don't control that I don't control words
+and their meanings but when I put one
+word in front of another in front of
+another purposefully and I create
+something that has value to me I should
+have the right to protect protect that
+and I think that's the fundamental
+question should you not have a right to
+protect it should you allow somebody
+else to take that and in some opaque way
+and undefinable way make a system that
+could compete with that thing and have
+no repercussions I think that that's
+what people need to decide and I'm fine
+by the way one way or the other yeah in
+the Ed Sheran case he was saying the
+exact copyrighted lyrics and he was
+singing the exact copyrighted Melody he
+was just playing the harmony with four
+chord I that was kind of the point he
+Wasing in the case of all the the
+copyrighted material you're stating I
+want to protect it from showing up in
+the end product of someone's creative
+process I shouldn't care about them
+listening to my song in their creative
+process everyone always references how
+Oasis sounds like the Beatles right they
+those guys love the Beatles they listen
+to The Beatles so much of their music
+mimics and and sounds like the Beatles
+but the Beatles aren't going to file
+infringement suits against them they
+were inspired by The Beatles that was
+part of their creative process and so I
+would argue that the output should
+really be where we assess this stuff and
+it's going to take a lot of cases you're
+creating an impossible standard where no
+any individual person will have the
+economic wherewithal to fight this and
+so it's basically seeding all creativity
+to the board and I don't think what is
+what is the standard of measuring how
+someone is training their creative
+process your standard is I gotta go I
+don't think I got to go listen I got to
+go you got to tell me every time you as
+an artist listen to a song and then I'm
+going to deter determine whether or not
+you are listening to copyright music and
+making your own music that's basically
+what we're asking for here with this
+bill that's not I don't I'm not talking
+about the bill I'm talking about this
+idea that if you train a system that can
+actually automate a task for you based
+on some learning That's Unique you
+should be able to uniquely protect your
+ownership for example we have a
+different set of ways in order to
+protect processes that are unique to you
+which is you can have a patent or you
+can have a trade secret but if you R all
+of this stuff away where some system can
+in an automated way do anything for you
+and replicate a whole bunch of work that
+it sits on top of to be able to do that
+without any repercussions I think that
+that's a very important explicit
+decision and what I'm saying is you
+cannot expect individual people to go
+and fight these little battles against
+these big multi hundred billion dollar
+companies if the big multi hundred
+billion dollar companies and trillion
+dollar companies don't fight the other
+multi hundred billion dollar and
+trillion dollar companies what they're
+effectively saying isone of this is
+worth anything copyrights are worth
+nothing and I'm okay with that decision
+but it should be an explicit one and
+it's not going to happen the other way
+where some five-page law from a guy
+who's trying to get elected is not the
+thing that's going to make a the
+difference the difference is if Google
+doesn't Sue open AI it means copyright
+is worthless and by the way that article
+didn't just point the finger at Google
+it pointed the finger at meta where
+there were explicit decisions to say
+yeah no let's just violate the copyright
+it's it's okay and if it's okay then
+it's okay sax you're the independent
+Arbiter here any summary well somebody's
+going to litigate it somebody's litig
+GNA litigate it you're you're right it'd
+be surprising if Google didn't want to
+given how valuable all their YouTube
+content is and a competitor you know
+slurped it up to train their model but
+somebody will will litigate this it
+could be these songwriters who knows and
+then we're going to we're going to get
+some messy arbitration fair use and it's
+probably going to work its way up over
+the different circuit courts you'll
+probably get different judgments and
+finally the Supreme Court will resolve
+it and then we'll kind of know where
+things stand and then and then there'll
+be a legislative
+fix I I don't know where it's going to
+end up I mean I know what Jal would say
+if he were here I'm sure he's like
+chomping at the bit be part of this
+conversation he would say that creators
+deserve to get paid for their AI rights
+and that if you want to make money
+training a model on their cont you got
+to compensate them I also I I I buy I
+buy your argument too which
+is you're not really violating their
+their rights for the AI model to read
+their content and analyze it which is
+what it's really doing as long as it
+doesn't output a violation of their
+copyright and that's what all artists do
+that's what all humans do the creative
+process is one of initially synthesis
+you learn from other people's works you
+you learn from the environment around
+you you learn from the world that you're
+exposed to but there was compensation in
+those other bottles there was not you
+don't oh Oasis never paid the Beatles to
+listen to their music they the radio no
+that's not true they listened on the
+radio they may not have paid but some
+Advertiser paid for an ad the radio
+station had to pay ASCAP and BMI there
+was publishing rights there was all
+kinds of other rights so that's not true
+what you're saying I'm not what I'm what
+I'm saying is it's not copyright just
+because I train my process somebody got
+paid so that singer songwriter did get
+paid they may not have getting paid by
+the listener but in this example
+nobody's getting paid look I think
+there's three potential outcomes here
+okay outcome number one is that freeberg
+wins and the courts decide that this is
+fair use and these AI companies aren't
+in violation copyright infringement is
+measured in the work of art that is
+produced not in the process by which it
+is generated right okay so that's
+solution number one I think solution or
+outcome number two is that the courts
+throw a big wrench into it or a bill
+like shift bill which is largely
+punitive throws a big wrench into it and
+I think what happens then is new AI
+companies have a really hard time
+accumulating training data and so the
+incumbents who already have all the
+training data they may have to pay a
+fine there'll be some slap on the wrist
+but now you've created a real moat and
+barrier to entry and so secretly they're
+going to love it and it's going to be a
+big problem I think for the open source
+movement so that's outcome number two
+and then outcome number three is you
+create some sort of Rights Clearing
+House kind of like uh exists in the
+recording industry where if you want to
+cover somebody's song or perform
+somebody else's song there's already
+predefined terms on which you can use
+those rights and then there's a
+compensation mechanism for that so you
+don't have to go negotiate every single
+deal that you want to do you can just
+use the song you can use the rights and
+there's again compensation for that that
+would be like the compromise I could see
+that alter
+number three existing in which case the
+incumbents probably like that because
+they again they want there to be a
+barrier to entry they want to make it
+hard for the guy in the garage to Pony
+up the the capital necessary to create a
+new model but at least that would be a
+somewhat functional system it wouldn't
+be outcome number two which would
+totally put the kabash on the use of
+training data so in any event I don't
+know which one of the three it's going
+to be but those are the three potential
+outcomes that I see Happening Here have
+you guys seen UD
+udio uh no it's like a new music geni
+system it is frakin unbelievable is that
+vod's thing or vod's another thing I
+think vod's another thing this one just
+came out it was apparently rumored for a
+while ex deepmind employees started yudo
+it's been this kind of like hot stealth
+company
+for a couple of months people have been
+talking about it as rumored to to be the
+best music AI but here is someone that
+said Dune the Broadway musical and this
+is what it outut go ahead of AR the
+greatest leader we've ever seen they say
+that he's a listen
+gu
+and onand back that's crazy you can hear
+the layers of Music the layers of the
+tracks the
+smoothness the tempo obviously like
+there's just so many layers to this Nick
+can you pull up another one some of
+these are just incredible because it
+spans genres it spans Styles it's like
+so beautiful like the way it's put
+together every every piece feels
+somewhat emotional it's Unique it really
+doesn't feel like you're just listening
+to someone printing copyright
+music funky dance pop
+[Music]
+song create a birthday song for my
+friend Irvin
+create an Irish folk tune with violin
+and
+[Music]
+instrumental it's pretty incredible and
+I think it shows the
+state-of-the-art is such now that this
+is going to become a real challenging
+question from a legislative point of
+view given how far ahead these
+technologies have gotten and I think
+that musicians artists consumers are
+going to start to use these tools in a
+really prolific way given how good they
+are now I heard from someone that just
+sat for hours creating tracks that they
+listen to on udio the other day and so
+you're basically just playing your own
+music all day long it's really
+incredible anyway exciting time
+hopefully all the lawsuits and the
+legislators don't get in the way of all
+this Innovation cuz it's moving really
+fast and we should just kind of see
+where it goes before trying to clamp
+down totally mhm guys I want to talk
+about as you know this like emerging
+Trend that we've been talking about
+offline about drones in Warfare recently
+we saw small drones controlled by the
+houis attack cargo vessels in the Suz
+Canal it led to rather large scale
+Supply disruptions economic value
+destruction we've seen
+videos I think you have one we can pull
+it up and take a look of Ukrainian
+controlled drones flying in to destroy
+tanks and large warehouses and Russian
+held territories causing tens of
+millions of dollars of damage I think
+we're seeing the acceleration of the
+changing face of warfare technology lots
+of these small form factor lowcost
+autonomous physical agents and I think
+there's a bunch of implications both
+with respect to war but also how we
+spend money on defense and how Silicon
+Valley is involved in response um sax
+I'd love to hear your your points of
+view maybe you can highlight for us some
+of the things you've been seeing in the
+utilization of these new technologies in
+in the war given you're our in-house War
+correspondent and you obviously had do
+some work in Silicon Valley go ahead
+I've heard a lot about the impact of of
+drones just by watching the coverage of
+the Ukraine war I was listening to an
+interview with an American mercenary
+who's fighting on the side of Ukraine
+and he described how ubiquitous these
+drones were on the battlefield now he
+said that you literally can't get out of
+a trench to go to the bathroom because a
+drone will basically uh get you and he
+said they're buzzing around they sound
+like mosquitoes because they're kind of
+just everywhere on the battlefield both
+Ukraine and Russia have them and several
+months ago going into this year zalinsky
+said that this would be the big game
+changer for Ukraine they're going to
+make a million drones I don't think it's
+worked out that way it turns out that as
+many drones as ukrainians have been able
+to put on the battlefield the Russians
+have even more because they're able to
+mass produce them in factories they've
+got bigger drones better drones and I
+think the most important variable in in
+the war so far with respect to drones is
+that the Russians have pretty Advanced
+electronic warfare and so they've been
+able to jam a lot of the Ukrainian
+drones whereas the reverse has not been
+true for the ukrainians so I would say
+that drones have been a huge factor in
+the war but so
+far the balance there is tipping towards
+the Russians as it is in so many other
+areas as well but to your larger Point
+there's no question this is the the
+future of warfare and you're seeing that
+it's cre creating a lot of opportunities
+for asymmetric Warfare so for example
+with the hoodies they've been firing
+cheap missiles and drones at our at our
+ships in the Red Sea and we've been
+having to spend $2 million air defense
+missile shooting down $2,000 drones so
+if if that continues and we don't have a
+good response to this problem it's going
+to really change the balance of power I
+don't know if this was at our Summit or
+if I heard it this later from some
+senior person in the military who said
+that aircraft car
+are outdated technology like they don't
+make sense anymore and we're going to
+see a shift towards lots of small
+autonomous drone like systems on the
+battlefield taking out targets and as a
+result if you Game Theory this out the
+necessity for defense systems against
+large amounts of swarming drone like
+systems and then you know what do you
+actually have to do with your existing
+military architecture to play into this
+kind of new Tactical system and then
+that's going to require a massive
+evolution in technology and is the
+United States
+prepared they should Silicon Valley play
+they should be we should I maybe Nick
+you can throw up this the first link
+that I sent you but eight years ago I
+came to this conclusion and I invested
+in this company called s drone which is
+autonomous drones in the Seas our
+customers include the US Navy the
+chairman of our company actually is is
+Admiral Mike Mullen who is the former
+chairman of the Joint Chiefs of Staff
+but these drones are capable of going
+into some of the most dangerous places
+in the world and collecting enormous
+amounts of surveillance data and
+information that otherwise
+takes the United States government lots
+of time and lots of money and is pretty
+scattershot and instead with these
+things you can
+be constantly in hotpots and if you go
+to the next one so much that you know
+we've deployed some of these drones in
+the Middle East and there was a point at
+which the Iranian Navy intercepted two
+of our drones and picked them up and
+this was kind of like a a global thing a
+few years ago but I really believe in
+this trend and I think that we have an
+enormous responsibility to be funding
+these things these are really
+complicated systems to build obviously
+and they take lots of time so these are
+not overnight successes freedberg and
+they take lots of money which is hard to
+come by as well but these are absolutely
+the right kinds of businesses because
+eventually at a minimum you Building
+Systems that can measure and collect
+enormous amounts of really critical data
+so that people can make better decisions
+which hopefully is measured in Saving
+life right and then over time you
+actually get to a military that should
+be much cheaper much safer and has fewer
+people in general on our side and on our
+enemy sides on the front lines which
+means fewer casualties and I think that
+that's the whole value of this entire
+movement it's cheaper it's way better
+it's much more useful and it gives the
+respective armies that use these things
+or militaries rather a fuller picture so
+that you can make decisions that have
+enormous consequences yeah and in
+February the Department of Defense on a
+panel in Arlington Virginia briefed
+reporters and Industry folks on their
+interest in growing their Partnerships
+in Silicon Valley to access the
+necessary technologies that are going to
+rewrite the face of warfare I don't know
+about you guys but I've seen kind of two
+sides of this in Silicon Valley a good
+number of venture capitalists and
+entrepreneurs and technologists think
+that it's morally incorrect to support
+warfare technology and then there are a
+few that are going blazing ahead with
+supporting this new Evolution and these
+Technologies do you guys see the same
+and is there going to be kind of this a
+big step to weaponize these things right
+so s drone we have a very good big
+thriving successful business these
+machines aren't weaponized by any
+stretch of the
+imagination and so I think that
+that comment is more
+genuflecting and virtue signaling than
+it is real because in order to even be
+legitimately considered for some kind of
+like armed
+unmanned product you have to be deep
+inside of the bowels of the dod and
+Pentagon and have been working with them
+for years to even be taken seriously so
+the startups that are like assing those
+deals are not even close to those deals
+and the startups that are close to them
+are probably being much more quiet and
+thoughtful and Hush Hush because the
+path to do that isn't legitimate unless
+you've been in business with these folks
+for 10 plus years yeah I think
+it's it's more a commentary on the fact
+that if this is where
+an organization the Department of
+Defense that has a trillion dollar
+annual budget is going to be allocating
+resources that technology is going to
+need to come from somewhere and the
+investors in Silicon Valley that are
+making these Investments are likely
+going to outperform those who are not
+does that sound reasonable to you saxs
+that there is this shift underway and
+that again who have sh shied away from
+defense technology are you know
+necessarily going to be left out of a
+you know kind of a new industry that's
+emerging in Silicon Valley well I guess
+the way I put it is that the US
+government spends over $800 billion
+every year on defense and it's not clear
+what we're getting for that money
+because in Ukraine for example we've run
+out of artillery shells we've actually
+we've run out of Patriots we've run out
+of javelins we've run out of stingers so
+we're spending all this money we're not
+getting a lot for it and part of the
+reason is because the defense industry
+is Consolidated down to these five Prime
+defense contractors who are basically an
+oligopoly and we have this Cost Plus
+procurement system where they just raise
+their prices every year and the
+government pays it
+so I think all of us want the United
+States to have an effective defense I
+mean I want us to use our military power
+more wisely I don't like all these
+stupid Wars we keep getting in but I do
+want the United States as an American to
+be the most powerful country I do want
+us to get the best value for our defense
+dollars and the only way that's going to
+change is if if the defense industry
+gets disrupted by a bunch of startups
+doing Innovative things and there's no
+question that I think drones are the
+future of warfare so your point about
+autonomy I think that is where this is
+going next is that right now the drones
+are typically controlled by you know
+somebody with like a VR heads called
+teleoperated teleoperated and they're
+fpv this firsters Vision drone and you
+basically strap some sort of explosive
+on to it and then you drive it into
+whatever your target is yeah those types
+of drones are easier to disrupt by
+electronic warfare because if you can
+disrupt the signal from the T operator
+then the Drone basically doesn't know
+what to do and so you're right the next
+step here is autonomous systems that can
+be programmed with a Target and can find
+it on its own make decisions on its own
+and then they also build in some
+shielding against some of this like
+jamming technology or this ew electronic
+warfare technology so that's where all
+these things that's where the
+battlefield is of the future is headed
+and in a in a weird way if you think
+about humans becoming a smaller and
+smaller piece of the battlefield and
+autonomous drones becoming a larger and
+larger piece of it these wars become
+resource Wars and basically technology
+Wars that's right which which may or may
+not be good I don't know but by the way
+so so this is the point I wanted to make
+if you pull up this chart if if that is
+where Warfare is headed is a large
+number of small autonomous systems that
+go and find a Target and try and execute
+a mission and you know in the case of
+Ukraine saying they want to have a
+million China might say I want to have a
+100 million all of these systems are
+dependent on lithium ion battery systems
+today 79% of lithium ion battery
+production comes out of China the US is
+only 6.2% of global lithium ion battery
+production and China has talked about
+scaling up drone manufacturing to a
+level that the US simply cannot even
+contemplate in its industrial
+architecture today so it seems to me
+that if that is where Warfare tactically
+is headed that China has a huge leg up
+and is going to become a critical point
+of dependency for the United States to
+develop an
+Arsenal necessary to be competitive in
+this this kind of next evolution of
+warfare I will say that like if you then
+Game Theory this out like how do you
+defend against these autonomous
+electronic systems there's a technology
+called EMP or electromagnetic
+pulsing where as you guys know if you
+run a very high current electric field
+you can actually send out and emit a
+pulse that then when it hits electronic
+circuits far away induces a high
+electric current in those circuits and
+short circuits them so
+emps are a defense system that allow you
+to take electronic systems and this has
+been you know kind of a a part of
+warfare since probably the 1960s 50s but
+targeted emps and targeted systems for
+eliminating all of these autonomous
+systems becomes a new defense
+technology that I know several startups
+in Silicon Valley that have been funded
+with a lot of capital by folks that we
+all know very well that are kind of
+pursuing this we don't have a choice
+because I think the point is that if you
+nick you just post this photo we have an
+enormous human capital problem with the
+military which is there's just not
+enough folks in listing anymore so we
+don't have any choice except to automate
+and become drone dependent just tell us
+these numbers Jam this is a chart from
+the Department of Defense that shows
+military enlistments looking back from
+about the 1970s through today and these
+are two lines that are just going from
+the upper left to the lower right and so
+we're at alltime lows with respect to
+the number of people that actually want
+to join the military and so if we are
+supposed to as saak said be this very
+sharp fighting force then all of the
+money that we're spending needs to get
+allocated into things that can be
+remotely
+operated we don't have a choice yeah I
+mean so freeberg you you asked the
+question how do we defend against these
+drones yes there's EMP technology if you
+want to use an EMP you better make sure
+there's not any planes nearby because it
+will take them out of the sky you better
+make sure by the way there are now
+there's you can Target emps in a narrow
+cone which is part of the the technology
+you better make sure you don't hit any
+of your own stuff because you'll fire
+the electronics on those unless you EMP
+Harden them which by the way will happen
+I mean if if the US gets really good at
+at sending out EMP pulses then our
+opponents will start EMP hardening their
+drones but any event yes it's a category
+of Defense so is electronic warfare the
+the one defense investment I've made is
+actually in this idea of how do you
+defend against drones and it's a startup
+where I led the seed Dr called Allen
+control systems and they have a product
+called bullfrog which is a gun turret
+that uses a standard m240 machine gun
+but it's got a scanner next to it next
+to the machine gun that is searching the
+sky for enemy drones and it uses
+computer vision to recognize them and
+then it just shoots them down like very
+quickly and it seems to me this is it's
+maybe not the only way of doing it but
+it's a really good way of doing it
+because uh you can mount these things to
+uh a vehicle I mean imagine in the
+future that we have these autonomous
+drones everywhere that are basically
+assassination drones how you going to
+stop them I mean how do you move the
+president of the United States around I
+mean in his Caravan you're going to have
+to have you know his Caravan is going to
+have to have some sort of electronic
+warfare system on it to basically
+prevent drones but it's going to need
+some sort of last line of defense where
+you can actually shoot a drone out of
+the sky or stays in his b
+so SX you don't you don't have any moral
+trepidation around investing in defense
+technology just to be clear well you
+know I'd have to think twice about
+investing in a in a weapon this is more
+of a defense technology this is
+defensive in nature where you're trying
+to take out a drone that would be
+attacking one of our bases or
+installations or
+convoys so this is fundamentally
+defensive in nature and look I want
+America to be the most powerful country
+I'm an American I'm patriotic so I don't
+want our troops be able to be hit by
+enemy drones so no I don't have any more
+problem with this I do have a problem
+with all the stupid Wars the United
+States gets into but that's on a policy
+level I feel like that's separate right
+from the question of do we want our guys
+to be protected yes we do and chamat you
+don't care you would invest in defense
+technology companies no I care I think
+that I would probably have to think
+twice about making weapons and I'm not
+sure that I'm really interested in that
+but like I said eight years ago my
+thought was we need to move to just
+looking at those Trends we need to move
+to an entire surface area of unmanned
+autonomous vehicles and I really like
+this idea of a class of machine that's
+there to surveil and collect all the
+important data so that you can make
+better decisions and it's taken us eight
+years but we're firmly entrenched now I
+think the fact that both of you
+highlighted degree of trepidation and
+you guys are like fairly outside of the
+middle bounds of how Silicon Valley
+would think and make decisions indicates
+like why so much of Silicon Valley has
+deep concerns about investing in defense
+technology and the US despite having the
+best technology may be challenged by the
+fact that our Silicon
+Valley technologists and investors
+are held back on
+pursuing these Evolutions because of a
+moral suasion and I think it is
+something that the Department of Defense
+has highlighted is that iar it's never
+like we've been faced with that choice
+and the reality is like if the choice is
+stay small or scale up and be really big
+you know it's hard to turn away from
+that decision but that choice isn't a
+realistic one this is why I was saying I
+think it's you you can come into it with
+the moral framing but I do think that
+sax is Right which is if you believe
+that America should be the most
+important country in the world and you
+have the ability to help it be that
+eventually some of those decisions will
+come in contact with this kind of
+decision and usually though it takes
+many many years before that's realistic
+and to be honest from what I've
+seen the opportunity to pursue that is
+generally so financially remunerative
+that everybody's like okay I think we
+have to do it you know I don't have a
+problem with investing in a company like
+andrel I mean America needs defense
+companies in order to maintain its
+defense and the problem right now that
+we have is there's these five Prime
+companies that are Antiquated and really
+expensive and we need startup disruptors
+to that so I'm not like morally opposed
+to it and in fact I think it's probably
+a good thing I think my concern would be
+I don't really want to be part of the
+military-industrial complex I feel like
+it
+might like corrupt my views on things
+like I don't want to you want war you'd
+be Gering for war yeah like I don't want
+to be I don't want to feel that's your
+demand gen that's I right I don't want
+to feel an incentive to be like these
+generals who go on CNN and Fox News and
+justify every single War that's my
+biggest fear as well it's like it's one
+thing to be investing in a bunch of
+companies where we're sitting around
+hoping for cheaper clicks on Facebook
+and Google it's an entirely other thing
+to sit on the board of a company and
+hope for war that's a horrible place to
+be I think on that point that's a great
+point to wrap on guys this has been fun
+a little more flat than it would
+normally be with jcal we miss him we
+wish him well we hope his tooth
+recovers and um we will be back with
+your it's like that scene in Dune where
+he eats his tooth and releases that
+poison gas that's right that's right get
+better soon jcal please uh if you're
+interested in the summit summit. Allin
+podcast.co click subscribe on YouTube
+I've been given notes to say that for
+the chairman dictator chamath poopaa The
+Raid Man David Sachs I am your sultant
+of science Dave fredberg we will see you
+guys next week love
+you you
+byebye let your winners
+ride Rainman
+David and instead we open source it to
+the fans and they've just gone crazy
+[Music]
+withen besties
+are that's my dog taking Drive wait wait
+oh man oh man myit will meet me at we
+should all just get a room and just have
+one big hug orgy cuz they're all this
+useless it's like this like sexual
+tension that they just need to release
+[Music]
+somehow we need to get merch
+[Music]
+our I'm going all man

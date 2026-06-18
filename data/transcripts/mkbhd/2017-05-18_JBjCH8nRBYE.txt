@@ -1,0 +1,248 @@
+# Top 5 Google I/O 2017 Recap!
+# https://www.youtube.com/watch?v=JBjCH8nRBYE
+
+[Music]
+hey what is up guys MKBHD here from
+Google IO 2017 and IO is definitely a a
+little bit different every year but it's
+a developer conference for people who
+use Google software and for all the
+developers of apps that run on that
+software so while there is no new
+hardware there's no pixel 2 or anything
+crazy like that happening here there is
+a lot of googly software a lot of
+machine learning and image recognition
+and all that fun stuff that will
+eventually make it into the devices that
+we have now so there's definitely some
+stuff to pay attention to this is my top
+five announcements from Google IO 2017
+so number one is Google lens and I had a
+feeling something like this would make a
+comeback so so much of like what I said
+the stuff at this conference is stuff
+like computer vision and machine
+learning and image recognition and this
+is a perfect example of a culmination of
+all of that so Google lens is a new
+capability that will start showing up in
+assistant and photos and others that'll
+let you point your camera at an object
+and get more information about that
+object now if that sounds familiar
+that's because it is we've had stuff
+like Google goggles from way back in
+2010 believe it or not and then stuff in
+between like Bixby Etc but the
+technology has gotten a lot better since
+2010 so this is actually almost a
+completely different product now Google
+lens and assistant is so good you can
+point it out a flower and it'll tell you
+not only that it's a flower but what
+kind of flower it is or if you're
+walking down the street and point lens
+at a restaurant since Google Maps knows
+where you are image recognition is
+pretty easy to Overlay info about the
+place you're looking at and even more
+awesome you can point lens at the bottom
+of a router that sticker you know where
+it says the username and the password
+and the SSN and it'll log you in instead
+of having to type it all out so Google
+Lens looks awesome and while it's not
+out right now I think if it ends up
+looking and working as well as it did in
+those videos then it should be pretty
+dope so number two is Google assistant
+and first things first Google assistant
+is now available on the iPhone so it's
+it's on my iPhone I got it in the App
+Store you can get it too right now and
+this is the exact same assistant it
+works the exact same way as it does on
+my pixel or any other Android phone so
+that's awesome and there's even some
+iPhone specific optimization since
+obviously you can't hold down the home
+button to get to it that's where Siri is
+so you make a widget to put right next
+to your home screen to launch the
+assistant to get right to talking to it
+you can scroll up to see your history of
+things you've asked for in the past
+which is cool and then you can also even
+type questions to it so if you're in a
+quiet place and you don't have the space
+to ask things out loud to it you can
+type what you want to know and hit send
+and it'll answer hopefully that's coming
+to the Android version soon and then the
+other news is now Google Assistant will
+hopefully be in way more places really
+soon thanks to the SDK becoming
+available to third party developers so
+the example they used on stage was
+literally pulling up Google assistant
+and telling it you just want some Panera
+and instead of it telling you what
+Panera is near you it actually pulls up
+the menu lets you pick exactly what you
+want to eat and orders delivery so
+that's pretty awesome so we're starting
+to see Google assistant in a lot more
+places it went from being this pixel
+only thing to being an Android only
+thing to being much more widely
+available and that's kind of what Google
+IO is all about so number three is
+Android o and you're
+probably you're probably already
+familiar with Android o because I
+already did a video about it you
+probably watched my top five features on
+Android o video If you haven't I'll link
+that below that's where a lot of the
+main stuff is but at IO they've
+announced that it's graduated from a
+developer preview to a beta so now it's
+available on the beta Channel anyone
+with a pixel or Nexus can download it
+and you can check out a couple of new
+features that have also made it to this
+version one thing I really like is the
+picture and picture mode which is sort
+of like while you're doing one thing you
+can continue doing that in the
+background and move to another thing and
+just hit the home button to continue
+multitasking you get a loading window
+that continues your background task so
+while you're watching a YouTube video
+you can hit home and open up a Notes app
+and start taking notes while the video
+plays and when you're done you can
+literally just swipe it away there's
+also something called notification dots
+kind of like something you would see in
+iOS where you have those little badges
+for notification icons notification dots
+are the same way they'll indicate on an
+app on your home screen where you have
+notifications so to check that
+notification you can either pull down in
+the tray like normal or you can actually
+long press that app icon on the home
+screen to look at it and that'll give
+you the same information so androo is
+coming along pretty nicely we should see
+the full final version of it and
+probably get a name for it uh sometime
+this summer but it's got a couple other
+little features like improved autofill
+uh better looking emojis that are
+redesigned uh all kinds of faster booot
+times things like that so but if you
+want to see the full five best new
+features about Android o of course you
+should watch that video so number four
+is Google photos so you may or may not
+use this but the improvements to it in
+the last year have gotten really good
+and they're pretty much all in the space
+of machine learning and AI so it already
+organizes your photos just by things
+that's recognized in them it recognizes
+the faces the locations places you took
+them the landmarks in the background all
+sorts of things like that now it's just
+making that information more available
+to you so there's something called
+suggested sharing where it recognizes
+faces in your photos and essentially
+suggests that you share those photos
+with the people that are in them there's
+also shared libraries which can
+automatically share every photo you take
+of your kids for example with your
+partner and possibly the coolest one is
+some automatic photo manipulation now
+not this isn't just like the little
+filters it adds to your photo apparently
+if this works well it'll let you
+literally remove obstructions from the
+front of the photo the example they
+showed on stage was incredible I hope it
+works that well but again we have to see
+all right so number five last but not
+least is Google home and again you may
+or may not have one of these but it's
+getting some improvements that are
+improving it well too one is called
+proactive assistance so you know how
+Google Now sometimes gives you little
+notifications telling you there's a
+traffic incident on your normal route or
+something that it kind of thinks you
+might want to know ahead of time well
+now Google home will also be able to do
+that but since it doesn't have a display
+it'll do that with the lights on the top
+so now when you see it lighting up by
+itself you can just ask what's up and
+it'll tell you that news there's also
+handsfree calling coming to Google home
+which I think is pretty awesome and also
+long overdue and now I can even start
+showing responses to questions that
+require a visual response on your TV or
+your phone so before it wouldn't make
+sense to ask Google home a question like
+show me my calendar because there's no
+display obviously but now since it's
+smart enough to connect to your TV or
+your phone it will show that response on
+a device with the display which is
+pretty convenient so that's pretty much
+it thank you for watching our little
+recap of Google IO 2017 feel free to
+share this with other people who you
+think might want to know what was
+announced today and don't want to watch
+the 2hour keynote or you can watch the
+2hour keynote I'll link that below as
+well but uh that's pretty much it thank
+you for watching and I'll talk to you
+guys in the next one
+peace all right I want to ask you both
+what was you've seen like the entire day
+one keynote now you have a bunch of new
+announcements what was your favorite new
+thing from IO so far you start favorite
+favorite anything anything are you sure
+yeah uh for me it's Google Lens yeah uh
+you know I love the fact that you know
+we today see a lot of stuff and that's
+how humans taken a lot of information so
+to be able to point things of stuff
+you're interested in and finding more
+about it I think it's pretty cool yeah
+about you I think Android go you know I
+have two actually one consumer one and
+one developer one is that cheating
+that's kind that's kind of cheating do
+what I want okay cool Android go you
+know it's it's a new configuration of
+Android for the 1 gig or less crowd I
+think it's important you know and we
+really want to make that experience
+great and then cotlin which is a
+developer thing it's a new
+language did you hear the crowd crazy
+that was
+Lou this is a developer conference so
+you get the you get the crowd going with
+absolutely those are my favorites
+awesome

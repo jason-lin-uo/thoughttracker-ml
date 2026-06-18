@@ -1,0 +1,306 @@
+# The Windows Laptop Problem
+# https://www.youtube.com/watch?v=eXa2ndhmatI
+
+So, two really crazy Mac laptops have
+come out in the past month. The MacBook
+Neo, which is one of the best deals in
+tech in a long time, 600 bucks, and more
+efficient, and more capable, and better
+built than almost every other laptop in
+that price range. [music] And the new
+MacBook Pros, at the opposite end of the
+spectrum. I've been benchmarking a
+$6,000 16-in M5 Max MacBook Pro, and the
+results are just getting ridiculous. It
+has multi-core CPU performance at the
+top of the charts every Mac ever, and
+the GPU is now more powerful than the M2
+Ultra in my $10,000 Mac Pro. And the new
+SSD's read-write speeds are upgraded,
+approaching 20,000 MB per second. It's
+just absurd. It's awesome. It's a
+creative professional's dream. Both of
+these computers are putting Windows
+laptops on notice.
+And by extension,
+Microsoft,
+and Dell, and HP, and Asus, and Lenovo,
+and Razer, etc., all on notice. There
+was a quote recently from an Asus
+executive that described the new MacBook
+Neo as a shock to the industry. And yes,
+but it also got me thinking, what is
+actually happening with the rest of the
+industry? What is happening on the
+Windows side of the fence? So, I just
+started digging in. I started getting my
+hands on a bunch of these Windows
+laptops, and and researching, and
+benchmarking.
+And it's become pretty clear, the more I
+think about it, that Windows versus Mac
+laptops
+is basically the same as iPhone versus
+Android. Because just like Android, the
+advantage of the Windows side is the
+variety, and the choice.
+But that's also now both an advantage
+and a disadvantage that's getting kind
+of scary now. Take this. This is the new
+Dell XPS 14. I used to really like XPS
+computers back in the day. So, my oldest
+computers were XPS's. Then Dell did this
+thing where they killed off the XPS, the
+Latitude, and the Inspiron names, and
+rebranded them into Dell, Dell Pro, and
+Dell Pro Max for some reason. Then they
+came back to their senses and brought
+back XPS, and I bought this one, and
+this thing is really nice. 14-in 2.8K
+tandem OLED display, thin bezels all the
+way around with a webcam and no notch,
+120 Hz variable refresh rate, and then
+it's this thin all-metal jacket with
+soft-touch finish around the palm rests,
+which hide a massive force touch
+trackpad. There's three Thunderbolt
+ports, there's a headphone jack, and
+then inside is an Intel Panther Lake
+processor. This one a Core Ultra 300
+series with their new integrated GPUs,
+plus 32 gigs of DDR5 RAM and a terabyte
+SSD. I liked a lot of the previous XPSs,
+like I said, but this one is in a lot of
+ways better than those. Uh
+but it also does have a couple quirks.
+Like the ports are all Thunderbolt 4
+instead of Thunderbolt 5, and there's no
+SD card slot or any other full-size
+ports, which on a premium laptop like
+this is a choice. There's also no lip to
+open the lid for some reason. So, it's
+always this little awkward pry to like
+get the laptop open every single time.
+And then the keyboard is probably its
+weakest point. It's a bit shallow, the
+layout is slightly wonky with these top
+menu buttons, which gets slightly more
+misaligned the further from the outside
+you get. But otherwise, I mean, yeah,
+this is really nice. So, this this is a
+$2,200
+laptop as specced. So, obviously, pretty
+premium option, but this is, you know,
+just one of many premium options you
+could pick. Now, why do I bring up this
+laptop? Well, in Windows land, this
+laptop being really good actually relies
+on a bunch of different companies all
+executing really well at the exact same
+time. Right? So, it relies on Dell
+putting a lot of effort into actually
+bringing back the XPS line and not
+cheaping out and doing the metal build
+quality and the nice display and the
+whole premium design. It also relies on
+Intel and this exact generation of
+Panther Lake chips being good and
+actually having good integrated graphics
+because they don't actually offer this
+laptop with a discrete GPU and it relies
+on Microsoft to actually do a good job
+with Windows so that the software
+experience is worthy of a premium price
+tag and not riddled with ads or
+unnecessary AI features. And if it all
+happens, then together this laptop feels
+like it's worth the premium price.
+But you can probably see where I'm going
+with this. That doesn't always happen.
+And lately Windows has felt like a weak
+link and every single Windows laptop
+will have to suffer for it. Now, it's
+not that the whole OS is like
+fundamentally bad. It's not super buggy
+or anything crazy. It's still
+functional, but it's just lacking the
+super premium feel that wins everybody
+over. Like this XPS, the first time I
+booted this up to set it up, it took me
+like 45 minutes because of all the
+forced updates and then all these
+mandatory sign-ins and then it's asking
+me to use Microsoft 365 and then one
+drive and then all these other services,
+etc., etc. And then even once I got in,
+I got ads. Like I got a pop-up ad for
+McAfee security on this $2,000 brand new
+laptop, which to be fair is probably a
+Dell problem, but then that's not even
+mentioning all the other AI stuff that
+Microsoft is pushing, the Copilot stuff,
+the infamous recall feature that
+everyone hates. There's generative AI in
+Microsoft Paint now for crying out loud.
+Microsoft actually requires a dedicated
+Copilot button on the keyboard of every
+new Windows 11 laptop now to be
+classified as a AI PC.
+Whatever that means. Uh so, it's just
+between that and the ads,
+it's just not really feeling like a
+totally premium experience. And at that
+high end, when you're spending a lot,
+users will start to get deservedly
+really picky. You're spending a lot of
+money, you deserve to. And that's where
+Apple has pretty much exclusively been
+playing for like the last decade. The
+cheapest new MacBook was always $1,000
+and then it went way up from there. And
+they're so vertically integrated with
+their Apple silicon and so the hardware
+is designed for the software and the
+software is designed for the hardware
+and it's always felt so efficient and
+clean and performant. And people just
+love their expensive MacBook Pros. Now
+there's obviously still reasons why
+people buy high-end Windows laptops.
+It's still out of the choice and the
+variety and there are certain things you
+still can't get in Mac land. Like if you
+want a high-end gaming laptop, you know,
+that's one of those common things you
+can go get
+a Razer Blade with a 5070 and a 240
+hertz display. That's an option. So
+there are still those things.
+But every one of those relies on all of
+the parts from all those different
+companies again being good at the same
+time. And that is a tough challenge. So
+now flip it to the low end. And this is
+where it gets really interesting because
+it turns out, as we're learning,
+a lot of these efficiencies that Apple's
+been using to dominate the high end
+are also very effective in the low end.
+Because to be clear, people are
+absolutely willing to accept some more
+shortcomings in lower priced laptops.
+Like that's a trade-off, that's a part
+of the game. You know, if you shop
+around, hey, maybe you'll be able to
+find a laptop with just the right set of
+trade-offs that you don't mind while
+still being decent at the stuff you care
+about. Like this is the Acer Aspire 16.
+Super popular laptop in this segment.
+It's actually discounted recently so I
+got it for 550 from Amazon and there's a
+few more stickers on it. Yes. And
+there's a little more plastic in the
+keyboard deck flex just a little bit
+lacking in build quality. Yes. And the
+Snapdragon chip that powers it, you
+know, it's not going to have the highest
+end performance, but it's efficient so
+it has good battery. And then there's a
+nice big 16-inch screen and a bunch of
+full-size ports here. So if I'm just
+going to be writing or web browsing or
+watching videos on this thing, feels
+like a pretty good value. So look,
+laptops like this have been just fine.
+They've been thriving at these price
+points, but here's the problem.
+Here's the brand new
+Gatorade colored MacBook Neo shaped
+problem.
+The starting price for a MacBook has
+been a thousand dollars for a new
+machine for the past couple years. Now
+it just dropped to 600. And actually 500
+if you have a student discount. And if
+you've seen the reviews, you already
+know it turns out that they did a great
+job with the Neo to making it feel just
+like the more premium Macs. Same clean
+software, same metal build, same
+keyboard, and more importantly, the same
+tight vertical integration where the
+hardware and the software are designed
+for each other and work super
+efficiently with each other. So it's
+like unless you have a Windows specific
+need or like a certain app you need to
+use software wise or a certain game you
+want to play,
+most people crave the premium experience
+that's been associated with the Macs
+that are more expensive for all these
+years. And so the Neo coming along for
+600 bucks represented that premium well
+integrated efficient experience that is
+going to be incredibly hard to compete
+with. In Windows land, you're not only
+relying on all these different companies
+making the parts to all make them well
+at the same time,
+you're also paying them all who need
+their own profits to survive.
+And so that makes it really hard to make
+good cheap laptops and actually profit
+from that. So then the cherry on top is
+not only does Apple basically print 18
+pros for cheap,
+but also Apple's not even necessarily
+concerned with making a huge hardware
+profit on selling Neos
+because this is more of a Trojan horse
+to create a bunch of new first time Mac
+buyers
+who then become Apple services
+subscribers. So Apple can make this
+computer even cheaper than they
+ordinarily would to effectively acquire
+new Mac users who will then go subscribe
+to TV plus or Apple care or iCloud or or
+whatever other services. And that's
+worth more than the hardware margin
+would be. And it already seems to be
+working. There was just a Tim Cook tweet
+this week about how Mac just had its
+best launch ever for first-time Mac
+customers. So, yeah, guilty of talking
+about Apple a lot in this video, but it
+turns out the shock to the industry is
+very real. And it's going to be so
+fascinating to see what sort of
+responses we actually get from Windows
+laptop makers in the next couple months
+and years.
+And what sort of strings they try to
+pull? Because if they aren't able to do
+anything about it, then Neo's just going
+to keep eating their lunch, and they
+could have a bit of a market share
+crisis on their hands. Also, one more
+quick thing, we just came out with these
+stickers that we're adding to our merch
+store. I love the way these turned out.
+The team cooked on these. This one is a
+color picker sticker, which is so fun.
+So, it's kind of a if you know, you know
+design, but you can put them on anything
+colorful for fun. At least that's what
+I've been doing. You get a bunch of
+stickers in a pack. So, go get some for
+yourself and send me pictures of what
+you stick them on. Tag me on Twitter and
+Threads and stuff. [music]
+All right.
+Thanks for watching. Catch you guys in
+the next one.
+Peace.

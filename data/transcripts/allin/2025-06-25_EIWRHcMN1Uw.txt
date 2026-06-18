@@ -1,0 +1,216 @@
+# EIWRHcMN1Uw
+# https://www.youtube.com/watch?v=EIWRHcMN1Uw
+
+If I had to guess about what has changed
+from 2021 to 2025
+is that most companies have realized
+that buying yet another
+vertical software solution is not going
+to help their business that it typically
+adds bloat, it adds cost and it adds
+people. And I think starting in 2023,
+what people started to guess is at some
+point in the near future, you're going
+to have some AI way of rewriting all of
+this vertical software. And I think
+that's why it stopped growing. I don't
+think this SAS market ever had the
+return on equity that it was supposed
+to. And I think so many companies have
+woken up from this hangover saying
+there's got to be a better way. It can't
+always be yet another tool, yet another
+program, yet another multi-year delay,
+yet another price escalator. And I think
+that that the jig is totally up for
+software. You're referring to the
+Salesforce and the SAS category,
+Chimoth, and what you're doing at 8090
+specifically. Yeah. Well, it's it's not
+just us, but like if you look at anybody
+that's rebuilding software,
+it is so much easier to rebuild software
+from scratch today. Like my team of 30
+people can transact hundreds of millions
+of dollars of work. Not because we are
+so prolifically amazing, but frankly
+because well, I think the team is good,
+but honestly because the underlying tool
+chain gives you a level of leverage. And
+so if you rebuild the software
+development life cycle using these
+tools,
+you can't help it but become much more
+efficient and you can't help it but
+deliver custom solutions that are
+meaningfully cheaper. And I think Jason,
+if you look at the entirety of the
+software that runs the world, we're
+going to rebuild it soup to nuts. all of
+that and the tool you're referring to
+just for the audience is the AI
+co-pilots that are making that are
+contributing 30 40% to code bases at
+Microsoft and less less specifically
+that because those are those are good
+for individual people but the software
+development life cycle is more the
+horizontal end to end of making things
+got it so what we do internally at 8090
+is we have an entire process that starts
+from the PRD all the way out to the
+functioning code and we use different
+techniques at each step but what you get
+is a 50 60 70% increase at each step
+which then compounds. And so you have
+the ability of a team that would
+otherwise be able to service tens of
+millions of dollars be a team that can
+service hundreds of millions and then a
+team that would otherwise service
+hundreds can service billions. Let me
+ask you guys your response to this
+theory. If there is going to be this
+kind of accelerated
+call it custom software rebuild of
+business models and you take the S&amp;P
+493, do you think that we enter an era
+where there is a similar dispersion as
+we're talking about seeing in the MAG 7
+with the S&amp;P 493 where there are going
+to be probably the biggest money-making
+opportunities for investors that we've
+seen in decades
+between those that do adopt and do
+rebuild using AI and those that don't
+for 100 100%.
+I had a call yesterday with one of the
+largest private equity funds in the
+world, hundreds of billions of dollars
+under management and we're doing
+something with them at 8090 with one of
+their most important assets.
+And when you're an owner of a business
+and you can direct
+specific change
+and you can rip out
+hundreds of millions of dollars of
+software licenses and replace it with
+tens of millions of dollars of highly
+customized software.
+It's an enormous lift to OPEX and
+business model quality. So why doesn't
+it happen more? The reason it doesn't
+happen right now for this S&amp;P 493 is
+that the IT organizations inside all
+companies
+essentially speak a different language
+than the CEO, the CFO, and the board. So
+if the CEO, CFO, and the board of
+directors of the S&amp;P 493 speak English,
+the IT organization speaks Mandarin
+Chinese, and you get away with saying
+all kinds of [&nbsp;__&nbsp;] I'll give you an
+example. I went to a CIO conference. one
+person that I met an $18 billion a year
+IT budget.
+What the [&nbsp;__&nbsp;] does that actually even
+mean to spend $18 billion a year on it?
+I'm not saying that this is a mag seven
+company, guys. And when you take that
+example and you multiply it by 50 and
+100 and 493 examples of people spending
+money, there's an entire cartel of
+influence that's been built in software
+that's going to get undone because
+you're not going to be able to justify
+it. Free. Absolutely correct. And the
+response from the SAS industry is
+changing from the per seat model as the
+number of employees at these companies
+continues to get lowered. Obviously
+Microsoft a lot of layoffs. Andy Jasse
+talking about layoffs. They're moving
+from the per seat model. They're not
+taking this uh laying down. Uh they know
+that people are going to make custom
+software. So what they're doing is
+they're moving to a consumption model.
+So you're seeing people charge per call,
+per customer support call, etc.
+And well, it's I'll tell you why it
+doesn't work. It's working in
+combination. Hold on, hold on, let me
+finish. The other thing they're doing is
+they're dramatically lowering the number
+of people and the developers they have
+on their team. And then a lot of what's
+happening in the background is the third
+piece they're doing is they're starting
+to uh do rollups and people are starting
+to talk about how can we take you know
+20 of these SAS companies lower them
+just like you're doing to compete your
+thought
+playbook. Well, I just wanted to comment
+on this like consumption based pricing.
+It doesn't work. And what I mean is you
+can have some adoption in the short
+term. The best example is Snowflake, but
+in the long term it destroys your
+business. And the reason is because you
+don't know which data is valuable and
+you're not going to put up with a
+variable business model that increases
+more and more cost because you need to
+trap everything. And so what happens is
+all of these other companies develop
+around you. People go back to Postpress,
+people go to Superbase, they find all of
+these ways of saying snowflake makes no
+sense. And the reason is because in this
+world, nobody's going to pay consumption
+because you're like, how do you expect
+me to, you know, hold and store and pay
+for terabytes and terabytes potentially
+a day of data? It's not sustainable.
+We'll see if intercom, Salesforce,
+HubSpot, and we see if all of those
+people start Slack start losing their
+customer base or if they lower their
+pricing to make it just too easy to keep
+those systems in. Thomas, your thoughts?
+Yeah, so two quick thoughts. Uh, number
+one, Chimath, to put a kind of a
+mathematical frame on this, right? We
+know that Anthropic is kind of the level
+zero of code generation. They're they're
+doing incredibly well powering companies
+like Cursor, right? I think and this is
+order of magnitude correct that
+Enthropic in Q1 added 70% of the net new
+ARR in the SAS industry right defined by
+public SAS companies right so let's just
+think that the company in AI that is
+most powering the disruption of SAS
+added 3/4 of the net new of the entire
+industry right so that's kind of point
+number one I think Freedberg point
+number two I think what we're seeing in
+the Max 7 right where we're starting to
+have debates about who's well positioned
+and who isn't who's going to win and who
+isn't right is actually as it was in the
+past 5 years going to be a broader lens
+into the S&amp;P 493 I think inside of
+boardrooms inside of every investment
+committee you're going to see the exact
+same conversations that we've been
+having about the MAX 7 right who who's
+well positioned who can win what are the
+management teams maybe like Zuck that
+are being aggressive and bold and
+capturing the opportunity and which are
+the ones that are not so for me as a
+stock picker right I think over the next
+five years.

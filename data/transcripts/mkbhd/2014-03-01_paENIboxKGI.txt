@@ -1,0 +1,181 @@
+# The State of 4K: Early 2014!
+# https://www.youtube.com/watch?v=paENIboxKGI
+
+[Music]
+Hey, what is up guys? MKBHD here and
+back at CES 2014 this January, not only
+did I catch a Tesla Model S at the
+Panasonic booth, but I also found this.
+So, this is a 4K Toughpad tablet from
+Panasonic. And, you know, it's
+absolutely ridiculous for a normal
+person. I mean, this is a 20 plus inch
+tablet. It's heavy. It's got a ton of
+graphics power behind it. It's very
+expensive, but of course, the display
+was absolutely ridiculously
+good-looking. It had an amazing pixel
+density and a ton of sharpness and
+detail as you would expect from
+something that's 4K. And so, that got me
+thinking, where is all the 4K? So, this
+is the state of 4K as of February 2014.
+Uh, so below this video, if YouTube
+processed it right, you will see the
+240p option, the 480p option, the 720p
+option, the 1080p option, the 1440p
+option, and if all went well, a 2160p
+option, and that is for the 3840x 2160
+version of this video, what we'll call
+4K. So, right off the bat, 4K video is
+four times the resolution of 1080p
+video. Or if you look at it on the same
+size screen, it's four times as pixel
+dense or four times as detailed. That is
+amazing. That's going to look great on
+pretty much any size. So, the question
+is, why isn't everything already 4K? And
+uh the short answer is it's difficult.
+It's difficult to shoot 4K. It's
+difficult to process 4K, output 4K, and
+display and play back 4K. So, when we
+say it's difficult to shoot 4K video,
+that literally means that the cameras
+that we're using that will all shoot
+1080p just fine don't quite have the
+processing power or the sensors capable
+of shooting 4K video, such a high
+resolution video. A perfect example of
+that is the GoPro Hero 3 Plus Black
+Edition. That'll shoot 4K video, but
+only at 15 frames per second. it can't
+quite muster the processing power to go
+beyond that. And then something like the
+Samsung Galaxy Note 3, it is a pretty
+powerful phone, but it'll only shoot at
+a relatively low bit rate. Long story
+short, uh if you're going to get high
+quality, high frame rate, high bit rate,
+high resolution video, you're going to
+need a very expensive, very powerful
+camera. And those are coming down in
+price now. But I did a video on all the
+4K camera options I saw at CES last
+month. So, I'll leave that linked right
+below the like button. But if you get
+anything out of watching that video,
+it's that it can be quite expensive to
+shoot a high quality 4K video. All
+right, so this is a 4K TV. Legitimately,
+it's a 3840x 2160 panel. I'll have the
+link and the model number right below
+that like button. Uh, and so this is is
+fully able to display 4K content at any
+time, but it has never actually
+displayed 4K anything ever. So, what's
+hooked up to this, as you can probably
+tell by the NBA right now, is the
+PlayStation 4, an Xbox One, and an Apple
+TV. And none of which will actually
+output 4K through HDMI. And there's also
+a chcast plugged into this TV that won't
+do 4K either. So, as far as we're
+concerned, this is all still 1080p
+stuff. Uh, and as much as I love to, you
+know, play NBA or Forza, uh, in 4K with
+the insane detail of that high
+resolution or watch Netflix in 4K or
+chcast TV shows in 4K, nothing will do
+that right now. And that's actually the
+case for a lot of people. So, really no
+reason to go buy a 4K TV because as far
+as we're concerned, this is still acting
+exactly like a 1080p TV. All right, so
+this is a 4K desktop display. It's one
+of the few monitors you can put on your
+desk that will have that 3840 by 2160
+resolution. This is the ASUS PQ 321Q.
+Uh, and right now it's hooked up to a
+Mac Pro via Thunderbolt, which is one of
+the few ports that will actually output
+4K uh at an acceptable frame rate. 60 Hz
+is really what I mean by that. Uh, but
+here's the thing about that. Uh, go
+ahead and full screen this video. Hit it
+full screen. You got this. You got it.
+You got it full screen for a sec. All
+right, check this out. Boom. This is
+what the desktop looks like in 4K. And
+it looks all super tiny because in Mac
+OS 10, there's very limited high DPI
+scaling support. So, unfortunately,
+everything looks super duper small
+coming from a higher resolution monitor.
+But this is what your display would look
+like if it was 4K without any sort of
+scaling. Really small, I know. So, I'm
+hoping when Apple finally releases their
+own 4K display, they'll update Mac OS 10
+with more high DPI options so that
+things don't have to look quite this
+tiny. But then again, my eyes have
+already kind of gotten used to it
+anyway. But at the end of the day, when
+it comes down to it, when you get a
+setup that can show 4K video on a 4K
+display without taking up all your
+bandwidth and without dropping frames,
+it's an amazing experience. It looks
+beautiful. It's incredibly detailed. But
+the problem is the number of people with
+setups that check all those boxes is
+very very small. In fact, most laptops,
+if you guys are watching this on a
+laptop, most laptops won't really play
+back 4K video 100% without dropping any
+frames. Uh, and most of them don't even
+have 4K displays anyway. And neither do
+our phones, and neither do most of our
+tablets, except for I guess that brings
+us back to that ridiculous Panasonic 4K
+tablet from the beginning. Uh most
+people are totally fine with 1080p and
+they'll say that like that's great.
+1080p looks fine, but once you see 4K
+video or super high resolution video
+played back natively without any of
+those problems that is typically
+associated with it is amazing and then
+you can't really go back. I call it the
+retina display effect. Once you see such
+high resolution stuff, everything else
+starts to look fuzzy. So, as much as we
+love 4K and all its sharpness and all
+its pixels here in the tech community,
+it is still a long way from being widely
+adopted, uh, but it's definitely
+starting. In fact, this is the year that
+I think we're going to see the biggest
+shift from people seeing 1080p as a
+standard to people seeing 4K as a
+standard. And you're going to see a lot
+more 4K TVs in stores and a lot more of
+that 4K talk in those ads in the future.
+So right now if I had to put the state
+of 4K in a single word it would be
+momentum. Uh it started off a little
+while ago that word was potential but
+now it has a lot of momentum moving
+forward. If you went to CES basically
+everyone there was showing some sort of
+4K TV and that made me really happy cuz
+I love Pixels and eventually we're going
+to see a whole lot more 4K stuff all
+around. So that's been it. Hopefully you
+enjoyed this video and if you did feel
+free to share it. That's about it. I
+guess I've said that's it several times
+already now. Thank you for watching and
+I'll talk to you guys in the next video.
+Peace.
+[Music]

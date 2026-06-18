@@ -1,0 +1,210 @@
+# Why Meta Just Froze AI Hiring & What It Really Means - David Sacks
+# https://www.youtube.com/watch?v=e-LNrKZMxOk
+
+On Tuesday, the New York Times reported
+that Meta was looking at downsizing its
+AI division as part of a larger
+restructuring. Wall Street Journal then
+reported Meta has a hiring freeze across
+the AI divisions, which is just crazy
+because just eight weeks ago, Zuck went
+crazy. He was trying to buy Ilia's uh
+super intelligence startup. You remember
+Ilia declined. So, Zuck poached Daniel
+Gross. Meta Aqua hired the scale AI team
+and then they agreed to invest 14
+billion in that. Sam Waltman claimed
+Zuck was making hundred million dollar
+offers regularly for open AI talent. I'm
+curious, you know, what you think of
+that, Sachs? Is the talent war seem to
+go insane for a couple of months and now
+is pausing. What's your take on all this
+I don't know uncertainty boom bust cycle
+in such a compressed period of time or
+is this just
+&gt;&gt; I mean you you are seeing founders
+turning down multi-billion dollar
+acquisition offers for startups that
+hadn't even released a product yet as if
+those types of offers grow on trees and
+they don't I mean these types of hundred
+million or billion dollar job offers
+&gt;&gt; they don't come along very often I mean
+you have to be at kind of the sweet spot
+of a boom cycle and you need a huge
+company with tons of money that feels
+like it's strategically vulnerable and
+is at risk of being left behind. And if
+you get a confluence of those factors,
+then you can get kind of crazy offers
+like that, but they don't come along
+very often. I think that what Meta is
+doing is probably digesting a little
+bit. They've now made a bunch of talent
+acquisitions. They've done some aqua
+hires at, you know, very expensive aqua
+hires and they're probably just
+consolidating a little bit. Like I said,
+I don't think this is the bust part of
+the cycle. I don't think that a bubble
+has popped or anything like that. I
+actually think that we're still probably
+early to the middle of this investment
+super cycle. And it's just a healthy
+correction in sentiment here that people
+are realizing it's going to be a little
+bit harder and take more work than just,
+oh, the AI is going to figure out how to
+improve itself and we get to super
+intelligence. That was always a little
+bit of a fantasy. uh Mera should have
+taken the billion dollar offer from Zach
+or Ilia should have taken the 30 billion
+Zachs. I mean, these things never
+happen. And as you're saying,
+&gt;&gt; I mean, I guess it depends how much they
+have in the bank account. You know, if
+if they're already like billionaires
+from whatever they did before, then then
+maybe it doesn't matter. But if you were
+just starting out, for example, and
+didn't have any money in the bank,
+that's a pretty hard thing to turn down.
+I mean, realistically,
+&gt;&gt; yeah,
+&gt;&gt; they probably they probably sold a bunch
+of OpenAI equity at 300 and 500 billion.
+&gt;&gt; They're both OpenAI co-founders, so
+&gt;&gt; they seem like they're free rolling, so
+they have no incentive to sell.
+&gt;&gt; Yeah. Which is fine. It's just that
+there's a lot of people who've never
+been through a bus cycle before. And if
+they think that this is the normal state
+of the world, they're going to be sorely
+mistaken.
+&gt;&gt; By the way, you're right, Sax. It's hard
+to build as you know because you did it
+a billion dollar company that then exits
+for more than a billion. It is hard
+&gt;&gt; right where you justify that valuation
+based on fundamentals. So right now
+we're in a part of the cycle where you
+can justify that valuation based on it
+strategic value to a multi-t trillion
+dollar market cap company. But that only
+lasts while those companies are in the
+market for strategic acceleration.
+&gt;&gt; Yeah. if they're behind, if they're
+stuck down,
+&gt;&gt; then you have to make your company work
+on its own as an actual business
+&gt;&gt; and to get to a $30 billion valuation
+based on fundamentals, that is
+extraordinarily difficult. I mean, that
+implies, you know, multiple billions of
+revenue, actual revenue.
+&gt;&gt; Does somebody want to underwrite 500
+billion for OpenAI common shares?
+Anybody think that that is a good trade?
+&gt;&gt; I'll make the I'll make the bull case.
+I'll make the bull case.
+&gt;&gt; Good idea, please. Yeah. I think the
+simplest way to make the bull case is if
+you look at the kager on their mouse and
+the conversion from ma to Dows,
+you essentially take a small minor
+percentage of the Facebook or Google
+terminal arpoo and apply it to some
+number of ma
+3 four years from now. So if I had to
+guess, if you take 4 500 million MADOW
+growing at I'm guessing, let's just be
+conservative 50%
+&gt;&gt; 500 million weekly active users right
+now.
+&gt;&gt; 750. Okay. So then, so then I would
+probably put that at like 500 DAO to be
+conservative. It's probably doubling
+every two years. So 500 goes to a
+billion, billion goes to two in four
+years. And at 2 billion DAO, they
+generate a tenth of Facebook's revenue.
+just to be very conservative and you
+probably get to a trillion five
+valuation then
+&gt;&gt; right so it's you could you could triple
+up on that bet I mean look open AI has
+actual revenue I mean they they have
+actual revenue because they have
+subscriptions and they appear to have
+the dominant position in the consumer
+space and it is a replacement for a lot
+of people for search which is the most
+lucrative franchise on the internet and
+this is one of their applications so I
+actually think that you can make that
+case
+you pretty comfortably. But can we could
+we go back to a point you were making
+before JCAL about in the survey that the
+attempts to just apply some sort of
+generalized AI model didn't work very
+well like 95% of the time it didn't
+succeed in these large enterprises but
+if they used a more specific vertical
+application or vertical model or an SLM
+approach which is more a smaller
+specialized model then it showed much
+greater success. I mean that makes a lot
+of sense to me is that in order to drive
+business value there's a lot of what I
+would call last mile problems right like
+LLMs need context and so you have to
+first of all connect to all of your
+enterprise data sources and you have to
+prompt them in a very detailed way in
+order to get to a good answer and then
+you have to validate that answer to make
+sure it's not a hallucination and then
+you need to iterate on it and so this
+idea that you're just going to have one
+super intelligence that just figures all
+this stuff out it's just not the way
+it's playing out in the real world.
+You're seeing again a lot of very
+specific business problems that have to
+be solved. But I I think that this is a
+great thing ultimately for the ecosystem
+because it implies that you're going to
+get lots of vertical applications and
+lots of specialized models that capture
+value in lots of different markets. And
+that that's actually the way that we're
+going to drive this throughout the
+economy as opposed to it just being one
+foundation model eating all the value.
+So I I think this is a very healthy
+thing for the ecosystem.
+&gt;&gt; Yeah, it makes total sense that the
+vertical systems would feel more
+deterministic sacks because they're
+giving they have a tighter problem set,
+a tighter data set to actually come to
+an answer whereas the you know
+probabilistic you know just asking an
+LLM to come up with a business plan for
+you. It it just feels like it could be
+80% correct, 90% correct as opposed to
+99% correct, which the vertical ones are
+actually getting very good at getting
+the correct answer. Okay, let's talk a
+little bit
+&gt;&gt; that last 10% is fundamental and that's
+where you get all the the last mile
+problems and you have to understand the
+the industry in order to solve the the
+problems. How you kind of go from let's
+say 90% accuracy or effectiveness to 99
+which is where the business value

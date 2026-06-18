@@ -1,0 +1,151 @@
+# Freeware EVERY Geek Should Use!
+# https://www.youtube.com/watch?v=o8nN2cYxtao
+
+hey what's up guys it's marcus brownlee
+here from mkbhd and welcome back to
+another high definition screencast video
+and to be honest this isn't actually
+another high definition tutorial this is
+just an example of a piece of software
+that i think if you are a geek or if you
+are a windows user or anyone who is like
+concerned about
+the protection of their computer i'm
+showing you a piece of freeware that i
+think you should absolutely know about
+so you're looking at it right now it's
+called ccleaner it is available at
+ccleaner.com
+right now it is what i believe to be
+absolutely the best maintenance software
+for your computer whether you have a
+laptop or a desktop
+so basically what the software does is
+help you
+maintain a very very clean computer
+whether you're editing your registry or
+using their cleanup tools to disable
+startup programs or just using the
+cleaner to just disable things or remove
+things that have been accumulated in
+your pc over time
+so an example of that if we stay under
+the cleaner tab uh you can see under
+internet explorer when we hit run
+cleaner it's going to clean out all the
+things that are checked so right now
+it's going to clean out a lot of
+internet explorer a lot of windows
+explorer cache
+a lot of cash other things like that
+clean up desktop shortcuts that are
+unused you can clean up a lot of things
+that you don't feel like leaving on your
+computer when you shut down
+so this is actually software that i
+actually do run on every single computer
+i have before i shut it down it's
+absolutely critical
+so you can either clean stuff under
+windows or under applications so under
+apps you can see you can clear all the
+things under opera all things under
+safari a whole bunch of things under
+firefox which i actually do like
+although i do leave uh form information
+unchecked uh clean up chrome clean up
+clean up uh all these other different
+applications and once you've done this
+instead of just hitting analyze you can
+hit and run cleaner and it'll go ahead
+and analyze and then run
+i'll just go ahead and analyze to show
+you it'll go ahead and analyze your
+entire computer
+this won't take very long if your hard
+drive is fast or if you have a solid
+state drive
+and once you're done with that you can
+see all the things that will be cleaned
+and that's a good amount of files and
+you can see you'll probably remove about
+47.2 megabytes just from using my
+computer from a few hours go ahead and
+hit run cleaner
+and clean out those 47 megabytes of
+files that a discovery don't need which
+is very very nice so i do run this every
+single time i shut down my computer
+another thing ccleaner does as you can
+tell is clean out your registry now it
+is called ccleaner because it's built to
+clean your c drive
+which is basically what it was meant to
+do but it does have a registry cleaner
+and you can check every single thing for
+it to go through your registry to look
+for
+installer files that you don't need
+anymore
+unused fonts different things that are
+in your cache that you don't need and
+obsolete software and all sorts of
+things that you don't need on your
+computer anymore that are just active in
+messing up with your registry your
+registry is actually what keeps your
+computer really really fast and if you
+have a good solid state drive and you
+keep your computer organized your your
+registry won't get messed up as easily
+so go ahead and check everything and hit
+scan for issues
+and you're going to see a whole lot of
+things that you you either don't need or
+don't want on your computer so unused
+file extensions etc this is really cool
+to have or to know about go ahead and
+hit fix selected issues
+fix all selected issues and just like
+that instantly you saw in the background
+all eight issues were just fixed which
+is really nice and you can actively
+maintain your registry this way
+now being that we're also on a netbook
+at the moment you're also going to want
+to go into tools and just go ahead and
+take some of the things off of the
+startup folder you don't really want a
+whole lot of things starting with your
+pc
+so if you go under startup you'll be
+able to see all the things that do start
+with your computer i've kind of
+minimized minimized it already
+i'm going ahead and go ahead and right
+click and disable anything that i don't
+want starting with my computer
+uh there are a whole lot of things that
+you might not actually want starting
+with your computer that'll actually save
+you a lot of time
+uh in terms of startup times and
+especially with a solid state drive
+you'll get the most out of this go ahead
+and make sure you've gone through all
+that you can also uninstall applications
+you don't use very quickly through
+ccleaner as well
+so that's just a basic overview of
+ccleaner if you have any questions about
+it you can first visit ccleaner.com and
+if you have any quick questions you can
+leave a comment or message me through
+youtube and i'll try to get back to you
+as quickly as possible
+until next time this has been mkbhd with
+a quick rundown of a piece of software i
+definitely think you should just go out
+and get right now the link to
+cccleaner.com will be in the description
+so thank you for watching peace

@@ -1,0 +1,418 @@
+# onldzSzdqlM
+# https://www.youtube.com/watch?v=onldzSzdqlM
+
+[Music]
+hey what is up guys I'm kbd here and
+this year wrapped up the sixth Annual
+google.io 2013 conference in San
+Francisco California there were a lot of
+awesome things that happened and also a
+lot of memorable things that didn't
+happen that we expected to happen but if
+you don't want to watch the 3-hour long
+keynote which I'll include below the
+like button and if you don't want to
+watch the dozens of other hours of
+sessions this video while it might be a
+little bit long is a condensed version
+of that and without any further Ado
+we're going to go ahead and give you the
+top 10 announcements from Google IO 2013
+[Music]
+[Applause]
+all right so kicking it off at number 10
+was Android studio now this is a
+developer conference so we got to
+respect that there are a lot of
+developers there and one of the things
+they showed off called Android Studio
+was a really impressive sort of console
+looking thing that allows developers to
+better manage rendering the size of
+their applications for basically
+different screen sizes and different
+layouts in order to abide by Android's
+design guidelines and it actually looked
+like a pretty cool thing that'll help us
+see a lot more quality apps in the Play
+Store number nine is notification sync
+across devices so maybe you have the
+same app installed on more than one
+device they'll now be able to take
+advantage of this API I swipe to dismiss
+an application in maybe an app called
+WhatsApp on my tablet and my phone will
+no longer display that notification
+either so if I have a whole conversation
+in some messaging app on one device and
+I pick up the other one I don't want
+that notification anymore so now that's
+built in number eight is improvements to
+Google Chrome a lot of people don't know
+not only is Android the most popular
+mobile platform but Chrome is the most
+popular browser period so a lot of
+improvements went into Chrome on both
+the desktop and mobile and the coolest
+thing about that what they showed was a
+demo of this racing game that spanned
+across multiple devices so they
+connected all the devices together both
+IOS and Android devices alike and each
+device had a player and you touch your
+screen to control your race car across
+everyone else's device which is really
+cool the video move from device to
+device the sound of your race car moved
+from device to device it was really cool
+and it was all going through Google
+Chrome something that people are
+probably never going to use but
+definitely an awesome demo worthy
+feature anyway number seven is the
+Google Play music service it's now
+called Google play music all access
+which is a bit of a mouthful but I'll
+just keep calling it Google music for
+now but it's a subscription music
+service so this puts Spotify on watch
+for 9.99 a month you get unlimited
+access to all the songs in Google Play
+and including ones you already uploaded
+of course and if you sign up before June
+30th you actually get it for $7.99 a
+month and you get a free 30-day trial
+the service itself looks to be pretty
+awesome and it might still be us us only
+which is really unfortunate because
+Google has a habit of not making their
+services internationally available but
+nevertheless it's pretty cool and the
+app itself is also really really good
+I've been using the app for the past
+couple of days and I'm going on a trip
+very soon while I'll be using the app on
+an airplane so I'm making some playlists
+and everything like that but it's very
+smooth very fluid it allows you the
+ability to create a radio station based
+off of a specific song or playlist and
+it just creates an endless playlist of
+songs for you and you can control the
+order of the queue and everything but
+you know endless music Discovery that's
+really what it should be all about so
+Spotify like I said is on notice because
+Google play music all access has arrived
+number six is the new Google+ now a lot
+of people say no one uses Google+ and
+that's fine if you think that but
+Google+ whether you like it or not is
+becoming a huge part of tying all the
+different services that Google has
+together so your account whether you
+post things or share things or not is
+pretty critical and it's gotten a whole
+UI refresh a whole redesign a very neat
+multiple column cards layout on the
+desktop so now you won't be able to say
+you know it looks different on the
+desktop from the phone from the tablet
+now they all look the same in that
+multiple column UI and it also looks
+really good you get that Hollow font you
+get uh some nice animations you get some
+smooth scrolling you get a whole bunch
+of different smart features where if you
+automatically upload an album of photos
+as you go around on vacation it
+automatically uploads them all in full
+resolution and you get to automatically
+enhance them and tag your friends faes
+in them and it'll combine things
+together and make panoramas when it
+notices you have certain pictures and
+it'll automa atically take the best
+photos that are in focus and when people
+are smiling and the sharpest best
+contrast ones it's very very smart with
+your photos and gives you a basic
+highlight reel of all the best photos
+you took so maybe you took 600 photos on
+one trip it'll give you a highlight reel
+of the best 50 of them based on what it
+thinks were awesome so that's pretty
+cool and like I said there are some neat
+automatic features like automatic
+hashtags so if you take a picture of say
+the Eiffel Tower it'll automatically add
+the # Eiffel Tower to your post so you
+can discover more posts that have that
+same thing in them so if you visit some
+cool landmarks you'll be able to see
+stuff like that very cool stuff Google+
+has some awesome behind the scenes
+improvements using Google's knowledge
+graph of course number five is Google
+play games Google Play gaming is brand
+new it's basically really gaming focused
+in the Play Store and it uses app data
+sync across devices to make it happen
+now the live demo on stage didn't really
+work so well but basically this app data
+sync will allow you to have the same
+data inside every application across
+devices perfect example let's say I have
+Angry Birds on my tablet and on my phone
+I get to level 30 of Angry Birds on my
+phone and I want to put it down and move
+over to the tablet I install it on my
+tablet and I'm already on level 31
+that's how it works you basically get
+the same achievements and the same
+unlock everything you had on one app on
+one device will move to that same app on
+a different device there are also
+achievements and leaderboards among your
+Google+ friends and there's also
+multiplayer so it's really cool is you
+could have three different people
+running you know an iPhone an iPad and a
+Nexus 10 and they could all race against
+each other and like nudge the person
+who's playing their iPad by nudging
+their car on your screen and they'll be
+able to see you nudge their car on their
+iPad it's really cool the multiplayer
+gaming looks very very neat there's a
+lot of games that are going to support
+that uh in the coming months so that's
+really neat so Google play games number
+five pretty solid up upgrade I'd like
+where this is going uh even though I'm
+not a big gamer on mobile I'll probably
+be gaming more because of this service
+number four Hangouts it's a
+multi-platform messaging service you'll
+get it on the web you'll get it in iOS
+you'll get it in Android it's almost
+everywhere and now this was a a very
+confusing announcement because at first
+we didn't know if it was replacing
+certain things or if it was just being
+added to the list of messaging services
+Google has but basically over the next
+couple months it'll be slowly eating up
+and bringing into itself other Google
+messaging services so right now the
+Android app will just replace Google
+Talk and once you get it working it'll
+basically start the ability to have
+multi-person comment threads and just
+hang out with people uh with text and
+with video and emojis and also the crazy
+stuff and the app is very fast it's very
+fluid I've been using it on Android and
+it's really useful um right now there is
+no SMS support but we've seen a a
+variety of opinions on whether or not
+this will actually happen I really hope
+it does because if it does iMessage is
+in big trouble but the bottom line is
+Hangouts is now a thing I had an a
+separate explain video on Google Babble
+explained Google Babble was its code
+name when it was being developed by
+Google so now that it's a real thing you
+can check out that video and basically
+get the gist of everything about
+Google's Hangouts app number three is
+Google Now improvements Now Google Now
+is one of the biggest selling points of
+Android it's one of the most awesome
+things in the Play Store now it's on iOS
+and now it's also in Chrome and a lot of
+the improvements were first of all you
+get some new neat cards where you can
+have reminders and certain voice
+commands and things work a lot better
+and some additional features but also in
+Chrome it got really neat so basically
+once the Google Now experience comes to
+Chrome you'll be able to just go to
+google.com and say okay Google how tall
+is Barack Obama and it'll give you the
+same response that it would in Google
+Now for Android so they did a bunch of
+neat demos and basically it's now more
+contextually aware so you can have
+almost a very conversation likee thing
+with it so for example I could say how
+much does it cost to ride this roller
+coaster in this park and it will tell me
+that and then I can say how long will it
+take to get there from here and you
+didn't have to name it again when you
+say there and here it knows you're
+talking about the roller coaster in the
+amusement park and when you say here it
+knows you're talking about your current
+location so it could tell you this
+information without you repeating
+yourself over and over again very cool
+stuff Google Now improvements are
+definitely going to be a big help number
+two the Samsung Galaxy S4 with Android
+4.2 pure Jelly Bean on and this one
+caught us totally by surprise it's
+basically a super Nexus I did a separate
+video on that not too long ago so if you
+haven't already seen it definitely Click
+The annotation there or if you can't
+there's a link below that like button
+but basically now there is a Galaxy S4
+out there in the Play Store it'll be
+available soon with the pure Nexus
+experience on it straight from Google I
+didn't know that Samsung had any reason
+to do this I didn't know that Google had
+any reason to do this but now it is
+officially a thing and uh yeah it's
+going to be delivered uh through the
+Play Store you'll be able to get this
+unlocked with an unlocked bootloader
+with the same bands as the Nexus 4 on
+AT&amp;T and T-Mobile and you also have uh
+LTE support which solves a lot of the
+complaints that were about the Nexus 4
+you also get a Micro SD card slot
+removable battery it's basically a
+really really great Nexus experience uh
+in that Galaxy S4 and number one at
+google.io 2013 was the new Google Maps
+experience this I felt was one of the
+most overarching awesome improvements of
+anything we saw Google iio I think it
+was one of the most underrated things a
+lot of people might be talking about
+Google Maps as if it's it's pretty neat
+but it's not all that but it's awesome
+Google Maps had a huge amount of
+improvements this year first of all that
+new design that came to the IOS app that
+a lot of us Android users were wondering
+why we didn't get now we're going to be
+getting that so there's going to be an
+update for Google Maps for Android and
+there's also a new Google Maps for
+desktop so when you visit it on the web
+and you go to Google Chrome or whatever
+browser you use and open up Google Maps
+it's going to be nuts the experience in
+Google Maps is totally overhauled the
+search interface is now changed so it
+gets better travel instructions better
+more intuitive clicking for locations
+and everything like that you get a much
+faster experience so zooming in and out
+and navigating streets it's all very
+very smart so if you click on a new
+location it'll start to highlight the
+Streets between your location and that
+new location it's really really smart
+also click on locations will give you
+buil-in card UI so you'll get Google
+offers built in and it's also basically
+merged in with Google Earth so if you
+keep zooming all the way in you'll get
+to Google Street View and you'll be able
+to just look at buildings in Google
+Street View Zoom slowly out you'll get
+to an overhead view and satellite view
+and you can keep zooming out and at the
+demo they zoomed all the way out and Zo
+zoomed out to the full Earth floating
+around the solar system and they pointed
+out that the clouds were actually being
+rendered in real time in that Earth
+which was really awesome very impressive
+they even kept zooming out and show the
+Earth in a relative position to the Moon
+and the Sun and the stars in the sky
+awesome stuff definitely very cool so
+the whole Google Maps experience is
+totally revamped there's even a new
+tablet app and tablet experience there's
+an explore button so you can explore new
+places based on reviews there's a new
+review system which is out of 5.0 star
+is integrated with go+ and zag got
+there's a ton a ton of Google+
+improvements and that's I think easily
+one of the most underrated and awesome
+things that happen at Google+ Google IO
+so yeah there you go a lot of stuff
+happened at Google IO 2013 and I'm sure
+a lot more will be unveiled over the
+coming days weeks and months a lot of
+the things people were asking were wait
+a second usually at Google IO we see a
+new version of Android that didn't
+happen and I'm also expecting that we
+will see Android 4.3 or maybe even 4.2.3
+Jelly Bean in the coming months number
+two where is the next Nexus 7 I also
+think we're going to see that soon in
+the next coming months perhaps later in
+the summer we're going to see a 1080p
+Nexus 7 an updated version of that um
+and there are a lot of other questions
+about things that also happen during the
+event and I'll include as much
+information as I can in the description
+below so that's going to be a gold mine
+of links and quotes basically uh but
+yeah a lot of great stuff happened
+definitely this year and I'm looking
+forward to the next couple of months and
+seeing the way things pan out because
+not everything is fully baked yet like I
+said Google Hangouts could really use
+SMS support and a couple of other things
+could really use some fine tuning and
+tweaking uh but other than that yeah
+that's it top 10 things from Google iio
+2013 the entire day one keynote began
+with a whole spiel about how successful
+Google's been and how much they're
+working with developers to include them
+in further projects and stuff like
+Google Glass and stuff and how there's
+been 900 million Android activations but
+I think the best part of Google was the
+last part of the day one keynote where
+Google Larry Page came out on stage and
+gave basically a speech about how the
+future looks for Google for himself for
+what he thinks of the tech industry and
+uh it was very fitting he kind of gave
+that speech in front of the floating
+Google Earth in the background so he was
+kind of talking about how he feels about
+the whole world as the globe spun behind
+him it was very cool uh and the whole
+speech was really really great so if you
+do have a chance to watch what he says
+during that speech before his Q a which
+is also very unique there's a link below
+to that the whole keynote is on YouTube
+and you can check out that as well so
+either way that's been it that's been
+Google iOS 2013 wrap up/ highlight
+summary video definitely feel free to
+give a thumbs up if you enjoyed and I
+will talk to you guys in the very next
+video thanks for watching guys peace
+[Music]
+n
+[Music]

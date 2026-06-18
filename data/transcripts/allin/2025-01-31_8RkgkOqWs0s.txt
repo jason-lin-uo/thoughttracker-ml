@@ -1,0 +1,2886 @@
+# DeepSeek Panic, US vs China, OpenAI $40B?, and Doge Delivers with Travis Kalanick and David Sacks
+# https://www.youtube.com/watch?v=8RkgkOqWs0s
+
+all right everybody welcome back to the
+Allin podcast we've got an incredible
+crew today don't forget to go to our
+YouTube blah blah blah
+subscribe and make sure you check out
+freeberg surprise drop with his hero Ray
+Dalia live on all platforms today how
+did that come about for a b little
+surprise drop just great was talking
+with Ray about his new book which he
+just published on how countries go broke
+obviously which country going broke now
+America I think he talks a lot about the
+historical context of what's G on with
+the death Cycles in different
+countries and basically at the end of
+the book he has a pretty uh I think
+important
+recommendation to try and get the US to
+roughly 3% of GDP as our net deficit net
+of all expense including interest
+expense so that's the recommendation to
+the administration I think it's pretty
+timely with the change in administration
+anyway great topics to talk through and
+really important book awesome well done
+and we are super delighted to have in
+The Red Throne Travis Ken he is the
+co-founder and CEO of cloud kitchens he
+also uh worked in the cab business for a
+little bit co-founder and former CEO of
+uber and uh yeah we had a great
+interview at the all- in Summit last
+year and he's back up from his media
+Hiatus he's been in the lab working on
+cloud kitchens how you doing brother I'm
+doing really well I I got a say just
+like at the summit Jason I'm I'm it's an
+honor to be in the presence of such a
+prominent Uber investor absolutely
+absolutely I mean finally somebody has
+recognized my contribution the greatness
+of JAL Absolutely I'll mention it three
+or four times we'll be all good I'll
+give you the props you don't have to do
+it for yourself anymore thank you
+appreciate it
+appreciate let your winners
+ride Rainman David
+and instead we open source it to the
+fans and they've just gone crazy with it
+love
+Queen give everybody a little overview
+of cloud kitchens and the business and
+how it's going because people are
+obviously
+addicted to ordering food at home and uh
+it's it's quite a trend yeah I mean the
+the high level for it the way to think
+about is it's it's about the future of
+food what does the future of food look
+like you go well in a hundred years
+we'll start way out there in a 100 years
+you're going to have very high quality
+food very low
+cost that's incredibly convenient and
+they going to be machines that make it
+they going to be machines that get it to
+you and it's going to be exactly to your
+dietary preferences your food
+preferences Etc and it just comes to you
+and it's so inexpensive that it
+approaches or has surpassed the cost of
+going to the grocery store that's more
+of a like a today analog
+so you go 100 Years of course that's the
+thing nobody's going to be making food
+what about 20 what about 10 and so the
+company is real estate software and
+Robotics that's all about the future
+food and if you can get the quality
+there and you can get that cost down to
+start approaching the cost of going to
+the grocery store you do to the kitchen
+what Uber did to the
+car and that's the thing
+a grind it's like lot you know bits and
+atams in the Uber
+world this is
+like five times more atoms per bit this
+is like heavyduty industrial stuff
+probably more along the lines of like
+you know where Elon goes and some of his
+companies like they're super interesting
+Tech but you got to grind out those
+atoms do you see people actually cooking
+in the future or does it become a
+centralized service and is it optimized
+to People's Health and what do you think
+the implications to the food supply are
+if your vision holds how do you think
+about all those things look uh people
+will cook in the future as a hobby I
+sort I make a joke at the office I'm
+like I like horses I love horses but I
+don't ride a horse to work right and
+it's going to be a little bit like that
+whereas you can cook it's It's A Soulful
+thing to do it's just very
+human but you know it's late you know
+Mom gets home late from the office needs
+to get the kids you know a nutritious
+meal she doesn't have to cook it now and
+she doesn't she won't have to cook it
+and she won't have to go to McDonald's
+either it will be high quality and
+convenient and low cost all at the same
+time and yes dietary preference
+everything because it'll be hyper
+personalized like the way the internet
+is in
+content plus plus plus in terms of your
+specific preferences for what you
+want You' got these computers rocking oh
+these robots rocking I think in Philly
+somewhere uh in the lab where they're
+making bows yeah I mean we're out of the
+lab at this point we have our machine so
+we have a machine called a bowl Builder
+that basically makes different Cuisine
+types with bows so like think of like
+like sweet greens like what they yeah
+we're not working with these Brands
+specifically but I'll I'll just sort of
+it's a good analogy like think of
+Chipotle or Cava or sweet green or you
+get the idea
+we created test brands that were like
+those
+things and built the machine at the same
+time as we were building an actual
+restaurant and we built that restaurant
+to prove that the machine
+works then we have our customers now
+touring checking out we're rolling out
+with five customers in April that are
+using the machine and the way it will
+the way it's going to go down is they
+will come into and we of course we have
+the real estate so we have kitchens you
+know tens of thousands of kitchens
+around the world they will come into one
+of our kitchens in a facility it's a
+delivery only
+restaurant they'll prep the food in the
+morning and then they will leave and the
+Machine will if you will order online
+door dashu breats Etc they'll order
+online the way they do build your own
+Bowl exactly as you want
+and the bull gets all the ingredients
+dispensed hot or cold sauce Etc gets
+sled the bowl goes into a bag the
+utensils go into the bag the bag is
+sealed and then it comes out on a
+conveyor
+belt and machine gets the bag it goes to
+the front of the facility gets put into
+a locker that Locker then is sitting
+there door Dash re driver comes waves
+their waves their phone with an app in
+front of a camera and it pops open the
+locker that has the food that you're
+supposed to get that's so cool so like
+if you're if you're a restaurant tour
+you're the grind of the on man Meal
+which is the restaurant world goes away
+you you basically prep and that's
+asynchronous from when people order food
+the machine does the final assembly or
+what's known as plating essentially like
+do you think there's a service in the
+future where my
+physiology I can share that with you
+with Cloud
+kitchens and you guys just can always be
+optimizing my food based on what I know
+is good or bad for me so first what we
+do is we serve the restaurants so what
+happen so chamat you'll be sharing your
+dietary preferences with uberit or door
+Dash or sweet green or
+somebody we like our like our customer
+promise at our company we serve those
+who serve others or put in another way
+is infrastructure for better food so we
+are the either the AWS or the Nvidia or
+whatever you want to call it but for
+food if that makes sense we're behind
+the scenes we're the infrastructure and
+so you'll give your preferences right it
+should be a brand like then sweet greens
+or whomever Chipotle that says hey guys
+share with me like a yes an encrypted
+hash of your dietary restrictions needs
+whatever your lipid panel and I and I'll
+customize this thing and then you enable
+that on the back it's pretty close jth
+right you can do authenticate your Apple
+Health just authenticate Apple Health
+when these bowls come off the line and
+see how I talk it's like an assembly
+line bows come off the line on the label
+on the bow is how manys of every
+ingredient is in it plus a picture of
+what it was before we put the lid in
+that can be sent to the person while the
+Bull's on its way via a courier right
+what do you think Travis about this
+whole Maha movement and just the food
+supply itself so then what how does that
+change do restaurants Embrace more Farm
+to Table stuff I think look I think what
+like what we've SE with Supply chains in
+a bunch of different Industries it's
+just going to get super wired up so
+right now we're at the point of
+manufacturing but what happens so you go
+okay we're doing assembly then you go
+okay what about prep then you go further
+upstream and you're like what about
+supply chain like Cisco US Foods and
+then you go further up and you're like
+well how does how does the mechanization
+occur on farms and in agriculture and
+then how does that all get wired up to
+serve the customer and sort of what
+they're looking for so like you really
+can know exactly what kind of wheat was
+put into that
+food whether it was organic for real or
+not like what was the actual field it
+came from things like this you could
+imagine like really getting tied about
+supply chain as it relates to dietary
+stuff and as it relates to like Maha
+like hell to the yes I mean I ordered a
+couple different I went to the I went to
+RFK Junior's website and they have like
+the he has merch he has Maha merch I
+have I have the green Maha merch hat I
+should have worn it today I'm all about
+it get the
+onesie yeah that's amazing the onesie
+was crazy your bowl Builder Friedberg
+you tried to do this right your and we
+had a bowl Builder 10 years ago or
+2015 yeah
+2016 Diego saw it he actually visited it
+when we built it
+and we designed the system around a
+canister mechanism so all the food prep
+was done in a similar sort of like com
+AR model and then it was loaded in bulk
+and then put into little canisters and
+there were 30 slots in the canister
+dispenser and then the canisters would
+move down the device open up and and you
+could assemble bowls with rice and beans
+and all sort stuff the whole thing was
+automated and we were in the process of
+building out our first automated store
+when I actually took a medical leave of
+absence from it and ultimately the
+company did not get it into production
+but it we had great working demos and it
+was a very
+yeah I mean it was just definitely a
+no-brainer that this love this you love
+this yeah and at the time we were we
+actually had I'll tell you guys this we
+actually had a term sheet with
+Chipotle this was nine years ago to
+actually put this into Chipotle stores
+and then we were in the early
+conversations with sweet green at the
+time as well and obviously Jonathan and
+team have gone on to develop their own
+system but you know basically you can
+reduce so much of like qsr down to this
+bull based system and automated as
+Travis is doing so it's just a
+no-brainer and it's it's certainly
+necessary in a time when there's either
+labor shortage or labor price inflation
+that's causing a real issue with the
+ability and yeah this is the original
+automats in in New York yeah in in the
+early 20th century I love this but yeah
+they had a commissary behind that wall
+and they made like plates of food you
+put in there you put a quarter in you
+turn the knob and you get your meal out
+it's the classic that's the classic
+artificial artificial intelligence right
+this is like the Mechanical Turk thing I
+mean look here's the thing here's the a
+little Nuance that's super interesting
+about Automation in qsr restaurants is
+that they have an existing brick and
+mortar that's built a certain way that
+layout is meant for humans and to for
+those humans to work in certain
+processes an exact and very specific way
+every square inch of that kitchen and
+that space is is
+dialed when you go and put a machine
+like this in it changes the whole thing
+and so just to get going you've got to
+like do you've got to like if you're to
+replace the front line in Chipotle you
+got to you got to take out that front
+line you got to demo it yeah you got to
+put in a new
+machine that's the challenge that they
+all had and so now it's like a huge
+amount of capex my storees down for two
+to three months and the economics start
+to not work and by the way I still have
+to have humans in that brick and mortar
+and so you know look we have a different
+take we're in that delivery only model
+so these are it's true infrastructure
+for making food behind the scenes for
+delivery so you don't have these issues
+and of course our setup our
+infrastructure these kitchens are
+designed for these kinds of machines to
+be in them and vice versa we've designed
+the machine to be in them when we did
+this early at ITA it was like food
+delivery was very early we built these e
+restaurants that were smaller frint we
+had an 800t restaurant that was doing 3
+million a year in revenue and it had a
+handful of people working in it but we
+were putting about 800 people an hour
+during the lunch rush through that
+restaurant ordering custom B this was by
+one market right so one market exactly
+and so by the way did you guys notice
+that jcal was plugging his product there
+in the background even though it has
+absolutely nothing to do with what
+Travis was saying oh welcome back to the
+show nothing's
+changed sax is here no one else even
+noticed that I just heard this voice
+from above it was the Zar of AI and
+crypto I was like Wow send it that's all
+sit back and listen the Zar is back ZX
+any anecdotes you want to share about
+life in DC how how exciting it's been in
+the administration the first week it's
+been amazing I mean it's hard to believe
+it's only been a week right so you in
+the white house or that building next to
+it do you have an office building you
+mean the treasury building I know
+somebody was talking about there was a
+building next to it or what something I
+don't know I have an office in the uh
+old executive office building otherwise
+known as the Eisenhower Building and
+then I have a pass where I can just walk
+over to the westwing if I want to walk
+over to it there's kind of a whole White
+House complex
+behind the Gates that with the West
+Wings part of it and the Eisenhower
+Building and there a couple other
+buildings in that complex it's really
+cool it is really neat to to show up for
+work at the White House to say that's
+awesome it's like being in a movie or
+something or a TV show it is really cool
+you know it's awesome any interesting
+meetings you can talk about and I mean I
+know we are here to today to talk about
+deep seek but any interesting meetings
+or anecdotes from just the Vibes and
+walking around what's the coffee l is
+there like a commissary you run into
+anybody
+interesting there is a commissary
+actually in the White House called the
+Navy mess and I think they're just
+opening up for for business now that is
+one of the cooler things you could do is
+you can take people to to lunch at the
+Navy mess oh look forward to it J Cal
+just invited himself look forward to it
+I look forward to taking jamath and
+freeberg
+there I'll wear my Maga hat all right
+well let's get started you're here
+because you uh we have a very specific
+he's here because the world is ending
+Jason the the Western world is ending
+okay the Western world is ending and
+David Sachs is going to save it but we
+had a little bit of a freak out the last
+week regarding this deep seek if you
+don't know that's a Chinese AI startup
+they released a new language model it's
+called R1 and it's on par basically with
+some of the best models in production in
+the west like open AI 01 model but they
+claim and listen you can trust CLA
+coming out of
+China you know for what it's worth uh
+they claim to have done this all for $6
+million on only 2,000 gpus for
+comparison open AI spent reportedly 8
+100 million to train GPT 4 which you're
+all using now and uh Sam claims they're
+going to spend a billion dollars
+training GPT 5 and so that's about 7% of
+the cost of GPT
+4 obviously there are export
+restrictions on Nvidia h100s to China so
+there's a big big debate as to if they
+actually have H1s or not and uh Monday
+was a blood bath in the stock market
+Nvidia had the worst day in the history
+of the stock market in terms of total
+dollar amount of market cap lost it was
+down 177% which is $600 billion tsmc was
+down arm was down Brom was down so I
+guess everybody's asking the question
+how did they do this did they do it and
+then there's a bunch of debate on
+whether they stole which is kind of Rich
+coming from open AI which got caught
+red-handed stealing everybody else's
+content and now they're crying foul that
+the Chinese stole or
+trained did what's called distillation
+of their model in order to build theirs
+Sachs obviously you are the Zar of AI
+I'm curious what your take on all this
+is and thanks for coming well I think
+one of the really cool things about this
+job is just that when something like
+this happens I get to kind of talk to
+everyone and everyone to talk and i' I
+feel like I've talked to maybe not
+everyone in like all the top people in
+AI but it feels like most of them and
+there's definitely a lot of takes all
+over the map on deep seek but I feel
+like I've started to put together a
+synthesis based on hearing from the top
+people in the field it was a bit of a
+freakout I mean it's rare that a model
+release is going to be a global news
+story or cause a trillion dollars of
+market cap decline in in one day and so
+it is interesting to think about like
+why was this such a potent news story
+and I think it's because there's two
+things about that company that that are
+different one is that obviously it's a
+Chinese company rather than an American
+company and so you have the whole China
+versus
+US competition and then the other is
+it's an open- Source company or at least
+it open source the the R1 model and so
+you've kind of got the whole open source
+versus closed Source debate and if you
+take either one of those things out it
+probably wouldn't have been such a a big
+story but I think the synthesis of these
+things got a lot of people's attention a
+huge part of Tik tok's audience for
+example is international some of them
+like the idea that that the US may not
+win the AI race that the US is kind of
+getting a comeuppance here and I think
+that fueled some of the early attention
+on Tik Tok similarly there's a lot of
+people who are rooting for open source
+or they have animosity towards open
+Ai and so they were kind of rooting for
+this idea that oh there's this open
+source model that's going to give away
+what open AI has done at 12 cost so I
+think all of these things provided fuel
+for the story now I think the question
+is okay what should we make of this I
+mean I think there are things that are
+true about the story and then things
+that are not true or should be
+debunked I think that let's call it true
+thing here is
+that if you had said to people a few
+weeks ago that the second company to
+release a reasoning model along the
+lines of 01 would be a Chinese company
+I think people would have been surprised
+by that so I think there was a surprise
+and just to kind of back up for people
+you know there's there's two major kinds
+of AI models now there's kind of the
+base llm model like Chach D40 or the
+Deep seek equivalent was V3 which they
+launched a month ago and that's
+basically like a smart PhD you ask a
+question gives you an answer then
+there's the new reasoning models which
+are based on reinforcement learning sort
+of a separate process as opposed to
+pre-training and 01 was the first Model
+released along those lines and you can
+think of a reasoning model as like a
+smart PhD who doesn't give you a snap
+answer but actually goes off and does
+the work you can give it a much more
+complicated question and it'll break
+that complicated problem into a subset
+of smaller problems and then it'll go
+step by step to solve the problem and
+that's that's called Chain of Thought
+right and so the new generation of
+agents that are coming are based on this
+type of idea of of Chain of Thought that
+that an AI model can sequentially
+perform tasks figure out much more
+complicated problems so open AI was the
+first to release this type of reasoning
+model Google has a similar model they're
+working on called Gemini 2.0 flash
+thinking they've released kind of an
+early prototype of this called Deep
+research
+1.5 anthropic has something but I don't
+think they've released it yet so other
+companies have similar models to 01
+either in the works or in some sort of
+private beta but deep seek was really
+the next one after open AI to release
+you know the full public version of it
+and moreover they open sourced it and so
+this created a pretty big splash and I
+think it was legitimately surprising to
+people that the next big company to put
+out a reasoning model like this would be
+a a Chinese company and moreover that
+they would open source it give it away
+for free and I think the API access is
+something like 12th the the cost so all
+of these really did drive the the news
+cycle and I think for good reason
+because I think that if you had asked
+most people in the industry a few weeks
+ago how far behind is China on AI models
+they would say six to 12 months and now
+I think they might say something more
+like three to six months right because
+01 was released about four months ago
+and R1 is comparable to that so I think
+it's definitely moved up people's time
+frames for how close China is on on AI
+now let's take the um we should take the
+claim that they only did this for $6
+million on this one I'm with Palmer
+lucky and Brad gersner and others and I
+think this has been pretty much
+corroborated by everyone I've talked to
+that that that number should be
+debunked so first of all it's very hard
+to
+validate a claim about how much money
+went into the training of this model
+it's not something that we can imper
+Ally discover but even if you accept it
+at face value that $6 million was for
+the final training run so when the media
+is hyping up these stories saying that
+this Chinese company did it for six
+million and and these dumb American
+companies did it for a billion it's not
+an Apples to Apples comparison right I
+mean if you were to make the Apples to
+Apples comparison you would need to
+compare the final training run cost by
+Deep seek to that of open AI or
+anthropic and what the founder of
+anthropics said and what I think Brad
+has said being an investor in open Ai
+and having talked to them is that the
+final training run cost was more in the
+tens of millions of dollars about nine
+or 10 months ago and so you know it's
+not six million versus a billion okay
+it's the billion doll number might
+include all the hardware they've bought
+the years of putting into it a holistic
+number as opposed to the training number
+yeah it's running it it's not fair to
+compare let's call it a nuts number a
+fully loaded number by American AI
+companies to the final training run by
+the Chinese company but real quick sax
+you've got you've got an open source
+model and they've the the white paper
+they put out there is very specific
+about what they did to make it and uh
+sort of the results they got out of it I
+don't think they give the training data
+but you could start to stress test what
+they've already put out there and see if
+you can do it cheap
+essentially like I said I think it is
+hard to validate the number I think that
+if let's just assume that we give them
+credit for the 6 million number my point
+is less that they couldn't have done it
+but just that we need to be comparing
+likes to likes yeah so if for example
+you're going to look at the fully loaded
+cost of what it took deep seek to get to
+this point then you would need to look
+at what has been the R&amp;D cost to date of
+all the models and all the experiments
+and all the training runs they've done
+right and the compute cluster that they
+surely have so Dylan Patel who's leading
+semiconductor analyst has estimated that
+deep seek has about 50,000 Hoppers and
+specifically he said they have about
+10,000 h100s they have 10,000 H 800s and
+30,000
+h20s now the cost s sorry is they deep
+seek or it's deep seek plus the hedge
+fund deep seek plus the hedge fund but
+it's the same founder right and by the
+way that doesn't mean they did anything
+illegal right because the h100s were
+banned under export controls in 2022
+than they did the h800 in 2023 but this
+founder was very farsighted he was very
+ahead of the curve and he was through
+his hedge fund he was using AI to
+basically do algorithmic trading so he
+bought these chips a while ago in any
+event you add up the the cost of a
+compute cluster with 50,000 plus Hoppers
+and it's going to be over a billion
+dollars so this idea a that you've got
+this Scrappy company that did it for
+only 6 million just not true they have a
+substantial compute
+cluster that they use to to train their
+models and frankly that doesn't count
+any chips that they might have beyond
+the 50,000 you know that they might have
+obtained in violation of export
+restrictions that obviously they're not
+going to admit to and we just don't know
+we don't really know the full extent of
+of what they
+have so I just think it's like worth
+pointing that out that I think that part
+of the story got overhyped it's hard to
+know what's fact and what's fiction
+everybody who's on the outside guessing
+has their own incentive right like so if
+you're a semi-conductor analyst that
+effectively is massively bullish Nvidia
+you want it to be true that it wasn't
+possible to train on $6 million
+obviously if you're the person that
+makes an alternative that's that disrupt
+you want it to be true that it was
+trained on $6 million all of that I
+think is all speculation the thing that
+struck me
+was how different their approach was and
+TK just mentioned this but if you dig
+into not just the original white paper
+of deep seek but they've also published
+some subsequent papers that have refined
+some of the
+details I do think that this is a case
+and Sak you can tell me if you disagree
+but this is a case where necessity was
+the mother of invention so I'll give you
+two examples where I just read these
+things and I was like man these guys are
+like really clever the first is as you
+said let's let's put in a pin on whether
+they distilled 01 which we can talk
+about in a second but at the end of the
+day these guys were like well how am I
+going to do this reinforcement learning
+thing they invented a totally different
+algorithm there was the the Orthodoxy
+right this thing called po that
+everybody used and they were like no
+we're going to use something else called
+I think it's called grpo or something it
+uses a lot less computer memory and it's
+highly
+performant so maybe they were con strain
+sacks practically speaking by some
+amount of compute that caused them to
+find this which you may not have found
+if you had just a total surplus of
+compute availability and then the second
+thing that was crazy is everybody is
+used to building models and compiling
+through Cuda which is nvidia's
+proprietary language which I've said for
+a couple times is their biggest moat but
+it's also
+the biggest threat factor for lockin and
+these guys worked totally around Cuda
+and they did something called PTX which
+goes right to the bare metal and it's
+controllable and it's effectively like
+writing assembly now the only reason I'm
+bringing these up is we meaning the West
+with all the money that we've had didn't
+come up with these
+ideas and I think part of why we didn't
+come up is not that we're not smart
+enough to do it but we weren't forced to
+because the constraints didn't exist and
+so I just wonder
+how we make sure we learn this principle
+meaning when the AI company wakes up and
+rolls out of bed and some VC gives them
+$200
+million maybe that's not the right
+answer for a series A or a seed and
+maybe the right answer is 2 million so
+that they do these deep seek like
+Innovations constraint makes for great
+art what do you think uh freedberg when
+you're looking at this well I think it
+also enables a new class of investment
+opportunity
+given the low cost and the speed it
+really highlights that maybe the
+opportunity to create value doesn't
+really sit at that level in the value
+chain but further Upstream apology made
+a comment on Twitter today that was
+pretty funny or I think ref this about
+the ra he's like turns out the rapper
+may be the the mo the the mo which is
+true at the end of the day if model
+performance continues to improve get
+cheaper and it's so competitive that it
+commoditized much faster than anyone
+even
+thought then the value is going to be
+created somewhere else in the value
+chain maybe it's not the rapper maybe
+it's the user and maybe by the way
+here's an important point maybe it's
+further in the economy you know when
+electricity production took off in the
+United States it's not like the
+companies are making a lot of money that
+are making all the electricity it's the
+rest of the economy that Acres a lot of
+the value well you're about to see a big
+test of this because if open AI raises
+40 billion at 340 billion that just hit
+the wire the underwriting IC at 340
+billion exactly what you just said
+freeberg it is the rapper meaning chat
+GPT is the next killer app it's getting
+to a billion plus ma hundreds of
+millions of da it's competing for
+Consumer usage that's that's the model
+that's the model is like consumer usage
+which puts them on a on a collision
+course with meta it's the only company
+that could really impact that because
+the only company right now that has
+billions of eyeballs of daus per day and
+who and by the way Zuck said this in his
+earnings release he's like there's only
+going to be one company that brings AI
+to a billion plus people and it will be
+us some version of that quote in his
+earnings released yesterday and
+Microsoft showed weakness in the in
+their cloud and then Microsoft's down
+six% today and you know I think it's a a
+window for open AI to say we're going to
+go up against meta this is it we're
+going to be the players what you
+everyone's kind of ignoring Google at
+what do you guys think is happening
+right now between open Ai and Microsoft
+cuz if it's true that this distillation
+thing actually happened well there's
+only one place where you could have
+distilled the o1 model it's on aure so
+what the hell is going on over there
+well and there R1 is supported on
+explain distillation real quick yeah so
+when you have a big large parameter
+model the way that you get to a smaller
+more usable model along the lines of
+what saaks mentioned is through this
+process called distillation where the
+big model feeds the little model so the
+little model is asking questions of the
+big model and you take the answers and
+you refine and by the way you can see
+this Nick I sent you a clip you guys can
+see this I mean it's there's clearly
+distillation happening Nick can you show
+the clip of the of the deep seek run
+where it shows the China answer and then
+deletes it what was Winston's job in
+1984 right and it sort of starts to go
+through this whole
+summary and then the person says are
+there any actual states that currently
+do
+that hold on here it goes it says North
+Korea wait goes China and then wait
+watch this boom so the reason why this
+is happening is like you're seeing this
+Chain of Thought you're seeing the
+several layers and then it's catching it
+after the fact so we know that this is
+distilled from some other
+model and my only point there it's a
+little tongue and cheek is right now
+when you go and use open AI you're using
+it sitting in an Azure instance
+somewhere right so this is Microsoft's
+Cloud infrastructure that runs it so it
+begs the
+question it's not that it's 's fault
+open ai's fault that this distillation
+happened and I'm not trying to assign
+blame but typically if this were to
+happen you'd look to your cloud provider
+and say how are you letting this happen
+and I don't think anybody's had a good
+answer for that well and the cloud
+provider is hosting R1 now so they're
+literally
+undercutting chat GPT and open AI at the
+same time just to clean that up they're
+they're hosting their own copy of it
+right because r1's been open when you
+say they who are you who are you
+referring to saxs Microsoft yeah
+Microsoft is hosting their version of R1
+which means they are actively subverting
+their partner open Ai and pushing people
+to a cheaper model well whatever I mean
+look Amazon's going to host their own
+version of R1 grock has a version of
+R1 just red out it's open source now
+have who has R1 on his laptop you know
+yeah exactly yeah but if it was if it
+was stolen as um and the IP was stolen
+as Sam is claiming that would be like
+You' think he'd be able to call up S and
+say hey can you not put the stolen IP on
+your server and promote it to everybody
+at a lower cost it just shows Microsoft
+has no loyalty to open AI yeah and they
+have but you think they would have
+loyalty they have loyalty what it would
+take to distill
+01 like brute
+force it wouldn't be like oh geez I
+can't believe it was distilled it would
+be like such a massive number of calls
+against an API or against something
+something that you it wouldn't be
+unnoticed and oh they did actually came
+out and said they blocked some
+suspicious activity recently yeah no but
+they're always doing that they're always
+that's that's constant you're always
+doing that that's like you know the old
+school you know go go ahead s let me let
+me address the distillation point so I I
+mentioned this a few days ago on on Fox
+news that I thought it was likely or
+possible that desolation had occurred
+and there was some evidence for this and
+it became like a news story and I I
+didn't even realize that saying that
+would be news because it's kind of an
+Open Secret Silicon Valley everyone I
+talked to they're doing some level of
+distillation because you need to test
+your model against theirs anyways yeah
+and every single person I've talked to
+basically has agreed that there was some
+distillation here from open
+AI now that doesn't mean it was the only
+thing going on here I mean to be sure
+the Deep seek team is very smart and
+there were some Innovations but also
+there was some distillation and really
+this wasn't even a fresh news story I
+think from the point of view of Silicon
+Valley because a month ago we had a
+press cycle in Silicon Valley when deep
+seeks V3 model came out that deep seek
+V3 was self-identifying as chat GPT when
+you would ask it who are you like what
+model are you five out of eight
+times V3 would tell you that it was
+Chachi
+T4 and there's lots of videos and
+examples of this online that have been
+posted right the point is that we knew a
+month ago that V3 had been framed on a
+substantial amount of chat GPT output
+obviously because V3 was
+self-identifying as chat GPT and there's
+two ways that that could have happened
+so the let's call it innocent
+explanation is that deep seek had
+crawled the web and found lots of
+published output from chat GPT and then
+trained on that and that wouldn't be a
+violation of open AI terms of service or
+their IP or the other explanation would
+be that they used the API from open Ai
+and basically you know went to town yeah
+went to town and there's no way I think
+based on what we know to prove that one
+way or another but I know what most
+people think happened and at the end of
+the day open AI can probably figure it
+out and they they've indicated that they
+think there was
+some improper distillation here in the
+financial times it says opening eye says
+it has found evidence that Chinese
+artificial intelligence startup DC used
+the US company's proprietary models to
+train its own open source compan right
+that's what I'm referring to so they say
+they've been very clear about this by
+the way you have to be sympathetic I
+think to open AI in this because if
+you're building a startup you're trying
+to raise money we've all gone through
+this cycle guys where it's like there's
+momentum we celebrate internally the
+momentum that's what gets you the energy
+to push your team even further and
+harder and then all of a sudden it turns
+out that some portion of that like it
+Travis said it well like you're there's
+probably a chart inside of open ai's
+offices where you're showing how many
+times these apis are getting hit right
+you know how many times these end points
+are getting hit it all looks positive
+and then you realize that some portion
+of it was actually bad and trying to
+undercut your
+value it's a hard pill to swallow and
+then you have to course correct very
+quickly you have to lock down this is
+one area where security exactly we have
+not talked about this like you have to
+lock these models down now you have to
+lock the endpoints down look in the
+Biden Administration if this had
+happened the first conversation would
+have been we need need to kyc the people
+that use these models and it's like what
+are you talking about we don't kyc the
+cloud if you're trying to use like an
+ec2 endpoint or an S3 bucket you don't
+have to all of a sudden prove who you
+are you just use a credit card and go
+that's the whole point of why
+proliferation can happen so quickly but
+if we take the wrong takeaways from this
+period there's going to be a bunch of
+people that'll clamor to like lock these
+folks down and make Innovation go much
+slower I don't I think that that would
+be bad here's the other side and totally
+agree Chim but here's the other side you
+go through the white paper you see what
+it is they did what they innovated on
+yeah the science behind it the
+thoroughness and you're like these guys
+are badass it doesn't it does not feel
+or sound like somebody who took
+something just when you get through it
+it could be that it could be that open
+AI wrote the white paper for them just
+putting it out there but it's real
+Innovative I agree with that real
+Innovation strong Tech you're like this
+is legit I agree with that but in that
+paper they're very hazy about where the
+data is coming from and they're they're
+fairly transparent about everything else
+they did but they're not really clear
+about the data and specifically they say
+that to get from V3 which is the base
+model to R1 which the reasoning model
+they had about 800,000 samples of
+reasoning they were quite unclear about
+where those reasoning samples came from
+from by the way it is remarkable that
+you can get from a base model to an R1
+with just 800,000 samples but this is a
+problem like we meaning like the Western
+AI Community we've been trudging around
+on this path where we've been very we
+had a very Orthodox approach the only
+way you can do reinforcement learning is
+through po okay but is that true and it
+turns out that if you're like a really
+smart team that has no other choice you
+move away and you invent your way out of
+it and so we have to get that example
+too I think it's technically brilliant
+some of the things they've done but they
+also use constraint as a very much a
+feature not a bug and the the Western AI
+economy has been the opposite so far I
+think the best part of this is the fact
+that Sam mman was supposed to be doing
+open source he made it a Clos Source
+company he stole everybody's data every
+got caught red-handed he's being sued by
+the New York Times for all that and now
+the Chinese have come and open sourced
+all the stuff he stole and he's got a
+real competitor on the original Mission
+of what opening ey was supposed to do so
+I have zero sympathy for him or the team
+over there I'm glad that this is all
+going open source it should have been
+open source and it's better for Humanity
+and the fact that the Chinese did it to
+Sam wman has come up and for him
+stealing everybody else's content that's
+my okay there you have it but I don't
+have strong opinions on it it's
+hilarious does nobody see the irony in
+this he was supposed to be doing open
+source because Jal I will say the models
+are closed you're right yeah there was
+there's the lawsuit with Scarlet
+Johansson for stealing her voice even
+when she said no there's a real question
+and and people have asked New York Times
+and then there's now the question about
+YouTube data being used to train the
+video models so there's a lot of being
+on their on their heels a little bit so
+I definitely I definitely see your point
+stealing I think yeah I think the the
+really all the pressure right now I
+think is on meta because I think meta
+has to show up with the next iteration
+of llama that beats and exceeds
+Gemini that exceeds R1 and I think that
+that is going to be crucial for us to
+have a counterweight to whatever China's
+going to put out after this and but I
+mean jamat it's open source like does it
+not so this so this is my point Embrace
+and extend Embrace and extend meta has
+to embrace and extend everything that
+these guys have shown meaning like meta
+is buying tens of thousands of Nvidia
+gpus great but what did this show this
+shows that actually Cuda high level
+languages in general I think we've all
+known that they suck okay and so we've
+all been going through it thinking that
+it's like the right thing to do deep
+seek throws it out the window they use
+something called PTX what does meta do
+is critical now to understand they need
+to embrace this stuff and this is where
+I think again apologies to the Invidia
+bles but it's going to create a more
+heterogeneous environment and the reason
+is because there's too much money and
+risk on the line to go through a single
+point of failure a chip a highle
+framework to get to that chip that's
+nuts so I think like that kind of like
+Emperor has no close moment is upon us
+well let me ask you another question
+let's assume that we start the world of
+AI today so there's no Legacy of the
+last three years and you wake up today
+and there's this open- Source model
+that's 670 billion parameters you can
+run it on your desktop computer it's
+completely available everything's
+completely transparent and I ask you the
+question forget about all the big
+companies that are involved in
+everyone's strategy historically what's
+the model today to build value here
+where do you
+build equity value as a business if
+you're going to start a company if
+you're going to invest as a as an
+investor where do you go the first is
+you have to build a shim and I think the
+reason why a shim is really critical is
+that there's so much entropy at the
+model level what this should show you is
+you can't pick any model and the problem
+is that the people that manipulate these
+models the machine learning engine and
+whatnot they become too oriented to
+understanding how to get output of high
+quality using one thing meaning it
+shouldn't have been the case that we
+have Engineers that can only use sonin
+right that's the anthropic model right
+it shouldn't be the case that people can
+only use open AI or people can only use
+llama right now that is kind of what we
+have you don't have the flexibility to
+hot swap as models change so if you're
+starting a company today the first
+technical problem I would want to solve
+for is that because tomorrow if it's R2
+or alibaba's model or llama I would want
+to be able to rip it out and put it back
+in and have everything work and right
+now we can't do that the answer to your
+question fre is the answer your question
+hold on the answer to your question is
+the application layer because this is
+all going to become storage it's like
+YouTube being built on top of storage or
+Uber being built on top of GPS all these
+Innovations are being commoditized and
+this one is happening faster than all
+the rest do you want to be in the
+storage business or you want to be in
+the YouTube business do you want to be
+in the Uber business or do you want to
+be in the GPS chip business I mean
+they're both decent businesses but Gavin
+Baker came on this podcast and said this
+the fastest deprecating asset in the
+world was a large language model he's
+been proven right they're not worth
+anything they're all going to be open
+sourced they're all going to be
+commoditized and that's for the best of
+humanity and now we're going to be on
+the application Level the hardware level
+with robots and I think that's where the
+opportunity is Travis what do you do
+what company do you start today if you
+start a company today given where the
+world is at given the open- source
+models like what do you do oh I'm
+getting so excited um look I I think the
+first the first degree out is it's what
+you got is there a rapper company okay
+so of course maybe those companies
+already exist and then is there a tools
+company right so in a funny way even
+though Facebook could be the rapper they
+have a tools
+business that these you know that the
+that deep seek is basically challenging
+going full open source and like putting
+something out there that's really good
+and what has to happen is fa meta has to
+decide like we are going to embrace and
+extend this we're going to make sure
+that all the developers come to us that
+all the cool applications get built here
+so I think it's like there's a tools
+business and then there's the rapper
+business um and then you know look when
+AI here's the one thing on the Nvidia
+thing that I would counter with a little
+bit of what's been said here is like
+when AI gets cheap you know what's going
+to happen guys there's going to be a lot
+more I right I don't think I think the
+price elasticity on this one is actually
+positive so as the price goes down
+that's right the revenue usage
+everything's going to go up we through
+the RO this is a history of tech forever
+since like Bill Gates said I don't know
+what to do with more than 64 kilobytes
+of memory like you know the question is
+did we cheap oil cheap oil in the United
+States drove the Industrial Revolution
+right and like when we started
+discovering oil suddenly we were able to
+build factories and make stuff that we
+never imagin possible and so then you're
+like okay AI is like you know it's going
+to get cheap it's going to be oil but
+it's also going to be specialized for
+different tasks like you're going to
+start getting into nuances of like what
+is the invest the investor AI look like
+what does the autonomous car AI look
+like what does the uh Google search I'm
+trying to figure
+some like yeah so you could go vertical
+and Silo siloed air quotes understand
+what I'm saying abolutely yeah so
+there's a a thing called Jin's Paradox
+which kind of speaks to this concept SAA
+actually tweeted about it which is the
+it's an economic concept where as the
+the cost of a particular use goes down
+the aggregate demand for all consumption
+of that thing goes up so the basic idea
+is that as the price of AI gets cheaper
+and cheaper we're going to want to use
+more and more of it so you might
+actually get more spending on it in the
+aggregate that's right because more and
+more applications will become cost feas
+economically feasible exactly that is I
+think a powerful argument for why
+companies are going to want to continue
+to innovate on Frontier models you guys
+are taking a very strong point of view
+that open source is definitely going to
+win that the leading model companies are
+all going to get commoditized and
+therefore there'll be no return on
+Capital and basically continue to
+innovate on on the frontier I'm I'm not
+sure that's
+true you for one thing the the R1 model
+is is basic comp to 01
+which which open AI released four months
+ago and was training on internally call
+it N9 or 10 months ago so open AI is on
+03 now its Frontier is ahead of where R1
+is anthropic and Google I think have
+things in the work and even meta that
+may be ahead of where R1 is so I think
+R1 or deep seeks done a good job being a
+fast follower here is it's not clear
+that this is the frontier and those
+Frontier Model companies now having seen
+what might have happened with
+distillation have a pretty strong
+incentive to make sure that doesn't
+happen again and they're going to be
+taking countermeasures I mean there's a
+question of like how much you can do to
+stop it but I think it's a little
+premature to conclude that there's no
+reward for being at the frontier anybody
+uh have any other questions for Sachs
+before we drop him off to go back to
+serving the American people before we
+drop him off one final point on on the
+whole open source verus closed Source
+look I I'm not going to take sides in
+that but I I think that it's a mistake
+to just view what happened here as oh
+it's this like Plucky upstart that's
+like doing the community huge service
+out of the goodness of its heart you
+know it's basically open sourcing all oh
+they stole it they stole it it's a
+Chinese come on you still have this huge
+geopolitical aspect to it right and deep
+seek is a Chinese company they trying to
+catch up and so if you're if you're
+behind and you're trying to catch up
+then open source is a strategy that
+actually really makes sense for you and
+you know they're trying to basically
+undercut the leading American companies
+and I I don't think they did it with $6
+million I mean they have massive
+resources behind them so I think some of
+the the pro deep seek Vibes I think are
+they're a little bit naive you know in
+Silicon Valley it's like that's only the
+uh people who worked for Sam previously
+and quit who feel that way
+I think there's a lot of like support
+for deep
+sea Valley because again people think
+that they're doing this huge service for
+the community and I think it's a little
+bit more self-interested that than that
+it could be both right I mean there
+there is a theory that they're trying to
+undercut and neuter the lead and at the
+same time there's a b bunch of people
+who believe in open source and nobody
+should control this and certainly not
+Sam wman should be the person who
+controls it so two things could be true
+at the same time David thank you so much
+for coming on we appreciate it and uh
+thank you for all coming on your podcast
+David we appr David I know that this is
+and now we're going to talk about a
+bunch of other crazy stuff gentleman
+David yes thank you all right thanks to
+David Sachs for coming in and uh you
+know I guess let's open up the aperture
+here and talk a little bit about
+relations with China we're obviously in
+a bit of a cold war with them we have
+tariffs we have
+Taiwan and then we have uh the sort of
+trade war going on here with uh exports
+of h100s where do we want to start
+gentlemen and you know Travis you've got
+some uh deep you're one of probably five
+American entrepreneurs who ran an at
+scale business with Uber and the DD
+relationship in China so you have a
+unique position of understanding
+business in this along with maybe Tim
+Cook and Elon are the only other two
+people who've really had an at scale
+business there maybe Disney they have
+Disneyland there
+yeah what's your take on the
+relationship and what's going here GE
+China how's China going to operate
+differently than the US Travis from your
+experience your point of view tell us a
+little bit about the culture and
+business ethics in China particularly as
+it relates to AI okay so okay so look we
+I had this thing this is I'm going back
+almost 10 years here Uber day we're
+running Uber
+China
+and I mean I cannot there's no way I
+could express the frenetic intensity of
+copying the that they would do on
+everything that we would roll out in
+China and it was so
+epically intense that I basically had a
+a
+massive amount of respect for their
+ability to copy what we did I I just
+couldn't believe it we would do real
+hard work make it we dial it and it
+would be epic and it would be awesome
+we'd roll it out and then like two weeks
+later boom
+they've got it a week later boom they've
+got it and of course I use that to drive
+our team and there's so many great
+stories I mean we had we had like
+400 Chinese
+Nationals in Silicon Valley at our
+offices in San Francisco we had a whole
+floor for the China growth team and it
+was primarily Chinese Nationals we had
+Billboards on the 101 in Silicon Valley
+in Chinese
+Uber Billboards to join our team in
+Chinese to to serve the Homeland right
+um it was like an allout War it was
+really epic it was epic and by the way
+when you went to that floor in our
+office you were in China like they red
+China style like the desks were
+literally smaller like the density of
+the space was it was China
+okay so but what happens is when you get
+really really good at coping and that
+time gets Tighter and Tighter and
+Tighter and Tighter and Tighter you
+eventually run out of things to
+copy and then it flips to creativity to
+creativity and Innovation now at the
+beginning you you know it's sort of all
+over the place like the kind of
+innovation when it was new was like what
+you know you're like really but as they
+exercise that muscle it gets better and
+better and better so if you want to know
+about the future of food like online
+food delivery you don't go to New York
+City you go to
+Shanghai right what's an example like of
+like something really Innovative their
+doesn't doesn't mwan do drone delivery
+and stuff like here's an example if you
+went to offices like let's say shanhai
+um Beijing any of the major cities hongo
+Etc the office buildings have hundreds
+of lockers around their
+perimeter so that everything that you
+get whether be food or anything else but
+especially food it's just the the
+couriers drop them off in these Lockers
+in the at the office buildings and then
+there are a whole other set of people
+that are sort of like inter office
+Runners Runners that then bring it to
+your
+office as an example like and when you
+see it you're like and it's epically
+efficient and it's you know they're
+taking advantage of their economics on
+labor and things like this it wouldn't
+exactly work that way here but a lot of
+the Innovation you will see coming out
+on Uber Eats or door
+Dash like the stuff that's coming out
+now is stuff that existed three years
+ago four years ago in China maybe longer
+so like eventually you cross that
+threshold of coping and you you're
+innovating and then you're leading and I
+think we see that in a in in a whole
+bunch of different places yeah here's a
+look at these smart lockers that you can
+see you're just available for sale when
+when you go online but yeah these things
+are crazy and you've experimented with
+those as well didn't you have like a
+commissary Concept in DTLA well look we
+okay so we got a couple things so we
+have in every one of our facilities and
+we've got you know hundreds of
+them we'll have lockers there so the The
+Courier then waves their phone in front
+of a camera the right Locker pops open
+they get the food from there and they go
+The Courier pickup is asynchronous from
+production of food you never you don't
+have lines anymore there's no more lines
+which then speeds up delivery shortens
+the amount of time shortens is reduces
+how much money you spend on
+couriers and we've got a whole other
+thing this doesn't work in it probably
+wouldn't work in China because well for
+a lot of reasons but let me explain what
+it is it's called picnic where if you
+are in an office building you order food
+you go to a website you order whatever
+it is from a 100 different restaurants
+those restaurants happen to be in my
+facilities
+and there'll be one Courier that goes to
+one of our facilities and picks up 50
+orders at a time brings it to an office
+puts it there's a shelf on every floor
+you get notified when your food arrives
+and it arrives the same T time every day
+and you just go to the Shelf get it on
+your floor and dip it right back into
+your meeting saving people time at the
+office giving them selection on food
+especially in food deserts but even
+going like there's a sweet green right
+down there in my current in my office
+right now I could save 20 minutes by
+just using our own service versus doing
+that and you get at the same price
+because the Courier economics The
+Courier is bring is delivering 50 orders
+at a time so Courier costs go basically
+to zero what do we think of the um of
+the export controls here should we chth
+be maybe Banning more h100s or other
+chip sets going there or is that futile
+I don't know the answer to that and I
+think that's I think saxs
+and president Trump will make a good
+decision but here here's the Curious
+Case of the export controls Nick I sent
+you a couple of tweets if you want to
+just bring this up so the first thing
+that people are claiming is that deep
+seek is getting access to a bunch of
+Nvidia gpus using Singapore as a back
+door so essentially you create a
+Singaporean shell company you place an
+order with Nvidia Nvidia fulfills that
+into Singapore and then the chips go
+someplace uhoh and so there's a bunch of
+examples where people are saying that
+you're talking about up to a quarter of
+all Nvidia
+Revenue goes into
+Singapore and the speculation right now
+is that 100% of those then go into China
+which is an enormous claim because
+that's a huge amount of of nvidia's
+Revenue now the interesting thing is if
+you actually try to understand well
+maybe that's not true and maybe it's
+sitting inside of Singapore this is
+where that kind of unravels so just to
+be clear like Singapore is about 250 or
+260 square miles like it's like a small
+small place also the Tik Tok
+headquarters
+and I tried to find out how many data
+centers are in Singapore and it's about
+a 100 and so you would think that okay
+well what does that mean 100 could mean
+anything but then you look at the energy
+and they publish that and all of those
+100 data centers consume about 876 megaw
+so these are are small data centers
+right and the entire industry is like a
+one and a half2 billion doll Revenue
+business so I do think that saaks and
+the administration are going to have to
+dig into this and figure out what their
+opinion should be but there is
+clearly a ton of of these chips going
+into
+Singapore I don't think anybody knows
+where they end up and the question is
+what does America think about that and
+why did we Implement these export
+controls in the first place and if
+there's a simple back door how do you
+want to react if the US finds a path I
+mean let's talk about like what happened
+with sanctions in Russia and other prior
+kind of sanctioning efforts around the
+world but as you kind of close the the
+floodgates and close access the
+buyer or the receiver of those goods or
+that Capital are going to look elsewhere
+they're going to look to create a market
+somewhere else and so if we do cut off
+access to Nvidia ch we do cut off access
+to US exports are we not kind of
+recognizing that the second order effect
+of that is that China will take IP that
+they've stolen copies that they've made
+to Travis's point and develop and build
+out their own Fabs and they'll find ways
+to copy the asml technology and you know
+at the end of the day there's a lot to
+put together and I know it's deeply
+technically complex but if ever there
+were a group of people in the history of
+human civilization to pull it off it's
+probably the modern Chinese to be able B
+to say let's go build our own it's worse
+than that our own infrastructure this is
+a great point but it's worse than that
+the models today are capable of
+Designing chips for you that don't rely
+on the most complicated technologies
+that asml creates I mean look one of the
+luckiest things that happened to Gro was
+we designed our chip at 14 nanometer
+which is effectively in the spectrum of
+Technology like VHS and beta so we chose
+a simple simple technology stack to
+build to
+the latest cuttingedge chips at like 2
+nanometer that use these complicated
+asml machines it's not clear that the
+yield is actually that good so why would
+you spend all that money and if China is
+forced to engineer its way around it
+yeah freeberg the answer to your
+question is they'll use these models to
+design chips that can be manufactured in
+simple ways and they'll make simple
+stuff so this I'm just not sure it
+solves the problem is my point well it
+doesn't and this is why I think like it
+doesn't solve the real problem which is
+how do we incentivize people in America
+to really out engineer and out innovate
+competition or AI I sure's in an era of
+extraordinary abundance and that
+abundance ultimately reduces the the
+drive for conflict and things are better
+off or the other version as well is that
+China could just bear the cost as a
+central authority of building an
+incredibly great model right and they
+will spend all the money and then they
+will tell the Chinese companies you can
+distill from this model for free because
+we have a golden vote and a seat on your
+board anyways which is effectively de
+facto what happens if you get big enough
+in China so there's that possibility as
+well where one Central Authority Bears
+the capex of creating something that
+then everybody else can can draft off of
+and let's talk a little bit about open
+AI uh they're in Washington asking for
+money now is that the uh is that the
+concept now is that the our government
+should back the rumor today was they're
+raising 40 billion at a 340 billion doll
+preone with MSA potentially being the
+lead I would love Travis's read on this
+because Travis has taken large money
+from from Masa in the past and has been
+through this but how does he think about
+make this decision obviously we all know
+and I mentioned you guys the meeting I
+had with him last summer where he
+basically kicked me out of the room
+because my company's not generative AI
+like someone said you should go meet
+with Masa so I'm like sure I'll sit down
+with him and start talking and he just
+like looked at me and he's like uh this
+is not generative AI I only do
+generative AI I think you're company
+will be very successful you will be very
+successful goodbye and he was walked out
+and that was like the end of everything
+so great yeah that's all he's doing now
+so this is the big BET right so okay so
+I need to I need to bust a myth I did
+not take money from Masa so he begged me
+to take money for years and we did not
+take it because he is
+a he's uh what's the word I'm looking
+for he's a he's a promiscuous investor
+so once he once he invests in you you
+should probably count on him in using
+your information and investing in all of
+your competitors at least that's
+historically what he's done so I didn't
+go there but then he just kept investing
+in all my competitors and they kept
+subsidizing these markets and then I'm
+like maybe I should have just saturated
+soaked up the money that was there so
+the one of the things you should think
+about like when you look at like oh is
+open AI taking a lot of money from aasa
+type situation is it's a little bit of
+like a double-edged sword is if you
+don't take that money it goes somewhere
+else but if you do take that money just
+know that whatever intelligence they get
+when they go through the process of
+giving you the money and maybe hanging
+around the board or who knows what is
+going to be used to do other things and
+that is the nature of the Masa machine
+so you're damned if you do damned if
+you're don't but you got to pick and if
+the money's going and it's flowing and
+and access to Capital is a strategic
+competitive weapon or Advantage you must
+you must play ball now we were able to
+we we we did stuff with the Saudis
+before even Vision fund existed they
+stroked a three and half billion dollar
+check when that was like the biggest
+thing that ever
+happened so we were okay with not having
+the M of money but that M of money then
+went to all of our
+competitors door Dash and so in this
+open AI context Travis I mean like just
+knowing what you know about AI is this
+going to be a competitive Advantage for
+Sam to raise 40 billion where does it go
+when he's up against
+we don't know what in China Microsoft
+alphabet and meta well look I think this
+goes to some of the things that shath is
+saying which is like if if constraint is
+the mother of invention or or whatever
+that that euphemism is the the the
+aphorism is if if that's the case you
+get into a real weird spot when you get
+over capitalized over capitalized in the
+in the Uber model like the war was
+subsidizing rides for market share
+essentially being the rapper for
+transportation and using the parlons we
+were using earlier to in the in in this
+discussion so it was necessary you're
+screwed if you don't the the question is
+do you get to this place of over
+capitalized too big you know too
+bureaucratic too loose too weak too soft
+and with when you have an open source
+model that's very smart and it's a
+thousand flowers blooming lots of
+innovation happening
+everywhere could be an overwhelming
+force uh now I think there's going to be
+different sectors treat it different
+ways where like going full stack in
+certain industry sectors is going to
+matter and then in other places having
+like a very sort of chaotic everybody
+does a little slice is going to be okay
+in other places and I think we could
+probably spend days or hundreds of
+dozens of hours just talking about the
+nuances there you know well it seems
+like there's some degree of relationship
+between the Stargate announcement with
+Masa and Sam standing up there with
+Larry and then Sacha showing up in the
+conversation as well and this raise and
+the idea that more Hardware more
+infrastructure faster creates emote and
+I guess that's the real thing you have
+to believe which becomes harder to
+believe in the context of what happened
+in the last week I personally think that
+these models are and I've said this for
+a while it doesn't make sense to one
+large do everything model this mixture
+oferts architecture ultimately you can
+kind think about taking a large model
+making two copies of it and then trying
+to shrink each model down to whatever
+the necessary so that you run two models
+in less frequently meaning that that
+combination of two models uses less
+power and takes less time and then you
+do the same thing again and you shrink
+it down to four and then 12 and
+eventually you have lots of smaller
+models some of which in some cases are
+experts at one thing like doing
+mathematics or reading or writing but
+the reality is we don't know how whether
+humans have kind of thought about the
+world the right way that the AI May
+resolve to having smaller expert models
+that we don't really understand why
+that's the expert on something but you
+have a network of very small kind of
+things that work together and that
+ultimately leads to a like
+commoditization not just in kind of
+model cost and in development and
+runtime but also in like what's needed
+like do you really create much of an
+advantage by having all these dat c key
+this is the key point I think freeberg
+is you're not going to get an advantage
+by having more h100s at a certain point
+and the actual Advantage is going to be
+in the IP and owning content and the
+really smart thing to do would be for
+somebody to go buy Reddit Kora the New
+York Times The Washington Post and
+Disney and take all that IP and then not
+allow other people to use it sue the
+hell out of them every time they try I
+take Washington Post off that list but
+yes but I'll say New York Times comes
+off the list too well whatever I mean
+all those
+are definitely going to be what would be
+great about those is you could then like
+a patent troll then tell anybody else
+who's absorbed New York Times stories
+historically or Disney and you could
+just sue the hell out of them and then
+you've got the best most proprietary one
+you're describing you're describing text
+so you're describing text content which
+is a fraction of where this is important
+so video I think you can recognize that
+Google's YouTube Content Library is
+probably 100 to 200 times larger than
+the rest of the internet
+combined to do it well actually Jas
+you're such an old school copyright guy
+you're such an old school Med guy by way
+sorry I believe in artists and their
+right to content yeah we've had a series
+of conversations that I I feel very
+confident to tell you that they do have
+the right in in a good chunk of that
+content not in a lot of the copyrighted
+content that the big media companies
+have given them but a lot of user
+generated content they do have the right
+and they are using it and they're
+legally doing it and then there's the
+separate kind of body of content which I
+think comes for example from Tesla Tesla
+has an extraordinary advantage that they
+were really pressed to put cameras on
+everything years ago and that gives them
+this ability to build models that do
+self-driving so I think that there's a
+lot more data advantage that arises in
+certain industry segments than others
+and that's where the moat will lie and
+that moat will allow you to actually
+build better products that get you a
+more persistent advantage in gathering
+more data that's ultimately where I
+think this resolves to it may not
+necessarily be about who's got the
+biggest data center Network yeah I mean
+here the thing guys at some point the
+amount of data becomes the long pole in
+the tent at some point the quality of
+the algorithms becomes a long pole in
+the tent and more compute is not going
+to change that we I don't think we're
+there yet that's the one thing that
+counters the cheap AI means more AI is
+is there enough data and or algorithms
+to make the more AI to make it work and
+I do agree with the the siloing it and
+getting expert and getting better in
+these ways um but I think this is an
+interesting sort of trade-off between
+some of these these variables I got just
+got offered 2500 bucks to put Angel my
+book into because Harper Collins did a a
+deal with uh Microsoft and so I'm
+thinking 500 per year I think it's for
+three years is the license and they just
+did this blanket license for every book
+they didn't look at your sales they
+didn't look at how desirable it was it
+was just like a blanket deal everybody
+gets 2500 bucks per book for 3 years and
+I think I'm going to just do it just to
+support proper licensing so that people
+can start going down uh this path but
+let's get into Doge it's been a uh I
+think we're in 10 days into this
+Administration and um Trump formally
+established Doge the department of
+government efficiency in an executive
+order apparently elon's been spending a
+lot of time at the offices bunch of wins
+doge is claiming on the interwebs to be
+saving American taxpayers around a
+billion dollars a day $3 for every
+American every day about $1,000 a year
+in savings for each US citizen and they
+claim they can triple this and so for a
+family five that would be about what
+$155,000 a year maybe $60,000 during
+Trump's uh second term we got $36
+trillion in debt have fun with some
+numbers there if you
+like but the key announcement was a very
+similar to the Twitter execution the
+ability for people to resign done in a
+very kind way eight months of severance
+is is being offered to federal workers
+they expect 5 to 10% of federal workers
+to take this buyout
+and it's
+um I mean this could be something like a
+hundred billion dollar in savings eight
+months of severance um is not actually a
+legal concept that you can do so these
+are some sort of
+buyouts and there's obviously some hand
+ringing about it but I think they're off
+to a good start they've also been
+canceling leases as we talked about you
+know pre-election
+there is so much space not being used
+that uh the federal government is
+terminating a ton of stuff they own and
+going to sell it and consolidating folks
+and at the same
+time all of this is happening everybody
+has to return to office who wants to go
+first here with uh you know the sort of
+first 10 days of
+Doge I see some eggplant emojis in the
+group chat first 10 days how do group
+chat what's that about I'm adding you
+right now how are you not in the group
+chat I'm adding you right now I'm
+literally every time one of these hits
+the group chat it's just hilarious
+eggplants people are like oh my God
+we're not burning
+tax and and the eggplant always comes
+from free bird first I'm outing him as
+an egg I'm I'm a I'm a big Doge eggplant
+guy oh so much
+eggplant oh so freeberg tell us about
+how much eggplant you love this there's
+nothing that I would say is particularly
+surprising in the first week a lot of
+this was kind of talked about leading up
+to the
+inauguration VI and Elon published their
+piece in the Wall Street Journal a
+couple weeks ago they talked about the
+mechanisms of action that they could
+utilize to kind of Drive reduction in
+cost one of which was come back to the
+office another one of which is you know
+giving people a buyout offer and by the
+way the buyout offer is not new Bill
+Clinton did the same thing during his
+presidency yeah if you guys remember
+when he tried to balance the budget get
+to a surplus which he did successfully
+and his intention was to actually reduce
+us Death To Zero by the year 2013 and he
+had a very specific economic and fiscal
+plan for doing that which he put into
+place incredible era I think we're
+seeing them take the actions that they
+said they would do they said they would
+demand to employees federal employees
+come back to the office and they assumed
+some degree of attrition from that and
+now the bi offer and we'll see how far
+things go with the courts with respect
+to their ability to stop a legislative
+or statutorily mandated spending there's
+a big question mark here on how much
+Authority the executive branch has in
+stopping spending and how much they're
+not allowed to stop because it's
+demanded by law it's demanded by
+Congress and Acts or laws that have
+passed and so that's going to be the big
+test here over the next couple of months
+a lot of lawsuits will fly but courts
+will ultimately adjudicate and we'll see
+how far the Doge intention can take
+things and then there's a separate set
+of efforts around legislative action
+here there's about a $2 trillion annual
+deficit right now in the United States
+um federal government 2 trillion a year
+and if you look at the the doo book on
+why countries go broke you know there's
+a pretty simple kind of arithmetic in
+there which is not complicated it's just
+at the end of the day the US needs to
+get our federal deficit down below 3% of
+GDP which means we've got to cut about a
+trillion trillion one of spending if we
+can do that then we're in kind of a more
+economically sound place by the way a
+really important point which is in the
+doo interview as you cut spending
+interest rates will come down because
+right now there's a pretty significant
+selloff in treasuries and a lot of risk
+associated with the US's ability to
+deliver um its debt obligations over the
+next 30 Years which is why 30-year
+treasuries are at 5% right now even
+though the Federal Reserve is cutting
+rates the rate on treasuries is going
+people are still selling off treasuries
+that also inflationary it's also
+inflationary Dave yeah for sure and so
+as we cut spending we also will see that
+the intent that the there will be less
+inflation and the US ability to pay back
+their debt obligations over the next 30
+Years goes up so the rates will come
+down and so there's actually a really
+nice kind of cyclical effect as these
+Cuts start to come into play the rate at
+which you can make the cuts actually
+affects the the amount of cuts you have
+to make the faster you make the cuts the
+less you have to cut and that's a key
+kind of principle going into this which
+I think we should expect a big Whirlwind
+of cutting in the next couple of months
+or an attempt to the courts will
+adjudicate what needs to be legislated
+and then they're going to go to Congress
+and start to try and get some of these
+Cuts in but I will tell you once again
+after our visit in DC last week there
+was not a single member of Congress that
+I spoke with who views cutting to be a
+mandate for them in the laws that
+they're trying to pass they all have a
+very different kind of agenda than D
+well look this is this is really one of
+those interesting things where it's like
+the difference between legislature and
+executive branch is like doge is really
+bringing it to life is like what powers
+and controls does the executive branch
+have to spend and not to spend and
+especially to not spend when it's been
+legislated to spend this is where the
+action is like there's no law that says
+you know you can give a bunch of folks
+eight months of severance and they're
+gone and you don't replace them there's
+no law that says that the executive
+branch and again I don't know the all
+the the laws sort of the rules or laws
+about whether you know how they go about
+doing it but let's say presumably
+they're doing this and there's some
+legal backing behind it like they just
+go and do it and now they're not
+spending money if it was really hard to
+hire people and they could even make it
+harder to hire people do they do they
+fight bureaucracy with bureaucracy that
+it's harder to spend harder to hire
+people harder to procure certain things
+that you're supposed to spend money on
+you can reduce the spend through a lot
+of very interesting nuanced friction
+rules that they're in control of yeah
+some friction could slow things down
+they're talking about putting competency
+tests in they're talking about giving
+people reviews and maybe they have to
+hit some standards and the gentleman's
+riff I mean when you force people to
+come back to the office you're going to
+lose 5 10% of people and 10% take the
+buyout and now all of a sudden we're
+saving things I mean it'll be
+interesting to see if it's 5 or 10% on
+RTO I mean that it could be a lot more I
+mean what I'm hearing about these
+buildings is that they are super super
+empty like next level empty and
+uh let's just say I'm really glad I
+don't hold like I'm an owner that has a
+bunch of leases yeah to the to the the
+federal government right now yeah oh the
+government and you know what the
+interesting thing about those leases I
+was talking to the DM at density which
+does people counting and buildings so
+they obviously um you know very
+interested in that the government is
+such a reliable
+yeah client that they're all on one-year
+leases so people don't you know do what
+they do with startups we just force them
+to do five or 10 years because they know
+hey this company could go out of
+business they're just like yeah yeah
+we're just on a rolling year-over-year
+lease so you can actually just cut these
+it's going to flood the market Shaman
+your thoughts on also the stopping of uh
+because they're obviously going for it
+they stopped all payments which is a
+part of the Playbook I saw a Twitter up
+close and personal which is hey let's
+let's turn off subscriptions and see you
+know if anybody's using these
+subscriptions
+basically obviously a judge got involved
+in that but Aid going to other countries
+you know we're just starting to look at
+what are we actually sending to other
+countries and for what purpose and then
+there's a naming and shaming and maybe
+appealing to the public through social
+media and saying hey do you want this
+money going here when hey we have
+tragedies in our own country that need
+to be solved we have healthare we have
+houses burned down we have
+infrastructure and so maybe you could
+talk a little bit about heart and minds
+and winning those and what your general
+take is so far I think that we have to
+remember that we're only n or 10 days
+into Doge so the fact that we're already
+at a billion dollars a day is really
+incredible and there has really been no
+discernable impact there has been a lot
+of fissures of fake news and
+misinformation but the real impacts have
+been negligible To None since they
+started making those cuts I think that
+doge is a three layer onion so layer one
+is the people
+we have now given a pretty generous
+offer to
+folks and I think Elon said it it was
+like basically the maximum allowed by
+these contracts but they tried to do a
+very good thing there the second as you
+guys just said the second layer of the
+onion is going to be the
+infrastructure all the buildings all the
+physical plants that the government owns
+and operates that may be empty that may
+be idle and getting them back in into
+private hands so that they be they can
+be repurposed that's going to save a ton
+of money but both of them will pale in
+comparison to the third layer of this
+onion which is the it and the services
+and the spend and what I mean by that is
+when you read how the department is set
+up at the center and nucleus of every
+single one of these Doge teams is an
+engineer and I think the reason is that
+they can get into these systems of
+record and start to trace where the
+money is going and I think when you
+start to on cover Through
+forensic
+analysis where these dollars are going
+and how it's spent that's probably how
+you're going to close the gap from a a
+trillion to and I suspect to be honest
+it could be more than two trillion
+dollars when it's all said and done that
+is an enormous amount of waste and it's
+unproductive so I'm very excited for
+what happens over this next little while
+just the the transparency is going to be
+incredible guys Just for kicks check the
+out right 2009 if we took if we took
+2019 spend right the year before Co and
+put it up against 2024 revenues $500
+billion Surplus wow there go that's
+crazy versus versus the1 A5 trillion
+dollar deficit so a two2 trillion swing
+on like a four four yeah on a$ four4
+trillion doll budget that's all
+waste well a lot of we've got a trillion
+dollars a year of interest payments now
+I mean this is guys this is the thing
+like there's two deflationary things
+that we need one is Doge and two is
+where AI is going to take us if it
+really does its thing and that will keep
+us in an okay spot economically but like
+we gota this spend has to go or we're in
+we're in sort of like we're in Greek
+Greek territory if that makes
+sense yeah and I think this is um the
+popular support for this this is pretty
+incredible I'll just go through a couple
+of numbers with you you know looking at
+what people agree with that Trump's
+doing early on and what they disagree
+with you know obviously we talked about
+it last week chamath pardoning the
+January 6 protesters and you know ending
+requirements for government employees to
+report gifts that's sort of like the
+Supreme Court thing these are
+tremendously unpopular and then if you
+go and you look at downsizing the
+federal
+government and imposing a hiring freeze
+and requiring all federal employees to
+return to an office these are incredibly
+popular and Elon tweeted these uh these
+graphs out as well so right now you have
+Trump at the Apex of his political
+popularity and you have these issues
+specifically in a very
+polarized time as incredibly popular
+he's also done an incredible job with
+the Border that's another
+consensus-based issue so Trump now has
+downsizing the government and
+controlling immigration and getting rid
+of violent immigrants as incredibly
+popular parts of his mandate and that's
+the big win for him if you look at his
+popularity Trump is massively more
+popular than he was the first time round
+he's at 49% compared to last time 44
+he's still the historically least
+popular president ever so my point in
+all of this is when you see Trump doing
+things like his meme coin or you know
+taking on Pete Bud Jed today all that
+kind of trump 1.0 negativity grifting
+that's the stuff that's going to derail
+this but the stuff that's not going to
+derail it is focusing on the Trump 2.0
+agenda and that is as somebody who was a
+never Trumper as you all know in the
+audience and now somebody who is
+supporting him
+relentlessly that margin that extra 10%
+of people who support him right now is
+me and other folks who are looking at
+the people who put around him he has to
+stay with the 2.0 agenda as hard as it
+is and stay away from the Steve Bannon
+agenda
+and the grifting those are the things
+that will take this all apart so that's
+my appeal to them I told everybody I
+give a letter grade I give them a b so
+far could do better but pretty good less
+of the meme coin less of the dra you
+know we have to make sure that we're not
+dragging dishwashers and teachers and
+and people who've been here 20 years out
+of the country and it's going to be a
+very DEA important um approach here if
+this is going to be sustained and I
+think it's a coin toss if he will be
+able to maintain his popularity
+and what he did today with this like I
+don't know if you saw the Pete budha Jed
+he was attacking him over this tragedy
+that's the kind of stuff people don't
+want less of that please more of the
+Doge that's my little rant can we talk
+to Travis about wh now Travis can I ask
+have you taken a production wayo yes
+what do you think about it and do you
+think that's the future of
+transportation and how does Uber play
+into the uh self-driving car business
+now I mean look it it's funny because as
+you guys know back in the uh Back in the
+Day 2015 16 17 we had our own autonomous
+vehicles out there and I remember the
+first one of ours that I
+took and I got in the back and all I had
+was a stop button a big red stop button
+that I could push if things got weird
+yeah and uh I remember this is in
+Pittsburgh where we had our robotics
+Division and autonomy division at Uber
+and I got out of that car and literally
+it's like I got off a roller coaster
+like my legs were I could not stand
+straight like I was like a little wobbly
+cuz I was so freaked out and adrenaline
+was
+pumping you get in a wayo today and it's
+like you you're not even thinking twice
+you're just like it's all good you just
+get in you get out now part of it just
+the normalization it's
+like it's just working and it that
+normalizing matters in terms of the
+psychology around it is we're just there
+so it just works now is it a optimized
+experience for ride sharing no like the
+Cyber cab is sort of the ultra sort of
+destination for what it means to get
+transported across the city in a vehicle
+that is not meant for a human to drive
+no steering wheel you know folks
+potentially even facing each other you
+know just a whole bunch of different
+formats the the technology works we know
+that there are different ways to get to
+the technology I think the the probably
+the most interesting thing that we
+should be or one of the most interesting
+things to be thinking about maybe
+there's a few first is a cheap
+AI makes cheap
+autonomy okay so if as as cheap AI gets
+out there and proliferates and gets
+broadly distributed we should expect
+autonomy gets easier and easier and
+easier and you see some of the stuff
+that's happening with Tesla and FSD
+their new models are like I think in a
+three-month period he they went up like
+10x in terms of performance meaning in
+number miles per per human intervention
+like they're seeing you know that's the
+thing that elon's seeing right now
+because cheap AI cheap good AI makes
+cheap good autonomy and that's a thing
+we need to connect the dots on I think
+the thing then you go one level past
+that you're like okay there's the
+possibility literally that autonomy just
+gets easy and commoditized similar to
+what's happening to AI the next part is
+okay you get the hardware you're like
+okay manufacturing's hard that's
+interesting that could be a long pull in
+the tent I think that that could be a
+place where Tesla of course has huge
+Advantage you then look at who are wh's
+partners are they getting set up to do
+the right kind of manufacturing and get
+scale of cars out there but then there's
+like this dark horse that nobody's
+talking about which is it's called
+electricity It's called Power and all
+these vehicles are electric
+vehicles and if you said you know I just
+did some like quick back of the envelope
+Cals if all of the miles in California
+went EV ride sharing you would need to
+double the energy capacity of California
+right let's not even talk about what it
+would take to double the energy capacity
+in the grid and things like that in
+California like let's not even go there
+even getting 20% more 10% more is going
+to be a
+gargantuan 5 to 10 year
+exercise you know look I live in you
+know I live in LA it's a nice area in LA
+and we have power outages all the
+freaking time because the grid is effed
+up and they're sort of upgrading it as
+things break that's literally where
+we're at in La one of the most affluent
+neighborhoods in La that's just where we
+are so I think the the sort of the Dark
+Horse kind of hot take
+is combustion
+engine
+AVS because I I don't know how you can
+go fast getting AV out there really
+really really
+massive with the electric grid as it is
+what do you think about regulation in
+this regard because
+obviously there was the
+cruise you know a person got hit by a
+regular car they dragged it the whole
+thing imploded we had uh at Uber the um
+the tragedy in Arizona where somebody
+was playing Candy Crush when they were a
+safety driver you know what is what is
+your outlook on on this stuff rolls out
+and somebody gets hurt and then that you
+know tens of thousands of cities that
+you brought Uber to how receptive are
+they going to be towards this and what
+do you think the regulatory framework
+will be
+like you know I think similar to how you
+get normalized it's like you're used to
+getting in a car it's normalized
+psychologically and in the sort of
+public sphere the public mindset you get
+used to it so like we're getting to a
+place where these vehicles are provably
+safer than human driven Vehicles so yes
+there are mistakes but they are just
+provably safer and people are just
+getting used to it and that's a big part
+of the cycle so I think we're getting
+out of the hysteria and we're getting
+into like yeah it's just great like talk
+to people who are using it and they feel
+safer from a of course like I I I feel
+like we're going to get in less
+accidents but also I feel safer because
+there's like there's less chance of like
+an interpersonal problem that does
+happen especially you
+know late at night you know when people
+are out partying and things like this
+there's just like there is a level of
+safety on many different aspects
+to for the drive no it's for the yeah
+there's like there's there's safety
+aspects across the board sure right what
+do you think about byd and like you sort
+of mentioned everybody getting to
+autonomy at the same time obviously wh
+Mo's got the biggest lead Tesla's behind
+them byd and about 10 other providers
+are out there doing this does does you
+know do 10 players get there at the same
+time and then it's just who can
+incorporate these into their Network and
+what do you think of the strategy that
+Uber's doing of hey we've got these
+eight Partners we'll take everybody into
+the network and we'll manage people
+vomiting the back of cars cleaning them
+and charging them so look I think the
+big issue you have with anything Chinese
+is will you be allowed to bring it in
+the
+US just period like you maybe kind of
+can now what happens with teror will
+there be blocks and bringing this kind
+of Technology into the US what happens
+there I think that's a whole thing the
+bet that Uber makes is
+that whether consciously or
+subconsciously it's like will AI will
+cheap democratized AI happen and if so
+does that make cheap democratized
+autonomy then you've got to line up your
+physical sort of Hardware Partners car
+manufacturers then you've got to say
+okay is the electricity where it's at
+and are there other bets to make to make
+sure
+that I can charge my cars so like there
+is a huge real estate play here and
+Fleet Management play of like how do I
+Electrify these plots of land known as
+parking lots and also set them up so
+that robots can clean cars in sort of a
+very very efficient way there's like a
+whole when you we talk that's super
+interesting Travis that's like it's
+almost like the idea that we all talk
+about today is Data Centers and data
+centers need their own power substation
+in order to meet the Power demands but
+if if we do see a world of Robotics
+automation generally and we've got these
+kind of moving robotic systems in our
+world they need to have a similar sort
+of like power demand met that probably
+looks like hey they all go into their
+their recharge building and they get
+recharged whether they're a car or a
+humanoid robot or a food delivery robot
+on the sidewalk or whatever or Dr and
+they just kind of get recharged huh
+robots need actuators
+you know what you need for an actuator a
+permanent magnet you know what you need
+for a permanent magnet rare Earths who's
+the rare earth king X China
+Greenland Greenland let's go so so guys
+I think there is a there is a there's a
+couple interesting things one of them is
+going to be how are these companies
+thinking about real estate electrifying
+that real estate in urban environments
+and robotizing that real estate so that
+they can do the servicing maintenance
+Etc look I guess it could be manual for
+a while can I can I put you on the spot
+just go one level above it because merge
+the last two concepts together you
+talked about we talked about the federal
+government Doge Etc isn't there the
+potential for just a complete surplus of
+physical inventory that exists in
+America oh yeah okay so big time so what
+does that mean for commercial re like
+how do you like navigate around that
+because you got to evade the falling
+knives first so okay so let's just just
+go down ride sharing Lane it's
+autonomous ride sharing Lane you go down
+that lane car ownership which is already
+dropping drops Like a Knife all the way
+down and there's this thing in cities
+which takes up 20 to 30% of all the land
+it's called parking is no longer
+necessary because cars are getting
+utiliz the cars that exist on the roads
+are getting utilized 15x more than they
+were before per car so you need
+hypothetically 115th the number of cars
+maybe you could say fth or 11th because
+you want to be able to Surge to like
+rush hour and things like that it
+depends on what kind of car pooling and
+things like this are going on let's just
+call it 10x fewer cars on10th the land
+necessary for parking at least on Tenth
+like maybe it's less than that okay so
+now you're opening up you're opening up
+20% of the land in a city that just goes
+fallow but what what should we do with
+that and is there a demand for that land
+well look I mean maybe it's the should
+it be housing you know like and then
+don't we have to re-evaluate all of the
+city planning today because City
+Planning today to your point Works
+backwards from all these constraints
+that are 1.0 constraints like here's the
+traffic flow here the traffic patterns
+those don't exist theoretically anymore
+or they would exist in a totally
+different way right yeah I mean we've
+got a there's like a massive amount of
+creativity to say what can I do with
+that land at with a high
+Roi right like some people are like
+you're going to have Farms you know uh
+hydroponic farms in urban environments
+I'm like uh you know that's not a bad
+idea if you want to have Farm to Table
+healthy food it's literally Farm to
+Table it's like a mile away from you
+yeah so there's some interesting ideas
+the land price has to really come
+crashing down and there's interesting
+ramifications if it were to do that you
+could imagine that's that's what I
+wanted you to say not to try to get you
+there but that winess well that seems
+like the crazy thing that nobody is
+thinking about which is in this push
+this physical built inventory has so
+much value built up in the 401ks of of
+individuals to the balance sheets of
+huge Pension funds but that value is
+could be very different right but the
+crazy part is is it could just be
+electricity production and electric
+capacity on the grid could be the gating
+factor that makes it a slow
+burn potentially I'm just riffing here
+guys right right right right right makes
+total sense and if want to see what
+happens when you have like unlimited
+land if you live in Austin and you see
+the distance between San Antonio Houston
+and Dallas and Austin in that triangle
+you know you get 30 minutes outside of
+the city centers there's just unlimited
+land and there's less regulation and you
+know what's happened housing prices and
+rents have come down two or three years
+in a row so this could happen in other
+major cities and if Doge has less
+regulation you can build more it could
+be amazing for Americans to actually be
+able to afford homes again and maybe
+convert some of this space you go energy
+storage electric grid upgrades sort of
+modular energy capacity upgrades like
+and production these are this is going
+to be very very important right now if
+you want to I we do this all the time we
+have of course facilities all over every
+major city in the US and really around
+the
+world utility upgrades is the long pull
+in the tent in in construction
+development
+in a lot of our cities not all cities
+but in a lot of our cities the FED um
+held rates they're getting close to the
+goal of 2% I guess we're at 2.4
+2.9% in terms of inflation any thoughts
+on uh where we're at with the FED
+deciding to not cut and just uh you put
+it on the docket here jamat any any
+wider thoughts there I would just say
+that the long end of the yield curve is
+basically telling us that there's a
+still a chance for inflation so I think
+that the the question is these next 30
+or 60 days from the administration I
+think are basically they're they're
+critical and I think if if Doge gets to
+the three billion a day number quicker
+than people thought there's going to be
+a lot of room for I think the president
+to make a very valid argument that rates
+are too high for where they are and that
+we're going to be able to have a lot
+more cost
+control in the expenses which means that
+they'll be less need to spend it doesn't
+solve
+the problem that Yellen created Yellen
+and Biden on the way out the door the
+biggest problem was that they put
+America in this very difficult position
+because they issued so much short-term
+paper that is extremely expensive and as
+all of that rolls off we have to go and
+finance a ton of this debt at now 5% so
+it's still nearly 30% of of the debt is
+going to get refinanced this year and
+then it's like what are these auctions
+going to look like guys this is the
+thing we we all got to bre the last
+auction barely had 2x coverage and I
+think that that could take a lot of the
+energy out of the market watch the doo
+interview because this this is exactly
+the topic he covers you know as we end
+up needing to refinance this debt the
+rates climb the appetite isn't there and
+it becomes a
+spiral that's why we have to cut fast in
+terms of the deficit to basically
+attract the market now you know the
+markets moved a little bit right so on
+January
+13th the 30-year treasury peaked at
+exactly 5% and it's come down today it's
+at 4.77 so a little bit of relief since
+that that Peak as as kind of the
+administration's gone into office and
+actually taken action but as more of
+this action is realized if people do
+appreciate and doge is successful and
+the Court's adjudication does allow
+reduction in spending which I think is
+the intention I think we could see this
+rate drop from 478 much more
+significantly than where it is and
+that'll create a great deal of and David
+it's like it either does that or it
+really really
+doesn't or ites the exact super nasty
+really bad that's right I got a text
+from someone who is pretty senior in
+capital markets thinks this is going to
+go to five and a half% before it goes
+down so they think that there's going to
+be a little bit more of a turbulent run
+ahead but it's like but the thing is
+it's like that whole thing of like it's
+going to get to five and a half before
+it comes down it's like it spirals on
+itself it's like you got to print money
+to then get to that place and then the
+printing drives it for you know you get
+to that spiral the problem is if we go
+to 5 a half% that's not 80 basis points
+what you really need to think about is
+the total tonnage of actual dollars that
+need to get repaid back and if you look
+backwards that's effectively like 10%
+rates from 2000 could you imagine what
+the economy that's right would have done
+if you had brought rates to 10 11% 20
+years ago it would have crippled the
+economy so we don't have a lot of room
+here where you can walk rates up to 5
+half 6% without a lot of things starting
+to break this is why I actually think
+Doge will be successful because as
+people internalize all of these things
+where every single Congress person
+freeberg that may have wanted their own
+benefit for their Community they'll have
+to take a step back because the broader
+optimization for America just needs to
+take priorities sham it just doesn't
+work like that man like my thing is like
+I like I agree with the notion but I
+just don't believe that any individual
+Congress person will take responsibility
+in this way no they won't they won't but
+the question is can they block it yeah
+but or put another way again the
+executive
+branch can slow roll spend in a lot of
+different ways except you cannot with
+Medicare and Social Security
+discretionary spending is like 20% the
+mandatory spending Social
+Security Medicare Medicaid these are the
+the larger outlay and this where where
+we come back to the fact that this will
+never I hear you get addressed until it
+has to be because of the political
+suicide that arises I just think there's
+this is where I think elon's Fame can be
+helpful and I mean very specifically
+this following idea you know that famous
+Sputnik comment
+where NASA spent millions of dollars
+trying to engineer a pen that could
+write upside down and it turned out that
+in Sputnik the Russians just took a
+pencil that is what we need to do to the
+US government because I suspect even
+though there's a lot of mandated spend
+the real question that nobody knows the
+answer to Is is that spend useful so
+even though it's appropriated by
+Congress there has to be a feedback loop
+that says you can just use a pencil you
+don't need the upside down writing pen
+and I think that if there's anybody that
+can broadcast that to the world it's him
+and this is where I think Trump gets
+enormous leverage by having Elon being
+the westwing that nobody else could give
+him the rest of us would just be
+chirping into the darkness yeah this is
+the naming and shaming of government
+waste that's actually going to work and
+the Doge account on Twitter is doing it
+they're basically saying hey we're
+giving foreign aid for this project for
+that project is it going to be perfect
+every time no but you show an empty
+office space you show people not coming
+to work you show people wasting money
+well yeah if that's even real you know
+there's going to be a bunch of you know
+back and forth here but overall if you
+keep naming and shaming each of these
+projects and then you know they were
+talking about blockchain or whatever and
+supposed is a Report Elon is at like the
+Govern building working on leases at the
+moment like this stuff is going to be
+extraordinar popular because you can
+just take the number of 330 million
+Americans and whatever you just saved
+you can just divide it by that number
+and tell every American how much they
+just paid less in taxes or how much they
+just saved individually the naming
+shaming and doing the back of the
+envelope math for every American is
+going to work do we want to wrap maybe a
+little bit on this tragedy in DC okay
+what are your thoughts uh we were
+talking with our friends Dayton who is
+very involved in aviation and um he's
+got a lot of blog posts he's done
+recently and he's got a company he
+invested in to do uh pilot training I'll
+share two things one is anonymous it's
+from friend of mine gave it to me and
+said I could share it who's a commercial
+pilot and he and and I posted this so
+I'll just read it honesty DCA is the
+sketchiest airport we fly into I feel
+like the controllers there play fast and
+loose hence the periodic Runway
+incursions I've said to every first
+officer in my threat briefings that we
+both need to be on red alert at all
+times there DCA calls out Hilo traffic
+helicopter traffic and vice versa all
+the time but it's borderline impossible
+to see them when you're bombing along at
+150 mph I mean that's from a pilot that
+is not I don't think he has any
+incentive to sugarcoat things and then I
+just wanted to read a message from Brian
+uto who's the CEO of whisk who's
+building a lot of these aut autonomous
+systems he said said first autot
+trffic Collision of voida systems do
+exist right now these aircraft will not
+take control from the pilot to save the
+aircraft even if software and systems on
+the aircraft know that it's going to
+collide that's the bti flip that needs
+to happen in aviation automation can
+actually kick in and take over even in
+piloted aircraft to prevent a crash
+that's the minimum of where we need to
+go some fighter jets have something
+called automatic ground collision
+avoidance systems that do exactly this
+when fighter pilots pass out and it's
+possible for commercial and then the
+second he said is we need to have better
+ATC Air Traffic Control software and
+automation right now we use VHF radio
+communications for safety and for
+critical instructions and that's kind of
+insane we should be using data links Etc
+the whole ATC system runs on 1960s
+technology they deserve better software
+and Automation in the control Towers
+it's totally ripe for change the problem
+is that attempts at reform have
+failed so I just wanted you guys to have
+that one from this commercial pilot and
+then two from Brian uto who I I think
+understands this issue really well
+there's so much opportunity here to make
+this better this should have never
+happened our other friend Sky Dayton has
+been pushing really hard for the US
+government to do Advanced pilot training
+one of the things that he says
+constantly is just that a lot of the
+push back is just Union rhetoric around
+what they perceive the right thing for
+their constituency is and hopefully this
+starts this conversation because I think
+guys like Sky guys like Brian are
+working on this next level of autonomous
+solution that can just make flying
+totally totally safe beyond what it was
+the crazy stat is that we haven't had a
+commercial airline disaster in the
+United States in almost 25 years isn't
+that inredible 15 yeah it it's looking
+like pilot era here and it's there seems
+to be some question of why these Apaches
+are flying around this really crowded
+airspace and it seems like they're
+shuttling you know politicians around
+and maybe that's not the best idea in
+this really dense area as your pilot
+friend was referring to jamath so God
+thoughts and prayers and all that stuff
+for the um for the families of the
+people who died it's just terrible
+tragedy terrible tragedy yeah it's just
+this really just this is an area to
+invest money and use the private private
+sector and all this incredible
+Innovation that's available to upgrade
+these systems and infrastructure this
+has been another amazing episode of the
+all-in podcast thanks Travis for joining
+us thankar for coming a lot of fun guys
+first time this is my first time on a
+podcast ever yes right in you come back
+anytime you were great man appr it
+apprciate very based is going to like it
+tell us what you think and we'll see you
+all next time love you boys
+byebye let your winners ride
+Rainman
+David and instead we open source it to
+the fans and they've just gone crazy
+[Music]
+with
+besties that's my dog taking
+[Music]
+driveway oh
+man we should all just get a room and
+just have one big Georgie cuz they're
+all this useless it's like this like
+sexual tension that they just need to
+release
+somehow we need to get
+[Music]
+mer I'm going in

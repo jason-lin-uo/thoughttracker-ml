@@ -1,0 +1,581 @@
+# Apple Vision Pro Impressions!
+# https://www.youtube.com/watch?v=OFvXuyITwBI
+
+foreign
+Pro I had about a 30 minute demo just
+using this new headset I had about a
+trillion questions so I tried to ask as
+many of them as I possibly could of
+Apple to get all the answers I could for
+you and for myself so without any
+further Ado let's just jump right in
+this is everything you need to know so
+far about Apple's new AR VR headset so
+the first question naturally what is it
+so first things first this is a first
+generation device from Apple which we
+don't see very often but it is an
+augmented reality slash virtual reality
+headset with a bunch of cameras and
+sensors inside that you strap to your
+face it'll start at three thousand five
+hundred dollars and it'll go on sale
+starting sometime early next year
+nobody's been able to shoot video of
+using it yet so I'm gonna have to do my
+best with descriptions here but
+fundamentally this isn't something
+that's paired to your iPhone or your Mac
+by default it's a standalone computer
+with an M2 Chip inside its own Wi-Fi
+connection a roughly 4K micro OLED
+display for each eye a set of speakers
+right above each ear on the band and
+then a dedicated new R1 chip which is
+doing all of the real-time processing
+from all the sensors that make this
+headset pretty special but we'll get to
+that in a second so all right then how
+does it work well basically we've seen
+VR headsets and AR headsets before it's
+uh typically there's screens on the
+inside and then on the outside there's
+some sort of shell which has some
+sensors on the outside that help detect
+what is in your room around you and help
+to see the controllers in your hands but
+with this one there are no controllers
+at all they're not making any for it
+there aren't going to be any optional
+accessory they're not even going to
+design any controllers you are
+controlling this thing entirely with
+your hands and your eyes and your voice
+so you put this headset on and basically
+all over the headset there are an
+absolute ton of sensors you have two
+main forward-facing cameras two down
+downward facing cameras two more cameras
+for the sides two infrared illuminators
+a lidar scanner a true depth camera
+these are all to keep track of what's
+happening around the headset and also to
+track your hands in front of your face
+and then on the inside there's also a
+bunch of infrared illuminators and
+infrared cameras that are purely there
+just there to track your eyes so there's
+actually a setup process before you even
+get the headset you basically measure
+you sort of scan your face with the true
+depth camera on the iPhone and it uses
+that depth information about your face
+to give you sort of a custom cut out
+this will be a process that you can do
+in Apple Stores but basically you get
+the headset with the custom cut out for
+your face if you have glasses there are
+some Zeiss lenses but you finally get
+the headset out and you put it on and
+there's some nice meshing on the back
+some fabric that stretches and is pretty
+breathable it's built extremely well
+with all this metal and glass and then
+once you get it going the most
+impressive thing about this headset the
+most impressive thing is the eye
+tracking
+I'm not even kidding this this eye
+tracking is sick so basically the eye
+tracking in this headset as it looks at
+your eyes and keeps track of where your
+eyes move around is the closest thing
+that I've experienced to like magic like
+I don't I normally don't call Tech
+things sort of magical or surreal like
+this but this was even for a pre-release
+product
+kind of unbelievable how well it does
+anytime you move your eyes around the UI
+it would immediately highlight and
+select exactly what you're looking at no
+matter how small the target was or what
+you're looking at and then when you want
+to select something all you do is take
+your fingers like this and just touch
+them together that's how you click so
+you look at something click look at
+something click so there's actually
+there's a calibration process when you
+first set up the headset you put it on
+for the first time where you basically
+just look around with your eyes at a
+bunch of different dots so it learns
+your eyes and then yeah from that point
+on you're just cruising you're sailing
+through everything by just looking at
+things and it feels like telepathic you
+just look at something and select it and
+that's it so this is how the whole UI
+works pretty much every other headset
+has the ability to use your hands to
+select things but most of them rely on
+the sensors on the outside to keep track
+of a set of controllers for maximum
+accuracy but this massive array of
+sensors on the outside of Apple's
+headset have done an impressively good
+job of picking up what my hand is doing
+kind of no matter where it is so like I
+said there's sensors all the way around
+the thing they're facing forward but
+they're facing sideways and facing down
+so I can just kind of rest my hand like
+wherever and look at stuff and click I
+don't even have to move my head I can
+just look at something and just click my
+fingers I kind of did it by accident a
+few times like I just sort of be sitting
+there and my fingertips would actually
+touch and I'd select whatever I was
+looking at but pretty quickly you get
+used to just
+just this just just doing this now there
+are also some text boxes occasionally
+you want to type something and so you
+can look at the text box select it and
+then a keyboard will pop up and you can
+look at the letters but also you can
+just look at a search box field and just
+start talking and it'll start filling in
+whatever you're saying because there's
+microphones on the headset and there's
+also something they're calling optic ID
+which is basically kind of just the
+fingerprint ID of the headset because
+it's looking at your eyes and everyone's
+eyes is a different unique biometric
+pattern and so you log in just by
+putting a headset on and it looks at
+your eyes so optic ID this thing knows
+your eyes really well so you've probably
+seen all these weird looking frames
+where you can see people's eyes through
+it like this this super weird thing that
+I've never seen in any other headset so
+what is happening here well spoiler
+alert it's not actually transparent it
+kind of looks like it's a glass
+transparent thing but it's not it
+appears to be because there's actually
+an OLED screen facing out this is what I
+would call a 2 way pass-through that's
+what I'm calling it see a normal VR
+headset we've seen is of course
+completely opaque usually it's like
+black plastic or something like that so
+in order to see through to your actual
+environment without taking the headset
+off like for picking up your controllers
+or walking around a room without hitting
+a wall they have a pass-through mode so
+it'll turn on a camera on the outside so
+you can see what's going on around you
+and some pass-through modes are better
+than others some will do it from a
+single black and white camera some will
+do stereo pass through from two cameras
+some will do color pass through
+the pass-through on Apple's headset is
+again the best I've ever seen in a
+headset it's stereo it's color it's
+sharp it's real time
+it's really good so then the eyes you
+see from the outside are actually an
+OLED display showing what your eyes look
+like to the cameras inside the headset
+so it shows your eyes like this whenever
+you're using any sort of pass-through
+mode and if you can see your environment
+it'll show your eyes so you're not
+actually like looking at someone's eyes
+but it kind of feels like you are
+kind of creepy a little bit I don't know
+it's the simplest way of explaining it
+if they're doing something fully
+immersive in VR like watching a movie or
+playing a game then it won't show their
+eyes it'll show this graphic over their
+eyes instead it's a really interesting
+look it's a it's a bold look I just have
+this like thought of like you're uh
+you're on a airplane and the flight
+attendant walks up and Taps you hey do
+you want any water and you just look up
+and your eyes shine through the headset
+it's just a weird thing I don't think
+it's smart but I don't think other
+headsets are gonna do it because most of
+them don't have it in the budget to have
+a screen facing the outside but then
+let's get to the burning question you've
+probably already been thinking what does
+it actually do so okay I'm sort of I'm
+separating this into three bulk
+categories that I made up and I'm kind
+of proud of here which are Computing
+content and connections now actually I
+should preface this all by saying this
+is a first gen product so right now the
+only apps that show up on the home
+screen are Apple's apps just like when
+the first iPhone came out with no app
+store it's just Apple's apps but the
+reason this is coming out or at least
+getting announced so early but it's not
+coming out till next year is to give
+this window for developers to start
+developing their own apps and making
+cool things for this headset to do that
+are way more interesting and way more
+functional but it does have a core set
+of functions so for computing I think
+this is the one that's probably the
+least likely to be used by most normal
+people but it is a pretty direct shot at
+what meta just did with the quest Pro
+the 1500 Quest Pro so you can use this
+thing as its own computer with web
+browsing Etc with these 4K windows in
+front of you that you can move around
+and do all kinds of stuff with your
+hands now this will be its own OS again
+it's not running off your phone or
+anything it's running a whole new
+operating system called Vision OS and it
+seems pretty similar pretty similar to
+iPad OS just in the fact that you know
+you're just touching things in iPad OS
+and in this headset you look at
+something and then you touch your
+fingers together and that's basically
+just like a normal touch but I was
+really impressed with the responsiveness
+again this was better than any headset
+I've seen with just your hands if I
+wanted to scroll through something like
+a safari window I literally in air would
+touch my fingers together and drag the
+window
+and it would scroll nearly in real time
+I would like throw it around like toss
+it catch it toss it the other way and
+start scrolling through things with my
+finger resizing Windows dragging the
+corners of things
+and I was super impressed with that too
+now if you're like me you might have
+also had some questions about the
+sharpness like do I really want to wear
+something like this for a long time to
+work like it's on a computer and I think
+I was also pretty smartly addressed they
+use a selective rendering based on the
+super good eye tracking so the computing
+power is basically focusing on sharply
+rendering the part of the screen that
+you're actually looking at while saving
+power on the rest it's pretty cool and
+it works so quickly that I did not
+notice it while using it and then the
+part you're looking at is actually very
+sharp like I said before they're super
+high resolution screens they're 4K I
+don't know if I have a number for
+refresh rate but it felt like 120 hertz
+and you know I fatigue will eventually
+become a thing with any headset you
+strapped to your face but this would be
+on the lower level of eye fatigue
+compared to what I've experienced with
+some others and then for even more heavy
+work this was kind of nuts but they
+showed it in the keynote apparently if
+you have a Mac and you want to do Mac OS
+stuff you can just with the headset on
+just look at your Mac and it will pick
+up what you're doing and it'll mirror
+the max display as one of the 4K windows
+for you in the headset and then you can
+even connect a Bluetooth keyboard and a
+Bluetooth trackpad and start working
+around like it's an actual Mac just with
+a bigger screen wherever you want
+at yeah ecosystem stuff so that's
+Computing I definitely got to try it but
+then of course there's the uh the
+connection stuff you got messaging you
+can type out messages to people just
+like as if you were on a Mac but there's
+also impressively FaceTime now I don't
+even know that this is necessarily
+better than a normal FaceTime holding
+your phone or like on a laptop other
+than the fact that I guess you don't
+have to be holding anything but you can
+have people's windows floating in front
+of you as you talk to them on FaceTime
+but you might also be asking wait a
+second if I'm not holding my phone in
+front of me what do other people on
+FaceTime see well the answer is they'll
+see a 3D rendered model of you that was
+scanned into the system from your iPhone
+that syncs up and matches the movements
+of your face with eye tracking and all
+the other sensors of the headset so I I
+got to try it it is
+it works okay so it's it's it's not as
+good as obviously looking at a person I
+just feel like a FaceTime you're trying
+to have like a personal connection with
+the person and this is obviously more
+personal than an avatar or like a
+cartoon of you but it's just it feels
+kind of somewhere in between it's kind
+of like a Google project Starline which
+I just did that video about a couple
+weeks ago if you haven't already seen
+that I'll leave a link with a like
+button so you can check it out but it
+feels sort of in that like uncanny
+valley you know moving 3D model
+territory instead of looking at an
+actual person it's kind of how I picture
+it but then last but not least of course
+content
+people are just going to watch content
+on this thing and I think this is the
+industry now that Apple's jumping into
+it that is poised to explode like we've
+had VR games and VR videos for a long
+time and apple is now also able to do
+this they of course put their own spin
+on it and they can use the power and the
+draw of the Apple brand to get content
+creators and big motion picture studios
+and sports leagues and all kinds of
+creatives to work to make content that
+looks really good specifically on
+Apple's headset and in Apple's formats I
+can personally save from My Demo hell
+yes I would watch I would pay to watch
+an NBA game Courtside in the VR headset
+the quality is good enough and obviously
+it's not going to be as immersive as
+feeling the energy from the crowd but
+you're not paying Courtside prices you'd
+probably pay is a total guess 10 20
+bucks to watch an NBA game Courtside or
+have some subscription to do that I
+would totally do that and it would be
+fun but even with regular 2D content
+like movies just watching a regular
+movie you can totally just sit back put
+the headset on maybe even put some
+headphones on and just like on a plane
+seat just watch a movie as if you're in
+a theater for one which is pretty sweet
+there is that digital crown on the side
+that actually lets you spin it clockwise
+to move in more immersion and fully
+envelop you in the VR environment or you
+can turn it counterclockwise to bring in
+more of your real world environment with
+pass-through in your peripheral vision
+kind of a neat trick and then there's
+also this kind of weird feature where
+you can take 3D photos and videos with
+the cameras built into the headset
+itself and I did not like this one so
+there was a demo of like a a recording
+from a headset camera of a kid blowing
+out some candles on a birthday cake
+basically and I got to watch this actual
+scene in the actual Apple headset so
+because there's two cameras like
+front-facing there they can record
+stereoscopic 3D so you can turn on the
+recording and in that moment sit down
+and record a super immersive video and
+then when you watch it back in the
+headset it's like you're reliving this
+moment in 3D which can feel kind of cool
+but I just I can't get the image of like
+the dad at the birthday party with the
+headset on just recording things like
+walking around it just doesn't
+it's what kind of memory is that for the
+other people around you you know like I
+saw this and I immediately thought back
+to the the reasons we all know why
+Google Glass failed which is it was
+ahead of its time but it's also like
+they're walking around with a camera on
+your face and everybody knows that you
+have a camera on your face it just
+wasn't cool
+dad what are you doing why do you why
+are your eyes sticking out through the
+headset so all right the number one
+question I've gotten after I've actually
+tried this thing is is it any good is
+this headset any good and the answer is
+well yes some of the parts of this
+headset that I tried are actually the
+best I have ever seen in any VR headset
+by a mile specifically the eye tracking
+and the Hand tracking now of course it's
+going to be up to developers to really
+make it good but I think the
+foundational like how do you use it part
+is pretty amazing but that doesn't mean
+there aren't any downsides all right
+number one there was no haptics of
+course because you don't have
+controllers you're just doing everything
+with your hands in the air there's no
+way to have any sort of haptic feedback
+there was a demo that I did where like I
+stuck my hand out a wall on the other
+side of the room opened up and a
+dinosaur was back there and a butterfly
+flew out I held out my hand and the
+butterfly flew up and landed on my
+finger it could track and see all that
+information in the volumetric all the
+computation to make that happen was
+amazing but when the butterfly landed
+and I didn't feel anything there was
+that moment of like oh right this is a
+VR headset but then number two this was
+interesting this is pretty heavy this is
+a pretty heavy VR headset kind of the
+same way that
+um airpods max the Apple's metal
+headphones are heavier than most plastic
+headphones there's a reason why most
+other VR headsets are just plastic it's
+not because that's cheap it's because
+it's lightweight it's fatiguing to have
+a heavy thing on your head and this is a
+headset made of metal and glass it's
+heavy now it is also super well built
+like there is no arguing that but I do
+wonder about using it for longer than
+the half hour that I did I wonder if it
+would be more fatiguing to my head
+that's also actually why the battery
+isn't attached to it that would be a ton
+of weight to carry on your head so they
+connected the battery instead through a
+proprietary cable and that actually can
+sit next to you on the couch or in your
+back pocket and that brings us to the
+other thing the battery life
+two hours
+two hour battery life on the headset
+which is not that great it's not that
+long now there's a USBC port on the
+battery bank and you can plug that into
+the wall for infinite time but the
+second you unplug from the wall yeah two
+hours from that pretty hefty battery
+bank which is like okay maybe most
+people won't be spending a lot of time
+in the headset but you did also just
+show us apple and AD of people like
+watching a movie in the headset that's
+already like most movies are two hours
+plus so something we're thinking about
+there's just a two hour but I'm sure
+people will make bigger external
+batteries for this thing but two hours
+and then also I couldn't get a firm
+answer here on if there are fans inside
+or not but
+I think they're stands like they're
+certainly vents for fans anyway and if
+you're gaming for long enough or using
+it for long enough do those spin up do
+they ever get loud do they ever kill
+your battery that's kind of unclear but
+then of course the main thing that
+everybody's talking about it's expensive
+it's 3
+500 so is that pricey yeah that's very
+expensive but this is the thing that is
+always weird with Apple products like
+there is no direct comp like I always
+you always say it's expensive but like
+compared to what and they they did this
+with uh the pro display xdr they've done
+this with even airpods Max a little bit
+but like there there are several things
+that this headset does that no other
+headset does the eye tracking the hand
+tracking that's super good
+even if an equivalent headset came along
+today and did all of the same stuff that
+this does hardware and software wise it
+still wouldn't have face time it still
+wouldn't have like looking at a Mac and
+then the ecosystem allowing the max
+display to pop up so this is kind of
+something that only Apple could pull off
+so bottom line you know I got to try it
+I thought it was extremely impressive
+but at the end of the day this is not a
+product for the masses I mean obviously
+right it's three thousand five hundred
+dollars it has the word Pro in the name
+too but this this feels like this series
+zero like the Apple Watch Remember When
+the Apple watch first came out the
+series zero where it's really going to
+be up to the first gen the early
+adopters and the developers to decide
+the direction that this thing goes to
+decide what people actually want to use
+it for and that'll shape the future
+versions of it that we may eventually
+get down the road then maybe someday
+there's like a a vision SE that's like
+400 bucks that the masses will all adopt
+and it'll be this next Generation hit
+product Maybe
+but as of right now this is very much in
+the sort of early adopter people like me
+people like watching this video testing
+phase to figure it out so that's the
+Apple Vision Pro it's uh it's it's the
+rich person's toy and the developers
+Muse for right now but we'll see how far
+this thing goes in the near future it's
+coming out next year it's not that far
+off it's not that far away it's really
+interesting times either way this was
+also part of a huge entire WWDC keynote
+so if you want to watch my recap of the
+rest of that stuff ideally get
+subscribed because there's going to be a
+video recap of the biggest announcements
+of which there are many other things and
+also uh I'll shout out the waveform
+podcast to get subscribed there too
+because the next episode I'll just say
+it it's a banger it's pretty sick so hit
+sub hit like hang out in the comments
+that's been it for this one thanks for
+watching
+catch you guys in the next one peace

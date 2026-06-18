@@ -1,0 +1,157 @@
+# HD Tutorial: Install Windows Themes (Request)
+# https://www.youtube.com/watch?v=uYuREzf3444
+
+[Music]
+Hey everyone and welcome to another HD
+tutorial. And this one, as you can see
+by the title, is going to be on how to
+install themes in Windows Vista. Now,
+this is actually a relatively simple
+process, but this video is going to be a
+little bit longer just because this
+video has been requested by so many
+users, so it's got to be a pretty
+in-depth video. You know what I'm
+saying? So, first of all, we're going to
+open up any web browser. For this one,
+I'm going to use um uh Apple Safari web
+browser. And the first place we go is
+www.devantiantart.com.
+And it'll take us to this website right
+here, which offers us, it's almost
+exactly like crystal XP.net, except they
+offer a whole bunch of different um art.
+Basically, they have 3D art, they have
+animations, and they have photography as
+well as other photos. But what I went to
+was I scrolled down, and actually I can
+show you in this other tab here. I went
+to all categories, customization, then
+skins and themes. Once I got into skins
+and themes, I scrolled down and I
+actually went up here to search and I
+searched Windows 7. So, now I found a
+Windows 7 theme that I want to install
+in Windows Vista. Here's what I'm going
+to do. I'm going to click on it. And on
+the left hand side, we will see it says
+download. This is actually before you
+download it, you're going to want to
+scroll down and make sure you see
+everyone who has um their comments to
+make sure um it actually works. So,
+thanks. It solved the problem. Very
+nice. So, things like that. Perfect. So,
+I'm thinking this is going to be a
+pretty reliable download. Keep in mind,
+I haven't actually downloaded the seam
+yet. So, I'm going to do is hit this
+download button right here.
+This is a preview.jpeg. So, I'm going to
+see what this actually does. Actually,
+it says right here, download from here.
+So, you click on that link and it'll
+take you to a Rapid Share account. And
+obviously, we're a free user, so we're
+going to have to go through a little
+delay. Uh, yes, it has 30 seconds. So,
+I'll come back to you guys when this is
+done.
+So, here we go. It says the big bright
+the big bright download orb is right
+here. Just click on the download orb and
+it will begin your RA download. This is
+a WinRAR download here. So here it comes
+up with a little window. Just hit that
+open button. Very simple. And we see
+it's a 5.9 megabyte download. A decent
+size because it's getting the entire
+Windows Vista theme as well as a
+background and a few different UI
+changes. So I'm going to come back to
+you guys when this is done. All right.
+It says there's 1 second remaining in my
+download. So I've I've actually resumed
+the um Here we go. Here's the um the RAR
+file. We're just going to hit the open
+button for this tutorial. And here we're
+going to see exactly um I'm going to hit
+close. This is exactly what it looks
+like when you've actually finished
+downloading the theme. So I'm going to
+exit out of the web browser here now
+that I have the theme. And now the next
+thing you need to know is that we have
+to find where Windows actually hides our
+themes here. So I've actually written it
+down. We have to go to start my
+computer.
+And I'm going to open my computer here
+because most people don't have that
+link. Go on to local disk, go to
+Windows, and then scroll down until you
+get to the resources button. Click
+double click on resources and double
+click on themes. Now, here is where we
+have I've already tried a number of
+Windows 7 themes. Here's where we have
+the Windows 7 themes. All you have to do
+right now is click and drag that Windows
+7 theme in. And right now, it's dragging
+and copying. And we're going to hit
+continue. Now, UAC is going to come up.
+I don't know if you actually saw that in
+Camtasia Studio 6, but that was uh UAC
+telling me, do I want to cancel or
+allow? And there we have Windows 7. So,
+if I were to double click on it, this is
+the Oh, I wasn't supposed to drag that.
+Sorry. So, I'm going to drag it back.
+Uhhuh.
+So, here we go. It is still in where I
+originally originally downloaded it. I'm
+going to double click on it, and it's
+going to tell me exactly my instructions
+here to using this application. So it
+says press the install button to start
+this exercise. So we're going to choose
+an a destination folder. And as you can
+see it is already by default selected
+windows resources and themes. So that is
+very good. Just hits the installation
+button and allow. If UIC comes up, just
+hit allow and then just go ahead and hit
+yes to all and it would completely
+install that theme in here. So if I were
+to go back and back it up and go back
+into themes, the Windows 7 theme is
+actually in here. So, now we're going to
+exit out of both. Actually, I'm just
+going to minimize this and I'm going to
+right click on my desktop and
+personalize. Here's the part where you
+actually apply the theme. Just go right
+down to themes here. You probably
+already know this part. This is where
+you can change any theme in Windows
+Vista. And I'm going to see and find
+Windows 7440 by 900 is my resolution.
+Just click on it and that's what it will
+look like when I apply it. Now, I'm not
+actually going to apply it, but that is
+what it looks like, guys. And that is
+basically it. So, if you have any other
+questions or any um errors that came up
+while you are attempting to install a
+theme in Windows Vista, just see me and
+uh subscribe and send me a message and I
+will get to it as soon as I can. And
+that is basically it. So, thanks for
+watching this tutorial and there are
+plenty more to come. If you have any
+other questions, like I said, send me a
+personal message. I'll do a video
+response um or a video uh tutorial
+request. So, thanks for watching, guys.
+Peace.
+[Music]

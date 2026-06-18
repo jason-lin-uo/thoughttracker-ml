@@ -1,0 +1,189 @@
+# OnePlus One & Cyanogenmod 12!
+# https://www.youtube.com/watch?v=UUBDiUy2824
+
+[Music]
+hey what is up guys I'm kbd here and
+this is the OnePlus One it was a bit of
+an unknown phone when it first came out
+from a kind of an unknown company since
+it's new but when it first came out
+about 9 months ago I I did a video
+review on it I've done a Revisited video
+since then and it seems like every time
+I talk about this phone got to mention
+that it will basically live or die by
+the software by the fact that it should
+hopefully get software updates very
+quickly by cyan
+and for a while it did Cyanogen did a
+really good job of putting out updates
+pretty constantly to fix performance and
+to give it new features and to address
+things so for a while it did a really
+good job in the software update
+department so this guy is smoothly
+running cyan mod 11s for a while uh but
+then it hit a hiccup and Cogen made some
+deals over here and OnePlus said some
+things over there and eventually you
+know without getting into the details of
+it one plus and Cyanogen split so
+they're no longer working together so
+for those of us who own this phone or
+we're thinking about trying to buy one
+now what well to make a long story short
+now OnePlus is going to try building
+their own ROM so it's going to be called
+oxygen OS they've hired a bunch of very
+talented people and they've been working
+on it it's going to come out sometime in
+March and I'm assuming it's going to be
+built on top of Android 5.0 Lollipop but
+in that sort of a meantime where we're
+not getting any updates from Canan
+engine mod and we're waiting for oxygen
+OS to be built I got a little bit
+impatient so I went ahead and flashed
+the latest version of sign engine mod 12
+that is built on lollipop onto my
+OnePlus One now I actually showed this
+to you guys a little earlier some of the
+steps I went through on Snapchat and
+some of you guys actually a lot of you
+guys snapped back saying you wanted to
+see a video on what this was like so
+this just a quick video on my
+impressions of what the experience has
+been like on this new OS on this Noto
+new phone so far so it does take a
+couple of steps to actually get it set
+up obviously it won't come with rud
+access out the box so I'll leave a link
+to the instructions in the OnePlus form
+that I followed right below that like
+button so if you want to follow along to
+them it's really really detailed you can
+basically get it done with a Windows
+machine and a USB cable and you're all
+set to go uh but yeah without any
+further Ado let's get into it so there
+are a bunch of advantages to using
+Cyanogen MOD which is a custom rom over
+just the stock Android that you would
+find on a Nexus 5 or Nexus 6 or
+something like that uh and a lot of
+those are basically in customization or
+things that you would find that you are
+able to change on your phone that you
+wouldn't ordinarily be able to change so
+one of those things that's I guess most
+noteworthy on the OnePlus One is the
+ability to switch between your onscreen
+and offscreen buttons so you can choose
+the nav buttons to be on the phone or on
+the bottom if you want them on the
+screen or off that's your call a lot of
+things like that you'll find just buried
+in the settings here of S engine mod and
+these are things that you found in S
+engine mod 11s and they're going to
+continue to move over into 12 you can
+also change and add a lot of shortcuts
+to things so I have a regular swipe down
+from the left just a normal swipe into
+your notifications but a swipe down from
+the right gets you quickly into your
+quick settings and also pretty much all
+of these Quick Settings you can change
+what shows up here and where so if I go
+into the settings and I go scroll down
+to my notification drawer you can
+actually choose what stuff shows up in
+which tile I have Wi-Fi and location on
+the top two and those are the two larger
+ones up there so that may these are
+things you can't change if you don't
+have sinen mod or another custom ROM of
+course you still keep all the fancy
+animations of swiping down and pulling
+down your notifications that Android L
+has introduced so all the material
+design stuff and all of the Simplicity
+and the beauty of Android L is still
+here of course you just get the
+additions depending on what you like
+here's another little one that I like up
+at the top in the notification bar here
+you can change the way it looks and a
+lot of people you see in this status bar
+have a circular battery indicator that's
+just by changing the battery style to a
+circle and now you have it's a half
+circle for having half battery I
+actually changed it back to the the
+portrait icon just to keep the looks of
+stock Android I guess I'm boring like
+that I also don't really use any themes
+although you can be much more creative
+than me in changing the looks of your
+San engine mod device because there are
+a bunch of themes available in their own
+store and in the Google Play Store too
+also you'll notice the performance is
+pretty Snappy in fact I've noticed a lot
+of things moving around faster than they
+did on my Nexus 6 also little things
+like the little weather information up
+here about how cold it is and being able
+to tap it and getting a little daily
+forecast from Yahoo weather stuff like
+that really neat there's a file manager
+built into sign engine mod and that's
+again something you get from root access
+that you don't get get in regular stock
+Android also stuff like gestures from
+when your screen is off things you'll
+remember from sanen Mod 11s so for
+example when your screen is off you can
+draw a circle to activate the camera and
+sometimes I found that this would
+activate in my pocket so I didn't use it
+very often but if you're one of those
+people that opens the camera all the
+time or needs to very quickly toggle the
+flashlight you can just draw on the
+screen while the this display is off and
+immediately get stuff to turn on so
+that's awesome and pretty useful so yeah
+that's basically it that's what I've
+found so far to be really interesting
+about sine mod 12 on this OnePlus One
+and that's kind of the beauty of Android
+is if you get impatient with something
+or if you really want to change
+something about the user interface or
+the feature set you have you can just go
+out and do it so that's pretty awesome
+that we've been able to do that so far
+I've also flashed the Franco kernel and
+apparently it's supposed to get me
+amazing battery life this is only the
+second day I've been using it fulltime
+and it's been pretty good so far but uh
+I'll leave some updates on Twitter if
+you guys want to follow along about my
+usage with that it's been a while since
+I used a custom know but either way
+that's been it uh thank you for watching
+and if you are down to try this kind of
+stuff on your OnePlus One it's actually
+becoming a little bit more easy to buy
+apparently every Tuesday at a certain
+time you can buy this phone without an
+invite it's kind of still weird but you
+can also still wait for phones like the
+HTC 1m9 and the Galaxy S6 that are
+coming up right around the corner either
+way your call thank you for watching
+this video and I'll talk to you guys in
+the next one peace

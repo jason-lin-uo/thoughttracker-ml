@@ -1,0 +1,182 @@
+# HD Tutorial: Firefox 3.1 Beta 2
+# https://www.youtube.com/watch?v=JUsA_Qy8fXE
+
+[Music]
+hey everyone and welcome to another HT
+tutorial and in this video I'll be
+showing you how to download and install
+the Firefox 3.1 beta 2 um I already
+showed you guys how to install the fire
+the far 4 beta so here we go with
+Firefox 3.1 beta 2 so just open up
+Firefox and go to any popular search
+engine I'll use Google for this one and
+type in Firefox 3.1 beta and the first
+link which I'll try to put in the
+description for you guys is going to be
+the Firefox or the mill.com website and
+it's going to tell us obviously Firefox
+is Firefox 3.1 is not completely fully
+out yet but um it's going to have a ton
+of new features obviously and it's
+available in as you can see here over 50
+languages so uh we can see by the top
+it's available number one in a ton of
+languages and number two as we see
+across here available for Mac OS 10 for
+Windows XP Vista and later versions and
+earlier versions and for Linux so I'm
+going to hit the download button for
+Windows all right and it's going to pop
+up right here in a second saying to save
+this file or to download it I'm just
+going to download it actually no I'm
+going to save the file to my
+desktop and the first first thing I want
+to tell you guys about is that not all
+of your add-ons are going to be
+compatible if you do have add-ons that
+you're using in your current version of
+saf of uh Firefox which I'll check just
+by going to help and about Firefox this
+is version
+3.0.6 so I'll hit okay um so it's
+downloading the file not all of your
+add-ons are going to be compatible so
+I'll let you guys know which one of my
+add-ons actually aren't compatible with
+Firefox um in a later review I'm going
+to do a later review of safari 4 beta
+and a later review of this beta so I'm
+going to double click on it when it's
+done downloading and hit run and it's
+going to begin extracting so I'm just
+going to exit out of um Firefox itself
+to give this most room and RAM for
+actually extracting and finishing the
+installation so here we
+go once it's finished extracting it'll
+bring up the installer and if UAC does
+pop up just hit continue you're going to
+have to continue and allow everything
+for the install for the installation to
+work completely and just for this
+tutorial I'm going to unload fire Fox
+preloader because I have a feeling it's
+not going to work if I don't so quit
+Firefox completely so welcome to the
+safari 3.1 beta 2 setup just hit
+continue and I'm going to do a custom
+setup here because I don't want to use
+this Firefox as my default web browser
+quite yet and this is exactly where I do
+want to install it now it's going to
+replace your current version of Firefox
+and you can see right here it has a 24
+um it'll take up roughly 25 megabytes in
+your on your hard drive so I am going to
+put a icon on my desktop because I
+eventually want to drag it up here to my
+rocket Dock and number two I do want to
+put it in my Start programs folder and I
+don't want it in my quick launch bar so
+I hit next and next again and it will
+begin installing there we go so I'll
+just come back to you guys when this is
+done with the installation
+process okay as you can see here it is
+completed with the setup and I'm going
+to leave the launch Firefox Now button
+ticked and just hit finish and this will
+finish the installation of Firefox and
+open it up and you can also see up here
+they've nicely put that icon on my
+desktop so I can show you guys later how
+to put it in the rocket dock so right
+now I'm just going to let it open itself
+up it's going to take a while for the
+first boot for obviously on a new piece
+of software or Hardware first it's
+checking my add-on in compatibility it
+says the following add-ons are not
+compatible look at all those add-ons
+that I have that are not compatible so I
+told you guys that these are not
+compatible I'll check now and it was it
+was not not able to find any add-on
+updates so I'll just hit finish and I
+won't be able to use any of those
+add-ons in the new beta version of
+Firefox so that's pretty interesting so
+I'll let uh Firefox finish uploading or
+finish opening and obviously it's going
+to open in more than one tab so it still
+has this new tab button which is an
+add-on I got and it says Firefox 3.1 is
+coming so this is the feedback button if
+you do find a bug you can file a bug or
+hit the feedback button and tell them
+I'm just going to hit exit because I
+know the incompatibility is going to
+happen in a beta
+so next we're going to do um basically
+we already know that the beta um is uh
+incompatible with a lot I just go to
+tools and add-ons and we see here
+there's a lot there's two of my themes
+are not compatible okay if you wanted to
+use a Mac OS 10 theme it is not
+compatible so I'll just hit uninstall
+since it's not going to work and this
+graphite theme is uninstall because it's
+not going to work and that's basically
+it so I like this theme I'm using it
+right now so I'll hit exit and I've
+heard a lot of good things about it so
+I'll type in I still have my Google
+Toolbar here I'll go to the acid 3 test
+and just check this out the first link
+is acid 3 and we told you already that
+the Safari 4 beta got a 100 out of 100
+and Firefox 3.1 beta stops just short at
+93 uh YouTube loads pretty fast it still
+remembers my username and password yes
+it does it's pretty good um it still is
+going to have the same right click
+options um I still have to download
+download them mod add-on you know not
+much different I still have the uh the
+loading progress bar up here so that's
+an add-on that still works but that's
+basically it so if I wanted to um it's
+that tutorial that I did for you guys on
+how to use a background um if I actually
+found a video I wanted to use as a
+background say maybe this one I can
+still go to that image right click it
+and hit um where is it here I can still
+hit oh set is desktop background right
+here and it'll bring up the same window
+so that's pretty cool so yeah I've heard
+a lot of good things about the speed of
+Firefox 3.1 beta 2 and I'm going to show
+you now how to add it to your rocket
+dock right now I'm going to unlock items
+just drag out the old Firefox icon it'll
+disappear take the Firefox 3.1 beta icon
+drag it in and that's all you have to do
+I'm just going to lock it up again and
+we're done to put it in your quick
+launch same thing right click delete
+delete the shortcut and then take the
+new one and drag it in and now that
+we're done using this shortcut I'm just
+going to delete it from my desktop and
+that is it so I hope this tutorial was
+helpful and if you found it helpful go
+ahead and subscribe and if you have any
+tutorial ideas for me send me a message
+subscribe and I'll get back to it in a
+request video so thanks for watching
+guys peace
+[Music]

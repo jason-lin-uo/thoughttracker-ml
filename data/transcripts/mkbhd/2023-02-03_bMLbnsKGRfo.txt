@@ -1,0 +1,254 @@
+# How Apple is Taking Back the iPhone
+# https://www.youtube.com/watch?v=bMLbnsKGRfo
+
+foreign
+okay so recently we've seen a few
+interesting headlines about apple one
+was about them potentially making a
+single chip that would combine cellular
+Wi-Fi and Bluetooth into one for the
+iPhone and then the next day there was a
+report that they're working on their own
+displays for the Apple watch and the
+iPhone and so I've been looking into
+this I've been trying to figure out is
+this a nothing deal or a massive deal
+and so after a lot of research and time
+put into this it turns out the best way
+to understand this is with a chart see
+on the great scale of products that are
+made up of a bunch of different parts
+there's a gradient and on one half of
+that gradient is off-the-shelf parts and
+on the other side is fully custom
+vertically integrated part now most
+smartphones these days have a lot of
+things like off-the-shelf camera sensors
+from Sony like the Sony IMX 585 that
+they'll just sell to anyone there's a
+lot of displays out there made by
+Samsung and LG but they're calibrated a
+bit after you've all heard us talk about
+Qualcomm Snapdragon 8 Gen 2 and Qualcomm
+has lots of chips that any smartphone
+manufacturer can buy and also lots of
+smaller parts like fingerprint sensors
+and modems and radios from companies
+like Qualcomm and broadcom and typically
+only when you get to the most specific
+parts of the phone like buttons and
+Chassis are you going to have custom
+parts for your phone now the iPhones
+chart right now looks something like
+this now most people don't think about
+this much but it's actually a cacophony
+of different parts it's like a mixed
+salad of different things the camera
+sensors for example for all intents and
+purposes they're just off the shelf from
+Sony the main supplier of the battery
+for the iPhone is a Chinese company
+called amperex but it is customized a
+bit it's actually L-shaped and
+multi-celled to sort of fit maximally in
+the iPhone's design and on the far end
+they do have their chassis but also the
+fully customized a16 bionic things like
+a taptic engine so there is a big
+advantage to having parts that are more
+custom especially in Tech because the
+main benefit that you get is
+optimization like for simplicity's sake
+just imagine you're trying to build a
+triangular object and you want to fill
+its volume as efficiently as possible
+but you only have square blocks off the
+shelf you won't be very efficient with
+those parts but if you can design all
+the the parts yourself well now we're
+talking that's Peak optimization so
+clearly you want the the best most well
+optimized pieces for your thing your
+product you just saw what happened with
+the max where they just switched from
+all those off-the-shelf Intel parts to
+those custom designed Apple silicon
+pieces like that was a massive
+Improvement for apple and all their
+computers took a Quantum Leap Forward in
+speed and efficiency in battery life
+like they're just hilariously better
+than ever before and so the iPhone well
+the iPhone is huge for Apple I mean I
+know Macs are kind of popular but most
+of Apple's Revenue since it came out in
+2007 has been from the iPhone so Apple
+taking back parts of the iPhone turns
+out to be a very Tim Cook supply chain
+optimization story more than anything so
+there were two stories in there the
+displays and the chips let's start with
+the displays because as you may or may
+not know about 80 percent of iPhone
+displays are made by Samsung yeah that's
+Samsung and about 12 by LG display and
+then the last eight percent by others
+like Boe display so right now that
+basically looks like Apple going to the
+display maker and going hey you guys
+make OLED displays right okay cool we're
+going to need a bunch of those we would
+like you know this curve radius and
+these certain cutouts for our little
+Dynamic Island and we'd like 100 million
+of them so if you guys could do that
+that would be great and we'll pay you up
+and so that manufacturer based on their
+own technology will fill those orders
+using the displays they know how to make
+and by the way it's actually kind of
+super impressive that all this happened
+so seamlessly and on the other end you
+don't really know if you have a display
+made by Samsung or LG or Boe in your
+iPhone now if you want to get into the
+weeds multiple sourcing is actually a
+pretty common tactic to reduce your
+Reliance on one manufacturer so
+sometimes off the shelf parts from
+several different companies are all
+pretty similar so for something like the
+ambient light sensor for example who
+knows who makes that and who cares right
+like as long as we get 100 million of
+them and they all fit in the iPhone the
+same way and they all work then we're
+good but it can easily go terribly like
+think about the the big differences but
+between the Qualcomm powered Samsung
+phone and the exynos-powered Samsung
+phone or the hardware Lottery back when
+we had the Galaxy S8 some of them had
+fast storage chips some of them had slow
+storage chips so with these iPhone
+displays there is some calibration work
+that needs to be done but Apple has
+handled the sourcing so well that we
+never notice the difference so the
+question now after seeing these
+headlines is what happens when we go
+from Apple's displays being slightly
+customized to being completely
+customized because now there's some
+rumors that apple is trying to move from
+OLED to micro LED and really stepping up
+the design and quality of their displays
+and their watches and phones in the next
+few Generations so when I first read
+into this I actually thought it meant
+like nothing like apple doesn't really
+actually manufacture pretty much
+anything they are a world-class design
+firm and they do a lot of research and
+design and development but then at the
+end of the day when they actually make
+the thing they're not manufacturing the
+iPhone or the pieces in the iPhone they
+get a company to do it they might Custom
+Design design the M2 Chip but they're
+getting tsmc the actual Foundry to build
+the chip for them but it turns out with
+micro LED here Apple kind of wants to
+put in a ton of the development with the
+technology in their own facilities you
+know they've already started spending a
+ton of money on testing and evolving see
+that's the main difference before they
+would go to a company like Samsung or
+whoever and they're already making OLED
+displays because that's their technology
+and they would make a couple
+customizations but that technology can
+be sold to anyone else Apple wants to do
+all the development and stuff for micro
+LED so when they get to the end of the
+chain they give the instructions to
+someone and they make it but that's an
+exclusive Apple technology so they're
+kind of trying to get ahead of and own
+micro LED so that's why all these stocks
+dropped on this news you know when this
+reset happens we don't really know which
+companies Apple will be going to to
+manufacture them Apple's still not going
+to make the display themselves and
+theoretically it could be the exact same
+list of Manufacturers but word on the
+street as they're trying to
+strategically drop a certain Samsung so
+we'll see so that's the displays but
+then there's also the story about the
+radios which is a little more
+interesting because right now they're
+buying radios in their phones from
+broadcom and Qualcomm but also it's
+several different radios and different
+parts of the phone so that rumor was not
+only that they're going to design their
+own chip but that they're going to
+combine them all Wi-Fi Bluetooth and
+cellular into one chip so that to me is
+a little more interesting because
+obviously it's the same supply chain
+story of oh no if your qualcommer
+broadcom you don't really like that
+feature but also the possible efficiency
+gains because right now there's a bunch
+of radios taking up different space in
+the phone taking up a bunch of power in
+the phone and ideally consolidating all
+them to one chip is really great for
+efficiency gains maybe it means battery
+life gets better so yeah both of these
+stories are of Apple using their
+mountains of cash to put into The
+Upfront development costs and eventually
+reap the rewards of better products down
+the line for their products that's
+essentially what's happening and you
+better believe that there's gonna be
+other companies who have the same idea
+and want to do a sort of a similar thing
+they just might not have as much cash so
+at the end of the day who does this
+affect the most well you can kind of
+look at it along the same lines as the
+Apple silicon Mac transition so if
+you're Apple the main benefit you're
+going to get out of this is having a lot
+more control which you know Apple loves
+that but also being able to have better
+products at the end of the day great now
+if you're one of the suppliers if you're
+Qualcomm or broadcom or Samsung maybe
+and you're about to lose a pretty big
+customer
+yeah then they're going to feel that and
+then for us the potential users really
+at the end of the day if if they're
+successful with this then that means
+having better products and maybe we get
+mini LED displays starting in apple
+watches at first and then maybe in the
+iPhone bigger display and then even
+bigger ones later cool but also uh it'll
+be interesting with the competition with
+the the competitive environment and
+seeing what companies like Huawei and
+xiaomi and Samsung and even Google will
+do along the same lines following in
+their suit always fun to watch okay
+hopefully that helped us all understand
+it it helps me thanks for watching catch
+you in the next one
+[Music]

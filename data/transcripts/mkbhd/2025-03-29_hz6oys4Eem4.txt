@@ -1,0 +1,449 @@
+# Apple's AI Crisis: Explained!
+# https://www.youtube.com/watch?v=hz6oys4Eem4
+
+G company is late to massive
+technological shift fails to adapt falls
+behind and never recovers dies that is a
+tale as old as time and it does repeat
+itself now apple is the biggest tech
+company in the world they're worth three
+trillion dollars they have more cash on
+hand than anyone could ever spend they
+are extremely successful in many
+categories and they've taken down many
+other tech companies along the way but
+now the year is 2025 and between missed
+deadlines and deleted commercials it
+seems like even they are having some
+troubles with an emerging technology and
+is fascinating to
+[Music]
+watch so artificial intelligence you
+guys don't need me to say it you already
+know the explosion of consumer AI in the
+past couple years has been nuts how many
+times have you heard those two letters
+next to each other so suddenly everyone
+for the past 2 3 4 years has been
+talking a lot more about Ai and two
+years doesn't even really sound like
+that long but Tech moves fast remember
+Skype remember how Skype was like the
+default for online video calling and
+then the pandemic happened in 20120 and
+then like two years later everyone used
+Zoom how did they blow that like that's
+how fast tech moves now apple is a lot
+bigger than Skype was but none of these
+companies are immune like every one of
+these big public tech companies all
+these companies are beholden to making
+as much money as possible they have
+shareholders they have investors and if
+they don't think you're doing everything
+you can to grow as much as possible
+they're not going to be happy so when a
+certain cat GPT comes along and gets 100
+million users in 2 months and seems to
+prove that AI is definitely the next
+Frontier of consumer technology well
+then you start seeing a lot of tech
+companies suddenly talking a lot more
+about
+AI so now you're apple and this is all
+happening all eyes are on you there's a
+lot of pressure to show some sort of AI
+something now there is some conventional
+wisdom that would say hey Apple take a
+second sit back relax do your typical
+second mover thing you don't have to
+rush this because there are a lot of
+examples where Apple's not necessarily
+first to something they sort of sit back
+and let someone else do the working on
+it and the maturing of the technology
+happens and then they jump in and
+implement it their own way so they were
+not first to do oleds in their phones
+they were not first to do wireless
+earbuds they were not first to make a
+tablet the iPhone itself is a perfect
+example there were so many other
+smartphones before the iPhone but they
+just executed on it in a way that
+differentiated them so well that people
+wanted theirs the thing is this second
+mover strategy is very much a hardware
+strategy at least it typically has been
+and this AI thing is different it has
+very much just been these companies
+iterating as fast as possible and just
+moving and trying to implement as much
+as they can with these little on device
+models to give people whatever useful
+features they can come up with and just
+throw them out there so on a Google
+device that looks like Circle to search
+and Gemini assistant and Gemini live and
+the adme camera feature that lets you
+take two pictures and fuse them together
+to get everyone in the group shot stuff
+like that on a Samsung device that's
+Galaxy AI you know they have things like
+that really impressive object removal on
+a Windows 11 computer that's going to
+look like co-pilot you know adding an AI
+editor into Microsoft off paint stuff
+like that now certainly not all of this
+has gone super smoothly there's been
+plenty of weird Rocky launches with
+companies like the recall feature from
+Windows got some backlash and people
+didn't love lots of stuff has not been
+ideal there have even been whole
+startups that were born and died just
+trying to jump on the AI bandwagon as
+best they can but at this point
+basically every big tech company has
+something that they do that they can
+point at and be like all right look see
+we we do AI you can see we're being
+useful to our customers so you investors
+can relax we're on the Forefront of it
+now so then what does Apple do well same
+idea right at WWDC 2024 they announced
+Apple intelligence which again is you
+know just a branding umbrella term for
+all the AI stuff they're going to do
+across iPhones and iPads and Macs things
+that involve using generative models and
+large language models on the surface
+it's kind of along the same lines a
+couple silly features here and there gen
+Emoji image playground to just Generate
+random cartoonish images but there have
+also been some useful things like
+writing tools and chat GPT integration
+and then big Promises of significant
+upgrades to make Siri actually good
+because it's been lagging behind and bad
+for years so on the surface you know
+feels right in line with a lot of these
+other companies are doing a lot of it
+kind of silly and easy to ignore
+especially if you're not an investor but
+some of it potentially really cool I
+know I for one would like Siri to be
+decent so I remember being there at WWDC
+in the summer when they announced Apple
+intelligence and thinking oh okay great
+I would like to review this thing when
+it all finally comes out so a couple
+months go by September rolls around the
+iPhone 16 launches and it's built from
+the ground up for Apple intelligence and
+so it has iOS 18 but it doesn't have any
+Apple intelligence features at launch at
+all like literally none of it it's all
+still pending with software updates oh
+okay um but at least you know there's
+some betas coming up in the pipeline so
+a few weeks later iOS 18.1 comes out and
+then it's got some of the features it's
+got uh writing tools notification
+summaries so it's starting to have some
+stuff that I can test but it is missing
+a lot of the bigger stuff and also
+notification summar is kind of turned
+out to be not that great all the time a
+few more weeks go by and then iOS 18.2
+drops in beta and they added gen emoji
+and image
+playground it also added that ability to
+kick out more complex queries to chat
+GPT so I mean okay it's progress and I'm
+glad it works and people can generate
+cartoon images on their phone but like
+is that really the core of Apple
+intelligence have we really seen that
+yet I'm still thinking no I'm going to
+keep waiting I'm not reviewing Apple
+intelligence yet so a few more weeks
+later
+uh we get ios
+18.3 at this point we're months away
+from the original iPhone launching built
+for Apple intelligence but this time
+they flipped the switch on visual
+intelligence which I think is the first
+genuinely really useful interesting
+thing using the camera feed to answer
+questions about your environment or add
+an event to your calendar from a poster
+things like that but it also did disable
+notification summaries for news and
+entertainment apps because of all the
+mistakes it was making but there is
+still no improved Seri this new series
+is supposed to have all this great stuff
+like onscreen awareness and being more
+conversational and having more inapp
+controls but none of that is launched
+and at this point I just don't know when
+it's coming so I eventually just did a
+review of all of the Apple intelligence
+features that are out so far because I
+don't know when the rest are coming and
+I thought that would be helpful but at
+the same time it's frustrating because
+they promised so much and yet
+[Music]
+so this is where it gets kind of weird
+not to get too existential but this job
+that that I do that we do these Tech
+YouTubers and and Tech journalists and
+things like that you can kind of boil it
+all down to just going around and just
+doing endless Tech demos like we just go
+from Tech demo to Tech demo and it's
+other people's jobs professionally to
+give us Cool Tech demos and then we can
+point a camera at it or write an article
+and then our job is to one
+decide if the thing that they're demoing
+is a good idea or not but then two to
+try to understand how real that Tech
+demo actually was that's really what it
+is it's just Cool Tech demos left and
+right so like a new product might come
+out and get announced and they show it
+to us and they're like check this out
+and part one again is okay are these new
+features in this thing actually a good
+idea would people want that and then
+part two is to try to listen to the
+words coming out of their mouth and and
+look at what's happening and understand
+is this Tech demo real or staged or
+completely fake or somewhere in between
+so then Apple you know I would say is
+typically they do a pretty good job like
+in the spectrum of how crazy things can
+get like they're pretty realistic about
+things like the new iPhone comes out on
+stage and then they shepherd everyone to
+this Hands-On area and then we get to
+point a camera at and demo in our own
+hands a lot of the new features that
+they just announced so in general pretty
+good but it's not always perfect fun
+fact I don't know how many of you
+remember air power uh but that was one
+of those things where I remember that
+event they showed it off on stage
+whatever and then we go out to the
+Hands-On area and there was a single air
+power out there just one wireless
+charging pad among all the chaos uh but
+it didn't work so you could put your
+phone on it and pretend it charges but
+it didn't and maybe that should have
+been a red flag right there because of
+course as we know air power never came
+out I think Tesla's robots are another
+pretty recent like famous one we all
+remember that show that they put on they
+had those humanoid robots walking around
+their event interacting with people
+Tesla would never confirm or tell people
+exactly what was going on behind the
+scenes to make that all possible but
+there were plenty of theories about them
+being remote operated or human
+controlled anyway Apple intelligence is
+one of those things where they've had
+this slow continuous roll out where the
+most interesting and possibly most
+important things are at the End of the
+Roll out but there's no timetable
+they're just kind of coming at some
+point and Apple's never demoed them for
+us it's really interesting John Gruber
+pointed this out in his piece a little
+while ago that this could be an even
+more glowing bright red flag Apple has
+never shown these features working to
+anyone and I mean you'd think if they
+could demo it to a reporter or YouTuber
+or something that they totally would
+they'd love to show it's almost done
+just here's how cool it is but they
+haven't and the fact that they haven't
+even gotten to the Cool Tech demo part
+yet kind of makes it feel like this is a
+lot farther away than we think it is now
+all of this is true at the same time
+that apple is literally running
+commercials and billboards and
+Plastering Apple intelligence all over
+their website and every announcement
+they talk about it all the time to the
+point that you'd assume it's like the
+most important new feature of their
+devices they even had to delete a
+commercial that they made and published
+they had to take it back because it was
+literally just advertising a new feature
+of this big Siri update that doesn't
+exist yet it's like looking into your
+phone and using context to tell you
+something that straight up didn't
+work Siri what's the name of the guy I
+had a meeting with a couple of months
+ago at Cafe kenel you met Zack Wingate
+at Cafe
+grenell hey z w I didn't think you'd
+remember me yeah of course since I saw
+you I'm like it's Zach nobody looks like
+Zach you know I I think it would be cool
+if Siri actually could look into your
+phone and your apps and calendar and
+actually tell you things about it but it
+can't and we've never seen a demo of
+this outside of this commercial or
+Apple's official videos so yeah this
+disconnect between how successful Apple
+would like us to believe that they are
+with AI and how poorly and delayed
+things are actually going that is the
+crisis on Apple's hands right now it's
+fascinating to watch and you know it
+it's totally fine to delay products like
+that happens all the time it's actually
+very normal but just with AI with how
+immediate it feels with it being this
+Paradigm Shift of technology and all of
+their competitors shipping things it
+feels like things are moving very
+quickly so that's how you end up with
+apparently internal meetings and
+reorganization and people inside of
+Apple calling it embarrassing to people
+paying close attention to Apple I think
+Apple intelligence has from the
+beginning kind of always felt more like
+a a nice thing to please investors more
+than an actually useful revolutionary
+set of products that regular people are
+going to love but now that it's so
+delayed and the disconnect is so obvious
+it's never been more
+[Music]
+apparent remember
+Nokia they were huge and then they kind
+of just completely missed the jump to
+smartphones and now we don't think about
+Nokia anymore I'm sure you remember
+Blackberry they were also once thought
+of as way too big to fail and then
+virtual keyboards came along and
+blackberry just continued making phones
+with physical keyboards and then
+everybody just moved along and now we
+don't talk about Blackberry anymore
+there's countless examples of huge tech
+companies we thought they were way too
+big to fail but then they failed to
+adapt in some way to the changing tides
+of Technology something happens and then
+they're just gone and we don't know what
+happened to them and so there's no way
+to tell the future on this one maybe
+maybe everything's fine maybe Apple
+ships the new Siri in two months and it
+does everything they said and it's great
+and we just forget any delay ever even
+happened but there's three things that
+have been on my mind that kind of make
+that feel unlikely so number one is just
+that AI is just not at the core of
+Apple's business right now and if you're
+just looking at it from a business
+perspective they make a ton of money
+selling Hardware selling the services
+and the things attached to that hardware
+and they will continue to make tons of
+money money iterating and doing all that
+like they usually do financially they'll
+probably be fine like it's kind of hard
+to draw a straight line from Apple
+intelligence is successful to Apple
+making way more money especially when
+they're such a privacy Focus company as
+well like a lot of these features don't
+go hand inand with that but then
+two their usual advantages don't really
+work here as much as they usually do so
+like the second mover Advantage thing
+that I talked about earlier like that's
+typically a hardware technology thing
+and so AI being software with software
+Apple's usually able to just rely on
+their massive enthusiastic Army of
+developers to support things and give it
+a kickart and get it off the ground to
+get people using it and with this it's
+kind of the opposite I don't think
+they're interested in this like just
+think if I'm Uber if I if I'm developer
+for Uber and this new Siri is supposed
+to be able to reach into my app and
+perform an action like calling a car so
+the user just goes hey Siri call me an
+Uber to the airport and then it does it
+without ever opening my
+app that's I don't actually like that
+very much that gives me less control I
+don't get to do as much with that
+experience even though it would be
+really cool for the end user but then
+number three just the lack of demos is
+like really it's actually very hard to
+ignore just from someone who's seen so
+many remember remember the Bixby speaker
+like all those years ago at a Samsung
+event they announced the Galaxy speaker
+is what it was called it looked like
+this little mini barbecue grill and in
+person we all go to this event and then
+we go down to the Hands-On area and they
+had a bunch of them on display and they
+were lit up and nobody could actually
+touch them or use them and then I think
+we maybe saw them one more time at a
+display at CES but then we just never
+saw them again Samsung canceled it they
+never shipped the thing I don't think
+Apple wants to pull a Bixby speaker or
+an air power with this thing like apple
+intelligence has gotten so much PR and
+it's clearly so important to them that
+just feels like it's got to get there
+eventually it's got to be frustrating
+for them to not have the ability to show
+it off or ship anything yet but it would
+be pretty cool if Siri was good but
+we'll very much just still have to wait
+and see there's still Apple they're
+still just going to keep shipping new
+computers tablets software phones the
+whole thing and they will continue to
+iterate on other stuff but this is just
+something to be keeping our eye on for
+the future especially
+as this whole AI thing continues to ramp
+up and as they continue to put
+Billboards out there share this video
+with someone who needs the explanation
+thanks for watching catch you guys the
+next one peace

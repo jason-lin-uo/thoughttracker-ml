@@ -1,0 +1,3629 @@
+# Curing All Human Diseases & the Future of Health & Technology | Mark Zuckerberg & Dr. Priscilla Chan
+# https://www.youtube.com/watch?v=1Wo6SqLNmLk
+
+welcome to the huberman Lab podcast
+where we discuss science and
+science-based tools for everyday
+[Music]
+life I'm Andrew huberman and I'm a
+professor of neurobiology and
+Opthalmology at Stanford School of
+Medicine my guest today are Mark
+Zuckerberg and Dr Priscilla Chan Mark
+Zuckerberg as everybody knows founded
+the company Facebook he is now the CEO
+of meta which includes Facebook
+Instagram WhatsApp and other technology
+platforms Dr Priscilla Chan graduated
+from Harvard and went on to do her
+medical degree at the University of
+California San Francisco Mark Zuckerberg
+and Dr Priscilla Chan are married and
+the co-founders of the czi or Chan
+Zuckerberg initiative a philanthropic
+organization whose State goal is to cure
+all human diseases the Chan zukerberg
+initiative is accomplishing that by
+providing critical funding not available
+elsewhere as well as a novel framework
+for discovery of the basic functioning
+of cells Catal logging all the different
+human cell types as well as providing AI
+or artificial intelligence platforms to
+mine all of that data to discover new
+Pathways and cures for all human
+diseases the first hour of today's
+discussion is held with both Dr
+Priscilla Chan and Mark Zuckerberg
+during which we discuss the czi and what
+it really means to try and cure all
+human diseases we talk about the
+motivational backbone for the czi that
+extends well into each of their personal
+histories indeed you'll learn quite a
+lot about Dr Priscilla Chan who has I
+must say an absolutely incredible family
+story leading up to her role as a
+physician and her motivations for the
+czi and Beyond and you'll learn from
+Mark how he's bringing an engineering
+and AI perspective to the discovery of
+new cures for human disease the second
+half of today's discussion is just
+between Mark Zuckerberg and me during
+which we discuss various meta platforms
+including of course social media
+platforms and their effects on Mental
+Health in children and adults we also
+discuss VR virtual reality as well as
+augmented and mixed reality and we
+discuss AI artificial intelligence and
+how it stands to transform not just our
+online experiences with social media and
+other Technologies but how it stands to
+potentially transform every aspect of
+everyday life before we begin I'd like
+to emphasize that this podcast is
+separate from my teaching and research
+roles at Stanford it is however part of
+my desire and effort to bring zero cost
+to Consumer information about science
+and science related tools to the general
+public in keeping with that theme I'd
+like to thank the SP sponsor of today's
+podcast our first sponsor is eight sleep
+eight sleep makes Smart mattress covers
+with cooling Heating and sleep tracking
+capacity I've spoken many times before
+in this podcast about the fact that
+getting a great night's sleep really is
+the foundation of mental health physical
+health and performance one of the key
+things to getting a great night's sleep
+is to make sure that the temperature of
+your sleeping environment is correct and
+that's because in order to fall and stay
+deeply asleep your body temperature
+actually has to drop by about 1 to 3°
+and in order to wake up feeling
+refreshed and energized your body
+temperature actually has to increase by
+about 1 to 3° with eight sleep you can
+program the temperature of your sleeping
+environment in the beginning middle and
+end of your night it has a number of
+other features like tracking the amount
+of rapid eye movement and slow wave
+sleep that you get things that are
+essential to really dialing in the
+perfect night sleep for you I've been
+sleeping on an eight Sleep mattress
+cover for well over 2 years now and it
+has greatly improved my sleep I fall
+asleep far more quickly I wake up far
+less often in the middle of the night
+and I wake up feeling far more refreshed
+than I ever did prior to using an
+eightsleep mattress cover if you'd like
+to try eightsleep you can go to
+8sleep.com
+huberman to save $150 off their pod 3
+cover eights sleep currently ships to
+the USA Canada UK select countries in
+the EU and Australia again that's
+8sleep.com
+huberman today's episode is also brought
+To Us by element element is an
+electrolyte drink that has everything
+you need and nothing you don't that
+means plenty of electrolytes sodium
+magnesium and potassium and no sugar the
+electrolytes are absolutely essential
+for the functioning of every cell in
+your body and your neurons your nerve
+cells rely on sodium magnesium and
+potassium in order to communicate with
+one another electrically and chemically
+element contains the optimal ratio of
+electrolytes for the functioning of
+neurons and the other cells of your body
+every morning I drink a packet of
+element dissolved in about 32 ounces of
+water I do that just for General
+hydration and to make sure that I have
+adequate electrolytes for any activities
+that day I'll often also have an element
+packet or even two packets in 32 to 60
+ounces of water if I'm EXC exercizing
+very hard and certainly if I'm sweating
+a lot in order to make sure that I
+replace those electrolytes if you'd like
+to try element you can go to drink
+lm.com huberman to get a free sample
+pack with your purchase again that's
+drink LM nt.com
+huberman I'm pleased to announce that we
+will be hosting four live events in
+Australia Each of which is entitled The
+Brain body contract during which I will
+share science and science related tools
+for mental health physical health and
+performance there will also be a live
+question and answer session we have
+limited tickets still available for the
+event in Melbourne on February 10th as
+well as the event in Brisbane on
+February 24th our event in Sydney at the
+Sydney Opera house sold out very quickly
+so as a consequence we've now scheduled
+a second event in Sydney at the aware
+super theater on February 18th to access
+tickets to any of these events you can
+go to huberman lab.com
+events and use the code huberman at
+checkout I hope to see you there and as
+always thank you for your interest in
+science and now for my discussion with
+Mark Zuckerberg and Dr Priscilla Chan
+Priscilla Mark so great to meet you and
+thank you for having me here in your
+home oh thanks for having us on the
+podcast yeah like to talk about the czi
+the Chan Zuckerberg initiative I learned
+about this a few years ago when my lab
+was and still is now at Stanford as a
+very exciting philanthropic effort that
+has a truly big mission I can't imagine
+a bigger mission so maybe you could tell
+us what that big mission is and then we
+can get into some of the mechanics of
+how that big mission can become a
+reality so uh like you're mentioning in
+2015 um we launched the Chan Zuckerberg
+initiative and what we were hoping to do
+at CCI was think about how do we build a
+better future for everyone and looking
+for ways where we can contribute the
+resources that we have to bring
+philanthropically and the experience es
+that Mark and I have had for me as a
+physician and educator for Mark as an
+engineer and then our ability to bring
+teams together to build Builders um you
+know Mark has uh been a builder
+throughout his career and what could we
+do if we actually put together a team to
+build tools um do great science and So
+within our science portfolio we've
+really been focused on what uh some
+people think is either an incredibly
+audacious goal or a inevitable goal but
+I think about it as something that will
+happen if we sort of continue focusing
+on it which is to be able to cure
+prevent or manage all Disease by the end
+of the century all disease all disease
+so that's important right and a lot of
+times people ask like which disease and
+the whole point is that there is not one
+disease and it's really about taking a
+step back uh to where I always found the
+most hope as a physician which is new
+discoveries and new opportunities and
+new ways of understanding how to keep
+people well come from basic science so
+our strategy at czi is really to build
+tools fund science um change the way
+basic scientists can see the world and
+how they can move quickly in their
+discoveries and so that's what we
+launched in uh 2015 we we do work in
+three ways we uh fund great scientists
+we uh build tools uh right now software
+tools to help move science along uh and
+make it easier for scientists to do
+their work and we do science um you
+mentioned Stanford being an important
+pillar for our science work we've built
+uh what we call bioh Hubs institutes
+where teams can take on Grand challenges
+to do work that wouldn't be possible in
+a single lab or within a single
+discipline and our first biohub was
+launched in San Francisco Isco uh
+collaboration between Stanford UC
+Berkeley and UCSF amazing um curing all
+diseases uh implies that there will
+either be a ton of Knowledge gleaned
+from this effort which I'm certain there
+will be and there already has been we
+can talk about some of those early
+successes in a moment but it also sort
+of implies that if we can understand
+some basic operations of diseases and
+cells that transcend
+autism Huntington's Parkinson's cancer
+and any other disease that uh perhaps
+there are some core principles that
+would make the big mission a real
+reality so to speak um what I'm
+basically saying is um how are you
+attacking this my belief is that the
+cell sits at the center of all
+discussion about disease um given that
+our body is made up of of cells and
+different types of cells so maybe you
+could um just illuminate for us a little
+bit of what the cell is in your mind as
+it relates to disease and how one goes
+about understanding disease in the
+context of cells because ultimately
+that's what we're made up of yeah well
+let's let's get to the cell thing in a
+moment but just to even taking a step
+back from that you know we don't think
+that it's czi that we're going to cure
+prevent or manage all diseases the goal
+is to to basically give the scientific
+community and scientists around the
+world the tools to accelerate the pace
+of Science and now we we spent a lot of
+time when we were getting started with
+this looking at the history of Science
+and trying to understand the trends and
+and how they pled out over time and if
+you look over the this very long-term
+Arc most large scale discoveries are
+preceded by the invention of a new tool
+or a new way to see something and it's
+not just in biology right it's like
+having a telescope um you know came
+before a lot of um discoveries in
+astronomy and
+astrophysics um but similarly you know
+the microscope and um and and just
+different ways to observe things or
+different platforms like the ability to
+do vaccines preceded the ability to kind
+of cure a lot of different things um so
+this is sort of the engineering part
+that you were talking about about
+building tools we we view our goal is to
+try to bring together some scientific
+and Engineering knowledge to build tools
+that empower the whole field um and
+that's that's sort of the Big Arc and
+and a lot of the things that we're
+focused on including the the work in in
+single cell and and cell understanding
+which um
+you know you can you can jump in and get
+into that if you want but yeah I think I
+think we generally agree with the
+premise that if you want to understand
+the stuff from first principles um you
+know people study organs a lot right
+they like they study kind of how things
+present across the body but there's not
+a very widespread understanding of how
+kind of each cell operates and this is
+sort of a big part of you know some of
+the initial work that we tried to do on
+the human cell Atlas and understanding
+what are the different cells and um and
+there there's a bunch more work that we
+want to do to carry that forward but um
+but overall I think when we think about
+the next 10 years here of this long Arc
+to to try to empower the community to to
+um be able to cure prevent or or manage
+all diseases we want that we think that
+the next 10 years should really be
+primarily about being able to measure
+and observe more things in in human
+biology there are a lot of limits to
+that it's like you want to look at
+something through a microscope you can't
+usually see living tissues because it's
+hard to you know see through skin or
+things like that so there there a lot of
+different techniques um that will help
+us observe different things and this is
+sort of where the engineering background
+comes in a bit because I mean it's when
+I think about this is from the
+perspective of like how you'd write code
+or something you know the idea of like
+trying to debug or fix a code base but
+not be able to like step through the
+code line by line it's like never not
+going to happen right and at the at the
+beginning of any big project that we do
+um at meta you know we like to spend a
+bunch of the time upfront just trying to
+instrument things and understand you
+what are we going to look at and how are
+we going to measure things before um so
+we know we're making progress and know
+what to optimize and this is such a
+long-term Journey that and we think that
+it actually makes sense to take the next
+10 years to build those kind of tools um
+for biology and understanding um just
+how the human body works in action and a
+big part of that is is cells I don't
+know do you want to jump and talk talk
+about some of the efforts could I just
+um interrupt briefly and just ask about
+the the different um the different
+intervention so to speak um that czi is
+is in a unique position to to bring to
+the quest to cure all diseases so I can
+think of I mean I know as a scientist
+that um money is necessary but not
+sufficient right like when you have
+money you can hire more people you can
+try different things so that that's
+critical but a lot of philanthropy
+includes money
+um the other component is you know you
+want to be able to see things as you
+pointed out um so you want to know that
+normal disease process like what what is
+a healthy cell what's a diseased cell
+are cells constantly being bombarded
+with with challenges and then repairing
+those and then what we call cancer is
+just kind of the runaway train of those
+challenges not being met by the cell
+itself or something like that um so
+better Imaging tools and then um it
+sounds like there's not just a a
+hardware component but a software
+component this is where AI comes in so
+maybe we can at some point uh we can
+break this up into to three different
+Avenues one is understanding disease
+processes and healthy processes we'll
+lump those together then there's
+Hardware so microscopes lenses digital
+deconvolution ways of seeing things in
+Bolder relief and more more more uh
+precision and then there's how to manage
+all the data and then I love the idea
+that maybe AI could do what human brains
+can't do alone they manage understanding
+of the data because it's one thing to
+organize data it's another to say oh you
+know you this as you point out in the
+analogy with code that this particular
+Gene and that particular Gene are
+potentially interesting where as a human
+being would never make that potential
+connection that yeah so you know the
+tools that czi can bring to the table we
+we fund science like you're talking
+about and we try to uh there's lots of
+ways to fund science and just to be
+clear you know what we fund is a tiny
+fraction of what the NIH funds for
+instance so you guys have been generous
+enough that it's uh it definitely um
+holds weight to NIH uh nih's
+contribution yeah and but I think it
+every every funer has its own role in
+the ecosystem and for us it's really how
+do we incentivize new points of view how
+do we incentivize collaboration how do
+we incentivize open science and so a lot
+of our grants include um inviting people
+to look in look at different fields our
+first Neuroscience um RFA was uh aimed
+towards incentivizing people from
+different backgrounds immunologists
+microbiologists to come and look at how
+our nervous system system works and how
+to keep it healthy or um we uh ask that
+our grantees participate in the
+pre-print movement to accelerate the
+rate of sharing knowledge and actually
+others being able to build upon science
+so that's the funding that we do um in
+terms of building um we we build
+software and Hardware um like you
+mentioned we put together teams that uh
+can build tools that are more durable
+and scalable um than someone in a single
+lab might be incentivized to do there's
+a ton of great ideas and uh nowadays
+most scientists can tinker and build
+something useful for their lab but it's
+really hard for them to be able to share
+uh that tool sometimes beyond their own
+laptop or forget you know the next Lab
+over or across the globe so we partner
+with Scientists to see like what is
+useful what kinds of tools you know in
+imaging napari like it's there's it's a
+useful image annotation tool um that is
+born from an open source community and
+how can we contribute to that or a Cell
+by Gene which uh works on single cell
+data sets and how can we make it build a
+useful tool so that scientists can share
+data sets analyze their own and
+contribute to a larger um Corpus of
+information so we have software teams
+that are building collaborating with
+Scientists to make sure that we're
+building easy to use durable
+translatable tools across the scientific
+community in the areas that we work in
+um we also have institutes this is where
+the Imaging uh work comes in where you
+know we are proud owners of an electron
+microscope right now um it it's going to
+be installed um at our Imaging Institute
+and that will really contribute to a way
+where we can sew work differently but we
+can the more Hardware need does need to
+be developed you know we're partnering
+with a fantastic
+scientists um in the biohub network to
+build a a mini phase plate to increase
+to align the electrons through these um
+through the electron microscope to be
+able to increase the resolution so we
+can see in sharper detail to uh so
+there's a lot of innovative work within
+the network that's happening um and uh
+these institutes have grand challenges
+that they're working on um back to your
+question about cells cells are just the
+smallest unit that are alive and um are
+your body all of our bodies have many
+many many cells there's you know some
+estimate of like 37 trillion cells
+different cells in your body and what
+are they all doing and how do what do
+they look like when they're Health when
+you're healthy what do they look like
+when you're sick and um where we're at
+right now with you know our
+understanding of cells and what happens
+when you get sick is basically we have
+we we've gotten pretty good at from the
+Human Genome Project looking at how
+different mutations in your genetic code
+lead for you to be more susceptible to
+get sick or directly cause you to get
+sick so we go from a mutation in your
+DNA to wow you now have Huntington's
+disease for instance and there's a lot
+that happens in the middle and that's
+one of the questions that we're going
+after after at at czi is what actually
+happens so an analogy that I used I like
+to use to share with my friends is right
+now say we have a recipe for a cake we
+know there's a typo in the recipe and
+then the cake is awful that's all we
+know we don't know how the chef
+interprets the typo we don't know what
+happens in the oven and we don't
+actually H know sort of how it's exactly
+connected to how the cake didn't turn
+out how you were had expected a lot of
+that um is unknown but we can actually
+systematically try to break this down
+and one segment of that Journey that
+we're looking at is how that mutation
+gets translated and acted upon in your
+cells and all of your cells have what's
+called mRNA mRNA are the actual
+instructions that are taken from the DNA
+and what our work in single cell is
+looking at how how every cell in your
+body is actually interpreting your DNA
+slightly differently and what happens
+when healthy cells are interpreting the
+DNA instructions and when six cells are
+interpreting those directions and that
+is a ton of data I just told you there's
+37 trillion cells there's different uh
+large in sets of mRNA in each cell but
+the work that we've been funding is
+looking at how um first of all Gathering
+that information um we've been
+um incredibly lucky to be part of a very
+fast moving um field where we've gone
+from in 2017 funding some methods work
+to now having really not complete but
+nearly complete atlases of how the human
+body works how flies work how mice work
+uh at the Single Cell level and being
+able to then try to piece together like
+how does that all come together and when
+your health and when you're sick and the
+neat thing
+about the sort of inflection point where
+we're at in AI is that I can't look at
+this data and make sense of it there's
+just too much of it and biology is
+complex human bodies are complex we need
+this much information but the use of
+large language models can help us
+actually look at that data and gain
+insights look at what trends are
+consistent with health and what trends
+are um are unsuspected and eventually
+our hope uh through uh the use of these
+data sets that we've helped curate in
+the application of large language models
+is to be able to formulate a virtual
+cell a cell that's
+completely um uh built off of the data
+sets of what we know about the human
+body but allows us to manipulate and
+learn faster and try new things um to
+help move science and then uh medicine a
+do you think we've cataloged the total
+number of different cell types like you
+know every week I look at Great journals
+like cell Nature and Science and for
+instance I saw recently that um using
+single cell sequencing they've um
+categorized 18 plus different types of
+fat cells we always think of like a fat
+cell versus a muscle cell so so now
+you've got 18 types um each one is going
+to express many many different genes and
+rnas mrnas and perhaps the uh one of
+them is responsible for you know what we
+see in you know Advanced type two
+diabetes or um in other forms of obesity
+or where people can't lay down fat cells
+which turns out to be Ju Just as
+detrimental in those extreme cases so
+now you've got all these lists of genes
+but um I always thought of single cell
+sequencing as necessary but not
+sufficient right you need the
+information but it doesn't resolve the
+problem and I think of it more of a as a
+hypothesis generating experiment
+okay so you have all these gen and you
+could say wow this Gene is particularly
+elevated in the um diabetics cell type
+of let's say one of these fat cells or
+muscle cells for that matter um whereas
+it's not in non-diabetics so then of the
+millions of different cells maybe only
+five of them differ dramatically M so
+then you you generate a hypothesis oh
+it's the ones that differ dramatically
+that are important but maybe one of
+those genes when it's only you know 50%
+ch ched has a huge effect because of
+some Network biology effect and so I
+guess what I'm trying to um get to here
+is you know how does one meet that
+challenge and can AI help resolve that
+challenge by essentially placing those
+lists of genes into a a you know 10,000
+hypothesis because I'll tell you that
+the graduate students in postdocs in my
+lab get a chance to test one hypothesis
+at a time and that's really the
+challenge let alone one lab and um so
+for those that are listening to this and
+you know hopefully it's not getting
+outside the scope of of kind of like
+standard understanding or the
+understanding we've generated here but
+what I'm basically saying is you have to
+pick at some point more data always
+sounds great but then how how do you
+decide what to test so no we don't know
+all the cell types um I think one of the
+one thing that was really exciting when
+we first launched this work was you know
+cystic fibrosis like cystic fibrosis is
+caused by mutation and CFT that's pretty
+well known it affects a certain channel
+that makes it hard for mucus to be
+cleared that's the basics of cystic
+fibrosis
+when I went to medical school it was
+taught as fact so their lungs fill up
+with fluid these are people carrying
+around sacks of fluid filling up I've
+known people like I've worked with
+people like them they have to literally
+dump the fluid out ex they can't run or
+do intense exercise life is shorter life
+is shorter and when we applied single
+cell methodologies to the lungs they
+discovered an entirely new cell type
+that actually is affected by a mutation
+and the CF mutation and cystic fibrosis
+mutation that actually changes the
+Paradigm of how we think about cystic
+fibrosis amazing just unknown so I don't
+think we know um all the cell types I
+think we'll continue to discover them
+and we'll continue to discover new
+relationships between cell and disease
+which leads me to the second example I
+want to bring up is um this large data
+set that the entire scientific Community
+has built around single cell is starting
+to allow us to say this mutation where
+is it expressed what types of cell types
+it's expressed in
+and um we actually have built a tool at
+czi called cell by Gene where you can
+put in the mutation that you're
+interested in and it gives you a heat
+map of cross cell types of which cell
+types are expressing the uh Gene that
+you're interested in and so then you can
+start looking at okay if I look at Gene
+X and I know it's related to heart
+disease but if you look at the heat map
+it's also spiking in the pancreas that
+allows you to generate a hypothesis why
+um and what happens when this Gene is
+mutated and in your in the function of
+your pancreas really exciting way to
+look and ask questions differently um
+and you can also Imagine a world where
+if uh you're trying to develop a therapy
+a drug and you're your the goal is to
+treat the function in the heart but you
+know that it's also really active in in
+the pancreas again so what is there
+going to be an unexpect Ed side effect
+that you should think about as you're
+bringing uh this drug to clinical trials
+so I it's an incredibly exciting tool
+and one that's only going to get better
+as we get more and more sophisticated
+ways to analyze the data I must say I
+love that because if I look at the
+advances in Neuroscience over the last
+15 years most of them um did necessarily
+come from looking at the nervous system
+came from the understanding that the
+immune system impacts the brain everyone
+prior to that talked about the brain as
+immune privilege Ed organ what you just
+said also Bridges and uh the Divide
+between single cells organs and systems
+right because ultimately cells make up
+organs organs make up systems and
+they're all talking to one another and
+everyone nowadays is familiar with like
+gut brain Axis or the the microbiome
+being so important but rarely is the um
+the discussion between organs um
+discussed so to speak so um I think it's
+wonderful so that that tool was
+generated by CCI or CCI funded that tool
+so we built that we built that you built
+it so is it built by meta is does meta
+have a hand C has its own Engineers got
+it they're completely different
+organizations incredible and um and so a
+graduate student or postto who's
+interested in a particular mutation
+could put this mutation into this
+database um that graduate student or
+postto might be in a laboratory known
+for working on heart but suddenly find
+that they're collaborating with other
+scientists that work on the pancreas
+yeah um which also is wonderful um
+because it Bridges The Divide between
+these Fields fields are so siloed in
+science not just different buildings but
+they people rarely talk unless things
+like this are happening I mean the
+graduate student is someone that we want
+to empower because one they're the
+future of science as you know and um
+within cell by Gene if you put in the
+gene you're interested in and it shows
+you the heat map we also will pull up
+like the most relevant papers to that
+Gene and so like read these things
+fantastic as we all know quality
+nutrition influences of course our
+physical health but also our mental
+health and our cognitive functioning our
+memory our ability to learn new things
+and to focus and we know that one of the
+most important features of highquality
+nutrition is making sure that we get
+enough vitamins and minerals from high
+quality unprocessed or minimally
+processed sources as well as enough
+probiotics and prebiotics and fiber to
+support basically all the cellular
+functions in our body including the gut
+microbiome now I like most everybody try
+to get optimal nutrition from Whole
+Foods ideally mostly from minimally
+processed or nonprocessed Foods however
+one of the challenges that I and so many
+other people face is getting enough
+servings of high quality fruits and
+vegetables per day as well as fiber and
+probiotics that often accompany those
+fruits and vegetables that's why way
+back in 2012 long before I ever had a
+podcast I started drinking ag1 and so
+I'm delighted that ag1 is sponsoring the
+huberman Lab podcast the reason I
+started taking ag1 and the reason I
+still drink ag1 once or twice a day is
+that it provides all of my foundational
+nutritional needs that is it provides
+insurance that I get the proper amounts
+of those vitamins minerals probiotics
+and fiber to ensure optimal mental
+health physical health and performance
+if you'd like to try ag1 you can go to
+drink a1.com huberman to claim a special
+offer they're giving away five free
+travel packs plus a year supply of
+vitamin D3 K2 again that's drink a1.com
+huberman to claim that special offer I I
+just think going back to your question
+from before I mean are there going to be
+more cell types that get discovered I
+mean I I assume so right I mean no
+catalog of the stuff is ever you know
+doesn't seem like we're ever done right
+we keep on finding more but I think
+that that gets to one of the things that
+I think are the strengths of of U modern
+llms is the ability to kind of Imagine
+different states that things can be in
+so from all the work that we've done and
+funded on the on the human cell atlas
+there is a large Corpus of data that you
+can now train a a kind of large scale
+model on and one of the things that
+we're doing um at CCI which I think is
+pretty exciting is building um what we
+think is one of the largest nonprofit
+Life Sciences AI clusters right it's
+like a you know on the order of a
+thousand gpus and you know it's larger
+than what most people have access to in
+Academia that you can do like serious
+engineering work on and um and you know
+by basically training a model with all
+of the human cell out lless data and and
+a bunch of other um inputs as well we we
+think you'll be able to basically
+imagine all of the different types of
+cells and all the different states that
+they can be in and when they're healthy
+and diseased and how they'll interact
+with um you know different um you know
+interact with each other interact with
+different potential drugs but I mean I
+think the state of llms I think this is
+where it's it's helpful to understand
+you know have a good understanding and
+be grounded in like the modern state of
+AI I mean these things are not foolproof
+right I mean one of the flaws of modern
+llms is they hallucinate right so the
+question is how do you make it so that
+that can be an advantage rather than a
+disadvantage and I think the way that it
+ends up being an advantage is when they
+help you imagine a bunch of states that
+somethingone could be in but then you
+you know as the scientist or engineer go
+and validate that those are true whether
+they're you know solutions to how a
+protein can be folded or possible states
+that a cell could be in when it's
+interacting with other things but you
+know we're not yet at the state with AI
+that you can just take the outputs of
+these things as like as gospel and run
+from there but they are very good I
+think as you said hypothesis generators
+or um possible solution generators that
+then you can go validate so I that's a
+very powerful um thing that we can
+basically you know building on the first
+five years of science work around the
+human cell outlas and all the data
+that's been built out carry that forward
+into something that I think is going to
+be a very novel tool going forward um
+and that's the type of thing that I
+think we're set up to do well I mean you
+you all you had this exchange a little
+while back about um you know funding
+levels and how CCI is you know just sort
+of a drop in the in the in the bucket
+compared to NIH but I think we we have
+this the thing that I think we can do
+that's different is um funding some of
+these longer term bigger projects that
+it is hard to Galvanize the and pull
+together the energy to do that you it's
+a lot of what um most science funding is
+is like relatively small projects that
+are exploring things over relatively
+short time Horizons and one of the
+things that we try to do is is like
+build these tools over you know 5 10 15
+year periods they're often projects that
+require you know hundreds of millions of
+dollars of funding and world-class
+engineering teams and infrastructure to
+do and that I think is a pretty cool
+contribution to the field that um that I
+think is there aren't as many other
+folks who are who are doing that kind of
+thing but that's one of the reasons why
+I'm personally excited about the virtual
+cell stuff cuz it just it's like this
+perfect intersection of all the stuff
+that we've done and single cell the
+previous um collaborations that we've
+done with the field and you know
+bringing together the the um industry
+and and AI expertise around this yeah I
+completely agree that the model of uh
+science that you're put together with
+CCI is isn't just unique from an age but
+it's extremely important the um
+independent investigator model is what's
+Driven the progression of Science in
+this country and to some extent in
+northern Europe for the last 100 years
+and it's um wonderful um on the one hand
+because it allows for that image we have
+of a scientist kind of tinkering away or
+the people in their lab and then like
+the ureas um and that hopefully
+translates to better human health uh but
+I think in my opinion we've moved past
+that model as the most effective model
+or the only model that should be
+explored yeah I just think it's a
+balance you want you want that but you
+want to empower those people I think
+that that's these tools ow those fol and
+there are mechanisms to do that like NIH
+but but it's hard um to do collaborative
+science it's um it's sort of interesting
+that we're sitting here not far for
+because I grew up right near here as
+well I'm not far from the garage model
+of tech right the the H backer model um
+not far from here at all um and the idea
+was you know the tinkerer in the garage
+the inventor and then people often
+forget that to implement all the
+Technologies they discovered took
+enormous factories and warehous so
+um you know there's there's a similarity
+there to Facebook meta Etc but I think
+in science we imagine that the
+scientists alone in their laboratory and
+those Eureka moments but I think
+nowadays that the big questions really
+require um extensive collaboration and
+certainly tool development um and one of
+the tools that you keep coming back to
+is these llms these large language
+models and um maybe you could just
+elaborate for for those that aren't
+familiar you know what are what is a
+large language model um uh it for the
+the the uninformed what is it um and
+what does it allow uh what does it allow
+us to do that um you know different
+types of other types of AI don't allow
+um or more importantly perhaps what does
+it allow us to do that a bunch of really
+smart people highly informed in a given
+area of science staring at the data what
+what can I do that they can't
+do sure so I think a lot of the
+progression of machine learning has been
+about building systems neural networks
+or otherwise that can basically make
+sense and find patterns in larger and
+larger amounts of data and there was a
+breakthrough a number of years back um
+that some folks at Google actually made
+called this Transformer model
+architecture and it was this huge
+breakthrough because before then there
+was somewhat of a cap where you know if
+you fed more data into a neural network
+past some some point it didn't really
+glean more insights from it whereas
+Transformers just you we haven't seen
+the of how big that can scale to yet I
+mean I think that there's a chance that
+we run into some someing but so never
+ASM tootes we haven't observed it yet
+but we just haven't built big enough
+systems yet so I would guess that um I
+don't know I think this is actually one
+of the big questions in in the AI field
+today is basically are Transformers and
+are the current model architecture
+sufficient and if you just build larger
+and larger clusters do you eventually
+get something that's like human
+intelligence or super intelligence or um
+is there some kind of fundamental limit
+to this architecture that we just
+haven't reached yet and once we we kind
+of get a little bit further in building
+them out then we'll reach that and then
+we'll need a few more leaps before we
+get to you know the the level of of um
+AI that I think will unlock you know a
+ton of really futuristic and amazing
+things but there's no doubt that even
+just being able to process the amount of
+data that we can now with this model
+architecture um has unlocked a lot of
+new use cases and the reason why they're
+called large language models is because
+one of the first uses of them
+is um people basically feed in all of
+the language from uh basically the
+worldwide web and you can think about
+them as basically prediction machines so
+if you you you fit in um you put in a
+prompt and it can basically you know
+predict a version of what should come
+next so you know you you like type in a
+headline for a news story and it can
+kind of predict what it thinks the story
+should be or you could train it so that
+it could be a chatbot right okay if if
+you're prompted with this question you
+can get um this response but one of the
+interesting things is it turns out that
+there's actually nothing specific to
+using human language in it so if instead
+of feeding it human language if you use
+that model architecture for for a
+network and instead you feed it all of
+the human cell outlas data then if you
+prompt it with a state of a cell it can
+spit out um different versions of of
+like what you know how that cell can
+interact or different states that the
+cell could be an nexted when it
+interacts with different things does it
+have to take a genetics class so for
+instance if you give it a bunch of
+genetics data do you have to say hey by
+the way and then you give it a genetics
+class so it understands that you know
+you got DNA RNA mRNA and proteins I
+think that the basic the basic nature of
+all these machine learning techniques is
+they're they're basically pattern
+recognition systems so they're these
+like very deep statistical machines um
+that are very efficient at finding
+patterns um so it's it's not actually
+you you don't need to teach a a language
+model that's trying to you know speak a
+language um you know a lot of specific
+things about that language either you
+just feed it in a bunch of examples and
+then you know let's say you teach it
+about something um in English but then
+you also give it a bunch of examples of
+people speaking Italian um it'll
+actually be able to explain the thing
+that it learned in English and Italian
+right even though so the crossover and
+just the pattern recognition um is the
+thing that is pretty profound and
+Powerful about this but it really does
+apply to a lot of different things
+another example in the scientific
+Community um has been the work that
+Alpha fold you know that that basically
+the um the folks at Deep Mind have done
+on on protein folding um it's you know
+just basically a lot of the the same
+model architecture but instead of
+language there they fold they they kind
+of fed in all of these the protein data
+and you can give it a state and it can
+spit out solution to how those proteins
+get folded so it's very powerful I don't
+think we know yet as an industry what
+the um what the natural limits of it are
+and that that's one of the things that's
+pretty exciting about the current state
+but um it certainly allows you to solve
+problems that just weren't solved with
+the generation of machine learning that
+came before it sounds like czi is moving
+a lot of work that was just done in
+vitro in dishes um and in Vivo in um
+living organisms model organisms or
+humans to in silico as we say so um do
+you foree a future where a lot of
+biomedical research certainly the the
+work of CCI um included is done by
+machines I mean obviously it's much
+lower cost um and you can run millions
+of experiments which of course is not to
+say that humans are not going to be
+involved um but I love the idea that we
+can run experiments in silico um and
+Mass
+I I think the ENC silic experiments are
+going to be incredibly helpful to test
+things quickly to cheaply and to um to
+just unleash a lot of creativity I do
+think you need to be very careful about
+making sure it still translates and
+matches this uh humans um you know one
+thing that's funny in uh basic Sciences
+we've basically cured every single
+disease in mice like mice have uh we we
+know what's going on when they have a
+number of diseases because they're where
+they're used as a model organism but
+they are not humans and a lot of times
+that research is relevant but not
+directly one toone translatable to
+humans so you just have to be really
+careful about making sure that it
+actually works for
+humans sounds like what czi is doing is
+actually creating a new field like I as
+I'm hearing all of this I'm thinking
+okay this this transcends
+Immunology Department you know
+cardiothoracic surgery I mean
+Neuroscience I mean the idea of of a new
+field where you certainly embrace the
+realities of universities and
+Laboratories because that's where most
+of the work that your funding is done is
+that right it's okay so um maybe we need
+to think about what it means to do
+science differently and I think that's
+one of the things that's most exciting
+um along those lines it seems that
+bringing together a lot of different
+types of people different uh major
+institutions um is going to be
+especially important so I know that the
+initial CCI biohub um gratefully um
+included Stanford um we'll put that
+first in the list um but also UCSF yeah
+forgive me they many friends at UCSF and
+also Berkeley um but there are now some
+additional institutions involved so
+maybe you could talk about that and what
+motivated the decision to Branch outside
+the Bay Area and um and why you selected
+those particular additional institutions
+to be included well I mean I'll I'll
+just say part of a big part of why we
+wanted to create additional biohub is we
+were just so impressed by the work that
+the folks who are running the first
+biohub did yeah um and I also think and
+you should walk through the the uh work
+of the Chicago biohub and the New York
+biohub that we just announced but I
+think it's actually an interesting set
+of examples that balance um the limits
+of what you want to do with like
+physical material engineering and and um
+and and where things are purely
+biological because the Chicago team is
+really building more sensors to be able
+to understand what's going on in your
+body but that's more of like a physical
+kind of engineering challenge whereas
+the the New York team we basically talk
+about this as like a cellular endoscope
+of being able to have like an immune
+cell or something that can go and
+understand um you know what is like
+what's a thing that's going on in your
+body but it's not like a physical piece
+of Hardware it's a cell that you can
+basically um you know have have um uh
+just go report out on on on different
+things that are happening inside the
+body so so making to sell the microscope
+totally and and then and then eventually
+actually being able to act on it but I
+mean but you should you should go into
+more detail on all this so a core
+principle of how we think about bioh
+hubs it is that it has to be um when we
+invited proposals it has to be at least
+three institutions um so really breaking
+down the barrier of a single University
+often times asking for the people
+designing the research aim to come from
+all different backgrounds um and to
+explain why that the problem that they
+want to solve uh requires
+interdisciplinary in interuniversity
+institution collaboration to actually
+make happen um we just put that request
+for proposal out there U with our San
+Francisco biohub as an example where
+they've done incredible work in single
+cell biology and infectious disease and
+we got I I want to say like 57 proposals
+from over 150 institutions a lot of
+ideas came together and you know we are
+so so excited that we've been able to
+launch Chicago and New York um Chicago
+is a collaboration between uiu uh
+University of Illinois ARA champagne and
+University of Chicago and Northwestern
+um and if I obviously these universities
+are multifaceted but if I were to sort
+of describe them by their like
+stereotypical strength Northwestern has
+an critical medical um uh system and
+hospital system University of Chicago
+brings to uh the table incredible basic
+science strengths uh University of
+Illinois is a Computing Powerhouse and
+so they came together and proposed that
+they were going to start thinking about
+cells and in tissue um so that one of
+the one of the layers that you just
+alluded to so how do the cells that we
+know behave and act differently when
+they come together as a tissue and the
+fir one of the first tissues that
+they're starting with is skin so they've
+been already been able to um as a
+collaboration under the leadership of
+sha Kelly design um AR uh engineered
+skin tissue the architecture looks the
+same as what's in you and I and what
+they've done is built these th super
+super thin sensors and they embed these
+sensors um throughout the layers of this
+engineered tissue and they read out the
+data they want to see how these cells
+what these cells are secreting how these
+cells talk to each other and what
+happens when these cells get inflamed um
+inflammation is an incredibly important
+process that drives 50% of all deaths um
+and so this is another sort of disease
+agnostic approach we want to understand
+inflammation and they're going to get a
+ton of information out from these
+sensors that tell you what H happens
+when something goes ay cuz right now we
+can say like when you have an allergic
+reaction your skin gets red and puffy
+what is the earliest signal of that and
+these sensors can look at the behaviors
+of these cells over time and then you
+can apply a large language model to look
+at the earliest statistically
+significant changes that can allow you
+to intervene um as early as possible so
+that that's what Chicago's doing they're
+starting in the um uh skin cells they're
+also looking at the neuromuscular
+Junction
+um which is the connection between where
+a neuron uh attaches to a muscle and
+tells the muscle how to behave super
+important in things like ALS but also in
+aging um the slowed transmission of
+information across that neuromuscular
+Junction is what causes old people to
+fall their brain cannot trigger their
+muscles to react fast enough and so we
+want to be able to embed these sensors
+to understand how these different um uh
+interconnected systems within our bodies
+work work together in New York uh
+they're doing uh a related uh but uh
+equally exciting project where they're
+um engineering individual cells to be
+able to um go in and identify changes in
+uh in a human body so um what they'll do
+is uh they're calling us it's wild I
+mean I love it I mean it's this is we I
+don't want to go on a tangent but for
+those that want to look it up Adaptive
+Optics you know there's a lot of uh
+Distortion and interference when you try
+and look at something really small or
+really far away and really smart
+physicists uh figured out well use the
+interference as part of the microscope
+make those actually lenses of the
+microscope we should talk about Imaging
+separates talk about new yor it's
+extremely clever along those lines it's
+not intuitive but then when you hear it
+it's like it makes so much sense you
+know it's not immediately intuitive make
+the cells that are already can navigate
+to tissues or embed themselves in
+tissues be the microscope within that
+tissue love
+um the the the way that I explain this
+to my friends and my family is this is
+Fantastic Voyage but real life um like
+we are going into the human body and
+we're using the immune cells which you
+know are privileged and already working
+to keep your body healthy and being able
+to Target them to examine certain things
+so like you can engineer an immune cell
+to go in your body and look inside your
+coronary arteries and say are these
+arteries um healthy or their plaques
+because because plaques lead to blockage
+which lead to heart attacks um and the
+cell can then record that information
+and report it back out that's the first
+half what the New York biohub is going
+to do fantastic the second half is can
+you then engineer the cells to go do
+something about it can I then tell a
+different cell immune cell that is able
+to transport in your body to go in and
+clean that up in a targeted way and um
+so I it's incredibly exciting they're
+going to study
+things that are sort of immune privilege
+that your immune system normally doesn't
+have access to um things like ovarian
+and pancreatic cancer um they'll also
+look at a number of neurod degenerative
+diseases since um the immune system
+doesn't presently have a ton of access
+into the nervous system uh but they it's
+it's both mind-blowing and it feels like
+sci-fi but science is actually in a
+place where if you really pushed a group
+of incredible qualified scientists say
+could you do this if given the chance
+the answer is like probably give us
+enough time the bright team and
+resources like it's doable yeah I mean
+it's a it's a 10 to 15E project yeah but
+it's it's awesome engineered cells yeah
+I I love the optimism and and the moment
+you said make the cell the microscope so
+to speak I was like yes yes and yes it
+it just makes so much sense what
+motivated the decision to do the work of
+of czi um in the context of existing
+universities as opposed to you know
+there's still some real estate up in
+Redwood City where there's a bunch of
+space to put biotech companies and just
+hiring people from all all backgrounds
+and and saying hey you know have at it
+and and doing this stuff from scratch I
+mean it's a it's a very interesting
+decision to do this in the context of an
+existing framework of like graduate
+students that need to do the thesis and
+get a first author paper because there's
+a whole set of structures within
+Academia that I think both facilitate
+but also limit the progression of
+science you know that independent
+investigator model that we talked about
+a little bit earlier it it's so core to
+the way science has been done this is
+very different and frankly sounds far
+more efficient if I'm to be completely
+honest and um you know we'll see if I
+renew my NIH funding after saying that
+but um but I think we all want the same
+thing we all want to as scientists and
+and as um you know as humans we want to
+understand the way we work and we want
+um healthy um people to persist to be
+healthy and we want sick people to get
+healthy I mean that's really ultimately
+the goal it's not not super complicated
+it's just hard to do so the teams at the
+biob are actually um independent of the
+universities got it so each biohub will
+probably have in total maybe 50 people
+working on sort of deep efforts however
+it's an acknowledgement that not all of
+the best scientists who can contribute
+to this area are actually um going to
+one want to leave a university or want
+to take on the full-time scope of this
+project so it's the ab ability to
+partner with
+universities um and to have the faculty
+at all the universities be able to
+contribute to the overall project um is
+how the biohub is structured got it but
+a lot of the way that we're approaching
+CI is this long-term iterative project
+to figure out try a bunch of different
+things figure out which things produce
+the most interesting results and then
+double down on those in the next
+fiveyear push right so we're we just
+went through this period where we kind
+of wrapped up the first five years of
+the science program we tried a lot of
+different models right all kinds of
+different things and um it's not that
+the biohub model we don't think it's
+like the best or only model but we we
+found that it was sort of a a a really
+interesting way to unlock a bunch of
+collaboration and bring some Technical
+Resources that allow for this longer
+term development and it's not something
+that is widely um being pursued across
+the rest of the field so we figured okay
+this is like a an interesting thing that
+we can that we can help push on but I I
+mean yeah we do believe in the
+collaboration um but I I also think that
+we come at this with you know we don't
+think that the way that we're pursuing
+this is like the only way to do this or
+the way that everyone should do it we're
+we're pretty aware of you know the um
+you know what is the rest of the
+ecosystem and how we can play a unique
+role in it it feels very synergistic
+with the way science is already done and
+also fills in an incredibly important
+Niche that frankly wasn't filled before
+um along the lines of implementation so
+let's say um your large language models
+combined with imaging tools that um
+reveal that a particular set of genes um
+acting in a cluster um I don't know set
+up an an organ crash let's say the P the
+pancreas crashes a particular stage of
+of pancreatic cancer I mean still one of
+the most deadliest of the of the Cancers
+and um uh there are others that you
+certainly wouldn't want to get that's
+among the the ones you wouldn't want to
+get the most so you discover that and
+then and the idea is that okay then um
+AI reveals some potential drug targets
+that then bear out in vitro in a dish
+and in a mouse model um how is the
+actual implementation of to drug
+Discovery or even maybe this target is
+druggable maybe it's not maybe it
+requires some other approach you know uh
+laser laser ablation approach or
+something we we don't know but
+ultimately is czi going to be involved
+in the impementation of new Therapeutics
+is that the idea I less so less so uh
+that's you know this is where it's
+important to work in an ecosystem and to
+know your own limitations like there are
+groups and startups and companies that
+take that and bring it to translation
+very effectively I would say the place
+where we have a small window into that
+world is actually our work with rare
+disease groups um we we have uh through
+our rare as one portfolio funded Patient
+Advocates to create um rare disease
+organizations where patients come
+together uh and uh actually pull their
+collective experience uh they build bio
+Registries Registries of their natural
+history and they both partner with uh
+researchers to do the research about
+their disease and with uh drug
+developers to uh incentivize drug
+developers to focus on what they may
+need for their disease and you know one
+thing that's important to point out is
+that rare diseases aren't rare there are
+over 7,000 rare diseases and uh
+collectively impact many many
+individuals and I think the thing that's
+from
+a basic science uh perspective the an
+incredibly fascinating thing about rare
+diseases is that there are actually
+Windows to how the body normally should
+work and so there are often uh mutations
+that that when uh when genes that were
+when they are mutated cause very
+specific diseases but that tell you how
+the normal biology works as well got it
+so you discussed basically the the goals
+major goals in initiatives of the czi
+for the next say 5 to 10 years um and
+then beyond that the targets will be
+explored by biotech companies um they'll
+grab those targets and and test them and
+and Implement them there have also I
+think been a couple cple of teams from
+the initial biohub that were interested
+in spinning out ideas right into
+startups so that's just it's even though
+it's not a thing that we're going to
+pursue because I we're a philanthropy um
+we want to enable the work that gets
+done to be able to get turned into
+companies and things that other people
+go take and and and run towards towards
+building you know ultimately
+Therapeutics so that that's that's
+another Zone but that's just that's not
+a thing that we're going to do yeah got
+it um I gather you're both optimists mhm
+yeah is that part of what brought you
+together forgive me for switching to a
+personal question but I love the
+optimism um that that seems to sit at
+the root of the czi I will say that we
+are uh incredibly hopeful people but it
+it manifests in different ways between
+the two of us yeah what what do you how
+would you describe your optimism versus
+mine it's not a loaded question
+um I don't know um
+huh I mean I think I'm more probably
+technologically optimistic about what
+can be built and I think you because of
+your focus as you know an actual doctor
+um kind of have more of a sense of how
+that's going to affect actual people in
+their lives um whereas for me it's like
+I me a lot of my work it is you know
+it's like we touch a lot of people
+around the world um and the scale is
+sort of immense and I think for you just
+like it's like being able to improve the
+lives of individuals whether it's you
+know students at any of the schools that
+you've started or any of the stuff that
+we've supported through the education
+work which isn't the goal here or you
+know like just being able to improve
+people's lives in that way I think is
+the thing that I've seen you be super
+passionate about I don't know does that
+do you agree with that characterization
+I'm trying I'm trying to yeah I agree
+with that I think that's very fair and
+I'm sort of giggling to myself cuz in a
+day-to-day life as like life Partners
+our relative optimism comes through as
+uh Mark just like is overly optimistic
+about his time management and will get
+engrossed in interesting ideas I'm late
+and he's late and I Physicians are very
+punctual and because he's late I have to
+channel Mark as an optimist whenever I'm
+waiting for him that's such a nice way
+okay I'll I'll start using that I that's
+what I think when I'm in the driveway
+with the kids waiting for you I'm like
+Mark is an optimist um and so his
+optimism translates to some tardiness
+whereas I'm a sort of I'm like how does
+what's how is how is this going to
+happen like I'm going to open a
+spreadsheet I'm going to start putting
+together a plan and like a putting
+pulling together all the pieces calling
+people to sort of like bring something
+to life but it is it's one one of my
+favorite quotes that is optimists tend
+to be successful and pessimists tend to
+be
+right and yeah I mean I think it's it's
+true in a lot of different aspects of
+life right we know who said that did you
+say that Mark I did I did not
+abely no I like it I did not invent it
+um we'll give it to you we'll put it out
+there just but but I I do think that
+there's really something to it right I
+there's like if you're discussing any
+idea there's all these reasons why it
+might not work and so I I I think that
+and those reasons are you know probably
+true the people who are stating them are
+you know probably have some validity to
+it but the question is that is that the
+most productive way to view the world
+and you know I think across the board
+you I think the people who tend to be
+the most productive and get the most
+done um you kind of need to be
+optimistic because if you don't believe
+that something can get done then why
+would you go work on it the reason I
+asked the question is that you know that
+these days we hear a lot about you know
+the future is looking so dark in these
+various ways and um you have children so
+you have families and um you are a
+family excuse me and and you also have
+families independently um that are now
+merged but um I love the optimism behind
+the czi because you know you know behind
+all this there's sort of a set of big
+statements on the wall one uh the future
+can be better than the present in terms
+of treating disease maybe even you said
+eliminating diseases all diseases I love
+that optimism um and that there's a
+tractable path to do it like we're going
+to put put literally you know money and
+time and energy and people and
+technology and AI behind that and so um
+I have to ask uh was having children um
+a significant um modifier in terms of
+your your view of the future like wow
+like you hear all this Doom and Gloom
+like what's the future going to be like
+for them did you sit back and think you
+know what would it look like if there
+was a future with no diseases um is that
+the future we want our children in I
+mean I I'm voting a big yes so we're not
+going to we're not going to debate that
+at all but was having children a sort of
+an inspiration for the CCI in some way
+yeah so I think my answer to that um I
+would dial backwards for me um and I'll
+just tell a very brief uh story about my
+family I'm the daughter of Chinese
+Vietnamese uh refugees um my parents and
+Grandparents were boat people if you
+remember people left Vietnam during the
+war in these small boats into the South
+China Sea and um the there were stories
+about how these boats would sink with
+whole families on them and so my
+grandparents who both sets of
+grandparents who knew each other decided
+that there was a better future out there
+and they were willing to take risk for
+it um but they were afraid of losing all
+of their kids I my dad is one of six my
+mom is one of 10 and so they decided
+that there was something out there in
+this Bleak time and they paired up their
+kids one from each family and sent them
+out on these little boats before the
+internet before cell phones and just
+said we'll see you on the other side wow
+and um the kids were between the ages of
+like you know 10 to 25 so young kids my
+my mom was a teenager early teen when
+this happened um and everyone made it
+and I get to sit here and talk to you so
+how could I not believe that like better
+is possible and like I hope that that's
+in my like epigenetic somewhere and then
+I carry that on that is a spectacular
+story isn't that wild it is spectacular
+how can I be a pessimist with that I
+love it well and I so appreciate that
+you became a physician because you're
+now bringing that optimism and
+epigenetic understanding and cognitive
+understanding and emotional
+understanding to the field of medicine
+so I'm grateful to um the people that
+made that decision yeah and then you
+know when I think you don't re i' I've
+always known that story but you don't
+understand how Wild that feels until you
+have your own child and you're like well
+I can't even I I refuse to let her use
+you know glass bottles only or something
+like that and you're like oh my God like
+the risk and sort of willing of my
+grandparents to believe in something
+bigger and better um is just astounding
+and it Al our own children sort of give
+it a sense of
+urgency again spectacular story and of
+you're sending knowledge out into the
+fields of Science and bringing knowledge
+into the fields of Science and I love
+this we we'll see on the other side yeah
+I'm I'm confident that it will all come
+back well thank you so much for that I
+um Mark you have the opportunity to talk
+about did having kids change your world
+view it's really tough to beat that
+story it is tough to beat that story and
+they are also your children so in this
+case you know you get uh you get um two
+for the price of one so to speak so
+having children definitely changes your
+time Horizon so I that that's one thing
+is you just like there were all these
+things that I think we had talked about
+and for as long as we've known each
+other that you eventually want to go do
+but then it's like oh we're having kids
+we we need to like get on this right so
+I think there's that was actually of the
+checklists the baby checklist before the
+first was like the baby's coming you
+have to like start czi um truly and like
+sitting in the hospital delivery room
+finishing editing the letter that we
+were going to publish to to announce
+think that is an exaggeration it was not
+we really were editing the final draft
+birth czi before you bir human
+child well it's it's an incredible
+initiative I've I've been following it
+since its Inception and um and it's
+already been tremendously successful and
+everyone in the field of science and I
+have a lot of communication with those
+folks it feels the same way and and the
+future is even brighter for it it's
+clear and thank you for expanding to the
+Midwest and and New York and um uh we're
+all very excited to see where all of
+this goes I share in your optimism you
+and thank you for your time today thank
+you thank you a lot more to do I'd like
+to take a quick break and thank our
+sponsor insid tracker insid track is a
+personalized nutrition platform that
+analyzes data from your blood and DNA to
+help you better understand your body and
+help you reach your health goals now
+I've long been a believer in getting
+regular blood work done for the simple
+reason that many of the factors that
+impact your immediate and long-term
+Health can only be analyzed from a
+quality blood test a major problem with
+a lot of blood tests out there however
+is that you get information back about
+metabolic factors lipids and hor
+hormones and so forth but you don't know
+what to do with that information with
+inside tracker they make it very easy
+because they have a person ized platform
+that allows you to see the levels of all
+those things metabolic factors lipids
+hormones Etc but it gives you specific
+directives that you can follow that
+relate to nutrition behavioral
+modifications supplements Etc that can
+help you bring those numbers into the
+ranges that are optimal for you if you'd
+like to try insid tracker you can go to
+insid tracker.com huberman to get 20%
+off any of insid tracker's plans again
+that's insidetracker tocom huberman and
+now for my discussion with Mark
+Zuckerberg slight shift of topic
+here you're extremely well known for
+your role in technology development but
+by virtue of your personal interests and
+also where Metate technology interfaces
+with mental health and physical health
+you're starting to become synonymous
+with health whether you realize it or
+not um part of that is because there's
+um post footage of you rolling Jiu-Jitsu
+you wanted Jiu-Jitsu competition
+recently um you're doing other forms of
+martial
+arts water sports including surfing and
+um and on and on so um you're doing it
+yourself but maybe we could just start
+off with technology and get this issue
+out of the way um first which is that I
+think many people assume that technology
+especially technology that involves a a
+screen excuse me of any kind is going to
+be detrimental to our health but that
+doesn't necessarily have to be the case
+so could you um explain how you see
+technology um meshing with inhibiting or
+maybe even promoting physical and mental
+health sure I mean I think this is a a
+really important topic it's um you know
+the research that we've done suggests
+that it's not like all good or all bad I
+think how you're using the technology
+has a big impact on whether it is
+basically a positive experience for you
+and even within technology even within
+social media there's not kind of one
+type of thing that people do I think at
+its best you're forming uh meaningful
+connections with other people and you
+know there's a lot of research that
+basically suggests that you know it's
+it's the relationships that we have and
+you know friendships that kind of bring
+the most happiness and in our lives and
+at some level end up even correlating
+with living a longer and healthier life
+because you know that kind of you know
+grounding that you have in community
+ends up being important for that so I
+think that that aspect of social media
+which is um you know the ability to
+connect with people to understand what's
+going on in people's lives have empathy
+for them um communicate what's going on
+with your life Express that that's
+generally positive there there are ways
+that it can be negative in terms of um
+bad interactions things like bullying um
+which we can we can talk about because
+there's a lot that we've done to
+basically make sure that that people can
+be safe from that and give people tools
+and give kids um the ability to have the
+right parental controls so their parents
+can oversee that but that's sort of the
+interacting with people's side there's
+another side of of all this which I
+think of as just like passive
+consumption which it at its best um It's
+Entertainment right and entertainment is
+an important human thing too but I don't
+think that that has quite the same
+association with the long-term
+well-being and health um benefits as
+being able to help people connect with
+other people does um and I think at its
+worst
+um some of the stuff that we see
+online um you I think these days a lot
+of the news is just so relentlessly
+negative um that it's just hard to you
+know come away from an experience where
+you're you know looking at the news for
+you know half an hour and like feel
+better about the world
+so I think that there's a mix on this um
+I think the more that social media is
+about connecting with people um and the
+more that when you're kind of consuming
+and using um the the media part of
+social media um to learn about things
+that kind of enrich you and can provide
+inspiration or education as opposed to
+things that um just leave you with a
+more toxic feeling and that that's sort
+of the the balance that we try to to get
+right across our products and think
+we're pretty aligned with the community
+because at the end of the day you know I
+mean people don't want to use a product
+and come away feeling bad you know
+there's a lot that people talk about
+um evaluate a lot of these products in
+terms of information and utility but I
+think it's as important when you're
+designing a product to think about what
+kind of feeling you're creating with the
+people who use it right whether that's
+kind of an aesthetic sense when you're
+designing Hardware or just kind of like
+what like what do you what do you make
+people feel and generally people don't
+want to feel bad right so I I think when
+you know that doesn't mean that we want
+to you know shelter people from bad
+things that are happening in the world
+but I I don't really think that you know
+it's not what people want um you know
+for us to just be kind of just showing
+like all this super negative stuff all
+day long um so we so we work hard on all
+these different problems you know making
+sure that we're helping connect people
+as best as possible helping make sure
+that we give people good tools um to
+block people who might be bullying them
+or harass them or especially for younger
+folks you know anyone under the age of
+16 defaults into an experience where
+their experience is private we have all
+these parental tools um so that way you
+know parents can can kind of understand
+what what their children is up to are up
+to in a good balance um you and then on
+the other side we try to give people
+tools to understand how they're spending
+their time um and we try to give people
+tools so that you know if you're if
+you're a teen and and you're kind of
+stuck in some you know Loop of of just
+looking at type of content will nudge
+you and say hey you've been looking at
+content of this type for a while like
+how about something else and here's
+here's a bunch of other examples so
+there were things that you can do to
+kind of push this in a positive
+direction but I think it just starts
+with having a more nuanced view of like
+this isn't all good and all or all bad
+and the more that you can make it kind
+of a positive thing the the better this
+will be for all the people who use our
+products that makes really good sense in
+terms of the negative experience I agree
+I don't think anyone wants a negative
+experience in the moment I think we're
+some people get concerned perhaps and I
+think about my own interactions with say
+Instagram which I use all the time um
+for getting information out but also
+consuming information and I happen to
+love it it's where I essentially
+launched the non-podcast segment of my
+podcast and continue
+to I can think of experiences that are a
+little bit like um highly processed food
+where it tastes good at the time it's uh
+it's highly engrossing but it's not
+necessarily nutritious and you don't
+feel very good after afterwards so for
+me that would be my the little collage
+of default um options to click on in
+Instagram occasionally I notice and this
+just reflects my failure not Instagrams
+right that there are a lot of um like
+street fight things like of people
+beating people up on the street and I
+have to say these have a very strong
+gravitational pull I'm not somebody that
+enjoys seeing violence per se but you
+know I find myself I'll click on one of
+these like what happened and I'll see
+someone like you know get hit and
+there's like a little melee on the
+street or something and those seem to be
+offered to me a lot lately and again
+this is my fault it reflects my prior
+searching experience but it I notice
+that it has a bit of a gravitational
+pull where um you know there's not I
+didn't learn anything it's not teaching
+me any kind of useful Street um
+self-defense skills of any kind um and
+at the same time I also really enjoy
+some of the the cute animal stuff and so
+I get a lot of those also so there's
+this polarized you know collage that's
+off to me that reflects my prior search
+Behavior You could argue that the the
+cute animal stuff um is just
+entertainment but actually it it fills
+me with a feeling in some cases that
+truly Delights me I Delight in animals
+and we're not just talking about kittens
+I mean animals I've never seen before
+interactions between animals I've never
+seen before that truly Delight me they
+energize me in a positive way that when
+I leave Instagram I do think I'm better
+off so I'm grateful for the algorithm in
+that sense
+but I guess the direct question is is
+the algorithm just reflective of what
+one has been looking at a lot prior to
+that moment where they log on or is it
+also trying to do exactly what you uh
+described which is trying to give people
+a good feeling experience that leads to
+more good
+feelings yeah I mean I think we try to
+do this in a long-term way right I think
+one simple example of this is we had
+this issue a number of years back about
+clickbait news right so articles that
+would have um you know basically a a
+headline um that grabbed your attention
+that made you feel like I need to click
+on this then you click on it and then
+the article is actually you know about
+something that's somewhat tangential to
+it um but people clicked on it so you
+know the naive version of this stuff you
+know the like 10-year-old version it was
+like oh people seem to be clicking on
+this maybe that's good but it's actually
+a pretty straightforward exercise to
+instrument the system to realize that
+hey people click on this and then you
+know they don't really spend a lot of
+time reading the the news that after
+clicking on it and um after they do this
+a few times they you know it doesn't
+really correlate with them you know
+saying that they're having a good
+experience um some of what you some of
+how we we measure this is just by
+looking at how people use the services
+but I think it's also important to
+balance that by having like real people
+come in and you know tell us okay we we
+show them here are the stories that we
+could have showed you which of these um
+are most meaningful to you or would
+would make it that you have the best
+experience and just kind of like mapping
+the algorithm and what we do to that
+ground truth of what people say that
+they want so I I think that through a
+set of things like that we really have
+you made large steps to minimize things
+like clickbait over time it's not gone
+from the internet but you I think we've
+done a good job of minimizing it on on
+our
+services within that though I do think
+that we need to be pretty careful about
+not being paternalistic about what makes
+different people feel good right so I
+mean I don't know that everyone feels
+good about about cute animals and me I
+can't imagine that people would feel
+really bad about it but maybe they don't
+have as profound of a positive reaction
+to it as as as you just expressed um and
+I don't know maybe people who are more
+into fighting would look at the you know
+the street fighting videos assuming that
+they're within our community standards I
+think that there's a level of violence
+that we just don't want to be showing at
+all but that's a a separate question um
+but if they are I mean then you know
+it's like I I'm pretty into MMA I I I
+don't get a lot of street fighting
+videos but if I did maybe I I'd feel
+like I was learning something from that
+um I I think at various times in the
+company's history we've been a little
+bit too paternalistic about saying this
+is good content this is bad you should
+like this um this is unhealthy for you
+and I I think that we want to look at
+the long-term effects you don't want to
+get stuck in a in a shortterm loop of
+like okay just because you did this
+today doesn't mean it's like what you
+Aspire for yourself over time but
+I think as long as you look at the long
+term of what people both say they want
+and what they do giving people a fair
+amount of latitude to like the things
+that they like I I just think feels like
+the right set of values to bring to this
+um now of course that doesn't go for
+everything there are things that are
+kind of truly off limits and and you
+know things that you know like bullying
+for example or you know things that are
+really like inciting violence things
+like that I we have the whole Community
+standards around this but I I think
+except for those things which I would
+hope that most people can agree okay
+bullying is bad right I I I hope that
+you know 100% of people agree with that
+you know not 100 maybe
+99% um except for the things that kind
+of get that sort of
+very that that feel pretty extreme and
+bad like that I think you want to give
+people space to like what they want to
+like yesterday I had the um very good
+experience of learning from The Meta
+team about safety protections that are
+in place for kids who are using um meta
+platforms and frankly I was like really
+positively surprised at the huge number
+of filter-based tools and and and just
+ability to customize the experience so
+that it can um stand the best chance of
+enriching not just remaining neutral but
+enriching their mental health status
+yeah um one thing that came about in
+that conversation however was I realized
+there all these tools but do people
+really know that these tools exist and I
+think about my own experience with
+Instagram I I love watching Adam aer's
+Friday um q&amp;as because he explains a lot
+of the tools that I didn't know existed
+um and people haven't seen that I highly
+recommend they watch that um it's I
+think every takes questions on Thursdays
+and answers them most every Fridays um
+so if I'm not aware of the tools without
+watching that um that exists for adults
+um how does meta look at the challenge
+of making sure that people know that
+there are all these tools I mean dozens
+and dozens of very useful tools but I
+think most of us just know the hashtag
+the tag The Click Stories versus feed uh
+we now know that that you know I also
+post to threads I mean so so we know the
+major channels and tools but um this is
+like owning a vehicle that has
+incredible features that one doesn't
+realize can take you Offroad can allow
+your vehicle to fly I there's a lot
+there so uh what could what do you think
+could be done to get that information
+out maybe this conversation could cue
+people to to their I me that's that's
+part part of the reason why I wanted to
+talk to you about this is I mean I think
+most of the narrative around social
+media is not okay all the different
+tools that people have to control their
+experience it's you know the kind of
+narrative of is this just negative for
+for for teens or something and and I
+think again a lot of this comes down to
+you know do um you know how is the
+experience being tuned and is it
+actually you know like are people using
+it to connect and in positive ways and
+if so I think it's really positive um so
+yeah I me I think part of this is we
+probably just need to get out and talk
+to people more about it um and then
+there's an in product aspect which is
+you know if you're a teen and you sign
+up we take you through a pretty um you
+know extensive experience that um tries
+to outline some of this but that has
+limits too right because when you sign
+up for a new thing um if you're
+bombarded with like here's a list of of
+of features you're like okay I just
+signed up for this really understand
+much about what the services like let me
+go find some people to follow um who are
+my friends on here before I like learn
+about controls to you prevent people
+from harassing me or something um that's
+why I think it's really important to
+also show uh a bunch of these tools in
+context so you know if you're looking at
+comments um and you know if you if you
+go to you know delete a comment or um
+you go to edit something you know try to
+give people prompts in line it's like
+hey did you know that you can manage
+things in in these ways um around that
+or when you're in the Inbox and you're
+filtering something right it's um remind
+people in line so I know just because of
+the number of people who use the
+products and the level of nuance
+surrounding to the controls I think the
+vast majority of um of that education I
+think needs to happen in the product but
+I do think that through conversations
+like this and and others that you know
+we we need to be doing I think we can
+create a broader awareness that those
+things exist so that way at least people
+are primed so that way when those things
+pop up in the product people like oh
+yeah like I I knew that there was this
+control and like here's here's like how
+I would use that like I find the
+restrict function to be very useful um
+more than the block function in most
+cases I I do sometimes have to loock
+people but the restrict function is
+really useful that you could filter
+specific comments you know someone might
+have a you might recognize that someone
+has a tendency to be a little aggressive
+and I should point out that I actually
+don't really mind what people say to me
+but I try and maintain what I call
+classroom rules in my comment section
+where I don't like people attacking
+other people because I would never
+tolerate that in the University
+classroom I'm not going to tolerate that
+in the comment section for instance yeah
+and I think that the example that you
+just you just used about restrict versus
+block gets to something about product
+design that's important too which is
+that block is sort of this very powerful
+tool that if someone is giving you a
+hard time and you just want them to
+disappear from the experience you can do
+it but the design tra off with that is
+that in order to make it so that the
+person is just gone from the experience
+um and that you you don't show up to
+them they don't show up to you um
+inherent to that is that they will have
+a sense that you blocked them and that's
+why I think some stuff like restrict or
+just filtering like I I just don't want
+to see as much stuff about this topic um
+you know people like using different
+tools for very subtle reasons right I
+mean maybe um maybe you want the content
+to not show up um but you don't want the
+person who's posting the content to know
+that you don't want it to show up um
+maybe you don't want to get the messages
+in your main inbox but you don't want to
+tell the person that you like that you
+actually you know that you're not
+friends or something like that I you
+actually need to give people different
+tools that have different levels of of
+kind of power and Nuance around how the
+social dynamics around using them play
+out um in order to really allow people
+to tailor the experience in the ways
+that they want in terms of trying to
+limit total amount of time on social
+media um I couldn't find really good
+data on this um you know how much time
+is too much I mean I think it's going to
+depend on what one is looking at the age
+of the user Etc but I agree I I know
+that you have tools that cue uh the user
+to how long they've been on a given
+platform are there tools to
+self-regulate like I'm thinking about
+like the the Greek myth of the sirens
+and you know people you know tying
+themselves to the Mast and covering
+their eyes so that they're not drawn in
+by by the sirens is there a function
+aside from deleting the app temporarily
+and then reinstalling it every every
+time you want to use it again is there a
+true lockout self lockout function where
+one can lock themselves out of access to
+the app well I think we give people
+tools that let them manage this and and
+and there's the tools that you get to
+use and there's the tools the parents
+get to use um to basically see how how
+the usage works but yeah I think that
+there's there's different kind of you I
+think for now we've mostly focused on
+you know helping people understand this
+and then you know give people reminders
+and things like that um it's tough
+though to answer the question that you
+were talking about before this of is
+there an amount of time which is too
+much because it does really get to what
+you're doing but if you fast forward
+Beyond just the apps that we have today
+to an experience that is like a social
+experience in the future of the
+augmented reality glasses or something
+that that we're building a lot of this
+is going to be you know you're
+interacting with people um in the way
+that you would physically as if you were
+kind of like hanging out with friends or
+working with people um but now they can
+show up as Holograms and you can feel
+like you're present right there with
+them no matter where they actually are
+and the question is is there too much
+time to spend interacting with people
+like that well at the limit if we can
+get that experience to be kind of as
+rich and giving you as good of a sense
+of presence um
+as you would have if you were physically
+there with someone then I don't see why
+you would want to restrict the amount
+that people use that technology to any
+less than what would be the you know
+amount of time that you'd be comfortable
+interacting with people physically um
+which obviously it's not going to be 24
+hours a day you have to do other stuff
+um you you have have work you need to
+sleep but I I I think it really gets to
+kind of how you're using these things
+whereas if what you're primarily using
+the services for is to you just you're
+getting stuck in Loops reading you know
+news or something that is really kind of
+getting you into a negative mental state
+then I don't know I mean I think that
+there's probably a relatively short
+period of time that maybe that's kind of
+a good thing that you want to be doing
+um but again even then it's not zero
+right because it's it's you know just
+because news might make you unhappy
+doesn't mean that the answer is to be
+unaware of negative things that are
+happening in the world I just think that
+there's like different people have
+different tolerances for what they can
+take on that and I think we you know
+it's generally having some awareness is
+probably good as long as it's not more
+than you're kind of constitutionally
+able to take so I don't know try to not
+be too paternalistic about this as our
+approach but we want to empower people
+by giving them the tools both people and
+if you're a teen your parents to have
+tools to understand what you're
+experiencing and and what the um and how
+you're using these things and then and
+then go from there yeah I think it
+requires of all of us some degree of
+self-regulation I like this idea of not
+being too journalistic I mean that's uh
+it seems like the right way to go I find
+myself occasionally having to make sure
+that I'm not just passively scrolling
+that I'm learning I I like forging for
+organizing and dispersing information
+that's been my my my life's career so I
+I've learned so much from social media I
+find great papers great ideas I think
+comments are a great source of feedback
+and I'm not just saying that because
+you're sitting here I mean Instagram in
+particular but other meta platforms have
+been tremendously helpful for me to get
+science and health information out one
+of the things that I'm really excited
+about which I only had the chance to try
+for the first time today is your new uh
+VR platforms the the newest Oculus um
+and then we can talk about the glasses
+the rayb bands um those are still that
+those two experiences are still kind of
+blowing my mind especially the the um
+the the Rayband glasses and I I have so
+many questions about this so I'll resist
+but um we can get into that okay well
+yeah I have some experience with VR my
+lab has used VR
+um Jeremy Binson's Lab at at um Stanford
+is one of the pioneering Labs of VR and
+and mixed reality I guess some they used
+to call it augmented reality but now
+mixed reality I think what's so striking
+about the VR that um you guys had me try
+today is how well it interfaces with the
+with the real room let's call it the the
+physical room I could still see people I
+could see where the furniture was so I
+wasn't going to bump into anything I
+could see people's Smiles I could see my
+my um my water on the table while I was
+doing this
+what felt like a real martial arts
+experience except I wasn't getting hit
+uh well I was getting hit virtually but
+it's extremely engaging and yet it on
+the good side of things it really
+bypasses a lot of the early concerns
+that Balin and lab again Jeremy's lab
+was early to say that oh you know
+there's a limit to how much VR one can
+or should use each day um even for the
+adult brain because it can really
+disrupt your um vestibular system your
+sense of balance
+all of that seems to have been dealt
+with in this new this new iteration of
+VR like it didn't come out of it feeling
+dizzy at all I didn't feel like I was
+re-entering the room in a way that was
+really jarring going into it is
+obviously whoa this is a different world
+but you can look look to your left and
+say oh someone just came in the door hey
+how's it going hold on I'm playing this
+game just as it was when I was a kid
+playing a Nintendo and someone would
+walk in it's fully engrossing but you'd
+be like hold on and you see they're
+there so first of all um Bravo um
+incredible um and then the next question
+is you know what is this what do we even
+call this experience because it is truly
+mixed it's a truly mixed reality
+experience yeah I mean mixed reality is
+sort of the umbrella term that refers to
+the combined experience of virtual and
+augmented reality so augmented reality
+is you know what you're eventually going
+to get with you know some future version
+of the smart glasses where you're
+primarily seeing the world right but um
+but you can put Holograms in it right so
+I that will have a in a future where
+you're going to walk into a room and
+there going to be like as many Holograms
+as as physical objects right if you just
+think about like all the paper the kind
+of art physical games media your
+workstation if we refer to let's say an
+MMA fight we could just draw it up on
+the table right here and just see it
+repeat as opposed to us turning and
+looking at a screen yeah I mean pretty
+much any screen that exists could be a
+hologram in the future with smart
+glasses right there's nothing that
+actually physically needs to be there
+for that when you have glasses that can
+put um a holog there and and it's an
+interesting thought experiment to just
+go around and think about okay what of
+the things that are physical in the
+world need to actually be physical and
+your chair does right because you're
+sitting on it a hologram isn't going to
+support you but I like that art on the
+wall I mean that doesn't need to
+physically be there I mean um so I I
+think that that's that's sort of the
+augmented reality experience that we're
+moving towards and then we've had these
+headsets that historically we think
+about as VR and that has been something
+that kind of it's like a fully immersive
+experience but now we're kind of getting
+something that's a hybrid in between the
+two and capable of both which is a
+headset that can do both virtual reality
+and some of these augmented reality
+experiences and I think that that's
+really powerful um both because you're
+going to get new applications that that
+kind of allow people to collaborate
+together and um you know maybe the two
+of us are here physically but you know
+someone joins us and it's their Avatar
+there or maybe you know it's some
+version of the future like we're having
+a you know you're having a team meeting
+and you have some people there
+physically and you have some people
+dialing in and they're basically like a
+hologram there virtually but then you
+also have some AIS that personas that
+are on your team that are helping you do
+different things and they can be
+embodied as avatars and around the table
+meeting with you are people going to be
+doing first dates that are uh physically
+separated I could imagine that some
+people would is it even worth leaving
+the house type date and then they find
+out and then they meet for the first
+time um I mean maybe I think I think you
+know I dating has
+you physical aspects to it too so some
+people might not be they want to know
+whether or not it's worth the effort to
+head out to whether
+not want to The Divide right it is
+possible I mean I know like a some of my
+friends who are dating
+basically you say that in order to make
+sure that they have like a safe
+experience and when they're if they're
+going on a first date they'll schedule
+something that's like shorter and maybe
+in the middle of the day like so maybe
+it's coffee so that way if they don't
+like the person they can just kind of
+get out before like going and scheduling
+a dinner or like a real full date so I
+don't know maybe in the future people
+will will kind of have that experience
+to where you can feel like you're kind
+of sitting there and it's and it's even
+easier and lighter weight and safer and
+if you're not having a good experience
+you can just like teleport out of there
+and be gone um but yeah I think that
+this will be an interesting question in
+the future is um there are clearly a lot
+of things that are only possible
+physically that or are so much better
+physically and then there are all these
+things that we're building up that can
+be digital experiences but it's this
+weird artifact of kind of how the stuff
+has been developed that the digital
+world and the physical world exist in
+these like completely different planes
+where you want to interact with the
+digital world well we do it all the time
+but we pull out a small screen or we
+have a big screen and just basically
+we're interacting with the digital world
+through these screens but I think if we
+fast forward you know a decade or more
+it's I think one of the really
+interesting questions about what like
+what is the world that we're going to
+live in I think it's going to
+increasingly be this mesh of the
+physical and digital worlds that will
+allow us to feel a that the the world
+that we're in is just a lot richer
+because there can be all these things
+that people create that are just so much
+easier to do digitally than than
+physically um
+but at B you're going to have a real
+kind of physical sense of presence with
+these things and not feel like
+interacting in the digital world is
+taking you away from the physical World
+which today is just so much viscerally
+richer and more powerful um I think the
+the digital world will sort of be
+embedded in the in that and um and and
+will feel kind of just as Vivid in a lot
+of ways so that's why I always think and
+when you were saying before you know you
+felt like you could look around and see
+the real room I actually think that
+there's an interesting kind of
+philosophical distinction between the
+real room and the physical room um which
+you know historically I think people
+would have said those are the same thing
+but I actually think in the future the
+real room is going to be the combination
+of the physical world with all the
+digital artifacts and objects that are
+in there that you can interact with them
+and feel present whereas the physical
+world is just the part that's physically
+there and I think it's possible to build
+a real world that's the sum of these two
+that will actually be you know more
+profound experience than what we have
+today I was struck by the smoothness of
+the interface between the VR and the
+physical room uh your team had me try a
+um I guess it was an exercise class in
+the form but it was like essentially
+like hitting mits boxing
+yeah and and it comes at a fairly fast
+pace that then picks up it's got some
+tutorial it's very easy to use and
+certainly got my heart rate up and I'm
+in at least decent shape um and I have
+to be honest I've never once desired to
+do any of these onscreen Fitness things
+I mean I can't think of anything more
+aversive than a like like a CL like I
+don't want to insult any particular
+products um but like riding a stationary
+bike while looking at a screen and
+pretending I'm on a road outside I can't
+think of anything worse for me
+um maybe I do like the leader board
+maybe I'm just a very competitive person
+it's like if you're going to be running
+on a treadmill at least give me a leader
+board so I can beat the people who are
+ahead of me I like moving outside and
+and certainly an exercise class or
+aerobics class as they used to call them
+but what the experience I tried today
+was extremely engaging um and I've done
+enough boxing to at least know how to to
+do a little bit of it and really enjoyed
+it gets your heart rate up and you I
+completely forgot that I was doing an an
+onscreen experience because in part
+because I believe I was still in that
+physical room MH um and I think there's
+something about the mesh of the physical
+room and the virtual experience that um
+makes it neither of one world or the
+other I mean I really felt at the
+interface of those and and certainly got
+presence this feeling forgetting that I
+was in a virtual experience and um got
+my heart rate up pretty quickly we had
+to stop cuz we were going to start
+recording but I would do that for a good
+45 minutes in the morning and and and
+there's no amount of money you could pay
+me truly to uh look at a screen while
+pedaling on a bike or running on a
+treadmill so um again Bravo I think it's
+going to be very useful it's going to
+get people moving their bodies more
+which certainly social media up until
+now and a lot of technologies have been
+accused of limiting the amount of
+physical activity that that both
+children and adults are engaged in so
+and we know we need physical activity
+you're a big proponent of and
+practitioner of physical activity so is
+this a major goal of meta get people
+moving their bodies more and getting
+their heart rates up and and so on I
+think we want to enable it and I I think
+it's good but I I think it comes more
+from like a philosophical view of the
+world than it
+is necessarily I mean I don't go into
+Building Products to try to shape
+people's behavior right I I believe in
+empowering people to you know do what
+they want and be the best version of
+themselves that they can be so No Agenda
+that said I I do believe that there's
+the the previous generation of computers
+were devices for your mind and I think
+that we are not brains and tanks um you
+know it's like I think that there's sort
+of a a philosophical view of people of
+like okay you you are primarily you know
+what you think about or your values or
+something it's like no you are that and
+you are a physical manifestation and
+people were very physical and I think
+building a
+computer for your whole body and not
+just for your mind is very fitting with
+this world view that like the actual
+essence of you if you want to be present
+with another person if you want to like
+be fully engaged in experience is not
+just okay it's not just a video
+conference call that looks at your face
+and where you can like share ideas um
+it's it's something that that you can
+engage your whole body so yeah I I mean
+I think being physical is very important
+to me I mean it's um you know it's it
+just that's a lot of you know the most
+fun stuff that I get to do um it's a
+really important part of how I
+personally balance my energy levels and
+just get a diversity of experiences
+because you I could spend all my time
+running the company um but I think it's
+good for people to do some different
+things and you know compete in different
+areas or learn different things and all
+of that um is good if if people want to
+you know do really intense workouts with
+um with the work that we're doing with
+Quest or with um you know eventual AR
+glasses great but even if you don't want
+to do like a really intense workout I
+think just having a Computing
+environment and platform which is
+inherently physical captures more of the
+essence of what we are as people than
+any of the previous Computing platforms
+that we've had to date yeah I was even
+thinking just of the um simple task of
+getting uh better of motion AKA
+flexibility I could imagine inside of
+the VR experience you know leaning into
+a stretch you know a standard kind of
+like like a lunge type stretch but
+actually seeing a meter of like are you
+get are you approaching new levels of
+flexibility in that moment where it's
+actually measuring some some kinesthetic
+uh elements on the body and the joints
+and I mean I was just trying whereas
+normally you might have to do that in
+front of a camera which then would give
+you the data on a screen that you'd look
+at afterwards or hire an expensive coach
+but so or looking at um form and
+resistance training so you're actually
+lifting physical weights but it's
+telling you whether or not you're
+breaking form I mean there's so much
+that could be done inside of there and
+then my mind just starts to spiral into
+like wow this is very likely to
+transform what we think of as quote
+unquote
+exercise yeah I think so I think there's
+still a bunch of questions that need to
+get answered um you know it's I don't
+think most people are going to
+necessarily want to install you know a
+lot of sensors or cameras to track their
+whole body so we're just over time
+getting better from the sensors that are
+on the headsets of being able to do very
+good hand tracking right so we we have
+this research demo where you now just
+with the hand tracking um from the
+headset you can type it just projects a
+little keyboard onto your table and you
+can type and people like type like a 100
+words a minute with that with a virtual
+keyboard yeah we're starting to be able
+to um using some Modern AI techniques be
+able to like simulate and understand
+where your torso's position is um even
+though you can't always see it you can
+see it a bunch of the time and if you
+fuse together what you do see um with
+like the accelerometer and understanding
+how the thing is moving you can kind of
+understand what the body position is
+going to be um but some things are still
+going to be hard right so you you
+mentioned boxing um that one works
+pretty well because you know we
+understand your head position we
+understand your hands um and and now
+we're we're kind of increasingly
+understanding your your body position um
+but let's say you want to expand that to
+um Muay Thai or kickboxing okay so legs
+that's a different part of tracking
+that's harder um cuz that's out of the
+field of you more of the time but
+there's also the element of resistance
+right so you can throw a punch and
+retract it and shadow box and you know
+do that um without upsetting your kind
+of physical balance that much but if you
+want to throw a roundhouse kick um and
+there's no one there then I mean you
+know the standard way that you do when
+you're Shadow Boxing is you basically do
+a little 360 but like I don't know is
+that is that going to feel great I mean
+I I think that there's a question about
+what the what that experience should be
+um and then if you want to go even
+further if you want to get like
+grappling um to to work um I'm I'm not
+even sure how you would do that without
+having resistance of understanding what
+the forces applied to you would be and
+it's then you get into okay maybe you're
+going to have some kind of bodysuit that
+can apply you know haptics but I'm not
+even sure that that even a pretty
+Advanced haptic system is going to be
+able to be quite good enough to do to
+simulate like the actual Force that
+would be applied to you um in a
+grappling scenario so this is part of
+what's fun about technology though is
+you get you keep on getting new
+capabilities and then you need to figure
+out what things you can do with them so
+I think it's really neat that we can
+kind of do boxing and we can do this
+Supernatural thing and um there's a
+bunch of awesome cardio and dancing and
+things like that um and then there's
+also still so much more to do that that
+I'm excited to to kind of get to over
+time but um but it's it's a long journey
+and what about things like um painting
+and art and music you know I imagine um
+you know of course you like different
+mediums like I like to draw with pen and
+pencil but I could imagine trying to
+learn how to paint and virtually and of
+course you could print out a physical
+version of that at the end this doesn't
+have to depart from the physical world
+it could end in the physical did you see
+the demo the the piano demo where you um
+either you're there with a physical
+keyboard or it could be a virtual
+keyboard but the app basically
+highlights what keys you need to press
+um in order to play the song so it's
+basically like you're looking at your
+piano and it's teaching you how to play
+a song that you choose an actual piano
+yeah yeah but it's Illuminating certain
+keys in in the virtual space and it
+could either be a virtual Piano if you
+or keyboard if you don't have a piano or
+keyboard or it could use your actual
+keyboard um so yeah um I think stuff
+like that is going to be really
+fascinating for education and expression
+um and for broad excuse me but for and
+for broadening access to expensive
+equipment I mean piano is is no small
+expense exact and it takes up a lot of
+space and it needs to be tuned um you
+can think of all these things that the
+kid that has very little income or their
+family has very little income could
+learn to play a virtual piano at much
+lower cost yeah it gets back to the
+question I was asking before about this
+thought experiment of how many of the
+things that we physically have today
+actually need to be physical the piano
+doesn't um maybe there's some premium
+where it's maybe it's a somewhat better
+more tactile tactile experience to have
+a physical one but for people who don't
+have the space for it or who who can't
+afford to to buy a piano or just aren't
+sure that they would want to make that
+investment at the beginning of learning
+how to play piano I think in the future
+you'll have the option of just buying
+you know an app or a hologram piano
+which will be you know a lot more
+affordable um and I I think it's going
+to be that's going to be unlock unlock a
+ton of creativity too because instead of
+the market for piano makers being
+constrained to like a relatively small
+set of experts who have like perfected
+that craft and you're going to have like
+you know kids or developers all around
+the world designing crazy designs for um
+potential keyboards and pianos that look
+nothing like what we've seen before but
+are maybe like bring even more joy and
+or even more kind of fun in the world
+where you have fewer these physical
+constraints so I don't I think it's
+gonna there's gonna be a lot of wild
+stuff to explore there's definitely
+gonna be a lot of wild stuff to explore
+I was just had this uh this idea slash
+um image in my mind of what you were
+talking about merged with our earlier
+conversation when Priscilla was here of
+you I could imagine a time not too far
+long from now where you're using mixed
+reality to run experiments in the lab
+literally mixing virtual Solutions
+getting potential outcomes and then
+picking the best one to then go actually
+do in the real world which is very both
+um financially costly and um time wise
+costly yeah I mean people are already
+using
+VR for surgery and education on it um I
+there's some study that was done that um
+basically did it tried to do a
+controlled experiment of people who
+learned how to do a specific surgery um
+through just a normal kind of textbook
+and lecture method versus like you show
+the knee and you you have it you know be
+a large blown up model and people can
+manipulate it and and kind of practice
+where they would make the cuts and and
+like the people in that class did better
+so um I I think that there's yeah it's I
+think that it's going to be profound for
+a lot of different areas and last um
+example at leavs to mind you know I
+think uh social media and online culture
+has been accused of creating a lot of um
+real world let's call it physical world
+social anxiety for people but I could
+imagine um practicing a social
+interaction or a kid that has a lot of
+social anxiety or that needs to advocate
+for themselves better learning how to do
+that progressively through a virtual
+interaction and then taking that to the
+real world because it's in my very
+recent experience today it's so Blended
+now with with real experience that the
+kid that feels terrified of advocating
+for themselves or or just talking to
+another human being or an adult or being
+in a new circumstance of a room full of
+kids you could really experience that in
+in silico first and get comfortable let
+the nervous system attenuate a bit and
+then take it into the quote unquote
+physical world
+yeah I think we'll see experiences like
+that I mean I also think that some of
+the social dynamics around how people
+interact in this kind of Blended digital
+world will be more nuanced in other ways
+so I'm sure that there will be kind of
+new anxieties that people develop to
+just like you know teens today need to
+navigate Dynamics around texting
+constantly that um that we just didn't
+have when we were kids um so I I think
+it will help with some things I think
+that there will be new issues that
+hopefully we can help people work
+through too but um but overall I think
+yeah I think it's going to be really
+powerful and positive let's talk about
+the glasses sure this was wild yeah put
+on a pair of rayb bands I like the way
+they look they're clear they look like
+any other glass rayb bang glasses um
+except that I could call out to the
+glasses I could just say you know hey
+meta um I want to listen to the boach
+variations The Goldberg Variations of
+box
+and meta responded and no one around me
+could hear but I could hear um with
+exquisite Clarity by the way I'm not
+getting paid to say any of this I'm just
+still blown away by this folks um I want
+a pair of these very badly I could hear
+okay I'm selecting those now and or that
+that music now and then I could hear it
+in the background but then I could still
+have a conversation so this was neither
+headphones in nor headphones out MH um
+and I could say wait pause the music and
+it would pause
+um and the best part was I didn't have
+to quotquot leave the room mentally I
+didn't even have to take out a phone it
+just it was all interfaced through this
+very local environment in and around the
+head and as a neuroscientist I'm
+fascinated by this because of course all
+of our perceptions auditory visual Etc
+all occurring in inside the casing of
+this of this thing we call a skull but
+um maybe you could comment on you know
+the the origin of that design for you
+you know what the ideas behind that and
+where you think it could go because I'm
+sure I'm just scratching the surface
+the real product that we want to
+eventually get to is this kind of full
+augmented reality product in a kind of
+stylish and comfortable normal glasses
+form factor not dorky VR headset so to
+speak no I mean because the VR headset
+does feel kind of like it the face
+there's going to be a place for that too
+just like you have your laptop and you
+have your workstation um or maybe the
+better analogy is you have your phone
+and you have your workstation um these
+AR glasses are going to be like your
+phone in that and you have something on
+your face and you will I think be able
+to if you want wear it for a lot of the
+day and interact with with um with it
+very frequently I don't think that
+people are going to be you know walking
+around the world wearing VR headsets let
+Hope but yeah that's that's certainly
+not the future that that I'm that I'm
+kind of hoping we we get to but I do
+think that there is a place where um for
+having because it's a bigger form factor
+it has more compute power so just like
+your workstation or your your a bigger
+computer can do more than your phone can
+do um there's a place for that when you
+want to settle into an intense task
+right if you have a doctor who's doing a
+surgery I would want them doing it
+through the headset not through the kind
+of not through their phone equivalent or
+the the just kind of lower powerered
+glasses but just like phones are
+powerful enough to do a lot of things
+and the glasses will eventually get
+there too um now that said there's a
+bunch of really hard technology problems
+um to address in order to be able to get
+to this point where you can like put
+kind of full Holograms in the world
+you're basically miniaturizing a
+supercomputer and putting it into a pair
+of glasses um so that the pair of
+glasses still look stylish and normal
+and
+um that's a really hard technology
+problem making things small is really
+hard um a holographic display is you
+know it's it's different from what our
+industry has optimized for for you know
+30 or 40 years now building
+screens there's like a whole kind of
+industrial process around that that goes
+into phones and TVs and computers and
+like increasingly so many things that
+that have different screens like there's
+a whole pipeline that's gotten very good
+at making that kind of screen and the
+holographic displays are just a
+completely different thing right because
+it's not it's not a screen right it's a
+thing that you can shoot light into
+through you know a laser or some other
+kind of projector and it can place that
+as an object in the world so that's
+going to need to be this whole other
+industrial process that gets built up to
+doing that like in an efficient way
+so all that said we're basically taking
+two different approaches towards
+building this at
+once one is
+we are trying to keep in mind what is
+the the long-term thing that you it's
+not super far off I think within you
+know few years I think we'll have
+something that that's sort of a first
+version of kind of this full vision that
+I'm talking about and we have something
+that's working internally that we use as
+like a that we'll use as a dev kit um
+but that one that's that's kind of a big
+challenge it's going to be more
+expensive um and it's harder to get all
+the pieces
+working the other approach has been all
+right let's start with what we know we
+can put into um a pair of stylish
+sunglasses today
+and just make them as smart as we can so
+you know for the first version you know
+we we worked with um we we did this
+collaboration with Rayban right because
+that's like well accepted you know these
+are well-designed glasses they're
+classic people have have used them for
+decades for the first version we got a
+sensor on the front so you could Capture
+Moments without having to take your
+phone out of your pocket so you got
+photos and videos um you had the speaker
+and the microphon so you can listen to
+music um you could communicate with it
+uh but it
+was you know that was that was sort of
+the first version of it we had a lot of
+the basics there we saw how people used
+it and we tuned it we made that the
+camera is like twice as good for for
+this new version that we made the audio
+is a lot crisper for the use cases that
+we saw that people actually used which
+is some of it is listening to music but
+a lot of it is like people want to take
+calls on their glasses um they want to
+listen to podcasts right you um but the
+the biggest thing that I think is
+interesting is the ability to get AI
+running on it which it it doesn't just
+run on the on the glasses it also it it
+kind of prox through your phone but I
+mean with all the advances in llms we
+talked about this a bit in the the first
+part of of the the conversation um
+having the ability to have your meta aai
+assistant that you can just talk to and
+basically ask any question throughout
+the day is I think it to be really
+fascinating and you know like you were
+saying about kind of how we how we
+process the world as people um
+eventually I think you're going to want
+your AI assistant to be able to see what
+you see and hear what you hear maybe not
+all the time but you're going to want to
+be able to tell it to go into a mode
+where it can see what you see and hear
+what you hear and what's the kind of
+device design that best kind of
+positions an AI assistant to be able to
+see what you see and hear what you hear
+so can best help you well that's glasses
+right where where basically has a sensor
+to be able to see what you see and um a
+microphone that is close to your ears
+that can hear what you hear um
+the other design goals is like you said
+to keep you present in the world right
+so I think one of the issues with phones
+is they kind of pull you away from from
+what's physically happening around you
+and I don't think that the next
+generation of computing will do that um
+I'm just I'm chuckling to myself because
+I have a friend he's a very well-known
+photographer and he was laughing about
+how you know people go to a concert and
+everyone's filming the concert on their
+phone so that they can be the person
+that posts the thing but like they're
+literally millions of of other people
+who posted the exact same thing but
+somehow our unique it feels important to
+post our unique experience with glasses
+that would essentially smooth that um
+Gap um completely totally um you can
+just worry about it later download it
+there are issues I realize with with
+glasses because they are so seamless
+with everyday experience even though you
+and I aren't wearing them now it's very
+common for people to wear glasses um
+issues of recording and consent like I I
+go into a locker room at my gym I'm
+assuming with glasses aren't filming
+whereas when right now because there's a
+a sharp transition when when there's a
+phone in the room and someone's pointing
+it um people generally say no no phones
+in locker rooms in recording um so
+that's just one instance I mean there
+are other instan we have the whole
+privacy light I don't know did you did
+you get I get a chance to explore that
+yeah so it's anytime that it's active
+that the camera sensor is active um it's
+it's basically like pulsing a white
+bright light got it so which is by the
+way more than cameras
+do phones aren't aren't kind of showing
+a light a bright sensor when when you're
+taking a photo so no people often times
+will pretend they're texting and they're
+actually recording actually saw an
+instance of this in a barber shop once
+where someone was recording and they
+were pretending that they were texting
+and there was an there was a pretty
+intense interaction that ensued and it
+was like wow you know it's pretty easy
+for people to to feain texting while
+actually recording yeah so I think when
+you're
+evaluating a risk with a new
+technology the bar shouldn't be is it
+possible to do anything bad it's does
+this new technology make it easier to do
+something bad than what people already
+had and I think because you have this
+privacy light that is just broadcasting
+to everyone around you hey this thing is
+recording now um I think that that makes
+it
+actually less discreet to do it through
+the glasses than what you could do with
+a phone already um which I think is is
+basically the bar that we wanted to get
+over from a design perspective thank you
+for pointing out that it has the Privacy
+light I didn't get long enough in the
+experience to explore all the features
+but um again I can think of a lot of
+uses um being able to look at a
+restaurant from the outside and see the
+menu oh yeah um get status on how
+crowded it is um as much as I love I
+don't want to call out let's just say um
+app-based map uh functions that allow
+you to navigate and the audio is okay
+it's nice to have a conversation um with
+somebody on the phone or in the vehicle
+and just it be great if the road was
+traced where I should turn absolutely
+these kinds of things seem like it's
+going to be straightforward for for meta
+Engineers to create future version will
+have it so it also have the holographic
+display where it can show you the
+directions but I I think that there will
+basically just be you know different
+price points that pack different amounts
+of Technology the holographic display
+part I think is going to be
+expensive than doing one that just thei
+but is um but is primarily communicating
+you with you through audio so I mean the
+the current Rayband metag glasses are
+299 um you know I think when we have one
+that has a display in it it'll probably
+be some amount more than that but it'll
+also be more powerful so I think that
+it'll people will choose what they want
+to use based on what the capabilities
+are that they want and what they can
+afford but um but a lot of our goal
+building things is um you know we try to
+make things that can be accessible to
+everyone um you know our game as a
+company isn't to build things and then
+charge a premium price for it we try to
+build things that then everyone can use
+um and then become more useful because a
+very large number of people are using
+them um so it's just a very different
+approach um you know we're not we're not
+like apple or or some of these companies
+that just try to make something and then
+sell it for as much um as as as they can
+which I mean they're a great company so
+I mean I think that that that model kind
+of is is fine too but um but our
+approach is going to be we want stuff
+that can be affordable so that way
+everyone in the world can use it along
+lines of Health I think the glasses will
+also potentially solve a major problem
+in a in a real way which is the
+following uh for both children and
+adults it's very clear that viewing
+objects in particular screens up close
+for too many hours per day leads to
+myopia literally a change in the length
+of length of the eyeball and
+nearsightedness um and on the positive
+side we know based on some really large
+clinical trials um that kids who spend
+and adults who spend two hours a day or
+more out ofd doors um don't experience
+that and maybe even reverse their myopia
+and it has something to do with exposure
+to sunlight but it has a lot to do with
+long viewing viewing things at a
+distance greater than three or four feet
+away and with the glasses I realize one
+could actually do digital work out ofd
+doors um it could measure and tell you
+how much time you've spent looking at
+things up close versus far away I mean
+this is this is just another example
+that leaps to mind but in in accessing
+the visual system you're effectively
+accessing the whole brain because it's
+the only two bits of brain that are
+outside the cranial Vault so it just
+seems like putting technology right at
+the level of the eyes seeing what the
+eyes see is just got to be the best way
+to go yeah I think well multimodal right
+I I think is you want the visual
+sensation but you also want kind of text
+or language so sure I think it's that
+all can be brought to the level of the
+eyes right what do you mean by well I
+mean I think what we're describing here
+is essentially taking the phone the
+computer um and bringing it all to the
+level of the eyes and of course one
+would like more physically at your
+physically at your eyes right and one
+would like more um kinesthetic
+information as you mentioned before
+where the legs are maybe even lung
+function hey have you taken enough steps
+today but but that all can be it can be
+figured out on the phone it can be by
+the phone it can be figured out by
+glasses um but there's additional
+information there such as what are you
+focusing on in your world how much of
+your time is spent looking at things far
+away versus up close how much Social
+time did you have today it's it's really
+tricky to get that with a phone like
+like if my phone were right in front of
+us as if we were at a standard lunch
+nowadays certainly silicon value and
+then people we're peering at our phones
+I mean how much real direct attention
+was in the conversation at hand versus
+something else you can get issues of
+where are you placing your attention
+um by virtue of where you're placing
+your eyes and I think that information
+is not accessible with a phone in your
+pocket or in front of you I mean that a
+little bit um but not nearly as Rich uh
+and complete information as one gets
+when you're really pulling the data from
+the level of of vision and what what
+kids and adults are actually looking at
+and attending to yeah yeah yeah it seems
+extremely valuable um you get autonomic
+information size of the pupils so you
+get information about internal States I
+mean that you well there's there's
+internal sensor and outside so there's
+the sensor on the Rayband metag glasses
+is external right so it's basically
+allows you to see what you see then uh
+allows sorry the AI system to see what
+you're seeing there's a separate set of
+things which are ey tracking um which
+are also very powerful um for enabling a
+lot of interfaces right so you want to
+if you want to just like look at
+something and select it by looking at it
+with your eyes rather than having to
+kind of drag a controller over or pick
+up a hologram or or anything like that
+you can do that with ey tracking um so
+that's a pretty profound and and cool
+experience too um as well as just kind
+of understanding what you're looking at
+so that way you're not kind of wasting
+compute power drawing pixels with in
+high resolution a part of the kind of
+world that you're that's going to be in
+your peripheral vision um so yeah all of
+these things um they're interesting
+design and Technology trade-offs where
+if you want the external sensor that's
+one thing if you also want the eye
+tracking um now that's a different set
+of sensors each one of these um consumes
+compute which consumes battery um they
+take up more space right so it's like
+where are the eye tracking sensors going
+to be it's like well you want to make
+sure that the rim of the glasses is
+actually quite thin because I mean it's
+you know there's a kind of variance of
+you know how thick can glasses be before
+they look more like goggles than glasses
+um think that this is there's this whole
+space and I think people are going to
+end up choosing what product makes sense
+for them maybe they want something
+that's more powerful that has more of
+the sensors um but it's but it's going
+to be a little more expensive maybe like
+slightly thicker um or maybe you want
+like a more basic thing that just looks
+like very similar to what Rayband
+glasses are that people have been
+wearing for decades but kind of has AI
+in it and you can Capture Moments um
+without having to take your phone out
+and send them to people in the latest
+version we got the ability into live
+live stream
+I think that that's pretty crazy that
+now you can be kind of you going back to
+your concert case or you whatever else
+you're doing you know you can be um you
+know doing sports and and just you know
+watching your kids play something and
+and just you can be watching and you can
+be live streaming it to your your kind
+of family group um so people can see it
+I I I think that like that stuff is um I
+I I think that's pretty cool that you
+basically have a normal looking pair of
+glasses at this point that can kind of
+live stream and and has like an AI
+assistant so the stuff is making a lot
+faster progress in a lot of ways than I
+would have thought um and I don't know I
+think people are going to like this
+version but there's a lot more still to
+do I think it's super exciting and I see
+a lot of Technologies this one's
+particularly exciting to me because of
+how smooth the interface is and for all
+the reasons that you just mentioned um
+what's happening with and what can we
+expect around AI interfaces and maybe
+even avatars of people within social
+media are we um not far off from a day
+where there are multiple versions of me
+uh and you on the internet where people
+for instance I get asked a lot of
+questions I don't have the opportunity
+to respond to all those questions but um
+with things like chat GPT people are
+trying to generate answers to those
+questions on other platforms will I have
+the opportunity to soon have an AI
+version of myself where people can ask
+me questions about like what I recommend
+for sleep and circadian rhythm Fitness
+mental health Etc based on content I've
+already generated that will be accurate
+so they could just ask my avatar
+yeah this is something that I think a
+lot of creators are going to want that
+um that we're trying to build um and I
+think we'll probably have a version of
+next year but there's a bunch of
+constraints that I think we need to make
+sure that we get right so for one I
+think it's really important that it's
+not that there's a bunch of versions of
+you it's that if anyone is creating like
+an AI assistant version of you it should
+be something that you could control
+right it's um I think there are some
+platforms that are out there today that
+just let people like you know make I
+don't know AI bot of me or or other
+figures and it's like I don't know I
+mean we we have platform policies for
+um for like decades like you know since
+the beginning of the company at this
+point which is almost 20 years that um
+that basically don't allow impersonation
+um you know real identity is like one of
+the core aspects that kind of our
+company was was started on is like you
+want to kind of authentically be
+yourself so um yeah I I think if you're
+if you're almost any Creator being able
+to engage your community and and there's
+just going to be more demand to interact
+with you than you have hours in the day
+so they're both people who out there who
+would benefit from being able to talk to
+an AI version of you um and I think you
+and other creators would benefit from
+being able to keep your community
+engaged and service that demand that
+people have to engage with you but
+you're going to want to know that that
+AI kind of version of you or assistant
+um is going to represent you the way
+that you would want and um there are a
+lot of things that are awesome about
+kind of these modern llms but having
+perfect predictability about how it's
+going to represent something is not one
+of the current strengths so I think that
+there's some work that needs to get done
+there I don't think it needs to be 100 %
+perfect all the time but you need to
+have very good confidence I would say
+that it's going to it's going to
+represent you the way that you'd want
+for you to want to turn it on um which
+again you should have control over
+whether you turn it on um so we wanted
+to start in a different place which I
+think is a somewhat um easier problem
+which is creating new characters that
+the for or AI personas so that way it's
+not um you know we we built you know one
+of the AIS is like a chef and um they
+can help you kind of come up with things
+that you should that you could cook and
+can help you cook them um there's like a
+couple of people that are interested in
+different types of Fitness that can help
+you kind of plan out your workouts or
+you know help with recovery or different
+things like that um there are people
+there's an AI That's focused on like DIY
+crafts um there's someone who's a travel
+expert that can help you make travel
+plans or or give you ideas so but the
+key thing about all these is they're not
+um they're not modeled off of existing
+people so they don't have to have kind
+of 100% Fidelity to like making sure
+that they never say something that you
+know a real person who they're modeled
+after would never say because they're
+just made up characters so I that that
+is um that's a somewhat easier problem
+um and we actually got those we got a
+bunch of different kind of well-known
+people to play those characters because
+we thought that would make it more fun
+so there's like Snoop Dog is the dungeon
+master so you can like drop him into a
+thread and play text based games and
+it's just like I do this with my
+daughter when I when I um tuck her in at
+night and she just like loves like like
+storytelling right and it's like it like
+like Snoop Dog is the dungeon master
+will come up with like here's what's
+happening next and she's like okay I
+like turn into a mermaid and then I like
+swim across the bay and I like go and
+find the the treasure chest and unlock
+it and it's like and then Snoop Dog just
+always will have a next version of the
+like the next iteration on the story so
+I me it's stuff is fun but you know it's
+not actually Snoop Dog he's just kind of
+the actor he's playing the dungeon
+master which makes it more fun so and
+that's probably the right place to start
+is you have like you you can kind of
+build versions of these characters that
+that people can interact with doing
+different things but I think where you
+want to get over time is to the place
+where any Creator or any small business
+can very easily just create an AI
+assistant that can represent them and
+interact with your kind of community or
+customers if you're a business um and
+and basically just help you grow your
+your Enterprise so I don't know I think
+that's gon to be cool but I I think this
+is It's a long-term project I think
+we'll have more progress on it to report
+on next year but um but I I think that's
+coming I'm super excited about because
+you know we hear a lot about the
+downsides of AI I mean I think people
+are now coming around to the the reality
+that AI is neither good nor bad it can
+be used for good or bad and that there
+are a lot of Life enhancing spaces that
+it's going to show up and really really
+improve the way that uh we engage
+socially uh what we learn and that
+mental health and physical health don't
+have to suffer and in fact can be
+enhanced by the sorts of Technologies
+we've been talking about so I know
+you're extremely busy I so appreciate
+the um large amount of time you've given
+me today to sort through all these
+things fun and to talk with you and
+Priscilla and and to hear what's
+happening and where things are Ed um the
+future certainly is bright I I share in
+your optimism and it's been uh only
+strengthened by today's conversation so
+thank you so much and um keep doing what
+you're doing and and um on behalf of
+myself and everyone listening um thank
+you because regardless of what people
+say we all use these platforms um
+excitedly and it's clear that there's a
+ton of intention and care and um and
+thought about you know what could be in
+the positive sense and um um and that's
+really worth highlighting awesome thank
+you I appreciate it thank you for
+joining me for today's discussion with
+Mark Zuckerberg and Dr Priscilla Chan if
+you're learning from Andor enjoying this
+podcast please subscribe to our YouTube
+channel that's a terrific zeroc cost way
+to support us in addition please
+subscribe to the podcast on both Spotify
+and apple and on both Spotify and apple
+you can leave us up to a five-star
+review please also check out the
+sponsors mentioned at the beginning and
+throughout today's episode that's the
+best way to support this podcast if you
+have questions for me or comments about
+the podcast or guests that you'd like me
+to consider hosting on the hubman Lab
+podcast please put those in the comment
+section on YouTube I do read all the
+comments not during today's episode but
+on many previous episodes of The hubman
+Lab podcast we discuss supplements while
+supplements aren't necessary for
+everybody many people derive tremendous
+benefit from them for things like
+enhancing sleep hormone support and
+improving Focus if you'd like to learn
+more about the supplements discussed on
+the hubman Lab podcast you can go to
+live momentus spelled o us so Liv
+mous.com
+huberman if you're not already following
+me on social media it's huberman lab on
+all social media platforms so that's
+Instagram Twitter now called X threads
+Facebook LinkedIn and on all those
+places I discuss science and science
+related tools some of which overlaps
+with the content of the huberman Lab
+podcast but much of which is distinct
+from the content on the huberman Lab
+podcast so again it's huberman lab on
+all social media platforms if you
+haven't already subscribed to our
+monthly neural network newsletter the
+neural network newsletter is a
+completely zero cost newsletter that
+gives you podcast summaries as well as
+toolkits in the form of brief PDFs we've
+had toolkits related to optimizing sleep
+to regulating dopamine deliberate cold
+exposure Fitness mental health learning
+and neuroplasticity and much more again
+it's completely zero cost to sign up you
+simply go to hubman lab.com go over to
+the menu tab scroll down to newsletter
+and Supply your email I should emphasize
+that we do not share your email with
+anybody thank you once again for joining
+me for today's discussion with Mark
+Zuckerberg and Dr Priscilla Chan and
+last but certainly not least thank you
+for your interest in science
+[Music]

@@ -1,0 +1,225 @@
+# Dope Tech: Camera Robots!
+# https://www.youtube.com/watch?v=UIwdCN4dV6w
+
+[Music]
+hey what is up guys mkbhd here and
+you've probably seen a dolly camera move
+something like that or maybe you've seen
+a sort of a slow pan and arcing shot
+these are all pretty common what about
+something more complicated
+[Music]
+for that you're gonna need something a
+little more dope
+[Music]
+what's up guys mkbhd here and welcome
+back to dope tech for this one we flew
+out to portland oregon home of motorized
+precision to take a look at some robots
+but not just any robots these are what i
+would call cinema robots and as someone
+that's into video at all
+this is absolutely dope tech so like i
+explained in the intro there are all
+types of stabilizers and video tools and
+things like that to help a human
+move a camera in a certain way and
+actually in most shots you can kind of
+tell what type of device is being used
+like this shot dolly cam this would be a
+steadicam this is clearly a slider and
+this is a crane but you've probably seen
+some crazy shots in a movie or in a
+music video somewhere for a shot like
+this
+the answer is kira kira has been
+responsible for tons of shots in
+commercials for tech products and car
+videos etc and you might not even notice
+but those are the shots that aren't cgi
+but that are super precise and difficult
+that a human could never do with any
+tools that exist now hence the name
+motorized precision and then the level
+of dope tech is actually twofold here
+it's the hardware with the actual robots
+and mp studio the software to control
+what these robots do and they can do
+a lot here's the rundown so the kira
+robot itself is fully metal extends up
+to nine feet tall has a couple fully
+articulating axes and it can move up to
+nine feet per second in any direction
+while carrying up to 40 pounds and then
+the robot is controlled with an xbox
+controller which has enough buttons to
+hit every axis so you get forward
+and backward
+you get up
+and down
+pan left
+and pan right
+tilt up and tilt down and even roll
+clockwise or roll counterclockwise and
+once you've set the position you can
+move the robot through space and time to
+other positions with keyframes in the
+software mp studio and on top of that if
+you're using a manual lens which you
+probably are at this point there's
+motorized gears which are also part of
+the robot which can control focus
+iris and zoom during the camera move and
+on top of all of that if you're shooting
+with a red camera which is also
+connected to the robot not only do you
+get a live preview of what you're
+pointed at and you have a remote start
+stop but you also get all your red rock
+controls so you can change resolution
+shutter speed compression ratio white
+balance etc
+then you hit record it starts rolling on
+the camera and you run the kira and it
+plays through the move you made at the
+speed you picked and then like i said it
+can go really slow and smooth or it can
+go fast it might be hard to appreciate
+just how fast three meters per second
+really is
+but it's really fast you gotta you gotta
+know exactly what you're doing to keep
+it safe and then of course the other
+upside of knowing exactly what you're
+doing is all the shots you can get with
+it the moves you can make are almost
+literally endless so shout out to sean
+brown the ceo of motorized precision for
+showing me all this showing me the ropes
+of the software and giving some examples
+of what the robot can do so really the
+only thing left to do now is
+actually shoot with it so that's what we
+did
+first up the orbit shot
+so this is fun this is just a bunch of
+key frames highlighting different parts
+from different angles of the same
+subject and at every point the camera
+stops and we made sure that keyframe
+also had the subject perfectly in focus
+and the end result just looks ridiculous
+like you could see almost kind of like
+this cgi the motion blur is just
+dependent on the shutter speed we picked
+but it's super real and then from behind
+the scenes you can see all the hinges
+working all the cables plugged into the
+camera straight into the robot that's
+talking to the computer
+pretty incredible if you ask me
+next up we did a bit more of a
+traditional like a phone on a table shot
+which you've seen before but with a
+twist check this one out
+[Music]
+oh yeah okay so this one started off
+slow like a normal slider shot like
+you've seen before but then moved in
+quick and focused on the camera of the
+phone you can probably imagine doing
+something like this with some motion
+graphics or some tracked pointers in
+there and again that shows off the
+precision of the robot being able to
+nail the focus instantly and you can't
+forget the shot is also repeatable as
+many times as you want so you can do it
+multiple times with different phones
+different items stack the clips mess
+with opacity etc it's crazy but for me
+the beauty of it is how close to the
+table the whole rig gets without
+touching it and there's no worries
+because there's no shake or wobble at
+all super precise
+[Music]
+okay so this one was pretty simple but
+still if you saw it in a video you might
+have your mind blown but it's up to the
+top
+spinning around
+and then down on the other side and i
+even think having more time with it we'd
+be able to make this all like one
+continuous move so you'd float over the
+top of the laptop spin around without
+stopping and then come down on the other
+side but nevertheless pretty sure that's
+next to impossible without this robot
+and then next we decided to do something
+a little bit more difficult
+[Music]
+okay so that was sick but the challenge
+here what really makes this one more
+difficult is the fact that i'm a human
+not a robot and it's actually really
+hard for me to hold myself on the phone
+in the exact same spot for long enough
+that we can set up all the keyframes and
+the robot can do the move and get the
+phone in focus every time so there's
+actually plenty of takes that we didn't
+use that ended with the phone being like
+a little bit out of focus because i had
+moved but i think getting this one right
+made it that much more impressive and
+then last but not least we broke out a
+bit of a different robot also made by
+motorized precision this one's called
+mia instead of kira it's a little bit
+lighter a little bit smaller uh but
+still equally impressive could probably
+fit something like this in our studio
+wink wink
+but it's also now on a massive motorized
+track system so we did a little walking
+tracking shot
+[Music]
+so obviously that one's equally awesome
+for the little bit of time we had to
+play with it and set it up you know
+matching my speed with the walking of
+the robot sliding speed and then
+stopping at just the right place so it
+swings past my head instead of through
+my head obviously absolutely worth it so
+that's it that's the beauty of motorized
+precision robots that control and hold
+cameras that can pull off low speed or
+high speed moves precisely that humans
+literally can't obviously you can take
+this thing to the next level if you've
+got like a slow motion camera on there
+like if you imagine a phantom flex on
+this arm swinging around super fast the
+shots you could get out of it are
+absolutely incredible and again if you
+can't underwrite the software mp studio
+there are older iterations of this same
+sort of robot control thing where you
+literally have to put in coordinates
+into an excel spreadsheet to get a robot
+to move like this so obviously this is
+miles better generally people don't buy
+these robots they get rented for certain
+shoots like the commercials and music
+videos we talked about but uh let me
+know what would you use a robot like
+this for so either way that's been it uh
+hey kira you mind if we do this outro
+together
+so we're just gonna wave goodbye ready
+thanks for watching guys talk to you
+next one peace
+[Music]

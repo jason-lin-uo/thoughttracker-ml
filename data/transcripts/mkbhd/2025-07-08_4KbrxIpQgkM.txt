@@ -1,0 +1,421 @@
+# Nothing Phone 3 Review: They Lied!
+# https://www.youtube.com/watch?v=4KbrxIpQgkM
+
+[Applause]
+[Music]
+This is the Nothing Phone 3. And yeah,
+it's ugly.
+You know, people say beauty is in the
+eye of the beholder and stuff like that.
+I get it. You can find beauty in
+anything for sure. But also, you know,
+there's a nice alignment to things that
+feels good. And you know, when things
+are when things are where you expect
+them to be,
+doesn't that feel better? Okay. All
+right. Carsonization. I learned about
+this recently. This is a strange and odd
+but funny phenomenon in evolutionary
+biology where a bunch of undersea
+crustations have all slowly evolved
+towards the same flat robust crablike
+shape because it seems to be the ideal
+form factor for surviving in the ocean.
+Oversimplified. It feels like everything
+down there is evolving towards a crab.
+And look at all these crabs. Lots of
+smartphones today basically look the
+same. So when something that comes along
+looks a little different, well it's
+going to feel weird. isn't it? But hey,
+maybe someone's into the layered glass
+look with the text in various places.
+Maybe you're into the red dot turning
+into a functional record light. Maybe
+you're into a bit of a lobster. Real
+talk though, it feels like every few
+months nothing comes out with a new
+product that looks crazy and people hate
+on all the pictures on the internet cuz
+they look weird and then two months
+later we're all used to it and we forget
+about the looks and we can focus on the
+product itself. So, let's just skip all
+that and focus on the product. This is
+what Nothing is calling their first true
+flagship, which is what you would say if
+you're Nothing and you're charging $799
+for a phone for the first time ever
+after rolling around in the budget and
+mid-range space for a few years. But
+I've been using this phone for the
+better part of the last week. And I'm
+going to disagree with the whole premise
+here. Actually, this is no more of a
+flagship phone than any of Nothing's
+previous phones.
+Now, are they lying to us? Yeah, not
+exactly, but kind of. Hear me out. $799
+is the same price as a Samsung Galaxy
+S25 or the Pixel 9 or right underneath
+the iPhone 16. Like, they are competing
+against bonafide flagships from mega
+companies with basically unlimited
+money. And part of what we've come to
+expect from phones in this class is
+basically giving us the best available
+stuff. Like it's kind of this unspoken
+rule, but if you're spending this much,
+you deserve to just get the best parts,
+right? That's why it's been so easy for
+me to rag on like the Pixel in the past
+for not having the best performance or
+the iPhone for not having a high refresh
+rate display. So, this Nothing Phone 3,
+it's certainly dressed up like a
+flagship, and it is the most flagship
+yet of any Nothing Phone. It is huge.
+It's got this super bright, high refresh
+rate OLED display. It has a massive new
+silicon carbon battery, new triple 50
+megapixel cameras, IP68 certification,
+up to 16 gigs of RAM. Like, it's got all
+the makings of what could be a flagship.
+But when you peel back the mask just a
+little bit, like right under the
+surface, it's the same exact strategy
+that nothing has been running on all
+their previous phones in the past. The
+playbook is to just cut back just a
+little bit from the highest end stuff in
+ways that hopefully you, the buyer,
+don't notice. and it still feels like a
+flagship, but that allows them to cut
+costs and undercut the competition a
+little bit. So, it works. It's not a bad
+strategy. It's allowed them to make
+great phones in the past, but it's just
+harder to sell that strategy at this
+price. So, for starters, the chip
+inside, right, it's not the expensive,
+proven, powerful flagship Snapdragon 8
+Elite chip. This is running the
+Snapdragon 8S Gen 4 instead. It's one of
+the first phones we've seen using this
+chip. And to be fair, it is much better
+than anything we've seen in any previous
+Nothing Phone. It's a 4nmter chip. It's
+something like 40% better CPU and like
+90% better GPU than the chip in the
+2-year-old Nothing Phone 2. The phone is
+zippy and smooth as hell basically all
+the time. And I'll get to the software
+experience in a second, but is it the
+best available?
+Well, technically no. The Snapdragon 8
+Elite still smokes this. You can see
+benchmark scores. It's pretty clear
+that's still the flagship chip. Now, you
+as a user might never notice that. In
+fact, you probably wouldn't if you just
+use the phone side by side in a lot of
+random normal activities. But if you
+happen to get into graphically intensive
+gaming or the most intense tasks, that's
+what separates a flagship from an upper
+mid-range chip. So, for some context,
+some other phones using this chip, the
+Poco F7 and the IQ Neo 10. Both of these
+are sub $500 phones. I also think they
+were very clever pairing it up with 12
+gigs of RAM and 256 gigs of storage
+base. It's fast RAM. It's UFS 4.0. And
+then the upgraded version for $8.99 is
+16 gigs of RAM and half a terabyte.
+Awesome to see that. But there is no
+8128 version. And I think if they did
+make one that would probably be like
+$6.99, but they didn't. Now when we get
+to the outside of this phone, there is
+this again huge new AMOLED display.
+Surely it's a flagship display, right?
+It's gigantic. 6.67 in corner to corner
+with perfectly even bezels all the way
+around. That takes extra work. It's a
+gorgeous AMOLED. Nice color
+reproduction. And it's also it's a good
+amount over 1080p. It's nice and sharp,
+smooth with that dynamic refresh rate up
+to 120 hertz. And it gets crazy bright,
+1,600 nits outdoors, 4500 nits peak
+brightness with HDR. So the numbers on
+paper go crazy. And it's just it's such
+a nice screen to look at. I've loved
+using it. So, what's the catch, Marquez?
+Well, one, you would literally never
+know this unless you check the spec
+sheet, but the glass protecting the
+front of this display. It's Gorilla
+Glass 7i, and that is a mid-range glass
+in their lineup where you might see
+flagships using the more durable Gorilla
+Glass Victus or Victus 2. And normally,
+I wouldn't even bring that up, but
+that's definitely something to consider
+on a phone that is meant to spend a lot
+of its time face down. And then another
+thing, there are a lot of like really
+nice subtle things that go into this
+screen. like it has a 1000Hz touch
+sample rate, so it's even more
+responsive than the phone 2. It also has
+2160 Hz PWM dimming. It also has a very
+acceptable optical fingerprint reader
+down near the bottom, but it's also an
+LTPS display instead of the most premium
+LTPO. And all that really means in
+practice is instead of varying the
+refresh rate from 1 to 120 Hz, it can go
+from 30 to 120 Hz. You would never
+notice, but it does mean a little bit
+worse power efficiency. I'll tell you
+what though, it can actually absolutely
+handle the slightly worse power
+efficiency because the battery in this
+phone is elite. It's marketed as a 5150
+mAh battery, but according to nothing,
+and it gets complicated, but it's
+actually rated at a 5,500 mAh battery.
+It's silicon carbon. It charges extra
+fast at 65 watts. It supports wireless
+charging, reverse wireless charging,
+reverse wired charging. It's great. It
+sips power in standby. And it's
+genuinely a two-day phone if you want it
+to be, even without the more efficient
+Snapdragon 8 Elite. So honestly,
+flagship battery for sure. So then,
+okay, what about the cameras? Triple 50
+megapixel cameras. Feels pretty
+flagship. And you know what? Again, it
+is closer to a flagship than any
+previous Nothing phone has ever been,
+but I've used this now for a little bit.
+It's still a notch behind the S25s and
+Pixel 9's and iPhone 16s of the world.
+The mainstream flagships that I'm
+comparing this to. This main sensor is
+the biggest they've ever used. One over
+1.3 inches. It lets a ton more light in.
+And I'm shooting with this and I
+realized as I'm looking through all the
+pictures I've taken, for some reason,
+it's frequently soft. Like even on a
+perfectly normal shot, the colors will
+be fine, the exposure will be fine, but
+the subject of the photo when I zoom in,
+it should be in sharp focus, but it's
+just a little bit off. I think you can
+blame this a little bit on autofocus,
+maybe a little bit on tuning for a
+larger sensor with shallower depth of
+field. It's definitely capable of good
+pictures and it's a little bit wider
+than you might expect, but yeah, that's
+a little bit odd. Then the telephoto is
+3x, also a tiny bit soft sometimes, but
+also very useful. It's where your macro
+shots come from, and you can get some
+really sick, impressive close-ups. And
+the ultrawide and the selfie cameras,
+they are the most consistent and most
+flagship of them all. But yeah, like I
+said, the whole camera setup is just one
+notch behind those things, and you may
+only notice if you're zooming in and
+pixel peeping. But again, that's the
+point. Mostly good enough for most
+people most of the time. I think with a
+little tuning, this can be an A minus
+camera. I think a perfect encapsulation
+of the priorities of this phone are, I
+mean, look at look at this design. It's
+an insane design, but technically no
+camera bump. I mean, the rings obviously
+protrude a little bit, but most flagship
+phones at this point also have some sort
+of big camera bump that they all sit on.
+It turns out to get this whole big
+telephoto camera to not have a bump,
+they actually engineered part of the PCB
+or the board inside to have a hole in it
+so the optics could actually split like
+punch through the PCB instead of being
+stacked totally on top of it. I'm sure
+we'll see this in like a Jerry rig
+everything tear down video at some
+point, but yeah, basically mission
+accomplished. no camera bump, but that
+also meant they had to use some smaller
+parts to make it work. And this is
+actually a physically smaller telephoto
+than the cheaper Nothing Phone 3a Pro.
+So, spoiler, the design is still the
+priority of this phone. Always has been.
+Uh, but let's talk about the most
+controversial bit of this design, which
+is the glyphs, which made Nothing Phones
+famous for a couple years. This year,
+the glyph lights are gone and replacing
+them is this small display on the back
+upper corner of the phone. It's 489 LED
+pixels. They're calling it glyph matrix.
+On its face, this has some usefulness
+about it, but then it's also surrounded
+by gimmicks. Okay, so the basic idea is
+like your phone is face down and then
+the lights on the back would light up
+and you could tell something about what
+that notification is to decide if you
+want to actually pick it up and check or
+not. So if that is all you're after,
+then okay, success. You know, more
+pixels means more information. The new
+essential notifications builder is super
+powerful and informative. It's better
+than ever before. I can set up a certain
+icon to come up in the dots whenever I
+get a certain type of notification or
+anything from a certain person or from a
+certain app. Let's say I want to be able
+to leave my phone face down, but I never
+want to miss any notifications from mom
+ever. Okay, set that up. No matter what
+she sends, no matter how she sends it, I
+will get an icon or a picture from my
+gallery or something that I can turn
+into dots and done. anytime mom calls or
+texts or whatever, I can't see what they
+said, but I can see that she sent me
+something. So, that's convenient. That's
+functional. Outside of that, it
+immediately starts feeling way more
+gimmicky, like, okay, take another look
+at the back of this phone. You see a you
+see this little dot here hidden in this
+design. This little circle is actually a
+pressure sensitive area. And when you
+press that, the back display lights up.
+And then you can use a single press to
+cycle through these glyph toys and then
+a long press to actually engage with
+them. So you can cycle to a timer and
+then start a timer on the back of your
+phone which doesn't sync up with the
+actual clock app. So if you turn your
+phone screen on, the timer disappears.
+So be careful. Uh you can also use the
+back display as a viewfinder for your
+main camera
+kind of. Or or you can play spin the
+bottle. Maybe you're into that. Maybe
+you and your friends don't have a bottle
+handy, but you have your nothing phone.
+Or you can play rock, paper, scissors
+against your own phone. I I I think you
+get the idea. The It's a They're fun
+tech demos, but the utility runs out
+real quick. Now, they have opened up the
+API so developers, if they want to can
+make more stuff for the back screen.
+You know, with this phone, I don't
+really know how many actually will. Like
+is Spotify going to make like album art
+cover art on the back of the phone here?
+I I don't know. But the Nothing
+community has already started developing
+some stuff and messing with it. They've
+made this one. This is a magic
+eightball. So instead of turning your
+phone over and asking Google for a magic
+eightball, you can ask the back of your
+phone and it'll give you a little
+message. Cool. Look, the real best part
+of a Nothing phone is still the software
+on the front of the phone because
+Nothing OS 3.5, soon to be updated to
+4.0, it's just great. Like, they have
+this tastefully modified version of
+Android with this nice aesthetic, finely
+tuned, smooth performance, and a handful
+of useful features that they just sort
+of sprinkle in there so you can sort of
+choose which ones you want to use or
+easily ignore. The AI powered essential
+space continues to evolve and get more
+features, though it doesn't sync with
+anything externally, so I don't use it.
+And yes, there's still a custom button
+for it on the side of the phone, but
+it's not too in your face. You can
+ignore it if you don't want to use it.
+And the little things like being able to
+resize the quick settings toggles or the
+way you can swipe up on the camera app
+to flip through presets. It's just so
+clean. Everything is it's clean. It's
+smoothly animated and the whole OS is
+responsive in ways that feel higherend
+than the specs would ever suggest. I
+think the best new feature on this phone
+is the universal search box. So, you
+might actually kind of get it confused
+because there's a permanent uh Google
+search box on the bottom of the home
+screen at all times. Not that search
+box, but when you pull up the app
+drawer, that search box. Now, that one
+searches through your stuff on your
+phone like usual. Or you can ask it a
+question and hit that AI button and
+it'll use a modified version of Gemini
+to go online and pull up a short and
+sweet answer for you. It's tuned to kind
+of just be brief and give you answers to
+stuff. It's nice. Again, you can choose
+to use it or just never even try. You
+can just leave it tucked away and it's
+just you can use it the way you normally
+do and just search for your apps on your
+phone. And this is also going to get
+updates. They are going to do they're
+promising five years of major software
+updates. I could do the nitpicky thing
+and be like, "Oh, Samsung's doing seven
+years and Apple does even more, so it's
+not quite a flagship." But you've seen
+how flagships kind of vary all over the
+board. So, I'm giving them flagship
+credit for the software. So, at the end
+of the day, is the title of this review
+a little dramatic, maybe? Sure. Uh, but
+flagship, the word flagship is being
+used here
+as a marketing term. And so maybe the
+review title should just been nothing
+phone 3. They did marketing, whatever.
+But the point is it still stands. They
+are charging $7.99 for this phone. And
+there are other really good phones that
+you can get for that much money. So this
+phone, just like previous Nothing
+phones, is the one that you would get if
+you really care not so much about raw
+specs, but about good software and a
+unique design.
+You don't want another crab. You want
+lobster.
+Thanks for watching. Catch you guys in
+the next one. Peace.
+[Music]

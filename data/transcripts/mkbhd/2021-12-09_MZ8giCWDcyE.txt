@@ -1,0 +1,285 @@
+# Smartphone Cameras vs Reality!
+# https://www.youtube.com/watch?v=MZ8giCWDcyE
+
+so there are three cameras on the back
+of the iphone 13 pro the main camera the
+ultra wide and the telephoto so this one
+down here at the bottom this is the main
+camera so if you cover it with your
+finger you can see the frame goes dark
+makes sense if you cover the other two
+nothing happens now when you hit that 3x
+button to zoom into 3x it's supposed to
+switch to that telephoto camera right
+but sometimes when you zoom into 3x and
+then cover the main camera it still goes
+dark
+why this is because the iphone's camera
+thinks it knows better than you
+and it usually does basically in certain
+conditions especially with lower light
+you could get a worse photo out of
+actually switching to the telephoto
+camera which is a smaller sensor with a
+smaller aperture that lets in less light
+and can be more noisy so sometimes when
+you hit that 3x it just crops in on the
+main big camera and doesn't even tell
+you
+and that's actually going to give you a
+better photo see smartphone cameras are
+smart but something i've been thinking a
+lot about lately is they've gone past
+smart they're
+bending reality so i'm in the middle of
+running the blind smartphone camera test
+over on instagram right now if you
+haven't already gotten in and start
+voting on those you should do it it's a
+fascinating experiment every time but a
+thought i've had is maybe it's not just
+the brightest photo that's going to win
+every single time so i actually think
+that similar to how in this tech bubble
+we underestimate how many people put
+cases on their phones at least i do
+there's also a bit of an underestimation
+of how many people want to just be able
+to take a photo and post it with zero
+edits now that's kind of crazy in the
+tech world or in the photography world
+we want the more neutral photo the one
+with more information and that's the
+better photo to us because then we can
+go take it and edit it and make it
+exactly how we want because we want that
+control but to most people if they can
+just take their phone and point and
+shoot and the photo that comes out of
+that is perfectly good enough to post
+with no edits at all that to them
+is a great camera
+and now you're letting of course the
+camera do all of the editing for you
+which means you have the least amount of
+control over the final look now the
+danger of giving up all the control is
+our photos become a product of someone
+else's vision technically and this is
+where it starts to get crazy because
+every smartphone company sees things a
+little differently right we already know
+a pixel photo looks different from an
+iphone photo which looks different from
+huawei phones which look different from
+xiaomi shots every picture
+is the result of an image processing
+pipeline that is tuned by people and
+that is a reflection of their biases and
+their skills and what they think we want
+which means every photo we take even if
+it's of the same thing
+will be slightly different just
+depending on what camera you take it
+with which one is real which one is the
+most accurate
+maybe it doesn't matter in 2019 the
+huawei p30 pro came out it had a pretty
+solid set of cameras it was a flagship
+phone of course so people went out and
+tested its limits and pretty quickly
+something sort of fishy came up so when
+you went outside at night and pointed
+the new periscope zoom camera at the
+moon and zoomed all the way in
+the camera would recognize the moon and
+suggest you turn moon mode on and people
+started doing this and posting their
+results and everyone's pictures of the
+moon looked surprisingly similar now
+maybe i should be shocked i mean we're
+all taking pictures of the same moon but
+have you ever tried to take a picture of
+the moon with your camera on your phone
+it's usually just a blob it never looks
+that good and these all looked really
+good maybe a little too good and that's
+what android authority concluded with
+enough samples they believe that huawei
+is using ai to not just recognize that
+you're taking a picture of the moon but
+also to then superimpose a stored image
+of the moon and merge it onto your photo
+now first glance that's pretty crazy but
+that's also kind of clever because the
+moon is tidally locked with the earth
+meaning one rotation takes the same
+amount of time as one orbit so one face
+of the moon is always pointing towards
+earth so you only see one side of the
+moon all the time meaning it's always
+going to look the same and you only need
+one stored image of the moon to
+superimpose over everyone's photos
+so maybe that's not so bad but huawei
+denied this of course
+but the seed was definitely planted and
+my take honestly at the time was like
+all right well you have this ai mode in
+your camera anyway and it's already
+recognizing scenes and adjusting things
+and changing things to enhance your
+photos already
+why not add a picture of the moon in
+there but it does bring up the question
+a totally fair question which is
+how far is too far
+like people already seem to want the
+most finished
+version of their photos straight out of
+camera and so you're doing edits and
+enhancements how far
+is too far xiaomi phones we already know
+can detect a landscape and make the blue
+sky bluer or they'll crank up the green
+on the green grass but also some of
+these phones from chinese vendors have
+very different acceptable levels of body
+and face adjustment so this xiaomi mi 11
+ultra when you open the selfie camera
+has a beauty filter but this isn't just
+facial smoothing it literally lets you
+move your hairline
+changes the shape of your chin and your
+nose it can slender up your face it
+changes the size of your lips and your
+cheeks it can make your eyes bigger or
+smaller and you can put makeup on
+yourself and it's all just built into
+the camera out the box and is totally
+normal and accepted kind of reminds me
+of uh when there was a sort of a
+commercialized version of this when the
+galaxy s9 in the united states had a
+bixby vision feature to try on makeup
+and then you could swap between
+different shades of lipstick and blush
+and eye shadow and then bixby would give
+you a link to buy the actual retail
+version of that makeup but really the
+most powerful adjustments are the ones
+that happen
+when you
+don't even know it and you didn't even
+ask for it they happen in the background
+it's the highest level of computational
+photography so google's pixel 6 is
+always running the main camera at one
+shutter speed and the ultrawide camera
+at a much faster shutter speed at the
+same time so if you take a photo of a
+moving person the phone detects the face
+realizes if it's blurry it can take a
+non-blurry copy from the ultrawide
+camera and merge it onto your subject to
+keep just the face crisp and clear all
+of this happens in the background
+without you even asking
+there's also already a feature in
+facetime on iphones called eye contact
+that moves your pupils to make it look
+like you're making eye contact with the
+camera even though you're not you're
+looking at the screen below the camera
+but it's pretty eerie and slightly
+creepy and it works a little too well
+but at least you can turn it off and i
+could swear this was a feature somewhere
+i must have been imagining a keynote but
+i can't find it anywhere so i'm going to
+predict that this future will exist at
+some point in some phone probably in
+something like a pixel first imagine
+you're taking a group selfie shot
+there's a bunch of people with you you
+hit the shutter button
+and almost everyone has their face not
+blinking and smiling but at different
+moments everyone has sort of their ideal
+face
+so
+the software smartly goes through and
+merges the best smiling non-blinking
+face for everyone in the selfie doesn't
+even tell you just does it in the
+background we've actually seen versions
+of this working our way up to this
+feature so believe it or not in 2012 a
+nokia lumia phone had a selfie mode
+where you'd hold for five seconds and
+then after the shot you could scroll
+between five different faces of selfies
+to pick which one you like the best so
+it sounds crazy but that's the thought
+i've been having is this is the
+direction smartphone cameras are going
+which is as computational photography
+gets better and better and we're merging
+more and more things in
+eventually
+these cameras are outputting captures of
+moments in time that never really
+happened so it's easy to see a
+future
+where smartphone cameras just recognize
+all kinds of things like ai mode right
+now is pretty basic it'll see a sunset
+and make the oranges brighter but maybe
+it'll start recognizing all types of
+objects
+you're uh you're in front of a popular
+instagram wall in santa monica somewhere
+and it notices you take a picture in
+front of it it's like oh i have a
+downloaded picture of that in our
+database and it just wipes out all the
+people in the background and makes you
+perfectly flat on that image without you
+even asking
+that could happen in the future at that
+point basically the whole world turns
+into
+ai recognizable qr codes where your ai
+camera is just being triggered by all
+sorts of objects and things around you
+to morph into recognized situations it
+is kind of crazy to think about
+but while we're in this new reflective
+mode shout out to new channel sponsor
+cash app cash app i'd say is just the
+right level of futuristic so it's
+already a great app for sending and
+requesting money from your friends or
+you get dinner with somebody and just
+want to reimburse them that's easy but
+you can also buy stocks or buy bitcoin
+with it so if you haven't already signed
+up feel free to use the link below or my
+code marquez and 15 bucks will just
+appear in your account you're welcome
+also 10
+will go to girls who code but yeah my
+take is
+i don't have a solution for this eerily
+dystopian smartphone camera future but i
+wonder are you okay with
+smartphone cameras
+spitting out finished images that are
+further and further from reality they're
+basically bending the definition of a
+photo
+let me know what you think either way
+that's been it thanks for watching catch
+you guys the next one
+peace
+[Music]

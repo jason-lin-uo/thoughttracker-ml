@@ -1,0 +1,139 @@
+# HD Tutorial: Make Firefox Faster
+# https://www.youtube.com/watch?v=V3MQgxfv0h0
+
+hey guys for this tutorial I'm going to
+show you how to speed up the Mozilla
+Firefox skin in a browser
+um I've been slowly moving to Missoula
+Firefox for the past few days now I've
+been using Safari primarily but this
+video is going to be on how to speed up
+this is all Firefox so go ahead and open
+it up
+um if you find that Firefox this is for
+this works for version Firefox 3.0.5 uh
+so if you have it this will work for you
+if you find Firefox slowing down when
+opening larger web pages or
+um just being slow in general then these
+tips will definitely help you so first
+of all type in about
+type in about colon config
+in the start bar where you would
+normally type your url hit enter
+and we're going to get a whole list of
+things that we can tweak Firefox here
+now if this is the first time you've
+done it it's going to tell you this may
+void your warranty just click ok
+and what we're going to until first
+thing we're gonna end sorry about the
+blinking is
+pipe lining
+and it will sort them out as we're
+typing here when we're done typing
+pipelining we'll have a number of
+uh things that pertain to pipelining
+here the first one is called
+network.http.pipelining
+this we're going to double click
+to set the value to true so don't click
+it and it'll say it's been user set to
+true
+the next one to change is
+network.http dot pipelining dot Max
+requests so if you're if you're loading
+a larger website you're going to want
+um more connections down in different
+parts of the website at the same time so
+double click this
+and insert a value greater than 50. I'm
+using 150 right now I'm going to go
+ahead and make that 200 and hit enter
+now it's the user set as 200. last but
+not least we're going to network HTTP
+proxy pipelining pipelining right now
+the default is set to false double click
+and make that true so now you have these
+three values user set to true
+that is the first thing you've done so
+you've done these three
+next we're going to do Max dot
+persistent
+so go ahead back up to the start the top
+again and type in
+Max dot persistent
+our Dash persistent and we get two
+values
+Max can persistent connections per proxy
+and per server
+you're going to
+um user set the integer for Server so
+double click it and um I've I've been
+using 50 right now I'm going to go ahead
+and make mine 80. at a certain point the
+the value becomes worthless you can't
+set it to a trillion and expect it to be
+that much higher than setting it to 80
+or 50. so I'm going to set mine to 80.
+and that is all that is what I do to
+make my Firefox faster and if you want
+you can exit out of it and restart
+um your internet browser and obvious
+connections and all these changes will
+have taken place now if I open this I
+like YouTube it opens it's done
+um let's say I open I don't know Myspace
+foreign
+.com
+it opens pretty quickly already
+log right in
+done
+so um this is how you make uh Fox a
+faster web browser overall now I will
+show you something that will make
+Firefox faster but does not work for my
+version of Firefox like I showed you 3.0
+um this is called faster Fox so I'm
+going to go to my uh I mean to go to my
+web browser search and I'm going to type
+into Google
+um
+first of all Firefox add-ons
+and that's a crash
+hopefully that's not permanent so I'll
+restart my session
+and open up Firefox again
+Firefox add-ons
+Firefox does just do that once in a
+while
+um so we'll go to Missoula Firefox
+add-ons
+and type into yours go ahead and type in
+Faster Fox
+and this the first one
+uh it'll tell you this is a performance
+Network tweak for Firefox 1.5 up to
+3.0.3
+um this will not work with 3.0.5 which
+is the newest version which is why this
+will be grayed out this will be grayed
+out
+and that's a theme so faster Fox won't
+work
+um
+so if you do have an older version of
+Firefox I would say you should probably
+upgrade
+um but if you want the leanest version
+of Firefox that uses the least amount of
+ram then go ahead and
+go ahead and download uh the older
+version of Firefox and faster Fox will
+give you that performance increase
+so I hope this helps you increase the
+speed of your internet browser and I
+should be doing another version of the
+video on Safari
+and on Internet Explorer so thanks for
+watching peace

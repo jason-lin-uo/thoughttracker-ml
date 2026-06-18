@@ -1,0 +1,4216 @@
+# Science & Tools of Learning & Memory | Dr. David Eagleman
+# https://www.youtube.com/watch?v=lEULFeUVYf0
+
+Oftentimes people will ask me like an
+older person will say, "Hey, I do cross
+word puzzles. Is that good?" Yeah, it's
+good until you get good at it and then
+stop and do something that you're not
+good at and constantly find the next
+thing that's a real challenge for you.
+That's the key thing about plasticity.
+Your brain is locked in silence and
+darkness. It's trying to make a model of
+the outside world. And if you're
+constantly pushing and challenging it
+with things it doesn't understand, then
+it'll keep changing. Welcome to the
+Huberman Lab podcast where we discuss
+science and science-based tools [music]
+for everyday life.
+I'm Andrew Huberman and I'm a professor
+of neurobiology and opthalmology at
+Stanford School of Medicine. My guest
+today is Dr. David Eagleman. Dr. David
+Eagleman is a neuroscientist, a
+best-selling author, and a longtime
+science public educator. Today we
+discuss several different features of
+brain science that impact your everyday
+life. And once you understand the
+mechanisms behind these features, it
+will position you to make better
+decisions and if you choose to rewire
+your brain to be a more effective
+learner. We start by discussing
+neuroplasticity, which is your brain's
+ability to change in response to
+experience or any form of deliberate
+learning that you are trying to impose
+on yourself. We talk about the
+mechanisms for it and how you can get
+better at learning and unlearning in the
+context of skills and information. We
+also discuss memory formation and the
+relationship between stress and time
+perception and why it is that people
+experience things in slow motion if
+those things are very stressful or
+traumatic and how that can be useful for
+undoing traumatic memories. David also
+takes us through the neuroscience of
+cultural and political polarization,
+something that's very timely right now,
+false memories, deja vu, dreams and the
+meaning of dreams and a lot more. David
+is an absolutely legendary science
+communicator. I say this as a fellow
+neuroscientist. He is able to embed
+factual information about the brain into
+real life stories and in doing so he's
+able to shed light on how we work as
+humans and how we can all improve our
+life experience. He's a true virtuoso of
+neuroscience and science education more
+generally. What David shares with us
+today will change the way that you think
+about thinking and your own mind and no
+doubt will also change the way that you
+view the world. Before we begin, I'd
+like to emphasize that this podcast is
+separate from my teaching and research
+roles at Stanford. It is however part of
+my desire and effort to bring zero cost
+to consumer information about science
+and science related tools to the general
+public. In keeping with that theme,
+today's episode does include sponsors.
+And now for my discussion with Dr. David
+Eagleman. Dr. David Eagleman, welcome.
+&gt;&gt; Thanks. Great to see you, Andrew. Man, I
+feel like the kid that was a freshman
+when you were a senior because you got
+into this public facing science
+education long before I did. And you've
+had a an amazing career also in your
+laboratory work. And today I want to
+talk about all of it,
+&gt;&gt; right? um by mostly listening and you
+doing the talking and there are so many
+topics in neuroscience that are
+fascinating as you know but I think
+perhaps the most fascinating thing about
+the human brain is its ability to change
+itself.
+&gt;&gt; Yeah.
+&gt;&gt; Plasticity. So I know how I think about
+neuroplasticity. I want to know how you
+think about neuroplasticity. What it is
+and how we should think about it and
+what we could possibly do with that
+information.
+&gt;&gt; Okay, great. I mean, this was mother
+nature's big trick with humans was
+figuring out how to drop a creature into
+the world with a halfbaked brain and
+then let the world wire up the rest of
+it. And so, you know, 1953, Crick and
+Watton, I worked with Crick at the Salt.
+They burst into the Eagle and Child pub
+and said, "We've discovered the secret
+to life." Because they figure out the
+structure of DNA. But that was really
+half the secret of life because the
+other half is all around us. It's every
+bit of experience that you have. It's
+your culture. It's your language. It's
+your neighborhood. All of that stuff
+gets absorbed by the brain and wires us
+up. And I often think about this issue
+of what if you were born 30,000 years
+ago exactly your DNA? You pop out and
+you look around and the question is
+would you be you? The answer is you
+wouldn't be. You'd look maybe similar
+because of the same genetic blueprint,
+but you would have a different culture
+and a different language and different
+stories and all that stuff. You'd be a
+very different kind of person. So, brain
+plasticity, for anyone who doesn't know,
+it's it's that the brain is constantly
+reconfiguring itself every second of
+your life. You got 86 billion neurons.
+And really, the way to think about it,
+these are like little creatures that are
+all crawling around and moving around.
+each one is, you know, on average
+contacting 10,000 of its neighbors, but
+it's not like a fixed thing like you
+might see in a textbook. Instead,
+they're, you know, plugging and
+unplugging and searching around and
+finding new places to plug in, of
+course, changing the strength of those
+connections.
+And I actually always find this weird.
+It's like having all these little
+creatures in your head that are
+slithering around, but that's what makes
+us absorb every single thing in our
+worlds. And this is what uh you know
+humans have that other creatures have
+less of. And that's why we've taken over
+every corner of the earth. That's why we
+have succeed. We've gotten off the
+planet. We build skyscrapers and compos
+symphonies and so on because each
+generation we land and we get to spend
+our first few years absorbing everything
+that's been discovered before us. And
+then we springboard off of that and do
+something new. Because we are able to
+figure out all the discoveries
+that have come before us because of this
+ability to reconfigure our own
+circuitry.
+&gt;&gt; And uh you know if you were a an
+alligator born 30,000 years ago, you'd
+be the same alligator. You know, eat,
+mate, swim, whatever, and you you
+wouldn't be meaningfully different. But
+but humans because of our flexibility,
+we are the the dominant species.
+&gt;&gt; Such an interesting take on time and
+human evolution that uh and I completely
+agree with you. I just had never thought
+about it this way before that we land uh
+when we're born and we're absorbing the
+um the outcroppings of all the
+neuroplasticity that came before us. We
+often hear that, you know, that the
+human brain is is kind of like a macac
+monkey brain with a supercomputer added
+on top of it. Mostly the prefrontal
+cortex. A bit more prefrontal cortex.
+Prefrontal cortex. Prefrontal cortex. We
+actually cortex in general.
+&gt;&gt; Yeah. Interesting.
+&gt;&gt; We we have four times as much cortex as
+our nearest neighbors in the animal
+kingdom. And that seems to be the
+magical stuff.
+&gt;&gt; Not just prefrontal cortex,
+&gt;&gt; right? And for I'm sure the listenership
+knows this, but you know, uh the cortex
+is just the outer 3 millimeters of the
+brain. It's that wrinkly bit. And that's
+the magic stuff because it turns out
+cortex is a one-trick pony. The reason
+the cortex looks the same everywhere is
+because it is the same. It's got the
+same circuitry. It's got six little
+layers. It's doing the same algorithms
+and it gets defined by what you plug
+into it. So if you plug in a cable
+that's carrying visual information, then
+it becomes visual cortex. And we look at
+it and we say, "Oh, look, it detects the
+orientation of lines. and a detect
+motion, things like that. If you plug
+auditory information into it, it becomes
+auditory cortex and so on. And it turns
+out, you know, the way we do this in
+textbooks is we make a picture and we
+say, "Look, that's visual cortex, that's
+auditory, that's the metaensory." But
+all this stuff is really flexible. It's
+it's so much more interesting than the
+textbook model because you can take the
+fibers and plug them in somewhere else.
+So you may know this study in 2000 by
+Morgankaur at MIT where he in a farret
+took uh the visual information visual uh
+the optic nerve and he plugged it into
+the visual sorry into the auditory
+cortex and then the what would have been
+the auditory cortex became visually
+responsive and it started caring about
+vision. So what does that mean? It means
+the cortex is a onetrick pony and we got
+so much more of it including the
+prefrontal cortex. So that has two major
+effects. One is that there's a lot more
+room with our species in between input
+and output. So with a a squirrel or a
+cat or even a macac monkey, you know,
+you throw some food in front of it, it
+that that sensory cortex is right next
+to the motor cortex, it's going to eat
+the thing, but we've got all this
+computational real estate in between in
+and out. So we can say, well, I'm on a
+diet. I'm trying whatever you I'll eat
+it later. We've got all these other
+options that we can take. That's one
+thing. And then the other thing is
+exactly what you pointed to, which is
+the prefrontal cortex, which allows us
+to simulate whatifs. Allows us to think
+about possible futures, simulate things
+in a way that we don't have to risk our
+lives doing it. We can simulate it and
+say, "Oh, that would be a bad idea. Oh,
+that'd be a pretty good idea." And then
+we can take the action.
+&gt;&gt; Couple different questions. Um, I'm a
+big fan of McGranka's work, and I'm so
+glad you mentioned that work. it it
+really points to the fact that while
+there are cortical areas that are
+genetically devoted by virtue of wiring
+when we arrive in the world too auditory
+or visual that there's a lot of
+crossover especially in the extreme
+cases so my understanding correct me if
+I'm wrong is that um if somebody is
+blind from birth the real estate that
+would be allocated to vision becomes
+allocated to tactile sensation
+especially if they learn how to braille
+read um maybe auditory processing and
+because they rely on it more so there's
+really no blank real estate in the
+cortex it's all used.
+&gt;&gt; That is exactly right. So it turns out
+um you know right people who are born
+blind what we call the visual cortex at
+the back of the back of the head here
+that gets taken over. It's no longer
+visual. It becomes devoted to hearing to
+touch to memory things like this. And
+you can demonstrate that people who are
+born blind are better at hearing and and
+at touch and so on. They can
+discriminate things much more finely. Um
+same with people who go deaf that the
+auditory cortex all that real estate
+nothing lies in the brain all that gets
+taken over for different tasks and they
+can do things like see your accent you
+know just by lip reading they can tell
+where in the country you're from and so
+on. Um all of this demonstrates that
+first of all the more real estate you
+have the better. We are in a sense if
+you've got all your senses you uh you
+have to share everything and so we're
+pretty good at vision and hearing and
+touch and so on but everything has to
+get shared. But there are pretty
+extraordinary things that happen when
+people devote more real estate towards
+one task. And by the way, just as a side
+note, this is one hypothesis about what
+goes on with savantism in in autism is
+that somebody for whatever genetic set
+of reasons ends up devoting a ton of
+real estate to let's say the Rubik's
+cube or the piano or memorizing visual
+scenes or something and then they are
+absolutely superhuman at it. That comes
+at the cost of other things. Let's say
+social skills that might be needed. Um,
+but the general story is if you devote a
+lot of real estate towards something,
+you're gonna get really good at it.
+&gt;&gt; I'm excited to share with you that
+Matina, the Yerba Mate drink that I
+helped create, is now available at
+Sprouts Market nationwide. Longtime
+listeners of the Huberman Lab podcast
+know that Yerba Mate is my preferred
+caffeine source. It provides a smooth
+energy lift without giving you the
+jitters and it has many other benefits
+such as helping regulate blood sugar,
+improving digestion, mild appetite
+suppression, and more. Matina is my
+absolute favorite of all the Yerba Mate
+brands out there, and believe me, I've
+tried them all. The flavors are
+fantastic. I drink at least three cans
+of Matina every single day. You'll often
+see them on the table during our podcast
+recordings. I absolutely love the
+product and I'm proud to now have it
+sold at Sprouts Market. Also, there's a
+great new offer. They are giving away a
+free can of Matina to anyone who buys it
+at Sprouts and sends in a photo of their
+receipt. To learn more about how you can
+get a free can of Matina, go to
+drinkmatina.com/offer.
+Again, that's drinkmatina.com/offer
+to get a can of Matina for free at your
+local Sprouts Market. Today's episode is
+also brought to us by Aurora. Aurora
+makes what I believe are the best water
+filters on the market. It's an
+unfortunate reality, but tap water often
+contains contaminants that negatively
+impact our health. In fact, a 2020 study
+by the Environmental Working Group
+estimated that more than 200 million
+Americans are exposed to PAS chemicals,
+also known as forever chemicals, through
+drinking of tap water. These forever
+chemicals are linked to serious health
+issues such as hormone disruption, gut
+microbiome disruption, fertility issues,
+and many other health problems. The
+Environmental Working Group has also
+shown that over 122 million Americans
+drink tap water with high levels of
+chemicals known to cause cancer. It's
+for all these reasons that I'm thrilled
+to have Rora as a sponsor of this
+podcast. I've been using the Aurora
+countertop system for almost a year now.
+Aurora's filtration technology removes
+harmful substances, including endocrine
+disruptors and disinfection byproducts,
+while preserving beneficial minerals
+like magnesium and calcium. It requires
+no installation or plumbing. It's built
+from medical grade stainless steel and
+its sleek design fits beautifully on
+your countertop. In fact, I consider it
+a welcome addition to my kitchen. It
+looks great and the water is delicious.
+If you'd like to try Rora, you can go to
+roora.com/huberman
+and get an exclusive discount. Again,
+that's r o r a.com/huberman.
+I don't know if you saw this study that
+was published in science recently that
+explored um early specialization in
+sport or creative endeavor versus kids
+that played a bunch of different sports
+or involved in a bunch of different
+creative endeavors. And it turns out
+that um specializing too early on
+average doesn't play out so well in
+terms of um kind of uh peak of success
+later. Now there are exceptions, right?
+But um turns out that being a bit more
+diversified in in your uh physical
+activities and cognitive activities as a
+as a young person into the early teens
+even um and beyond uh is more
+beneficial. And this this to me kind of
+runs counter to my images of like um
+Tiger Woods uh putting uh golf balls
+with his uh dad when he was, you know,
+kind of still waddling. He was so
+little, right? and then he becomes Tiger
+Woods or um or the Williams sisters who
+were you know early on. I think that
+especially in the United States we have
+this notion that early specialization is
+really what sets you up to be
+spectacularly good later. So I'm curious
+what your general thoughts are for the
+the every person. I mean you have kids
+um and some of us still are kids who are
+listening and and we all have plasticity
+into adulthood. you know, is do you
+think that we come into the world with
+some genetic leanings toward particular
+activities being right for us or more
+right for us? And how do you think about
+it in terms of how many difficult hard
+to access things we do just so that
+we're sure that we have a full
+experience of life? Because what I hear
+you saying and I totally subscribe to is
+that our early experience becomes the
+funnel through which we have more or
+less opportunity later. like the kind of
+width of the of the funnel depends on
+how many things we did or didn't do
+early on.
+&gt;&gt; So this is really interesting because um
+first of all take somebody like the
+Williams sisters they got drilled on
+tennis from day one and this stuff can
+be taught and this is why they became
+champions and this is obvious but this
+is the same what you find with chess
+champions and golf champions like Woods
+and so on. Um you have to really spend
+the time doing it. Now I find this
+interesting for a few reasons. One is
+that
+cognitively you can understand how to
+you know what a forehand or a backhand
+you know is hit in tennis but to
+actually get good at it you have to burn
+it down into the circuitry. So actually
+let me back up for one second which is
+the reason that we have brain plasticity
+is because this is how a brain makes
+things that you do fast and efficient.
+So when you're doing a task a lot like
+you know serving tennis or something
+you're taking that from the software to
+the hardware of the brain let's say uh
+I'm an amateur tennis player and and
+there's Serena Williams I'm playing
+against her. Um it turns out
+surprisingly when we're playing she's
+beaten me like crazy but my brain's the
+one using all the activity. I'm the one
+burning all the calories with my brain.
+Why? Because she has burned tennis into
+the hardware of the brain. So it's fast
+and efficient. I, on the other hand, am
+trying to simulate lots of things and
+figure out where I should go and all
+that. So the brain does this for reasons
+of efficiency. Obviously the brain's
+main job is to save energy because we
+are mobile creatures who run on
+batteries. And so um this is one of the
+big things about about plasticity. So
+people get extraordinarily good by doing
+things over and over. the the these
+these three women, the Polar sisters who
+are chess champions. They're, you know,
+the best to my knowledge are still the
+best three female chess players in the
+world. Their father from day one started
+teaching them how to do chess and so on
+and they all became uh world champions
+at this. You know, the thing about
+whether you need to have
+diversification, that's an interesting
+question. I can see why it would be
+useful because you're learning different
+ways, different moves about it in the
+same way that if you learn how to
+snowboard and ski, um, you know, you
+might you might get better at both of
+them. But I got to say, uh, when
+children grow up, let's say,
+triilingually, uh, or even bilingually,
+they they end up having a lower
+vocabulary in both languages than if
+they grow up monolingually.
+&gt;&gt; Really?
+&gt;&gt; Yeah. It's just because of the amount of
+practice you get with a language.
+&gt;&gt; Kids, still do your uh second language
+homework. [laughter]
+&gt;&gt; In California, it's it's, you know,
+growing up here, it's very useful to
+know English and some Spanish.
+&gt;&gt; I mean, very, very useful. In fact, I
+wish I'd gotten better at Spanish when I
+was a kid.
+&gt;&gt; Uh, and my father's born and raised in
+Wanosirus, but we didn't speak Spanish
+at home, at least not very much. So, you
+know, I can tell you learn a musical
+instrument and learn a second language.
+a musical instrument for your own
+enrichment um and those around you. But
+the the second language thing I think is
+extremely useful at least in California
+I find it to be really useful. But
+&gt;&gt; kids are resisting this by the way now
+because they say look I can do Google
+translate or you know my meta sunglasses
+and
+&gt;&gt; so they're resisting it.
+&gt;&gt; Yeah. But Google translate is not Google
+relate.
+&gt;&gt; I totally agree.
+&gt;&gt; You know I I mean it's and I'm not I'm
+hardly fluent but I can get by now. I'm
+pretty good. But I've been practicing my
+Spanish more and more and just by virtue
+of living in Southern California, that
+just happens. But I I think knowing a
+second language um and being a to have
+that kind of face tof face conversation
+with someone, it's um even the struggle
+of it is enriching in a way because
+you're forcing your brain to do some
+work.
+&gt;&gt; My father spoke eight languages fluently
+without accent. Uh and that's because he
+went to medical school in Europe and did
+his clinical rotations in different
+countries and you know he was a young
+man. So everywhere he went, he got a
+girlfriend and then he had the incentive
+to learn the language. And by the maybe
+we'll come to this, but when it comes to
+brain plasticity, the reward systems are
+a big part of what makes change happen
+in the brain. Actually, let me just
+mention, this is tangential, but let me
+just mention this while it's on my mind.
+Um, you know, a lot of people really for
+the last 30 years, ever since the
+internet became a big thing, really
+worried about what this is going to mean
+for kids and education. I think it's
+terrific. I am very optimistic about
+this because
+what what kids started getting a few
+decades ago was this opportunity to
+learn about something right when they
+were curious about it. So they want to
+know how to fix the bicycle tire or what
+is this space physics thing or whatever
+and they ask the question and get the
+answer. Why does that matter? It's
+because brain plasticity really happens
+when you have the right cocktail of
+neurotransmitters present and and that
+cocktail happens to map on to curiosity
+or engagement. when I'm I'm slightly
+older than you are, but when we uh you
+know, when we were in school, the
+teacher teaches you the thing. They just
+dump everything like, "Oh, the Battle of
+Hastings happened in 1066 and you may or
+may not ever need to know that." But
+what kids get now is information right
+in the context of their curiosity and
+that makes a big difference because
+stuff really sticks and I have been
+extraordinarily impressed with young
+people that I meet. I meet all these
+young people who say these extraordinary
+things. I say, "Wow, how did you know
+that?" and they, you know, they've
+watched TED talks, they've asked Alexa,
+they've talked to ChatGpt and they get
+the information and and it sticks. Super
+interesting. I hadn't thought about it
+that way. I uh I guess I'm reflecting my
+age um to everyone when I say that, you
+know, I remember being interested in
+something and then having to bike or
+skateboard down to Tower Books or go to
+the library um and look things up. And I
+tell myself that the effort involved in
+going to get it actually is useful. But
+you're right, had I been able to um kind
+of look up what I was interested in and
+get it right then, I probably would have
+spent more time implementing the
+information because I was interested in
+all sorts of things that usually
+involved building something or doing
+something that was going to make a big
+mess and frustrate my parents, right?
+But I spent a lot of time searching for
+the information. Yeah. Um, plus you
+remember how dinner table conversations
+used to go, which is that everyone
+argues about something and then they
+someone says, "Well, I think it's this."
+And the other person says, "No, I think
+it's that." And then it just sort of
+stops there because no one knows the
+right answer. But now everyone whips out
+their phone, gets the answer, and then
+and then it keeps going, which is really
+terrific.
+&gt;&gt; Yeah. It's dissolved um some of the
+social dominance that comes about when
+one person's word is the word that
+everyone has to just kind of believe
+just because they say it with more
+certainty.
+&gt;&gt; They're the father or whatever. Exactly.
+&gt;&gt; Yeah. Or the grandfather or whoever. Or
+the grandmother. in some cases, who
+knows? Now, it gets checked against the
+internet and uh uh claude for me or chat
+GBT for for a lot of other people. I
+realize that um the question I'm about
+to ask can't be answered uh completely
+but given what you know about plasticity
+and the fact that yes you know we come
+in to the world with some
+pre-programming of our of our brain
+circuitry but we have some control over
+uh what the inputs are some depending on
+our circumstances. It depends what you
+mean by we. Uh, so as infants, of
+course, we have no control over that.
+&gt;&gt; As an adolescent, as a teen, as a
+20-year-old, assuming plasticity extends
+into adulthood, still as adults,
+although it's harder, um,
+&gt;&gt; some control over what one learns or
+does. What do you think are um sort of
+the core elements to uh making sure you
+build a healthy, well-rounded nervous
+system? Nobody's really ever attempted
+to answer this question. you know, a
+howler monkey learns all the things that
+a howler monkey needs to do. Um, humans,
+we have, as you said, the benefit of all
+the technology that comes from the
+plasticity of those that came before us.
+And so,
+&gt;&gt; you know, maybe kids don't need to learn
+a second language, but what do you think
+are sort of the the essentials? I mean,
+obviously learning to communicate and
+understand, learning to move, but do we
+have some sense of of how you check off
+the like the core 10 boxes of
+neuroplasticity to make sure that by
+time you land in adulthood or even if
+you're still an adult that you're you're
+doing the
+&gt;&gt; quote unquote best that you can with
+your brain? This is a tough question, I
+realize.
+&gt;&gt; I mean, I would say two things. One is
+um you know, try to maximize along every
+axis. So try to be an athlete, try to be
+a scholar, try to be uh you know,
+somebody who's good at social life and
+has a lot of friends. All all of these
+axes of life, it's worth spending the
+time doing that. And if obviously we're
+in an era, especially now, where there
+are a million ways to waste time. I sit
+on airplanes next to people and they're
+playing Candy Crush for the whole
+flight. And I just feel like what a
+shame because there's so much you could
+be putting into your brain and making
+happen. You could be reading books, you
+could be listening to podcasts, anything
+like that. Okay. So, there's that. But
+the other half that I would say is um a
+lot of what we care to be depends a lot
+on what's going on in the future. And
+I'm fascinated by for children now in
+schools,
+what choices they should make because
+who the heck knows what careers are
+going to exist in 20 or 30 years from
+now. Therefore, the main things they can
+concentrate on, I think, are critical
+thinking and creativity. Those are the
+main things for them to figure out how
+to do. What are some good ways in your
+opinion to access critical thinking and
+creativity? I I can imagine a number of
+them.
+&gt;&gt; Yeah. Here's something I find very
+optimistic about AI in the realm of
+education. Um,
+you know, in any classroom, it's going
+too fast for half the kids and too slow
+for the other half of the kids. What we
+now have the opportunity for is really
+individualized education. One way this
+could be implemented is AI debate. So
+you take any hot button issue, abortion,
+gun control, whatever you want, and you
+debate with the AI and you get graded
+based on the quality of your arguments
+and then you switch sides and you take
+the other side and you argue again. This
+is the kind of thing you could never
+have enough teachers for. They would
+never have enough patience for. AI is
+terrific at this. And by the way, it's
+really important so that students get a
+360 view of issues instead of
+ideological capture. So this is a
+terrific way to teach critical thinking
+to every student, not just the kids on
+the speech and debate team. Okay.
+Creativity, that's easy. That has to do
+with learning the foundational stuff and
+then doing remixes, bending, breaking,
+blending, doing new versions of it. And
+I think schools can implement this
+easily and without any extra expense
+which is you have to teach the
+foundational stuff but you compress that
+so you have one extra week at the end of
+each semester and then that last week
+you say great take everything you've
+learned and now make your own thing with
+it using all the elements that we've
+learned bend it break it blend it make
+your own version of this. That kind of
+exercise is that is creativity. That's
+all creativity is is taking your
+storehouse of knowledge and doing
+remixes.
+&gt;&gt; We should be teaching that.
+&gt;&gt; So critical thinking and uh creativity.
+Gerta the the German philosopher had
+said uh there are two uh bequests that a
+that a parent can give a child. One is
+roots and one is wings. And my
+interpretation of that has always been
+critical thinking and creativity. Love
+that and thank you for making it
+practical. That's something I think any
+and all of us could invest some more
+time in. I also agree it's very easy to
+waste time on on uh on the internet. Uh
+I have a separate phone for social
+media.
+&gt;&gt; Oh, great.
+&gt;&gt; That solved a lot of issues. Not that it
+was really contaminating my life that
+much. I like social media. I like
+teaching and learning there and some
+entertainment there. But by putting it
+on an old phone, so X and Instagram are
+just on that phone. It's amaz people
+send me things by text and I I have to
+transfer them over. Sometimes I see
+them, sometimes I don't. My default
+setting is no longer to just look at my
+phone and look at social media.
+&gt;&gt; Yes,
+&gt;&gt; it has increased my productivity and
+just my happiness and my level of
+attention. Also, when I do social media,
+that's I'm doing like a like a
+purposeful like watching a show or doing
+something that I would devote time for
+is to not always just scrolling in the
+background.
+&gt;&gt; Do you find yourself picking up that
+phone sometimes? Actually,
+&gt;&gt; no. If I do, if I find myself doing that
+reflexively, I have a uh what I call a
+supermax prison lock box, which you
+can't code out of. And the fun for me,
+and get this, this is like really weird.
+I don't know what this says about my
+psychology. I'll put it in there and
+I'll dial in, you know, okay, like 4
+hours, and then I hit the supermax
+button, and then there's this 15-second
+countdown, and then I'll go 5, six,
+seven, eight, nine hours. And I go,
+okay, cool. Like 9 hours. So, there's
+this weird thing where you don't want to
+let it go, but then you
+&gt;&gt; I really enjoy the freedom from it. so
+much that the extra hours that I add on
+and that last thing it feels like a gift
+to myself and then I'm like I'm going to
+have a great day and then when I get
+back on it certainly there's this
+dopamine dynamics thing where you go oh
+this is a lot of fun but you have to be
+super careful
+&gt;&gt; because it'll suck you in. I'm just
+amazed at how fast time goes which we're
+going to talk about time perception. I
+before we do that though, I I have a
+question about plasticity that I've been
+waiting to ask you and only you because
+we have a lot of friends that are
+neuroscientists, but I have a feeling
+you've thought about this more than
+anyone, which is are there any things
+that we can do to extend the window of
+plasticity? Or are there activities like
+learning an instrument or or some sort
+of game who knows that gives us our
+capacity for plasticity uh more height,
+more width um as opposed to just you
+know the same principles. You need to
+focus on the thing then you need to make
+errors then you need to do some error
+correction. You get to sleep that night
+you rewire you trial and error. I mean,
+we know that the basics now. I think
+most people have heard them. But what
+can we do to broaden our ability or
+heighten our ability to get uh
+plasticity?
+&gt;&gt; Two words, seek novelty. That's the
+whole game is you got to continually
+challenge the brain. And this is
+something that as we get older is more
+important than ever. It's finding new
+things that we haven't done before. You
+always have to keep yourself between the
+levels of frustrating but achievable.
+And as long as you're trying new things,
+so yes, a new instrument is great.
+Speaking a new language is great. Um,
+you know, obviously we're in a world
+that's moving very fast. So just keeping
+up with the technology and figuring out,
+wow, there's this new opportunity here
+with this piece of software, whatever.
+All that stuff is great. This is the
+critically important part. Um, you may
+know these studies. There's been this
+this study going on for decades now
+called the the what is it? religious
+orders study uh up in Chicago area where
+there's a whole bunch of nuns and
+priests that agreed to donate their
+brains when they passed away. And then
+when they donate their brains, the
+researchers uh you know examine them, do
+autopsies on them. What the researchers
+found is that some fraction of these
+nuns had Alzheimer's disease, but nobody
+knew it when they were alive. Nobody saw
+any cognitive deficits. Why? It's
+because these these women died in their
+90s.
+And to the day they died, they lived in
+these convents. And in the convents,
+they had social responsibilities. They
+had chores. They were fighting with
+their sisters. They were playing games
+with their fellow sisters. They were
+singing songs. They were doing things
+all the time. So they kept their brain
+active. So even as their brain was
+physically degenerating with Alzheimer's
+disease, they were building new
+roadways. They were building new bridges
+over these areas. This is one of the big
+things that tells us that uh you know
+contrast this with with people who
+retire at 65 and they go home and they
+sit on a couch and watch the television.
+They don't have as good an outcome
+because they're not challenging their
+brain anymore. Um so it is so important
+to be doing things. You know I once
+heard the expression that there's
+nothing as hard that the brain does than
+other people. And so for these for these
+women living in convents, they were
+constantly dealing with because you
+never know what somebody's going to say
+or how they're going to react or what
+they're going to do. So this is great
+challenge opportunity for the brain.
+Anyway, the point is we need to always
+find that with ourselves. Often times
+people will ask me uh like an older
+person will say, "Hey, I do cross word
+puzzles. Is that good?" Yeah, it's good
+until you get good at it and then stop
+and do something that you're not good at
+and constantly find the next thing
+that's a real challenge for you. That's
+the key thing about plasticity.
+Essentially, the backstory is this. As
+you well know, your brain is locked in
+silence and darkness. It's trying to
+make a model of the outside world. And
+its whole goal is to make a successful
+model. And when it succeeds at that and
+says, "Oh, okay, wait. I I've got good
+predictions about what's going on." Then
+it stops changing. I That's its goal is
+to stop changing. And if you're
+constantly pushing and challenging it
+with things it doesn't understand, then
+it'll keep changing. Amen to that. I I
+been trying to beat the drum that the
+agitation that one feels when trying to
+learn something new, it's actually a
+reflection in in part of the
+catakolamines, right? Like adrenaline
+and norepinephrine, the frustration and
+the agitation that we feel.
+&gt;&gt; That's the feedback signal to the brain
+that hey, this is different than the
+stuff you know how to do. I mean,
+because the neurons are not thinking,
+they're firing, right? And so and so
+that neurochemical millu associated with
+frustration is one of the triggers that
+uh generates plasticity which actually
+you can resolve this question for me.
+I'm struck by the fact that there's so
+many studies showing that the adult
+brain can change.
+&gt;&gt; Yes.
+&gt;&gt; And some of the more interesting ones um
+involve boosting the levels of some
+neurom modulator dopamine or
+acetylcholine or norepinephrine or
+epinephrine serotonin. But what's so
+interesting to me is that seems like you
+can boost the levels of any of those and
+get plasticity. It's not like one neurom
+modulator gives you uh the opportunity
+for for plasticity. So many of the
+interesting studies on psychedelics are
+using psychedelics that are
+&gt;&gt; kind of like serotonin. I mean they act
+on different receptors, but they're very
+serotonic. I I remind people of this
+because people really like to um beat up
+on SSRIs. And I agree they have their
+problems and side effects, but they've
+also helped a great number of people.
+But whether it's SSRIs or psilocybin,
+they're both just tools for plasticity
+that drive serotonin. But we know you
+can amplify acetylcholine, get a window
+of plasticity. This is a speculative
+question, but why do you think it is
+that there's this sort of equip
+potential of neuromodulators where
+boosting any one of them can open
+plasticity or the window or the
+opportunity for plasticity?
+&gt;&gt; Okay, a few things on this. as as you
+well know you know all the neurom
+modulators exist in a dance with each
+other and and fundamentally I think
+we're going to come to understand this
+in 50 years as you know sort of
+combination locks of things and the way
+we keep looking at it in science
+currently is ah here's acetylcholine or
+here's serotonin or so and it's probably
+not the right way to look certainly not
+how the neurons are looking at it okay
+that said acetylcholine really feels to
+me like the main one involved in
+plasticity when you are a Maybe you've
+got acetylcholine going everywhere
+whenever you're trying to figure out the
+world. Whenever something's not matching
+a prediction and you've got
+acetylcholine going everywhere that
+says, "Hey, I got to figure out what
+just happened and how to link this with
+what I did and so on." As you get older,
+it's more like, you know, a pointalist
+artist who just dabs things here or
+there. You get to see the colon release
+very locally in very in small places and
+that's where you make changes. Why?
+That's because as you get to be an
+adult, you've got a better and better
+model of the world. You don't want to
+change everything. You just change like,
+"Oh, I didn't realize there was that
+button on the coffee machine that did
+this new thing or whatever." So, you
+just change little bits at a time here.
+We're in this really interesting
+situation in in the history of our
+species where now we can do things like,
+"Hey, what if we just crank up
+acetylcholine or, you know, obviously
+we've done lots of things with with
+dopamine." Um, we always find when we
+tweak these things that it's
+complicated. Just as one example, you
+know, with Parkinson's, people get have
+less dopamine and so the medications are
+to crank up the dopamine. What that led
+to, you may know this fascinating story,
+this probably 25 years ago now, where
+you know, observant clinicians noted
+that people on these Parkinson's
+medications were becoming
+hypercompulsive gamblers. They were
+blowing their family's fortune on online
+gambling and Las Vegas and so on. And
+and what they realized is when you crank
+up the dopamine that changes your risk
+aversion such that people are taking. So
+now it's a it's a contra indication
+that's listed on the bottle. You know if
+you notice gambling turn down the the
+the the amount here. So anyway whenever
+we whenever we start dialing these
+around we always find things that are a
+little bit out of our predictive realm.
+Um, but uh the general story is that
+your brain's trying to put together this
+model of what's going on and as it gets
+better and better, it's doing less and
+less plasticity. I do want to point out
+though that parts of the brain become
+less plastic and others stay plastic
+your whole life. As an example, your
+primary visual cortex at the back of the
+head that locks down early. You really
+can't do much to change that. And um you
+know there were studies by Logitus' lab
+years ago where they looked at changes
+to let's say the retina in an adult
+monkey and they expected to see changes
+in the visual cortex of the monkey and
+they didn't see any changes at all and
+that surprised them given all the
+plasticity literature. But it's because
+the visual cortex locks down. In
+contrast, these downstream areas from
+the visual cortex that care about things
+like recognizing faces or new brands of
+fast food restaurants or whatever it is,
+those stay plastic your whole life
+because there's constantly new data
+coming in on those. So the general story
+is the primary areas are like the I
+think about it like the the software
+kernels where you know if you're at
+Microsoft for example there's parts of
+the code that no one ever touches
+because that's like how to add two
+numbers and multiply whatever that's the
+kernel of the code you never touch that
+but you get these higher and higher
+application layers on top of that and
+that's essentially how to think about
+primary sensory cortices and then all
+the stuff downstream from there
+&gt;&gt; perfect analogy I um for people to
+understand, you know, how how much
+challenge to embrace. I mean, you're not
+trying to um, you know, defrag the whole
+system, you know, and and and I
+mentioned psychedelics. I, you know, I
+do think they have some interesting
+therapeutic potential. I I also worry
+about and I can tell you examples of
+people that got I guess now they
+nowadays they call it one-shotted. They
+take Iawaska a couple times and they are
+forever different in ways that does not
+serve them. those examples don't get
+talked about quite as often as the also
+many people who you know um seem to
+benefit from these things. So um
+plasticity it seems is not the goal.
+Directed plasticity is the goal. That's
+right. And it's very hard to direct. So
+I feel like you know let's imagine you
+could take some cocktail of
+neurotransmitters and get total
+plasticity of your brain. I don't think
+you'd want that. You wouldn't be you
+anymore.
+who we are is the sum of our memories
+and the sum of our skills that we've
+built and you know that keeps changing.
+We're always a moving target. Um and who
+you will be in five or 10 years will be
+different. But I don't think we'd want
+the plasticity of an infant even though
+when you're doing let's say language
+learning you say I wish I could learn
+this as well as I did when I was seven.
+But uh generally it's not a state that
+you would desire. I think
+&gt;&gt; if you're a regular listener of the
+Huberman Lab podcast, you've no doubt
+heard me talk about the vitamin mineral
+probiotic drink AG1. And if you've been
+on the fence about it, now's an awesome
+time to give it a try. For the next few
+weeks, AG1 is giving away a full
+supplement package with your first
+subscription to AG1. They're giving away
+a free bottle of vitamin D3 K2, a bottle
+of omega-3 fish oil capsules, and a
+sample pack of the new sleep formula,
+AGZ, which by the way is now the only
+sleep supplement I take. It's fantastic.
+My sleep on AGZ is out of this world
+good. AGZ is a drink, so it eliminates
+the need to take a lot of pills. It
+tastes great, and like I said, it has me
+sleeping incredibly well, waking up more
+refreshed than ever. I absolutely love
+it. Again, this is a limited time offer,
+so make sure to go to
+drinkagg1.com/huberman
+to get started today. You've mentioned a
+few times future self. I think uh all of
+us are inherently interested in our
+future selves and whether the things of
+our past, present, uh and what we have
+control over going forward is going to
+put us in the best future self possible.
+Right? Humans love to optimize or
+fantasize about optimal. But how should
+we think about thinking about our future
+self? Or should we not do that? Right?
+Should we should we should we just avoid
+that loop-de-loop and um and uh get real
+stoic about it and just live in
+10-minute time blocks or one minute time
+blocks? It raises a really interesting
+question, I think, of where should we
+set our time horizon
+&gt;&gt; to not just feel the best, but to be our
+best and to feel our best going forward.
+&gt;&gt; Yeah. Our capacity to think about our
+future selves is the most special part
+of being humans. And you if we didn't do
+it, if we said, "I'm gonna be stoked
+about it." Yeah. You'd eat the the
+cupcake and you do what? Like all the
+things that wouldn't serve your future
+self.
+&gt;&gt; Never eat the cupcake like a real stoic
+and then starve to death, right? Even if
+the cupcake were the only thing,
+[laughter] right? What would the stoic
+do?
+&gt;&gt; That's right. So, um, yeah, we actually
+spend most of our time not in the here
+and now. We're reminiscing about the
+past and we're simulating possible
+futures. Your your mind is a movie
+theater. We're constantly thinking about
+where things are going. But this is
+great. This is what makes us able to do
+all the things that that humans do
+successfully. And in our own lives, this
+matters so much because we're able to
+think about who do I want to be? Now, as
+you know, we've got this rivalry in the
+brain. You've got all these voices going
+on at the same time, all these different
+networks running. So, for example, if I
+put the cupcake down in front of you,
+um, you know, part of your brain wants
+to eat that. It's delicious. It's a rich
+energy source. Part of your brain says,
+"Don't eat it. You know, I I want to
+stay fit." And so, part of your brain
+says, "Okay, maybe I'll eat part of it.
+Uh, but I'll go to the gym later." Or,
+you know, I promise my girlfriend that
+I'll go do this thing. What? Like, we've
+got all these voices. You can cuss at
+yourself. You can cajol yourself. You
+can contract with yourself. And the
+question is, who's talking to whom? It's
+all you, but it's parts of you that have
+these different drives. Now, the part
+that's really amazing about us is we got
+lots of short-term drives, but we also
+have this capacity to look into the
+future and think about who we want to
+be. And that is essentially subserved by
+our prefrontal cortex, which as we
+mentioned earlier is something that is
+a, you know, the size of it is unique to
+humans. All of our closest cousins in
+the animal kingdom don't have a
+prefrontal cortex that's a fraction of
+what we have. That's what allows us to
+unhook from the here and now. Okay. Now,
+here's the thing. I have been fascinated
+by this for a long time about how we
+sometimes know, okay, my future self is
+going to act badly in this situation.
+So, I'm going to do something now so
+that my future self can't act badly. So,
+this is the topic of my next book. It's
+called the Ulisses Contract. And where
+this term comes from is in the Odyssey,
+Odysius, otherwise known as Ulisses, is
+coming home from the Trojan War. And he
+realizes that way up ahead, he's going
+to pass the island of the sirens where
+you've got these beautiful female
+creatures who sing these songs that are
+so beautiful it beggars the mind of the
+sailors and and everyone crashes into
+the rocks and dies. Ulisses really wants
+to hear the song, but he knows like any
+mortal man, he's going to fall for this
+and crash the rocks. So what does he do?
+He has his men lash him to the mass. So
+he can't move. He has them put beeswax
+in their ears so they can't do anything.
+And and he tells them, "No matter what I
+do, no matter how much I'm screaming,
+just keep going. Just keep sailing."
+&gt;&gt; Smart,
+&gt;&gt; right? It's smart because what is
+happening is the Ulisses of sound mind
+is making a contract for the future
+Ulisses who he knows is going to behave
+badly. So he's lashing him to the mass.
+And what I've been fascinated by is the
+ways that we do this in our lives all
+the time. So the example you gave a few
+minutes ago about locking up your phone
+in one of these lock boxes is a perfect
+example because what you're making sure
+is that the Andrew of two hours from now
+can't do the wrong thing because you
+know he might you know he's going to be
+tempted. So you take away that
+temptation. By the way, I recently met
+uh an older gentleman who told me about
+an older woman that he'd met years ago
+who used to take her money, her cash,
+and freeze it in a block of ice in the
+freezer so that she couldn't spend the
+money until she really needed it.
+&gt;&gt; Yeah. I don't have a money spending
+thing. And I actually have pretty good
+control uh with with the phone and with
+social media.
+&gt;&gt; For me, there's also a I don't want to
+call it a sick pleasure. There's a uh a
+bit of a pleasure in knowing that it's
+completely off limits
+&gt;&gt; because it means I can't even look at it
+for 10 seconds. I don't know. I think it
+involves something over control of of
+things that I feel like are trying to
+control me.
+&gt;&gt; Yeah. Exactly.
+&gt;&gt; Which I do not like.
+&gt;&gt; Exactly. Because you care about your
+future self and you want future Andrew
+to do the right thing.
+&gt;&gt; So there are a million ways to make
+these Ulyses contracts and I've been
+studying this for years and I Yeah.
+Anyway, so I decided to to write a book
+on this because the way that we deal
+with our future selves is just this
+fascinating thing because your future
+self is a little different than who you
+are now. But with time, we come to
+understand that our future self will
+behave badly in different situations.
+And so we just try to to cut those off.
+I I'll give I'll give a couple examples.
+One is it's super useful to get um
+social pressure involved. So, for
+example, I'm guessing you and I both do
+this. You know, going to the gym is
+something we enjoy, but it's really
+useful to have a buddy where you say,
+"Hey, I'll meet you at the gym at 8
+tomorrow morning." And then even if you
+wake up, you're a little tired, your
+shoulder hurts, or whatever, you got to
+go because he's going to be there. So,
+getting social pressure involves a good
+idea. I I I found this thing where it's
+a a boot camp where you sign up for it
+and every morning, you know, go jogging
+together and do push-ups, whatever. But
+if you don't show up, the group jogs to
+your house and they stand on your front
+lawn and they do jumping jack jumping
+jacks and they scream your name until
+you come out.
+&gt;&gt; Amazing.
+&gt;&gt; Yeah, it's really good to get that to
+commit to that sort of thing so that
+you're really going to show up. Um there
+are ways to do this where you put money
+on the line. So you can say, for
+example, there was a woman who was
+trying to quit smoking and she tried for
+years to quit smoking. So, what she did
+is she wrote a $10,000 check and gave it
+to her friend and said, "If you catch me
+smoking, I want you to donate this check
+to the KKK, which to her was the most
+aversive thing that could ever happen
+with her money." And that's what
+prevented her from smoking because the
+sting of knowing that she gave her money
+to the KKK was the worst thing that she
+could imagine. So, there are a million
+ways to do these Ulisses contracts, but
+what they have in common is how do you
+lash yourself to the mass so you'll keep
+the good behavior you want?
+Yeah, the example of this woman writing
+the check is interesting because um
+I could ask why couldn't she access her
+inner clearly has a lot of inner fight
+right like she really stands so strongly
+on one camp which um I agree the KKK
+horrible organization would never want
+to support them in any way uh whatsoever
+and um and yet she needed to do that
+right she needed a punishment a
+potential punishment
+And so it speaks to how even if we know
+something and feel something so strongly
+in the present,
+&gt;&gt; yes,
+&gt;&gt; it still becomes very hard to um to
+access our best choices.
+&gt;&gt; Yeah.
+&gt;&gt; Um but there's something about the
+future self that we're not even in yet
+that we fear our future self so much
+more than than we uh can't handle the
+the discomfort of our present self. It's
+almost like and so we tether those in
+this Ulyses contract.
+&gt;&gt; Yeah. It's a kind of wisdom that we come
+to understand how we will behave when
+we're not in our present, you know,
+sober, rational moment. Um, we come to
+understand, for example, people who are
+trying who are alcoholics and they're
+trying to break that. The first thing
+they're told at, um, Alcoholics
+Anonymous is clear all the alcohol out
+of your house. Because you might think,
+okay, I'm done. I'm firmly going to not
+drink anymore. So, you put the alcohol
+away up in a high shelf. But on a
+festive Friday night or a lonely Sunday
+night or something, you might go up
+there. Your future self might do that.
+So what you do is you get rid of the
+temptation. Same thing with people who
+are trying to battle drug addictions.
+They're told, "Never carry more than $20
+of cash in your pocket because at some
+point you're going to run into some guy
+who's trying to sell you drugs and if
+you got the money, it's burning a hole
+in your pocket. You buy the drugs." I
+don't think we can trust our future
+selves. When we're in a moment of
+reflection and we can think about who we
+want to be, it's worth setting into
+place some walls.
+&gt;&gt; So that's about avoiding uh bad
+behaviors. Um what about building toward
+future self where we're trying to
+envision a better version of ourselves
+that involves actively doing things. So
+there's always dos and don'ts in order
+to become our better self. Um, how does
+Ulys's contract play in when it's not
+about the sirens? When it's about um
+knowing that we want to be
+this person or have these attributes or
+having done something and trying to tie
+our future self to our present behavior,
+how good are we at that? Um, in general,
+&gt;&gt; yeah,
+&gt;&gt; better or worse than avoiding bad
+behavior?
+&gt;&gt; Oh, we're terrible at all this stuff. I
+mean, take New Year's resolutions. I
+mean, everybody makes New Year's
+resolutions. they rarely last a week or
+two before they drop off. People get
+busy, people get tired or whatever. Um,
+so it's just as important with the
+positive things to hook things to that.
+Um, for example, this idea of putting
+money on the line. There are various
+websites where you can do this. You say,
+"Okay, look, I'm going to put, you know,
+50 bucks on the line that I want to be
+able to bench 250 by this date or
+something like that." Um, and then
+you've given your money to this company
+and you have to get to that point. So,
+you get your money back. Um, there are
+lots of ways to do this. Um, you know,
+obviously putting, you know, I think you
+had James Clear on a little while ago
+and and there there's all kinds of good
+uh ideas that he's got about, you know,
+put your running shoes near the door or
+whatever so that it's easy. You get the
+you get rid of the friction to go do
+things like that. But all of those moves
+are for your future self. When you put
+your shoes near the door before you go
+to sleep that night, you are doing
+something because you know your future
+self's going to be a little bit lazy and
+tired.
+&gt;&gt; I have friends that are uh I'll just
+call them what what I would call them to
+their face because it's a friendly
+exchange. Are are kind of neurotic,
+right? They tend to overthink things. If
+they're going to go running at 8 a.m.
+and it's 8:02, they're like, "I can't go
+because it's 8:02, not 8. I'll go at
+9:00. Got to do it on the hour." This
+kind of thing. And then I know people
+who are like you just do things and you
+don't think about it as much and they're
+good at suppressing that voice. Um I
+think we assume that the the chatter the
+the neurosis doesn't exist for them but
+I think um I think it does. They're just
+better at saying like like ignoring that
+inner voice. Um
+&gt;&gt; we're never trained how to do this.
+We're never taught as kids here's when
+you need to really think and deliberate
+and here's when you just need to just do
+it.
+&gt;&gt; Yeah. And it's interesting to think
+about, okay, different career paths,
+different life requirements, and so
+forth. But, um, I feel like people fall
+into kind of two camps with this. Some
+people need to think and analyze less
+and do more. And some people actually
+need to, you know, probably still do,
+but maybe think a little bit more about
+their behavior and reflect a bit more.
+And they would probably both say, "I'm
+crazy about this." Um, I won't tell you
+where I land. I think I'm kind of in the
+middle. No, I'm just kidding. Um,
+[laughter] it depends on on what's at
+hand. Yeah.
+&gt;&gt; for most people I think. Um
+&gt;&gt; what do you think that's about the
+ability to suppress the various versions
+of oneself or not?
+&gt;&gt; The inner voice.
+&gt;&gt; Yeah. You know, I would say one of the
+most fascinating things we've discovered
+in neuroscience to for my money is is
+just this issue that along anything we
+measure there's a spectrum. So just take
+something like the internal voice. Uh
+for my wife for example, she describes
+it as her inner radio. She's always
+hearing her inner voice. I I don't
+really have one. I just never hear that.
+So, we're on opposite ends of the
+spectrum that way. But, you know, one of
+the things I've studied is um aphantasia
+all the way to hyperfantasia. That means
+when you know, if I ask you to visualize
+an ant crawling on a tablecloth towards
+a jar of purple jelly, some people see
+it like a movie in their head. That's
+called hyperfantasia. Some people have
+no picture at all in their head. That's
+called aphantasia. And everywhere is
+everyone is somewhere in between on the
+spectrum.
+&gt;&gt; What does the middle look like? So, if I
+do that, if I maybe everyone can do this
+right now. It's a a fun experiment. If
+you're driving, don't close your eyes.
+Um [laughter]
+&gt;&gt; uh
+&gt;&gt; picture sun coming over the mountain and
+the rays of the sun poking through the
+clouds
+&gt;&gt; and then it starts raining and rains
+coming down.
+&gt;&gt; Mhm.
+&gt;&gt; So, the question is, do you see it as
+clearly as a movie or do you have really
+no visual anything in your head or are
+you somewhere in between? Typically,
+this is judged on a scale from one to
+five where five is a movie, one is no
+visual at all and, you know, three is in
+between. Where where do you stand on
+that?
+&gt;&gt; I feel like I can see it quote unquote
+um in my mind's eye, but um it's almost
+like I'm looking at a silhouette of it.
+So, even though I want to see bright,
+you know, rays of sun, sunshine, one of
+my favorite things in life. I know
+they're there, but they're actually pale
+pale yellow, it's almost as if it's more
+opaque than it would be in real life.
+&gt;&gt; Yeah. You're saying people with it with
+hyper hyperfantasia see it as a same way
+I would on a on my phone
+&gt;&gt; essentially. Yes. They're seeing it like
+like vision. Now I happen to be
+aphantasia. So it's very hard. You know
+I've studied this for years. I've
+interviewed hundreds of people on this
+and so I get their description but I
+can't I can't picture that myself. By
+the way it's an interesting quick
+tangent. Um for years I've talked with
+Ed Catmol about this. Ed Catmull is the
+guy who started Pixar. Pixar with all
+these terrific animated films and so on.
+Um Ed has all these patents on like how
+to do ray tracing to get the you know to
+get these animated characters looking as
+amazing as they do. He was surprised
+when he discovered that he was
+afantasic. He doesn't picture anything
+in his head. So he ended up giving this
+questionnaire to everybody at Pixar. And
+it turns out most of his best directors
+and animators are aphantasic. They don't
+see anything in their head. And nobody I
+think would have predicted that because
+it seems so strange this visual,
+you know, magisterium of of Pixar. But I
+I have a hypothesis about why this is.
+It's because the kid who grows up who's
+aphantasic,
+when they're asked, "Okay, draw a
+horse." You know, the kid sitting next
+to them who's hyper fantasic says, "Oh,
+I know what a horse looks like." And
+just draws it. But the poor aphantasia
+kid has to really stare and figure out
+like that, okay, how does that work? And
+so on and and they get better at drawing
+as a result. That's why all his best
+animators and drawers are people who
+grew up a fantasic.
+&gt;&gt; Interesting. I'm just uh thinking about
+that movie. Have you seen that movie Bow
+Finger?
+&gt;&gt; No.
+&gt;&gt; With with Steve Martin and uh Eddie
+Murphy, which is Bowfinger is the you
+know, for those just listening, it's
+where you put kind of make two uh you
+know L an L and and a sort of reverse L.
+And it's like how you know it's about
+making a movie in LA and uh it's it's
+hilarious. It's it's spectacularly
+funny. It's got those two folks I just
+mentioned, Heather Graham, a bunch of
+other people, but but he's constantly
+going around and kind of envisioning,
+you know, that this is the movie. This
+is the movie. Exactly. And so I always
+thought people that make movies are
+going through life thinking, okay, like
+there's the shot and there's the shot.
+But I think what you're saying is that
+there's somewhere in between where
+people have this kind of fantasy life of
+like, okay, here's this um here's the
+script and then um they can't really
+imagine it and so they have to put more
+work into uh materializing it.
+&gt;&gt; Yeah.
+&gt;&gt; Okay. Well, they have a dialogue with
+the page. So, if you're a guy drawing
+and you know you're looking at the horse
+or you're picturing what you know, Ariel
+the mermaid looks like or whatever,
+you're you're trying lines and
+scratching and doing things, you don't
+come to the table always saying, "Oh, I
+know what a mermaid looks like." And you
+draw it. Um, so they just end up getting
+more practice and they get better at it.
+&gt;&gt; I love this stuff because what we're
+really getting at here is um, you know,
+I think as you mentioned, everyone has
+kind of individualized hardware and
+software, but there are some
+commonalities. And you know, wouldn't it
+be spectacular if we knew, you know,
+which you know, just like we learned,
+okay, here are the macronutrients and
+you perhaps want them in different
+proportions depending on who you are and
+what you need and, you know, and uh you
+need to, as a kid, you should probably
+learn how to like climb and run and, you
+know, and assuming you have access to
+all of that, you know, and um and jump a
+little bit, but you know, maybe you
+won't be an athlete, but you need to
+like be active at some point and then
+you be and we tend to figure out what
+we're good at and then really lean into
+those trenches and then by then we're
+getting evaluated for it and the way
+we're evaluated puts us on a career
+track and there's very little
+opportunity to go back and kind of fill
+in blanks. Um, right there's, you know,
+I I'm never going to be a musician in
+part because I'm just not willing to put
+in the work because there are other
+things I'd rather do with my plasticity.
+Right? So, um, and maybe that's best.
+So, big big picture question. Um do you
+think that
+human evolution and the progress of
+building technologies
+um reflects the fact that people get
+siloed into um different tracks and on
+the whole that's advancing our species
+right you've got people that are hunter
+gatherers still very good at that and
+building and other people building
+weaponry and other people building AI
+technologies and that that it would be
+uh detrimental to our species if
+everybody got sort of core
+neuroplasticity training, learning how
+to do a little bit of everything, right?
+Um, or is that the the what we see as
+chance actually part of the reasons why
+humans are the curators of the earth?
+Not just the prefrontal cortex, not just
+the extended window of plasticity, but
+how we are afforded different
+opportunities to work with that
+plasticity.
+&gt;&gt; Yeah, I'd say a couple things. One is
+we're clearly predisposed to particular
+things. And so, for example, I'd like to
+be a swimmer as good as Michael Phelps,
+but I just don't have the wingspan that
+he does. is he's got like I don't know
+seven feet between his fingertips or
+something. Gez, there's no way I'm going
+to be able to be as good as he is. Um
+that's a genetic thing that he drops in
+the world with that I don't fine. Um so
+given that people are off on different
+trajectories anyway, the way I think
+about this, I don't know how this will
+translate just in terms of audio, but
+like a space-time cone in physics is
+where you start in one spot and then
+there are all these different
+trajectories you can take into the
+future. Picture this like you're
+starting at the bottom of the ice cream
+cone and you can you you can take any
+different trajectory as long as it still
+exists within the ice cream cone. Okay.
+So, um you know, we drop into the world
+with our genetic skills and
+predispositions. We have childhoods that
+we don't choose. We're born into a
+cultural language and era that we don't
+choose. And that defines the limits of
+the ice cream cone about where we can go
+with that. As far as specialization
+goes, you know, economists will argue
+this is part of what makes a very
+healthy society is that, you know, some
+people become the lumberjacks and some
+the lawyers and some the accountants and
+whatever. Um, you know, I do feel like
+we're in a really great era though in
+general in humankind where kids do get
+very broad educations and they're sort
+of encouraged to try everything and
+spend a few years in karate and in
+soccer and in piano lessons and so on.
+That's wonderful. So the my father was a
+psychiatrist and he always said really
+the whole job of a parent is just to
+open doors for the child. That's it. So
+you give the child all these lessons,
+you open all these doors and then the
+kid takes their own path depending on
+you know this extraordinarily
+complicated formula of things that we'll
+never understand but they go through one
+door and not the others. Kirkagard said
+every man starts as a thousand men and
+dies as one. And what he meant, of
+course, was that you start with all this
+potential. You could do all you could
+have been a great saxoponist or
+whatever, but you're going to die having
+done exactly what you did and and not
+the other path. So, what's weird about
+life is that yeah, every door that you
+choose, some others close as a result.
+&gt;&gt; Kirkard uh seemingly understood that the
+nervous system starts out hyperwired and
+then a lot of learning is the pruning
+back of connections and strengthening of
+the remaining ones.
+&gt;&gt; That's exactly right. Exactly right. You
+know, so as you of course know, the the
+brain starts out, you got essentially a
+fixed number of neurons. There's some
+debate about whether there's a few new
+neurons born in humans or not. Put that
+aside. What happens is over the first
+two years, those neurons connect more
+and more and more and more. And what you
+end up getting is this hyperconnection
+by the time you're two years old. And
+from there, it's just a matter of
+pruning an overgrown garden. And that's
+all that's happening. And and the way
+the pruning happens is based on what
+you're experiencing in the world. the
+world is what prunes your garden and and
+strengthens particular paths and lets
+other paths go
+&gt;&gt; as a bridge perhaps between plasticity
+and time perception which we've been
+sort of doing already. Uh I have this um
+practice that I've been doing for a few
+years um in hopes that it's beneficial
+for something and I I just like your
+thoughts on it. Um I'm not looking for
+approval here uh truly but here's the
+idea. I was struck by the somewhat
+obvious thing that, you know, we can
+close our eyes, uh, focus on our
+interosception, our skin, our breathing.
+We can meditate, bring our awareness,
+you know, into the quoteunquote present.
+The breathing is seems like a good way
+to do that. Um, or we can open our eyes
+and we can focus on something some
+distance away. Or we can imagine the
+pale blue dot and we're just this little
+thing running around on this pale blue
+dot. And you know when we move through
+those different uh realms of space, not
+just outer space, but from body to out
+of outside our body to outer space,
+there's a different time association
+with each of those. And I' I'd like your
+thoughts on that. And I I just started
+devoting a little bit of time to
+stepping from one of these to another
+and just spending some time trying to uh
+think and exist in the different time
+domains um in my head. And so I'll do
+that maybe for 2, three minutes or four
+minutes or five minutes. And I told
+myself, and I still tell myself, that it
+affords me some flexibility when
+something's happening in the moment and
+you want to get perspective. It's about
+getting out of that time domain and
+realizing this isn't going to go on
+forever even though it feels like it.
+So, I developed this as a bit of a
+practice for myself.
+&gt;&gt; Um,
+&gt;&gt; because I I felt like it's just a it's
+not a meditation. It's a perceptual
+exercise. Um, so what I'm curious about
+is the relationship between time
+perception and where we place our
+attention. That's the first question.
+And then you know maybe what we can do
+with this or or could we evolve this uh
+perceptual exercise so that um I and and
+others perhaps if they want to can start
+to access different um space-time
+representations which sounds so fancy
+but it's really just a way of like
+getting outside yourself or getting
+within yourself. Sorry if I'm being um
+choppy here but but this is something
+that feels very important.
+&gt;&gt; I I love that. I think that's brilliant.
+Um, one of the things that is so
+striking about time perception is that
+you don't have a single part of the
+brain that deals with that. You actually
+have different mechanisms that deal with
+thinking about long eras of time and
+seconds and subseconds. Um, totally
+different mechanisms going on here. Uh,
+and and we can demonstrate this in the
+laboratory. So, time perception is
+something I've been studying since
+graduate school. And um you know I'm
+happy to say I've got papers in science
+and nature and you know the top journals
+on this topic. Why? Because it's such a
+weird thing that's so understudied about
+how why why we perceive time the way we
+do. So um let me say a few things about
+it. One is that it is a these longer
+time scales what you're referring to
+thinking about being uh far away in
+space and time. This is a cognitive
+development. children can't do this well
+and they learn better and better. So,
+for example, if you talk to a a seventh
+grader and you talk about the Roman
+Empire and what was happening 2,200
+years ago, it's re it doesn't mean
+anything to, you know, it's like, okay,
+so that's the past and whatever. But as
+you get older, if you become, let's say,
+a professional historian, you get better
+and better at understanding that. Why?
+because you've lived decades and so now
+you can sort of think you can sort of
+feel what a century might look like and
+you can sort of with practice get better
+at at these things. But the point is
+that is something we learn how to do
+both in space and time. Obviously when
+you're an infant in the crib, space is
+just a really close thing and eventually
+&gt;&gt; it's your whole world.
+&gt;&gt; It's your whole world and eventually you
+get outside and you look down long
+highways in Utah and you you you really
+start getting a better sense of this.
+Um,
+I I to my knowledge there's no data on
+on what it would be to to sort of throw
+yourself back and forth between these
+different space-time uh scales. I love
+it though. One of the classes I teach at
+Stanford is called the brain and
+literature. Uh, I've always been a lover
+of literature and one of the things that
+I love is when authors do exactly this
+where they they zoom in on something
+really tight and they're really paying
+attention and then they zoom way out.
+That is the most extraordinary sort of
+feeling. Um, so anyway, I commend you on
+coming up with that version of
+space-time meditation or whatever it is.
+That's very smart. Yeah, it was um it
+was born out of this thing, you know,
+the the Victor Frankle thing like
+between stimulus and response, you know,
+and but there's something about the
+autonomic nervous system like when we're
+in a heightened state of stress. Um
+we're not good at getting outside of the
+moment, you know, people like take 10
+breaths or whatever and it wasn't that I
+was having struggles with that. I just
+thought so interesting like you watch a
+movie and it seems to be placed in a
+different time domain in each scene or
+um and you know then you go for a walk
+or a hike and I I have this obsession
+with the idea that when we see horizons
+we have a different time perception than
+when we uh can't see horizons um and
+there's too many variables to do this
+right you could do it in VR in a VR
+experiment but um because when there are
+close walls you have claustrophobia but
+there there ways to do this correctly
+how you change your your your vision or
+visualization changes your time
+perception. So, I don't know. I just
+look at it as a flexibility exercise.
+And um and I'm a scientist and a weirdo,
+so I I I do these things. Um but uh
+you're the expert in time perception.
+So, I wanted to ask um and I also want
+to ask about time perception. Um how
+good are people at perceiving time? And
+um why am I always late? [laughter]
+&gt;&gt; The why are you always late? That has to
+do with Ulys's contract thing, which is
+just it it requires a commitment to say,
+I'm going to be the kind of guy who's
+always on time. And the way to do that
+is to say, I'm going to commit to always
+being five minutes early. So, you get to
+a place early and you just hang out in
+your car and you, you know, take care of
+some texts or whatever. That's the way
+to be always on time. Okay. But are
+people good at perceiving time? No.
+We're actually quite terrible at it. Um,
+and some people are better than others.
+But one of the lessons that's emerged
+from my research on this stuff is that a
+lot of time is is illusory. Um, so you
+you may know I did this experiment years
+ago. I was very interested in this
+question of does time run in slow motion
+when you're in fear for your life?
+Because when I was a child, I fell off
+of a roof of a house. I almost died. I
+landed on my I landed in a push-up
+position and busted my nose so badly
+that they had to remove all the
+cartilage and so on. And I've had a
+terrible sense of smell ever since
+because I busted the cri cribopform
+plate and everything. But the part that
+interested me even as a child was that
+the whole fall seemed to take so long.
+It felt like, oh my god, that was this
+really long thing. Obviously, I was
+totally calm during it. I was thinking
+about Alice in Wonderland as I was
+falling and how this must have been what
+it was like for her to fall down the
+rabbit hole. Um, this is typical. I was
+8 years old.
+&gt;&gt; Wow. And this is typical when people are
+in life-threatening situations is that
+there's a sense of total calmness and
+bizarre thought, but also it seems to
+have taken a long time. You know, people
+report this all the time when they're in
+car accidents. They say, "Oh, I I
+watched the hood crumple and the
+rearview mirror fall off and I was
+looking at the face of the other guy and
+whatever." People experience this in
+gunfights like police officers and so
+on. Everything seems to take a longer
+time. What happened is when I grew up
+and became a neuroscientist, I realized
+no one had ever studied that. And I got
+really curious about is it the case that
+time seems to run in slow motion while
+you're experiencing it or is it a trick
+of memory somehow? So I ran what to my
+knowledge are still the only experiments
+that have ever been done on this. Do you
+know about this? So
+&gt;&gt; yes and no. Yes, I'm familiar with the
+paper. No, I've never heard it this way.
+So keep going.
+&gt;&gt; Okay, great. So what I did is I rounded
+up 23 volunteer subjects and I dropped
+them from 150ft tall tower in freefall
+backwards and they're caught by a net
+below going 70 m an hour. I want to be
+in your experiment.
+&gt;&gt; Yeah, you you would have loved this.
+It's a re but it's terrif I did it
+myself three times first to make sure it
+was all running and it's equally
+terrifying all three times because
+you're falling backwards. Okay. What I
+did is I then built a device. My
+students, I built this device. It fits
+on people's wrist and it flashes
+information at them in such a way that
+we could measure the speed at which
+they're taking in information.
+Essentially, we're taking uh we're
+taking advantage of what's called
+flicker fusion frequency where we're
+flashing lights really quickly and you
+can see that at a certain rate of
+lights, you can see exactly what's going
+on. And just faster than that
+alternation rate, you can't see
+anything. Okay. So we draw people, we
+had them read the numbers on the
+wristband and we're finding out are
+people actually seeing in slow motion
+during a life-threatening situation.
+This is on 23 people, the results are
+very clear. People do not see any faster
+in a life-threatening situation. And yet
+when we ask people retrospectively with
+a stopwatch to judge how long their fall
+was versus watching someone else do the
+fall, their own fall felt much longer to
+them. Okay, turns out this is all a
+trick of memory, which is to say when
+you're in a life-threatening situation,
+you recruit not just your hippocampus
+for laying down memory, but a a
+secondary memory track mediated by the
+amydala, you're you've got this
+emergency control center, and you're
+writing down memories in this other
+secondary track. When you read that back
+out, you say, "What just happened? What
+just happened?" You've got all this
+density of memory that you don't
+normally have because you've written
+down every detail. So your brain says,
+"Oh my gosh, this is what happened and
+the hood crumpled and so on." Um, but
+it's because all we're ever conscious of
+is our memory of an event, as in what
+happened during the event. So when
+you're in a life-threatening situation,
+you write more down. You think it took
+longer um to uh to transpire. And by the
+way, this issue about memory equals time
+explains a lot of things. For example,
+the issue of when you're a child and a
+summertime seems to take forever and
+then by the time you're our age,
+summertime seems to disappear. It's
+because as a child, you're figuring out
+the world. You're writing down lots and
+lots of memory during that summer. Oh,
+this is the first time I ever saw a
+waterfall and went hiking here and did
+this thing. But by the time you're our
+age, you've sort of seen all the
+patterns before. And so what we're, you
+know, when we look back at a summer, we
+don't have much new footage to sort of
+anchor on. So we say, "Oh, well was the
+winter, now it's the fall. Okay, fine. I
+guess that was really fast.
+&gt;&gt; Amazing.
+&gt;&gt; So, this is why time speeds up as we as
+we grow older.
+&gt;&gt; Glucose is a key player in how our body
+functions, not just in the long term,
+but in every moment of our lives. That's
+because it is the major fuel for our
+cells, especially our brain cells.
+Glucose directly impacts our brain
+function, mood, and energy levels. And
+it may even affect our levels of
+tenacity and willpower. This is why I
+use the continuous glucose monitor from
+Lingo. I absolutely love it and I'm
+thrilled to have them as a sponsor of
+the podcast. Lingo helps me track my
+glucose in real time to see how the
+foods I eat and the actions I take
+impact my glucose. When glucose in your
+body spikes or crashes, your cognitive
+and physical performance do too. In
+fact, large glucose peaks and valleys
+lead to brain fog, fatigue,
+irritability, and hunger. What you eat,
+of course, plays a major role in your
+glucose. Some foods cause sharp spikes
+and big crashes, and others do not. But
+not everyone is the same in terms of how
+they respond to particular foods. Seeing
+your glucose in real time helps you
+build eating and other habits that
+support metabolic health, mental
+clarity, and sustained energy. Lingo has
+helped me to better understand what
+foods to eat, when to eat, and how
+things like a brief walk after a meal
+can help keep my glucose stable, and
+much more. If you'd like to try Lingo,
+Lingo is offering Huberman podcast
+listeners in the US 10% off a four-week
+Lingo plan. Terms and conditions apply.
+Visit hellingo.com/huberman
+for more information. The Lingo glucose
+system is for users 18 and older, not on
+insulin. It is not intended for the
+diagnosis of diseases, including
+diabetes. Individual responses may vary.
+I mean, I feel like these are what
+you're covering today is uh like the the
+most interesting things about life and
+experience. I have a question about um
+the fall experiment.
+&gt;&gt; Yeah. Is it accurate to say that
+your perceptual frame rate during a
+highly stressful experience is not
+different?
+&gt;&gt; Is no different.
+&gt;&gt; You're not taking uh a um higher frame
+rate movie. Yeah.
+&gt;&gt; Okay. Which is more frame rate is how
+they generate slow motion for instance.
+Makes sense. Like as opposed to strobe
+frame rate or you know just right. Um
+but that in some sense your unconscious
+frame rate is because the amydala is
+tracking more information than you
+normally would have have access to in
+say a calm everyday experience and so
+the memory is higher frame rate but the
+experience is not you know yeah it's
+really close I wouldn't say I wouldn't
+use the term frame rate in there it's
+just that you have under normal
+circumstances you write down almost
+nothing you just everything's passing
+through you're not really remembering
+much but in an emergency situation, your
+amydala being the emergency control
+center says, "Everybody stop what you're
+doing. This is the most important thing
+going on. Everyone pay attention to
+this." So, you're noticing every detail
+and you're not used to that. So, just
+for anyone who knows what I'm referring
+to here as a basian issue, um you know,
+you you your brain thinks, "Okay, a
+certain amount of memory must equal a
+certain amount of time." Now, you've got
+just a lot more detail. And so, it says,
+"Oh, well, that must have been, you
+know, six seconds or something." I what
+I did by the way I collected hundreds
+and hundreds of subjective reports from
+people who had been in accidents of
+various sorts. You this guy got in a
+motorcycle accident and had you know
+come off the motorcycle and had turned
+over and over and over on the road and
+he said as he was rolling over and over
+he was like composing a little diddy in
+his head like a little song to the sound
+of his helmet hitting the road and so on
+because this is the kind of bizarre
+thought that people have. But it seemed
+to have taken a long time and when he
+saw footage of it afterwards, you know,
+the whole thing took whatever a second
+or two, but it seemed to him to have
+taken six seconds. But again, it's in
+retrospect when he's thinking, what what
+happened? What was the event like? Um,
+by the way, I'll just mention after I
+published this paper, sometimes people
+would come up to me after a talk and
+say, I know that's not true because I
+was in a car accident. I know it took a
+long time. And I said, "Okay, look, the
+the person on the passenger seat next to
+you who was screaming no, did they did
+it actually sound like they were saying
+no?" Because if time were running in
+slow motion, that has to be the
+consequence that everything is spread
+out. And they had a allow that it didn't
+sound like sounds were distorted and so
+on. So um it is really about having more
+higher density of memory.
+&gt;&gt; Super interesting. What about for
+nonstressful, non life-threatening
+circumstances like let's pick a a purely
+happy event?
+&gt;&gt; Yes. Yes.
+&gt;&gt; One would hope day of one's wedding. Um
+&gt;&gt; yeah,
+&gt;&gt; you know, I was about to say birth of a
+child, but depending on how you know
+who's doing the majority of the work and
+how stressful it was, I mean, of course,
+the birth of a healthy child is a super
+wonderful event, but it can be very
+stressful, too, under certain
+circumstances. So, let's pick something
+purely happy, right? uh a terrific
+wedding, a great party, maybe a vacation
+with your spouse or family where it just
+is like bliss day.
+&gt;&gt; Yeah.
+&gt;&gt; Are you clocking more experiences? So,
+anytime you're doing something novel,
+and this actually ties back to the
+conversation we had before about seeking
+novelty, whenever you're doing something
+novel, you're writing down more memory.
+And that's the whole key. So, for
+example, if you spent your last weekend
+going off and doing something wacky
+you've never done before, parasailing
+and over sharks or whatever the thing
+is, you'd come back and you think, "Wow,
+it seems like it was so long since
+Friday. Now it's Monday. It's been
+forever since I was back in the studio."
+But if you have a normal weekend, we're
+not doing much of anything but surfing
+Instagram or something. Then you come
+back and you think, "God, it was just
+Friday."
+The difference is just how much memory
+you clocked and therefore
+what you can draw on in terms of
+footage. Um I I actually think this
+happens with drugs where people, you
+know, people sometimes have the
+experience on marijuana where they
+think, "Wow, I've been standing here
+forever." And it's because they're
+having a hard time anchoring down on
+footage about like when did I arrive to
+the kitchen and when what happened since
+I've been here and so they just they
+don't know. But uh anyway, the point is
+sometimes people have this idea about
+time speeding up as you get older. They
+say, "Well, you know, to an to an
+eight-year-old, a summer is this fra big
+fraction of their life, but to a
+50-year-old, it's a it's a smaller
+fraction." But I don't think that's it
+at all. It's that it's it's what you did
+this past weekend can make the weekend
+seem longer. When it comes to some great
+new event like the birth of a child or a
+wedding or whatever it is, it has to do
+with how much attention you're paying
+and how much memory you're writing down.
+And that means it is to some degree in
+our control. If we really attend to
+things and write down memories instead
+of letting life just wash over us,
+we can seem as though we've lived
+longer. I'm not talking about longevity.
+I'm just talking seeming as though
+you've lived longer, which is look,
+here's here's something that I try to do
+all the time is just switch stuff up.
+For example, brushing your teeth with
+your other hand. Not hard to do, but
+it's just one of a million ways of
+knocking yourself off a path. One thing
+I try to do every time I drive home from
+Stanford is I try to take a different
+drive home, a different route home. You
+know, waste an extra minute, whatever.
+But it's I'm seeing new things. I'm
+observing new things about the
+neighborhood or whatever that I hadn't
+noticed before. One thing that's very
+easy to do is just rearrange your
+office. like push your desk over here,
+take two paintings and just swap them on
+the wall. All this stuff is super easy,
+but it really matters. It's important
+because what it's doing is enhancing
+brain plasticity in the sense of just
+challenging, you know, your your
+internal model says, "Okay, I've got
+I've got this world." And then suddenly
+says, "Oh, there's something new.
+There's something interesting going on
+in this world." And it makes it seem as
+though you've lived longer because
+you're writing down more memories about
+everything.
+&gt;&gt; Gosh. Uh this time perception thing, uh
+I spend way too much time thinking about
+it. And um and I'm still trying to wrap
+my my head around how much time we
+should spend trying to be present. So I
+have a and this is not an official
+definition but my kind of um
+understanding of the dopamine system and
+addiction as I say uh and people have
+heard me say before you know an
+addiction is an progressive narrowing of
+the things that bring you pleasure. It
+also involves continued use or uh or
+behavior despite negative consequences.
+But but but I mentioned the other
+definition of addiction uh progressive
+narrowing of the things that bring you
+pleasure because I was trying to come up
+with some um at least semi at least
+accurate if not but not exhaustive
+definition of kind of like enlightenment
+when people talk about enlightenment
+right all these monks who are so get so
+present through all this meditation or
+people go to big su and they get you
+know they're so present present present
+enlightenment I think of one definition
+might be okay I'm not the authority on
+this but might be a progressive of
+expansion of the things that bring you
+pleasure. But to really get pleasure out
+of a sip of water. I'm not terribly
+thirsty right now. If I take a sip of
+water, it doesn't taste anything like if
+I were very thirsty. But we need to pay
+attention. We need to be in the pre what
+is paying attention? It's being
+&gt;&gt; most of the time in the present, right?
+Paying attention to these things. But if
+we spend all our time in the present, we
+um we eliminate Ulyses contract.
+&gt;&gt; Yeah.
+&gt;&gt; So the extremes can't be good. But I
+think it examining the extremes like the
+freef fall experiment, they're useful uh
+windows into time perception and how and
+how we measure life. It could be that by
+establishing Ulys's contracts in many
+aspects of our lives, we get more of an
+opportunity to be in the present because
+we know, look, I don't have to worry
+about my future self. I'm not going to
+eat that cookie. I am going to go to the
+gym, whatever, because I've already set
+up these contracts. I don't have any
+cookies in my house. I'm meeting my
+buddy at the gym. Whatever. Then you
+have more of an opportunity to be in the
+present. Um, you don't have to simulate
+all kinds of futures. Um, yeah, I think
+paying attention to things matters a
+lot, but we have to be smart about what
+we pay attention to. I mean, it might be
+lovely to really love the water and so
+on, but not, you know, your Instagram
+feed or something. So, it's just a
+matter of uh of thinking clearly about
+what you want to pay attention to and
+devote your memories to. And this this
+translates into what you set up. Like,
+I'm going to set up a dinner at my
+house. So, I'm going to invite my close
+friends and I'm going to have this
+dinner and pay 100% attention to this
+dinner. I'm going to be present at this
+thing because that's the stuff of life.
+&gt;&gt; Where I'm getting to with this is that
+there's um beauty and there's tragedy at
+every spatial scale and every temporal
+scale, right? I unfortunately in my
+neighborhood, you know, this issue has
+not been resolved. Um, in many places,
+you know, we have a we have a
+homelessness and drugaddicted and mental
+illness population and those intersect
+in very complicated ways that is so
+extreme that you can see people who are
+um paying immense amount of attention to
+what anyone else would consider trivial
+like the the you know bits of dirt in
+the on the sidewalk and so and we and
+it's so tragic, right? We can see that
+that's not a a good use of one's time,
+attention and focus, right? But there's
+also beauty at all sorts of scales,
+right? I think one of the obsessions
+that people have with like fractals and
+you know these um organization at very
+small scales all the way up to very
+large scales is it it brings us to this
+like relationship with life like there's
+all this stuff we can't see and it's
+beauty at every scale, tragedy at every
+scale, right? I mean there I don't even
+have to mention a tragedy at massive
+scale because they're all over the world
+and they have been throughout human
+history frankly. By the way, I was just
+I was just in Las Vegas at CES uh giving
+a talk yesterday and as I was leaving, I
+looked out the window and there was, you
+know, this uh Chinese lion statue and
+there was this homeless woman smoking a
+cigarette and she was rubbing this thing
+very vigorously and the guy driving the
+car told me, "Oh, that's good luck if
+you rub the statue," which is of course
+ridiculous. But the woman was rubbing
+and rubbing and that we're at a red
+light and I watched her for, you know,
+like 60 seconds doing this. And yeah,
+and it was tragic to me because her
+brain has set up an association which is
+if I do this action, there will be this
+result. That's what her future
+simulation is telling her. And as far as
+we can tell, that's not true that she'll
+have good luck from doing that. But
+yeah, that was an example of tragedy.
+Yeah, it's almost like the the uh the
+worst thing for any human uh suffering
+from mental illness or not is to
+proverate on one spatial or time scale
+to like get in the tunnel of the thing
+that's right in front of you or to be
+lost out. You know, you we see people
+and and we even know some people are
+arguably a little bit strange and they
+don't not maybe perhaps to the extent of
+full pathology, but they got their head
+in the clouds all the time. You can't
+really function in life. They need
+handlers, right? I know some creative
+people like this. The only reason why
+they are not like the first person I
+described is because they have handlers
+to handle all the stuff that's at closer
+spatial scale. Get the get organized.
+Get you know and but uh actually a good
+examp I'll just give a concrete example
+because he was so awesome. I didn't know
+him personally but Shane McGawan the
+singer for the Poges
+&gt;&gt; who had severe this is not a secret had
+severe issues with alcohol. Um all his
+teeth had rotted out. Later in life they
+gave him teeth. I was once going to see
+the Pogues in San Francisco. I love the
+Pogues. And that day I got I got to the
+city early. I brought my work up there
+and I see this guy walking along Giri. I
+didn't know who it was at the time. He's
+got like this really nice like it looked
+like almost like a silk shirt and the
+tag is still on it and he's just
+shuffling out into traffic and I'm like,
+"Oh my god, this guy's going to get
+killed." So I get out. It's Shane
+McGowan. And then his team comes running
+over like, "Oh, we got to get him back."
+And he was so blasted he didn't even
+know where he was. And apparently that's
+how he was much of his life.
+that evening he got on stage, barely
+made it to the microphone and gave a
+legendary one of many legendary Pogue
+shows, right? I mean, it's just um and
+for those that don't know the Pogues,
+you should look it up. And if you do, I
+mean, they there tons of movies and the
+Love You Till the End song that's in
+every romantic comedy, that's them. And
+you know, it's just so there are people
+like that. And oftentimes that ultra
+creatives they're they're a drift but
+you can in it seems to I'm not
+suggesting the alcohol but they but to
+be able to kind of pull all that into
+the moment seems to be their super
+skill. Most people it seems and I I
+wonder if you think a definition of
+mental health is the ability to switch
+out from these different time domains
+because you also don't want to be in a
+watchmaker mode all the time. That
+watchmaker needs to pay attention to his
+or her kids. Well, I tell you, Albert
+Einstein said that he really enjoyed
+tasks like fixing a doorork knob in his
+house or something. And I knew that all
+the time. I did lots of I live in this
+very old house and I'm doing lots of
+little dinky repairs all the time. And I
+love that just crossing these scales.
+But I do want to say something about
+addiction because I think this is an
+awesome example about brain plasticity
+and something that I wrote about in in
+my book Livewired about this, which is
+addiction is all about brain plasticity.
+put a certain drug in your system and
+what your brain does is it upregulates
+the receptors for that drug which is its
+way of saying oh I didn't know the world
+consisted of this stuff good I'm going
+to prepare for this now and I expect
+more of it so then you give it more and
+this is great I'm going to upregulate
+the receptors again and it comes to
+expect that this is in the world and
+then if you stop you have these awful
+drug withdrawal symptoms precisely
+because you've changed your system now
+it's expecting the world to have that.
+So I draw an analogy between that and
+heartbreak because when somebody that
+you love let's say dies or leaves town
+or whatever the thing is um your brain
+has come to expect the presence of that
+person in your world has thought okay
+the world consists of this and now that
+person is gone and heartbreak is a
+really painful physiological thing that
+you have to go through as your brain
+readjusts to the world without that
+something that uh I would hope no one
+would have to experience, but everyone
+loses people uh at some point um or or a
+pet or or both. Um, do you think that uh
+constant engagement in um, let's just
+say like Tik Tok type social media with
+it um, upregulates the quote unquote
+receptors or of expectation for it that
+make it harder for people to to stop
+using it because the drug an addiction
+definition you gave, which I love, um,
+you know, dopamine receptors for
+methamphetamine or for cocaine or and so
+on, but uh, for an experience, for
+gambling, for social media, um, the the
+receptors there's become more like
+circuit activations or like the circuits
+of the brain anticipate it and if they
+don't get it, do you think that there's
+a kind of a withdrawal like effect?
+&gt;&gt; I don't know how I feel about this. I
+wonder when we were growing up, people
+said, "Oh, it's the television. It's the
+television is ruining everyone's
+attention span."
+&gt;&gt; It'll rot your brain. I remember your
+brain.
+&gt;&gt; My mom would kick us out.
+&gt;&gt; This was very common. She'd say, "You
+got to go outside." She would lock us
+out of the house. We weren't allowed
+back in. She said, "Don't come back
+until until dark."
+&gt;&gt; Yes. Exactly. We we did not have the
+option to watch cartoons or for more
+than a couple minutes after school. We
+were forbidden so she could get peace
+and we could get activity.
+&gt;&gt; Exactly. And younger people might not
+know the telder was called the boob tube
+where a boob was like an idiot and that
+was the idea. That's where the term
+YouTube you know was a funny derivation
+of that. But the um right so now what
+kids are watching is lots of content. I
+mean we're all watching lots of content
+on Instagram, Tik Tok, much of which is
+great. It's well produced. It's matched
+to our interests. And so I don't, you
+know, are we addicted? Yes. Is it an
+addiction because it's offering better
+content than many other things in our
+life? In some sense, yes. So, I'm a
+little torn on it. The other thing that
+we've all noticed though is that people
+don't seem to be happy when they spend
+time scrolling on it. They're kind of
+tempted to do it, but when they finish,
+they never feel like, "Wow, that was
+really a great experience." Um, they're
+kind of drained from it. So, in that
+sense, it has the characteristics of an
+addiction where you keep going back to
+it, even though you're not getting the
+high from it that you did the first
+time.
+&gt;&gt; I will say, um, as long as I use it
+properly, I I love social media and
+YouTube. I'm not just saying that as a
+political statement. Got to teach on
+YouTube. I learned from you, I learned
+from others. Like the other day, I
+wanted to um learn about architecture.
+It's not like during my workout, I put
+on a YouTube thing and just listen to
+it. Uh, like a basic history of certain
+architects in the United States. was
+like, I learned so much. Like, we
+couldn't do that when we were kids. It's
+awesome. It's just awesome. And then
+that set off in the algorithm some
+really good suggestions of some other
+things.
+&gt;&gt; And then when I didn't watch those, it
+offered some other and I'm like down the
+rabbit hole of stuff that I never ever
+ever would have encountered. It's really
+cool.
+&gt;&gt; This is precisely why all these kids
+have the opportunity, I think, to be so
+much smarter than we were. Yeah. I'm
+just I'm just super enthusiastic about
+it. And now with AI, it can be even a
+whole different level. I mentioned this
+thing before about, you know, using AI
+to debate, but just even in general,
+just saying, "Hey, I'm curious about
+this." How does this, you know, how does
+a flying buttress work or something?
+Hey, chat GPT. Hey, Clyde, blah blah.
+And you get the answer. Wow, what a
+great what a great opportunity for kids
+growing up.
+&gt;&gt; Are you using YouTube to try and help uh
+you you fix up these uh things in your
+house?
+&gt;&gt; Oh, sure. Everything I fix, I learn how
+to do it on YouTube first. Yeah.
+&gt;&gt; Very cool.
+&gt;&gt; Now I'm using AI to do it. I I've got
+this lighting thing and I couldn't
+figure out. So, I took pictures and I
+said, "What am I looking at here and
+where's the box and the transformer or
+whatever?" And it was pretty good at at
+telling me what what to do next.
+&gt;&gt; That's awesome. Um, you have a company.
+This is not a promotional anytime you
+mention.
+&gt;&gt; Actually, wait, can I pause? Yeah.
+Neoensory I actually sold six months
+ago, so I don't have it anymore. Just
+&gt;&gt; Yeah. All right.
+&gt;&gt; So, had a company. Yeah.
+&gt;&gt; Congratulations.
+&gt;&gt; Thank you.
+&gt;&gt; But Neoensory was a really neat idea of
+combining different senses. um people
+wearing bracelets so they could feel
+sounds and um and so forth. Um can
+anyone do this even if they're not
+deficient in vision or in hearing um or
+in some other modality?
+&gt;&gt; Yeah. So I got I just got really
+interested in this topic about pushing
+information into the brain via unusual
+sensory channels. So for example, as you
+referenced, I you know I built a
+wristband that captures sound and turns
+sound into patterns of vibration on the
+skin. This is for people who are deaf
+and deaf people could learn how to hear
+that way. Why? Because this is the same
+thing that your inner ear, your coia
+does. It's just capturing vibrations on
+the eardrum and translate breaking that
+up into different frequencies, shipping
+that off to the brain in terms of
+spikes, just these, you know, voltage
+spikes along nerves. Um, we're doing the
+same thing except we're pushing it in
+through the skin. It goes up the spinal
+cord to a different part of the brain.
+But the brain can figure that out. How?
+Because it's doing correlations. it sees
+somebody's mouth move. It's feeling the
+sound and it figures out how to hear
+that way. Now, this idea of sensory
+substitution,
+um I, you know, I wish I'd invented
+that, but it actually has a long
+history. The more I research, I found
+out it goes back to the 1800s, um when
+people first started asking, hey, can
+you push information into the brain in a
+weird way? So, the very first one was in
+the 1880s. Um they had a little uh a
+little camera lens that would just
+detect light and dark and it would get
+translated into a buzzing on your
+forehead and um for people who were
+blind they could tell you know okay well
+there's there's a wall over here and
+then there's an opening over here and so
+on and then people worked on this. The
+first major paper was in 1969 in nature.
+A guy named Paul Bockyita took blind
+people and he put them in a dental chair
+and he had this thing that would poke
+them in the back. A grid of 40x40 little
+solenoids that would poke you in the
+back and he set up a video camera.
+Whatever the camera saw, you would feel
+that in your back. So if it's looking at
+a triangle, you feel that triangle poked
+in your back. If it's looking at a face,
+you feel the face by. So blind people
+got pretty good at doing this,
+especially once he let them control the
+camera. So they could move the camera
+any way they wanted. People got really
+good at being able to tell what was
+going on.
+&gt;&gt; So it was following them around as they
+move through the world.
+&gt;&gt; No, they were sitting in this dental
+chair. Um and and that's exactly it. In
+1969, the technology was really clunky
+and heavy and got hot and whatever and
+there was no way to make it portable in
+a meaningful way. But as time has gone
+on, we've been able to do that now. And
+so Paul Bakyita's research, he passed
+away some years ago, but his research
+has continued with something called the
+brainport, which is again for blind
+people. So with the brain port, the way
+this works is you're wearing this little
+camera on your head on glasses. And
+you've got this uh little electrical
+grid on your tongue. And so whatever the
+camera is seeing, you feel that on your
+tongue. It feels like pop rocks. So if
+I'm looking at the coffee cup in front
+of me, I'm feeling the outline of the
+coffee cup. And blind people can get so
+good at this, they can do things like,
+you know, throw a ball into a basket or
+navigate a complex obstacle course.
+&gt;&gt; Whoa.
+&gt;&gt; It sounds crazy, but the thing to
+remember is the way you normally see is
+your eyeballs are, you know, these these
+devices embedded in your skull here that
+are capturing photons and turning that
+into spikes that race into the darkness
+of your brain. Electrical signals.
+Exactly. And so this is just turning
+what your tongue is feeling into spikes,
+these electrical signals that race into
+the darkness of your brain. And you can
+figure it out. You can learn how to see
+that way. And again, it's with
+correlation because you feel something
+with your fingers. Maybe you hear
+something also. And so you're putting
+that together and your brain says, "Oh,
+okay. I got it. There's a visual thing
+out there in the world." And the really
+wacky part I'll just mention is that
+people using the brain port who let's
+say used to have sight and lost it they
+will report it is like sight. They say I
+remember seeing and this is like seeing
+even though it's coming through their
+tongue and with the neoensory wristband
+that we built um you know I interviewed
+a guy after he'd been wearing about six
+months and I said look when you hear a
+dog bark do you feel the buzzing on your
+wrist and then you think okay that must
+be a dog bark. He said, "No, no, I hear
+the dog bark out there." Which sounds
+crazy, but obviously that's the same
+crazy thing happening with our ears. You
+know, we've got this whole mechanism
+going on that we're very used to. And
+so, we say, "Oh, of course the dog is
+out there." But in fact, it's all
+happening in here in the darkness of the
+skull. I'd like to take a quick break
+and acknowledge one of our sponsors,
+Function. Last year, I became a Function
+member after searching for the most
+comprehensive approach to lab testing.
+Function provides over 100 advanced lab
+tests that give you a key snapshot of
+your entire bodily health. This snapshot
+offers you with insights on your heart
+health, hormone health, immune
+functioning, nutrient levels, and much
+more. They've also recently added tests
+for toxins such as BPA exposure from
+harmful plastics, and tests for PASES or
+forever chemicals. function not only
+provides testing of over 100 biomarkers
+key to your physical and mental health,
+but it also analyzes these results and
+provides insights from top doctors who
+are expert in the relevant areas. For
+example, in one of my first tests with
+function, I learned that I had elevated
+levels of mercury in my blood. Function
+not only helped me detect that, but
+offered insights into how best to reduce
+my mercury levels, which included
+limiting my tuna consumption. I've been
+eating a lot of tuna while also making
+an effort to eat more leafy greens and
+supplementing with knack and
+acetylcyine, both of which can support
+glutathione production and
+detoxification. And I should say by
+taking a second function test, that
+approach worked. Comprehensive blood
+testing is vitally important. There's so
+many things related to your mental and
+physical health that can only be
+detected in a blood test. The problem is
+blood testing has always been very
+expensive and complicated. In contrast,
+I've been super impressed by Function's
+simplicity and at the level of cost. It
+is very affordable. As a consequence, I
+decided to join their scientific
+advisory board, and I'm thrilled that
+they're sponsoring the podcast. If you'd
+like to try Function, you can go to
+functionhealth.com/huberman.
+Function currently has a wait list of
+over 250,000 people, but they're
+offering early access to Hubberman
+podcast listeners. Again, that's
+functionhealth.com/huberman
+to get early access to Function.
+Recently, I've been um listening to a
+book that I read previously, which uh I
+love, by the way. I love Livewire. Thank
+you. I'm not just saying I've read it
+like three times um when it came out. I
+need to revisit it. I like to reread
+books. Yeah. I believe in rereading
+books. Um Ed Young uh wrote a book
+called An Immense World. Um he's not a
+scientist, but he's a science writer,
+and it's about different um sensory
+modalities that different animals use.
+&gt;&gt; Yeah.
+&gt;&gt; And for an animal lover like me, it's I
+found it really spectacular. But he he
+says something that I totally agree
+with, which is that we shouldn't think
+so much about whether or not um a given
+animal is good at smell and bad at
+vision or really good hearing or the
+valuations of these things are really
+tough. With visual acuity, we can do it
+like you know an eagle eagle resolution
+and you know versus human resolution.
+But when it comes to things like smell
+or touch, the better question uh he says
+and I agree is um how much does a given
+organism or person rely on a given sense
+will tell you sort of their abilities
+with that sense.
+&gt;&gt; I mean there's some bounds on that,
+right? I I can't echolocate like a bat,
+but
+&gt;&gt; I'm guessing that if I had to in order
+to navigate an environment, I could
+learn to echolocate. And I think there
+are there are individuals who have
+learned to echoloccate.
+&gt;&gt; Exactly. In fact, the term was coined in
+1930 in a science paper this gentleman
+wrote called echolocation in bats and
+blind men. And uh blind people since at
+least almost a hundred years now can do
+this thing where they use clicks of
+their tongue or the tap of their cane or
+any kind of sound that they make and
+they listen very carefully for what's
+bouncing back to them and they can
+echolocate. It also turns out that
+seeing people can echolocate if it is
+relevant to them. you know, if you
+really want to put the effort into it,
+you can learn how to do it. Again, this
+just points to the plasticity of the
+brain, how how good it is at doing this.
+Some years ago, I suggested this Mr.
+Potato Head theory about thinking about
+the brain, which is whatever senses you
+plug in to a brain, it'll figure out
+what to do with that information. And
+so, when we look across the animal
+kingdom, we find all kinds of very weird
+stuff. Not only you know eagle eyes and
+so on but we find um you know many
+animals like let's say snakes they pick
+up on infrared range of vision which
+which is invisible to us. Um you've got
+lots of fish that pick up on
+perturbations and electrical fields.
+They have electro reception. Um you have
+this animal called the starnosed mole
+which has this nose with 22 fingers on
+it. It feels its way through these
+tunnels with like these 22 fingers. this
+weird thing. Lots of birds and animals
+and in uh birds and cows and insects
+have um magneto reception so they can
+pick up on the magnetic field of the
+earth and they can navigate that way.
+For years I was staring at this stuff
+and figuring out how in the world does
+evolution happen so quickly that you can
+do all this. And this is what led me to
+this theory that mother nature really
+only had to invent the brain once.
+Figure out the principles of brain
+operation. And after that, she could
+spend all of her time tweaking the
+genetics to make all these weird
+peripheral devices that you plug in. And
+it's all plug-andplay. Whatever weird
+thing you come up with, you just say,
+"Okay, cool. I'm going to plug this in."
+And I and I'm sure the brain will figure
+this out. And it always does. And that's
+exactly why we can do sensory
+substitution. And by the way, sensory
+enhancement or sensory addition where
+you can add completely new senses. One
+example is uh my colleagues at Ozna
+Brookke built this this belt that you
+wear that's got vibratory motors all
+around it and this is a little digital
+compass on it so it can tell where north
+is. So whenever you're you know
+whichever direction north is on your
+body you feel that motor buzzing. So it
+might be on my left hip if north is that
+way but if I turn around I'll feel that
+on my right hip and so on. And people
+get really good at being able to detect
+which way north is. Just as one example,
+it's really easy to add new senses like
+magneto reception in this case. And
+people can figure this stuff out.
+&gt;&gt; So cool. Uh as a fan of the X-Men in
+particular, I mean, you mentioned
+Magneto, but that's uh but in general, I
+mean, yeah, different mutations give
+rise to different abilities, and that
+whole series of the X-Men is really
+about kind of extremes of genetic
+mutations giving abilities. And and
+there's some social discussion in there,
+too. But um let's talk about dreaming
+because you mentioned that um you know
+everything that we perceive as out there
+uh beyond our reach um is occurring by
+virtue of electrical and chemical events
+in our brain. It's all vaulted in in
+there. Um dreams are are a unique
+situation where typically people's eyes
+are closed when they sleep and um
+they're often paralyzed during REM
+sleep. Um, and yet we have very visual
+dreams. I know you talked about this in
+LiveWire, but please share with us what
+you think is the origin of the the
+visual component of dreams, and I'm
+curious if it relates back to the um uh
+the visual imagery um continuum that you
+mentioned earlier. Do some people just
+tend to have more visual dreams and
+other people don't?
+&gt;&gt; Let me answer that second part first.
+We're not sure about that. I ask people
+all the time who are aphantasic oric,
+hyperfantasic about their dreams. It's
+hard to tell. I don't see something
+obvious there, which is to say when
+there's dreams, you're getting this
+activity blasted into your visual
+cortex. So, it's like vision. So, so let
+me back up to answer the question about
+uh my my new theory about why we dream
+because this has everything to do with
+brain plasticity. So, here's where this
+got started. Um, by about 2013, some of
+our colleagues at Harvard did this
+experiment where they put people on the
+scanner and they blindfolded them
+tightly and they were looking at what
+was going on in the brain and um, you
+know, with with touch and with sounds.
+And it turns out that if you're
+blindfolded after about an hour, you
+start seeing a little bit of activity in
+the visual cortex when you are touched
+or when you uh, hear something. Now,
+this was crazy because we know that if
+somebody goes blind, you know, hearing
+and touch will take over that territory.
+But we thought that was on the scale of
+years. And and here what they were
+demonstrating is that within 60 to 90
+minutes, you start seeing little blips
+of activity. Why? It's because you've
+got all this crossmodal wiring. In other
+words, you've got neurons, let's say, in
+the auditory cortex that actually reach
+all the way over to the visual cortex.
+And same with touch neurons and so on.
+These are normally silent. They don't
+normally do anything, but they are
+ready. They're like silent sentinels
+that say, "Hey, just in case this
+territory stops getting used, I'm taking
+over." Okay, so here's what my student
+and I realized is that because we live
+on a planet that rotates into darkness
+every night, the visual system is at a
+unique disadvantage. Because when it's
+dark, you can still hear and smell and
+touch and taste, but you can't see. And
+obviously I'm talking about evolutionary
+time before the invention of lights
+which was the last nanocond of
+evolutionary history. Um it was really
+dark at night and you can't see and so
+you know you'd go into the corner of a
+cave and curl up and go to sleep. But
+the key is that the visual system was in
+danger of getting taken over during this
+long extended period of darkness. So
+what we hypothesize is that dreams are
+the brain's way of defending the visual
+cortex against takeover from the other
+senses. And when you look at the
+circuitry, it's this very specific
+circuitry. Starts in the midbrain, goes
+to an area called the lateral geniculate
+nucleus, and plugs straight into the
+primary visual cortex. And that's it.
+Every 90 minutes, you have this volley
+of activity that just slams into the
+primary visual cortex. It doesn't go
+anywhere else in the brain. And so every
+90 minutes, you've got this automated
+way of making activity happen there. And
+because we are visual creatures, we see
+that as a dream. We see a whole story.
+And because the brain is a, you know, a
+storyteller, we impose plot, meaning,
+and we have emotion that goes with that.
+Um, but the key is this is the brain's
+way of defending territory in the dark.
+And so what we did then is we examined
+very carefully 25 species of primates
+and looked at their brain plasticity. Um
+and you can measure this with different
+proxies like you know when they start to
+walk and when they get to reproduction
+age and so on and um you know some
+creatures like the grey mouse lemur
+which is a type of monkey um you know he
+uh they are born let's just say
+pre-programmed you know they they pop
+out they're really quick to stop you
+know to to wean and uh and and reach
+juvenile age and reproduce and so on.
+Whereas you look at homo sapiens we're
+super slow. We've got these extended
+infies and we take a long time to learn
+how to walk and so on. Okay, because
+we're very plastic, we end up in the
+world halfbaked. Okay, well it turns out
+if you plot how much REM sleep each of
+these animals get, the more plastic the
+animal, like homo sapiens, we've got
+tons of REM sleep. And by the way, this
+is mostly in infancy. Infants spend 50%
+of their time in REM sleep. As you get
+older and your brain becomes less
+plastic, you have a drop off in REM
+sleep.
+And by the way, when you look across
+animal species of all types, you find
+that the animals that are born with
+extended infies and need to figure out
+how to do stuff in the world, um they
+all have much more REM sleep, like eight
+times more REM sleep than animals that
+are born essentially mature, like you
+know, cows and giraffes and zebras and
+whatever. You know, they show up, they
+start walking in 40 minutes and so on.
+Um they have much less REM sleep than we
+do. So anyway, this is our hypothesis
+about why we dream and it's the only
+hypothesis that makes quantitative
+predictions across species.
+&gt;&gt; Super interesting. Um and we know that
+REM associated dreams are much more uh
+elaborate
+than deep sleep dreams.
+&gt;&gt; Yeah. And the important part here of
+course is they're more visually
+elaborate. Um you know there there are
+dreams that people can have in deep
+sleep. Obviously, the way that this gets
+studied is, you know, is you rouse the
+sleeper and you say, "Hey, what were you
+just dreaming about? What were you just
+thinking about?" And so, if you do that
+during REM sleep where their eyes are
+moving around, uh they'll say, "Whoa, I
+was just, you know, riding across a
+meadow on a camel and this was what was
+going on." If you wake somebody during
+other stages of sleep, deep sleep,
+they'll, you know, they sometimes have
+something like, "I was just considering
+this feeling I had of whatever, but it's
+not as visual.
+&gt;&gt; It's not as rich." By the way, people
+who are blind still have dreams, but
+their dreams are not visual. They have a
+dream like, "Oh, I was, you know,
+feeling my way around the living room,
+but all the furniture was rearranged and
+then I felt in the corner and it was a
+jaguar and the jaguar started chasing me
+and I was trying to get away from it and
+so on." But it's sound, it's touch, it's
+things like that. Why? Because their
+occipital lobe at the back of their head
+is not visual. It's coming for these
+other things. So the dreaming circuitry
+which is very ancient is just blasting
+activity into that area of the occipital
+lobe and so they experience whatever
+that correlates with.
+&gt;&gt; So cool. Um I want to move on to uh
+questions that I have about science and
+the law. But before I do, I just um I
+was told by a a very very talented m um
+magician uh mentalist recently that
+there's a guy down in Brazil who does um
+magic tricks for blind people using only
+the auditory domain.
+&gt;&gt; And um apparently if you blindfold
+yourself and you spend a bit of time
+around him, you can start to uh hear
+these magic tricks. And they're not just
+illusions of of like sound leaping. Uh
+and so I said, "Well, give me an
+example." He said, "You have to just
+experience this. This is something we
+should we should meet this person. We
+should meet this person." Um just a
+complete perceptual bend to try and get
+one's head around that. By the way,
+counselors who are at these who who deal
+with these uh blind students at these
+blind schools, they're generally
+encouraged to blindfold themselves for
+like seven days and they absolutely
+start having totally different
+experiences. Their brain starts, you
+know, changing.
+&gt;&gt; I still won't do one of those darkness
+cave retreats. People have tried to
+persuade me to do those. I have no
+interest. Um I love sunlight. I want to
+keep my circadian rhythm entrainment
+intact. I I uh you know if that's what
+people want to do. Also I heard about
+someone going to do it and then they
+flipped on the lights at the end. They
+went back into seed and the place was
+covered with spiders. So clean the place
+up. Um science and the law. Earlier we
+were talking about how under stressful
+circumstances frame rate of perception
+is not increased but memory density is
+higher.
+&gt;&gt; Yes. Can I therefore take the leap that
+let's just let's just say um and these
+are usually tragic circumstances. If
+there are two individuals, it's limited
+to two for sake of example in a high
+stress, highly traumatic interaction,
+but one is more stressed than the other.
+maybe they're the victim in that case
+that their density of memory is higher
+and therefore even though there's a
+perceptual difference um perhaps more
+accurate than uh for the person who was
+calmer or is there a threshold at which
+stress limits memory and therefore the
+person who is calmer has a more accurate
+memory?
+&gt;&gt; Great question. Well, it turns out first
+of all what victims often have is what's
+called weapon focus. So if the other
+person has a knife or a gun, that's all
+they remember. They, you know, describe
+the guy's face. I don't remember the
+guy's face because I was staring at the
+gun. So it turns out that what they pay
+attention to is sort of the wrong thing
+for forensics purposes. Um, that's
+number one. But number two is this much
+deeper issue that even amygdala memories
+are not necessarily accurate. So um you
+know our colleague Elizabeth Phelps um
+did this experiment right after 911 in
+2001 shortly after the event happened.
+She went and interviewed lots of people
+in downtown and Midtown New York about
+what they saw on September 11th and she
+was smart enough to interview them also
+about what they remembered from
+September 10th. You know what they ate
+for breakfast the day and so on. Okay.
+She then found them three months later.
+She followed up a year later. She ended
+up doing that 10 years later as well.
+What they found is that the traumatic
+memories of 9/11, even though those are
+amigdula memories, they drifted just as
+much as the memories of, you know, what
+they ate for lunch on September 10th.
+Um, and so an unfortunate fact for the
+law is that memories are not accurate.
+They drift. Every time we check in on
+memories, we're changing them. And it
+becomes kind of like the operator game
+where one person says something next in
+the other person's ear and the next
+person repeats that next person repeats
+that. There's a sense in which we're
+always playing the operator game with
+ourselves. You know, each time we pull
+up a memory, it's changing and it gets
+modified and colored by new information
+that we have. So that's the bad news for
+the legal system. And so the legal
+system has gotten really smart about
+this over the last 30 years and tried to
+make sure that they take care of things
+that happen, let's say, with eyewitness
+identification. So one thing is, you
+know, police suggestability. So if I if
+I'm looking at a lineup and I say, gosh,
+you know, I think that's the guy, and
+the police officer says, yeah, I think
+that's the guy, you know, I agree with
+you on that. Then what happens is when I
+go to court three months later, I I say
+to the judge, "Yeah, I'm 100%
+confident." Even though at the time of
+the lineup, I wasn't confident at all,
+but I come to think I am. There are many
+many ways uh that things get implemented
+so that we can try to work around uh how
+lousy our memories are. One thing is
+separating witnesses right away because
+if you and I witness a crime and then
+you say, "Oh my god, you know, I think
+the guy had long hair." and I say, "No,
+no, I think it was uh short hair or
+whatever." We're influencing each
+other's memory. And things that we say
+end up changing what the other believes
+to be true. One of the classes I teach
+is uh the brain and the law. And I do
+this thing every year. I sort of hate to
+give this away on a podcast, but here
+here's what I do. I'm teaching the class
+and a woman busts into the back of the
+classroom, starts screaming at me, says,
+"Are you Dr. Eagleman?" I say, "Yeah." I
+say, "Excuse me, I'm teaching a class."
+She says, "I've been sending you emails
+and you haven't written back and blah
+blah." I say, "Excuse me. I am teaching
+a class. I'm happy to talk to you
+afterwards. I'm sorry I don't get to all
+my emails." And she says, "Well, I'm
+going to wait for you." Okay. So, then I
+keep teaching the class. And then after,
+you know, 20 minutes or so, I say to the
+class, "Look, I'm going to call
+security, but I don't know what she
+looked like. I need you guys to write
+down what you remember about her." I
+said, "All I remember is that she had a
+big mole on her left cheek, and uh, you
+know, that's all I was able to really
+see." And so everyone writes down their
+stuff. Now, not surprisingly, eyewitness
+identification is terrible. Everyone
+comes up with extraordinarily different
+descriptions of what the woman looked
+like. One thing they tend to have in
+common is this mole on left cheek, which
+I made up. The woman doesn't have that,
+but it's a demonstration that um
+planting something even accidentally, in
+my case, on purpose, will influence your
+memory of what you think happened.
+Obviously, it's a it's an actor that I
+hire every year, but it demonstrates how
+how poorly we remember things.
+&gt;&gt; How does the legal system deal with re
+forget eyewitness account just uh of uh
+potential perpetrators, but just like
+recollection in general?
+&gt;&gt; Yeah. Yeah. Well, this spent all the way
+up to the Supreme Court because some guy
+some guy was accused from a, you know,
+he got sent to jail based on the
+eyewitness testimony of a woman who was
+up on the second floor seeing him from
+there and it was dark out and he said,
+"Look, that can't be reliable eyewitness
+testimony." So this went to the Supreme
+Court and they said, "Look, sorry, but
+we can't guarantee uh reliable
+eyewitness testimony and if we were to
+ever try to legislate that, that would
+ruin most court cases because most
+things are predicated on eyewitness
+testimony. So what the legal system
+tries to do is just educate jurors about
+this, about how seriously to take it
+because um and by the way, I should
+mention
+unfortunately people are very swayed by
+this. jurors are meaning you know a
+scientist might get up and say look
+there's this information or that but
+then some some I would assess you know I
+witness comes up on the stand and says
+look I don't know about all that science
+stuff but I know what I saw and the jury
+is swayed by that um so it's not easy to
+educate jurors on this because people
+fundamentally even after education feel
+like okay but I know that my memory is
+like a video camera um so anyway but
+that's that's one thing that the legal
+system tries to do and tries not to take
+it as as gospel.
+&gt;&gt; Are kids versus adults more prone to
+making up stories under these
+circumstances? Exactly. I I think that I
+like most per I'm not going to speak for
+most people. I assume that kids tell the
+truth. I mean, kids don't always tell
+the truth, but that they don't
+understand all the incentives systems
+around lying that some adults do. And
+so, I think we tend to believe what kids
+say. Oh, but kids are actually more
+susceptible to memory manipulation. So,
+Elizabeth Loftess at Irvine ran these
+studies years ago where um she uh well,
+here's sorry, this is slightly
+different, but what she's doing in these
+cases is she says to someone, "Hey, I
+talked to your parents." She she
+actually did talk to the person and she
+says, "I found out a story from when you
+were younger about the time you got lost
+in the mall and you were uh found by
+this woman in a red hat who then, you
+know, found your parents and so on." And
+it turns out she can make these stories
+completely up and people will come to
+believe these. And when she interviews
+them a week later, they that is just
+part of the fact of their life resume is
+that they were lost in the mall and
+found this woman in the red hat and so
+on.
+&gt;&gt; I mean, that has huge implications for
+therapy to unear, you know, repressed
+memories and um so-called repressed
+memories. Exactly. Maybe we need dogs to
+just uh you know who are completely
+unbiased to uh evaluate um the uh
+veracity of some of these claims.
+&gt;&gt; Well, here's what I think. Look, you and
+I grew up in a slightly different world
+where if I count the number of childhood
+photos that I have that I see, you know,
+I've got like little landmarks every
+couple of years. Oh, that was me at 8
+years old standing in front of my house
+in Albuquerque and that was me at 10
+years old and so on. But now, you know,
+we have an Alexa in our kitchen and it's
+constantly cycling through the pictures
+of my kids who see that every day. They
+say, "Oh, that was me a few years ago.
+That was me last month." And so on. I
+think kids are now much more tightly
+tied to their memory in a way that might
+prove very useful. Unuseful in the sense
+that maybe you can't get away from your
+childhood, but useful in the sense that
+at least your memor is going to be
+slightly more accurate because you're
+getting, you know, uh, repetition.
+You're getting space repetition on it. a
+previous guest hypothesized, I don't
+think this was based on real data,
+hypothesized that, you know, like if you
+go to a concert now, everyone's taking
+photos of the concert. Yeah. Um, as
+opposed to just experiencing the
+concert, they hypothesized that, uh,
+perhaps people have more memory of the
+photo taking experience and the photo
+than the actual experience, which is a
+kind of an interesting divergence like
+of of like the perceptual window that
+you're taking in information through.
+I'm not telling people not to take
+photos, but it is or videos, but it is
+sort of interesting that you're at a
+concert that, you know, thousands of
+people are at. Um, and everyone's taping
+it and projecting them. Maybe it's
+because people want to project
+themselves into the the concert for
+their friends and followers to see.
+&gt;&gt; I suspect it's a social issue. Yeah.
+Everyone wants to prove that they were
+there. You know, I went and saw the Mona
+Lisa at the Louv recently and every
+person there was just taking a picture
+of it instead of standing there looking
+at the damn Mona Lisa. But here's my
+suspicion is that they might have a
+slightly less present experience at the
+moment, but maybe it also lasts longer
+in the sense that every once in a while
+they're they they see that picture of
+themselves at the concert and they
+remember it. So maybe the area under the
+curve is the same.
+&gt;&gt; We live in a um polarized uh world right
+now. Uh I think it was always polarized,
+but it seems increasingly so. Um is it
+more polarized? and you've done some
+interesting work on um the neuroscience
+around polarization and uh I think it's
+just important for us to be aware of the
+fact that we're all prone to this.
+&gt;&gt; Yeah.
+&gt;&gt; And perhaps also I would hope to also
+push back on it.
+&gt;&gt; I also feel like people like to be in
+the echo chamber that there might be
+some uh dopamine reward or other neurom
+modulator reward for kind of verifying
+what we think to be true. I also think
+this is a social thing. I think you
+can't even talk about beliefs that we
+hold without talking about what that
+means for our identity and for what team
+we're on.
+&gt;&gt; Okay, so let me back up. I think we're
+not any more polarized than ever before.
+Just as an example, look at the 20th
+century. You've got, you know, if you
+look really what happened with Nazism in
+Europe or in Germany or or fascism in
+Italy or what happened in Cambodia with
+Paul Potter or in Rwanda or the Chinese
+and com the Chinese and Russian
+communist revolutions. All these things
+were extraordinarily polarized moments
+where people took up arms and killed
+their neighbors. Um, and that was all
+pre-ocial media. So, I don't think that
+has much to do with it except that I do
+think maybe we're more aware because it
+used to be that everyone was in their
+echo chambers. also nothing new there
+but you know all of your friends and
+neighbors and whatever all believed in
+whatever and so you didn't realize there
+were other people who believed other
+things but I think now we're just more
+much more exposed to that okay so
+polarization nothing really knew about
+that but it's very important for us to
+understand this so um one of the
+experiments we did in my lab was the
+following we put people in the brain
+scanner fMRI they see six hands on the
+screen all the hands look pretty much
+alike and The computer goes around doot
+and it picks one of the hands and then
+you see that hand get stabbed with a
+syringe needle. What happens is you have
+this empathic response specifically this
+uh network of areas that we summarize as
+the pain matrix comes online. It's not
+your hand getting stabbed. Nonetheless,
+you're watching a hand getting stabbed
+and you this is the neural basis of
+empathy. You're feeling what would it
+feel like if that were my hand? Great.
+Okay. Now, what we do is we put a
+one-word label on each hand. Christian,
+Jewish, Muslim, Scientologist, Hindu,
+atheist. Computer goes around, picks a
+hand, you see that hand get stabbed. And
+the question is, does your brain care as
+much if it's a member of one of your
+outroups versus your in-group? Turns out
+the answer, depressingly, is that your
+brain cares much less? So, the size of
+the empathic response, if it's your
+in-group, is enhanced from what it was.
+And if it's any one of your outroups,
+it's diminished. By the way, this is not
+a criticism of religion because we find
+exactly the same thing with atheists.
+People who profess themselves as
+atheists really care when they see the
+atheist handstep.
+&gt;&gt; Yeah. It's everything about in-groups
+and outroups.
+&gt;&gt; So, it turns out this is such a
+low-level response. Now, happily, this
+doesn't necessarily map on to how you
+act as a person. This is just your first
+response. You care more about your
+inroups. Other labs like Tanya Singer
+and others have shown very similar
+versions of this with even things like
+sports teams. In fact, one of the
+experiments we did was um we brought
+fresh people in and we said, "Hey, I
+want you to toss a coin. If it's heads,
+you're a Justinian. If it's tails,
+you're an Augustinian." So, they toss
+the coin. They find out what they are.
+We give them a wristband that reminds
+them that they're Justinian or
+Augustinian. Then, they go in the
+scanner and they see Justinian or
+Augustinian hands getting stabbed. And
+it turns out they have a bigger response
+predicated on their team. Completely
+arbitrary label that doesn't mean
+anything. But this is how we are wired.
+very much very strongly for in-groups
+and outgroups. Obviously, this is a real
+problem for everything we're witnessing
+around us. Um,
+&gt;&gt; can I ask you a question? Um, I have a a
+theory unsubstantiated by any laboratory
+data that uh we all naturally feel some
+degree of empathy for both inroup or
+common group and other group except for
+groups that we really despise. Okay. I
+think there are some people who don't
+provided that the other person isn't
+being tortured or killed, they're sort
+of like, oh well, dislike them anyway.
+But I think we tend to feel um we know
+how we feel about someone or a group
+when something good happens for them. To
+me, it's a much stronger indicator. So,
+is the reverse experiment ever been done
+where instead of the hand getting
+stabbed with a syringe, um the person of
+same group or outside group is being
+given something that is of of value. Um,
+&gt;&gt; that's interesting. I don't know. I I
+don't think anyone's run that experiment
+to my knowledge
+&gt;&gt; because if I tell you like, okay, if I
+if I were to have access to your uh your
+thoughts and I could find like a hundred
+people that you uh like on and arrange
+that you know in your mind and arrange
+them on the continuum of really really
+adore this person all the way to like
+actually really I'm not going to use the
+word hate, but like really really
+dislike this person. And I tell you, you
+know, um and give any one of them uh
+stage three pancreatic cancer. I imagine
+as an empathic person, you're gonna be
+like, "Ah, that sucks." But if I instead
+flip it and say, "Okay, you know, this
+person you really you really like, um,
+they had something spectacular happened
+to them versus somebody that you
+dislike, something spect there's a
+there's a there's a little bit of a of a
+of a twist on the feeling of happiness
+for somebody that you don't like
+receiving something that maybe you think
+they didn't deserve or and I think we
+are all wired this way to some extent."
+&gt;&gt; Yeah, that's a really interesting point.
+To my knowledge, no one has done that
+experiment. And it's in a sense, it's
+because this issue of when something bad
+happens to someone, we naturally have an
+empathic response if it's a stranger.
+Look at the issue of, I don't know,
+let's say some older gentleman gets, you
+know, his nose broken because someone
+attacks him at outdoors at a park. You
+would feel empathy for that. But now if
+I tell you, oh look, he was at a a
+Democrat rally or a Republican rally,
+depending on your perspective on the
+world, you might have differential
+empathy uh predicated on on, you know,
+how strongly you feel on one team or the
+other. Um,
+here's the thing. Even with pancreatic
+cancer, there's a whole lot of
+experiments from my lab and other labs
+that shows that sometimes when something
+happens to someone that we don't like,
+the reward system actually comes on.
+This was Tanya Singh had a nature paper
+on this um showing that you actually
+show reward system activation when
+something happens uh which is awful but
+um one thing I have always noticed in
+the movies is that you're watching the
+James Bond movie or whatever and the bad
+guy you know falls from a 500 foot
+building and splats on the ground and
+and you like you know eat your popcorn
+you don't care at all that something
+awful happened to somebody whereas if
+James Bond you know gets grazed by a
+bullet if YOU'RE LIKE OH OW poor guy
+it's weird how much we can dial this
+around where we simply don't care when
+bad things happen to other people. I
+&gt;&gt; what you're describing provides a very
+useful filter for what we see out there
+in the media and you know just recently
+there was this event that's being
+debated very uh intensely from both
+sides. Someone was shot, whose fault was
+it? What were they were in their rights
+to shoot her? etc. I mean it's it's like
+it's this immediate polarization around
+that you know
+&gt;&gt; same collection of videos two totally
+different interpretations
+&gt;&gt; right because was that woman your
+protagonist or your antagonist and just
+like in the movies we have a completely
+different uh empathic response based on
+that
+&gt;&gt; in the um sort of hypothetical example
+of an experiment where people that are
+either same group or different group are
+rewarded I feel like it gets to an issue
+that's a little bit more subtle than
+when people are harmed. Um because it
+gets to this zero this notion of zero
+sum like if somebody else gets something
+does that mean anything was taken from
+you? Not necessarily, right? But there
+are some people who go through life
+seeing people get things and they feel
+the pain of what they didn't get by
+virtue of someone else getting
+something. And um it's got to be a very
+difficult place to live. And yet I've
+known people like that. Um they they you
+know there are people who hate rich
+people.
+&gt;&gt; Yeah.
+&gt;&gt; Um if and they hate them for a number of
+reasons. maybe they were treated poorly
+etc. Um they hate famous people, they
+hate beautiful people, they hate you can
+see this, right? And what aspect of of
+self other in-group outgroup does that
+relate to because it gets to this notion
+of how much resource there is to go
+around something for someone else is
+something taken from us is a very
+different perspective.
+&gt;&gt; Yeah, that's right. I don't know the
+answer to that except that people
+clearly are wired differently on that in
+terms of whether they think it's a zero-
+sum game or there's you know infinite
+resources.
+&gt;&gt; Do we see it in animals?
+&gt;&gt; Yes, actually there are experiments on
+on capuchin monkeys where um the monkey
+does something and then gets a piece of
+banana and then uh the other monkey does
+something in the neighboring cage and
+gets a piece of banana. And so they're
+they're doing this but then the other
+monkey doing it gets a grape which is a
+big treat for the monkey. And the first
+monkey goes nuts and is shaking the bar.
+he's so angry that the other monkey got
+a better reward. Um, we there's this
+sense of fairness that's actually quite
+deep in our evolution about what's
+unfair and so on. But I want to come
+back to this issue about rewarding
+people versus punishing. To my mind, the
+reason I care so much about this issue
+of harm happening to people and when we
+don't care
+&gt;&gt; is because of when we look at what
+happens around the world, I'm not even
+talking right now. Let's just take the
+20th century. Um,
+we constantly see people murdering their
+neighbors for all kinds of reasons, for
+religious reasons, for atheist,
+communist, you know, uh, secular
+reasons, for all kinds of reasons.
+People are perfectly willing to take
+their friends and neighbors. Look at the
+Hoouu and Tootsie in Rwanda. They had
+lived together. They were friends. There
+was inner marriage. And then the Hutu,
+you know, uh, you know, raised up their
+machetes and slaughtered Tootszie at a
+rate faster than the Germans were able
+to do with gas chambers and Jews. Um,
+how these things happen. It's so
+important for us to understand what are
+the elements that lead to in-roup and
+outgroup stuff. One of the things I've
+been very interested in is propaganda.
+And it turns out across place and time,
+all governments do propaganda in exactly
+the same way, which is you simply
+dehumanize the other group by calling
+them an animal or or any like a virus,
+you know, a pestilence. Uh rats
+nowadays, you can even call them robots,
+whatever. Anything that's not human that
+turns off these networks that we have in
+the prefrontal lobe that care about
+other humans and how to interact with
+other humans. Our colleague Lana Harris
+has studied this stuff. And what happens
+is when you're dealing with an object
+now like oh the Tootsie the the famous
+thing that happened in Rwanda is the
+Tootsie were described as cockroaches
+and the radio was blaring that all the
+time the Tootsie are cockroaches. So you
+know killing a cockroach isn't so hard
+to do. So you grab your machete and you
+go do that. And that's the kind of thing
+I am essentially dedicating my life to
+this kind of thing is an education
+about this such that when the next
+generation hears propaganda about any
+group, they say, "Wait a minute. I've
+heard that trick before. I know what
+this is. This is just calling the other
+group. Oh, they're not like us. They're
+not human." And so I'm dialing down
+these networks that care about other
+humans. Therefore, I don't care about
+them as much. I don't have empathy for
+them as much. I'm only to take up arms
+against them.
+&gt;&gt; Many years ago, um I was at a meeting
+and one of our colleagues, I'll let them
+remain anonymous for soon to be obvious
+reasons, um made stood up and made a
+really strong case for not referring to
+um the mice. And at that time,
+experiments were still done on on cats
+and um and non-human primates. I mean,
+those are still used, but to a lesser
+extent now, but still um to not refer to
+them as animal models. um because he
+felt that it was de not dehumanizing
+them, it was it was um removing the
+sense that they were real beings and um
+you know uh as someone who has worked on
+a number of species including humans um
+and and frankly I'm I'll say this
+proudly. I'm relieved to not do
+experiments on animals anymore. I really
+did not like that aspect. I I did like
+working with humans we say not on humans
+um because they can sign up and uh
+consent and that sort of thing. I think
+every uh profession has this, you know,
+they uh my friends who are
+psychologists, you said your dad was a
+psychiatrist. I always ask people
+psychologists and psych, do you refer to
+your uh um the people that you treat as
+clients or as patients? like the the
+language doesn't always matter so much,
+but I think when it comes to animal
+experimentation, when it comes to um
+people and professional relationships,
+it actually does matter because I think
+as you pointed out, certain circuits in
+the brain get turned off or on depending
+on how we refer to people.
+&gt;&gt; Yeah. Exactly.
+&gt;&gt; Yeah. I know it's I'm starting to sound
+a little bit like like this is some like
+political statement, but it's not. It's
+just like I think that words matter.
+They they really do.
+&gt;&gt; Yeah. Oh, I totally agree. I think this
+political statement does matter because
+when the society reaches a point where
+some group of people is referred to
+essentially as nonhuman,
+um that's when things get really
+dangerous really fast. The Tootsie as
+cockroaches, the Jews as pestilence in
+Germany and what you know um all these
+things make a difference. And by the
+way, you know, in Germany in the rich in
+1934,
+all the people elected to the rich year
+were either far-right Nazi party or
+far-left communist party. It was like a
+really polarized time. And the part
+that's so scary about polarization of
+that extreme is that it just takes a
+moment for one party to eat the other.
+It just it goes really fast. And um
+suddenly you know when Hitler took power
+when the president von Hindenberg died
+Hitler just declared himself the furer
+and rounded up all the communists and
+put him in jail in concentration camps
+right away and um so that's why
+polarization if there are things we can
+do as a society to work on that to try
+to get better models of the other person
+to have meaningful debates and listen to
+the other side it doesn't mean coming to
+agree with them or whatever but it means
+saying okay I'm going to assume assume
+the other person is speaking genuinely.
+What is their reason for holding this
+political position also by the way
+having a better notion of our own
+internal models which is that we are
+extraordinarily limited. This is
+actually what my next next book is
+about. It's called Empire of the
+Invisible and it's about why we all
+believe our own internal models. We've
+all taken very thin trajectories through
+space and time and we've collected up
+our little scraps of data and we think,
+"Oh, I know the truth. I know how to
+think about the world and these
+political issues." And if I could just
+shout in all capital letters on X loudly
+enough, everyone would come to agree
+with me. Essentially, everyone thinks
+this deep down irrespective of what
+their political position is. And that's
+weird that we can't see the fence lines
+of our own internal models. So I think
+it's really important that this gets
+built all the way down into our
+education system at at the high school
+level, maybe even junior high, where we
+understand the limitations of our own
+model. We understand how to try to
+understand other people's models. We
+understand when it's appropriate to
+blind our biases um at you know in the
+way that for example symphony orchestras
+have been doing this for decades now
+where they do a a blind audition of
+musician behind a curtain. So you you
+can't have the opportunity for
+discrimination based on gender or race
+or anything else. You're just hearing oh
+that was a great obo player and so you
+um things like that. Um, and I also
+think that there's another technique
+that might be super useful here, which
+is, and and this is I've been exploring
+this a lot lately, what I'm calling the
+complexification of relationships.
+meaning um
+if you have something in common with
+someone and and then you find out later
+that that person has a very different
+opinion than you do on some hot button
+political issue, you're more willing to
+listen to them because you're already
+pals on, you know, you go surfing
+together, you whatever, you like the
+same sports team or whatever, you're
+more willing to listen. Um my example
+for this is the Iricquay Native
+Americans who were up in sort of
+northern Wisconsin area, five tribes,
+they all killed each other for years and
+years. They had a new leader come in.
+This guy uh Dana Gawada who came to be
+known as the great peacemaker. What he
+did is he said, "Look, you've got these
+five tribes. I'm going to assign each
+person membership in a in a clan." So,
+uh let's say we're in the same tribe,
+but you're a member of the Beaver Clan.
+I'm a member of the Eagle Clan and so
+on. And and these clan memberships are
+crosscutting such that now you say,
+"Hey, let's go invade that tribe over
+the hill." And I say, "Oh, you know, I
+don't know. that guy's a member of the
+Eagle Clan and so am I. You know, I've
+got these crosscutting relationships now
+and I'm less likely, I'm less willing to
+do that. And this ties back to the
+experiments we did that I mentioned with
+the handstabbing. What we now do is we
+say the year is 2029 and these three
+religions have teamed up against these
+three religions. And now you see the
+different hands get stabbed. But the
+ones who I just told you in one sentence
+are are your allies now. You care more
+about them. just because I arbitrarily
+told you that they're your allies. And
+so when things get complexified like
+this, we suddenly care more about
+certain groups and so on. Anyway, I
+think this is a really important thing
+to do. So I've patented a new social
+media algorithm which essentially works
+simply by
+surfacing what people have in common. So
+if you and I are both on this algorithm,
+it oh, we've got this in common, that in
+common, and and all those things get
+surfaced and we come to know each other
+and like each other. And only later,
+temporally down the line, do we hear,
+"Oh, wow. I didn't I didn't realize you
+felt so differently about gun control or
+abortion or whatever." We learn that
+later. And and then we're more willing
+to lean in and talk.
+&gt;&gt; Fascinating. I I thought for a while
+that the solution to polarization was
+going to be um it sounds like an
+laboratory experiment, but the the
+interbreeding across um you know
+first genetic but also um and geographic
+but also you know racial and cultural
+and and ethnic boundaries, right? And
+when you have people mixing and having
+children that are mixed, you can no
+longer assign identity in a way that um
+that allows people to continue to uh
+hurt and harm one another. Because I do
+think that the one thing that runs very
+deep in our species is this evolutionary
+drive. And there are other sources of
+this, of course, but to make more of
+ourselves and to protect our young. And
+if those young are are uh you know of of
+several different races or religions etc
+you know then you really don't have any
+uh anywhere to go
+&gt;&gt; you know in terms of violence and and
+and and of course I started thinking
+about this in the way that when I grew
+up it wasn't that long ago I was born in
+75 um but it was 50 years ago that you
+saw less in marriage across races you
+just did right you it was it happened
+but far less frequently than it does now
+across religions even across cultures
+and um and now things are quite
+different but the polarization
+continues.
+&gt;&gt; Yeah, I I wish I shared that optimism on
+that on that front but you know the fact
+is in Rwanda Hutu and Tootsie had been
+intermaring for a long time. In Germany,
+Jews and Christians had been intermaring
+there for a long time. But when stuff
+hits the fan, none of that matters. And
+people will still make dividing lines
+and say, "Hey, if you've got some of
+this in you, you're on the other side."
+&gt;&gt; I wish I had a more optimistic note
+there, but
+&gt;&gt; No, I think Well, it sounds like that
+the projects you're involved in to try
+and reduce polarization are are Well,
+I'll say certainly they're very
+important and and they sound very
+promising. Um, look, you're I feel like
+we could go another six hours. We have
+to have you back. Of course, you have
+your own podcast, amazing podcast. Uh so
+tell us about just um for folks we'll
+put links in the uh show note captions
+but um you're write you're writing what
+10 books now you got a podcast you're
+involved in movie movie movie scripts
+but give us the highlights of what are
+you up to these days when you're not
+teaching three different classes at
+Stanford
+&gt;&gt; so I'm writing the podcast inner cosmos
+which is
+&gt;&gt; awesome podcast I listen to it
+&gt;&gt; thank you thanks and that's that's a
+really wonderful way for me to put out
+lots of ideas often I do you know mostly
+it's monologue um but I do have guests
+as well Um, and I get to just tackle big
+philosophical questions about time,
+about polarization, about whatever. Um,
+I just signed my next two books. One is
+the Ulyses contract, and one I mentioned
+is called Empire of the Invisible. Um,
+and then, yeah, I'm also doing a lot in
+the realm of movie production stuff. Um,
+we're making a documentary film right
+now with the comedian Craig Ferguson
+where we're asking the question, can AI
+be funny? So, we've built a robot that
+Craig is going to go on the road with
+and do this comedy with, you know, like
+in the middle of the country. And the
+reason we're starting there is because
+that allows us to ask all these deeper
+questions about AI, but in a way that
+draws people into the movie because you
+can't just make like a doomy gloomy
+movie about AI and expect anybody to
+watch it. But, but this is sort of a
+really fun funny movie that allows us to
+really ask what's it going to mean for
+our lives.
+&gt;&gt; Awesome. And when you're not doing that,
+you're fixing doorork knobs and stuff in
+your in your home.
+&gt;&gt; Yes. and raising a family.
+&gt;&gt; Uh David, thanks so much for coming here
+today.
+&gt;&gt; Great to see you, Andrew.
+&gt;&gt; As everyone now sees, and many already
+knew coming into this, you're a
+worldclass educator and uh storyteller
+and most importantly a scientist um who
+ran experiments. I think it really helps
+to have, you know, no diss on science
+communicators that haven't run labs and
+things like that, but I think when one
+has done experiments, you get a a real
+deep sense for how data comes together
+and what it does and doesn't mean.
+um you're a virtuoso. So, um thanks for
+coming here today and and sharing just
+so many pearls of wisdom and some
+practical takeaways uh that I know
+myself and other people are really going
+to uh going to work with.
+&gt;&gt; Great. Thanks, Andrew. It's a blast
+being here.
+&gt;&gt; Awesome. Come back. Thank you for
+joining me for today's discussion with
+Dr. David Eagleman. To learn more about
+his work and to find links to his
+various books, please see the links in
+the show note captions. If you're
+learning from and or enjoying this
+podcast, please subscribe to our YouTube
+channel. That's a terrific zerocost way
+to support us. In addition, please
+follow the podcast by clicking the
+follow button on both Spotify and Apple.
+And on both Spotify and Apple, you can
+leave us up to a five-star review. And
+you can now leave us comments at both
+Spotify and Apple. Please also check out
+the sponsors mentioned at the beginning
+and throughout today's episode. That's
+the best way to support this podcast. If
+you have questions for me or comments
+about the podcast or guests or topics
+that you'd like me to consider for the
+Huberman Lab podcast, please put those
+in the comment section on YouTube. I do
+read all the comments. For those of you
+that haven't heard, I have a new book
+coming out. It's my very first book.
+It's entitled Protocols: An Operating
+Manual for the Human Body. This is a
+book that I've been working on for more
+than 5 years. And that's based on more
+than 30 years of research and
+experience. And it covers protocols for
+everything from sleep to exercise to
+stress control protocols related to
+focus and motivation. And of course, I
+provide the scientific substantiation
+for the protocols that are included. The
+book is now available by pre-sale at
+protocolsbook.com.
+There you can find links to various
+vendors. You can pick the one that you
+like best. Again, the book is called
+Protocols, an operating manual for the
+human body. And if you're not already
+following me on social media, I am
+Huberman Lab on all social media
+platforms. So that's Instagram, X,
+Threads, Facebook, and LinkedIn. And on
+all those platforms, I discuss science
+and science related tools, some of which
+overlaps with the content of the
+Hubberman Lab podcast, but much of which
+is distinct from the information on the
+Huberman Lab podcast. Again, it's
+Hubberman Lab on all social media
+platforms. And if you haven't already,
+subscribe to our neural network
+newsletter. The neural network
+newsletter is a zerorost monthly
+newsletter that includes podcast
+summaries as well as what we call
+protocols in the form of one to
+three-page PDFs that cover everything
+from how to optimize your sleep, how to
+optimize dopamine, deliberate cold
+exposure. We have a foundational fitness
+protocol that covers cardiovascular
+training and resistance training. All of
+that is available completely zero cost.
+You simply go to hubmanlab.com, go to
+the menu tab in the top right corner,
+scroll down to newsletter, and enter
+your email. And I should emphasize that
+we do not share your email with anybody.
+Thank you once again for joining me for
+today's discussion with Dr. David
+Eagleman. And last, but certainly not
+least, thank you for [music] your
+interest in science.

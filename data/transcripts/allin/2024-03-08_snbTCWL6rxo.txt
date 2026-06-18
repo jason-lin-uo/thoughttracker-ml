@@ -1,0 +1,2507 @@
+# E169: Elon sues OpenAI, Apple's decline, TikTok ban, Bitcoin $100K?, Science corner: Microplastics
+# https://www.youtube.com/watch?v=snbTCWL6rxo
+
+Cham who are you giggling with are you
+with your kids what's going on here
+you're you're making goog I got I got a
+message from that she's like is it hel
+no no I got a message from that she's so
+funny so you know we I was like blah
+blah blah she did a Uranus joke
+into my chat and I lost it it is like a
+Freo says your anus is right there at
+the edge of the UN she's like no she's
+like are you hungry I could eat a Uranus
+oh no we could go to a great restaurant
+Urus they serve great meals there they
+have a great chocolate
+lava let your winners
+ride and instead we open sources to the
+fans and they've just gone crazy with
+iten
+of all right everybody welcome back to
+your favorite podcast of all time it's
+episode 169 of Allin with me again the
+chairman dictator jamath ptia David
+freeberg your Sultan of Science and the
+Rainman yeah definitely David Sachs has
+his Monclair hat back again I guess
+they're back in stock how we doing boys
+welcome back to the show let's get to
+the docket here issue one Elon has sued
+open AI begun the meme Wars have after
+we finished the recording last week the
+memes are incredible
+after we finished recording last week
+Elon sued Sam Waltman Greg Brockman and
+the open AI organization he's suing for
+breach of contract fiduciary duty and
+unfair competition and his argument is
+basically open AI started as an open
+source nonprofit as you know he he gave
+them something like 50 or 75 million if
+both those numbers quoted and then of
+course everybody knows open AI turned
+into closed AI they became a closed
+Source for-profit Venture after the tech
+was
+deployed this enabled them obviously to
+to benefit from tax uh nonprofit tax
+breaks while building the tech but they
+now have two corporate entities this is
+nonprofit called open AI there's a
+for-profit it's called open AI Global
+LLC that was created in
+2019 and this all this funky
+relationship between the two we'll get
+into that because it's kind of
+interesting actually Elon said that if
+open AI is allowed to do this then it
+should be the standard for every company
+going forward that's an interesting
+point you can start by donating money to
+a nonprofit and then make a for-profit
+seems pretty C Capital efficient so what
+do Elon want to get out of this
+according to the lawsuit he wants open
+AI to open source their models by the
+way that's what Facebook and Appo are
+doing right now so that that seems more
+than reasonable since that's how the
+company was formed and he wants to make
+sure that shareholders receive no
+Financial benefit from open
+Ai and we can get more into a bunch of
+the open AI nonprofit status and and
+their structure it's super convoluted
+but I want to just get your initial
+reaction sacks I haven't read the legal
+filings Jason my knowledge of the case
+is just coming from following what's on
+Twitter and the last time I commented on
+one of
+elon's lawsuits on this pod I ended up
+in six hours of deposition
+so remember that was the the whole
+Twitter lawsuit in any event my
+understanding of the case from
+the tweets that are flying back and
+forth is I think Elon is making two
+points one is that when open AI was set
+up it was set up to to be a nonprofit
+and to promote AI as an open source
+technology that everyone could benefit
+from and no one large tech company would
+control in that case Elon was primarily
+concerned about Google I think now he's
+more concerned about Microsoft
+nonetheless the idea was that this would
+be open
+source so I think Point number one is
+Elon feels like the rug was pulled out
+from under him after he donated 40
+something million dollars to this they
+completely changed what it was going to
+be
+and I think he's used the word swindled
+before he feels like he was cheated and
+I think usually when there's a lawsuit
+like this um it's usually because
+somebody does feel phenomenally cheated
+by what happened so I think that's the
+first point the second is that I think
+that elon's making is well wait a second
+if you can start a company as a
+nonprofit using pre-tax dollars and then
+all a sudden convert to for-profit then
+why wouldn't everybody do this in order
+to circumvent paying taxes and I think
+that's another I'd say valid and
+interesting point that that he's made
+now openai has responded to this by
+publishing some of elon's emails to them
+and they think that they have a Smoking
+Gun here because
+apparently Elon told them they need to
+raise far more money in order to have a
+chance of taking on Google deepmind I
+just don't know whether that's the
+Smoking Gun they claim it is but that's
+that's basically what they're putting
+out there and then to add fuel to the
+fire you've got VCS coming over the top
+debating different aspects of this
+you've got sort of venod Defending open
+AI he was the first VC investor in it
+and so he's been out there attacking
+Elon and then I think Mark Andre is
+responding to venod and may I know if
+he's exactly defending Elon anyway it's
+turned into a whole melstrom on X and
+then everyone else is start starting to
+put out a whole bunch of crazy memes so
+I don't know who's gonna win this case
+in court but the memes are
+definitely lit and U maybe the funniest
+one is that Elon has said that uh if
+open AI will simply changed their name
+to closed AI he'll drop the lawsuit I
+think he's serious about that I think he
+is serious about it but I think he's
+making his point which is you ended up
+doing something different than what you
+told me when you got me to write this
+big donation and when we co-founded this
+thing together so I think that sort of
+sums up elon's position on this
+Jam a year from now where do you think
+we'll be with this well I think I think
+there's one more thing which is
+that they used his name pretty
+aggressively to get more money and he
+was very instrumental in getting some of
+the early critical hires particularly
+Ilia which has been I think well
+documented SS to leave Google right so
+that's probably sacks where also some of
+this
+feeling that he was Bamboozled comes
+from but I think that all of those
+emotions matter less than the rule of
+law which is his second point which is
+the important Point irrespective of
+whatever one email says or another email
+it's not great for the US tax system if
+all of a sudden a big gaping loophole is
+identified and taken advantage of I
+think that there's a huge economic
+incentive for the State of California
+every other state where these open AI
+employees lived and have gotten equity
+and now have gotten paid there's an
+incentive for treasury there's an
+incentive for the
+IRS it touches a lot of aspects of very
+complicated tax law and so I think
+that's why there will be a resolution to
+this case because I think that that
+answer is very important and I think it
+will as he has correctly
+identified motivate a lot of people's
+actions going forward so independent of
+what the emotional situation is amongst
+all the all the actors in this play the
+reality is he's identified a loophole
+and that loophole needs to get fixed
+I'll give you a a different example of
+this that's much more benign but it
+dragged on for eight or nine years at
+Facebook there was a period where and
+this was public so I can I can tell you
+we transferred a lot of our IP to
+Ireland at one moment and there was a
+transfer payment and whatnot and then a
+few years afterwards when when every
+everybody realized including us and we
+had miscalculated but when everybody
+realized the value of Facebook that
+transfer payment did not seem correct
+and it was a huge tax ARB that we had
+facilitated right because all of that IP
+sitting inside of Ireland gets taxed at
+you know a very different rate than that
+IP would have gotten taxed in the United
+States and other companies had copied
+this long story short the IRS Su you
+know similar to you David I was in years
+of depositions and interviews and all of
+this stuff so the point is that the
+government really cares about these
+kinds of things because so much money is
+on the line and if open aai turns out to
+be this multi hundred billion dollar
+Behemoth this will get figured out in
+court because there's just too much
+money at stick freeberg any thoughts and
+maybe Steelman if if you feel like it
+open eyes position I think we're all
+ignoring the documents that open AI put
+out yesterday showing emails and
+interactions with Elon where Elon
+acknowledged and recognized the
+necessity of having a for-profit
+subsidiary that could pursue the
+interests of the
+foundation by raising billions of
+dollars of outside
+capital I think it's a really
+interesting set of facts that provides a
+different light on the story and it was
+really important that open AI released
+it I'm going to share a hold on fre I
+did mention that freeberg I mentioned
+that too my point is it doesn't allow
+you to break the law yeah so let me just
+um tell you guys uh a little bit about
+another example my sister works at a
+nonprofit called the Cystic Fibrosis
+Foundation cystic fibrosis is an
+inherited disorder affects the lungs and
+digestive
+tract it's debilitating really affects
+children there was a nonprofit called
+the Cystic Fibrosis Foundation
+established in 1955 they did tons of
+work on drug development research and it
+was a nonprofit profit for years until
+they realized that there needed to be a
+market-based system to create the
+necessary incentives to drive the
+capital needed to find a drug that could
+cure cystic
+fibrosis and in the year 2000 they
+invested out of their Foundation
+endowment $40 million in a company
+called Aurora biosciences subsequently
+it was acquired by vertex and they
+continued to invest another $60 million
+so total of 100 million bucks in the
+lifetime of the development of a drug
+that could cure this
+disease in 2005 a drug was discovered
+and in 2012 the FDA approved it the
+nonprofit then sold their rights their
+interest in this for-profit
+entity for $3.3
+billion it was an incredible return it
+was the largest wow investment return by
+a nonprofit in history who did they sell
+it to back to the company I actually
+think they sold the rights to royalty
+Pharma who you and I know well and that
+$3.3 billion continued uh opened up this
+ability for them to continue to make
+investments they now fund biotech VCS
+and they make direct Investments and
+other things but it really set the
+Benchmark for this concept of what's
+called Venture philanthropy where a
+nonprofit parent company can make
+investments in for-profits that can
+raise additional Capital that's needed
+to pursue the broad difficult interests
+of the nonprofit and I think that this
+argument really kind of ties into what
+happened with open Ai and you can see it
+in the email exchanges with Elon where
+he was so impression that I I give Elon
+extraordinary credit for this that he
+saw that this is going to take billions
+of dollars a year of investment to
+realize the pursuit that open AI was
+going after and there was no way that
+Elon was going to be able to generate
+that cash himself or that Reed or others
+were going to just be able to Pony up
+that money they needed to have some sort
+of for-profit vehicle that would allow
+the market to work and allow capitalists
+to find their Capital into this
+organization to make this this
+investment interest so I think the real
+question with respect to is open AI in
+trouble as a foundation
+is does the nonprofit own a meaningful
+piece of the for-profit entity and I
+don't know the answer to that I don't
+know if you guys do sounds like it I
+mean yeah must right so if they do then
+they have an investment interest the
+second question is does the nonprofit
+parent still do charitable stuff because
+if it doesn't then there's a real
+question on the nonprofit status I think
+you have to have a certain amount of
+your assets deployed every year in order
+to qualify for
+501c3 so I think the test in the courts
+will likely end up being look it's
+totally reasonable to have a for-profit
+entity to fund a for-profit entity other
+nonprofits have done it particularly
+when you need to attract billions of
+dollars of outside Capital to make it
+work the real question is does the
+nonprofit still do nonprofit stuff
+that's an interesting question because
+freeberg do you think that when they
+booted off the uh the nonprofit experts
+from the board that they they may have
+crossed a tripwire there yes yeah I'm no
+lawyer I'm no lawyer that's a great
+question I did a little journalism and I
+talked to
+a couple of people who are in and around
+two other of these scenarios one of the
+key issues here is that the IP in your
+example freeberg it wasn't like that
+cystic fibrosis organization did the
+drug Discovery right they didn't do it
+correct well they I think they they
+handed over some some research that was
+open and public at the time and they but
+they funded an independent forit and so
+what happened here was you had the IP
+and the employees of the nonprofit given
+gied they were transferred over to the
+for profit organization and they when
+the Mozilla Foundation did this and
+another company called SAS source and
+these both have two structures a
+nonprofit and a for-profit but in both
+of their cases they set up separate
+boards and the two different boards you
+know answer to the for-profit concerns
+and the nonprofit concerns they also
+didn't give huge chunks of equity to all
+of the employees which then sold them in
+secondary so what's happened here is all
+of the IP in all likelihood has been and
+the wealth transfer has gone to all
+these employees they've now done a
+secondary and this actually triggers a
+lot of
+IRS investigations the Mozilla
+Foundation which was making the Netscape
+browser which many of you probably have
+used over the years they were making
+hundreds of millions of dollars a year
+David from advertising with Google the
+IRS said hey wait a second you look like
+a for-profit to us so they made a
+for-profit entity all of the and
+Mitchell Baker and the team over there
+set this up so all the money went back
+into the Mozilla foundation in their
+nonprofit efforts and they just paid
+above Market salaries but it was very
+important that these things be separated
+and that the employees not have equity
+and that all that money flowed back up
+and I think this is where open AI is
+going to get super tripped up and I
+think the IRS is going to have a field
+day here here's the Nick can you please
+throw the image up this is from the open
+AI
+website that explains their structure so
+let's just speculate for a second
+because we're we just guessing but it
+has been reported that Microsoft owns
+49% right that's the number of the
+for-profit in this example Microsoft
+where it says minority economic interest
+that number there would be 49 and that's
+what they own of this open AI Global
+LLC and the majority owner is this
+holding company okay so that means 51%
+is there but it says here that that 51%
+is owned by a combination of the
+nonprofit employees and investors so the
+question is back to Sax's question we
+can know very precisely how much the the
+nonprofit owns by just exing out the
+investors and employees and I'm going to
+guess it's at least 30 or 40% I think
+that that's probably a pretty reasonable
+guess so it means that the open AI
+Foundation probably own somewhere
+between five to 20% is that fairly
+reasonable
+guess at the maximum that's seems right
+yeah and so I think that they're going
+to have to show that ownership structure
+and and decompose all these entities and
+show the the actual
+percentages if it's a lot less than that
+if it's say like a 1% thing then it's a
+little bit more sketch I think but if
+it's really like 15 or
+20% they're still going to have to prove
+that all of this was done in um in a
+clean way because the the big thing that
+these guys did was because by creating
+this lpgp structure and these Capp
+profits it's clear that they were trying
+to avoid something and the question is
+in the discovery will everybody learn
+what it is that they were trying to
+avoid because I've been through this I
+think saak you've been through it
+freeberg you were through
+it when you set up these large vehicles
+and pulled amounts of money folks come
+out of the woodwork with all kinds of
+convoluted structures and the discipline
+is always to tell these lawyers and
+accountants
+no and they'll be like let's set up a
+master feeder and you'll go through
+Bermuda and this and that and and it's
+so easy to say yes because it's very
+seductive what they're selling you but
+it's always about trying to avoid
+something so the real question is why
+this convoluted structure what was it
+trying to avoid and where did this IP
+come from like all that IP sacks came
+from a nonprofit all those employees
+worked for the nonprofit
+then they decided to go from an open
+source model to closed and then by doing
+that they capture all the value and then
+it's gifted to these employees and this
+investor base that's where I think but
+remember well it's important to remember
+the majority of the IP that exists at
+open AI today was generated after the
+for-profit was set up the real question
+was there a fair transfer at the time
+when it was set up of value into this
+for-profit entity and my guess is that
+GP box that you just looked at the
+compensation that they're earning
+through that GP box that the nonprofit
+earns is likely meant to be kind of
+a a fair amount relative to what was
+contributed at the time the real
+question for me Still Remains What other
+nonprofit and charitable work does the
+open AI 501c3 actually do and if there's
+the answer is nothing and it's just a
+shell nonprofit and under it the only
+thing that it owns is a for-profit
+interest then I think there's a real
+question on what's the activity and I I
+don't mean to speak out of turn on all
+this stuff I don't know enough but I
+think that's the only sort of lens I
+would kind of look at this stuff through
+S going to say something well a couple
+of points one is one of my contentions
+has been never innovate on structure all
+you do is create legal problems there's
+a tried andrue way of creating a startup
+which is a a C Corp when you try to
+innovate on legal instead of product it
+almost always
+backfires the second Point here is I
+think open AI is in a little bit of a
+damned if you do damned if you don't
+situation to go back to freeberg point
+about the nonprofit sitting at the top
+there remember what created all the
+problems when Sam briefly got fired as
+CEO and then came back is they had these
+directors from the nonprofit world who
+didn't really seem to understand how
+startups worked and so either they fired
+Sam for no reason which was kind of
+incompetent or they had a really good
+reason but didn't communicate it
+properly which was Al incompetent either
+way that whole thing was a it was a
+spectacle and it just kind of showed
+that there was this like culture Clash
+going on between the for-profit company
+and like the standard way of running a
+Silicon Valley startup to maximize the
+outcome and then this nonprofit board
+that was sitting on top of the whole
+thing so I think that now they're in the
+situation where they've changed that
+nonprofit board they've booted off the
+nonprofit people
+and that may have been the right thing
+for the for-profit entity but now it
+might get them in trouble because it
+lends Credence to elon's lawsuit that
+they've completely
+changed the original Mission of of this
+organization it was supposed to be it
+was supposed to be open source yes and
+it was supposed to be nonprofit and now
+it's for-profit and closed Source think
+about this you know and again we are
+speculating here but if it if the
+mission was to be open sourced
+and then you realize you've got
+something super valuable and you close
+Source it create a for-profit and then
+take all the employees and all the IP
+and put it into the for-profit lock it
+down break the original Mission that hey
+this was going to help Humanity because
+we're going to make it open source so if
+you donate money here and we get the tax
+exemption Humanity benefits because
+everybody gets to look at that code at
+the same time and work on it and iterate
+now they they've just basically stolen
+all that in order to enrich themselves
+and I think think then you add to it Sam
+maybe doing some deal making which seems
+to be one of the triggers according to
+reports and this open AI Venture fund
+Etc maybe that deal making made the
+nonprofit people say Hey listen you're
+doing even more for-profit stuff with
+the open AI name we're supposed to be a
+nonprofit here what's the Venture fund
+thing he started a venture fund to
+invest in companies called the open AI
+Ventures fund and he was the sole owner
+of it which they're saying now it's a
+clerical mistake or something but he's
+invested in a bunch of startups that
+have unique access ACC to the open AI
+you know I think he's the he's the GP on
+behalf of open the open. fund he's a no
+but he said GP on behalf of himself or
+on behalf of open the way the paperwork
+was done it was on behalf of himself
+they're now saying that that was done in
+Era so okay fine maybe it was maybe it
+wasn't who knows actually we're gonna
+wait wait the open AI fund yes whose
+money is
+that uh Sam raised the money to create
+an open ey fund to to invest in
+companies using open AI software okay so
+that's a different kind of issue that's
+called a corporate opportunity issue
+where open AI
+fund it's basically a a conflict of
+interest where the Economic Opportunity
+of the open AI starup fund should belong
+to open AI if Sam created a separate
+fund with separate LPS that he's the GP
+of and gets economics in that then
+that's a potential usurpation of a
+corporate opportunity I don't I I don't
+know the truth of that matter I'm just
+saying that's a slightly different issue
+to go back to uses the open a name yeah
+that that's where like the corporate
+opportunity becomes really explicit to
+go back to the point you were making a
+minute ago about the employees I just
+think and you use the word stealing I
+think it's like a really strong word I
+mean I think we have to complement the
+employees of this company if it is a
+company including Sam including Greg
+including Ilia for creating an amazing
+product right incred they've created
+something incredible absolutely and
+they've created I think an amazing
+ecosystem and there's a lot of
+developers building on top of this and I
+think no one is attacking their work and
+I and I think it's a little too harsh to
+say that anyone's stealing anything
+because they have created all the value
+the question and and I think you have to
+include Sam in that and say say that
+he's done a great job okay as CEO
+because they've built something amazing
+and saxs to your point right it's not
+stealing because very smart investors
+are putting in money
+Eyes Wide Open yeah I think that the
+criticism here is related to structure
+from my standpoint it's related to
+structure and whether Elon was told
+something at the beginning that's
+different it got changed and clearly it
+got changed in a way that was not
+consistent with the terms under which he
+initially contributed all this money
+yeah I mine is I I'm stating
+what is the most cynical interpretation
+of what happened here there is the most
+you know benign and benevolent
+interpretation you could have as well
+and and maybe the truth is in between
+the two but the series of events that
+occur does not look good when you have a
+mission to give this intellectual
+property to the world so no one person
+benefits from it all of humanity is
+supposed to benefit from it that was the
+point of being open source right then
+you close it now who gets the benefit if
+it's closed right the employes right
+that's a good point and that's going to
+be the of this the EMP and and if you
+really want the investors the investors
+the investors that's how they were able
+to attract billions of dollars because
+you can't get billions of dollars great
+to invest in something that's going to
+be open sourced and and then the
+employees sell two billion in
+secondary so now you if you really want
+to take the most cynical approach to
+this or interpretation again this is
+just one interpretation they took an
+open source project they closed it they
+raised money and then within the next
+two years on this incredible Innovation
+they sold $2 billion and put that in
+their pockets now those employees if it
+was a for-profit obviously no problem
+with that but they took a the stated
+mission of giving this to all of
+humanity and then took three or four per
+of that gain and put it in their pockets
+that's where I think this whole thing is
+going to get really crazy and this is
+where the IRS Point yeah and the IRS
+also
+interpreted Mozilla which was just $100
+million and none of the employees took
+any of it the 100 million that came out
+of Mozilla they were just saying like I
+think you should pay tax on that should
+you pay tax on that and then they were
+investigated for years so I think the
+IRS is going to be on this like crazy
+based upon what happened to Mozilla
+which was Jason do you think do you
+think individual employee sellers are
+going to get audited by the IRS because
+of this I I don't I mean I'm know we're
+in Uncharted Territory here when I did
+some tweets and said hey can everybody
+contact me who has information on these
+structures I was able to find the some
+Source example and they did it very
+clean and there was no like IP transfer
+or employees enriching themselves or you
+know a god king like Sam doing all kinds
+of deals and enriching himself it was a
+very clean structure and then Mitchell
+Baker who set up Mozilla also did the
+same thing hey we's pay the employees an
+extra 50k on their salaries and they'll
+be a little overpaid in Silicon Valley
+but they're not getting billions of
+dollars in equity which again I have no
+problem with people getting billion
+dollar billions of dollars in equity in
+a for-profit but this was supposed to
+benefit Humanity it was supposed to be
+open if this was open source and they
+took the 2 billion I would actually not
+have much of a problem with it because
+we could all be looking at that mission
+and then saaks and myself and Friedberg
+and anybody who wanted to use that code
+could go in there and adapt it and you
+know what there are four profits apple
+and meta which are producing open-
+Source software so if they're producing
+Apple's pretty competent and meta is
+super competent in this respect they're
+able to do open source but Sam is
+claiming or open AI is claiming it's too
+dangerous to show us the open source
+code I call on that their code
+is not too dangerous for us to see
+that's complete utter so you
+you think that there is a motivation for
+profit basically what you're saying is
+essentially that this was highly
+motivated by
+profit versus like even like like some
+of the emails the
+emails try to paint a picture of very
+industrious people on both sides who are
+trying to solve a very hard problem and
+dealing with a conundrum that's really
+around Capital right yeah we need to we
+need to do all this training it's going
+to be so expensive but I think what
+you're saying which is a a deviation
+from that is actually come on guys these
+are all very smart people and those
+folks saw an opportunity to make a ton
+of money and they took
+it I mean that seems like what happened
+here to me I mean it's aam's Razer kind
+of situation I think they if you look at
+it I think they probably regretted
+making this a nonprofit and then try to
+figure out a way to reverse it that's
+actually what I think is going on here
+and I do think there is part of it chth
+you're right that they needed servers
+and they needed capacity but they could
+have done that without giving the
+employees tons of equity without selling
+billions of dollars keeping it Ops and
+source and then telling Microsoft hey if
+you want access to this open source or
+whatever and you know very you're making
+a very very good point in and and the
+reason is that if it was open source
+Microsoft could have just taken it and
+done its own training and just paid for
+it yeah or make a donation to the
+foundation this is interesting because
+it's a very good point because open AI
+yeah open AI dropped a few of the emails
+that they had with Elon obviously those
+are Cherry Picked to help their case the
+most what we don't know is what do the
+other emails show like what were their
+alternatives to this particular
+structure could they have raised the
+necessary funds in a way that was more
+consistent with the original Mission of
+the company could they have remained
+open source for example
+example also are there any emails where
+employees talk about the potential
+benefit to them of going private going
+for-profit right those emails have
+already been leaked there was this thing
+where in the open AI emails that were
+leaked they talked about being able to
+swap this Phantom equity and open AI
+into either YC equity and then Elon said
+oh maybe SpaceX to but I'll have to
+figure that out well then also like
+Microsoft coming in and buying 4 % and
+then it's close this is the other piece
+that I would want to see in Discovery as
+well and again I don't have any problem
+with any of the people I love Sam M I
+think he's great I think all the people
+there are great I think what they've
+done for Humanity is great I just think
+they should have kept this thing open
+source which was the mission but then
+they close Source at chth and then give
+49% of it all the weights all the source
+code to Microsoft so that to me was like
+a really like you you want to talk about
+taking this nonprofits IP and then it
+some amount of that bag gets given to
+the employees for billions of dollars
+and then Microsoft gets 49% of all that
+nonprofits effort to then go
+commercialize and Microsoft has added
+what $500 billion dollar in market cap
+since this whole thing has been
+announced so now right all that profit
+has been aggregated into Microsoft stock
+and I think this is where you got to
+understand why Elon feels swindled is
+because not only are we going from
+nonprofit to for-profit and open source
+to closed Source he was specifically
+concerned about all the benefits of AI
+crew to one powerful big tech company
+now at that time he thought it was
+Google now it's Microsoft there's not
+really that much of a difference he
+never wanted all the benefits of AI in
+the hands of one really powerful tech
+company right and Microsoft is the most
+it's now what the biggest company in the
+world by market cap so this is like the
+opposite of what he intended they gifted
+a trillion dollars to Microsoft probably
+there's an easy solution if they are
+people of good faith and they're doing
+this for the right reasons open source
+it just go back and open source it Jason
+but to your earlier point that may solve
+the lawsuit and Elon may drop the
+lawsuit but it's opened a can of worms
+with respect to tax and structuring
+that's much bigger than just open AI
+yeah the entire nonprofit industry it's
+a tax problem for every new company it's
+every other entrepreneur that studies
+this model and tries to replicate it for
+their own personal gain even if that
+wasn't intentional here so there's whole
+set of issues that we've we've really
+cracked the egg here we got we got to
+figure out how to unscramble there
+there's the IRS issues then there's
+what's morally right and then there's
+elon's beef and if it is a for-profit
+company and Elon put in 50 million when
+it was a seed round what would he own
+saxs what would his ownership in this
+for profit be oh my God I mean probably
+98% okay and so yeah we we need know the
+total size of that round he put in the
+first 40 million do we know what other
+people put in it was most of the money
+right yeah it was most of the money so I
+mean if you put let's just put a crazy
+valuation on it 500 million okay he owns
+whatever 10% at that point at that point
+it it would AI was not what it is today
+so you would have raised that like you
+would have raised 150 on 50 pre okay I
+mean that's that's the way that that
+that a very capex intensive deal in a
+space that wasn't thought to yield big
+outcomes that's unfortunate half the
+company at least at least right so give
+him 20% of the compan is $20 billion
+that's even half of what you're saying
+sack right we talked about on the show
+and that whole fracus with these
+nonprofit directors went down is we said
+go back and and restructure the whole
+thing to make it what it always should
+have been which is just a clean
+for-profit entity give Elon his Equity
+give Sam his Equity because it never
+made sense that have Sam has no equity
+but he's got a venture firm it's it's
+all so convoluted it's a weird form of
+compensation in which they're giving him
+corporate
+opportunities in effect as like a type
+of compensation when really he should
+just have compensation in the
+corporation and then the corporation
+should own all of its opportunities oh
+that's okay that's a really interesting
+thing you just said so basically yeah
+it's like he famously has no equity but
+then he has this retained optionality to
+monetize the ecosystem so even though
+he's not monetizing the thing he's he
+gets to monetize everything around and
+it seems like the the board or at least
+the new board's okay with that because
+he is being undercompensated with
+respect to the main thing so then he
+gets the side things but that's not
+really the way it should work either you
+know Bill Gates said to us famously when
+we were at when I was at Facebook the
+value of an ecosystem is when the
+economic value generated by the
+ecosystem exceeds that of the platform
+now in this case you'd actually rather
+have 50 basis points of the ecosystem
+than 5% of open AI if that's true
+because if this thing could be so
+revolutionary you're talking 10 2030
+trillion dollars
+what a mess oo Sam should just be given
+like a a huge option Grant an open AI
+but then open AI should own its own
+Venture
+fund yeah and the SEC is looking into
+all this stuff you know they look into a
+lot of things in fairness but they're
+looking into it what a mess and uh we'll
+keep track of it the other thing that's
+crazy I don't know if you guys know this
+but Nick just as we close here the most
+insane part of open's LP investment
+agreement which is on their website you
+can just search for open LP agreement is
+this part the partnership exists to
+advance opening ey inc's mission of
+ensuring that safe artificial general
+intelligence is deployed and benefits
+all of humanity the general partner duty
+to this Mission and principles advance
+in open aing Charter y yada y take
+precedent over the obligation to
+generate a profit the partnership may
+never make a profit and the general
+partner is under no obligation to do so
+the general partner is free to reinvest
+any and all of the operating entities
+cash flow into research and development
+activities Andor related expenses
+without any obligation to the limited
+partners and so they basically told
+everybody venod and employees or
+whatever we can just basically make wipe
+your Equity out and we can do whatever
+we want with the profits and you're
+probably going to lose your money so
+this this structure is weird do you guys
+think that when the investors came in
+especially in this latest round the $86
+billion round do you think they
+underwrote the legal risk inherit in the
+structure or they just sort of handwaved
+over it and said no typically what
+happens in these deals
+is you hire somebody like KPMG or deoe
+or ernston young to do like the full
+Financial diligence packet right and
+that typically tends to be how a lot of
+late stage
+organizations document that they've done
+and manage their fiduciary
+responsibilities on behalf of their
+limited partners so what happens is you
+will do a deal you'll sign a term sheet
+you'll turn it over to deoe you'll turn
+it over to KPMG and say please go and
+run this down and and then what they do
+is they will furnish a report that says
+yes this meets all the customary
+expectations I suspect that if these
+folks were
+doing a decent job of of running late
+stage money they probably sent it to
+those folks and those folks probably
+produced something that said this looks
+fine now if you read Buffett's letter
+this year he has a really great
+commentary on deoe and KPMG and these
+sorts of letters which is not exactly
+the most supportive is the best way to
+say it you can find that mention in in
+his case it's deot and touch but
+typically Sachs that's what they do they
+go to a KPMG or a deloid or a nurse and
+young and say and and by and by the way
+99% of the time they're I mean they do
+really good work but it's a standard
+structure and they just want to make
+sure that nothing nefarious is a muck in
+this case I doubt anything was a muck
+anyways I doubt though that they looked
+at the structure and then also elevated
+the the litigation risk of this getting
+Unwound I just don't see that that
+diligence report and I've seen enough of
+them typically has
+that section in it the other thing
+that's completely hypocritical here is
+they said when they hit AGI and they're
+going to be like a sentient artificial
+intelligent going on here Friedberg that
+they would wrap up shop and they're
+going to no longer be a non nonprofit
+Etc but they haven't and but they're
+claiming they haven't hit
+that but they closed the soft so it
+should be open source if they haven't
+hit AGI
+and you don't think they've hit general
+intelligence right free barg or anything
+close to it maybe you could educate the
+audience on what that is and and that
+claim that they have to shut off the for
+profit yeah they haven't but I think
+the we keep repeating this concept of
+the models should be open source versus
+closed Source making AI for the benefit
+of humanity can be interpreted in a lot
+of ways there may have been some
+anecdotal conversation at some point
+with Elon or others about we're going to
+make the models open
+source uh but there was a reason that
+that change was made along the way which
+was to attract dollars and those dollars
+need to have some return of capital
+available to them because they're
+private investor dollars and so I don't
+think that that was necessarily and
+correct me if I'm wrong I don't think
+that's in the mission that the open AI
+software models will be open source
+making AI for the benefit of humanity
+could probably be interpreted in a lot
+of different ways and we'll see but no I
+I don't think that anyone has this
+achieved
+this Holy Grail of general intelligence
+yeah I think one of the the one of the
+more interesting and kind of wacky
+things about open AI is that their
+mission is explicitly to create
+AGI which most people would associate
+with some sort of sci-fi dystopian
+outcome and I think this has like raised
+the Fear Factor around AI because
+they're explicitly trying to create the
+sence that's going to replace Humanity
+now I think they defined AGI in a
+different way they say it's something
+that can replace 80% of the jobs but I
+think we all kind of know what it really
+is so I just wonder if I think I think
+that that's like that assumes a steady
+state in the world so if you end up with
+a system and the system has all the
+capabilities of a bunch of really highly
+qualified knowledge workers and I can
+sit in front of a computer terminal and
+I can say let's design a mission to Mars
+a mission to Mars could be a 20-year
+engineering project with hundreds of
+people involved to design the buildings
+to design the flight path to figure out
+the fuel needs to figure out how you
+would then be able to terraform ours and
+what if one person could interact with a
+computer and design a plan to go and
+inhabit Mars all of the technical detail
+docks could be produced all of the
+engineering specifications could be
+generated all of the operating plans all
+of the dates the amount of Labor needed
+the amount of production needed the
+amount of capital needed what would
+otherwise take NASA or some you know
+International or well-funded private
+company many many decades to do a piece
+of software could do in a very short
+order I think that's like a really like
+for me poignant example of the potential
+of having these tools broadly available
+that the potential of humanity starts to
+become much broader we could say I want
+to develop a city underneath the ocean
+because I want to explore more of the
+earth I I think humans need to go go
+solve cancer figure out the biologic
+drugs and the combination of biologic
+drugs that would be needed to solve
+cancer based on this this patient's
+genotype the extensibility of Highly
+knowledgeable or what other people might
+call general intelligence type tooling
+is extraordinary that one individual
+starts to have an
+entire cohort of knowledge workers
+available at their disposal to do things
+that we can't even imagine today so I
+don't think that it is nefarious it's
+nefarious because we assume a steady
+state of the world today that nothing
+changes therefore a piece of software
+replaces all of us but the potential of
+humanity starts to stretch into a new
+era that we're not really comfortable
+with because we don't really know know
+it or understand it yet I'm not saying
+it's nefarious to uh want to develop
+AI because I agree with you about all
+the extraordinary potential of but I'm
+saying there's something a little bit
+cultish and weird about explicitly
+devoting yourself to
+AGI which I think in common parlance
+means
+Skynet yeah it mean
+you maybe that that parlance is what
+needs to be addressed which is Agi
+effectively enables equivalence to a a
+human knowledge worker and that you know
+that can kind of unleash a new kind of
+set of opportunities you think that's
+what it is my definition for AGI is
+smarter than the smartest human being
+who ever lived yeah I was talking to
+somebody this week who's in a position
+who said the definition of AGI is very
+fuzzy that there isn't a clear
+definition and therefore it allows every
+side to kind of anchor on their
+interpretation of what that term means
+and therefore kind of justifies their
+position so you know I don't really feel
+great about like just saying are we at
+AGI what is it we don't have a clear
+sense of what it means I do think if you
+look at some of the work that was done
+by anthropic and published in the cloud
+3 Model this week did any of you guys
+see the demos that were done of the
+output of that model there was a guy who
+wrote a thesis in quantum physics on a
+very esoteric complicated problem set
+and he asked Claude 3 to solve this
+problem set and it came up with his
+thesis it was really like extraordinary
+and this is something he's like no one
+in the world knows this stuff and he's
+like I can't believe this model like
+came up with my thesis and that's the
+sort of thing that very few people on
+Earth even read or understand and the
+cloud 3 Model was able to kind of
+recreate the basis the buildup and then
+the the the output of his desent was
+somebody writing a screenplay and then
+giving it the first two acts and say
+guess the third act and it's like oh
+yeah this is the third act here's what
+happens like it's pretty
+impressive comp ask you like deep down
+when these guys say they're going to
+create AGI what do you think they really
+mean in their heart of hearts oh they
+mean the Terminator yeah they mean the
+sentient God you guys are you guys are
+propagating some bad you guys shouldn't
+be I think that's what they
+think said it remember what Larry paage
+said to Elon don't be
+speciest yeah I think there's like I
+think there's a meaningful number of
+people in The Tech Community who
+deliberately want to give rise to the
+super intelligence there's another point
+of view of super intelligence where
+super intelligence means that the
+software is now more intelligent than
+all humans and as a result the software
+may have its own motivations to figure
+out how to supersede humans on earth now
+the the Larry Page statement which which
+I I don't know firsthand I read the same
+article you did is one that a group of
+people might say evolution is
+evolution you know people that's right
+and I know elon's taken this point of
+view that like you know we need to
+maintain
+human human Supremacy but uh my my
+favorite test is you know there was
+there's the Turing test which like you
+can't tell if it's a human or if it's a
+robot but Mustafa came up with the um
+with the modern touring test which is an
+AI mod is given $100,000 and has to
+obtain 1 million go it's kind of
+interesting then the other other the
+other interesting one was Gary Marcus he
+said uh the Ikea test the flat pack
+Furniture test an AI views the parts and
+instructions of an Ikea flat pack
+product that controls a robot to
+assemble the furniture correctly oh look
+what's up sunny it's now time to do a
+just a quick little congratulations to
+our dear friend Sund deep mandra we call
+him Sunny that's his nickname and he's
+one of our poker buddies he keeps
+building great
+companies and in this case sandep is the
+first person to collect all four besties
+we all invested in his company
+definitive and definitive uh was working
+in AI but we got some great news this
+week and we thought we would give him
+his flowers Sunny you want to tell us
+what happened this week with our
+investment in your company definitive
+intelligence at definitive doio I
+believe is your demand yeah well you
+know with your guys support and you know
+we've been growing our company and we
+saw a really great opportunity to work
+together with grock and we've been
+working with them for a couple of months
+and all the hype that you've seen has
+been built on the collaboration that
+we've done building the cloud offering
+the API offerings and so you know we've
+decided to merge with them and we're
+super excited and all the besties are
+now not only shareholders in definitive
+previously but now shareholders in Gro
+this is this is the first investment I
+think where we're all on the cap table
+right so we can we're all rooting in the
+same Direction what's happening in the
+developer site how's the momentum going
+well the the momentum is incredible you
+know we have now 16,000 plus developers
+in our you know self- served playground
+there's well over like a thousand apps
+that people have developed using the API
+and all kinds of new functionality you
+know the API allows people to get a
+higher rate of throughput on tokens and
+low latency so there all kinds of new
+applications from voice to real-time
+translation of web pages you know we're
+collecting on our Discord we have you
+know 3,000 people in the Discord as well
+it is a real Community that's come
+together building around Gro and what I
+will say is you know sort of the same
+jump that developers saw when we went
+from dialup internet to broadband
+they're seeing that now and from using
+like traditional apis for llms to using
+you know the ones that we offer you guys
+support the latest anthropic models that
+they just launched that seem pretty
+kickass no we don't have those yet but
+we're we're in you know we're having
+discussions with everyone out there
+there and we want to support their
+models right now what we've done given
+all the demand is we've kind of limited
+it to llama 270b and mix trol and we
+actually have a bunch of other models
+that we make available in private mode
+for folks we're pretty excited but if
+there's anyone out there that wants to
+have us you know give us a call and
+we'll we'll get you going on our systems
+well Sunny congrats to
+you you're an incredible entrepreneur
+and it's always fun to kind of be on the
+journey with you this is my fourth
+business that I've done with sunny madra
+that's amazing extreme lands then there
+was a company between no no no there was
+before you have to understand sunny and
+I met because Sunny went to school where
+I grew up he went to the University of
+Ottawa I grew up there and we met
+through a mutual friend and his first
+company was called sponge
+fish which I backed I think in 2006
+maybe I mean I had no money I may have
+written a
+0,000 10K maybe maybe less May 5K yeah I
+mean whatever I had I didn't have much I
+like it's scraped together and it's it's
+our fourth business Sunny's a veritable
+rabbit's foot you're a rabbit's foot sun
+he is he is a lot Lu prefers the
+prepared well I mean I've been in two of
+Sund Deep's companies and uh I thank him
+for that and then extreme Labs actually
+to to thank you again you sponsored a
+lot of my events 10 years ago when I was
+coming up so I appreciate that so it's
+just great to see a nice guy win as
+opposed to the three miserable people
+who I work with on this podcast keep
+winning so it's good now finally a good
+guy wins as opposed to the four of us I
+appreciate all your guys support it
+means a lot to us you guys getting the
+developers and keep keep putting it out
+there and and keep us honest as well so
+if we're not doing something right let
+us know really appreciate you guys all s
+you want to say something motivational
+to sunny here I know you always have a
+great motivational word for your friends
+something you say that just gives people
+that thrill of being in the game go
+ahead sax you always have something say
+we're going to we're going to ship uh 20
+million into your a safe note I know you
+closed it but we're going to pry it open
+and uh get get some get some allocation
+hey wait a second if you're prying open
+that's safe if the safe if there's a
+wedge I know a guy with a podcast who
+could got 800,000 followers maybe I
+could slip in a quick five hundy is
+there possible what do you think Cy let
+us know right now I don't know we we did
+a really big announcement with the
+Saudis this week so that price might be
+up let us ship something into that safe
+note so we actually have some real skin
+in the game David text me all right
+we'll do well no but seriously hey s
+wait a second if he I got to get a
+second Jason wants in for 500 by that he
+means $500 so we'll let you no I got a
+gift card for you from Starbucks I got a
+$500 gift card for you and the team I
+think I got
+likeon that that Starbucks gift card you
+sell for 20 cents in the dollar and then
+ship let me zip it in let me zip it in
+maybe I can 100 Exit no seriously 500k
+from from your boy jcal all right
+everybody thanks uh to Sunny for jumping
+on congratulations on the mder thanks
+guys all right issue two issue two apple
+is battling two major iOS developers and
+Regulators are siding with the devs you
+may know about the Apple versus epic gam
+Saga we've talked about it here epic
+games was planning to create a custom
+App Store on iOS because Europe's dma
+the the digital markets act has said
+that Apple now has to allow thirdparty
+app stores in the EU so epic created a
+developer account based in Sweden and
+apple actually approved the account two
+weeks ago then on Wednesday Apple
+flipped
+terminated epic EU developer account and
+app said one of the reasons they
+terminated the account was because epic
+CEO publicly criticized their dma
+compliance plan additionally on Monday
+Apple was fined two billion by the eu's
+antitrust regulators and was forced to
+remove its anti- steering rules uh from
+music apps like Spotify basically Apple
+has been restricting music apps from
+informing users about pricing and
+discounts and the European commission
+considered this anti-competitive since
+Apple runs Apple music
+and they want Spotify to pay 30% Daniel
+e friend of the
+Pod you know basically did a whole video
+on this about how they can't charge 30%
+more yada yada sax you've uh spoken
+about Apple's Monopoly before your
+thoughts on what's happening in the EU
+and then we'll get into Apple's wider
+problems I mean did you just say that
+Apple booted Epic from their app store
+because they didn't like what epic said
+about them I think
+well like they're violating epic's Free
+Speech because they don't like what epic
+is saying I mean according to Epic yes
+this is crazy heavy-handed by apple
+apple heavy-handed with developers yeah
+have they lost their minds I mean this
+is right out of power corrupts and
+absolute power corrupts absolutely yeah
+I mean whatever dispute you have with
+epic you don't boot them out of your app
+store because you don't like their
+criticism of you I mean this is
+basically proving exactly what
+everyone's been saying about Apple which
+is they're too powerful and heavy-handed
+and Apple's coming along and saying let
+me confirm it for you guys by acting
+tyrannically against epic exactly I mean
+talk about a backfire this seems insane
+to me yeah it's super nuts chamat any
+that'ss on this before we get into
+Apple's other problems I think it's the
+beginning of of the decay of Apple Peak
+Apple well let's let's get into that um
+there's tons of headwinds facing Apple
+you can add a bunch of other things to
+the list as well Jason yeah the thing is
+Apple for the last couple of years has
+been what is effectively what we call a
+GDP plus Growth Company which means that
+take GDP 2 3 4% maybe they can grow by a
+couple of percentage points more than
+that but they are effectively levered to
+GDP meaning when you look at a Facebook
+or an Nvidia they're growing at 50% 200%
+2,000% whatever it is that's not tied to
+GDP they're just taking share but Apple
+is is a company now that grows as the as
+the economy of the world growth so
+that's not super great for its future
+prospects unless it can expand the
+surface area of where they operate and
+then on that Dimension the there are a
+few trillion dollar markets that they
+can really penetrate and they just
+announced that they've killed a project
+in one of those areas which is Autos
+right project Titan which was1 billion
+turned out to be a
+failure so all of these things I think
+mean to me that it is effectively
+becoming a cyclical rate sensitive stock
+and then the Cuda is Warren
+Buffett and Nick and I were talking
+about it this week and what was
+interesting about Buffett's letter is
+that you can tell when Buffett has
+gotten disengaged with a company based
+on the number of times he mentions it in
+his annual letter so in this example
+this is the number of times Apple was
+mentioned and just to be clear what I
+mean by mentions is not when it's
+included in a chart or part of a
+disclosure what I mean is when Warren
+actually explicitly mentions it in a
+positive or even negative way or he
+doesn't mention it at all which I think
+Rings very loudly he went from basically
+saying Apple was the absolute endall and
+Beall and now what you can start to see
+is this shrinking and it's gone from
+basically a bunch of times to almost
+none he did mention it once but he
+mentioned it in the context of talking
+positively about Coca-Cola and AMX and
+he Wasing these two positions but just
+mentioning that they were not as large
+in comparison to Apple that's the only
+mention in this year's annual letter
+what's interesting about that is the
+last time that that happened was with
+drum roll Wells Fargo over 15 and 20
+years Buffett built up a huge
+position I think he was able to weather
+the vicissitudes of the market so even
+when the markets would contract he knew
+when to hold on to that company until he
+realized that that company was not
+really one of his forever stocks and he
+got out of it and the number of times it
+basically was mentioned in his letter
+went to zero so interestingly I think
+this Buffet index is a really important
+one for Apple which is it went from a
+forever holding that he said he would
+own forever to barely getting mentioned
+and above him on above apple on that
+list were all the Japanese trading
+companies that Buffett owns American
+Express Coca-Cola
+so that is a person that understands the
+economy I think better than anybody else
+in the world and so if you're basically
+taking a lever bet to the economy as a
+reason to own apple and the person that
+understands the economy the most has now
+started to Pivot away he started to sell
+in quarter four and then you see all of
+these things Anti-Trust rules killing
+projects in in trillion dollar Tams
+unfortunately it speaks for a very bad
+next 5 to 10 years for this company
+unless they figure something out I think
+it's just such a great insight with the
+Warren Buffett mentions and we should do
+that forward looking like who is he
+talking about now and let the monitor
+when he stops talking about them I have
+a theory about this I think this is
+really just about Peak iPhone if you
+look at the majority of their revenue
+it's obviously from the iPhone which has
+become massively profitable over time
+but the iPhone Revenue has been flat for
+a couple of years now and they're
+starting to make their money from
+Services everybody knows Apple 1 iCloud
+storage Apple arcade Apple music apple
+plus TV they've got a great collection
+of services and services revenues
+growing but I don't think that they are
+filling in this growth problem with the
+iPhone and this happened to me for the
+first time and I don't know if you
+gentlemen have had the same experience
+but I was buying every Apple phone and
+then I would buy every like M medium
+upgrade like when they would do like a
+12 and then a 12s or an 11 11s and when
+I got to iPhone 13 I was like this
+thing's kind of peaked and I just forgot
+to buy the 14 didn't need it and then I
+bought the 15 and I'm sitting here with
+my 15 and my 13 I really couldn't tell
+the difference between them and so now
+I'm a technologist who would buy it
+every year the latest one and I don't
+feel the need to upgrade it and I think
+that a lot of people and I I have family
+members who would take two generations
+off now they take three or four
+generations off so I don't even know
+what number I'm on you know I don't even
+know either it all looks the same to me
+okay so I mean that's the problem here
+and then if you look at their road map
+what's what is the device post the Steve
+Jobs era that they have launched how do
+you know what device you have you go to
+General in your settings and about I
+just checked it I'm iPhone 13 Pro what
+version are they on what is it General
+they're on 15 and I'm on 13 Pro I don't
+even know yeah and you're not price
+sensitive yeah and these things have
+gotten absurdly expensive so they're
+trying to really extract what is the
+what is the latest 15 15 I'm on a 14 I
+don't like the hassle of having to like
+reset everything when I get a new phone
+and it's easy to do now it's like all in
+the cloud but even that going to the
+store buying it like who cares it's not
+my apps I have to relog in and freeberg
+what uh what what Android phone are you
+on are you you're a googler didn't the
+googlers all have Android phones or are
+you an your team
+iPhone I got the Macintosh original in
+1984 I've only been on MacIntosh and
+Apple product since then
+H what iPhone are you on be honest 15
+Pro okay have you ever tried a pixel
+freeb
+I don't like
+it but I just I'm not used to the OS I
+just what was the rule at Google if you
+worked at Google did were you kind of
+forced to have an Android phone or did
+you just keep your iPhone in your pocket
+and not take out there weren't a lot of
+Androids on the market when I was at
+Google because we acquired the company
+when I was there in O we acquired Andy
+Ruben's company in
+04 and I think the first major devices
+started to roll out in
+7 and so this was all post my era I left
+at the end of
+06 wow freeberg that's an amazing chart
+holy so pull up this chart now here's
+the global here's the global statistics
+the US market share is 57% for iOS but
+on a global basis iOS only has a 27%
+market share in uh mobile operating
+systems Android is 72% and all other is
+less than 1% but look at this it's all
+the future GDP is on Android Brazil
+Nigeria India holy but I think this is
+one counter to your point shamat that
+the macro driver is as um the economic
+uh position the GDP per capita scales in
+these bricks Nations they can start to
+afford to buy iPhones which are
+generally some multiple of the Android
+devices in these markets that you see
+here so while today Android is 72% of
+the market if the Emerging Markets
+continue to grow GDP capita and iOS
+continues to be the superior product
+you'll see apple able to to steal into
+more share over time how do you but how
+do you do that when you have messaging
+groups on Android when you have photos
+in Google photos and is it does the
+switching cost stop that do you think I
+don't know the answer to that it's a
+good question they're down to5 to $25
+for these Android phones in India
+there's a famous that's the difference
+right so these Android devices I think
+apple is levered to GDP Global GDP so
+they need to figure out some way to grow
+Superior to that is the market what
+could they do Services a company that
+generally has a bunch of cash flow being
+generated by some set of products today
+and you assume stasis over time the
+market share for those products could be
+eaten away you'll see the profits per
+year go down and a company like that
+will trade anywhere from you know 7 to
+20 times the technology value arises
+from the value of the brand that you can
+launch new products lever your brand
+leverage your distribution leverage the
+sale of new services and new products I
+think to your point shim off the
+challenge apple is facing is that the
+pool of options the portfolio of call
+options that you would get a new product
+coming out of apple is shrinking very
+Lim with the you know with the car being
+taken out of that pool now Apple Vision
+Pro a lot of question marks on you know
+how much it can scale as you guys know I
+I feel like there's going to be a market
+for that device but it's a it's a
+high-end device today it has to become
+more cheap to be more ubiquitous the
+thing that a lot of these companies
+confront though is that you can also
+grow inorganically right you don't
+necessarily have to incubate these
+projects we can remember the moment
+Apple had a chance to buy
+Tesla right didn't then they didn't take
+it Apple still has a chance to buy pick
+your company that that would take a
+sweet acquisition offer rivan Lucid
+postar whatever it is I'm not saying
+that these companies are good or not
+good I'm just saying that Apple has the
+one tool that they've never used in
+their toolbox is the large inorganic
+acquisition and at this point if they
+are proving that they can't execute
+internally the market is going to demand
+that they prove they can use that
+balance sheet as a cudgel to go and
+execute it externally yeah I think the
+challenge do that they're GNA discount
+that cash to zero the challenge is that
+there's a certain discipline and quality
+to the products and the businesses that
+apple produc es and runs and it's very
+hard to see that in other markets I mean
+why would they go buy a money losing low
+margin Hardware uh car hardware company
+when they are proven to make you know
+quality on the reasons project tipan
+fil yeah the article in Bloomberg
+basically said that the reason that they
+abandoned the project was in part that
+they did not know how to go from where
+they were to a full production vehicle
+that could be level five and then when
+it was proposed that they step down and
+just launch a level three autonomous
+vehicle everybody said no that it wasn't
+disruptive enough well if that's the
+case the the thing that they made a
+decision about there was not going into
+a market because of Regulation not
+because of technical
+capability and I don't think that that's
+necessarily a smart decision they would
+have been better off going into the car
+market launching a level three vehicle
+and just letting the market play out
+they probably just like they were able
+to do music have the influence to change
+the laws yeah especially if they stepped
+in there with their rigor right and they
+they're not doing that so it's a little
+bit of a head scratch of what's going on
+over there they need some new products I
+mean maybe Apple Vision Pro someday
+becomes the platform of the future but
+they've squeezed as much revenue as they
+can out of the iPhone Services seems
+like the best place for them to make
+money but as we see my idea under
+assault yeah my idea was just that they
+should launch a huge competitor to AWS
+as Ur and gcp so if you look every
+developer that Apple has theoretically
+could have been running on an Apple not
+just on Apple's SDK and apis but they
+should be running in an Apple Cloud you
+could have made that claim and it would
+have made a ton of sense for app
+developers to have TurnKey access to
+that right and they could have
+subsidized it and by the way to Sax's
+point that would have been an incredible
+way to defend a 30% rev share okay
+listen I'm taking 30% but here's a bunch
+of subsidized access to hardware and the
+market would have loved it and in this
+AI shift they can still do that where
+now people are chipping away at the 30%
+right people are saying well I can just
+build around you they need to do
+something and service is Jason the most
+valuable thing they could do would be to
+launch a big cloud I think yeah I mean
+they have all the app developers on test
+flight ready to go they just email them
+and say hey here's your free storage I
+mean they could just slowly add features
+right and they're they're doing this uh
+open source I think it's called Maggie
+or Magpie or something but they're doing
+an image one and uh well look if they
+could if they could just make Siri work
+like the way it was supposed to using an
+llm and have it be like Snappy that'd be
+a major upgrade to the iPhone I don't
+think you need to buy a new iPhone for
+that because it would just be a software
+upgrade but just getting Siri to work
+would be a big win I think that's where
+they're going with their silicon and
+they just announced the M3 on the
+MacBook airs like they're making their
+own silicon and I think it's going to
+power llms locally on the devices and
+that's so powerful I was using I photo
+this week and in apple photos there's
+now on certain images if you swipe
+through them you'll see the little AI
+icon when you click it it tells you
+things in the photo like that's a
+bulldog that's pasta and so they're
+already subtly adding these features now
+that's a feature Google's had in Google
+photos for five years but go ahead and
+open your phone right now and search for
+a dog or a bulldog or whatever type of
+dog you got you know uh Labrador and
+then watch golden retriever that it
+actually knows how to do it they never
+announced it it's just subtly being put
+in there uh so there's so many
+opportunities if they required a
+hardware upgrade to get like actually
+good AI built into the software then
+everyone's going to have to upgrade for
+that that's a pretty big motivation to
+upgrade there you have it Tim Cook
+somebody send this clip to Tim Cook put
+put AI chips on your uh phone this isn't
+hard right I mean all they got to do is
+just take the latest open source models
+and figure out how to customize them for
+their own products yeah and they're
+doing it doing it right now all right
+let's go to Issue four Tik Tock
+bipartisan ban will the CCP agree a
+bipartisan group of a dozen plus
+lawmakers introduced a bill that would
+effectively ban Tik Tock in the house
+this week the bill is officially called
+the protecting Americans from foreign
+adversary controlled applications act
+gives bite dance 165 days to divest from
+Tik Tok that's the parent company the
+Chinese company that owns Tik Tok the
+app that's very popular in the west
+especially here in America it would make
+it legal for companies like Apple and
+Google to show Tik Tok in their app
+stores as you know Tik Tok 170 million
+us users and they claim that they're
+headquartered headquartered in Singapore
+I know people who have worked at Tik Tok
+or do work at Tik Tok and they said
+that's nonsense to me the company said
+it has not and will not share user data
+with the CCP in my mind it's an obvious
+lie in 20121 the CCP took a board seat
+on bite dance Beijing based subsidiary
+that's according to Reuters and then in
+2022 by dance admitted that it accessed
+IP addresses and data by journalists
+covering Tik Tok to see if they'd been
+in the same places as B Dan employees
+obviously to find leakers and by Dan
+claims they fired the people involved y
+yada last year a former head of
+engineering at by Dan us said CCP
+members had god mode access to user data
+in 2018 sax um I can go explain more of
+this but I just got to go to you here if
+this if bite dance is not spying on
+Americans and the CCP is on the board
+that would be make no logical sense to
+me and why are they fighting the
+divestiture if it's just a financial
+reason why would they take the CCP off
+their board do you think it's spyware do
+you think the US is crazy for allowing
+this product here in the United States
+when we're not allowed to put Twitter
+Facebook Instagram pick your social
+network in China we have zero
+reciprocity here look if it's true that
+Tik Tok is sharing data with the CCP
+then I think the United States is well
+within rights to either ban it or cause
+it to be divested and I personally like
+the divesture option I mean that's what
+Trump was suggesting during his term
+because we don't I think in the United
+States like to
+just essentially confiscate or destroy
+people's property but I think we're
+within our rights to require to be
+divested to an entity that we know is
+completely separate from and won't
+cooperate with the
+CCP this bill is a better is better than
+the last bill we talked about that was
+targeted at Tik Tok I don't know if you
+remember that one but it was weirdly
+prohibiting Americans from using VPN and
+gave the government the right to go
+after Americans who are using VPN so
+this one seems cleaner and better and
+more narrowly targeted at divesture now
+at the beginning of my response to you I
+did say if you know I know that
+everyone's just assuming that it's true
+that Tik Tok is sharing data with the
+CCP but I just want to confirm that that
+is the case because they are denying it
+and I can understand why people think it
+and why it might even be likely but
+since we do have a concept of due
+process in America I do think some
+evidence should be provided that that
+actually is taking place well we've had
+you know whistleblowers inside there but
+chth if the CCP is spying on their own
+citizens what are the chances that they
+wouldn't take the opportunity to spy on
+government officials who have Tik Tok on
+their phone or their kids and get
+comprom mod on them possibly or no
+locations of people what does your gut
+tell you is a CCP is this too dangerous
+for us to have here in America under CCP
+control or this kind of influence being
+on their board I think you're asking the
+exact right
+question I have two comments to make one
+is Nick if you can bring up this article
+about the Google AI IP case basically
+what happened was that
+doj filed an
+indictment actually I think I sent I I
+think I sent you guys the actual
+indictment but essentially what happened
+is there was an engineer at Google that
+has been charged crazy that has been
+charged with stealing AI secrets for
+China and I don't know if whether he's
+back in China now or not but the whole
+point is that if it's happened at Google
+right where there's a motivation for the
+Chinese intelligence apparatus and
+frankly every intelligence apparatus to
+infiltrate that organization and get
+access to all kinds of
+data I think we should presume by
+default that all of these organizations
+are infiltrated and I think that that's
+probably a more conservative and
+reasonable posture so Facebook is
+infiltrated Google is infiltrated apple
+is infiltrated Tik Tok is infiltrated so
+on that Dimension I think that it should
+be considered 100% certainty that this
+data is getting back to not just the
+Chinese but multiple state sponsored
+actors so the question about Tik Tok
+then I think should be one of business
+and I think Paul mer lucky did a very
+good job of simplifying this down to its
+Essence which is essentially what he
+called The Law of Equivalent Exchange if
+you want to just play this it's like
+just a few seconds I was kind of
+frustrated that people made Tik talk
+into a cultural issue by the way I'm
+totally on the culture War side of it uh
+but but but but I was saying practically
+speaking you should not make this a
+culture War issue don't talk about how
+it's ruining our you's ideals just say
+strictly on a trade basis yes we cannot
+allow them to sell this thing to us if
+we can't sell the same thing to them
+like that that should be totally fair
+that's reciprocity that's reciprocity me
+and Palmer lucky and Sy right so this is
+what he calls the Law of Equivalent
+Exchange and I think it just makes a lot
+of sense so on the face what I would say
+is Jal my response is I think that the
+CCP but also other intelligence
+organizations have infiltrated all of
+these big companies and all of our data
+is accessible by them I'm not going to
+say on a whim but I think it's
+accessible I think you have to deal with
+Tik Tok as a business issue and I agree
+with Palmer lucky which is they should
+not be able to sell to us what we cannot
+sell to them and I think that that's a
+fair principle that we can live on Resto
+is a very simple position freedberg let
+me use your creativity
+Your Love of Cinema if you were to use
+this tool let's take the most cynical
+approach here or interpretation CCP has
+complete access to the algorithms and
+they want to do maximum damage let's say
+during the election let's say in a
+conflict like the one going on in
+Ukraine with Russia or in
+Gaza what could they do using the
+algorithm using videos what would be the
+Doomsday scenario for America as in the
+C CP comes in and influences the
+management of this company and tells
+them what to tweak and how and why yes
+content what would they do I think we
+saw this
+during after October
+7th that there was a significant surge
+in Pro Hamas videos relative to Israel
+support videos that's the sort of thing
+where you could kind of see something
+that sets an
+opinion that maybe disruptive to the
+social fabric to the election cycle that
+starts to get shared more frequently and
+show shows up in feeds more frequently
+unlike Facebook and other places where
+there's a linear feed where you can
+scroll up and select what you want to
+watch as you know Tik Tok has already
+lined the videos up so when you scroll
+up they've they automatically play the
+next thing for you so the ranking really
+matters in terms of viewership uh on Tik
+Tok unlike a lot of other kind of Select
+to playay social media type sh an
+election
+hearts and Minds in a war well I've
+always said this I think it's the
+craziest thing in the
+world that someone can spend advertising
+dollars and change someone's vote like
+that like just think about that fact for
+a second I mean I've said this before
+and people have told me I'm an idiot for
+saying it but meaning that you can or
+that it does that you that both that
+that
+that think about it like like people
+don't individually go and gather data
+and then make an informed opinion about
+who they're going to vote for their opin
+changes based on seeing an ad it is so
+crazy to me that that's the truth I
+think the I think the country knew that
+it does that's why they prevented it
+from happening
+until yeah exactly but I mean I think
+that's what's so nuts is that there's no
+longer a forced discourse that kind of
+makes people go out and choose what
+content they want to consume what they
+want to hear debate stages Etc that now
+it's about who spends the most money to
+get the most views in front of someone
+and that that actually influences
+someone's decision on who to vote for is
+what's so compelling to me about why all
+of these systems have such extraordinary
+power it's just so amazing to me that
+the more frequently someone sees an ad
+the more likely they are to buy
+something or do
+something here's the bottom line this
+the more frequently you show someone a
+AIC on Tik Tok the more likely they are
+to vote something differently this thing
+is far too powerful for the CCP to have
+any kind of access to it for the Chinese
+government to have any kind of access to
+it it has to be divested if you look at
+what we went through in the last couple
+of election Cycles not being partisan
+here at all but we've said and we've
+talked about Hunter Biden's laptop as
+but one example you know that was
+suppressed obviously on social networks
+that could have been Amplified in social
+networks and it could have had the
+opposite effect Hillary Clinton's emails
+you know Trump this Hillary this Biden
+that you you could really sway an
+election by putting in specific subtle
+information let alone taking a hack and
+relasing it like they did with Hillary
+Clinton's email so you know those things
+might not have swayed an election but
+sax if Putin had access to this like
+somebody who's super capable and he had
+access always where it goes no I just
+secretly pulling the strings of our
+election okay Iran this is like the
+biggest threat inflation ever okay look
+if you ask if you ask people out there
+do you think other people's votes are
+influenced by social media they'll say
+yeah of course people are brainwashed if
+you say to them is your own vote
+influenced by social media do you make
+up your own mind based on all the
+information you have they'll say yeah of
+course I'm not brainwashed everybody
+else is and I I believe that people are
+closer to telling the truth when they're
+talking about themselves because they
+understand their own situation better
+than they understand everyone else's
+situation the fact of the matter is that
+all of us are constantly bombarded with
+information 24 hours a day 7 days a week
+through all of the channels both online
+and offline where we get information
+some of those data points come from
+advertisements but I don't think we take
+ads very seriously we're trained to kind
+of even just block out the ads when I
+see banner ads or even ads in my stream
+I just like scroll past them they don't
+even factor in my Consciousness I am
+influenced by accounts that I follow but
+there are accounts I've chosen to follow
+because I think they have signal over
+noise and the more noisy those accounts
+are the more I disregard them and and
+take them them less seriously with
+advertisements being the most noisy and
+least useful channels so look I think at
+the end of the day this idea that we're
+all being brainwashed and secretly
+influenced by malign foreign actors I
+think is at a minimum threat inflation
+and that entire narrative might just be
+completely
+bogus
+nonetheless I do agree that for data
+collection reasons and reciprocity
+reasons I think it's like I said we're
+within our rights to require the
+divestment of of Tik Tok I you know s
+you don't make this into more than it is
+again I think this whole disinformation
+narrative by the way you want to know
+why they push it so hard it's because
+our own intelligence Community wants to
+be involved and there are political
+actors in the US who want to regulate
+quote disinformation on our own social
+networks and I'm not talking about Tik
+Tok I'm talking about X I'm talking
+about Facebook insta and so on and we
+saw this in the Twitter files we saw
+what a cozy relationship the
+intelligence Community had with Twitter
+they were all up in there trying to
+control what Legacy Twitter was
+allowing URL they blocked the New York
+Post URL and you've said on this program
+that you believe that could have swung
+the election well I think it was that I
+think that actually was genuine election
+interference I actually said I didn't
+know whether it could swing the election
+I think that you think could
+have I think it was a story that deserve
+be publ published so that and
+distributed online so that the public
+could take that into account when they
+voted I mean and so if it had been
+widely received do you think I'm asking
+a question not answering it okay you're
+you're asking me a question that I
+personally think is irrelevant how would
+I know whether the
+suppression of that story swung the
+election how could I know that the point
+is that the American people were
+deprived of information that they had
+Believe come it would have swung the
+election well I can't prove I can't
+prove that it swung the election what
+I'm saying is that it was a type of
+election interference why was that story
+suppressed because 51 former
+intelligence officials who still
+maintain close relationships with the
+intelligence Community publish a bogus
+letter saying that it was Russian
+disinformation which it wasn't and then
+that caused our social media sites to
+suppress it so that to me is as
+concerning if not more concerning than
+whatever it is that Tik tok's accused of
+so I don't want social media companies
+being used by the intelligence
+communities of either China or the
+United States to swing or to influence
+our elections and we need to be equally
+concerned about that as we are about
+supposed Chinese influence just to go
+back in time you probably remember the
+Willie Horton ad I mean that kind of
+sunk dakus if you remember that I mean
+media and these ads can really have a
+big impact so people should just look
+historically there have been many
+moments where whether it's Nixon
+sweating on TV or the wiie Hort Ed there
+have been many moments where video can
+do this and I think the the they could
+be done even more subtly by the Chinese
+by just you know promoting certain
+videos all right let's move on to
+bitcoin issue five bitcoin's back baby
+it hits an all-time high
+69,000 interesting number on Tuesday
+69,000 before dropping sitting around
+68k as we're taping it be 75 by the time
+you hear this or 50 it's been ripping in
+2024 of
+70% since January 25th uh there's two
+things going on here uh that you've
+probably heard about the Bitcoin ETFs
+finally arrived in the US they were
+approved by the SEC on January 10th
+we'll get into that in a minute
+moth obviously it's an ETF it's super
+easy to buy them and sell them they've
+been a total hit black rocks Bitcoin ETF
+became the fastest ETF to ever reach 10
+billion in assets also as the technical
+crypto heads in the audience know there
+is a having happening in April this
+happens about every four years at the
+current Pace last one was May of 2020
+when these
+halfings happen the mining rewards are
+cut in half this reduces the supply of
+new Bitcoins entering circulation and
+can cause some swings shath uh we had a
+we released a clip I think um just about
+your prediction and you nailed it again
+you said this would be a big year for
+Bitcoin so your thoughts on being
+right I don't have much thoughts on that
+but my two comments are that I talk to a
+lot of Bitcoin Traders and and folks
+that seem to have a very good pulse and
+touch on this Market I don't say that I
+I do because I don't really look at it
+every day but they seem to think that
+this thing is on a death march to 100K
+I'm not sure whether that price is
+realistic or not in the year but I will
+say
+that we're going to get to a Tipping
+Point where everybody really talks about
+this I still don't think we're there yet
+I think we're just at the beginning but
+when you see the inflows into these ETFs
+jakal it's like a very big deal because
+it just allows every mom and pop
+individual to buy some to the extent
+that they want to own it or they want to
+speculate on it whatever it
+is so I I think it's been a very big
+year and I think that psychologically
+it's proven a lot of folks wrong
+and it's a setup for something really
+constructive the other thing I'll say is
+that it's not just Bitcoin but as goes
+Bitcoin there are a handful of other
+things people are now speculating that
+there's going to be an ethereum ETF that
+gets approved as well because you know
+if you approve one there's probably
+legitimate cause to approve a few others
+so these things are becoming part of the
+financial Fabric and I think that that
+should not be underestimated and the SEC
+is still taking action against certain
+Bad actors in crypto there were a couple
+of those this week but Bitcoin fredberg
+is incredibly resilient just on a
+technological basis the fact that it
+hasn't broken down under stress it
+hasn't had you know a denial of service
+type of
+attack or a government hasn't been able
+to capture 51% of the mining or or some
+great amount of it or just even be
+hacked in any way you have to be
+impressed by the the fundamental
+technology here free maybe you could
+speak to that level of success that this
+thing is so stable and trustworthy and
+reliable to date it's you know it's got
+a great incentive model as long as
+bitcoin price remains High the miners
+will still be there and the system will
+keep running if bitcoin price
+drops transaction fees will decline the
+value of mining will
+Decline and you know it kind of goes the
+other way as well I think the real
+question is in the last couple of years
+have we really seen seen a change in
+Bitcoin being used for transactions or
+for Commerce in any meaningful way I
+think the answer is still likely not no
+definitely not and it's really a stored
+value system and it's become this kind
+of stored value Asset freeberg this
+microplastics thing we talked about it
+on the show and uh since that time I
+refused to open plastic bottles I'm
+doing all glass I'm getting rid of all
+this goddamn plastic I I already did
+glass bottles in my house cuz I'm cheap
+and I like to fill it from my water
+filter
+but we're uncovering more information
+and then I saw this headline this week
+that microplastics are in our blood
+streams in some cases and what the heck
+does that mean it's worse than that team
+of scientists in Italy collected
+samples from patients that had plaque
+removed from their cored artery it's a
+kind of common cardiac procedure where
+you get plaque that blocks up in your
+cored they go in they removed the plaque
+so a total of 304 patients agreed to
+have the plaque that was removed from
+their artery submitted for analysis and
+then what this team did is they took
+that plaque and they studied it to
+see how much plastic was found in that
+plaque and they used a bunch of
+measurement techniques to do this
+including electron microscopy and mass
+spec so they because it's really hard to
+find these molecules and microplastics
+or nanoplastics remember are less than 5
+mm in size with a mean level of 21
+microG per mg of plaque roughly 1 per 50
+is the ratio of plastic to plaque that
+they found which is really incredible
+because it shows that Plastics these
+little Nano and microplastics are
+accumulating good or incredible bad
+incredible bad that these micro Plastics
+these nanoplastics are accumulating in
+the human body now here's the the scary
+part they then did a followup 34 months
+later the patients that had plastic in
+their blood had a four and a half times
+higher Ratio or likelihood of having
+heart attack stroke or death from any
+cause so all of these major health
+effects were four and a half times
+elevated in patients that had plastic in
+their blood this was published in the
+New England Journal of Medicine if I
+didn't say it it really indicates that
+there is this kind of cumulative problem
+and that the cumulative problem is
+likely leading to really adverse health
+outcomes and I'll just highlight one
+other paper from a team in Germany and
+Norway back in May of 2022 and this team
+tried to figure out how Plastics are
+causing adverse health effects in the
+body and they had a theory like let's
+put little microplastics or nanoplastics
+together with all the human cells that
+we know shake it up and see what happens
+and what they found was that these
+little plastic fragments were binding to
+dendritic cells and monocytes key cells
+in the immune system and when those
+cells were um Bound by PL IC they
+release these cyto and the
+pro-inflammatory signals go through the
+roof it causes the immune system to go
+Highwire increases inflammation and the
+cascading effects of that obviously can
+ultimately lead to many of the events
+that we're mentioning were measured in
+this set of patients in Italy so um
+again we're just starting to uncover
+these effects this concept that
+microplastics and nanoplastics that are
+accumulating let me just say these
+Plastics are mostly pet which is what we
+use to make plastic bottles that we
+drink water and drinks out and PVC or
+polyvinyl chloride which is what a lot
+of our plastic plumbing and piping is
+made from and so as little tiny bits of
+these plastic materials either are
+exposed to sunlight and break off and
+end up in our water and food supply and
+we consume them they are slowly
+accumulating in in bodies and they may
+be driving inflammatory response they
+may be driving adverse Health outcomes
+we're really kind of tip of the iceberg
+and really studying this understanding
+and analyzing it but here's another
+really interesting empirical data set
+that highlights that this really is
+um pretty significant half the patients
+had it and of that half they had a four
+and a half times higher chance of dying
+or having a heart attack or a stroke in
+the 34 months that followed yeah the
+scary data the thing the thing that that
+study said which was nuts is it it
+looked like the the nanop particles the
+nanoplastics and microplastics were
+effectively acting as scaffolding for
+plaque so in in almost like it was a it
+was a shim that allowed it to grow the
+question is would it grown faster than
+it would have otherwise that's even
+scarier
+so I did not like reading that paper
+that really freaked me
+out really really freaked me out I was
+drinking water from plastic water
+bottles this week and time I drink water
+out of a plastic bottle now I'm like
+like nervous every time I take a Si
+you're not supposed to double your the
+risk of all cause mortality by drinking
+yeah aiji water you know what I mean
+four and a half x four and a half X it's
+crazy in 34 months think about the
+cumulative effect over time long perod
+imagine drinking water out of a plastic
+bottle thinking you're doing the right
+thing and then trotting over to the
+recycling bin you know yeah and you do
+that for 20 years you may be killing
+yourself well there it is so wait what's
+the if you if you if the water glass
+bottles you must use you cannot use
+plastic you just can it's over no
+plastic no plastic you got to stop it's
+over we're drinking it's done glass cans
+good plastic stainless steel stainless
+steel is fine just like I mentioned when
+we talked about this a few weeks ago the
+carbon footprint the environmental cost
+the cash cost is much higher with all
+these alternatives to plastic so there
+are big challenges with respect to
+having some big massive response to
+Plastics used in our supply but you know
+living in the luxury world that we all
+get to live in we get to have that
+choice and we'll make that choice but
+it's a real problem for Humanity because
+Plastics are so ubiquitous in so many
+things and they've they've enabled
+they've enabled affordability of
+consumer goods this is such
+honestly like all you have to do is have
+glass bottles or carry a water bottle
+with you like I have a Contigo one I
+like I carry it with me I empty it I it
+I have a water filter in my house and we
+fill water bottles and put them in the
+fridge no but what if you like yogurt
+yogurt comes in a plastic container
+there's all kinds of stuff you can't
+avoid plastic that's so scary we try to
+that's so scary we we do have the French
+yogurt that comes in glass bottles but
+yes it is hard yes we do the French
+yogurt in
+glass where do you get it from there's a
+French yogurt that comes in
+glass it's called
+like or something they been while no
+water water you just install a filter
+system which you have at the mum and
+just fill huge glass bottles just have
+your staff fill glass bottles and put
+them in the fridge and don't throw them
+away and give your kids like some of
+these thermoses or whatever but don't
+have the water bottles like you know
+it's so funny it's been a disaster in
+the poker game in some ways we got rid
+of it and there's been way more broken
+glass people knock over the you know the
+the side tables I get it it's been a
+huge pain but I will not go back no it's
+the right thing to do absolutely the
+right thing to do okay well if if jamath
+is endorsing this I guess I'm gonna take
+it seriously I think you got to do it my
+opinion doesn't matter with sex I'm not
+saying you're wrong I'm just saying that
+your threshold for becoming concerned is
+lower and then if Cham if it hits Chamas
+threshold Which is higher I'm gonna take
+it more seriously as your besti I would
+like you to stop using plastic for the
+rest of your life okay you're in a
+position to do it I would ask you to not
+do it all right everybody Welcome can
+all you fers come back to the B so we
+can see each other absolutely I miss you
+guys all right love you guys I miss you
+I miss you guys too for the Sultan of
+science the chairman dictator
+and the Rainman David Sachs I am the
+world's greatest moderator okay love you
+guys I got to go love see you next time
+bye let your winners
+ride and instead we open source it to
+the fans and they've just gone crazy
+with it love queen
+[Music]
+of besties
+are that's my dog taking your
+driveway oh
+man we should all just get a room and
+just have one big huge orgy cuz they're
+all this useless it's like this like
+sexual tension that we just need to
+release
+[Music]
+somehow we need to get merch
+our
+I'm going all
+[Music]
+in

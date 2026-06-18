@@ -1,0 +1,346 @@
+# ZLyDvABxGF0
+# https://www.youtube.com/watch?v=ZLyDvABxGF0
+
+hey what's up guys mkbhd here and ios 14
+is here it was just revealed at wwdc
+yesterday and i've had this beta on my
+iphone this very early developer beta
+for about a day now and after using it
+for that time
+there's actually a lot here both big and
+small so this is the first look and
+hands-on at the features and what to
+expect for this os that will eventually
+hit all your iphones in fall and
+september around then when it comes out
+brought to you by the six color shirt of
+course also happy pride month so right
+off the top i just want to say the memes
+were pretty strong about apple taking a
+a lot of old features from android in
+this release i made the jokes we all
+made the jokes but aside from all that i
+think we should ask ourselves
+why now
+like why are we just getting widgets
+instead of like eight years ago when
+they could have added widgets to ios and
+after actually using it i'm feeling like
+the answer is
+they wanted to get a couple extra things
+right to put on top of it and it's not
+like it's better than the android
+version but there's some stuff that they
+do their own way you'll see what i mean
+so first up is the new home screen we've
+all heard about it we've all seen the
+widgets by now but let's just go over
+everything first of all there's the new
+app library which is a space all the way
+at the end to the right of all the home
+screens that's literally just a big list
+of all your apps but automatically
+organized this is basically the first
+time ios has had like an app drawer
+where everything's in one place
+uh it took a decade but it's finally
+here and inside of that there's just a
+straight up alphabetical searchable list
+if you're into that too now you can
+still pull down to search from anywhere
+on the home screens if you want to find
+apps that way and actually adds more
+results from the web and from siri but
+hopefully you'll need to use this a lot
+less and then of course
+finally
+widgets now it's still not quite android
+level where you can put them like
+anywhere you want and change them to
+whatever size you want it's not the same
+thing like you can't put a widget in the
+middle of a home screen it has to be
+either on the left side or the right
+side which is kind of a bummer and you
+can't put it alone on the right without
+anything to the left of it so it's still
+restricted in a very iphone way as you
+can tell but at least you can long press
+hit that plus button and break out into
+all these new widgets and add them to
+any home screen with some degree of
+freedom you see there's different sizes
+all the widgets here in ios 14 off the
+bat are all first party apple apps and
+and there's a nice variety with
+different sizes and functionalities but
+we are expecting third-party apps to be
+coming as well and that to me is
+exciting to finally be coming to the
+iphone you know i'm looking forward to
+having my tesla widget where i can
+unlock the trunk of my car just from the
+button or open the charge port or even
+just have a widget of my google calendar
+instead of an apple calendar so okay now
+apple's added the fundamentals of
+widgets are on the home screen so now on
+top of that they've added a couple
+interesting little dynamic nuances and
+extra things you can do with that first
+of all there's a widget you can add
+called smart stack where once you add it
+it's basically a carousel of several
+common widgets and you can scroll
+through them manually or have them
+change automatically based on
+predictions it's made for you and while
+that's neat i didn't really think i
+would use this until i found out you can
+edit smart stacks and remove unwanted or
+useless widgets from this carousel but i
+think even cooler is the method of
+adding
+or creating your own smart stacks you
+can do this anytime you want so if you
+want to create a stack you can add two
+widgets on top of each other that are
+the same size so hold and drag that
+second widget on top of the first widget
+drop it on top and it becomes a
+scrollable stack and then you can
+continue to add more and then you can
+edit to make it a smart stack or just
+keep it this way that is pretty nice and
+then another thing long overdue from ios
+that you can now do because you have an
+app drawer is hiding home screens
+so let's say you have a couple apps that
+you don't use that much as classic ios a
+bunch of apps you don't use but you
+don't want to delete them just in case
+you want to use them once in a while
+okay so instead of putting them all in
+like a random folder that just sits at
+the end of one of our home screens now
+that there's an app drawer in ios you
+can just hold down to edit
+click the dots at the bottom
+and then just uncheck to hide an entire
+page boom now you never have to see
+those apps taking up space on your home
+screens again you can now actually make
+a whole ios home screen setup with no
+apps and just one page of widgets if you
+wanted to so overall this home screen
+stuff is definitely the biggest change
+in ios then we have a bunch of changes
+in this category that we'll call
+compact ui so in previous versions of
+ios there are plenty of things plenty of
+actions that just unnecessarily take up
+the entire screen
+now they're all fixed so now when you
+get a phone call or a facetime call for
+example it won't just dominate the whole
+screen anymore it'll just give you
+another drop down notification from
+which you can easily hide it and keep
+doing what you're doing it'll keep
+ringing or you can accept or reject
+right away that's a good compact ui and
+then once you're actually on a facetime
+you can actually swipe up go home and do
+other things and the facetime continues
+doesn't pause your video it keeps the
+camera up and working you can look
+something up grab a phone number
+whatever you're going to do it doesn't
+have to pause and you can move around
+that picture in picture as long as
+you're doing all that and speaking of in
+picture it's just generally more widely
+supported throughout the entire os now
+so whether you're watching a a movie in
+apple tv in that app or just any video
+in safari really and it's pretty
+straightforward once a video is full
+screen just swipe up to go home and that
+video will shrink down and keep playing
+in this little picture-in-picture window
+and then you can play with the size of
+that window move it around to any corner
+and just keep doing whatever you're
+doing behind that picture you can even
+swipe it over to the side to get rid of
+the visual for a minute but the audio
+keeps playing in the background and then
+you can bring it back whenever you want
+keep going it really does feel more like
+true multitasking and then lastly for
+compact ui siri
+which in all previous versions of ios
+used to always be this full screen
+takeover now in ios 14 is just a little
+animation here at the bottom again
+they've they've sort of adjusted it
+but it's not perfect so you can call up
+siri the same way long press the power
+button and it's this smaller animation
+at the bottom of the screen you ask it a
+question it pops up an answer at the top
+of the screen where it can but it
+doesn't let you interact with anything
+underneath directly without exiting siri
+so while yes the animation is smaller
+and it doesn't take up the whole screen
+anymore it still doesn't quite feel as
+much like the true multitasking where if
+they let me scroll an article underneath
+my siri answer
+nevertheless you can still see what's
+underneath there if you need to
+reference it while you're talking to
+siri then from there there are a lot of
+little things useful things
+but little things
+i think to categorize them we'll put
+them into two buckets straight from
+android
+and
+genuinely new stuff that google should
+copy so straight from android that stock
+keyboard now finally has added emoji
+search so instead of typing a word and
+hoping the right suggested emoji pops up
+now you can just search for any emoji
+you want anytime which has revived the
+age old question
+is this emoji
+prayer hands
+or a high five
+apple's keyboard does not service it
+when you search for high five but
+google's does apple is team prayer hands
+google is team high five which team are
+you on then there's a new stock
+translate app which is nice to see it
+only supports a smaller number of
+languages looks like about a dozen right
+now but i expect to see that list grow
+over time and it works great for quickly
+translating conversations between two
+people and then finally default email
+and browser apps will be able to be
+changed in ios 14.
+finally now it is it's just email and
+browser apps but you know those are the
+two that most people most often want to
+set as a different default so i'm
+excited to get chrome as my default
+browser and i am very excited to have
+something other than the useless to me
+mail app as my default mail app then we
+also saw app clips which is like little
+snips of apps that you can quickly
+temporarily use when you don't have the
+whole app installed but need to use some
+of its functionality a lot of good stuff
+there but then we'll move on to the
+super unique features that i haven't
+seen some of this stuff wasn't even
+talked about on stage but you know as
+people dig through the betas we've found
+some of it and it's good i want to start
+with some accessibility settings so in
+ios 14 if you go into settings
+accessibility touch
+and then back tap
+you can now map a double tap or triple
+tap of the back of the phone to a
+shortcut so i've mapped double tapping
+the back of my phone to open up siri so
+literally all i do is double tap the
+back
+and after about half a second siri pops
+up and then i think i did
+triple tap to take a screenshot
+and there it does it's a slight delay
+but it does work and it's kind of neat
+to have an extra thing mapped to the
+back of the phone
+i kind of wish opening the camera was
+one of the available shortcuts
+hey uh editor marquez here chime in with
+a quick update you can actually set a
+siri shortcut to run on that double tap
+of the back of the phone and then you
+can set that shortcut to point to any
+number of things so at this point i
+literally have the shortcut set to open
+google assistant on a double tap which
+is pretty hilarious
+you could also have it open the camera
+or whatever else you really wanted to
+okay back to the video and then while
+we're at it here's another really
+interesting accessibility feature
+settings accessibility
+sound recognition this will let you turn
+on notifications if the phone's mics
+recognize a sound that might be
+important so it's meant for people hard
+of hearing but could still be useful to
+anyone if it picks up a doorbell or a
+fire alarm
+or a faucet running that you forgot to
+turn off that's pretty sweet there's
+more memoji customizations they still
+don't quite look exactly like me but at
+least you can add face coverings like
+masks another sign of the times along
+with that hand washing detection from
+the apple watch and then a privacy
+feature
+anytime literally any time an app starts
+using the camera ios shows a little
+green light to let you know that
+something is accessing the camera and
+anytime the microphone is accessed a
+little orange light and then in the
+improved faster camera app when taking a
+night mode photo it gives you a
+gyroscopic guide to help you keep the
+phone still to take a better handheld
+picture another one is if you're
+facetiming and the ai detects that
+someone in that group facetime call is
+using sign language it will move them up
+to the most prominent biggest spot so
+everyone on the facetime can see the
+sign language and there's also a ton of
+other things on apple's site from the
+pinned conversations and messaging to
+cycling directions and ev navigation in
+maps but clearly really most of the good
+stuff
+is in the details here's a list of all
+the iphones getting ios 14 in the fall
+again likely around september like they
+do every year and so that's every iphone
+since iphone 6s but overall
+i think it's looking pretty good i mean
+it's still it's not like a drastic ui
+overhaul it's very clearly still an
+iphone half the people who get this
+update will probably never use most of
+these features but there's a lot of good
+ones baked in there for the nerds like
+who want to dig in and actually use that
+stuff let me know in the comments which
+one's your favorite or if you're an
+android person which one you'd like to
+see google copy anyway until the next
+one thanks for watching
+catch you guys later
+peace

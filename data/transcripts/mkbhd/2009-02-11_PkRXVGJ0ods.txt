@@ -1,0 +1,215 @@
+# HD Review: Camstudio
+# https://www.youtube.com/watch?v=PkRXVGJ0ods
+
+hey everyone and welcome to another hd
+tutorial and in this video i'm actually
+going to do a tutorial on or review on
+the screen recording tool i'm using
+right now called cam studio
+what this does it is it allows you to
+record the actual pixels on your screen
+as they move
+and you can obviously upload youtube
+there's a ton of videos on youtube with
+people using their screen recorders and
+posting videos so i'm here i'm going to
+do a review on cam studio
+basically it is a free program so it's
+going to be very stripped down version
+of what you may have seen in camtasia
+studio 6.
+um it has all the basic features the
+pause and you know a little bit of
+editing some annotations so i'll go over
+the different modes and different
+features with you guys first of all this
+is what it's going to look like when you
+first open it up it's got the full
+window you can also use the toggle
+button to switch to a compact view and
+just these
+so i'm going to use this view for now
+when you're recording it shows you your
+current frame which is basically um your
+time elapsed which is about a minute now
+uh 32-bit color and the codec you're
+using which i'll get into in a minute
+the frame rate the frame rate you're
+getting for the recording of your video
+and the dimensions you're recording in
+so when we hit file we can either stop
+pause or exit cam studio which we can
+also do from here here or here
+when we hit region we can either do a
+regular region
+a fixed region or a full screen so
+regular region is a it's not a constant
+region it's constantly expanding and
+contracting a fixed region if i click on
+it is what i'm in now
+you can select the width and height
+and also i will show you um
+the
+height that you can record in to uh get
+hd quality for youtube videos i showed
+you this already
+640 by 360 900 by 600 which actually
+gets a little uh horizontal bars wasn't
+the best 1088 by 612 and 1280 by 720
+so right now i'm recording in 640 by 360
+and i have auto enabled which means it
+follows my mouse wherever i go
+and it drags the corners to pan so if
+i'm leaving it it'll catch up to my
+mouse
+because the auto pan speed is not very
+high
+so
+that is region and also full screen it
+will just record the full
+1680 by 1050 that my my monitor is at
+right now
+when i go to options there's a whole lot
+more options first of all and this is
+where you select the video compressor or
+codec that you want to use
+i'm using a divx codec right now which
+uh is available for download and i've
+also done a video on
+you can configure how this uh codec
+actually compresses your videos and how
+it looks when the video is done so if i
+configure it i'm using a 720 hd profile
+right now which is why
+the quality is so good when you hit the
+that little hd button on the bottom
+right hand corner of this video
+so i'm going to hit ok uh the quality i
+obviously set to 100 in order to enable
+hd
+um i've let the frame rate auto adjust
+so that if something is running in the
+background it will concentrate less on
+the actual video recording and more on
+that application
+so that's basically video options for
+this window right here
+also this the divx 6.8.5 codec which i
+will show you i've already showed you
+how to get is pretty much the best hd
+recording codec for cam studio
+second under options is cursor options
+where you can choose what your cursor
+looks like whether or not you show your
+cursor in the first place and if you
+want to highlight your cursor with like
+a little yellow circle or square or
+something
+so i don't actually want to do that
+next you can record audio from your
+microphone from your speakers or not at
+all i'm obviously recording from a
+microphone right now and you can also
+choose your audio options for your
+microphone and speakers as well as this
+little synchronization just in case the
+audio comes before the video
+i'm still tweaking a little with that so
+pardon me the video seems a little bit
+off
+next
+is enable auto pan which is very
+important if you're if you're um
+if your cursor is actually moving around
+the screen i can disable auto pan and i
+can move my cursor out of your screen
+right now but that wouldn't be very
+helpful because you wouldn't see what i
+was doing
+so next is auto pan speed which i've set
+to 90 which is pretty decent speed which
+means it's not like flying all over the
+place but it's pretty smooth
+as you can see so that's my you can go
+from zero to 200 by the way from maximum
+pan speed
+next under options is program options
+where you can minimize the program on
+start which means this whole window here
+won't be here
+there is
+high flashing rectangle during recording
+which is um just this tiny
+little green flashing rectangle and this
+right here um which is actually showing
+where i'm recording on the screen but no
+need for that i'll just leave it
+uh save settings on exit definitely do
+leave this checked so you never have to
+uh reselect your codec and your
+resolution and your auto pan speed every
+single time you open
+capturing capture translucent layered
+windows this is good if you're using
+windows vista arrow very very good
+and also play when it stops temporarily
+direct for temporary directory recording
+which is just
+making sure you don't accidentally exit
+your video
+recording thread priority i suggest you
+leave this at normal otherwise it'll
+kind of take away from the cpu usage of
+other programs
+and troubleshooting
+also you can record and preview your swf
+file upon completion if you're recording
+to swf but i am recording to api format
+and also i showed you an entire video
+just for the keyboard shortcuts for
+starting recording ending recording
+showing layouts etc so watch that video
+too in hd
+last but not least actually not last but
+we have screen annotations which allows
+you to put a little uh let's say you
+want to just have a little um a little
+arrow pointing something on your screen
+uh i can actually add those into my
+video as i'm recording
+other tools include visions which is
+kind of the same here i'll put a little
+actually you can actually see a video of
+me on screen because that doesn't work
+very well but i'll exit out of that
+next you have
+uh your view which i showed you you can
+change from normal compact and button
+view just from this uh this button right
+here boom boom and boom so those are the
+three views i'm in normal view right now
+and last but not least there's a help
+button which you know shows you what
+version of cam studio you're using
+um
+that takes you to the cam studio website
+for extra help faqs donations etc not
+very important to the review but um that
+is basically it that is uh what i used
+to record my screen so if you're
+wondering uh how to get this in hd i
+also have a video on how to record in hd
+um so go ahead and watch those videos
+there's a ton of videos on my channel on
+cam studio so watch those and rate
+comment and subscribe so if you have any
+other video tutorials that you'd like me
+to do
+um just go ahead and drop me a comment
+and i will definitely get back to you go
+ahead and subscribe and send me a
+message and i'll get back to you and do
+a video to the best i can mention your
+name in the video so thanks for watching
+guys and subscribe peace
+you

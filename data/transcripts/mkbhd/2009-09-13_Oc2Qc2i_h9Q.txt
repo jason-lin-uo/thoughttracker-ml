@@ -1,0 +1,122 @@
+# HD Tutorial: Stack Docklets 2.0 [Windows]
+# https://www.youtube.com/watch?v=Oc2Qc2i_h9Q
+
+[Music]
+hey what's up guys it's Marcus brownley
+here from MKBHD and welcome to another
+HD tutorial and in this one I will be
+showing you guys how to install and how
+to use uh stack dockets in object dock
+now if you guys I mean I I did an object
+doc tutorial not too long ago and a lot
+of people seem to like the the idea of a
+dock for Windows uh and there is a
+rocket dock in object doc now if you
+haven't already heard of a stack docklet
+it's basically uh if you haven't already
+seen this in Mac OS 10 uh being able to
+click on something and have it spread
+and show what is underneath it so I'm
+going to show you how to install them
+and create them so go ahead and open up
+a web browser I'm going to use Safari
+for this tutorial just because of its
+download speed and uh you're going to
+take the link in the description and uh
+either click that or whatever you want
+to do uh and just open up that link and
+that will be the link to downloading the
+file that I've uploaded so you guys can
+uh so you guys can just download this
+and install it straight away so all you
+have to do is hit that download button
+right there I'm going to click it and
+it's going to hit that's going to say
+save or run you're going to hit run and
+I'm just actually even though I already
+have it I'm going to show you guys how
+to do this anyway because there is
+another step so go ahead and hit run
+again and if UAC or user account control
+uh does pop up just go ahead and hit
+allow or accept or continue for anything
+it asks so I'm just going to exit out of
+this and it's going to say this is the
+last part you need need to remember uh
+would you like to install this manually
+and for what doc so I decided to do this
+tutorial for Rocket doc uh for object
+doc excuse me you could also click on
+Rocket Doc and hit install and it would
+inject it right into the doc for you so
+I'm hitting cancel because I already
+have it so once you already have this
+you can just go up to your doc and uh
+right click on any of the spaces you
+have hit add and you will see new stack
+2.0 docklet has been added to your list
+of uh entries hit uh just click it and
+right on the right hand side here you
+will see by default it says my computer
+now I'm going to create one for my
+documents so you guys can see how this
+works so right here my documents all you
+have to do is click on this and then my
+documents folder opens up but what if I
+want to click on it and have uh the my
+documents all just spread out like in a
+fan well I just go ahead and right click
+on it and go to Doc entry properties and
+this is the uh this is the customization
+uh section basically for your stack
+stocket so going to change the folder
+this is going to be the my documents
+folder so just go ahead and find that
+there's documents hit okay we're going
+to let stack doets decide whether or not
+it wants to be a fan or a grid it's
+basically uh choosing that based on the
+number of entries within the folder then
+when you choose icon I do plan on using
+uh I'm going to use uh use icon as box
+overlay but I do plan on uploading my uh
+my Mac OS 10 icons to uh some sort of
+file sharing site making a video about
+it because a lot of you guys have been
+really interested in my icons so I'm
+just going to go ahead and find these
+icons real quick Macos 10 icons and I
+want to take a blue one and it's going
+to be documents so that's the icon that
+we'll use up here when we're done and in
+advanced I don't really mess around with
+these kinds of things these um these are
+uh settings I don't really play with
+when you hit okay you will see the
+object has changed you go ahead and
+click it and there are all your
+documents so pretty awesome that you get
+to do that and if you want to click on
+one just just click on it and it opens
+up so now you'll notice this is actually
+a blue icon on top of uh that regular
+folder icon to fix that you can actually
+go to Doc entry properties icon and just
+use icon as stack icon so there's no
+overlay or overlap or anything hit okay
+and that works out perfectly so now you
+guys can uh pretty much erase this my
+documents folder because you can always
+go through it right this and if you
+always uh if you actually do need to
+look in the my documents folder you can
+always open folder using the shortcut
+down here and that is basically it guys
+so I hope you enjoy your new object doc
+2.0 stack dockets uh if you have any
+questions about this or how to do it
+with rocket dock which I also do have
+and use uh feel free to message me or
+leave a comment and that is basically it
+thank you for watching guys peace
+[Music]

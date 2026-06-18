@@ -1,0 +1,250 @@
+# iPhone 14 Plus & The Problem with Benchmarks!
+# https://www.youtube.com/watch?v=35BkHichD2M
+
+you would think that the most expensive
+best iPhone is the one with the best
+battery life right nope this here is the
+new iPhone 14 plus it's basically just
+the iPhone 14 but bigger so the minized
+iPhone is dead after 2 years and they've
+replaced it with this plus-sized version
+which means a bigger screen and a bigger
+battery I will say it is a bit lighter
+than you'd probably expect that aluminum
+makes this big phone actually lighter
+than the smaller Pro with its stainless
+steel but there's really not that much
+else interesting here except that when
+Apple announced it on stage they said
+that it would be the best battery life
+ever in an iPhone and then they just
+moved on I guess that does make sense
+though right it's the same size as the
+iPhone 14 pro Max same battery size
+roughly but with a dimmer 60 HZ display
+so I guess yeah it should last longer
+but is it actually substantially longer
+see when you get to Apple's website the
+iPhone 14 pro Max is the one listed at
+20 9 hours of video playback Which is
+higher than this 14 plus which is listed
+at 26 hours but then again just for
+audio playback the plus will do 100
+hours for the first time which is more
+than the pro Max which is just 95 hours
+super useful for those of us doing five
+straight hours of audio playback in
+airplane mode right but no that this is
+the first point I wanted to make in this
+video which is that in the smartphone
+World these days the benchmarks are less
+and less relevant than ever and I almost
+don't even pay attention to them anymore
+unlike back in the day when they used to
+be really important like years ago new
+phones would come out and they would
+have huge year-over-year performance
+gains which was exciting but mostly
+because they would actually like unlock
+new things that you could do with your
+phone things like shooting 4K video for
+the first time or playing HD games or
+taking hdr photos with a bunch of
+different exposures so that big jump in
+raw performance year-over year meant
+before the jump you couldn't do a thing
+and then after the jump you crushed a
+threshold and now you could which was
+sweet but smartphones are so evolved and
+so complete nowadays that basically
+every smartphone can do all the
+fundamental things very well it's more
+around the edges that they're starting
+to optimize for certain tasks certain
+things so yes the overall power and the
+geek bench score still does go up a
+little bit year over-year every year but
+that doesn't really mean nearly as much
+as it used to it doesn't really mean
+anything significant other than maybe a
+few more more frames per second in a
+game or uh launching an app slightly
+faster Plus in this one's case it's the
+same chip as last year so it means
+almost nothing but what's really
+happening now is companies are
+developing their own silicon with
+special sections of their system on a
+chip designed to accelerate certain
+functions that they think will be a
+priority for their users so with apple
+you know the a series chips and the
+iPhones means big performance cores
+small efficiency cores but then a bunch
+of other stuff things like like a prores
+accelerator for faster video encoding
+there's a neural engine for optimizing
+machine learning tasks and there's a
+special image signal processor for
+fusing together different exposures into
+a photo very quickly and a display
+engine that helps smoothly run those
+animations for the Pro phone on the
+dynamic island with Google you've got
+the new tensor chip in their pixel
+phones again big cores small cores but
+then dedicated pieces for machine
+learning for their Crazy Fast speech to
+text there's an image signal processor
+for HDR+ and then more and more some
+Oppo flagships even though they haven't
+gotten to designing their own silicon
+entirely are still adding things like a
+specialized ISP to the find X5 Pro for
+processing photos the way they want to
+much faster and now it's even starting
+to apply to all types of other devices
+we already know about Apple silic Max
+you know the M1 chip having a prores
+accelerator because that's important to
+a lot of people using Pro Max also the
+steam deck has a custom Apu that lets it
+hit certain frame rates in lower power
+States basically the point is these
+companies are now adding
+focused pieces of compute Hardware when
+they design products based on what they
+think is a priority to their users and
+accelerate those things dramatically and
+those pieces make a bigger difference
+than any Benchmark will show like here
+here's a this's is a good analogy I like
+a a good comparison so let's say you
+need a vehicle for the fastest time
+around a track and you get to choose
+between vehicle a and vehicle B all you
+get to choose from is benchmarks so the
+benchmarks for vehicle a is it did a 0
+to 60 in 3.5 seconds it got on a Dyno
+and measured 5502 horsepower and 339
+lbet of torque then vehicle B did the 0
+to 60 in 3 seconds flat it measured 835
+horsepower and 98 pound feet of torque
+so okay Ju Just based on those numbers a
+sensible person would probably lean
+towards picking vehicle B that would
+mean you just picked the rivan r1t a
+very fast pickup truck but you just
+picked that over the 2018 Porsche 911
+GT3 one of the best track cars ever made
+that's how I feel about relying on basic
+General benchmarks these days like the
+benchmarks tell one story about the
+general overall capability but you still
+should be picking based on the specific
+features and things you want to do like
+do you want to carry around lots of huge
+things get the one with a huge trunk do
+you want to make quick turns at high
+speeds get the one with the arrow pieces
+do you want to take lots of pictures and
+video of yourself and your friends get
+the one with the best cameras do you
+want the one with the longest possible
+battery life get the big one but
+speaking of battery life I do actually
+want to mention that I have noticed I've
+gotten better battery life on the iPhone
+14 Pros after disabling the oon display
+this is something we are wondering from
+the review I've had a couple days or
+weeks now to do it and yeah it does make
+a difference but that actually leads to
+the second part of the video when I
+wanted to go over a little bit more
+which is the state of the iPhone 14s
+about a month later so it's been an
+interesting couple of weeks testing
+these phones and seeing what's happening
+to other people with their phones my
+reviews went out using the phones Apple
+loans for reviews but then since then
+I've gotten my own that I've bought and
+started using full-time I haven't really
+had any major issues but it does seem
+like this has been one of the notably
+buggier launches of a new iOS and iPhone
+in the past couple years and even though
+it's not happening to my phones it's
+hard to ignore so there was a pretty
+famous camera jittering bug with the pro
+I phones before a quick iOS 16.02 update
+ironed that out the only issue I've
+personally noticed on mine is my iPhone
+14 pro often takes forever to connect to
+wireless carplay and often just fails
+and doesn't connect but then again I
+can't tell if that's just the new iOS or
+the Cadillac lyric that's causing this
+exact problem but I asked on Twitter hey
+how's everyone's iPhone 14 experiences
+going so far the first few weeks and of
+course this is going to be a pretty
+focused sample but thousands and
+thousands of you chimed in and I spent
+quite a while reading through a lot of
+this stuff and it's almost a little bit
+surprising how many bugs I've been
+getting tweeted about here are the three
+most frequent things that I'm seeing
+from you guys in my Twitter mentions so
+the first one is lock screen stuff
+specifically uh it seems like there's
+like an auto rotate bug when customizing
+or lock screen tons of people sent me
+screenshots of it videos of it it hasn't
+happened to mine but it's been annoying
+because then you kind of have to reset
+your your phone restart it and start it
+again but that's like the number one
+thing I saw most frequently then number
+two was Dynamic Island stuff so a lot of
+people with the pro phones have noticed
+weird bugs with Dynamic Island the
+software bubble like moving to the wrong
+place or animating weirdly getting stuck
+in animations quirky stuff like that I
+kind of expected that to happen a little
+bit at the beginning but that obviously
+kind of breaks the illusion of it just
+being this little seamless little pill
+box of software that's annoying but then
+number three is battery drain and this
+is the one I am most concerned about a a
+sort of alarming number of people just
+when I asked about it it's been floating
+around there already but people were
+just chiming in with like yeah the
+battery doesn't last as long as I
+expected it doesn't last as long as a
+previous phone I had it's been draining
+and telling me that it's been draining
+and I'll like wake up in the middle of
+the night and have like a warm phone
+with a nearly dead battery weird stuff
+uh so that's the one that I'm going to
+keep my eye on that I think Apple's
+probably also going to be paying the
+most attention to it's the hardest one
+to fix also shout out to channel sponsor
+dbrand they just dropped this new sick
+digital camo design they call it glitch
+camo they've also got a navy and Arctic
+colorway available great way to make
+your iPhone stand out from the rest you
+can check these out at the link below
+but there you have it that's the iPhone
+14 plus and the iPhones one month later
+thanks for watching catch you guys in
+the next one peace
+[Music]

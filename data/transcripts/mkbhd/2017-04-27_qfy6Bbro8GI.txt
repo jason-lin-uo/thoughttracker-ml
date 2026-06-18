@@ -1,0 +1,192 @@
+# Top 5 Android O Features!
+# https://www.youtube.com/watch?v=qfy6Bbro8GI
+
+[Music]
+Hey, what is up guys? MKBHD here. A B C
+D E F G H I J K L M N O. We're like
+halfway through the alphabet already.
+Google is moving pretty fast. So either
+way, Android O developer preview is out
+now. It's been out for a little bit.
+It's been announced. We have a logo. We
+don't have a name. It's always a dessert
+theme. I would guess it's Oreo, but I'm
+always wrong, so your guess is as good
+as mine. Either way, it appears to be a
+pretty incremental update. So, it's not
+this huge massive overhaul. You would
+have heard about it already if it was,
+but there is some new stuff and we'll go
+over that. But for the most part, it's a
+mostly behind-the-scenes update. Stuff
+you might not have even noticed if you
+weren't familiar with the previous
+version of Android. But that doesn't
+mean there isn't some cool stuff to
+cover. So, this is your top five new
+features of Android O. So, number five
+is your lock screen customization. So,
+this actually lies in the system UI
+tuner, which is a new feature added with
+Android Marshmallow. and it's kind of
+hidden like developer options, but once
+you unhide it, it holds some pretty cool
+stuff that I hope sticks around or even
+graduates from the system UI tuner into
+more visible main features. So, with
+lock screen shortcut customization, you
+know how on your lock screen you have
+the swipe up from the left to open your
+voice control or swipe up from the right
+to get to your camera? This actually
+lets you change those shortcuts to
+whatever app you want. So, if you have
+some favorite apps that you launch a lot
+more often, you can go through literally
+all the apps on your phone and pick your
+favorites and that will swipe up to
+unlock into whatever app you choose. So,
+that can be pretty useful. If you text a
+lot or tweet a lot or Snapchat a lot,
+whatever you pick, those shortcuts will
+be on the bottom. And I think that's
+pretty neat. Now, number four is what I
+would call contextually aware text
+selection dialogue. It's a terrible
+name, but it's way cooler than it
+actually sounds. So, you know how
+whenever you select any text, just plain
+text on Android, you get a couple
+options to copy or cut or paste or
+select all. Well, now the selector is
+actually contextaware. So, if you
+highlight an address, a Google Maps link
+will actually appear and you can hop
+right into Google Maps just from that
+selection. So, if you have someone
+texting you a phone number, you
+highlight that phone number, it gives
+you a link to call that number
+immediately. So, that's the kind of
+convenience stuff it's recognizing. I'm
+hoping it'll also work when I highlight
+a link. it'll be able to open that up
+into my web browser, but usually that's
+just a hyperlink anyway. But either way,
+pretty cool stuff. I'm happy to see.
+Now, number three is a little bit of
+customization with the navigation
+buttons down at the bottom. We've seen
+this built into a couple thirdparty
+skins, but this is also in system UI
+tuner. So, you can now choose between a
+compact, which puts them all in the
+middle, or a left-leaning or right
+leaning set of buttons. So, people with
+big phones and small hands will find
+that easier to reach from one side with
+one-handed use. And then you can also
+add an extra button or two on the bottom
+that stay permanently there. So a
+clipboard button is an example. Not sure
+if it's for copy and paste functions or
+just a permanent place to view your
+clipboard because it's not fully
+functional here yet, but the president
+is set and it's pretty cool. I'd like to
+be able to add my own button there
+whatever I want. Now number two is a
+refreshed notifications panel. This is a
+subtle one. It's definitely a visual one
+and you'll notice it if you've seen
+previous versions of Android. The icons
+up top in the quick settings are now a
+little bit cleaner. There's some new
+icons up there, too. Uh the thin lines
+underneath some toggles, but also check
+out that slick new animation for
+revealing from the icons as you swipe
+notifications down. That is pretty hot.
+And then you have a couple new
+notification behaviors. Seems like these
+get a little bit more complex every
+time, and that would be true, but it's
+not too crazy this time. First of all,
+the battery percentage is revealed with
+one swipe instead of two. I really like
+that uh because I like seeing my actual
+percentage instead of just a trying to
+guess based on how full the bar is. And
+then you can do a half swipe over on a
+notification to snooze notifications
+from specific apps for some time. So
+this might low-key be one of the most
+underrated features. So let's say you
+just dropped a fired tweet, your phone
+is blowing up with all these Twitter
+notifications. Instead of muting your
+whole phone, you can snooze just your
+Twitter notifications for say 15
+minutes. and that will still allow you
+to not miss any calls or any emails or
+any other notifications. Then when
+that's done, it'll come back. I think
+that's pretty awesome. My only complaint
+here is I wish the half swipe was a
+little bit easier. It's still way too
+easy to accidentally do the full swipe
+and then you just dismiss the
+notification completely and you can't
+get that back. I did that a lot, but I
+still really like the ability to snooze
+notifications from just a single app.
+That is really cool to see. Now, the
+last one, number one, is a whole new
+settings app. And this one is maybe the
+only actual big redesign in the entire
+top five is the new settings app is a
+lot cleaner. It's visually overhauled. I
+think the old settings apps and even on
+other phones besides the Pixel was
+starting to get a bit overwhelming with
+the sidebar and the tons of settings,
+but now it's a lot simpler looking and
+it's a much shorter list and the sideout
+menu is gone as well. Overall, it's a
+shorter top level list, but you can
+still dive more into the actual settings
+or just use the search bar just to get
+to stuff that you know is there. Uh it's
+black and white now as well. And also
+some of the pages like the storage
+information readout look a lot cleaner.
+Uh plus they give you that big important
+visual up top that is pretty helpful. Uh
+same thing with like the battery
+settings for example. It still breaks
+down by your mostused apps but you still
+get that big clean graphic up top for
+the percentage and estimated time left
+and power management tools. But yeah,
+that's it. There you have it. Those are
+the top five, at least from what we know
+right now, best new features in Android
+O. Don't know the name yet, like I said,
+but we'll be finding that out pretty
+soon. And it's a developer preview, so
+this is still evolving. There will be
+new versions of it, and there will
+probably be new features added in the
+next couple months before it becomes
+official and rolls out to phones. Like,
+you don't get these huge overhaul
+updates every couple months or it will
+be a little bit crazy. And obviously,
+still most phones don't have the latest
+version of Android already yet. So, this
+will be rolling out slowly. Uh, but from
+what we've seen, what is your favorite
+new feature? Let me know. Thank you for
+watching. Talk to you guys in the next
+one. Peace.
+[Music]

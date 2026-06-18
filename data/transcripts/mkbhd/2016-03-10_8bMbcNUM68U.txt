@@ -1,0 +1,192 @@
+# Top 5 Android N Features! (Dev Preview)
+# https://www.youtube.com/watch?v=8bMbcNUM68U
+
+[Music]
+hey what is up guys MKBHD here and yeah
+I know what you're thinking most people
+don't even have Android M yet and yet
+we're already getting a preview of the
+next version yep it's earlier than
+normal this year before Google iio and
+everything and it's loaded on this Nexus
+6p so let's take a look at the best new
+features in Android n so it's going to
+be a lot of smaller stuff first of all
+there's no version number that I can see
+but it feels like this is going to be
+something like and Android 6.1 a lot of
+what you'll see here is redesigns so
+number one a redesigned Settings app so
+you can see it looks pretty similar to
+the marshmallow Settings app but in each
+category it's starting to take advantage
+of the larger screens these phones have
+and it's showing you a little
+information inside it before you have to
+click it so with battery without
+clicking it tells you how much battery
+you have left storage tells you how much
+space you have open wi-fi and Bluetooth
+tell you what you're connected to before
+you even open the setting so that's
+pretty cool and then you have when you
+do click into a setting you get a new
+option which is a swipe out side menu
+with links to all the other settings so
+you can use this bar to sort of navigate
+between submenus if you know where you
+want to go and it's pretty quick I don't
+know if this actually saves any steps as
+far as the number of clicks but it works
+well and you can kind of memorize where
+your most used settings are on the list
+so you can definitely get to them pretty
+quickly this way I actually like the way
+it looks in landscape I don't use my
+phone in landscape that much but it
+looks like the settings from Android
+Honeycomb back in the old tablet days
+taking advantage of the bigger screen
+all right number two is redesigned
+notifications so you can see your
+notifications are a bit wider now they
+take up the whole width of the display
+and they show a lot more information now
+again really taking advantage of the
+bigger high-res displays we have and you
+can tap the little down arrow to expand
+or contract notifications or you can
+stick to the two-finger drag which is a
+lot easier to get that more information
+and then some apps like first- party
+apps like Gmail will let you expand so
+much that you can actually take
+individual action on each item so
+notifications are bundled as they come
+in but once you expand it you can
+archive emails like one by one or pick a
+single email to take an action on like a
+reply and I think more apps will start
+to pick this up too so if you get like
+three Twitter notifications you can
+choose what to do with each one after
+you expand so I like this and you also
+now have a half swipe over to get to
+notification settings for that app uh I
+kind of liked the long press better but
+that's how you do it now and some apps
+will support inline replies in the
+notifications so like Hangouts for
+example the new Hangouts app will let
+you reply to a message without ever
+leaving the notification panel and then
+get back to what you're doing again a
+lot of this stuff is new functionality
+to take advantage of your bigger screens
+I like it so number three is redesigned
+Quick Settings up top this is something
+we've seen in skin versions of Android
+before actually so HTC Sense TouchWiz
+but now you can just pull down once and
+have these quick toggles to frequently
+Ed functions like Wi-Fi or Bluetooth or
+your flashlight or whatever when you
+pull down again that's when you get to
+your quick settings at your you're
+familiar with with the bigger panel and
+it's paginated so you can swipe across
+between screens as many as you want here
+and there's also a new edit button right
+up front so you can go in there and move
+stuff around move stuff in move stuff
+out move stuff into the top five so that
+it becomes a quick setting Etc so this
+is classic Android full-on customization
+fun you can really set the most used
+functions right up top to be at your
+fingertips number four is a redesigned
+multitasking so this is definitely my
+new favorite change in Android n so
+right off the bat the multitasking cards
+are way bigger so it lets you see more
+info in your last used app on the screen
+which is pretty cool and then when
+you're in an app and you hit the
+multitasking button it brings the app
+you're in way down to the bottom because
+you don't don't want to go back into
+that same app I've done that by accident
+a lot so now when you hit the button it
+just gets out the way and shows you a
+big card of your second to last most
+used app so now what it gets right is
+one of my favorite editions which is the
+double tap it kind of acts like a quick
+app switcher and swaps back with your
+most recently used used app I think it's
+awesome it's handy for quick copy paste
+stuff or just going back and forth
+between two apps you use a lot like
+Twitter and Reddit and back to Twitter
+whatever you're doing it's pretty handy
+and then new to stock Android we now
+have split screen multitasking so when
+you're in an app you hold the
+multitasking button then pick another
+app and then you're in and this is
+awesome uh we again used to only see
+this in skins but now you can grab the
+bar in the middle and resize the
+multitasking windows or use the bar to
+close one out entirely I got to say for
+a developer preview this is really
+smooth like I didn't expect it to be
+this good at all but it's nice and
+stable and it works works in landscape
+too so I'm hoping I'm hoping that a
+bunch of apps now that this is in the
+developer preview will quickly support
+this in a few months down the road so we
+get this new version early app
+developers get to build it in and then
+when the new version of Android comes
+out like a new Nexus almost everyone's
+apps already works with split screen all
+right number five last but not least is
+the dark mode it was kind of buried in
+the last Android M developer preview but
+again we have a functional night mode in
+Android which essentially reverses the
+colors in a major core apps like
+settings to be dark Behind the Green
+which can be useful if you're using your
+phone at night or at someplace where you
+don't want it to blast light everywhere
+uh it still is in system tuner so you
+don't exactly have it at your fingertips
+but you do get to dig in and mess around
+with it and it even has a feature to
+automatically turn on at Sunset kind of
+like the night mode in Google Maps nice
+so there you have it there's a bunch of
+other little stuff here and there like
+an improved doze that should even work
+to help save battery life when the phone
+is in your pocket and there's also a
+data saver mode so when you just know
+you're going to run out of data you can
+kind of keep your phone in check there
+but that's the best of what's new in
+Android n so far again it's just a
+developer preview number one so more
+changes and features will be added
+before the final version this summer yes
+the app drawer is still here looks like
+we're keeping that but let me know what
+you think what's your favorite new item
+personally I'm all about that double tap
+app switcher but that's just me thanks
+for watching and I'll talk to you guys
+in the next one
+[Music]
+peace

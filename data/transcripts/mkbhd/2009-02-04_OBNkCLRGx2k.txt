@@ -1,0 +1,75 @@
+# HD Tutorial: Boot Your Computer Faster
+# https://www.youtube.com/watch?v=OBNkCLRGx2k
+
+he guys today I'm going to show you how
+to boot your computer just a little bit
+faster than it normally will uh first
+thing you're going to do you're going to
+want to go to your start menu and type
+run if you're in Windows XP and select
+run and then type Ms config and run the
+Microsoft Configuration system
+Configuration utility this utility under
+the general tab I've chosen a selective
+startup and I chose the first
+two and you can ch choose a diagnostic
+set up start up at any time if you would
+if you wanted to diagnose a problem or
+something uh but I suggest a selective
+or a normal startup then under the boot
+tab uh we're loading Windows Vista and
+that's the only partition I have a lot
+of people will have a timeout of up to
+30 seconds this timeout is not necessary
+make that as low as you want just don't
+make it zero and apply oh it says
+between three and 999 so and make that
+three don't make it anything less
+or anything higher than
+999 um you can choose a safe Boot and a
+no GUI boot will Lo will load absolutely
+blazingly fast but I actually like the
+GUI boot so I'm going to leave it but
+that's the graphical boot where it does
+the whole loading your desktop settings
+thing and everything with the green bar
+rolling across the screen so that's the
+GUI boot you can choose to disable that
+and that'll just boot your computer
+extremely fast next click the services
+Tab and disable anything you do do not
+need so I don't need that um certain
+things that you don't want to boot with
+your computer and there are tons of
+websites that will teach you which uh
+services not to basically not to uncheck
+and but there are a few that I can
+uncheck just here looking at how many I
+have starting I do have quite a bit
+starting uh I don't need let's say I
+don't have a tablet PC I just saw where
+was it
+um I just saw a tablet PC input service
+I can disable that because I don't have
+a table PC so certain certain things
+like that will help you uh will help you
+to increase the speed of your computer
+starting up when you're done hit apply
+and you might be prompted to re to
+reboot after this but uh I haven't been
+prompted yet also at startup disable as
+many things as you do not need so go
+ahead and expand so you can see exactly
+what it is I've disabled quite a few
+already down here um and these things
+you can always reenable at any time if
+you feel the need and then hit
+apply tools I just leave that the way it
+is and hit okay this will hopefully
+increase the speed of your computer
+starting up or decrease the time it
+takes for your computer to start up and
+maybe it'll maybe it'll do your needs
+maybe it won't but hope hopefully this
+will help you guys so uh otherwise um
+thanks for watching And subscribe peace

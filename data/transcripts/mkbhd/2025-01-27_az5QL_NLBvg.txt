@@ -1,0 +1,322 @@
+# I Tried Samsung's Secret Android XR Headset!
+# https://www.youtube.com/watch?v=az5QL_NLBvg
+
+so Samsung has just recently started
+teasing this unreleased prototype VR
+headset called project muhan and they
+haven't actually let anyone outside of
+the company show it to the public yet
+until now so welcome to your exclusive
+first look and early impressions of the
+very collaborative Samsung and Google
+headset that looks a lot like a Vision
+Pro I actually want to take a step back
+real quick though because this isn't
+just a Vision Pro lookalike
+this is potentially a huge step towards
+fixing the fragmentation in the world of
+VR and mixed reality headsets right now
+because right now there's Vision Pro
+obviously running Apple's Vision OS
+there's the meta Quest running Horizon
+OS and those major ones will probably
+keep running those but then there's the
+world of all the other headsets out
+there and we just saw CES there's
+there's a lot of other headsets around
+just popping up left and right and what
+software should they run so this is the
+first Android XR headset so it's a
+pretty deep collaboration between Google
+and Samsung think of it as like the
+Nexus or pixel but for headsets it's a
+huge Baseline amount of software it's an
+OS with tons of features that give it a
+really high Baseline for functionality
+and then some example Hardware to show
+it all off on now again this is
+technically an unfinished prototype that
+they're showing me so they could still
+have a few tweaks and things that they
+changed before the end and but Samsung
+has also made it very clear that it's
+intending on shipping it this year so I
+feel pretty good about evaluating what
+they've put in front of me and it's
+honestly pretty solid does it look like
+a Vision Pro from the front yes of
+course I mean it's got the light colored
+Fabrics obviously it's got the huge
+reflective glass piece at the front
+although there is no screen showing your
+eyes on the outside so that's a nice
+difference I actually posted this on
+Twitter and half of the comments were
+like oh you're making another Vision Pro
+video cuz it just looks so similar the
+way removable forehead rest looks is
+definitely inspired and there's also
+another removable magnetic light Shield
+that you can easily drop in the bottom
+to block out more light or keep it off
+for more peripheral vision but then the
+back borrows more from the now
+discontinued Quest Pro I would say with
+this sort of cup on the back of your
+head plus a dial to adjust how snug it
+is I found that with this setup
+basically most of the weight or the
+pressure now is on my brow above my eyes
+unlike what the Vision Pro was more
+below my eyes because of the way it sort
+of sagged so I thought I might like an
+over thehead strap option too at first
+but actually don't think this one's
+going to need it so then this thin
+metallic frame at the front has all the
+computer guts in it it has the
+Snapdragon chip it has these fans with
+exhaust holes at the top like you can
+see there's a single button at the top
+right and a volume rocker at the top
+left and there's sensors and cameras all
+the way around facing all directions and
+there's even a touchpad on the right
+side strap right where this rays bar is
+right here and then there's even one
+more thing that you might have noticed
+that they copied from Vision Pro which
+is the external battery pack on a cable
+that goes into your back pocket but
+there is one pretty key difference here
+so connects to the headset with a
+removable battery like Apple's it has a
+decently long braided cable like Apple's
+and relatively small first-party battery
+just like apples but unlike the Vision
+Pro this cable on the battery side is
+removable and it's it's just USB type-c
+so you can use this included battery
+which has a more secure fit obviously
+but if you want to plug in a bigger
+battery or whatever other battery you
+own then you can do that too thank you
+but I've actually come away from this
+experience not really thinking that much
+about the actual Hardware because that's
+not actually what makes this headset so
+cool it's Android XR think of it this
+way if you are uh Google and Samsung and
+you're trying to put together the pixel
+of headsets and you want to give people
+an actual reason to buy it over a Vision
+Pro for example what do you do what's
+your move hint it's the exact same move
+that they use for the pixel software so
+a lot of the basics a lot of the
+fundamentals are going to be the same
+right there's a home menu which has a
+scrolling list of all your apps plus
+some quickly accessible settings and
+recent apps and then instead of a
+digital Crown you can always go home by
+hitting the top button once or do this
+handtrack gesture to quickly get back
+there and yes there is both hand
+tracking and eye tracking in this
+headset at no point during this demo did
+I use any controllers although I do
+believe it'll support controllers might
+even come with some controllers in the
+Box don't know that yet uh but this was
+a very easy headset to just set up put
+it on and just use it and I think also
+will be super easy to share so if I just
+wanted to hand it to someone and they
+want to see what I see they put it on
+all they really have to do is hold down
+that that one button and it'll line up
+the lenses to match their eye distance
+and then they're Off to the Races so
+you're messing around using this thing
+these windows have these really large
+handles underneath them or above them to
+grab them and move them around and 3D
+space you can also grab any corner to
+resize a window to basically any aspect
+ratio you want and then since it's the
+Android headset it has two main things
+going for it one is the Play Store and
+two is Gemini so first of all all Play
+Store apps will work on this Android XR
+headset so that includes phone apps and
+tablet apps matter of fact these apps
+seem to respond well to me changing them
+to literally whatever aspect ratio and
+size I want I was kind of trying to
+break it and it seemed fine the whole
+time so the idea is that any headset
+that runs Android XR right out the box
+will have the same Advantage tons of
+apps available and then there's also
+spatial apps specifically which are
+built for headsets and are fully
+optimized so YouTube for example they
+have a spatial app for it this wasn't as
+eager to let me change aspect ratios but
+the whole app has this more specifically
+multi- window experience and lets you
+add an immersive background at any time
+if you want to to similar to certain
+Vision Pro apps having their own
+built-in environments and then also the
+headset always seemed to play nice with
+peripherals so moving quickly between
+this random Bluetooth keyboard and mouse
+and hand controls was pretty seamless so
+I love that even more but hear me out
+the Gemini integration was actually the
+most interesting part to me and it might
+not even be for the reason that you're
+expecting but I I think it was really
+cool so at any point you can just go
+home and and hit the Gemini button and
+just talk to it basically it starts
+running an instance of Gemini live in
+the background you know the live
+conversational version of Gemini that
+you can sort of talk back and forth with
+and carry on a full conversation with it
+does that in the headset and also Gemini
+is multimodal which in the headset means
+that it can see everything that you're
+seeing so you can ask Gemini about
+something that's just in front of you
+and it can give you answers just like as
+if You' taken a picture of it with your
+phone so it can translate signs or
+answer trivia questions or just tell you
+about what you're looking at Etc can you
+take me to
+here sure that looks like w rum in
+Jordan One update I would like is for it
+to be able to subscribe to YouTube
+channels and like videos but doesn't
+seem to be able to do that yet so you
+have to do it with your mouse and
+keyboard whoa so that was cool but
+Gemini can also navigate the UI for you
+so it was able to move around windows
+organize my windows for me close a bunch
+of Windows and then it can actually move
+around inside of apps I believe this
+would just work with spatial apps but I
+was having a lot of fun messing around
+inside of Google Maps and just jumping
+around to different places just by
+talking to Gemini and then occasionally
+selecting things with a pinch and Gemini
+would know how to search for things it
+would know how to use a search box it
+would find things in maps switch the UI
+from street view to the zoomed out view
+it could do all of this through voice
+and that saves a ton of moving my hand
+through the air to the point where it
+was pretty significant hey gini take me
+to the South Mountain
+reservation I can do
+that and then there's also builtin
+Circle to search in real life it was a
+little buggy when I was playing with it
+but the idea is really cool still so if
+you hold down the top right button on
+the headset it plays a little animation
+and then you can pinch your fingers
+together and just circle in real life
+whatever you want to search it pops up a
+window exactly the way it would on an
+Android phone and Google searches that
+thing and it's so sick when it works it
+seems so obvious for a Google headset
+but yeah I'm glad it's actually here now
+it is still Gemini which is to say it's
+not perfect it's it's still lacking a
+little bit of functionality from Google
+assistant right and there's I talked
+about bugs like there's a awkward bug
+where if you Circle to search but then
+your hand is in the circle it takes a
+screenshot of your your hand and
+searches that so they got to figure out
+a way to instruct people to circle the
+right way but this is still a massive
+difference versus The Vision Pro which
+has no apple intelligence features no AI
+features at all and probably won't be
+getting any anytime soon it looks like
+and I just feel like using these
+headsets for a long period of time I've
+noticed there is a good amount of
+fatigue from the tiny you know touch
+targets and the pinching and just moving
+your arm around a
+it's a it's a small thing but it's a lot
+more than a mouse and keyboard there's
+just a lot more arm movements and so I
+found that the fact that I could
+minimize that by just talking to the
+headset was surprisingly high on my list
+of useful features hey Gemini my windows
+are kind of a mess can you organize
+them I can help with
+that so my takeaways from my couple
+hours here you know I could judge things
+like display quality and field of view
+which were both fine by the way not
+remarkable it had pretty good sharpness
+much better than it looks in my screen
+recordings I can tell you that just a
+notch behind Vision Pro but also these
+things could all change a little bit by
+the time the final headset comes out I
+also like the hardware design I like
+that you can easily remove this light
+shield and keep some peripheral vision
+and some light coming in from the rest
+of the room around you it just
+subconsciously made it feel slightly
+more like glasses even though they're
+obviously not glasses but overall it's
+almost been more more fascinating to see
+what Google is doing at a software level
+with their first new platform like their
+first new OS really in like 10 years so
+I I feel like I just got to test drive a
+concept car where they have a whole
+bunch of new ideas about how driving
+works and if this is the pixel one let's
+say of Android XR headsets then that
+leaves room for other higher-end and
+lower-end headsets to come out with
+Android XR just like there are
+higher-end and lower-end phon
+I asked Samsung would not tell me the
+price of this project muhan headset so
+it could come out at any price it's
+probably a little bit more premium but
+the idea again is it'll Inspire much
+more development more spatial apps and
+then all the headsets that run Android
+XR get better so let's keep an eye out
+on the landscape of VR and XR headsets
+when this comes out and now shout out to
+Best Buy for sponsoring this portion of
+the video Best Buy is the go-to for the
+latest and greatest selection of tech
+including virtual reality products so
+stuff like The Meta Quest and other VR
+Gaming and accessories so shop now in
+store or online at best buy.com thanks
+for watching let me know what you think
+catch you in the next one peace

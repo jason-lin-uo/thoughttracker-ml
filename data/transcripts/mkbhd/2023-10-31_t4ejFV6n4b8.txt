@@ -1,0 +1,305 @@
+# M3 Macbook Pro Impressions: Is It Enough?
+# https://www.youtube.com/watch?v=t4ejFV6n4b8
+
+hey what's up y'all MKBHD here welcome
+back to another video this one a little
+bit outside of the usual Studio element
+as you can immediately tell uh that of
+course usually means I'm in a hotel room
+and that's true again this time I'm in
+California um and I'm out here because
+this week is the ultimate frisbee Beach
+World Championships it's like a 5-day
+long tournament it's super countries all
+over the world flying in here to compete
+and I will be competing I'm playing on
+mixed Team USA so
+pretty incredible actually this is a
+opportunity of a lifetime and it's been
+one of my goals for basically my entire
+Ultimate Frisbee career to play on a
+Team USA and represent the country in a
+world championship so pretty awesome
+that it's happening so shout out to that
+team uh and also for letting me get over
+here to this hotel to also talk a little
+bit of tech because you know I couldn't
+resist there's a random Apple event this
+week it's the Night Before Halloween and
+they're talking new Max new M3 Max and
+uh
+well we got to talk about it see the
+thing is in the tech World a lot of
+times you know obviously these product
+announcement events are super exciting
+but sometimes the story behind like
+leading up to the event is just as
+exciting as the actual thing being
+announced so in the in the Arc of
+technological progress hopefully I'm
+doing this on the right side usually
+there's a little bit of an arc like a
+really really fast explosive beginning
+adoption phase and then things sort of
+even out and become mature
+and stable and every every piece of tech
+goes through this Arc at different times
+you know with the smartphone World we're
+at like the flat part most of the time
+iPhone 15 is just a little bit better
+than iPhone 14 which was a little bit
+better than 13 but we did have to go
+through that explosive growth to get
+here and then there's other stuff like
+folding phones maybe that are just at
+the beginning or electric cars we see
+all kinds of first and second gen
+electric cars now so those are clearly
+at the beginning of that Arc where all
+the early adopter and bleeding edge Tech
+stuff is going on and so I bring all
+this up because with our computers it's
+actually not quite as straightforward as
+we think they've actually kind of had an
+interesting curve I think we all agree
+that computers laptops very mature but
+what Apple did with apple silicon when
+they announced Apple silicon their own
+integrated chips that they would be
+making and designing inhouse to replace
+the Intel stuff that was in MacBook Pros
+and Macs before they made this really
+big dent in the graph they made a big
+leap that you don't usually see so
+they're very very stable with all these
+Intel machines for a while and then this
+big jump up to Apple silicon Max and
+these things were a hit I I love mine
+I'm I'm in this hotel right now with my
+M1 Max MacBook Pro and you would think
+this is one of those things that I
+usually like to stay on the bleeding
+edge and keep the latest and greatest
+stuff in my Arsenal but I haven't
+upgraded this in years because I haven't
+needed to it's been amazing a lot of
+creators that I know use these laptops
+M2 came out after it was an Improvement
+but kind of back to being like a
+reasonable 30% still a big jump but like
+a 30 to 40% bump in CPU and GPU so we
+had this stability for a while a huge
+bump and then sort of leveling back off
+but then on top of all of that there's
+actually been a couple other
+announcements that have been sort of
+intriguing of other silicon
+manufacturers actually catching up this
+is all I'm speculating a little bit
+because I haven't tried some of this
+stuff but there was a recent Qualcomm
+announcement where they showed off some
+new Chips they're working on that they
+are claiming has performance that's Way
+Beyond what M2 already offers so all of
+that is the backdrop for this event that
+I'm about to watch where we kind of
+wonder if Apple's going to be able to
+give us some reasons to continue to buy
+new Macs new Mac sales have not been
+growing as much of they' as they've
+wanted and they really want to give us
+new reasons to so I'm curious not just
+about the actual products that they're
+about to announce but the story and the
+convincing that they have to do around
+new products I'm very confident that
+they'll be very technically impressive 3
+nmet chips Etc but I'm about to sit down
+and watch the event but that's just the
+backdrop to what we're about to get
+let's
+see good evening and welcome to Apple
+Park all right so that event
+was interesting it it was it was about
+what we expected but again sometimes the
+stuff around the event is more
+interesting the event itself so uh we
+got what we expected it was a pretty
+short event they got right to the chase
+m M3 M3 Pro and M3 Max are the new Chips
+they're all 3 nmet chips too which is
+awesome and then we got the machines
+that they're in so there is a new
+Macbook Pro 14in and 16-in which have
+these new chips and they refresh the new
+iMac now there are some new abilities
+with these chips right there are some
+subtle things that you may or may not
+take advantage of like improved mesh
+shading or now there's Hardware
+accelerated Ray chasing for applications
+that take advantage of that maybe you're
+generating three new models or you're
+doing after effects work or working in
+Maya or something like that but
+something sneaky that they did was in
+the general broad performance stuff that
+they talked about they of course showed
+their usual graphs but they almost
+always verbally compared the M3 family
+to the M1 family of chips not M2 and you
+know that obviously makes sense they're
+trying to make the improvements look as
+large as possible M2 Chip is only 2
+years old so the fact that they're 50%
+better in some stuff 60% better than M1
+is amazing but if you look at compar to
+M2 most of the numbers were more in the
+10 to 15 to 20 25% range better than M2
+as far as raw performance but again it's
+going to depend on your workflow I'm
+just thinking all right this is about
+what we expected I'm going to have to
+test the machines to figure out what
+battery life is like and what general
+performance and the stuff I do is like I
+do video editing they showed other
+workflows like DNA sequencing and like
+building applications and coding and all
+all kinds of stuff I don't do but enally
+modest update now this whole time I'm
+watching this event I'm thinking okay I
+probably don't need to upgrade right I
+mean I have this M1 Max MacBook Pro it's
+been great so what machines are they
+going to put this new M3 family of chips
+in so they introduced them to us and
+there are some new Macbook Pros and a
+new iMac the iMac is easy and probably
+actually where that M1 comparison makes
+the most sense it's the same thin
+colorful iMac just with the new M3 same
+price beautiful easy simple upgrade but
+MacBook Pros uh a little bit different
+they first of all got rid of the 13-in
+MacBook Pro with touch bar totally fine
+with me good riddance honestly it's now
+just a 14-in and 16-in MacBook Pros the
+14-inch you can get the base M3 or M3
+Pro or M3 Max and then the 16in you can
+get M3 Pro or M3 Max and they also
+introduced a new
+color uh called space black
+a matte
+anodized
+aluminum black MacBook
+Pro and uh
+well I might I might want to upgrade I
+don't I don't need it though I don't
+need it but I kind of I might want to
+upgrade I don't need it I don't need it
+I definitely don't need it you know
+clearly Apple's very clever about this
+stuff they know that if they just do the
+new chip then maybe not not as many
+people will upgrade but if you want to
+know that you have the new one it's the
+most classic apple thing is they give it
+a new look and then you know you have
+the new one just by looking at it and so
+this this black one it speaks to me they
+talked about it in the event as having a
+special anodized coding to prevent
+getting lots of fingerprints I'm very
+curious about seeing that in person we
+have some footage here ideally that I'm
+I'm showing you right now of actual
+in-person looks at that new matte black
+MacBook Pro I'm calling it matte black
+it's supposed to be space space black or
+whatever but I'm calling it matte black
+and you know I have a black dbrand skin
+on my MacBook Pro right now it does pick
+up a little bit of fingerprints and you
+can see that so I'm very interested if
+that will actually hide fingerprints
+we'll see and the other thing that I was
+actually curious about is uh they're
+going to ship a new iMac but they just
+sent the iPhone to USB type-c so are
+they also going to switch all these
+silly accessories like the trackpad and
+the keyboard to finally be USB type-c so
+we can slowly start getting rid of
+lightning everywhere but they didn't
+it's still lightning trackpad lightning
+keyboard so that upgrade we'll have to
+see another day so those are just some
+nuggets for you but I think generally
+the thought here is what Apple's trying
+to do is make this upgrade seem as large
+as possible even though really people
+who have M1 and M2 likely won't have to
+upgrade if you have an M1 Max how big of
+an upgrade is M3 Max really going to be
+it will depend on if you're pushing your
+current M1 Max to its limit
+and most people aren't you know who you
+are if you are pushing it to its limit
+I'll put it that way um I am currently
+you know I'm going to edit this video
+this 4K video from the Canon R5 I'm
+going to chop it up on Final Cut Pro on
+the laptops and it's going to break a
+sweat a little bit I already know but
+it's going to export in a a handful
+maybe 25 minutes and then it's down to
+my internet connection that's usually my
+biggest obstacle so I don't actually
+need to upgrade but the really
+impressive part is for the people who
+are actually maxing out these machines
+lighting up all the cores you know they
+have a new maximum of 128 gigs of
+unified memory on the M3 Max so people
+who are really pushing these machines to
+their limits are going to have even more
+amazing machines to go out and do their
+3D rendering their DNA sequencing all
+the stuff that they're doing and pack
+that machine up and take it on the go
+which is ultimately what this is about
+also this was so random but at the very
+end at the very end did you catch at the
+end of the Keynote
+that little message with
+text the keynote ends they fade to black
+and on a black background with white
+text they say this event was shot on an
+iPhone
+and wow I did not see that coming I
+watched the event fully believing that
+this this was probably shot on regular
+cameras cuz there's also like drone
+shots and CGI and all sorts of added
+effects and it's colored beautifully and
+I don't know where the microphone are
+again I have so many questions I want
+I've wanted to see behind the scenes of
+an Apple keynote so badly for years but
+more than any other one I've wanted I
+want to see the behind the scenes of
+this one so that I just I'm just putting
+that out into the
+universe amazing amazing production I'll
+say stay tuned for a review of these
+machines if you want to see real footage
+of the matte black MacBook Pro and all
+this new stuff get subscribe below I do
+plan on getting my hands on that stuff
+and reviewing it when it comes out but
+this just been my uh first look and
+impressions
+thanks for watching catch you in the
+next one go USA peace

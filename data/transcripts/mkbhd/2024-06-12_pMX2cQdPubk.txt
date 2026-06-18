@@ -1,0 +1,361 @@
+# Talking Tech and AI with Tim Cook!
+# https://www.youtube.com/watch?v=pMX2cQdPubk
+
+[Music]
+all right Tim great to see you thanks
+for spending the time thank you for
+coming so you had the WWDC keynote today
+yeah which was really fun to watch it
+was a whole two hours I want to zoom all
+the way out because obviously a lot of
+talk about AI in general yeah and I I'm
+kind of just left wondering how Apple
+defines AI in general cuz I know if you
+ask a regular person you might hear
+about generative AI chat Bots things
+like that yeah and these are relatively
+new additions to Apple's AI portfolio
+how do you look at AI as Apple well
+we've
+been executing with AI for a long time
+right uh it's at the you're wearing a
+watch it's at the root of the watch I
+mean you think about things like crash
+detection fall
+detection things like apib and all of
+this kind of stuff is machine learning
+at the end of the day and so but what
+has captured people's imagination is
+generative Ai and we see it as the
+opportunity for a whole new curve of
+technology and and providing and doing
+more things for people providing an
+assistant for people uh things that
+really improve people's lives so that's
+how we see it um there's
+obviously uh it's not without downside
+and so we have approach it very
+thoughtfully sure and uh and as as you
+heard we we have always been focused on
+privacy and so privacy is a very key
+tenant of our thrust into AI right it's
+been interesting to watch Apple's Arc
+with AI because I I made a whole piece
+not more than about a year ago about how
+Apple seems to never say AI even though
+they have all these these neural engines
+and machine learning and things like
+that yeah and and so now we have almost
+this pivot where now we're just saying
+it we're actually branding it it's Apple
+intelligence now I'm curious why that
+change now well the in the in the
+beginning and throughout almost
+everything that we always do we always
+talk about the benefit to the user and
+so the benefit to the user is Crash
+detection and fall detection not the
+technology behind the feature sure and
+so we still we we still view it like
+that but it became
+clear uh that people wanted to know our
+views on on generative AI in particular
+uh and and so we decided to embrace it
+and uh called it Apple intelligence okay
+uh I have a quote from I the DU Leia
+interview that you did was great um it
+was fun she's fantastic I was I loved it
+it was great I you had a quote that said
+uh about AI if it can be used for
+nefarious things we won't go down that
+road yeah and at the time I assumed that
+that meant generative AI was off the
+table because of all the things that
+we'd seen about what it was potentially
+capable of or things that it might do um
+has that changed is that something that
+was off the table and you figure now
+you've got the right tools or the right
+restrictions to make sure that that all
+goes Super well how do you think about
+that generative AI was never off the
+table it was always about pursuing it in
+a thoughtful kind of way
+and uh and so that that's what we've
+done and we've implemented it in ways
+that
+are uh less likely to create issues how
+so uh how so well things that you if you
+think about the kinds of things that we
+talked about we talked about uh personal
+context and we talked about privacy and
+so we're not waiting for
+a comprehensive privacy legislation
+regulation to come into effect we we
+already view privacy as a fundamental
+human right and so that's the way we
+that's the lens that we see it at uh and
+given that we're doing those things
+personal context and privacy we wanted
+to integrate it at a deep level so
+you're not having to think oh well now I
+want to do something that uses
+intelligence we put it in the apps that
+you're already using and integrated it
+deeply right yeah I think also now
+there's a lot of talk about it now there
+is generative AI yeah um a lot of people
+have I mean Apple's notorious for never
+sending anything to the cloud
+everything's on device because that is
+the most secure way to do it and was
+applauded for it interestingly this is a
+little bit different now with a lot of
+these larger models more complex
+requests you actually do have to go off
+device so you've developed want to get
+the name right private Cloud compute
+explain this to us cuz I think the The
+General online is well they have to be
+sending data to open AI for example to
+get a request back from chat GPT well
+there's private CL compute and then
+there's the uh arrangement with open AI
+these two things are different okay and
+so if you look at private Cloud compute
+we're utilizing the same silicon or not
+the same silicon but the same basic
+architecture as the Silicon that's in
+the well that's in the iPhone 15 yeah
+and uh and and we're using the same
+software and so we we believe that we've
+done it in such a way that it's as safe
+and secure and private in the private
+Cloud compute as the device and so we
+really we really worked on this a a a
+lot and put a lot of wood behind that
+Arrow to to assure
+that if you're if you're working on
+something that requires wh knowledge so
+you're out of the the domain of personal
+context and so forth uh then you you may
+want to go and use one of the large
+language models that are on the market
+and we we selected what we feel is the
+best one with open Ai and chat
+GPT uh but you'll make a conscious
+decision to do that every time every
+time so you you can guarantee that there
+will never be any data sent to open AI
+without your explicit user right that's
+right you decide right I I also feel
+like there was this blip on the radar of
+Standalone AI devices which I found
+really interesting they didn't land too
+well I think smartphones are pretty
+great but there was an interesting
+conversation around that about using
+your phone less maybe having AI help you
+out in ways that let you spend less time
+on the screen and this is something you
+echoed also in the doal leap interview
+like if you're looking at your phone
+more than you're looking at someone
+else's size something's off there yeah
+do you think there's a potential future
+where we're using our phones less
+because of how well the intelligence
+works I think it's a possibility and a
+significant possibility I mean for us
+we've never been motivated for people to
+spend their lives on their
+devices uh our our model is not one that
+needs engagement to succeed our model is
+one that where we want to empower you to
+to be able to do things you couldn't do
+otherwise we want to give you a tool so
+you can do incredible things uh that you
+couldn't do without the tool that that's
+what motivates us and and so we you know
+we come out with things like screen time
+Etc so it's a bit in your face as to how
+much you're using your
+device uh we come out with we count your
+notifications and so forth so that you
+can go in and say do I really want this
+many notifications and and we have
+Focus uh kinds of states where you can
+silence the the phone Etc and so I I do
+believe that as things get smarter and
+smarter with apple
+intelligence that you can even take
+things that we're taking more time will
+take less time now right and uh and so I
+do think that opportunity exists
+interesting yeah it's a curious future
+it is it it is and I and I think a
+really I'm really optimistic about it
+yeah I also I feel like there was tons
+of chatter when you were first CEO of
+Apple about this new shift obviously
+coming from Steve Jobs and you've been
+CEO for for it feels like a long time
+now and we're entering this new age of
+AI and I'm curious now now there's new
+chatter about who whose next CEO is
+going to be what do you feel like your
+your legacy as CEO at Apple should be
+yeah marz I don't think about it okay
+and so to to me a legacy is something
+that is uh defined by other people
+looking at you not something that you
+define yourself very fair and and so I
+and I typically am always focused on the
+forward not the rearview Mir
+and that's that is a characteristic of
+Apple in general is we're very focused
+on the forward you you won't find a
+museum here and yet we would have lots
+of things that you might like to see and
+and reminisce about but we just don't
+it's just not a part of our culture yeah
+and and so I feel the same way
+personally uh at some point there will
+be another CEO and uh and and my whole
+focus in life will on will be on making
+them successful yeah I like that answer
+it's very LeBron answer I feel like he
+said that things yeah uh all right I
+want to end with a little game uh I
+don't know if you've seen these where a
+blind ranking have you seen what these
+are a blind ranking blind ranking so
+we're going to do a top five Apple
+products of all time but I'm going to
+give you them one at a time and you
+don't know what the rest of them are so
+you have to rank the first one without
+knowing what 2 3 four and five are oh
+and this is your ranking this will be
+your unofficial ranking just based on
+your gut reaction of how you feel about
+the know this is a tough one because it
+a tough one it's like asking you your
+favorite kids or nephews or nieces and
+we'll see how it goes yeah okay number
+one MacBook Air it had that iconic
+moment of like taking it out the
+envelope on stage it's the most popular
+laptop in the world I think it's the
+most popular in the world and that
+moment of taking it out of the
+folder uh established a characteristic
+about that device that lives today the
+the first one it wasn't about how many
+people would buy it yeah uh it was about
+establishing the foundation was that the
+first air that was that was uh of any
+line yeah you might have been I believe
+so yes okay I believe so and so I I'm
+going to fail miserably at giving you a
+ranking but it was a huge moment yeah a
+huge moment for the company the
+iPad oh wow you know uh tablets had been
+in the market for a long time our
+objective is never to be first our
+objective is to be best I remember all
+the rumors leading up to it and there
+were many rumors leading up to it and
+and uh people thought
+uh many things that weren't too nice
+about it in the in the beginning
+including the name uh and and yet I
+couldn't live without my iPad today yeah
+and uh and and so another huge moment
+for the for the company my number three
+is the Magic
+Mouse The Magic
+Mouse
+uh it was also an incredible
+moment um people don't think of that as
+much as they would the MacBook Air and
+the iPad and whatever else you're going
+to name
+probably uh but the getting
+the
+ergonomics well done and uh was key with
+Magic Mouse yeah okay four out of five
+the iPhone oh my God it changed the
+world it definitely changed the world it
+changed the world and and
+uh the the
+Simplicity of defining the three things
+yeah that were that were the on the
+phone was brilliant to get people to
+think about it like that and of course
+opening up this isn't talked about as
+much but initially you'll remember that
+there was not an app store right the App
+Store came a year later and that changed
+everything in the developer
+Community uh because now now I meet with
+uh students every WWDC and they give me
+such great inspiration there were no
+students in the developer community at
+that particular point in time now
+they're the developer population is very
+diverse from an age point of view and
+everything else and uh it it it just
+fundamentally it it became an economic
+miracle for people and uh and got well
+outside of just doing it for a hobby it
+it was or you look at all the businesses
+that that came out of it yeah and now we
+have WWDC that's right last but not
+least Vision
+Pro oh I I
+uh I love Vision Pro I was just using it
+last night to look at the a screening
+yeah what do you use Vision Pro for I
+asked everybody who has one what they
+use it for I use it
+for uh the entertainment uh value I use
+it when I want to do
+multitasking because I find the multiple
+windows really effective in in doing
+this um of course I'm reviewing lots of
+apps on it right now and some of those
+are Enterprise apps some some people's
+proprietary apps that they want to share
+with us and
+and I'm seeing an
+extraordinary uh number and variety of
+things coming out of the Enterprise area
+far earlier than we would have predicted
+interesting because businesses generally
+move slow to adopt yeah and and what
+we're seeing is that half of the Fortune
+100 is now buying Vision Pro for some
+project or the other or exploring it and
+uh and so I I I'm looking at several of
+those and uh yeah I I I find that it's
+still an emotional experience to look at
+your photos and with vision os2 being
+able to take your old photos yeah and
+make them 3D I think is a big big thing
+yeah and you know I lost both of my
+parents and before Vision Pro came out
+and being able to go
+back and look at those photos
+differently is yeah is something that
+you know it's it's an experience you
+can't replicate for sure well we didn't
+get a blind ranking but we got a pretty
+good retrospective of some of these
+products thanks again for the time
+looking forward to the next uh next
+feature drops in the next dub du but uh
+this was fun thank you yeah it was great
+fun thank you for coming thanks for
+having me
+oh

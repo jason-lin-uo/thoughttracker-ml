@@ -1,0 +1,275 @@
+# Samsung Galaxy S26/Ultra Impressions: 1 Crazy Display Feature!
+# https://www.youtube.com/watch?v=FRI78tq9Eik
+
+Yo, what's up? I'm KB HD here and
+welcome to what was supposed to be your
+first look and hands-on with the new
+Samsung phones this year. Unfortunately,
+that is in California and it just snowed
+like two plus feet here
+and that's shut down all the flights for
+like two days. So, I'm still here
+and that's still in California.
+Thankfully, Brandon from the team did
+actually get all the way out to
+California from a city that got way less
+snow and so he's seen the phones and he
+shot the footage of them. He sent it
+back to me. I've got the spec sheets
+here and so I'm going to put it all
+together and we'll still take a first
+look together at what looks like a kind
+of interesting new set of phones from
+Samsung.
+And so as expected, the designs, well,
+they're pretty similar to last year with
+just some slightly new colors and a
+slightly different looking camera ring
+with this little extra plateau around
+them now. But actually, the first thing
+that stuck out to me is just the new
+prices. Typically, I'll just save that
+for the end cuz it's the same as last
+year, but not this time. This time, the
+S26 is $900, the S26 Plus is $1,100 and
+the S26 Ultra is $1,300. So this comes
+with a bump up in base storage. So if
+you remember last year, the S25 launched
+at $799 and was 128 gigs. This year, the
+S26 is $899, but it's also 256 gigs.
+But then also, the S26 Plus is 256 gigs
+and it's 100 bucks more. It's 1,100
+instead of 1,000. And then the Ultra was
+1,300, it's 1,300 again. You know,
+they've always come out with the fan
+edition later in the year as like the
+mid-range priced version of the phone,
+but it feels like they're making room
+for that now to be like an $800 phone.
+So just a lot of price creep happening
+in this lineup. So then if that's the
+context for these new phones, then what
+is actually new to justify this new
+price?
+Well, they all got the spec bump we
+expected, Snapdragon 8 Elite Gen 5 for
+Galaxy. We've seen this non-Galaxy
+version of the chip be excellent already
+and there's a lot of talk about NPU
+optimization for AI stuff on the Samsung
+one. More on that in a minute, but looks
+like a good chip. And then the Ultra
+specifically is also a slightly updated
+design. So, it's a little bit thinner
+now and a little bit less boxy and
+squared off. It's also back to aluminum
+sides instead of titanium, and they've
+redesigned the vapor chamber to fit in
+this thinner design. And there's also
+now slightly faster charging across the
+lineup. Nothing dramatic, but 25 watts
+on the S25, 45 watts on the S26 Plus,
+and 60 watts on the Ultra.
+And then pretty much all the rest of the
+hardware changes are just on the Ultra,
+which now has slightly wider apertures
+on those otherwise unchanged primary and
+telephoto cameras. Just to let more
+light in. So, looks like we're going
+from F1.7 to 1.4 on the main and F3.4 to
+2.4 on the 3X. Pretty modest hardware
+changes, I would say. Still no magnets.
+And still no silicon carbon batteries.
+But there is one really cool feature to
+me, and it's just in the Ultra phone,
+and it's the new privacy screen feature.
+So, I was I saw leaks of this. I didn't
+want to look into it too much, but now
+that it's real and I've seen this, at
+least the footage of it, it looks
+incredible. So, you know those privacy
+screen protectors people put on their
+phones to kind of block others from
+seeing what's on their screen. You've
+probably seen one on someone else's
+phone at some point. They look kind of
+horrible. So, instead of that privacy
+screen protector, which is annoying and
+also always on, this is a hardware level
+control over the pixels on the display
+that can be turned on or off whenever.
+And when you turn it on, the display
+should look unchanged from straight on,
+but as you get off-axis, it actually
+fades to gray and almost black from both
+the horizontal axis and vertical axis.
+So, you're still seeing a normal display
+from the straight-on view, but anyone
+trying to look over your shoulder or
+sitting next to you will see basically a
+blank screen.
+That's genuinely really sick. And hey,
+I'm not going to judge why you need this
+or what you're blocking on your screen,
+but there is actually a pretty good
+amount of customization over how exactly
+this works or when you can use it. So,
+you can turn it on or off, obviously,
+which is already sick. But, you can also
+have it automatically enable in certain
+locations or for certain apps, like just
+for your banking app or just for your
+photos app. It can even be parts of the
+screen. So, just for the password field
+while you're filling in a password
+somewhere, it will just black out that
+or just for the top part of the screen
+where notifications come in,
+it will do just that. I just think I
+think this is awesome. This, also to me,
+if you think about it, is like the most
+Samsung thing ever. Like, Samsung for
+the past couple years, as we know, has
+been super conservative with these like
+flagship phones, especially with the
+design, but they're also the same
+company that will try absolutely insane
+stuff. Like the Galaxy Note Edge back in
+the day where like one side of the
+display curved over the bezel for the
+first time, and then that turned into
+the other Galaxy S Edges where both
+sides melted over. They did the Galaxy
+Note first, which is this huge display,
+and then of course, Galaxy Fold, which
+is super early and risky. And now they
+have a literal tri-fold, which is nuts.
+And all of these things, all these crazy
+designs that they decide to try, are all
+based around display innovations. So,
+curved screen, waterfall screen, folding
+screen, multiple folding screen, and now
+this privacy screen. So, like this feels
+like a very Samsung thing to try, and I
+hope it catches on cuz I know if any
+other company was trying this, their
+fans would all be loving it, too. I just
+hope this finds some success in the
+Ultra and then starts making its way to
+other phones cuz it's sick. So, then
+most of the rest of what's new in this
+S26 lineup is, I mean, you're going to
+see commercials with it. I'm guessing
+most of the keynote is going to have a
+lot of this.
+It's AI features,
+and they range from
+decently useful to full-on slop. Like,
+they're just trying a bunch of stuff.
+They managed to clone over some of
+Google's biggest hits from the Pixel,
+like call screening, which is welcome.
+They also added their own version of
+Magic Q, which they're calling Now
+Nudge, which basically lives in the
+keyboard and gives you suggestions of
+things to bring in from other apps. It's
+context aware, it should be decently
+helpful. And there's also some big
+claimed improvements with Bixby now
+being LLM powered. We've seen some other
+companies struggle with that lately, but
+you know, with some Gemini integrations
+and some new Perplexity integrations,
+could be decent. I mean, I'm not going
+to say anything until I try it, but you
+know, new Bixby could be good. But then
+they also did something called photo
+assist, which is essentially what Google
+did with Google Photos. It's like AI
+photo editing, but built into the
+gallery,
+which
+yeah, it's cool tech. I don't know if
+it's selling any phones. It'll probably
+be a software update for older phones,
+but
+they did that. They also did uh Creative
+Studio, which is kind of the same thing
+as like Apple's image playground.
+Borderline useless in my opinion. But
+like I said, it feels like they're just
+throwing a bunch of stuff at the wall in
+the world of AI just to see what will
+stick, see what people will like.
+Uh they're actually calling it an AI
+phone in some of the press stuff that
+I've seen for it,
+which I don't love. I feel like in an
+age where it's more important than ever
+to get real photos and videos from
+people's cell phones,
+the slippery slope of like all this AI
+stuff in our photos. It's weird. It's
+I'm not sure I love how far down the
+slope we're going, but here we are.
+Anyway, no real massive surprises. These
+all very much look and feel like Samsung
+phones, where most of the differences
+are just like the small quality of life
+things under the skin and subtle
+evolution over time. This is not one of
+their big Hail Mary's. My take is the
+Ultra feels like a little bit of a
+refresh, and it's a cool place to try
+this privacy screen thing. I'm very
+excited to see it in person and try it
+out. Looks pretty sick.
+Uh the base phone's going up by 100
+bucks, not so excited about that. Seems
+like they didn't try a whole lot of
+other stuff with those phones. Uh but
+let me know what else you want to see in
+the full reviews in the comment section
+below. And of course, get subscribed to
+see the reviews as soon as they come out
+because that's
+what the button is for. If you're
+planning on grabbing an S26 Ultra, would
+you rather have a case for it that looks
+like this
+or a case
+that looks like this? Cuz if you've
+never used a Ghost case from channel
+sponsor dbrand before, the main thing to
+call out is that unlike pretty much
+every other clear case, the Ghost case
+is guaranteed to never turn yellow. And
+dbrand really means guaranteed. They'll
+literally replace your Ghost for free
+for life if it ever turns yellow. And of
+course, it's got all the other features
+you'd expect from a dbrand case, super
+strong magnets since the phone doesn't
+have them, clicky buttons, and up to 10
+ft of drop protection, you know, just in
+case. And fun fact, even though Samsung
+just announced the phone, dbrand's
+entire S26 lineup, the zero yellow and
+Ghost, customizable grip, and super
+rugged Tank case are all available and
+shipping now. Plus, if you want to pick
+up a screen protector while you're at
+it, you can save 15% by bundling their
+Prism screen protector with any case.
+They're super easy to install. They
+include two in the pack. And yes, it
+does work with the new privacy display.
+So, dbrand's new S26 lineup is available
+on their site and nationwide at Best Buy
+in the US. I'll leave a link down below
+if you want to check them out. Thanks
+for watching. Let me know what you
+think.
+Catch you guys in the next one.
+Peace.

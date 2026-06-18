@@ -1,0 +1,1036 @@
+# Essentials: Machines, Creativity & Love | Dr. Lex Fridman
+# https://www.youtube.com/watch?v=SCzecagKBjY
+
+Welcome to Huberman Lab Essentials,
+where we revisit past episodes for the
+most potent and actionable science-based
+tools for mental health, physical
+health, and
+performance. And now, my conversation
+with Dr. Lex Freriedman. We meet again.
+We meet again. I have a question that I
+think is on a lot of people's minds or
+ought to be on a lot of people's minds.
+What is artificial intelligence and how
+is it different from things like machine
+learning and robotics?
+So I think of artificial intelligence
+first as a big philosophical thing. It's
+our longing to create other intelligent
+systems perhaps systems more powerful
+than
+us. At the more narrow level, I think
+it's also a set of tools that are
+computational mathematical tools to
+automate different tasks and then also
+it's our attempt to understand our own
+mind. So build systems that exhibit some
+intelligent behavior in order to
+understand what is intelligence in our
+own selves. So all those things are
+true. Of course, what AI really means as
+a community, as a set of researchers and
+engineers, it's a set of tools, a set of
+uh computational techniques that allow
+you to solve various problems. There's a
+long history that uh approaches the
+problem from different perspectives.
+what's uh always been throughout one of
+the threads, one of the communities goes
+under the flag of machine learning,
+which is
+emphasizing in the AI space the the task
+of learning. How do you make a machine
+that knows very little in the beginning
+follows some kind of process and learns
+to become better and better in a
+particular task?
+What's been most uh very effective in
+the recent about 15 years is a set of
+techniques that fall under the flag of
+deep learning that utilize neural
+networks. It's a network of these little
+basic computational units called
+neurons, artificial neurons. And they
+have uh these architectures have an
+input and an output. They know nothing
+in the beginning and they're tasked with
+learning something interesting. What
+that something interesting is usually
+involves a particular task. The there's
+a lot of ways to talk about this and
+break this down like one of them is how
+much human supervision is required to
+teach this thing. So supervised learning
+this broad category is uh the the neural
+network knows nothing in the beginning
+and then it's given a bunch of examples
+of uh in computer vision that would be
+examples of cats, dogs, cars, traffic
+signs and then you're given the image
+and you're given the ground truth of
+what's in that image. And when you get a
+large database of such image examples
+where you know the truth the uh the
+neural network is able to learn by
+example that's called supervised
+learning. The question there's a lot of
+fascinating questions within that which
+is how do you provide the truth when
+you've given an image of a
+cat. How do you provide to the computer
+that this image contains a cat? Do you
+just say the entire image is a picture
+of a cat? Do you do what's very commonly
+been done, which is a bounding box? You
+have a very crude box around the cat's
+face saying this is a cat. Do you do
+semantic segmentation? Mind you, this is
+a 2D image of a cat. So, it's not a the
+computer knows nothing about our
+three-dimensional world. It's just
+looking at a set of pixels. So, uh
+semantic segmentation is drawing a nice
+very crisp outline around the cat and
+saying that's a cat. That's really
+difficult to provide that truth. And the
+one of the fundamental open questions in
+computer vision is is that even a good
+representation of the truth. Now there's
+another contrasting set of ideas. Their
+attention they're overlapping is uh
+what's used to be called unsupervised
+learning. What's commonly now called
+self-supervised learning which is trying
+to get less and less and less human
+supervision into the into uh into the
+task. So self-supervised learning is uh
+more uh has been very successful in the
+domain of uh language models natural
+language processing and now more and
+more it's being successful in computer
+vision task and what's the idea there is
+let the machine without any ground truth
+annotation just look at pictures on the
+internet or look at text on the internet
+and try to learn something
+uh generalizable about the ideas that
+are at the core of language or at the
+core of vision and based on
+that we humans at its best like to call
+that common sense. So with this we have
+this giant base of knowledge on top of
+which we build more sophisticated
+knowledge but we have this kind of
+common sense knowledge and so the idea
+with self-supervised learning is to
+build this common sense knowledge about
+what are the fundamental visual ideas
+that make up a cat and a dog and all
+those kinds of things without ever
+having human supervision. The the dream
+there is the you just you just let an AI
+system that's uh self-supervised run
+around the internet for a while, watch
+YouTube videos for millions and millions
+of hours and without any supervision be
+primed and ready to actually learn with
+very few examples once the human is able
+to show up. We think of uh children in
+this way human children is your parents
+only give one or two examples to teach a
+concept. the the dream with
+self-supervised learning is that would
+be the same with with uh machines that
+they would uh watch millions of hours of
+uh YouTube videos and then come to a
+human and be able to understand when the
+human shows them this is a cat like
+remember this a cat they will understand
+that a cat is not just a thing with
+pointy ears or a cat cat is a thing
+that's orange or is furry they'll
+they'll see something more fundamental
+that we humans might not actually be
+able to introspect and understand like
+if I asked you what makes a cat versus a
+dog, you would probably not be able to
+answer that. But if I showed you,
+brought to you a cat and a dog, you'll
+be able to tell the difference. What are
+the ideas that your brain uses to make
+that difference? Uh that's the whole
+dream with self-supervised learning is
+it would be able to learn that on its
+own, that set of common sense knowledge
+that's able to tell the difference. And
+then there's like a lot of incredible
+uses of self-supervised learning uh very
+weirdly called self-play mechanism.
+That's the mechanism behind the uh the
+reinforcement learning successes of uh
+the systems that won at uh go at uh
+Alpha Zero uh that won at chess. Oh, I
+see. that play games. That play games.
+Got it. So the idea of
+self-play, this probably applies uh to
+other domains than just games, is a
+system that just plays against itself.
+And this is fascinating in all kinds of
+domains. But uh it knows nothing in the
+beginning. And the whole idea is it
+creates a bunch of mutations of
+itself and plays against those uh
+versions of itself. And then through
+this process of interacting with systems
+just a little better than you, you start
+following this process where everybody
+starts getting better and better and
+better and better until you are several
+orders of magnitude better than the
+world champion in chess for example. And
+it's fascinating because it's like a
+runaway system. One of the most
+terrifying and exciting things that uh
+David Silver, the creator of Alpha Go
+and Alpha Zero, one of the leaders of
+the team said uh to me is uh they
+haven't found the
+ceiling for Alpha Zero, meaning it could
+just arbitrarily keep improving. Now, in
+the realm of chess, that doesn't matter
+to us that it's like it just ran away
+with the game of chess. Like, it's like
+just so much better than humans. But the
+question is what if you can create that
+in the realm that does have a a bigger
+deeper effect on human beings on
+societies. Uh that could be a terrifying
+process. To me it's an exciting process
+if you supervise it correctly. If you
+inject uh if uh what's called uh value
+alignment you uh you make sure that the
+goals that the AI is optimizing is
+aligned with human beings and human
+societies. There's a lot of fascinating
+things to talk about within the uh
+specifics of neural networks and all the
+problems that people are are working on,
+but I would say the really big exciting
+one is self-supervised learning. We're
+trying to get less and less human
+supervision
+uh uh less and less human supervision of
+neural networks. And also just a comment
+and I'll shut up. No, please keep going.
+I'm I'm learning. Uh I have questions
+but I'm learning so please keep going.
+So to me what's exciting is not the
+theory, it's always the application. One
+of the most exciting applications of
+artificial
+intelligence, specifically neural
+networks and machine learning is Tesla
+autopilot. So these are systems that are
+working in the real world. This isn't an
+academic exercise. This is human lives
+at stake. Even though it's called uh FSD
+full self-driving it is currently not
+fully autonomous meaning human
+supervision is required. So human is
+tasked with overseeing the systems. In
+fact liability wise the human is always
+responsible. This is a human factor
+psychology question which is
+fascinating. I'm fascinated by the the
+the whole space which is a whole another
+space of human robot interaction when AI
+systems and humans work together to
+accomplish task. That dance to me is uh
+is one of the smaller communities but I
+think it will be one of the most
+important open problems once they're
+solved is how do humans and robots dance
+together. To me semi-autonomous driving
+is one of those spaces. So for uh for
+Elon for example, he doesn't see it that
+way. He sees uh semi-autonomous driving
+as a stepping stone towards fully
+autonomous driving. Like humans and
+robots can't dance well together. Let
+humans and humans dance and robots and
+robots dance. Like we need to this is an
+engineering problem. We need to design a
+perfect robot that solves this problem.
+to me forever. Maybe this is not the
+case with driving, but the world is
+going to be full of problems where it's
+always humans and robots have to
+interact because I think robots will
+always be flawed just like humans are
+going to be flawed are flawed and that's
+what makes life beautiful that they're
+flawed. That's where learning happens at
+the edge of your capabilities. So you
+always have to figure out how can flawed
+robots and flawed humans interact
+together such that they uh like the the
+sum is bigger than the whole as opposed
+to focusing on just building the perfect
+robot. Mhm. So, so that's one of the
+most exciting applications I would say
+of artificial intelligence to me is
+autonomous driving and semi-autonomous
+driving and that's a really good example
+of machine learning because those
+systems are constantly
+learning and uh there's a there's a
+process there that maybe I can comment
+on at the Andre Karpathy who's the head
+of autopilot calls it the data engine
+and this process applies for a lot of
+machine learning which is you build a
+system that's pretty good at doing stuff
+you sending you send it out into the
+real world. It starts doing the stuff
+and then it runs into what are called
+edge cases like failure cases where it
+screws up. You know we do this as kids
+that you know you have we do this as
+adults. We do this as adults. Exactly.
+But we learn really quickly. But the the
+whole point and this is the fascinating
+thing about driving is you realize
+there's millions of edge cases. uh
+there's just like weird situations that
+you did not expect. And so the data
+engine process is you collect those edge
+cases and then you go back to the
+drawing board and learn from them. And
+so you have to create this data pipeline
+where all these cars, hundreds of
+thousands of cars that are driving
+around and something weird happens. And
+so whenever this weird detector fires,
+it's another important concept you that
+piece of data goes back uh to the mother
+ship for the for the training for the
+retraining of the system. And through
+this data engine process, it keeps
+improving and getting better and better
+and better and better. So basically, you
+send out a pretty clever AI systems out
+into the world and let it find the edge
+cases. let it screw up just enough to
+figure out where the edge cases are and
+then go back and learn from them and
+then send out that new version and keep
+updating that version. One of the
+fascinating things about humans is we
+figure out objective functions for
+oursel like we are um it's the meaning
+of life. Like why the hell are we here?
+And uh a machine currently has to have
+uh a hard-coded statement about why. It
+has to have a meaning of yeah artificial
+intelligence based life, right? If you
+want a machine to be able to be good at
+stuff, it has to be given very clear
+statements of what good at stuff means.
+That's one of the challenges of
+artificial intelligence is in order to
+solve a problem, you have to formalize
+it and you have to provide uh both like
+the full sensory information. You have
+to be very clear about what is the data
+that's being collected and you have to
+also be clear about the objective
+function. What is the goal that you're
+trying to reach ultimately currently the
+uh there has to be a a formal objective
+function. Now you could argue that
+humans also has a set of objective
+functions we're trying to optimize.
+We're just not able to introspect them.
+We yeah we don't actually know what
+we're looking for and seeking and doing.
+I think you've already told us the
+answer, but does interacting with a
+robot change you? Does it, In other
+words, do do we develop relationships to
+robots? I believe that most people have
+uh an ocean of loneliness in them that
+we haven't discovered that that we
+haven't explored I should say. And I see
+AI systems as helping us explore that so
+that we can become better humans uh
+better people towards each other. So I
+think that connection between human and
+AI, human and
+robot is is not only possible but uh
+will help us understand ourselves in
+ways that are like several orders of
+magnitude uh deeper than we ever could
+have imagined. So when I think about
+human relationships, I I don't um always
+break them down into variables, but we
+could explore a few a few of those
+variables and see how they map to human
+robot relationships. Um one is just
+time, right? If you spend zero time with
+another person uh at all in in cyerspace
+or on the phone or in person, you
+essentially have no relationship to
+them. If you spend a lot of time, you
+have a relationship. This is obvious,
+but I guess one variable would be time.
+how much time you spend with the other
+entity, robot or human. The other would
+be um wins and successes. You know, you
+enjoy successes together. The other
+would be failures. When you struggle
+with somebody, you know, when you
+struggle with somebody, you grow closer.
+So, I've never conceptualize robot human
+interactions this way. Um so, tell me
+more about how this might look. Are we
+thinking about um a human appearing
+robot? um what is the ideal human robot
+relationship? So there's uh a lot to be
+said here, but you actually pinpointed
+one of the big big first steps which is
+this idea of time. But I think that time
+element, forget everything else. Just
+sharing moments together that changes
+everything. I believe that changes
+everything. Now there's specific things
+that are more in terms of systems that I
+can explain you. Um it's it's more
+technical and probably a little bit
+offline because I have kind of wild
+ideas how that can revolutionize um
+social networks and um and operating
+systems. But the point is that element
+alone, forget all the other things we're
+talking about like emotions, um saying
+no, all that. Just remember sharing
+moments together would change
+everything. We don't currently have
+systems that uh um share share moments
+together. Like even just you in your
+fridge, just all those times you went
+late at night and and ate the thing you
+shouldn't have eaten, that was a secret
+moment you had with your refrigerator.
+You shared that moment, that darkness or
+that beautiful moment where you just uh
+you know like heartbroken for some
+reason. You're eating that ice cream or
+whatever. That's a special moment. And
+that refrigerator was there for you. And
+the fact that it missed the opportunity
+to remember that uh is is is tragic. And
+once it does remember that, I think
+you're going to be very attached to that
+refrigerator. You you're going to go
+through some through some hell with that
+refrigerator. Most of us have like in in
+the in the developed world have weird
+relationships with food, right? So you
+can go through some uh some deep moments
+of trauma and triumph with food. And at
+the core of that is the refrigerator. So
+a smart refrigerator I believe would uh
+change society. Not just the
+refrigerator but the these ideas in the
+systems all around us. So that I I just
+want to comment on how powerful that
+idea of time is. And then there's a
+bunch of elements of actual interaction
+of
+uh allowing you as a human to feel like
+you're being
+heard, truly heard, truly understood.
+And I think there's a lot of ideas of
+how to make AI assistance to be able to
+ask the right questions and truly hear
+another human. This is what we try to do
+with podcasting, right? Uh, I think
+there's ways to do that with AI. But
+above all else, just
+remembering the collection of moments
+that make up the day, the week, the
+months. I think uh you maybe have some
+of this as well. Some of my closest
+friends still are the friends from high
+school. That's time. We've been through
+a bunch of [&nbsp;__&nbsp;] together. and that like
+we've we're very different people, but
+just the fact that we've been through
+that and we remember those moments and
+those moments somehow create a depth of
+connection like nothing else like you
+and your refrigerator. There may be
+relationships that are far better than
+the sorts of relationships that we can
+conceive in our minds right now based on
+what these machine relationship
+interactions could teach us. Do I have
+that right? Yeah, I think so. I think
+there's no reason to see machines as uh
+somehow uh incapable of teaching us
+something that's deeply human. I I don't
+think uh humans have a monopoly on that.
+I think we understand ourselves very
+poorly and we need to to have the kind
+of uh uh prompting from u from a
+machine. Uh maybe the thing we want to
+optimize for isn't necessarily uh like
+some uh sexy uh like quick clips. Maybe
+what we want is long form authenticity.
+Depth depth from a like a very specific
+engineering perspective is um I think a
+fascinating open problem that hasn't
+been really worked on very much. early
+on in life uh in in also in the recent
+years I've interacted with a few robots
+where I understood there's magic there
+and that magic could be shared by
+millions if it's uh brought to light.
+When I first met Spot from Boston
+Dynamics, I realized there's magic there
+that nobody else is seeing. Is the dog
+the dog, sorry, the Spot is the
+four-legged
+uh robot from Boston Dynamics. Some
+people might have seen it. It's this
+yellow dog. This magic is something that
+could be in every single device in the
+world. The the way that I think uh maybe
+Steve Jobs thought about the personal
+computer. And so for me, I'd love to see
+a world where there's every home as a
+robot and not a robot that washes the
+dishes, but more like a companion, a
+family member. A family member the way a
+dog is. Mhm. But a dog that's al able to
+speak your language too. So not just
+connect the way a dog does by looking at
+you and looking away and almost like
+smiling with its soul in that kind of
+way. Um but also to actually understand
+what the hell like why are you so
+excited about the successes like
+understand the details understand the
+traumas. I love this um desire to share
+the delight of an interaction with a
+robot. And as you describe it, I
+actually I find myself starting to crave
+that because we all have those elements
+from childhood where or from adulthood
+where we experience something, we want
+other people Yeah. to feel that. And I
+think that you're right. I think a lot
+of people are scared of AI. I think a
+lot of people are scared of robots. My
+only experience and of a robotic like
+thing uh is my Roomba vacuum where it
+goes about it actually was pretty good
+at picking up Costello's hair when he
+was shed and then um and I was grateful
+for it but then when it would when I was
+on a call or something and it would get
+caught on a on a wire or something, I
+would find myself getting upset with the
+Roomba in that moment. I'm like, "What
+are you doing?" You know, and I and
+obviously it's just doing what it does.
+But but that's a kind of um mostly
+positive but slightly negative
+interaction. Um but what you're
+describing has so much more richness and
+layers of detail that I can only imagine
+what those relationships are like. Well,
+there's a few just a quick comment. So
+I've had they're currently in Boston. I
+have a bunch of
+Roombas and I did this experiment. Wait,
+how many Roombas?
+Sounds like a fleet of Roombas. Yeah. So
+I uh probably seven or eight. That's a
+lot of Roombas. So, you're going to So,
+you have these seven or so Roombas. You
+deploy all seven at once. Oh, no. I do
+different experiments with them. Uh
+different experiments with them. So, one
+of the things I want to mention, I got
+them to uh to scream in pain and moan in
+pain um whenever they uh were kicked or
+contacted. And I did that experiment to
+see how I would feel. I I meant to do
+like a YouTube video on it, but then it
+just seemed very cruel. Did any Roomba
+rights activists come after Yeah. Like I
+I think if I release that video, I think
+it's going to make me look insane, which
+I I know people know I'm already insane.
+Now you Now you have to release the
+video. Sure. Well, I I think maybe if I
+contextualize it by showing other robots
+like to show why this is fascinating
+because ultimately I felt like they were
+human almost immediately and that
+display of pain was what did that giving
+them a voice giving them a voice
+especially a voice of um dislike of of
+pain. Mhm. So is the video available
+online? No, I haven't uh I haven't
+recorded it. I just had a bunch of
+Roombas that are able to scream in pain.
+um in my Boston uh in my Boston place.
+What about um like uh shouts of glee and
+delight? Well, I don't know how to I
+don't how do to me delight is quiet,
+right? But there's a way to frame its uh
+it being quite dumb as uh almost cute.
+You know, you almost connecting with it
+for its dumbness. And I think that's a
+artificial intelligence problem.
+Interesting. I think flaws are should be
+a feature not a bug. So along the lines
+of this um the different sorts of
+relationships that one could have with
+robots and the fear but also some of the
+positive relationships that one could
+have uh there's so much dimensionality
+there so much to explore. But uh power
+dynamics in relationships are very
+interesting because the the obvious ones
+that um the unsophisticated view of this
+is you know one there's a master and a
+servant right but there's also
+manipulation. There's benevolent
+manipulation. You know uh children do
+this with parents. Puppies do this.
+Puppies turn their head and look cute
+and maybe give out a little little um
+noise. Kids coup. And parents always
+think that they, you know, they're doing
+this because, you know, they they love
+the parent, but in many ways, studies
+show that those coups are ways to
+extract the sorts of behaviors and
+expressions from the parent that they
+want. The child doesn't know it's doing
+this. It's completely subconscious, but
+it's benevolent manipulation. So,
+there's one version of fear of robots
+that I hear a lot about that I think
+most people can relate to where the
+robots take over and they become the
+masters and we become the servants.
+But there could be another version that
+um uh you know in certain communities
+that I'm certainly not a part of but
+they call topping from the bottom where
+the robot is actually manipulating you
+into doing things but it you are under
+the belief that you are in charge but
+actually they're in charge. And so I
+think that's one that
+um if we could explore that for a
+second, you could imagine it wouldn't
+necessarily be bad, although it could
+lead to bad things. Um the reason I want
+to explore this is I think people always
+uh default to the the extreme like the
+robots take over and we're in little
+jail cells and they're out having fun
+and and ruling the universe. Uh what
+what what sorts of manipulation can a
+robot potentially carry out, good or
+bad? Yeah. So there's a lot of good and
+bad manipulation between humans, right?
+Just like you
+said to
+me, especially uh like you said uh
+topping from the bottom. Is that the
+term? Uh so I think someone from MIT
+told me that term
+wasn't Lex.
+Uh I think so. First of all, there's
+power dynamics uh in bed and power
+dynamics in relationships and power
+dynamics on the street and in the work
+environment. Those are all very
+different. Uh I think um I think power
+dynamics can make human relationships
+especially romant romantic relationships
+uh fascinating and rich and fulfilling
+and exciting and all those kinds of
+things. So, I
+don't I don't think in themselves
+they're bad. And the same goes with
+robots. I really love the idea that a
+robot would be a top or a bottom in
+terms of like power dynamics. Uh, and I
+think everybody should be aware of that.
+And the manipulation is not so much
+manipulation, but uh a dance of like
+pulling away, a push and pull, and all
+those kinds of things. Uh in terms of
+control, I I think we're very very very
+far away from AI systems. They're able
+to uh lock us up. They uh uh to lock us
+up in uh in it. You know, like to have
+so much control that we basically cannot
+live our lives in the way that we want.
+I think there's uh in terms of dangers
+of AI systems, there's much more dangers
+that have to do with autonomous weapon
+systems and all those kinds of things.
+So the power dynamics as exercised in
+the struggle between nations and war and
+all those kinds of things. But in terms
+of personal
+relationships, I think power dynamics
+are a beautiful thing. I do believe that
+robots will have rights down the line.
+And I think in order for in order for us
+to have deep meaningful relationship
+with robots, we would have to consider
+them as entities in themselves that uh
+deserve respect.
+And that's a really interesting concept
+that uh I think people are starting to
+talk about a little bit more. But it's
+very difficult for us to understand how
+entities that are other than human. I
+mean the same is with dogs and uh other
+animals can have rights on a level as
+humans. We can't and nor should we do
+whatever we want with animals. We have a
+USDA. We have departments of uh of
+agriculture that deal with um you know
+animal care and use committees for
+research for aggra you know for farming
+and ranching and all that. So I I while
+I when you first said it I thought wait
+why would have there be a bill of
+robotic rights but it absolutely makes
+sense um in the context of everything
+we've been talking about up until now.
+Let's
+um I if you're willing, I'd love to talk
+about dogs because you've mentioned dogs
+a couple times, a robot dog. Um you had
+a a biological dog. Yeah. Yeah. I had a
+a New Finland
+uh named Homer uh for many years growing
+up in Russia or in the US? In the United
+States. And uh he was about over 200 lb.
+That's a big dog. That's a big dog. If
+people know people know Newf Finland, so
+he's this black dog that's uh really uh
+long hair and just a kind soul. I think
+perhaps that's true for a lot of large
+dogs, but he thought he was a small dog,
+so he moved like that. And was he your
+dog? Yeah. Yeah. So you had him since he
+was fairly young. Uh since Yeah. Since
+the very very beginning till the very
+very end. And one of the
+things I mean he had this kind of uh we
+mentioned like the Roombas he had a
+kindhearted dumbness about him that was
+just overwhelming. It's part of the
+reason uh I named him Homer because it's
+after Homer Simpson in case people are
+wondering which Homer I'm referring to.
+I'm not you
+know so that there's a Yeah. Yeah.
+Exactly. Uh there's a clumsiness that
+was just uh something that immediately
+led to a deep love for each other and
+one of
+the I mean he was always it's a shared
+moments. He was always there for so many
+uh nights together. That's a that's a
+powerful thing about a dog that um he
+was there through all the loneliness,
+through all the tough times, through the
+successes and all those kinds of things.
+And I remember um I mean that was a
+really moving moment for me. I still
+miss him to this day. How long ago did
+he die?
+Um maybe 15 years ago. So it's it's been
+a while,
+but it was the first time I've really
+experienced like the feeling of death
+cuz So what happened is uh he uh he got
+cancer and so he was dying slowly and
+then at the certain point he couldn't
+get up anymore. Uh there's a lot of
+things I could say here. Um you know
+that I struggle with that maybe uh maybe
+he suffered much longer than he needed
+to. That's something I really think
+about a lot. But I remember I had to
+take him to the hospital
+and the nurses couldn't carry him.
+Right. So you're talking about 200 lb
+dog. I was really into powerlifting at
+the time. I remember like they they they
+tried to figure out all these kinds of
+ways to uh so in order to put him to
+sleep, they had to take him um into into
+a room. And so I had to carry him
+everywhere. And here's this dying friend
+of mine that I just had to uh first of
+all, it's really difficult to carry
+somebody that heavy when they're not
+helping you out. And
+um yeah, so I remember it was the first
+time seeing a friend laying there
+and seeing life drained from his
+body. And that realization that we're
+here for a short time was made so real
+that here's a friend that was there for
+me the week before, the day before, and
+now he's gone. And that was
+um I don't know that that spoke to the
+fact that you could be deeply connected
+with the
+dog. Also spoke to the fact that uh the
+the shared moments together that led to
+that deep friendship was
+um are what make life so
+amazing. But also spoke to the fact that
+death is a [&nbsp;__&nbsp;]
+Um, so I know you've lost Castello
+recently and you've been going and as
+you're saying this, I'm definitely
+fighting back uh the tears. I um I uh
+thank you for sharing that that uh I
+guess we're about to both cry over our
+our dead
+dogs that it was it was bound to happen
+just given when this is when this is
+happening. Um yeah, it's uh How long a
+How long did you know that Castella was
+not doing well? Um well, let's see. a
+year ago during the start of about six
+months into the pandemic, I he started
+getting abscesses and he was not his
+behavior changed and something really
+changed. And then um I put him on
+testosterone because uh which helped a
+lot of things. It certainly didn't cure
+everything, but it helped a lot of
+things. cuz he was dealing with joint
+pain, sleep issues, and then it just
+became a very slow
+decline to the point where, you know, 2
+3 weeks ago, he had, you know, a closet
+full of medication. I mean, this dog was
+it was like a pharmacy. It's amazing to
+me when I looked at it the other day.
+Still haven't cleaned up and removed all
+his things because I can't quite bring
+myself to do it. But, um, do you think
+he was suffering? Well, so what happened
+was about a week ago, it was really just
+about a week ago. It's amazing. He was
+going up the stairs. I saw him slip and
+he was a big dog. He wasn't 200 lb, but
+he was about 90 pounds, but he's a
+bulldog. That's pretty big. And he was
+fit. Um, and then I noticed that he
+wasn't carrying the a foot in the back
+like it was injured. It had no feeling
+at all. He never liked me to touch his
+hind paws. And I could just that thing
+was just flopping there. And then uh the
+vet found some spinal degeneration and I
+was told that the next one would go. Did
+he suffer? Uh, sure hope not. Um, but
+something changed in his eyes. Yeah.
+Yeah. It's the eyes again. I know you
+and I spend long hours on the phone and
+talking about like the eyes and how what
+they convey and what they mean about
+internal states and for sake of robots
+and biology of other kinds, but do you
+think uh something about him was gone in
+his eyes? I I think he was real here I
+am
+anthropomorphizing. I think he was
+realizing that one of his great joys in
+life, which was to walk and sniff and
+pee on
+things. This dog loved to pee on things.
+It was amazing. I wondered where he put
+it. He was like a reservoir of urine. It
+was incredible. I'd think, oh, that's
+it. He's just, he'd put like one drop on
+the 50 millionth plant and then we get
+to the 50 millionth and one plant and
+he'd just have, you know, leave a
+puddle. And here I am talking about
+Costello peeing. Um, he was losing that
+ability to stand up and do that. He was
+falling down while he was doing that.
+And I I do think he started to realize
+and the the passage was easy and
+peaceful, but
+um, you know, I'll say this, I'm not
+ashamed to say it. I mean, I wake up
+every morning since then just I I don't
+even make the conscious decision to
+allow myself to cry. I wake up crying.
+And I'm fortunately able to make it
+through the day thanks to the great
+support of my friends and and you and my
+family. But um I miss him, man. You miss
+him? Yeah, I miss him. And I feel like
+uh he you know, Homer Costello, you
+know, the relationship to one's dog is
+so specific, but um so that that part of
+you is gone.
+That's the hard thing, you know.
+Um, what's what what I think is
+different is that I made the mistake. I
+think I hope it was a good decision, but
+sometimes I think I made the mistake of
+I brought Costello a little bit to the
+world through the podcast, through
+posting about him. I gave I
+anthropomorphized about him in public.
+Let's be honest, I have no idea what his
+mental life was or his relationship to
+me. And I'm just exploring all this for
+the first time because he was my first
+dog, but I raised him since he was 7
+weeks. Yeah. You got to hold it
+together. I I noticed the the episode uh
+you released on Monday, you mentioned
+Costello, like you you brought him back
+to life for me for that brief moment.
+Yeah, but he's he's he's gone. Well,
+that's
+the He's going to be gone for a lot of
+people,
+too. Well, this is what I'm struggling
+with. I know how to take care of myself
+pretty well. Yeah. Not perfectly, but
+pretty well. And I have good support. I
+I do worry a little bit about how it's
+going to land and how people will feel.
+I'm I'm concerned about their
+internalization. Um so that's something
+I'm still I'm still iterating on. And
+you have to they have to watch you
+struggle which is fascinating. Right.
+And I've mostly been shielding them from
+this. But um what would make me happiest
+if is if people would internalize some
+of Costella's best traits. And his best
+traits were that he was
+incredibly tough. I mean he was a you
+know 22inch neck bulldog the whole
+thing. He was just born that way. But
+was what was so beautiful is that his
+toughness is never what he rolled
+forward. It was just how sweet and kind
+he was. And so if people can take that
+then um then there's a win in there
+someplace. So I I think there's some
+ways in which he should probably live on
+in your podcast too. you should uh I
+mean it's such
+a one of the things I loved about uh his
+role in your podcast is that he brought
+so much joy to you. We mentioned the
+robots. Mhm. Right. I think uh that's
+such a powerful thing to bring that joy
+into like allowing yourself to
+experience that joy to bring that joy to
+others to share it with others. Uh
+that's really powerful and I mean not to
+this is this is like the Russian thing
+is
+um it's I it touched me when uh Louis CK
+had that moment that I keep thinking
+about in this um his show Louie where
+like an old man was criticizing Louie
+for whining about breaking up with his
+girlfriend and he was saying like the
+most uh the the most beautiful thing um
+about uh love they song That's catchy
+now. That's now making me feel horrible
+saying it, but like is the loss. The
+loss really also is making you realize
+how much that person, that dog meant to
+you. And like allowing yourself to feel
+that loss and not run away from that
+loss is really powerful. And in some
+ways that's also sweet. Just like the
+love was, the loss is also sweet because
+you know that you felt a lot for that um
+for your friend. So I you know and like
+continue bringing that joy. I think it
+would be amazing to the podcast. U I
+hope to do the same with with robots or
+whatever else is the source of joy,
+right?
+Um and maybe uh you think about one day
+getting uh another dog. Yeah, in time.
+Um, you're hitting on all the key
+buttons here. Uh, I want that to we're
+thinking about um, you know, ways to
+kind of immortalize Costello in a way
+that's real, not just, you know,
+creating some little logo or something
+silly. You know, Costello, much like
+David Gogggins, is a a person, but
+Gogggins also has grown into kind of a
+verb. you're going to go this or you and
+there's an adjective like that's extreme
+like um I think that for me Costello was
+all those things. He was a he was a
+being. He was his own being. He was a
+noun uh a verb and an adjective. So and
+he had this amazing superpower that I
+wish I could get which is this ability
+to get everyone else to do things for
+you without doing a damn thing. The
+Costello effect as I call it. So as an
+idea I hope he lives on. Um there's a
+saying that I heard when I was a
+graduate student that I that's just been
+ringing in my mind throughout this
+conversation in such a I think
+appropriate way which is that uh Lexi
+you are in a minority of one. You are
+truly uh extraordinary in your ability
+to encapsulate so many aspects of
+science, engineering, public
+communication about so many topics, uh
+martial arts and the emotional depth
+that you bring to it and just the
+purposefulness and I think if it's not
+clear to people, it absolutely should be
+stated, but I think it's abundantly
+clear that just the amount of time and
+thinking that you put into things is
+it it is the ultimate mark of respect.
+Um, so I'm just extraordinarily grateful
+for your friendship and for this
+conversation. I'm uh proud to be your
+friend and I just wish you showed me the
+same kind of respect by wearing a suit
+and make your father proud. Maybe next
+time. Next time indeed. Thanks so much,
+my friend. Thank you. Thank you, Andrew.
+[Music]

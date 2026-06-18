@@ -1,0 +1,842 @@
+# All-In Summit: Tobi Lutke on consumer spending, teams, Amazon, AI, and more
+# https://www.youtube.com/watch?v=2c4VnzTepK0
+
+[Applause]
+gonna join us from Shopify Toby come on
+out
+what's up
+[Music]
+we open source it to the fans and
+they've just gone crazy
+[Music]
+okay everybody so
+um this is a real
+um honor so this is an incredible
+founder success story
+um just your average everyday CEO
+founder of an 82 billion dollar public
+company sitting here
+um so Toby and I met a few years ago his
+the origin story of Shopify is pretty
+legendary which is that he um
+was in Whistler
+snowboarding
+um he met his future wife there Canadian
+they moved to Germany Toby started a a
+store to sell the snowboards then moved
+to Ottawa my hometown
+that's fun
+um I think you're one of the first
+developers of Ruby actually that really
+commercialized and and Toby built a
+website to sell snowboards but then
+abstracted that started to sell the
+software that sold the snowboards and
+fast forward that is what Shopify has
+become and it's been quite an incredible
+success story a because you were able to
+raise
+a lot of money building a business in
+Ottawa B because then you took it public
+on the NASDAQ see you got a lot of covet
+Tailwinds D you had to deal with covet
+headwinds
+um but then along the way you've really
+been very transparent and honest about
+the culture
+of building companies and some of the
+mistakes you've made you put out there
+we're going to talk about those those in
+a second great but I want to start
+with more macro because we just had Ray
+um on stage
+you run a big e-commerce business you
+see consumer spending we know that the
+consumer is the largest part of GDP so
+we must have a sense of whether the
+consumer is turning over we're seeing
+all the headlines is there a recession
+is there not hard Landing soft Landing
+um where is the economy from your
+advantage point yeah so I mean if you
+have a amazing perspective but I don't
+think it's a it's a it's a credible
+witness to an entire economy it's um
+about half a trillion dollar has been
+transacted through Shopify in its
+lifetime and um it is really really fun
+to do the analysis on on it but like
+fundamentally the product sold on
+Shopify are not
+um I've approached people want not for
+products people need and and I think
+this is specifically shifts the
+um
+landscape a little bit
+what we
+and also other fun things it's really
+good for fortifying bad media narratives
+because hey you know as always it's like
+everyone puts up a chart and says this
+is the answer and then we get to
+dig in one level deeper and actually see
+what other constituent Parts underneath
+the chart and everything change the
+story changes so
+um we definitely see people react like
+we know a recession is going on or at
+least it changes Behavior but the
+particular way in which it changes
+behavior is probably not a fully
+explored story or
+um outside of python notebooks and
+companies like Shopify because
+fundamentally what people do is
+um they
+in most categories they shift one
+quality level downwards
+so if you ended up like shopping at like
+medium spend level you might look for
+fast fashion afterwards in some cases in
+our case this means people
+um might drop out of the Shopify
+ecosystem and go to you know purchase
+maybe clothing at Walmart or something
+in some cases at the top of a market
+um
+like we don't have every lvmh brand on
+Shopify so like people might have
+purchases there and actually arrive at
+like a challenger brand and um that is
+on a platform so honestly the numbers
+actually have are unchanging the
+Dynamics that make up the numbers are
+changing from our perspective that's
+fascinating have you when you think
+about building the business I think
+Stripes missions is something like to
+maximize the GDP of the internet
+um is that roughly your mission as well
+and I think um uh second to order yes
+but like honestly Shopify prays at the
+altar of Entrepreneurship of people
+reaching for Independence and
+um it's it's really like causing
+entrepreneurship to be a more casual
+thing rather than this uh huge like all
+like decision like but being able to be
+an entrepreneur in your lunch break so
+that you can
+maybe Escape
+like a career which you chose for the
+wrong reasons and and your book kind of
+people like you discover like myself
+you're the kind of person who really
+can't work for other people and um
+um retail and building shops and
+businesses has been around for a long
+time thousands of years it's something
+it is one of the most accessible
+mechanisms of Independence and um as the
+Internet is just a huge part of the
+economy now like the ease by which you
+could start a stand in the bazaar needs
+to somehow be translated to
+um the digital world and I I mean we
+talk you guys talk on a plot a lot about
+policy and um incentive systems and also
+important I do think the thing that's
+missing and sometimes in these
+conversations is friction like honestly
+friction shapes the world so much more
+than like what what law is that or what
+policy is anyone going to pass to cause
+more entrepreneurship
+but if you make it harder you're gonna
+get less of it and frankly most people
+in the world work for small businesses
+it's like depending on where you look 60
+to 80 percent so that seems like an
+incredibly
+aligning Mission we're going to maximize
+entrepreneurship give people
+Independence a path to escape the
+drudgery of whatever they may be doing
+be there be in control of their own
+lives that's very empowering but some
+are along the way you had to write this
+memo incredible I mean incredible memo
+we are a team and not a family because
+somewhere along the way
+your team got distracted from that
+mission can you talk about what happened
+in that moment and why you had to do it
+and what what it's like afterwards
+you're really kind of about that I I um
+so it was internally memo that I wrote
+that leaked and and apparently uh struck
+a chord with a lot of people
+um I think was actually leaked in a con
+in in package as a cancellation attempt
+on me which I think backfired was really
+uh gratifying uh and um
+I
+we've got a number of cancel CEOs
+speaking yeah yeah yeah next two days um
+Brian Armstrong Elon yes um well and I
+mean I think this is a good the good
+news is like um on the other side you
+come out stronger I think but
+um you know this is a very confused time
+for 2020 2021 energy period and um I I
+mean everyone want to do something and
+some if everyone wants to do something
+people that do something and that
+something might be a really really
+really un um cool
+um thing which is with lots of
+divisiveness and as we all saw clad in
+terms that ought to be agreeable like
+it's it sounded pretty good and frankly
+I I mean I mean this is maybe not even
+the topic you're bargaining for but like
+it's not even I found myself in this
+weird situation where I'm you know
+generally agreeing with people's
+diagnosis of all the things that are
+wrong around me and um definitely
+disagreeing with literally every
+proposed uh way to go about it and
+solving it um and so you know like there
+was a whole lot of distraction and um
+Shopify has always seen itself as a it's
+not that's also canceled term common
+carrier right like we had like uh
+Elizabeth Warren selling uh
+marks selling saying billionaires tears
+on them and Trump on Baba's side selling
+you know whatever Trump was saying and I
+like about that's a big tent company
+that's exactly what you want right
+because that's sort of it's a weird idea
+to segment the internet into these
+various components and so
+then there was another thing that
+happened another thing and we had all
+these slack channels go way past
+self-healing and like it ended up
+becoming this incredible uh complexity
+at which point I'm like I wanted to
+remind everyone just like hey
+we'd be trying to cause a particular
+thing for people to you know reach for
+Independence
+it's really not for us to pre-select
+here like let people as long as they do
+something legal we support them and in
+fact we are just pushing them from
+behind me a tool like your screwdriver
+is not going to tell you that you can't
+screw in something into a wall because
+you're a republican voter so like it's
+just like simplified as what goddamn
+thing and just say like hey we are
+showing up to make this to build cool
+[&nbsp;__&nbsp;] we filling all parts of giving us
+[&nbsp;__&nbsp;] but like it's part of that
+principle you mentioned ldmh before I
+actually if I look and compare your
+business to lvmh which I've done I
+actually think it's quite similar
+because if you talk to Bernard or no and
+you see the infrastructure of what
+they've built in the abstractions you've
+done that it's just you're 40 years
+separated and you're technological and
+they're much more procedural but they do
+the same things which they plug in these
+great businesses they Empower them to
+run Etc have you ever been tempted to
+more vertically integrate and like you
+see categories and you think to yourself
+wow maybe we could do more we could
+enable this or we could lower costs even
+further or we could you know if we own
+this kind of a business we could build
+logistics for everybody I mean you kind
+of tried to do it a little bit explain
+that Journey the uh the decision is
+obvious like can we make it easier for
+other people to look amazing
+that's like it's not our job to be the
+front we uh I mean if it's the quip of
+my investors
+um who are almost all Americans
+um
+was always like only Canadians can build
+this company because you try to be
+nowhere and you're doing two exactly the
+opposite make other people look good and
+so
+um that's pretty deeply ingrained
+business yeah yeah
+um so so
+um yeah so now I mean I don't want to do
+uh Shopify Basics or something like this
+that would be totally a side quest for
+us and I'm big on main quest so I I want
+to keep things you um you bought deliver
+but uh a week ago when flexport fired
+their CEO you sold delivered to flexport
+and then the day same day which is
+[&nbsp;__&nbsp;] boss you signed a deal with
+Amazon
+although that was although that's how it
+was portrayed was like a very can you
+describe what happens conspiracy theory
+tweet that went Final on this that it
+was all a plan of Bezos that he fired
+put the guy in to run flexport to get
+this deal done and then get us it out
+and then totally crippled I give him my
+highest recommendation he's a wonderful
+man you should have him be your CEO it's
+amazing yeah yeah like I mean I think I
+think people
+um conspiracy theory talk is really
+really fun but I think people massively
+underestimate how Hardware to execute
+right like this is this sounds very very
+um HKC
+um the the um
+no like the
+again it
+here's what my friends who built a lot
+of free companies on Shopify say they
+say it's like most fun like they treat
+it as a video game like many are like do
+it over and over and over again and I
+want them to keep building these
+businesses and they turn but they flip
+them or they stop at certain point why
+it's always the same at some point they
+are getting to the point where like okay
+the next two years of my life I'm going
+to build warehouses and deal with
+operational excellence and I'm I'm a I
+make online stores I make products I
+make this is what I want to do so I'm
+like okay cool like Shopify is Big I'm
+gonna put a complexity of figuring out
+logistics into Shopify because then I
+can amortize it over the total um
+millions of stores that exist
+um that was a plan
+um we bootstrapped it but like we can't
+run it in the end so this is like event
+to flag sport because that's their main
+quest and I think that's all totally
+okay I'm
+super pro Founders running their
+companies I think that's so this is why
+I'm celebrating celebrating with Ryan is
+coming back and also Ryan is totally
+[&nbsp;__&nbsp;] awesome so
+um why did you do the deal with Amazon
+do you have Amazon is mostly about
+um Prime
+um well look
+so so this is you know a lot of us made
+out of a Shopify challenging Amazon
+story and you know like it's a good
+story
+but like
+maybe this is a bit about me I'm a
+product I'm not a product of business
+school right like I'm an engineer I
+Apprentice I'm a blue collar engineer I
+Apprentice as a programmer in Germany
+um I had a Meister I could have gone for
+tournament trip to town to town kind of
+doing this European thing
+um than to decide against it
+um
+I grew up for open source it's it's
+positive sum like it's not it's not
+fighting for percentage points we're
+like we can build so much more if you
+look together and
+um
+specifically around Bible Prime like
+Prime is a credible brand it's probably
+a better brand than Amazon in some cases
+um there is a plausible future in which
+um like the purchasers are bias as we
+call now balancer like just want to buy
+everything through Prime for because
+that's the trusted brand
+I think it would be very bad for my
+company and I think a lot of my
+customers if they would have to fire
+Shopify just because their their
+customers ask them to provide Amazon by
+the prime services and I just like so so
+it's much better to work with them I
+mean that way you look at Amazon Prime
+as like Visa or something it's just a
+technology it's a club of it's a group
+of users why keep them Shopify supports
+86 different payment address I wrote 42
+of Integrations myself so I'm curious
+how you do look at Amazon as a
+competitor and your advice to these this
+entrepreneurial class of how they
+knowing what you know should engage with
+Amazon there has been a lot of
+handwringing and we see it with the FTC
+and Lena Khan's obsession with I think
+Amazon and third-party fulfillment and
+Amazon house Brands you referenced
+Amazon Basics you just said Basics but
+obviously that's what you're referring
+to what is your analysis of
+is it in the best interest of a shop
+to put their inventory on Amazon knowing
+that Amazon you know is
+um kind of like the Borg they will study
+your product they will grind you down
+they will lower the price and then the
+corollary to that in part two
+what's what are you seeing in consumer
+thinking because as we watched every
+single product get copied so quickly
+fast between whether it's fast fashion
+or fast gadgets everything gets copied
+but what I find myself and a lot of
+other people doing now is retreating to
+Brands and you mentioned trust and so is
+there now the pendulum swinging to you
+know I'm not trying to find the lowest
+price and the cheapest product I
+actually want a brand that I can trust
+you know some people are wearing a
+certain brand of shoes here that they
+really like so maybe you could talk
+about those Steve's name Jason
+Laura Piana
+and I
+I have a pair now and they are buttery
+they are it's the I literally put them
+on and I was like
+I don't know if I deserve these I had to
+get myself back up for wearing 1200
+slippers but apparently these guys don't
+care they're gonna mix it up with a PF
+Adams so I highly yeah no I know you're
+the richest guy on the stage and you're
+wearing 16 shoes are wearing 1200 shoes
+I think that's why you're the richest
+guy on the stage but anyway let's talk
+about
+um let's talk about Amazon so Amazon
+First Look Amazon like everyone should
+study of a company they are like look
+absolutely incredible I again do not
+think about like
+I do not like thinking about who gets
+Which percentage I think it really
+messes with people's like actual
+analysis of what they ought to be doing
+especially entrepreneurs if a building
+in space
+Amazon is a rival and Rivals are there
+to inspire you to be better if you treat
+your any one of your competitors in a
+different way I think you're doing
+you're causing a category mistake um I I
+maybe in the More Physical World
+absolutely there's like yeah where it's
+really a clear finite pie maybe you need
+to bring a different uh mindset but like
+if you're anywhere close to software
+it's positive so I mean everything's
+growing so I think that's
+um I would say about Amazon I said but
+now the brand part though you said that
+you have how many payment providers it's
+80 86 86 okay so breakdown
+stripe and IGN for a second
+stripe idea yes
+um why do 86 payment operators even
+exist yeah that's that's an excellent
+question um and has to do with um goes
+back to your friction Point yeah yeah
+Byzantine
+um world of entertainment
+um
+I mean look some of these payment
+gateways I mean I really hope my team
+disabled them I when I implemented
+around 2004
+um here's what you had to do is you had
+to take the credit card put it into an
+Excel spreadsheet and upload it to an
+FTP site yeah unbelievable so um that's
+exactly as secure as you get error prawn
+as you can imagine so but that's about
+the state of art
+um uh at a certain point of time as such
+as it is I I have very low maybe this is
+where my extraordinarily low opinion
+about the Orthodoxy and the status quo
+comes from
+um but it's uh you know stripe and uh
+Aryan and
+um maybe to a
+sometimes Braintree are like much more
+competent implementations of this
+fundamental idea and there's massively
+complex
+like again we are interchangeable
+because at the end of the day you can do
+a lot of what you need to do with free
+API codes it's basically authorized
+capture and purchase directly
+um and uh
+so they look interchangeable but like
+what's happening behind I mean
+they're great businesses
+you know all these things eventually are
+the things that these guys interact with
+right they're not going to know what's
+behind the scenes they know that it's
+shop pay is one click it's elegant it's
+amazing I used it this weekend buy with
+prime same kind of concept so what is it
+that you guys you as a business your
+shareholders will say Toby get as much
+margin as possible and obviously you're
+going to look at that and say well hold
+on if I'm running a trillion dollars
+over my network
+50 basis points all of a sudden adds up
+to a lot of net income for me so you're
+going to go and do it that's like a
+no-brainer
+what happens to those companies what do
+they do where you would actually go back
+to your shareholders and say ah no I'm
+going to pay more to these guys tomorrow
+than I do today because it's critical
+and I can't do it yeah
+yeah basically a lot more with me so I
+like honestly we have VC companies go
+from one payment gateway to another and
+everything about their business changes
+and they kind of don't know why it's
+there's the card acceptance rate are
+really really different between them
+there's a huge amount of machine
+learning goes into like what at which
+point you want to accept which card
+performance is a huge one like this is
+sort of a really invisible one because
+like latency to compute or inverted
+computation Computing it's sort of like
+pollution in the real world it's like a
+negative externality sort of bestowed
+upon the next layer and other people but
+like in e-commerce you can just really
+see it right like it's your your sales
+are going going up going down and it's
+usually
+credit card gateways that have the
+largest issue
+um with performance and these kind of
+things that have to use
+basis points games to to attract
+customers so we've actually seen sets
+going down in the this way both stripe
+and alien are excellent
+um
+that's also I mean if you if you're
+asking about what makes these businesses
+and do they have are they fungible
+I mean building trust relationships to
+the brand question really with the CFO
+office right like it's in in business
+software just like consumer software you
+know attention matters or engagement as
+it's called usually
+um and um
+you wanna like if you have a trust
+relationship with a CFO of a company if
+you are going to be hired for more and
+more services and there's a lot of
+services related to the flow of funds um
+I think
+um there's lots of lots of opportunities
+just bringing it back because you're
+trying to make me commit about making a
+value start statement that's kind of a
+zero-sum statement about um you know two
+or three companies here
+um you have a large opportunity in in
+this space it's like there's a lot of
+fantastic new rails that are being built
+in the crypto World we're not so cool on
+this right now but soon we are going to
+be cool again because this is the way
+Humanity works and then we get to build
+and there's some really really good
+technology Underneath It All which is
+quite ready there's also um
+I mean I don't know when the last time
+was the credit card network was created
+by certainly a long time ago and there's
+a good deal of business bringsmanship
+that's going to go that's that's going
+on from that side and I think there's
+some opportunities to work together tell
+us about what you're doing in AI you
+launched a co-pilot
+um it's it's literally like anybody
+could become
+their own business person it's really
+incredible do you want to talk about
+that for a little bit every time but
+this is my favorite thing about Shopify
+other than the fact that we sort of we
+as a business sit on the same side of a
+table as like the merchants the partners
+the best thing we can do for Shopify to
+um for our business model is actually
+make our customers more successful which
+is just like it's an incredible
+simplifier and it's incredible how many
+businesses are actually really doing
+sort of a fakery cosplay on top of a
+principal agent problem really
+um so we we have it's much more simple
+for us
+um
+the other thing the thing that I'm so
+excited about because I didn't I only
+had that as a hope when I started but
+then it's proven out
+it's that this thing I said about the
+friction in the process every single
+time we ship something that reduced the
+friction by a meaningful amount
+we actually had more successful business
+being built so we really really proof
+that out in the numbers a great example
+is a payment Gateway again initially you
+had to make a choice when I had to get
+my payment Gateway for my snowboard
+store I had to have a two hour interview
+with someone in American Fork Utah and
+then
+um mail my passport to them right like
+but not a copy
+and so um that's kind of the friction
+that existed for just from formation and
+like now it's like instant underwriting
+and everyone everyone just like the
+first time someone buys something we
+tell you hey where is the money supposed
+to go right
+so um
+the amazing thing about AI is um there's
+some problems we can't address with
+friction removal which is actually like
+the
+um
+experience in life kind of thing my my
+grandmother has had a printing press a
+place copy shop with like big letter
+presses and these kind of things
+um I was like as a kid like doing the
+lead kerning like type setting the
+actual old stuff
+was hugely impressive she started this
+business so I had like
+in my firmware the concept of starting
+your business is a plausible solution to
+problems you might encounter in your
+life and that's probably true for most
+of the people we talk about in the
+entrepreneurial realm but like where
+they have this experience and um that's
+just like
+I mean this is where it's so good but um
+you know your podcast and and just
+Society talks more about this being a
+possibility but like still people can't
+see themselves in it if they do often
+they do it in a sort of reach via
+desperation you know Plan B for so many
+people on planet Earth is better than
+plan a it's it's the one it's because
+they have learned to downgrade they've
+they've made the switch at some point
+exactly yeah people's default setting
+and it worked for surviving on the
+planet but maybe it doesn't work for the
+modern era yeah and taking risk is more
+bold but
+um so what does the co-pilot do it's
+like it's well hopefully it helps you
+with Kurt it maintains your courage
+because you courageously reach for like
+I'm gonna try this thing in my lunch
+break
+but here's someone you can like we be
+survey people like with successful
+stores tend to out like I think with 85
+answer that
+um you had someone who would you turn a
+text in 24 hours with a question about
+starting a business
+um it's massive predictor of success so
+I think
+what chatbots are already good at is
+like being patient and competent and
+answering your questions there's a lot
+of questions they can't answer because
+there's
+um you know just not the training set
+isn't ideal for Niche Pursuits such as
+e-commerce entrepreneurship but that's
+something we can fix through you know
+wonders of fine tuning and these kind of
+things and so what does it do we want it
+to be like just like someone who sits
+next to you basically it's like a chat
+you like can ask questions about
+business but like if you say hey I need
+my store to like look more like summer
+rather than
+um fall or whatever now um it will be
+able to help you with that it will ask
+you questions and it um if you ask it to
+like what should I do in terms of
+product Discovery or how can I increase
+sales I saw on the demo it would say hey
+you should put these things on the front
+page and you may want to do this type of
+sale yes yeah it's pretty amazing it's
+pretty amazing it's honestly it's I mean
+sometimes it's unbelievable that's
+depend on all Shopify data not just that
+user right so there's a clear
+aggregation effect this flywheel effect
+yes you did I'm always interested in the
+really outlier Founders because they
+they do business differently they learn
+different tasks you and different ways
+of managing people and we didn't get
+into it with Rey but man Bridgewater has
+a whole operating system of how they
+record people it's very impressive it's
+very intense you have a very interesting
+one where You released and it went viral
+a counter so when you make a meeting it
+tells you how much that meeting cost
+and then you demanded everybody justify
+the costs of the meetings I don't know
+if you're making them account for it on
+their budgets or not yet but this
+resonated in hit Accord
+looking at the success of the company
+what are the two or three operating
+principles like the I would say a no
+meeting culture or a you know meeting if
+it's really essential culture but what
+are the other two or three things that
+now when you look forward running this
+company and getting it to the next level
+which is going to be harder and harder
+this is how we operate at Toby's Shopify
+yeah look I I I take the founder role
+very seriously I again it's it's not
+it's not about me but it's like I think
+companies that have like there's a
+Founder slot which might be filtered or
+not in every company because every
+company got founded if the founder slot
+is filled you have incredible ability to
+change your car the company partly
+because the way I always loved Social
+Capital as a concept and I I think a lot
+about it it's to me this is like a bank
+account right like it's it's it's it's a
+balance that's deposited and the way any
+kind of value is deposited into it comes
+from storytelling and the founding story
+is ever present in a company therefore
+there is daily
+um settlements into the countdown or
+accruing to a founder and if a Founder
+is not there anymore it's sort of like
+someone deleted a private key and you
+can't spend it anymore so what am I
+spending it on I um want Shopify to be a
+company that um is well first of all
+it's really really really good great for
+Crafters I I again I apprenticed it's
+blue collar and approach engineering
+this should be a crafter's paradise and
+we just really really make sure we have
+great teams and uh great environments
+for Crafters to do their craft and
+that's usually very small teams and so
+on
+there's huge amount of anti
+um status for buyers like it is just
+like
+man like the world's not that great all
+companies are terrible
+um the only thing any of us gets to hope
+for is that an AdvoCare our careers
+we're going to look at the companies we
+built in 2020 and Beyond or before and
+say my company was slightly less
+terrible than other companies right so
+that's that's the best anyone can do to
+me that's actually super hopeful message
+because that reduces the complexity of a
+task you know that's that's something I
+can do just being slightly less terrible
+suck less but like the key thing is
+subtraction and this is where the
+founders Lots energy comes from it seems
+to me that it's only Founders who
+subtract in companies this is the
+meeting thing in a nutshell everyone
+adds recurring meetings and gums of the
+system I'm super pro great meetings but
+like once every couple a year and a half
+or so we randomly delete all recurring
+meetings we're actually gonna do random
+deletion of slack channels and all these
+kind of things just because they will
+come back if they are useful
+so I think that gives you a sense like I
+don't think you have time for
+dissertation but like again
+it's super fun building companies it's
+it's a really really fun thing to do and
+taking it seriously is you know best
+I'll find it ladies and gentlemen I want
+to say thank you Toby thank you
+[Applause]
+[Music]
+quinoa
+[Music]
+besties
+[Music]
+it's like this like sexual tension that
+they just need to release
+we need to get Mercies
+[Music]

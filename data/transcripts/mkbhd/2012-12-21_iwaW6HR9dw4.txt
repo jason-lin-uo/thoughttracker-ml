@@ -1,0 +1,126 @@
+# Hackintosh Pro Project! [Part 1]
+# https://www.youtube.com/watch?v=iwaW6HR9dw4
+
+hey what's up guys MKBHD here happy
+apocalypse since it is the 21st today as
+I record this and welcome to the
+Hackintosh pro
+[Music]
+project so I've done a couple of
+projects over the course of 2012 and
+this will be the first project that
+begins around the beginning of 2013 the
+purpose of this project or this series
+is to create a beast of a video editing
+machine for the beginning of 2013 now a
+lot of people have already done their
+own PC builds especially Windows 8
+builds for the beginning of 2013 and
+that's pretty cool in fact we're giving
+one away already on this channel very
+soon so there's the link to enter to win
+that one it's a $600 build but the one
+that makes this one a little bit
+different is objective number two of
+this series which is this build will be
+able to dual boot Windows and Os 10 a
+lot of you might not know but I've been
+using a Mac Pro for the past couple of
+months basically for my video production
+and I've gotten very used to uh the OS
+10 environment so I'm going to continue
+using OS 10 now I was using it hoping
+that Apple would release you know a new
+Mac Pro with an actually very powerful
+chip soon but they just slacked on that
+so we're taking our own initiative here
+and building our own Hackintosh now when
+you consider an OS 10 machine for video
+editing a lot of things come to mind but
+you kind of have to rule out the laptops
+because they're not really quite as
+powerful and aren't really Adept to
+video editing at least fluidly anyway I
+know the retina MacBook Pros are more
+powerful but we're rolling them out also
+because the fans are a little loud so
+that leaves the Mac Mini which is
+basically a glorified laptop so we're
+going to put that aside then you have
+the iMac which isn't very upgradeable
+except for the ram which you can only
+max out once if you wipe that aside as
+well you only have the Mac Pro and the
+Hackintosh a Hackintosh for those of you
+who don't already know is essentially
+taking your own parts and putting them
+all together and installing OS 10 on it
+this will work with a very specific
+bunch of parts that work together and
+you have to do your research to figure
+out what parts work but in future videos
+in this series I'll be documenting the
+selection process and all that kind of
+stuff to making this work with OS 10 and
+the newest version of Windows I'm not
+sure if I want to do Windows 7 or
+Windows 8 because I'm so used to Windows
+7 but if you guys leave a comment below
+we'll be able to pick now the reason I'm
+going with the Hackintosh besides
+picking my own parts and besides taking
+initiative over Apple's delayed new Mac
+Pro is price you might have known
+already that the Mac Pros are very
+expensive for what they start at and an
+equivalently speced out Hackintosh which
+is your own Parts might cost half of
+what the Mac Pro cross so we'll be
+documenting like I said during this
+video series everything about this the
+parts that we use the build process the
+install process the howto everything
+about it is going to be covered in the
+video series and I hope you guys are
+ready for that so this is just a sort of
+a pilot video to introduce you guys to
+the concept the rest of the stuff is
+coming very soon we're going to start to
+pick Parts we're going to start to build
+this thing and then we're going to roll
+on with the series and get to you know
+benchmarks testing gaming whatever else
+we do on Windows or Os 10 and actual
+video editing and we might see something
+special at the end of the series so stay
+tuned for that and leave a thumbs up if
+you're excited or for you you like the
+idea of this series and want to see it
+move forward you can also leave Parts
+suggestions below if you have a specific
+set of parts or if you have to see a
+certain graphics card in it let me know
+and I'll consider it uh but more
+importantly I kind of want to know if
+this should dual boot with Windows 8 and
+mountain lion or Windows 7 and Mountain
+Lion because I haven't even used Windows
+8 on a desktop yet I've been using it
+almost entirely on a laptop so let me
+know other than that that's basically it
+I hope you guys like the idea of the
+project it will be moving forward soon
+like I said but not without your
+suggestions and your feedback so again
+thumbs up and comments are definitely
+appreciated and uh yeah it's almost
+Christmas and whatever holidays you
+celebrate are probably right around the
+corner so happy holidays I'm home for
+the holidays as you can probably already
+tell but uh I'll see you guys in the
+next video thanks for watching and catch
+you later peace
+[Music]
+a
+[Music]

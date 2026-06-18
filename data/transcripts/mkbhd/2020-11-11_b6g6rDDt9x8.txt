@@ -1,0 +1,350 @@
+# Apple M1 Chip: Let's Talk!
+# https://www.youtube.com/watch?v=b6g6rDDt9x8
+
+[Music]
+ridiculous ridiculous transitions
+okay what's up mkbhd here so let's talk
+max
+with apple silicon i have some thoughts
+so there's been a ton of tech events
+especially apple events in the last
+couple months lately today was the final
+one of 2020 the one more thing event and
+this is where we all were expecting to
+see the first mac with apple silicon and
+i know right off the top that's actually
+kind of niche as far as like who might
+be interested in that specifically but
+for me
+and maybe it's just a nerd inside me
+this was actually the one i was most
+excited for most people would probably
+pick the iphone events but this is one i
+don't know i was just very curious about
+i mean i'm already mostly a mac user i
+edit in final cut pro i've seen the
+struggles of what apple's had to deal
+with working with intel and the
+limitations of intel's chips and their
+laptops and desktops so i'm trying to
+figure out what what are they actually
+going to do how good can the apple
+silicon mac be versus what we already
+have so actually leading up to the event
+i thought and this i talked about this
+on the waveform podcast
+i thought it would be either a massive
+jump in efficiency
+or a massive jump in performance
+now you might say all right efficiency
+works because you could have the same
+laptop with the same form factor and
+size the same power but twice the
+battery life like that would be an
+amazing benefit of apple silicon or
+maybe they do performance maybe they do
+same battery life same size same laptop
+but it's twice as fast
+i was curious which one they would pick
+and then we saw it and it turns out they
+did both so they unveiled the first
+apple made chip for max it's called the
+m1 chip i figure the m stands for mac
+but then again the apple watch has the
+s6 chip but the w chip is in the
+headphones w1 and w2 and then the iphone
+has the a14 bionics so i don't know
+maybe m doesn't stand for mac but it's
+the m1 chip here and this chip is super
+impressive now of course asterisk all we
+have right now is claims we don't have
+an actual m1 chip mac sitting in front
+of us so all we can go by is what they
+said on stage apple's usually pretty
+good about delivering what they say on
+stage but
+just listen to these claims so the m1 is
+a five nanometer chip with eight total
+cores four high performance cores and
+then four high efficiency cores so it's
+kind of similar to what we've seen on
+ipad and iphone a series chips but it's
+not just the cpu it's a bunch of things
+all put together on the same what we'll
+call system on a chip and they're all
+integrated together so there's the eight
+core cpu we talked about but there's
+also an integrated gpu there's the
+neural engine 16 core neural engine and
+the ram is also built in so it's this
+tightly integrated soc where all the
+pieces talk to each other quickly and
+efficiently as possible and where the
+controllers and processes between them
+are built inside so right away if you
+think like me you can already see the
+upside and the downside the downside
+really just being the ram is built in to
+the m1 chip now so you don't have any
+more user upgradeable ram at all in any
+new mac with an m1 chip but now of
+course the upside is you don't have a
+separate cpu and gpu and ram all asking
+for power you have one very tightly
+integrated chip which can create those
+gains in like i was saying either
+efficiency
+or power
+and then i got to the first graph so
+look at this graph
+this is a graph of cpu power per watt
+so if the macbook air was operating at
+10 watts dropping an m1 chip in there it
+just got at two times faster cpu is that
+what this means this this chart is kind
+of weird they didn't really label the
+axes and it's kind of arbitrary there's
+not really too many useful numbers in
+here it feels very marketing
+and like what even is the latest pc
+laptop chip we're talking about here it
+doesn't say so i don't know but it seems
+to be suggesting that this new macbook
+air with an m1 chip will be twice as
+fast as
+something and then they kept going with
+all the rest of the benefits of the gpu
+the 16 core neural engine
+all this stuff i guess you could say got
+my attention
+and then they started unveiling the
+actual max so sure enough the first one
+up is the new macbook air this super
+thin 13-inch laptop with a new m1 chip
+in there now just hold up one second if
+you recall the new macbook air refresh
+just happened like six seven months ago
+i reviewed it and the consensus was
+great little machine it's no wonder it's
+the most popular laptop apple makes as
+long as you don't need to do anything
+too power intensive it's pretty great so
+along comes this new m1 macbook air and
+immediately their claims are huge faster
+launching apps buttery smooth animations
+instant wake up from sleep thanks for
+that craig
+a 3.5 x times faster cpu five times
+faster graphics performance the storage
+is up to twice as fast thanks to a
+better controller in the m1 they showed
+it gaming they showed it editing
+multiple streams of 4k prores video wow
+wow a macbook air huh
+okay sounds like they want the
+performance route sounds like they just
+went straight for more power but then
+they also got to the battery of this
+macbook pro which they say will have 15
+hours of wireless web browsing
+and 18 hours of video playback which is
+apparently six more hours than the last
+macbook air so they did both so okay
+that's a pretty impressive set of claims
+for macbook air 13-inch it'll still
+start at 9.99 maybe it's not the machine
+for me but that seems to address a lot
+of those little maybe it's not quite
+powerful enough for extra stuff
+and then you just get that and you're
+good but then they moved on to the
+13-inch macbook pro so again it's the
+same design but basically just replaces
+the guts inside with the m1 and watch it
+fly so 2.8 times faster cpu performance
+five times faster graphics performance
+again tough to say what they're
+comparing it to but those are some
+massive numbers either way then they
+said it's three times faster than the
+best-selling
+windows laptop in its class but like
+what
+what even is the best wind what's the
+best-selling windows laptop we all know
+the best selling ones aren't the best
+performing ones
+so what do you compare that's kind of
+that's kind of a weird slide but then
+again they got to battery and they
+dropped 17 hours of web browsing or 20
+hours of video playback which is
+apparently twice what they were quoting
+before twice the battery
+in the new macbook pro i'm just
+imagining like some of the cross-country
+flights i've been on where you're kind
+of checking on your battery as the movie
+plays to make sure you're not draining
+too fast
+20 hours of video playback what that so
+they they crush battery
+and they have big performance gains
+some pretty big claims so that will
+start at 12.99 and they also did refresh
+the mac mini as well which makes sense
+because there's no uh dedicated gpus in
+those integrated gpu as well so that'll
+start at 6.99 so there's three new macs
+with the m1 chip so my take is
+i am very curious how these huge new
+performance gain claims will actually
+translate to real life
+and also how that lineup will sort of
+mesh itself out i know again the macbook
+air is the most popular laptop they make
+for a reason it's also the cheapest but
+also now it seems like it's even more
+eating into any reason to buy the
+13-inch macbook pro if it's so powerful
+they have the same chip they seem like
+they'll be roughly equal in terms of
+performance but anyway it's not all
+sunshine and rainbows these machines are
+actually already up on apple.com to spec
+and buy like right now if you want to
+check them out
+and there's some things to keep an eye
+on one is no user upgradable ram like i
+said on any of these machines so not
+only does apple have insane control over
+the hardware components talking to each
+other for perfect optimization but they
+also have insane control over how much
+you will pay for a ram upgrade and since
+you can never upgrade the ram yourself
+you gotta buy the ram from apple then
+number two there's no new webcams on any
+of these laptops really the hardware is
+mostly unchanged i believe the air got a
+slightly improved display with p3 color
+but generally when they were talking
+about the m1 chip giving the laptops
+better webcam quality they were just
+talking about the image signal processor
+not an actual 1080p webcam sadly they're
+all still listed with a 720p webcam and
+then i also noticed only two thunderbolt
+usbc ports
+on the m1 macbook pro
+see there's always been two tiers of the
+13-inch macbook pro one baseline version
+which has two thunderbolt ports and then
+the higher spec version which has two on
+each side so four
+the new one with the m1 chip for some
+reason
+has two
+which is odd and fun fact you can
+actually still buy the intel macbook pro
+if you want you can go to apple's
+website
+go to the new macbook pro and scroll
+down the intel ones are still here and
+the higher end one still has four ports
+so you get the upside of control and you
+get the downside of control apple's just
+decided you only need two ports for that
+macbook pro even though you're a pro and
+then really i believe most of the
+biggest numbers we're seeing as far as
+performance improvements will come from
+the best most well optimized apps and
+the ones that apple makes kind of
+reminds me of the new consoles actually
+so there is still broad app
+compatibility because old apps all still
+work and you can actually also now use
+mac apps and ipad and iphone apps all in
+mac os big sur but the biggest
+performance improvements those two three
+four five x improvements will come from
+apps that are actually really well
+optimized and that's gonna take time for
+developers to work in so it's not gonna
+be instant it'll be developing over time
+but you'll see stuff like you know the
+adobe suite is gonna be working on stuff
+in the coming months and there's new
+version of photoshop uh that'll be early
+next year so that's good so i think the
+most important quote of this event was
+near the end when they said
+the 13-inch macbook pro is the ultimate
+expression of what the m1 chip can do
+which
+yeah i believe that that makes a lot of
+sense we were looking forward to what
+they could do with a much bigger body
+and thermal envelope with apple silicon
+and their promising huge performance
+literally insane sounding battery life
+together m1 chip great but you know what
+i'm most excited for
+i am most excited for the rest of the
+lineup
+the desktops because see with the
+laptops and the mac mini you still are
+optimizing for a lower wattage and a
+smaller thermal envelope and you still
+need those high efficiency cores to kick
+in at the right times to actually
+achieve that amazing battery life and
+energy efficiency but in the desktops
+like when they eventually get to imac
+and imac pro and mac pro eventually in
+the m2 or whatever they call it
+that ship
+doesn't have to have so many efficiency
+cores right that ship doesn't have to
+have the ram built in i hope i don't
+think so so really what they can just
+optimize for is power power power and so
+for me as someone who's been very
+impressed with the mac pro's performance
+throughout this whole year i cannot wait
+to see what types of numbers you would
+get just optimizing for power
+and the whole rest of that lineup could
+be sick it's going to take some time
+it's going to be a process we're not
+going to see it right away but when we
+do
+that could be sick all i can do is cross
+my fingers that apple doesn't take the
+control thing
+too far like i said they didn't have to
+build in the ram but it made sense for
+the laptops and i kind of wonder what
+they're going to do with the rest of the
+lineup in other chips
+but that's what we know so far i we i
+definitely got to get my hands on these
+laptops and figure out how well the
+numbers translate to real life but there
+you go for all the people who are asking
+me hey should i get a new macbook this
+year i'm thinking about a new laptop and
+i told you to wait i told you there was
+new macbooks coming now they're here you
+can literally get them like by the time
+you see this video
+you're welcome but definitely stay tuned
+for the reviews and we'll see how good
+they actually are
+so either way that's my thoughts that's
+been it
+thanks for watching
+catch you guys very soon
+in the next one
+peace

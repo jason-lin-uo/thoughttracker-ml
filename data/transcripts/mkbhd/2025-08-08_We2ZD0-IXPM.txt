@@ -1,0 +1,464 @@
+# Investigating the Tesla Robotaxi!
+# https://www.youtube.com/watch?v=We2ZD0-IXPM
+
+Truly autonomous driving
+is one of the hardest technological
+problems to solve on planet Earth today
+for so many reasons. There's millions
+and millions of variables. No two roads
+are exactly alike. And the number of
+possible scenarios to navigate is almost
+infinite. And if you mess up, it could
+be seriously dangerous or cost someone
+their life. So, the stakes are high, the
+difficulty is high, and yet there are
+some companies that are trying to solve
+it. Now, up until this point, I've never
+ridden in a Whimo or a Tesla robo taxi.
+Just read about them. They're not
+available on the East Coast here. So,
+I've mostly just seen a bunch of videos
+on social media and a bunch of
+headlines. Whimo has been operating
+since 2015, and they're doing driverless
+autonomous taxi rides in a few cities
+now. Austin, San Francisco, Silicon
+Valley, Phoenix, and LA. And then Tesla,
+despite recently announcing this whole
+cyber cab, they've actually started
+doing a super limited service of their
+own driverless taxis in regular Tesla
+Model Y's starting in Austin, Texas. The
+thing is, there's been a lot of chatter
+about both of these. Kind of like as if
+they're sports teams, like you have to
+pick one of them to root for and then
+you have to root against all the other
+ones. I definitely saw a small number of
+Tesla themed creators which were the
+first ones to get access to the Tesla
+robo taxis and they have been how do I
+say this? Uh they've been very forgiving
+of any shortcomings of the service. I've
+watched a handful of these videos.
+There's plenty of good stuff but also
+plenty of weird stuff and odd maneuvers
+and phantom braking. There's even a
+video of somebody getting dropped off in
+an intersection and saying
+&gt;&gt; it looks like we got dropped off right
+here at the corner.
+&gt;&gt; It's really something to see. And the
+cherry on top is since so many of them
+picked sides, they also have to hate
+Whimo and and post videos of other
+Whimos doing bad things to sort of even
+it out. Now, like I said, I've never
+used either, and I know neither of them
+is perfect, but I quite like the idea of
+getting into a nice, quiet, empty car
+and just having it safely take me to my
+destination. That sounds kind of nice.
+So, I was just curious how good these
+services actually are today. So, I got
+on a flight and I flew down to that geo
+fenced area of downtown Austin where
+there are both Whimos and robo taxis to
+find out. For the Tesla robo taxi, they
+have a super limited app that you need
+to be given access to. I got access. So,
+now to try to learn as much as possible,
+I took a bunch of rides with both of
+these all day and took plenty of notes
+along the way. All right, Austin, Texas.
+It is hot out here. Uh, but it's only
+going to get hotter, so we might as well
+just jump right into it. It's time for
+my first robo taxi ride. I've got the
+app on my phone and I'm in the geoence
+location. So, let's do it. And so, I
+guess let's just book a ride.
+[Music]
+Ride is on the way. There it is. It's a
+dark gray Model Y like we expected. Put
+a blinker on.
+[Music]
+Okay. Yeah, it's great. Everything's
+normal. Robo taxi. Okay.
+&gt;&gt; Hello.
+Okay.
+Before we start, if you don't mind, I'll
+just need to verify the the robo taxi
+app, please.
+&gt;&gt; Oh, okay.
+Start ride.
+So, we arrive in 9 minutes. This is our
+route. So, it's kind of nice that we get
+this uh little screen at the bottom. We
+do have a pullover button. I don't think
+we'll need that. It's actually
+interesting cuz the car map has us going
+straight up to that intersection, but
+also it has its blinker on right now as
+if it's going to turn left. So, it's
+decided to go left.
+That seems fine. The map readjusts.
+It looks like it's one of those edge
+cases. Time to see what it does. It puts
+the blinker on, goes around.
+That was good. The visuals on the screen
+are pretty encouraging. I guess it's
+it's just cuz there's a there's a chair
+in front of me, which is usually all I
+see during a ride anyway, so there might
+as well be a person in the chair, even
+though there is no person in the chair.
+Sitting in the left rear seat, after a
+while, it just kind of felt like I got
+used to it. It felt like I was a
+passenger to a really short driver who
+wasn't saying anything. But as you
+noticed, there's obviously still a
+person in the car. This here is Tesla's
+safety monitor. Every Tesla robo taxi
+has one, and that person has a few
+special buttons they can press on the
+main display. One to pull over and one
+to stop in lane in case they notice
+anything going wrong. They all also seem
+to keep a rather firm grip on the door
+opening button for some reason. Some
+people think it's another way to safely
+disengage FSD. Thankfully though, none
+of these buttons were needed to be
+pressed during any of my rides. This
+pretty normal so far, right? Please exit
+safely.
+&gt;&gt; All right.
+&gt;&gt; Thanks you guys.
+&gt;&gt; Thank you.
+&gt;&gt; Have a great day. Peace.
+&gt;&gt; Fundamentally, it went totally fine. The
+car showed up. We got in. It drove like
+a normal person would. It navigated the
+streets and even some slightly odd
+scenarios very confidently. I did a few
+more rides around Austin just to various
+places. And in general, it was
+confident. It was impressive. And the
+pickups and drop offs were mostly
+seamless, as they would be with a human
+driver, except for one where it drove
+about 50 yards past me for some reason
+instead of stopping next to me to pick
+me up. A human probably wouldn't have
+done that. It does kind of take away a
+little bit of the magic of it if there's
+still someone in the car. Like, we know
+it's not going to be that way forever,
+but there is just a person in the front
+seat. It felt like a normal passenger
+ride, which I think is the bar. That's
+the success. But now it's time to try a
+Whimo. All right. I've never ridden in a
+Whimo before in Austin. It's built into
+the Uber app. So, I'm going to try to
+call a Whimo by calling a comfort
+electric. Let's try it.
+And you actually don't know if you're
+going to get a Whimo or not until you
+get matched with one. There is a button
+you enable in your account once you land
+in Austin to allow you to get matched
+with Whimos, but it turns out it's still
+kind of by chance. So, from my
+experience, it's about 80% regular
+drivers and then once or twice out of
+10, you'll get a Whimo. Okay, it's not
+going to walk up to me. That's fine.
+Unlock the car.
+&gt;&gt; Good to see you, Marcus.
+&gt;&gt; Just greeted me.
+&gt;&gt; Start the ride.
+&gt;&gt; Heading to Austin Public Library. Please
+make sure your seat belt is fastened.
+&gt;&gt; Happy Friday.
+&gt;&gt; Okay, so same idea, but nobody in the
+car. So, this front screen is just
+showing our arrival time, which makes
+sense. But then this bottom screen is
+closer to you, and you can look at the
+actual visuals. And I can also play
+music or pull over. Or if I swipe over
+here, looks like I can look at the
+route, change the temperature, all that
+other fun stuff.
+Oh, we're cooking.
+This one's confidently navigating the
+same way. We just had a stop sign. We
+got a bit of a narrow road here.
+There's a car parked and just
+confidently drove around it, used its
+blinkers and everything.
+It took it easy and pulled to the size
+that the truck could go first.
+That was pretty good.
+&gt;&gt; You're here. Please make sure
+&gt;&gt; similar overall driving style and
+confidence in the Whimo. The Whimo felt
+maybe 25% less aggressive or assertive
+and more cautious in general, but the
+the Tesla was very similar
+capability-wise. And my rides weren't
+entirely perfect either. On one ride,
+when it got to my destination, which was
+right on the other side of the street,
+it blew right past it to try to do this
+huge eight minute route to turn around,
+another thing I don't think a human
+driver would have done, but I did end up
+using the pullover button to end the
+ride early to avoid wasting those extra
+minutes and miles. Fascinating. So,
+okay, doing those experiences back to
+back was, I think, just was fascinating.
+It was eye opening, very interesting.
+Uh, and you know, say what you want
+about self-driving cars as a whole
+because some people love them, some
+people hate them, but as a tech product,
+it is fascinating seeing these two
+different approaches to solving the same
+problem. So, let's start with Whimo.
+Basically, every Whimo so far has been a
+Jaguar Ipace, an electric SUV that
+hardly anyone actually buys, but they're
+decent. You know, solid room in the
+second row, all-wheel drive, 246 mi of
+range on a full charge. But of course,
+you can see they're all heavily modified
+with these sensors all over it. On top
+of the vehicle, on the front, on the
+back, many of them lidar to help the
+onboard computers sort of build a
+picture of the world around them while
+it's driving in real time. I've seen a
+couple estimates for how much it might
+cost to build a Whimo. Uh, as far as I
+can tell, there's no official number
+that they're giving anyone, but you
+know, clearly it's significantly more
+expensive than just your standard
+Jaguar. And it also almost completely
+covers the sunroof. So, you might not
+even know an iPace has a sunroof if
+you've been riding in Whimos this whole
+time because of all that hardware above
+you. Now, as a passenger, am I fine with
+a bunch of extra hardware and maybe more
+of an eyesore to potentially be more
+safe? Yeah, of course. But you'll see
+where I'm going with this when I talk
+about the Tesla robo taxi in a bit. One
+thing that struck me though is it does
+feel as a customer like the Whimo
+actually is a bit further along in like
+the overall experience of of a ride. And
+I what I mean by that is it just feels
+like it's a little bit more well thought
+out in some aspects because they've
+clearly had more stuff happen. So from
+the placement of the unlock button and
+the open trunk button in the app so the
+car stays locked for anyone else and
+nobody can get in the car if they didn't
+call it. You know the stickers on the
+steering wheel because you know confused
+people have probably tried to touch the
+wheel all the time. And when I got in
+the car, there's this voice that greets
+me by name and explains what's going on
+and how it's an autonomous ride and I'm
+not being recorded. The cameras around
+the car are just for driving, etc., etc.
+And the UI on the screens is nicely laid
+out. Little stuff. And then obviously
+there's no one in the car, which is
+huge, especially if the whole point of
+someone opting into a service like this
+is to not have to deal with people. The
+Tesla robo taxi, on the other hand,
+well, it's just a Tesla Model Y with
+some decals on it. And this is really
+interesting. This is actually my first
+time riding in this new refreshed
+version of the Model Y. And yeah,
+they're great. It's pretty obvious why
+they've been one of the most popular
+vehicles on Earth. The suspension in
+this generation is better than last
+time. It's quiet inside. You can
+actually see out the sunroof. And
+they've got over 300 mi of range on a
+charge for pretty cheap, which to me
+feels just more modern and obviously
+less of an eyesore and clearly cheaper,
+which is potentially more scalable
+without all the extra sensors on it. And
+you know, Tesla software in the car is
+really good, too. I could go in and play
+YouTube or Spotify on that back screen
+or any number of the other media
+services if I wanted to. But also, Tesla
+was way more reliant on this safety
+monitor employee sitting in the
+passenger seat. Like when I got in the
+car, it's not a voice from the computer.
+The person actually asks to see the app
+to verify that I was actually the one
+that called the car. And clearly, that
+would be the person to tell me not to
+touch the steering wheel if I was to do
+anything stupid. But then, yeah, as a
+passenger, you're just kind of sharing a
+ride with another person, just choosing
+for the person to not be holding the
+steering wheel for the sake of helping
+them beta test this service, which feels
+a little more silly. Funny enough,
+Tesla, like the other day, as of when
+I'm recording this, started testing in
+like a new San Francisco geoence area,
+but they're not legally allowed to test
+without someone in the driver's seat.
+So, they're just running Tesla Model Y's
+around with someone in the driver's seat
+ready to take over, but they'll enable
+FSD. I don't know why that's so funny to
+me. Either way, as a as a newly
+experienced rider in the driverless cabs
+of each of these services and and
+generally an optimist about new
+technology, here's my take. So exciting
+new technologies always follow, I've
+talked about it before, this curve of
+like a really steep improvement at the
+beginning and then a tapering off when
+it's good enough for the masses and
+doesn't make massive leaps anymore. And
+these Tesla and Whimo are both really
+early at the beginning. Maybe Whimo's a
+little further ahead, but they're so
+early that they're in small geoenced
+areas in select cities and not on
+highways. And some of them still have a
+person in the car. Both of them
+definitely have remote support options
+in case anything goes wrong. But the
+point is they're both insanely early on
+this curve, which is exciting, but
+they're also both very cautious. I think
+the dream of driverless cars
+successfully sharing the road with human
+drivers is fascinating, even if it's
+only a step on the way towards every car
+being autonomous. Driving-wise, both the
+robo taxis and the Whimos that I took
+performed admirably. They dealt with
+pedestrians and lights and other cars
+and construction vehicles. And that's
+just in my one day of testing. But just
+because nothing bad happened to me
+doesn't mean nothing bad happens. Trust
+me, there's lots of videos of both Tesla
+robo taxis and Whimos doing some stupid
+stuff. So the real challenge for these
+companies is scaling up that curve
+without pushing too far. Like, as far as
+I'm concerned, it's a good thing that
+both companies are being as safe as
+possible. Whimo is using tons of
+expensive LAR sensors all over their car
+to try to be as safe as possible. Good.
+Tesla paying safety monitors to ride
+along inside every driverless car with a
+vice grip on a kill switch on the door
+handle. Good. Like, there are so so many
+edge cases that these cars will
+encounter as they rack up the millions
+of miles of driving. construction,
+closed lanes, busted roads, sloppy road
+markings, weird signs, flooding, snow
+covered roads. Like, anything is
+possible. It's like how there's a brand
+new sentence typed into Google every
+day. Like, these cars are going to
+encounter brand new driving situations
+that no human driver has ever
+encountered before, and they're going to
+have to navigate them effectively and
+cautiously and safely.
+That's hard, especially for a non-human
+driver. It's funny. I was talking to an
+Uber driver because one of the many
+rides I took in Austin that day was with
+a regular driver. And he was talking
+about how there's uh at certain
+intersections in the city of Austin,
+Texas, there's certain sensors that you
+have to drive over and trip just the
+right way to get the light to change.
+And Whimos miss that sensor all the time
+and then just sit there blocking
+traffic. And he's had to drive up and
+trip the sensor for it so that it could
+relieve the pressure of traffic. Crazy
+stuff. You'd never know. My hope is just
+that both these companies and any others
+joining this challenge for that matter
+try to scale this curve as you know
+safely and methodically as possible.
+Like I've heard all the talk on Twitter
+about how oh maybe Tesla without all
+those expensive LAR sensors will be able
+to scale faster because the cars are
+cheaper. Maybe. But if it comes at the
+expense of any safety doesn't matter. It
+won't matter. Like if you can imagine if
+there's even one bad incident or if
+someone gets hurt, you can see the
+headlines coming from a mile away, how
+far that sets them back. So it's easy to
+make fun of, but the geoenced areas and
+the safety drivers are actually a good
+thing. And I don't think either of these
+companies should be in any particular
+rush to be the first to drop these
+training wheels, but they're also
+businesses that are in competition with
+each other. So, on the upside, you know,
+both of these technologies are clearly
+pretty amazing. You can tell just by
+asking someone who grew up more than
+about 40 years ago what they think about
+self-driving cars and how they actually
+work. Super impressive, super
+complicated, very cool. Now, on the
+downside, you know, people on Twitter
+famously like to pick sides like sports
+teams. Like, if you like one of them,
+then you must dislike the other one.
+Like, you have to root for one to
+succeed and the others to fail. It's I I
+kind of think robo taxi versus Whimo
+Twitter is worse than iPhone versus
+Android ever was. But look at where we
+are now. iPhone and Android, they
+compete, but they also kind of coexist
+and push each other to be better
+constantly.
+And I don't think that's such a bad
+future here either.
+Thanks for watching. Catch you guys in
+the next one. Peace.
+[Music]

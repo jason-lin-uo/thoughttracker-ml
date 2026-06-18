@@ -1,0 +1,79 @@
+# HD Tutorial: Offline Gmail
+# https://www.youtube.com/watch?v=IMXaHZLjFQA
+
+hey everyone today I'm going to show you
+a tutorial in HD hopefully um on how to
+use offline Gmail now you might have
+heard already from all the news articles
+that have been published that you can
+now view your Gmail inbox at any time
+whether you are online or offline so
+what I've done is opened up Milla
+Firefox here and we can already uh go
+straight to our we can go straight to
+our Google email just by going to
+google.com clicking Gmail and signing in
+now this is not by default um offline
+Gmail this is uh this is online Gmail
+obviously so in order to enable offline
+Gmail access what we're going to do is
+go to
+settings and we're going to go to Labs
+the labs Tab and we're going to enable
+offline Gmail it's going to have a
+little unplugged from ethernet kind of
+Icon looking here and we hit enable now
+this will work by default in Google
+Chrome however if you don't have if you
+are not using Google Chrome you're going
+to need to do the following your
+internet browser for example Firefox and
+type in Firefox
+add-ons and click on the first link
+which will be addons.mozilla.org
+and this will take you to uh the Milla
+Firefox add-ons you're going to type in
+and search Google
+gears which is what is necessary uh to
+to
+install um to install Google gears so
+apparently it wasn't on that site so
+I'll just Google search Google
+gears and there we go gears. google.com
+is actually where you find it and it
+says it is installed if it is not
+installed there will be an install a big
+install button here click on it it will
+add it to your web browser and now it
+says you can let web applications
+interact with your desktop meaning I
+could put a Gmail icon on my desktop or
+even in my communication
+section of my rocket dock here so it
+works with Firefox 1.5 and newer I've
+showed a lot of people I'm using Firefox
+3.0.6 right now also it'll work with
+only 32-bit Windows
+Vista um so Internet Explorer six or
+higher so and it also works with Safari
+which is very sweet so once you're done
+with that and you go to your Gmail
+obviously I'll do it again
+Gmail you sign in it'll load you go to
+settings and the labs Tab and enable
+Gmail at this point when you go back to
+your
+inbox um this will be this will be
+offline Gmail and you'll have a little
+offline button here um that shows that
+you're using the offline version of uh
+Google Labs which is one Labs feature
+enabled that will be offline Gmail so
+now you can access your Gmail inbox and
+even send messages not even connected to
+the internet so um I hope this helps you
+guys if you find this videos helpful or
+you want more subscribe and um I will
+respond to whatever um whatever tutorial
+ideas you can come up with um so thanks
+for watching peace

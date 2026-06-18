@@ -1,0 +1,213 @@
+# Top 5 NFC Features: Explained!
+# https://www.youtube.com/watch?v=qp5il7yhM4Y
+
+[Music]
+Hey, what is up guys? MKBHD here and
+this is NFC explained. So, what is NFC?
+Well, NFC first of all stands for near
+field communication and it's a
+technology that allows you to transfer
+small amounts of data between two NFC
+enabled devices, which we'll get to in a
+second. And to be honest, you actually
+don't have to touch the devices
+together. It's near field, which means
+you can get usually within about a
+centimeter of the devices and they will
+successfully transfer the data. And
+there are a lot of really practical
+applications for it. There are also a
+lot of NFC enabled devices already out
+there. You might be watching this on one
+right now, and I'll have the link to
+those down below the like button on this
+video. If you have an NFC enabled phone,
+it'll be built into the back, usually
+into the battery cover or into the
+battery itself. So, the back of the
+phone is where you'll find the NFC chip
+in your NFC enabled devices. This is an
+NFC tag, and inside of it is a small
+thin microchip that can hold a certain
+amount of bytes of information, which
+varies per chip. But every NFC command
+that you write to one of these takes a
+small number of bytes, maybe three to
+five bytes per command. So you can hold
+multiple commands per card. So each one
+of these can hold a couple of commands,
+and you can even have it tell one device
+to do one thing, but when another device
+touches it, it'll tell that device to do
+another thing. So you can have strings
+of commands on here. It's a really
+versatile device for just a small little
+microchip inside of a little plastic
+shell. So, you can use an application
+like NFC Task Launcher on Android or NFC
+Interactor on Windows Phone. And I'm
+sure when the iPhone finally has NFC,
+there will be an app for that, too. But
+these apps will let you read and write
+commands from and to the NFC tag. And
+so, let's go ahead and do this one. For
+example, let's go ahead and make this
+the tag that I tap every time I leave
+the house to walk to class. So, I'm
+going to program this red tag here. And
+the link to the Android app I'm using is
+down below. Basically, what I'm going to
+do is create a new task, make it an NFC
+task, and then add the actions that I
+want to be associated with that task.
+And this is the whole list of all the
+things I can do to make this phone
+change or what I want it to do when it
+taps the NFC tag. So, you can see it's a
+pretty awesome list. So, when I leave
+the house, I want to crank the sound all
+the way up. I also want to maximize the
+screen brightness, and I also want to
+disable Wi-Fi since I'll be hopping onto
+a 4G network. So, but this is basically
+the huge list of all the things. As you
+can see, there's Tasker integration, a
+whole bunch of different system
+settings, but I'll go ahead and crank
+Wi-Fi off, hit next, and then I'll make
+sure all the toggles are set to what I
+want it to do. So, when I tap it, I want
+it to disable Wi-Fi. I want it to enable
+the vibrate mode for sound and crank the
+screen brightness to 100% when I walk
+outside. Once you've picked everything,
+this is what the tag is going to do. Go
+ahead and save and write and swipe the
+tag onto the back of the phone. And as
+you can see, it was written successfully
+and we're done. So, there you go. Now,
+whenever I leave the house with this guy
+in my back pocket, I can literally touch
+my phone to my butt and it'll do all
+these commands that I already programmed
+it to do. And uh that's it. You're set.
+I'm set to go. So, clearly NFC is
+awesome. So, without any further ado,
+throw it at you with a quick top five. I
+know you didn't think this was a top
+five video, but let's go ahead and take
+a look at the top five awesome things
+that NFC can do. Number five, app
+launching. Let's say I stick one of
+these in my car dock. I can have it
+launch Google Maps when I put my phone
+in it. That simple. Brilliant. Number
+four, at the bedside. And I actually use
+this one. Whenever I tap my phone to the
+NFC sticker next to my bedside, it dims
+the screen, silences the phone, and sets
+an alarm for the next morning that I
+have already predetermined. Number three
+is business cards. Now, clearly paper
+business cards, the traditional type,
+aren't really going anywhere anytime
+soon, and we've seen people attempt to
+put QR codes on the back. I don't really
+like those, but an NFC enabled business
+card that takes the swiper right to your
+online resume or your website would be
+pretty sick. Number two, boarding passes
+and transit tickets. Obviously, there
+are a whole bunch of different things
+that are awful about the system, at
+least in the United States, for boarding
+passes and transit tickets and getting
+paper and getting onto the transit that
+you need to get on. So, having just the
+ability to swipe your phone and board
+the plane or swipe your phone and get on
+the train without having to worry about
+that is uh definitely something we'd be
+looking forward to. Number one, mobile
+wallet. Having your phone be your wallet
+in your pocket without having to carry a
+whole bunch of cash or coins is awesome.
+Now, swiping your phone to pay at a
+McDonald's or a Dunkin Donuts can either
+make you look like a complete idiot or a
+complete boss, depending on whether it
+works or not. But when it does work,
+like it did for me at a 7-Eleven a
+couple of weeks ago, you see that little
+Google Wallet logo, you swipe to pay,
+and you start walking out the store, you
+automatically blow the mind of anyone
+who is in that store at that moment.
+Sometimes they don't actually realize
+that you just paid and they start to
+stop you like, "Hey, why are you walking
+out the store right now?" And you look
+back and it's processed. The payment is
+done. It came from your Google Wallet
+account. And speaking of Google Wallet,
+Google Wallet is basically on the
+forefront of pushing this technology,
+basically the mobile wallet stuff to be
+in the forefront, and that's why uh
+Google's doing work right now. So, those
+are your top five. Honorable mentions go
+to parking meters. Those would be cool.
+NFC enabled parking meters, so you could
+just pay with your phone because no one
+likes carrying coins around. They're
+incredibly cumbersome and just terrible.
+Another honorable mention goes to
+Android Beam because that's pretty much
+the easiest and most efficient way to
+share files, at least small ones,
+between devices. So, if I want to share
+my file with you, I don't want to have
+to upload it somewhere for you to
+download it somewhere or email it to you
+or text it to you. That all just is an
+extra step I don't want to have to take.
+Here, let me just give you the file. Tap
+the backs of your phones together and uh
+Android Beam takes great care of that.
+Ever since Android 4.1, I believe that's
+a new feature. So, every Android phone
+with Android 4.1 or above has Android
+Beam enabled. So, if it has NFC, you
+just tap the back and send a picture or
+a video, whatever. And another honorable
+mention goes to car keys because how
+awesome would it be to just walk up to
+your car, pound it, and the door
+unlocks. That would be sweet. Obviously,
+it wouldn't be the most convenient thing
+in the world because say you're in a
+rush and you just miss that exact right
+spot, but who cares? It's awesome. So,
+clearly, I love NFC. I think it's a
+pretty underrated technology, and I've
+recently started using it more because
+I've found all the awesome things that
+it can do really enticing. So, I'm
+getting more back into it. I have a lot
+of NFC tags, and uh I definitely want to
+get more ideas from them. So definitely
+let me know what are you guys using NFC
+for. Personally, I'm really just
+starting off with like, you know,
+leaving a house with an NFC tag or
+having it by the bedside, but let me
+know what you guys use. And I'm sure
+you're watching this on an NFC enabled
+device, so go out and try to pay for
+something crazy with your phone. See
+what happens. Or or don't. Either way,
+thanks for watching and I will talk to
+you guys in the next video. Peace.
+[Music]
+Heat. Heat.
+[Music]

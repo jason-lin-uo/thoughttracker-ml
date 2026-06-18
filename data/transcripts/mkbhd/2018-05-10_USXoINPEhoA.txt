@@ -1,0 +1,296 @@
+# Let's Talk About Google Duplex!
+# https://www.youtube.com/watch?v=USXoINPEhoA
+
+[Music]
+all right boy do we have some artificial
+intelligence to talk about today hey
+what is up guys mkbhd here and yesterday
+was the day one keynote the main keynote
+of google i o 2018 and they always go
+hard with software there and this year
+was no exception so we got all kinds of
+great announcements new android p
+features especially the interesting new
+gesture navigation which will be
+interesting to play around with pretty
+shortly new google news stuff new google
+maps features android dashboard all this
+great stuff and in the middle of all
+that we got one of the most interesting
+new announcements it went by it was kind
+of early if you tuned in late you might
+have missed it maybe you were just
+tuning in to find out what android p
+would be called
+we still don't know but they shared a
+behavior in there called google duplex
+and it's a behavior inside of google
+assistant that they're still working on
+it's a long way from being finished or
+from us ever using it so it's maybe a
+couple years from that but that's what
+it's called so you know how they're
+always adding new new features to google
+assistant to make your life easier you
+know new reminders new routines new
+predictive things new things it does to
+help you out google duplex
+will make it so that you never have to
+call
+a service business ever again so let's
+say i want to get a haircut next monday
+at around noon
+and this is at a place that doesn't do
+online reservations so you have to call
+in to make your reservation and you're
+not really into that so what you want to
+do is ask google assistant hey assistant
+make an appointment for my haircut next
+monday around noon
+and it will actually
+call that hair salon
+pretend to be a human
+talk to the person that picks up
+and gets you a reservation for that hair
+appointment at around noon
+this is what it sounds like
+[Music]
+so happening out there
+hi i'm calling to book a women's haircut
+for our clients um i'm looking for
+something on may 3rd
+store give me one second
+or what time are you looking for around
+at 12 p.m
+we do not have a 12 pm available the
+closest we have to that is a 1 15.
+do you have anything between 10 am and
+uh 12 pm
+depending on what service she would like
+what service is she looking for
+just a woman's haircut for now
+okay we have a 10 o'clock
+10 am is fine
+okay what's her first name
+the first name is lisa
+okay perfect so i will see lisa at 10
+o'clock on may 3rd
+okay great thanks great have a great day
+bye
+what did i just
+did
+that was
+actually amazing did google assistant
+just pass the turing test
+did that just i think it literally just
+did that was a that was a real
+conversation with a real person at a
+real salon
+that is
+both amazing and kind of terrifying it
+also makes siri look really bad it had
+all the right inflections and pauses and
+just the intonation the way it talks
+was very convincing like i don't know if
+i was on the other end of that phone and
+i got that phone call i don't know that
+i would think
+that that was a robot if i wasn't told
+ahead of time i
+pretty sure i would have been convinced
+that's a human um i'm looking for
+something on may 3rd it's so human
+it's so human especially the way it
+responds to those questions like
+i mean i guess that lady could have
+asked anything but it's very tunneled in
+on making that appointment and it was
+just uncanny they did another demo on
+stage as well
+hi um i'd like to reserve a table for
+wednesday v7 okay wait pause right there
+that um
+in that sentence that little pause the
+um
+it didn't have to do that um
+but it did hi um i'd like to reserve a
+table for wednesday v7 they're using
+that um that little pause specifically
+to mimic a human like that google
+programmed it they told it to to make
+those sounds to convince the person that
+they're talking to to believe that
+they're speaking on the phone with a
+human and the rest of that call went
+great too it has some more challenging
+things it was dealing with an accent
+some unusual questions they had to
+respond to but it nailed it for seven
+people
+um it's for four people
+four people when
+[Music]
+today
+wednesday at 6 pm
+oh actually we literally for like upper
+like five people for four people you can
+come
+how long is the weight usually to uh be
+seated
+when tomorrow or weekday or
+for next wednesday uh the seven
+oh no it's not too busy you you can
+count for four people okay
+oh i gotcha
+thanks oh my gosh i like that guy's
+reaction to at the end he's like i don't
+know if i just witnessed the scariest or
+most amazing thing that i've ever seen
+so there's that on stage and there's
+also a bunch more examples in a blog
+post that google's posted i'll drop a
+link below the like button where there's
+a bunch more scenarios of things that
+they've gotten it to successfully
+navigate through in this human
+conversation so that just brings me back
+to how i feel about it a whole day later
+and really from what i've seen there's
+there's two main sides to this number
+one is the incredible technical
+achievement of google
+with the machine learning and the
+artificial intelligence and the natural
+language processing and all of that this
+is the culmination of all of their years
+of listening to our voices to make
+duplex this good it really is something
+special in 2018. like we've all gotten
+those those robocalls that are obviously
+fake right they're like hi i'm i'm karen
+want to go on a cruise like you ask it
+one question and it immediately falls
+apart like
+this
+seems like it it'll legitimately make
+people's lives easier but then the whole
+other side of it and it's actually
+bigger than i initially was thinking is
+should we be worried about this so i've
+seen a lot of reactions to this lately
+on twitter especially and in some videos
+of people saying this is a terrible idea
+like this is why would google do this
+tricking somebody into thinking they're
+talking to a human when they're not that
+is deeply concerning and i understand a
+lot of it even though i'm mostly on the
+side of this particular feature being
+particularly helpful but like if i
+worked in service i think i would still
+want to know if when i'm not speaking to
+a human you know what i mean like i
+don't have any logical reason why it
+doesn't even really matter on my end
+but it just the question is does google
+have an obligation to let that person
+know that they're not speaking to a
+human
+didn't have any like that stylist
+clearly didn't know that they were
+speaking to a robot i think a lot of
+people say yes you gotta tell them you
+gotta immediately let them know that
+it's a robot but on the other hand if
+you're if you're coming from google's
+point of view you have to mimic a human
+as closely as possible to make it work
+if you want to actually get the person
+on the call to pick up and respond to
+you and book that appointment they're
+listening to humans all day they're
+talking to people on the phone if they
+get a call that just says hi i'm a
+google assistant like they're not gonna
+they're probably gonna hang up they're
+not gonna wanna answer that so you
+actually have to blend in and make it as
+seamless as possible for google to do
+their job and the assistant to actually
+assist you it's just weird from our end
+that you know all the the ums and the
+pauses and sounding so human-like when
+it's not is just uncanny so i know it's
+not it's not full open-ended ai it's not
+that creepy like pseudo-human
+robo status like it hasn't gotten quite
+there yet it has a very specific goal
+that it has to tunnel in on but i guess
+it's interesting that basically you can
+see these goal posts getting wider like
+back in the day we used to just say look
+i just want the assistant to tell me
+what the weather is tomorrow and just be
+like as human as possible so you'd say
+hey google do i need a jacket tomorrow
+you get your answer now the goal post is
+look i want the assistant to just make a
+hair appointment for me on monday i
+don't really have the time to call i'm
+gonna go get on the train to work
+just make that appointment for me
+and now it's gonna start doing that but
+then next the goal post is gonna be what
+like i wanted to edit my youtube videos
+for me i wanted to run a company i
+wanted to drive me to work
+how far does it go i guess that's really
+my question at the end of this how far
+does it go i had this conversation
+briefly with neil degrasse tyson
+actually in a video i'll link that below
+it's pretty sweet i would love to have
+this conversation with elon musk he
+talks about this kind of stuff all the
+time hitting me up elon but for real
+it's like one of those ai versus machine
+learning things where it kind of starts
+in a box and it's really convincing and
+excellent and useful in this box but you
+got to keep it in that box but my final
+thoughts on google duplex are this
+i don't know if people care that they're
+talking to a robot i think there's going
+to be people on both sides of the
+spectrum
+but i feel like it wouldn't be that bad
+if you know right off the bat you're
+talking to a robot like when i when i
+trigger the assistant on my phone or on
+siri or on alexa or any of those and it
+responds like a human i know it's a
+robot still like it can be as seamless
+and human-like as possible in the voice
+and the dictation but it's because i'm
+triggering it myself in my phone i know
+it's a robot but when you get a phone
+call and you answer the phone call that
+gets weird because you think you're
+answering and talking to a human and
+then you might like find out during that
+that you're actually talking to a robot
+and then you were fooled and then it
+then it feels weird then it feels creepy
+so that brings us to number two which is
+just how far does it go i always wonder
+what are we willing to do with robots
+that's a weird question but really how
+far are we gonna go with these these
+robot assistants in our lives
+google duplex really triggering the
+intense questions out here i'll hang out
+in the comments section below it's
+open-ended feel free to let me know what
+you guys think but until the next one
+thanks for watching talk to you later
+peace

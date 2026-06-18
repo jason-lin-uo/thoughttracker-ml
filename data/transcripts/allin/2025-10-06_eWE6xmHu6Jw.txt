@@ -1,0 +1,322 @@
+# The Next Bubble Is Already Here - Chamath Palihapitiya
+# https://www.youtube.com/watch?v=eWE6xmHu6Jw
+
+And if you look at private equity, pull
+up that chart I had there. This is just
+stunning how big this industry is
+getting. You know, $5 trillion is what
+we're up to here. And it just keeps
+growing.
+&gt;&gt; I I think private equity is totally
+screwed. I I don't think Silver Lake or
+Infinity or this deal
+are screwed, but I think private equity
+in general is totally hosed.
+&gt;&gt; All right. Well, it's gotten huge just
+since 2015 and tripling in size. So why
+is this I guess my question for the
+gentleman here and for the audience why
+is private equity becoming so large and
+what impact does that have on society if
+people can't put EA into their
+retirement account? They can't put
+Stripe into their retirement account. If
+we take all the great companies and we
+start to privatize them, SpaceX never
+goes public. What impact does that have
+on people's retirement accounts?
+&gt;&gt; Okay, look I think I think the history
+of this is important. There was a
+long-standing belief that the best way
+to generate the best risk adjusted
+return. What does that mean? That means
+to manage through periods where the
+stock markets go down and to manage
+through periods of volatility. The best
+way to do that was to have what's called
+a 60/40 allocation. 60% to bonds and 40%
+to equities. Over many years, especially
+when we artificially suppressed rates at
+zero through Obama, a lot of people
+started to move their allocations away
+from 60/40 and they started to make more
+and more investments further out on the
+risk curve. The biggest beneficiaries of
+that were venture capital, private
+equity, and hedge funds.
+The thing with private equity is that
+because rates were zero, they had an
+infinite amount of borrowing capacity,
+had very little downside to them, and so
+they were able to manufacture returns
+much faster than venture capital and
+hedge funds could. So, as a result, you
+had an initial group of people that were
+defining the asset class, making a ton
+of money, and then you had all these
+fast followers that said, "Well, if
+they're doing it, I can do it, too. So
+far, so good." But then always what
+happens is then you have this flood of
+lagards that just flood the zone. And
+it's these lagards that make it very
+difficult to generate returns because
+they start overpaying for assets. They
+start mismanaging and undermanaging the
+assets that they do own. And so where we
+are is that private equity has seen a
+very consistent way of returning money
+to help improve that 60/40 portfolio. as
+a result they got a lot of money but
+then that created a lot of competition
+and so that's why you see this hockey
+stick graph Jason and when you see that
+kind of graph
+&gt;&gt; it doesn't matter what asset class it is
+the returns go to zero and so we've seen
+this in venture capital
+&gt;&gt; we've seen this in hedge funds
+&gt;&gt; and we're now going to see this in
+private equity
+&gt;&gt; too much money going in to be clear what
+you're saying means you kind of exit it
+right there's there's no returns and so
+again I've said in any of these
+alternative asset classes, there's only
+one thing you should always ask if you
+had to have one critical question.
+What are your distributions?
+Don't show me your IRRa. What is your
+DPI?
+&gt;&gt; The distributions on your paidin
+capital. And if the answer is zero,
+then it is a very challenged asset
+class. And what I will tell you in
+private equity is that over the last
+four or five years,
+distributions have been few and far
+between.
+So I think what's going to happen is
+that the money is going to come out of
+private equity and it's going to get
+concentrated into the few companies that
+know what they're doing of which
+Silverlake has generated over you know
+the last 15 20 years
+tens and tens of billions of dollars of
+distributions. They are just an
+exceptionally well-run organization.
+They've done these huge buyout deals
+successfully before. So, we need to go
+through that in PE. Where does the money
+go? The money's already leaked into
+private credit, which is the next big
+bubble that's building. It looks like
+this chart that you just showed,
+which is loaning businesses money. You
+know, it's super interesting because you
+make such a good point. What we're
+seeing in private equity is these
+continuation funds. Now continuation
+funds are coming chimoth to venture. So
+I've been getting pitched on these
+continuation funds where like hey take
+all your assets sell it to a new group
+of people and then reset the clock and
+then there's never an exit. The good
+news is I will say the last year we've
+seen a lot more activity for shares of
+our companies that are still private. So
+the secondary market freeberg is coming
+back in a major way. But I do get
+worried about these continuation funds
+because now you're just moving an asset
+from one class to the other and we need
+to have a functioning IPO market. How
+functioning is the IPO market today?
+Would we say it's completely
+dysfunctional?
+&gt;&gt; How dysfunctional is the IPO market? Let
+me say it another way. And and how do we
+correct that? And this leads into your
+new spec.
+&gt;&gt; Look, there are three ways to go public.
+There's the traditional way IPO,
+there's the direct listing, and then
+there's the reverse merger or the spa.
+Up until I floated IPO A in 2018, I
+think it was the first way was really
+the only way.
+I was involved in two direct listings,
+Slack and Coinbase.
+And in both of those, what I learned is
+that, you know, it has the same vagaries
+as the traditional IPO. So in the
+traditional IPO, you go to a bank, they
+underwrite you, they act as a
+gatekeeper, and they take six, seven, 8%
+fees as a result, and then they allocate
+what is essentially underpriced stock to
+their best customers. Then you see a
+one-day pop, maybe a two or three day
+pop. All of those customers tend to
+unload and then the stock tends to drift
+down. So the IPO is expensive and it
+typically is mispriced.
+The direct listing
+you have a different dynamic which is
+the first trade is always the highest
+trade and then it just goes straight
+down. That happened with Slack and it
+happened with Coinbase. So
+&gt;&gt; Spotify would be in that group as well.
+Yeah.
+&gt;&gt; Yeah. With Slack I remember like I I was
+like offside a billion dollars and I was
+like well I'm never letting this happen
+again. And so when I had the Coinbase
+thing, I sold it the first day. And I
+texted Brian. I said, "This is not a
+directional indication of your company.
+It's the dynamics of the direct listing
+because I learned it the hard way that
+the time to sell is on day one." So
+where does the spack come in, you know,
+especially now in version two? Version
+two being the the thing that I have been
+tinkering and refining with and am
+trying to push in in this new version.
+I think that it's creating an incredibly
+competitive vehicle where you can have a
+ton of money go into these private
+companies, take them public at a very,
+very low cost of capital. And I think
+that that's should be very enticing.
+&gt;&gt; So, you closed your financing. Can you
+just tell us what the capital raise was
+like as you went out and met with folks?
+What do you hear?
+&gt;&gt; Yes. You know, Nick, maybe you can find
+it. You know that image of the Raptor
+engines?
+&gt;&gt; Yes. super complex to being elegantly
+simple.
+&gt;&gt; Yeah. Nick, can you can you maybe just
+throw that up? What I would say is like
+Spack 1.0, of which I was, you know,
+right in the front of the parade, had a
+bunch of misfires and it was
+complicated, but it worked. There were
+some hot fires that worked, but then
+there were some clear misfires. And the
+whole point was to prove that you could
+create a competitive alternative to the
+IPO. The thing that I'm the most proud
+of quite honestly is
+for all intents and purposes I started
+a normalization of this vehicle that's
+now raised more than 1502 200 billion
+dollars for American companies. I am
+very proud of them. That's an important
+thing for the American capital markets.
+I think what we did in American
+exceptionalism is Raptor 2. It's not yet
+perfect, but I do think it tries to
+improve on the things that I noticed was
+not working in Raptor 1. And in that is
+a lot of the compensation and
+incentives. And so when I showed that to
+investors, they were quite excited. I
+think that they want a competitive IPO
+market that brings many many American
+businesses to the public market so that
+they can be owned by everybody, the
+transparency they like, and the fact
+that the incentives are such now where
+there's absolutely no compensation
+unless this thing really works. And
+historically they received warrants in
+the company typically with a strike
+price of 1150. So 15% above the issue
+price of the stock
+&gt;&gt; and founders shares that were basically
+&gt;&gt; and there was founder shares. But like
+did you have a reaction from them saying
+hey we want some
+&gt;&gt; warrants we we need a little extra
+kicker here like there's some sort of
+desire for that.
+&gt;&gt; No in fact it was the opposite. I think
+that the institutional investors and you
+know my investors in this 98.7 of the
+capital was allocated to these guys are
+the best of the best. You you know who
+they are. So they're every single blue
+chip A+ institutional investor and what
+they wanted was great companies. They
+want great companies to be public and
+the reason is the thing that Freeberg I
+think you mentioned this before. When a
+good company gets public, the amount of
+money that they can raise in the publics
+and then the amount of growth that they
+have in the publics far outclasses what
+they'll ever do as a private company.
+And so they want the simplest and
+cheapest way of great businesses to get
+out. Jamat, do you think that the
+transaction when you find a merger
+partner, the traditional spa has been
+announced as a merger concurrent with a
+pipe being done where new investors are
+underwriting the valuation of the deal
+and saying we like this company at this
+price cuz we are now going to write
+money in in the form of a pipe and
+historically the pipe was for common
+shares. So it kind of was like this is a
+good price and everyone felt good about
+it. Number one, do you anticipate that
+there'll still be a pipe being done in
+concurrent with the merger and this
+transaction? And then number two is do
+you think it'll look like a common pipe?
+Because after the spa frenzy died down,
+in order to get deals done, the pipe
+started to get done with convertible
+preferred securities. So they were
+senior to common and they almost were
+like dead. How do you think this is
+going to play out? because a clean deal
+has not happened in quite some time
+where a spa has announced a merger and
+simply raised money via common in the
+form of a pipe.
+&gt;&gt; It's a great question. I think it comes
+down to the underlying asset, but there
+are some incredible companies that are
+private
+that if they go public
+will be able to demand
+common pipe capital. I think that the
+future maybe just prognosticating and
+guessing what does Raptor 3 look like in
+this back. I think the Raptor 3 will
+look like where somebody a sponsor like
+me rolls everything up into one thing so
+that it's already pre-wired from the
+beginning where I'll just speak to
+a billion, two billion, three billion,
+whatever it is, flexible capital that
+can come in as common so that it's a
+totally pre-baked IPO
+&gt;&gt; at a very fair price. I think that I
+think that that's what the Raptor 3
+version of a spa will look like.
+&gt;&gt; So more capital and then they they put
+their full trust and faith in the
+sponsor to run the deal. Well, no then
+no meaning then there's no conversion
+risk that all the money comes over right
+from day comes over right and so then
+you have to fully commit

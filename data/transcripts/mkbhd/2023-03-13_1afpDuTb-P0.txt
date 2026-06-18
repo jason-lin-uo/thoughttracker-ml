@@ -1,0 +1,168 @@
+# What is Happening with Samsung's Camera?
+# https://www.youtube.com/watch?v=1afpDuTb-P0
+
+foreign
+well I was wrong so time to own it
+what is a photo what is a photo that's a
+that's a real question that I'm not sure
+has a straightforward answer anymore in
+this age of smartphone cameras that we
+live in case in point the latest
+questions with Samsung now this is a bit
+of a part two to a video I've already
+made called what's happening with the
+iPhone's camera but that's about the
+broader topic of smartphone cameras and
+computational photography and the more
+interesting thing which is taking
+pictures of people I'll link that below
+the like button this one is more of a
+side quest of the specific Edge case of
+phones with zoom at night zooming all
+the way in and taking pictures of the
+moon so first I'd like to admit I was
+wrong I made a short about a month or so
+ago I'm not going to delete it but it's
+of me zooming all the way into 100x
+space zoom on the Galaxy s23 Ultra and
+taking a picture of the Moon that looks
+really impressive and I said I guess
+it's not doing the AI fakery that Huawei
+got caught doing years ago but to be
+fair that's not what I should have done
+what I should have done is actually
+tested it done some a b experiment type
+stuff I should have tested it and ran an
+experiment like Reddit user I break
+photos actually did this past weekend
+and well as you can probably tell the
+findings were kind of interesting so let
+me show you so basically when you point
+a camera in the sky and zoom all the way
+into the Moon it recognizes the moon as
+a subject of the photo and it locks the
+electronic stabilization on the target
+sets the focus distance to infinity and
+fires up a detail Improvement engine to
+make the Moon look much clearer than it
+would normally be the easiest way to
+prove this is exactly how the Reddit
+experiment went if you load up a full
+resolution picture of the Moon and point
+the camera at it it triggers all these
+systems and the same set of processes
+but then if you pull up a blurred photo
+of the Moon with many of these details
+obscured and do the exact same thing
+Zoom all the way in point the camera at
+it what happens is it still runs all the
+same improvements and processes because
+it recognizes a moon and then it turns
+out the camera will spit out a clearer
+more detailed photo of the Moon with all
+sorts of sharp detail that wasn't even
+in the source image it feels weird it
+feels fake like the fact that it's
+getting a bunch of detail out of the
+shot that wasn't in front of your camera
+in the first place just feels wrong
+to be fair it's not exactly doing what
+Huawei was accused of doing Huawei is
+accused of doing this Brute Force like
+overlay fakery where okay you point
+theirs at the Moon it recognizes the
+moon and then it just drops an overlay
+on top of the Moon to get that detail
+out of nowhere because that's what our
+brains assumed that was happening Huawei
+denies this but to be fair this would
+work with moon photography because the
+moon as you know is tidally locked and
+the same side always faces Earth so the
+overlay would always be perfectly
+accurate but what's actually happening
+with Samsung's is a little more
+complicated than that so like I said you
+point that camera at the Moon once you
+get past 25x Zoom if the sky is clear
+enough and the Moon is recognized as the
+target the camera app turns the exposure
+all the way down to take it from a
+glowing white orb to an actually
+somewhat detailed object then like I
+said it sets the focus to its furthest
+distance it locks the electronic
+stabilization on the target object and
+then it runs a series of noise reduction
+and detail enhancement processes that
+basically AI sharpen in what you see in
+the viewfinder towards what it knows the
+Moon is supposed to look like so yes
+everyone who has this phone that takes a
+picture of the same moon is gonna get
+like basically the same looking image at
+100x but it you know if it's got some
+color to it if the moon is red to you
+then it will keep that intact uh if
+something flies in front of it
+theoretically that should stay intact
+and then it matches the phase of the
+moon so it'll work on any phase Half
+Moon gibbous Crescent whatever that's
+fine too now I might be asking Marquez
+how do you know all of this well one
+because we actually ran these
+experiments on pictures of the moon like
+the Reddit user did but also too
+there is an entire post on a Samsung
+Forum there's a Samsung Community forum
+and there's a post that details all of
+this like how it works what phones it
+works on and the step-by-step process
+that it goes through when it recognizes
+the moon in the sky it's in Korean so
+you may have to run it through translate
+to read it yourself but yeah it's out
+there
+so you can disable this feature just by
+turning off the scene Optimizer setting
+in the camera app whose description
+right now on my phone says it makes dark
+scenes look brighter food look tastier
+and Landscapes look more Vivid they
+should also add also makes the Moon look
+extra crispy and bright and detailed so
+you can Flex on all your iPhone friends
+who don't have 100x zoom but to me this
+is just one of many types of photos that
+our smartphones are already editing for
+us I've said it in a previous video the
+the stuff that comes out of the
+smartphone camera isn't so much reality
+as much as it's this computer's
+interpretation of what it thinks you'd
+like reality to look like so of course
+anytime there's a full moon everyone
+with an s23 ultra is super tempted to
+zoom all the way in and take the same
+picture of the Moon because it looks
+super impressive and it's visually cool
+but also then the headlines are going to
+say hey that's kind of fake but these
+phones will continue to recognize the
+land escape and turn the Grass more
+green or recognize a wide angle shot
+with the sky in it and turn the sky more
+blue It'll recognize a photo of food and
+boost the most saturated colors
+of course the one with the Moon is the
+most visually impressive and easy to pay
+attention to but
+what is a photo
+Moon mode magic makes the media mad but
+many more manipulated megapixels have
+their Merit
+thanks for watching
+catch you guys in the next one peace
+[Music]
+foreign

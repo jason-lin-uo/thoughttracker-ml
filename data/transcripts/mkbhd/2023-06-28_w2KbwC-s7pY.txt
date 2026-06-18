@@ -1,0 +1,291 @@
+# Why Does the M2 Mac Pro Exist?
+# https://www.youtube.com/watch?v=w2KbwC-s7pY
+
+[Music]
+so Apple's done it they finally
+completed their apple silicon transition
+they said it would take two years it
+took closer to three but now every
+single Mac that was running Intel
+processors just a few short years ago is
+running Apple silicon from the top to
+the bottom of their lineup and the very
+last one to get it was this one right
+here the new Apple silicon Mac Pro and
+it got it in a weird way so let's talk
+about it so there's a whole lineup of
+Max and the bottom of the lineup was the
+MacBook Air and the Mac Mini getting M1
+and then M2 just this the base smallest
+version of Apple silicon on a chip
+already a massive improvement over the
+Intel machines but then the further up
+you go you get the MacBook Pros with M2
+Pro this is double the M2 then the M2
+Max is again double the M2 Pro and at
+the top of the lineup is the new King of
+the Hill most powerful chip they make in
+the new Max studio which is called the
+M2 Ultra which again double levels up
+the M2 Max literally I mean it's two M2
+Maxes fused together this ship is
+absurdly impressive which shouldn't be a
+surprise I mean the M1 Ultra was already
+awesome and it's what I've been editing
+on for basically the past year it's been
+out but M2 Ultra is actually
+meaningfully better at a lot of stuff
+than that one it's a solid 15 to 20
+faster on single core performance which
+is already excellent taking it to the
+highest Mark of any Mac ever and it also
+benchmarked 15 to 20 faster in
+multi-core CPU performance again making
+it the fastest Mac ever tested it got
+better scores in everything across the
+board geekbench metal scores are up by
+20 in the GPU department now that it has
+this new 76 core GPU which is the one
+I'm testing and there are even certain
+software optimizations that improve
+workflows even more than expected so the
+New Media engine is a good one where it
+would typically Excel mainly at parallel
+workloads like that's why you'd always
+see them talking about 22 8K prores
+videos at the same time or whatever it
+was but it can now also Point all of its
+core is at a single workload for those
+of us doing back-to-back exports instead
+of parallel exports so the export time
+for a sample project I built with five
+minute prores video went down from a
+ridiculous one minute 45 seconds all the
+way down to a hilariously fast 57
+seconds which is something like an 80
+Improvement it's amazing M2 Ultra is
+truly excellent so then the Mac Pro
+would be the last Mac to get the Apple
+silicon upgrade and when it finally did
+look a lot of us Hardware nerds were
+getting really excited about maybe
+something like a M2 extreme which would
+once again double the M2 Ultra chip by
+fusing two together and being just
+something Mammoth and absurd
+but it didn't
+it didn't it's actually the exact same
+M2 Ultra chip in both the Mac Studio and
+the new Mac Pro so the natural question
+that this begs is why would anyone buy
+the new Mac Pro like why would anyone in
+their right mind spend 3 000 more
+dollars on a machine that gives you the
+exact same performance from the exact
+same chip in a much bigger heavier
+machine well I'll tell you why because I
+am one of them one of the few I'll warn
+you but one of the few people that will
+actually take advantage of some unique
+things about this new Mac Pro but the
+fact is yeah most people shouldn't and
+won't get the new Mac Pro because the
+Mac Studio exists so what's the reason
+well there are some smaller details that
+are potentially interesting about the
+new Mac Pro like for example okay it's
+the same chip in each but hang on a
+second they're dramatically different
+sizes so maybe the Mac Pro in a much
+bigger chassis with three gigantic fans
+at the front and way more space for
+airflow surely there's a slight thermal
+advantage to getting the Mac Pro or
+maybe more sustained performance over a
+longer time before throttling and
+technically yes I found that to be
+slightly True by only like a single
+digit percentage in most cases and often
+by a rounding error but I did do the
+cinebench 10 minute stress test back to
+back three times each on the Mac Pro and
+the Mac Studio and while the Mac Studio
+dropped a tiny bit on the second run and
+the Mac Pro technically increased
+slightly with each run suggesting it
+wasn't near its limit yet it wasn't
+really that dramatic like I've seen some
+people get maybe closer to eight to ten
+percent out of their tests but it's not
+enough to spend three thousand more
+dollars for more performance out of this
+machine put it that way but another
+thing is there is more i o on the Mac
+Pro technically I mean it doesn't have
+the SD card slot on the front
+unfortunately which is one of the most
+important ones but it does have a new
+card at the top here with six
+Thunderbolt ports and two more at the
+front so totaling eight which is two
+more than the Mac Studio and it also has
+has two HDMI 2.1 ports instead of one
+and two ethernet ports instead of one so
+technically true yes but also you
+wouldn't spend three thousand dollars
+more on the Mac Pro just for that I
+think people would get dongles for one
+extra Port but no the real difference
+the reason the Mac Pro exists is PCI
+slots like that's that's really it like
+the next time you see a comment or a
+tweet or something of someone going why
+does the Mac Pro even exist when you can
+get the same computer in a Mac Studio is
+because this one has PCI slots that's
+the real reason the Mac Pro has six open
+PCI expansion slots that the Mac Studio
+does not have five of them PCI Gen 4 the
+last one a compatibility slot it's kind
+of funny how empty it looks when you get
+it like you open this computer up and
+the entire thing is just air the M2
+Ultra is just under this cooler at the
+top the CPU GPU shared memory the media
+engine neural engine everything is just
+under there and then there's just an
+expansive room for all these PCI slots
+and these PCI slots aren't even for
+video cards or gpus at all actually
+because as we know the GPU which has 192
+up to 192 gigs of shared memory is built
+into the Apple silicon chip so really
+all we're getting the PCI slots for is
+expansion slots the pure dedicated
+expansion slots that a lot of Pros in
+certain industries use a lot sound cards
+i o cards storage cards networking cards
+that's it so yeah it is really specific
+and it will sound ridiculous to most
+people that it literally doesn't support
+video cards like you could pull a crazy
+AMD Radeon card out of the Old Mac Pro
+right now and put it into this thing and
+basically nothing would happen but also
+at the same time most of the buyers of
+these Mac Pros are you know Production
+Studios post Houses music studios things
+like that those people already had
+desktops with PCI slots and they
+literally could not make a Mac work
+unless they made one with PCI slots so
+that's who Mac Pro is for it really is
+too bad though that technically this Mac
+Pro will be less versatile than the old
+one because there are people who would
+want to throw powerful GPU cores at
+certain applications whether it's after
+effects or some 3D modeling stuff or
+Premiere even that just can't do that
+with this one it also doesn't work with
+or apparently even need the old After
+Burner carts so I don't know if you
+remember the afterburner cards and the
+old Mac Pro were basically these
+dedicated cars a two thousand dollar
+video accelerator card uh but apparently
+the M2 Ultra has enough power that it's
+the equivalent of like seven afterburner
+cards so that right there is the real
+power of Apple silicon if you're
+shooting prores but the more I think
+about it just so much of this Pro
+machine stuff is specific to workflows
+and it's it's very difficult to build
+one computer with no expansion or
+upgrade ability or modularity at all
+that works with everyone's workflows so
+there did need to exist a Mac that could
+accommodate some more interesting
+workflows but like I don't shoot prores
+I shoot r3d so I'm not going to need the
+exact machine that's built super well
+for Pro for me it's actually storage uh
+right here I'm holding owc's 8m2 PCI SSD
+this is basically a PCI expansion card
+with a bunch of nvme ssds on it so the
+max storage you can get built into the
+Mac Pro is eight terabytes and it's
+pretty fast it's six seven thousand
+megabytes per second read write cool
+uh but you can max out one of these
+cards at 64 terabytes and it will read
+right at 25
+000 megabytes per second
+which is absurd uh so that's a totally
+different level this is what I'm going
+to dump footage on this is what I'm
+going to back up to this is going to
+replace my current external Thunderbolt
+backup which is where I was keeping all
+my old footage it was sitting next to
+the Mac Studio plugged in and I'll still
+have plenty of room left over to work on
+and edit multiple video projects off of
+it at the same time it's going to be
+awesome for what I do and I only need
+one but also I fully acknowledge and you
+should all realize that most people
+don't need those specialized ssds that's
+why it looks crazy that this Mac Pro
+exists just on the website next to all
+the rest of the Macs but most people
+should get this one Mac Studio is kind
+of a revelation for Apple it's offering
+their top of the lineup performance for
+way less than the old top of the lineup
+and that's why most people should end up
+getting that one I do have one last
+thing though
+I have a theory
+if if I know anything about Apple it's
+that you can sort of predict the future
+pretty well based on the past
+and this Mac Pro
+is a pretty classic lazy refresh from
+Apple
+pretty similar to what they've already
+done like look at the MacBook Air when
+they first went from the last Intel
+MacBook Air to the first Apple silicon
+MacBook Air they reused the exact same
+design and just moved the new chip on
+the inside for all the performance gains
+then the second generation of it got the
+redesign same thing with the MacBook Pro
+right they took the MacBook Pro with the
+touch bar and just reused the same
+design new chip and then the next
+Generation got a redesign so now this
+Mac Pro has just done the same first
+half of that transformation it's the
+same exact chassis more or less as the
+Intel Mac Pro
+but I can expect the Next Generation now
+I'm already thinking about the M3 and
+that's probably kind of unhealthy but
+that's that's where my mind goes that's
+just my theory so anyway now you know
+why the macro exists now you know why
+I'll have one on my desk and I'll also
+leave you with this there was no other
+place to put it in the review but I did
+realize that this Mac Pro does something
+kind of weird when you take the top
+halfway off when it's still plugged in
+the old one didn't do it so I'm just
+going to leave you to it thanks for
+watching
+catch you guys in the next one
+peace
+[Music]

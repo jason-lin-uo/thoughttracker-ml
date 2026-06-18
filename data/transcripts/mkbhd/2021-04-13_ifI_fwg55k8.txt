@@ -1,0 +1,846 @@
+# Retro Tech: Flying Cars
+# https://www.youtube.com/watch?v=ifI_fwg55k8
+
+No matter who you ask
+or what year you're
+talking about,
+the idea of flying cars
+always seems to come up
+as cementing
+when the future has arrived.
+So, what future
+were we promised,
+how far have we gotten,
+and how much further up
+do we have to go?
+And I'm Marques Brownlee
+and I review dope new tech.
+But on this show,
+I'm rewinding the clock
+to look at the tech
+of the past
+that we thought
+would be our future.
+This is "Retro Tech:
+Flying Cars."
+Hey, what's up? MKBHD here.
+I know I'm unboxing
+something today
+that has something
+to do with flying cars,
+that it's this, uh,
+iconic piece of tech
+that apparently
+was going to usher us
+into this new era
+of personal transportation.
+We'll see about that.
+This is definitely
+the biggest box
+we've had on this show.
+There is no indication though
+anywhere on this box what it is.
+It's like a riddle.
+What would be a piece of tech
+that would promise
+to revolutionize
+personal transport,
+but also not fit
+in a smaller box than this?
+I'm guessing it's not
+a flying car.
+There is a giant wheel.
+Oh, is this the Segway?
+Oh, it's a Segway.
+I know what a Segway is. Okay.
+I cannot wait
+to try to ride this.
+It's really hea--
+oh, well, it has to be heavy
+because it's got
+to counterbalance.
+There it is,
+the original Segway.
+Is it a flying car? No.
+Is it even a hovercraft? No.
+Well, let's get into it.
+This is the
+"Welcome to the evolution
+of personal mobility" pamphlet.
+Lots of warnings.
+"Don't roll this over bumps.
+Don't ride this
+over curbs and steps
+and obstacles
+and steep slopes
+and slippery surfaces
+and loose materials."
+Whew.
+All right.
+Can I get a helmet?
+Okay, I'm going
+to be the expert.
+I'm going to put all the swag
+that came with it on.
+This is a Segway armband.
+The expert would probably
+have this on, right?
+It's too bad
+I'm too swole for this.
+I'll probably have
+to put it on my wrist.
+That is nerdy. Wow.
+I hate to break it
+to you, Segway,
+but this is the nerdiest part
+of this whole thing.
+There you go.
+Let's fire it up.
+Oh!
+Okay.
+I'm a little dizzy.
+I'll be right back.
+Wow.
+That was fun.
+Is this a flying car? No.
+But this is my segue
+into the next segment.
+I'm gonna have you
+check underneath your chair.
+( laughs )
+Oh, yeah, it's my buddy.!
+Oh, guys. It's the '80s?
+It's the '80s in a car?
+A DeLorean, a DMC-12,
+with Mr. Fusion on the back.
+This is the flying car
+that most people think of
+when they think of
+a flying car.
+Marques: All right,
+I guess let's walk back
+to, like, the concept
+of flying cars in general.
+Why was this such
+an obsession for us?
+Negin:
+It's kind of not surprising
+that Americans
+would be obsessed
+with flying cars
+because we're just
+a car culture.
+- ( engine revs )
+- ( tires squeal )
+Tim:
+The key to the automotive
+interest in the United States
+has been always
+that notion of freedom.
+Announcer:
+Well, the automobile
+has brought with it
+a new way of life.
+And that freedom is just key
+to the American experience.
+Cars are everything
+in America.
+Even though we don't have
+flying cars today,
+it's not because
+we didn't try.
+Announcer:
+Just an ordinary plane,
+but, wait.
+Negin:
+There's been multiple versions
+of attempts of cars
+that were supposed to fly,
+and they crashed.
+Tim: Well, one of
+the earliest flying cars
+that actually looked like
+it had a road to production,
+it was called the Aerocar,
+way back in the 1940s.
+The Aerocar,
+it had the wings in the back
+that could turn it
+into a functioning airplane.
+And this 60-mile-an-hour
+car takes off.
+Announcer:
+Let's put traffic woes
+behind us
+and fly
+that wild blue yonder.
+Joseph:
+Is it a car that can fly,
+or is it just a plane
+that can be broken down?
+( imitates explosion )
+Cooler heads prevailed,
+and the Aerocar
+didn't move forward.
+Marques:
+Okay, so, there were
+actually some attempts
+at flying cars for real.
+But how did science fiction
+impact how we thought
+about flying cars?
+Science fiction has really
+been obsessed with flying cars--
+movies like "Blade Runner"
+and "Star Wars,"
+and of course
+"Back to the Future."
+The first time I ever
+saw a flying car was
+in "The Jetsons."
+Joseph: The Jetsons
+have moving sidewalks
+very similar to the ones
+that we see in airports,
+television screens
+where they can video chat
+like we do with FaceTime,
+and they have flying cars.
+So you say to yourself,
+"Well, why not flying cars?
+Why can't I have a flying car
+in my garage?"
+Caseen:
+It's the ultimate fantasy
+for everyone.
+But obviously there are
+all sorts of challenges
+to making that happen
+in real life.
+Marques:
+So, science fiction can help us
+imagine the future,
+but just envisioning
+a piece of technology
+isn't enough
+to bring it into being.
+No matter
+how compelling the idea
+of a flying car may seem,
+the technology
+and the physics
+just doesn't seem
+to want to play along.
+So, today I'm meeting up
+with fellow car tech enthusiast
+Gali Russell
+from HyperChange
+to find out just how close--
+er, how far we are
+from this future
+of flying cars.
+Marques:
+All right, so I guess
+the basic challenge
+for a car like this today
+to get it to fly
+is to get all the air
+underneath it.
+Yeah, it's a first principles
+physics problem
+of literally moving
+all of this air super quickly
+with enough force
+to get some sort of lift-off.
+Marques:
+Getting all that air
+underneath the car,
+that sounds like
+a lot of energy.
+To lift it off the ground,
+we would need
+1.6 megawatts of power.
+And that just gets you
+into the air,
+and then you have
+to stay there.
+Yeah.
+Even if we theoretically
+solve that problem,
+how are we transferring
+the air below the car?
+So, there's two schools
+of thought
+of how we can actually
+get enough force at once
+to lift this thing.
+You could have some sort
+of propeller system,
+- basically like a huge drone.
+- Right.
+And then you have
+Elon and Tesla working on
+literally repurposing
+rocket tech
+with all these kind of
+mini cold gas thrusters
+to get it to lift off.
+Okay, so, a system like this,
+if you were to build it
+into this car,
+how would it work?
+Where would you put it?
+So, this is where
+the system would go.
+Okay, so the back seats
+are just gone?
+Yeah, we're pushing
+the laws of physics.
+You'd need to use
+all the space.
+Marques:
+So, that's the cold
+compressed air,
+the pumps, the thruster,
+everything's going back here.
+- Gali: Yeah.
+- That's a dramatic
+amount of space
+- to remove from
+the inside of a car.
+- Yeah.
+Marques: So, basically,
+to get this nearly 5,000-pound
+car off the ground,
+you would need around
+1.6 megawatts of power
+for the car to hover
+with no forward movement.
+And this model's
+100-kilowatt hour battery
+would be able to sustain
+that hovering
+for about 3 to 4 minutes,
+as opposed to
+the nearly 400 miles
+you'd be able to travel
+if you stayed on the ground.
+And the calculations
+only account for the weight
+of the driver,
+so if you want to bring
+your friends along,
+your time in the air
+would be even shorter.
+All right, so, we're making
+our way into the future.
+The original idea
+for flying cars though
+was just, like,
+get from point A to point B.
+Maybe there's better
+versions of that future
+that aren't flying.
+The Tesla in some way
+embodies that
+because what makes it
+so advanced
+is not that it can fly,
+but it has software.
+You know, it can
+kind of drive itself.
+I wasn't around in the '60s,
+'70s, '80s, '90s when
+we were imagining flying cars,
+so when I first
+was growing up and thinking
+about the future of cars,
+I didn't think
+they should fly.
+I thought, "Wow,
+they should be more like
+the high-tech stuff
+we have today."
+And now we're actually kind of
+seeing that start to happen.
+Our desire to innovate
+and create
+the next revolutionary
+technology is never-ending.
+And so while we may
+still be pretty far away
+from a world of flying cars,
+there is another type
+of cutting-edge flying tech
+that we've been dreaming
+about for decades.
+- Hey!
+- I need to borrow your...
+Hover Board?
+Nothing captured the imagination
+more than Hover Boards.
+I wanted one.
+I know as a kid, that's
+something you could feel
+you could talk your parents
+into buying you.
+A DeLorean? Not so much.
+I mean, what's better
+than a skateboard
+than a skateboard that can
+lift you off the ground?
+And I remember as a kid
+believing that these things
+might actually be real.
+As a joke, Robert Zemeckis,
+before the film came out,
+gave an interview and said
+that Hover Boards were real.
+Zemeckis:
+They've been around
+for years,
+it's just that parents' groups
+have not let
+the toy manufacturers make 'em,
+and we got our hands on some.
+Tim: Of course,
+it was all made up. It was all
+part of the marketing buzz.
+But they made
+so many kids excited
+that everybody wanted 'em.
+But it never really came
+to any sort of reality
+until we started to hear
+about this revolution
+in personal transport.
+So, it's the early 2000s
+and we start to hear this buzz
+about this transportation
+product from Dean Kamen,
+who was already
+a well-respected inventor.
+It was codenamed "Ginger."
+Tim: Steve Jobs
+comes out and says,
+"This next thing is gonna be
+bigger than the PC."
+It is rumored to be
+the technological advance
+of this century,
+an invention that could change
+the way people live.
+Bigger, perhaps,
+than the Internet.
+It's finally time
+for the big reveal.
+Tim: So, we all tune in
+to "Good Morning America,"
+which was the biggest
+morning show of all time.
+Dean Kamen's
+standing there talking
+with Charlie Gibson
+and Diane Sawyer.
+Negin:
+They lift the curtain...
+Do we have to do
+something here?
+...and it is the Segway.
+It's the Segway.
+- Gibson: Okay.
+- Tim: It's basically a scooter.
+The best part of that launch
+is Diane Sawyer
+trying to hide
+her disappointment
+at finally seeing this thing.
+I'm tempted to say,
+"That's it?"
+Negin:
+There was something
+about the Segway
+that just evaporated
+people's dignity.
+Joseph: It kind of, I guess,
+lacked that cool effect.
+'Cause, let's be honest,
+once they removed the handlebars
+and they became
+hoverboards,
+people were going crazy
+for them.
+This is what everybody's
+talking about.
+It's like a Segway
+without the handle.
+Announcer:
+They are also referred to
+as hoverboards.
+The 360 hoverboard.
+The antithesis of the Segway.
+Celebrities are riding them,
+like Justin Bieber
+and Kendall Jenner
+and Martha Stewart,
+who is obviously the coolest.
+And then the other
+weird thing about it
+is that it caught fire
+all the time.
+( screams )
+It got so bad that
+"Saturday Night Live"
+actually had to do a parody.
+Announcer: And now they're
+literally the hottest,
+because they also explode!
+Ultimately, they were a failure
+because they were a failure,
+but they also didn't live up
+to the thing that we all wanted,
+which was
+"Back to the Future II,"
+hovering aboveground.
+Marques:
+Despite tech companies'
+best efforts,
+hoverboards over the years
+haven't had
+the best reputation.
+So, I'm here
+with actor, writer,
+and comedian
+Michael Ian Black,
+and we're gonna test out
+a few of these models
+to see if any of them
+won't kill you.
+This is Dope or Nope.
+Michael,
+thanks for joining me.
+What is your experience
+with hoverboards over the years?
+- Almost none.
+- Okay, perfect.
+I guess we just get
+into the first one.
+Here it is
+under our desk here.
+Uh, this is what--
+this is what I'm used to.
+- Right.
+- I'm from this era.
+- So, you have experience
+with this.
+- I do.
+- Do you?
+- No. No.
+Oh, this is gonna be good.
+Marques, I'm 49 years old.
+What this looks like to me
+is a stress fracture.
+- Button. Okay.
+- ( beeps, chimes )
+So you look
+kinda like this.
+Yeah, that is not
+superior to walking.
+But you just look
+so much cooler.
+This is--
+this is already dope.
+I know I'm giving this
+a dope already.
+- This is amazing.
+- I mean, you do look cool on it
+because you have
+a kind of confidence on it
+that I don't think
+I'm gonna possess.
+- ( beeps )
+- Oh-- all right.
+Oh, jeez. Oh, come on!
+- Jesus.
+- All right, here.
+Oh, my God, I've never
+felt older in my life.
+- Slowly get your balance.
+- Mm-hmm.
+I'm not trying to move.
+All right.
+That's not bad.
+There you go.
+- There you go.
+- Do I look terrified?
+You look better than if
+you were walking that speed.
+- Yeah.
+- Oh, my God.
+- You were really good at that.
+- I love this thing.
+- I have to give it a dope.
+- Much to my dismay,
+I also have to give it a dope
+because I want to
+be able to do it.
+All right, dope.
+Next up.
+- Oh, jeez.
+- Oh, boy.
+I've never seen
+one of these.
+It's called the Airwheel.
+To me, it looks
+like a Rascal
+that you drive around
+in the grocery store,
+except that--
+just so much less safe.
+- I'll try it. Yeah.
+- Want to give it a shot?
+- All right,
+so I'm gonna get on.
+- You think kickstand out
+- and you just go for it?
+- Just...
+- give me a second.
+- All right.
+I'm terrified.
+Bailing looks
+a lot harder on that.
+- But you look comfortable.
+- Yeah, well, I'm sitting.
+Sitting is something that
+I feel like I do fairly well.
+I know I look like I'm taking
+a ( bleep ) right now.
+When you're too lazy to walk
+and even too lazy to stand,
+this is the gift gizmo for you.
+- You want to try it?
+- Yeah.
+You looked much cooler
+on the other one.
+Marques: Yeah, this is--
+this feels kinda ominous.
+This is a great solution
+to a problem nobody had.
+- I'm gonna say
+that's a nope.
+- Nope.
+All right, next up.
+Ooh, that's heavy.
+- Wow.
+- Segway Robotics.
+I mean,
+I'm sold right here.
+"Robot inside.
+The future is coming."
+Which is pervy. I'm sorry.
+That's perverted.
+It's got a name. Loomo.
+Open the box from the front.
+That's the front.
+Well, that seems to be
+the robot. Out.
+Oh, look at the size of this.
+Here's the power button.
+( whirring )
+Does it balance itself
+and roll around by itself?
+- Seems to.
+- I'm gonna get on it
+and see what happens.
+- All right.
+- It's a hoverboard
+in some respects,
+but I'm not even sure
+what it does.
+I know my feet go here.
+Much easier to get on
+than the other thing.
+- Oh, jeez.
+- Oh, my God.
+I mean, it's cool,
+but what is its purpose?
+I don't know.
+Oh, my God,
+there's a transform button.
+- Michael:
+Oh, it transforms?
+- You transform it,
+the head swivels around,
+and it's a robot.
+Michael:
+Weird. Okay.
+Loomo personal companion,
+follow me.
+Loomo: Here you are.
+I will follow you now.
+Please watch out
+for the people around.
+Okay.
+Come on. Come on.
+Come on.
+It's your personal
+transportation and it's
+your camera on wheels.
+- Hey, Loomo, follow me.
+- I cannot find you.
+- Hey, Loomo, follow me.
+- Stand in front of--
+there you are.
+- I found you.
+- Hey, Loomo! Follow me.
+- ( dings )
+- Follow me, Loomo!
+- I cannot find you.
+- I'm right here!
+There you are.
+I found you.
+I found you. I found you.
+Dang.
+That's locked in right now.
+- Michael: Loomo, sit.
+- Loomo, stop following.
+Loomo: I cannot find you.
+Please stand in front of me.
+- I cannot find you.
+- Loomo.
+Please stand in--
+there you are.
+I found you.
+I cannot find you.
+Please stand in front of--
+there you are.
+The technology is perfect.
+God, it's so cool
+and I hate to say it,
+but there's just no
+good use of it
+and I can't imagine
+it's cheap.
+- So that's a nope.
+- I agree with your
+entire assessment.
+It's nope.
+Sorry, Loomo.
+I cannot find you.
+Marques:
+Although we're not
+quite there yet,
+in theory, riding around
+on hoverboards
+is a future
+that's within our grasp.
+So to find out just how close
+we may be now
+to that reality,
+I'm gonna speak to a duo
+that's spent the last 10 years
+perfecting their
+hoverboard technology--
+Alexandru Duru
+and Philippe Maalouf
+from Omni Hoverboards.
+So, if you were to explain
+this hoverboard to me,
+someone who's never seen it,
+what is it and how does it work?
+Alexandru:
+The hoverboard uses propellers.
+The propellers apply force
+on a larger area.
+Philippe:
+Using the propellers,
+that's the challenge.
+And to succeed with it, that in
+itself was the innovation.
+Marques:
+The Omni Hoverboard
+has an array of
+10 miniature propellers,
+which are powered
+by a bank of batteries
+in the center console
+and a handheld throttle
+that allows the rider
+to control the height,
+which can be as high
+as 100 meters.
+How do you think
+your hoverboard is different
+from the hoverboards
+that people saw
+in, like, movies and TV that
+they might be inspired by?
+Well, one thing about the movie
+"Back to the Future Part II,"
+it was an extension
+of a skateboard.
+And a lot of people wanted
+to create a hoverboard
+that looked visually
+like the one in the movie.
+But for us
+to have a hoverboard
+that functions the way
+it does in the movie,
+we had to not care
+about how it looks.
+It's all about functionality.
+It's not like
+you're riding the vehicle.
+It's you yourself
+that's flying.
+You lean in one direction,
+you will go forward
+in that direction.
+It's like a surfboard,
+but you're surfing the air.
+It's biomechanical.
+It's an extension
+of your body.
+It's a bit like you
+acquired a superpower.
+I'm sort of picturing,
+like, a futuristic field
+where there's a bunch of people
+all sort of hovering around
+and going
+through these courses.
+It's a fun world to picture.
+Yeah, it's fun just to fly.
+Like, it's a real trip.
+I mean, you know,
+some people just want to fly it.
+I think that's the best part
+of the hoverboard.
+The very idea
+that you're flying,
+it's a classic dream
+of mankind.
+I think the hoverboard
+could be the beginning
+of something.
+All right, after all that,
+I guess, uh,
+turns out flying cars,
+aka giving everyone
+helicopters,
+is probably not the best idea.
+But I still love the idea
+of recreational
+individual flight.
+Like, I think if you ask
+anyone what superpower
+they would want to have,
+a lot of people would say
+they would just want to
+be able to fly like a bird.
+So maybe let's keep
+working on that.
+Thanks for watching.
+Catch you guys
+in the next one. Peace.

@@ -1,0 +1,2343 @@
+# E168: Can Google save itself? Abolish HR, AI takes over Customer Support, Reddit IPO teardown
+# https://www.youtube.com/watch?v=-Am0vMW3fA0
+
+Jason where are you that is that a
+virtual background
+or oh oh right that's place I I did look
+architecturally familiar to me it is
+architecturally significant we bleep out
+the beep's house but yes I am you know
+this is like top three or four of places
+I like to be a house guest you know like
+I'm in rotation right now my house guest
+you're K kining through our friend group
+basically you know I'm just a great
+house guest people like to have
+breakfast with me people like having me
+around so I just find myself in I around
+the world hey Nick do you have an
+updated picture of K kin is he still
+alive and kicking he's alive for sure
+he's got to be 70 or something right
+he's gotta be he was on one of those
+reality TV shows with Dr Drew I think a
+couple years ago what does k o kin do
+he's a good hang he's yeah there's a lot
+of these people in La you know like just
+they just
+hang they kind of
+hang they set things up oh my
+God is that current k k man he's 64 now
+wow God Almighty that's incredible how
+did he survive he's got an Instagram
+account I'll tell you how he survived
+see no evil you're no evil exactly I
+didn't see nothing all I know is Hey
+listen man you gave you a pool house
+snitches get stitches I didn't see
+anything what did you see
+nothing let your winners
+ride Rainman
+David and in said we open sources it to
+the fans and they've just gone crazy
+with love
+[Music]
+youen all right everybody welcome to
+your favorite podcast the Allin podcast
+episode 168 David saaks can you believe
+it we've made it to 168 episodes with me
+again the Rainman David Sachs how you
+doing buddy good yeah I heard you got a
+big talk coming up another speech yeah
+yes a talk yes I'm giving a talk all
+right get ready for that all of the GOP
+fans out there all your saxs fans you
+got a big keynote coming from saaks next
+week also with me of course the Sultan
+of science formerly known as the queen
+of quinoa he's got another crop he's uh
+growing David freeberg how are you
+doing how's the crops how's the fields
+how's life in the fields worth cold open
+not a cold do these are intros oh intro
+I'm glad you're not producing there's a
+reason why I'm the executive producer go
+ahead free how's your um how's your
+crops how's the how's life in the fields
+it's great got a great team making
+progress Tech is awesome having a lot of
+fun it's great back in the CEO seat
+huh and of course the chairman dictator
+who's becoming completely insufferable
+because he invested in a company seven
+years ago that is absolutely crushing
+right now called grock we talked about
+it last week you're back you're back
+chth everybody's talking about Gro
+you're you're on uh Cloud 9 seem gr gr
+gr Bitcoin Bitcoin Bitcoin groc
+gr I mean it is interesting how your
+book just literally whatever chat's book
+is that's his mood it's just Bitcoin 60
+grock well the honesty level is going to
+be through the roof now oh right he
+going to be running for governor and
+buying the Hamptons again the truth
+bombs that jamath is going to drop now
+there is nothing like Peak Zer jth I
+mean are we going back is are we back
+right now I on paper what is your stake
+and grock already worth let we're not
+talking we're not we're not we're not
+talking that's so un it's so UNC but
+he's buying the Hamptons and he's
+probably gonna
+buy stop what has it been uncouth on
+this podcast to talk about about wins or
+wins or
+assets these are not I agree with that
+it's not a win you can never count you
+can never count your chickens before
+they hatch that's absolutely right I am
+not counting any chickens don't book The
+win yes there's a lot of hard work to do
+there's a lot more people to sell
+products to to build products by the way
+developers by the way on Gro just this
+past
+week in the queue the weight list
+tripled now there's almost 10,000
+developers that's a big deal well that's
+crazy that's a great sign I think the
+most important Northstar metric for
+these developer platforms is basically
+that as goes the developers so goes the
+platform you can kind of count on some
+amount of pull through because some of
+those developers just statistically will
+land really important products they'll
+consume more apis they'll just consume
+more stuff it's just all goodness
+because if you have 9,000 or 10,000
+people just again waiting in line once
+those guys get in somebody's going to
+create something
+magical that's the great part of having
+a platform people just take it and they
+build on it while you're sleeping
+something amazing can just get built and
+you get some amount of the uh credit for
+that the thing that's really interesting
+is the number of developers is
+increasing I've seen two or three
+founders recently just the last couple
+of weeks who were previously idea
+Founders who are now have taught
+themselves to code so you know this
+there's 1% of the you whatever number of
+millions of delers in the world I think
+it's going to like double or triple so
+the the pool of people who are writing
+code I think is about to grow very
+meaningfully I mean you guys you guys
+saw the release from the White House so
+they were like we we don't want you to
+code and C at C++
+anymore yeah that was very interesting I
+mean they were talking about memory
+leaks and like this is I guess the
+source of most memory leaks therefore
+the White House wants you to learn to
+develop in memory safe languages oh
+great awesome yeah so why are they
+involving themselves like they got
+nothing better to do yeah I mean they
+have an opinion on uh you know
+preventing security leads all right
+listen the top issue this week is the
+same issue as last week Google's Gemini
+I Dei black eye continues we covered
+this woke AI disaster last week was kind
+of funny I was watching CNBC and they
+had a hard time describing the problem
+the woman just I guess didn't want to
+call it what it is it's a racist AI you
+type in text and it gives you the
+opposite or just culturally insane
+responses so if you put in you want a
+picture of George Washington from
+Google's gemini or Sergey Bren you might
+get back like a beniton style diversity
+with like George Washington being black
+or Sergey Bren being Asian Etc and so
+this has caused um a bit of a gr fluffle
+here in the industry to say the least
+the stock is down 5% since we talked
+about it last week and uh Sundar sent a
+memo to the Gemini team of course when
+they write these memos to a team it's
+written to the entire world because you
+know it's going to get leaked and so
+you're writing as a such it might as
+well be a press release I'll give uh two
+quick quotes here and then I'll throw it
+to the besties because there's so many
+questions that we have to address quote
+number one I know that some of its
+responses referring to Gemini have
+offended our users and shown bias to be
+clear that's completely unacceptable and
+we got it wrong and to be clear it
+wouldn't show white people especially
+ones like George Washington or just
+somebody who is obviously a Caucasian
+and so the next quote will be driving a
+clear set of actions including
+structural changes to me structural
+changes means we're going to lay off a
+bunch of people and we're going to get
+rid of the Dei group that's that's a new
+ma that's a new found motivational riff
+quote in my mind freeberg will Sundar
+survive and is Google too broken to fix
+I'm just going to ask you since you work
+there I don't want mean to make it
+uncomfortable but what are the chances
+Sundar survives this and what are the
+chances that Google can be fixed and
+produce great
+products quickly that to light
+users I don't know how answer the sunart
+Will Survive because it's kind of an
+idiosyncratic organization there
+are a couple of Founders who have super
+voting shares um and ultimately comes
+down to their decision and the direction
+they want to take the company and I have
+no insights into what they individually
+think so um frankly I've spoken to a lot
+of folks who are investors in Google
+over the last week and a lot of folks
+are just deeply frustrated and angry um
+uh on a number of fronts
+the
+business really there's you know three
+businesses inside of Google there's you
+know search and ads there's YouTube and
+there's cloud and the rest of it is kind
+of noise and to give you a sense of how
+big these businesses are right YouTube
+did 10 billion a quarter roughly Cloud
+did 10 billion a quarter they have this
+devices business and subscriptions
+business does about 10 billion a quarter
+and then search does about 50 billion a
+quarter and the margin on search is much
+higher than any of those other
+businesses and so the search margin the
+ad revenue on
+search is you know probably 100% of the
+true operating profit of the business so
+the real threat to Google is more are
+they in a position to maintain their
+search Monopoly or maintain the chunk of
+profits that that drive the business
+under the threat of AI are they adapting
+and less so about the anger around woke
+and Dei because most of the investors I
+spoke with aren't angry about the woke
+Dei search engine they're angry about
+the fact that such a blunder happened
+and that it indicates that Google may
+not be able to compete effectively and
+isn't organized to compete effectively
+in AI just from a consumer
+competitiveness perspective so you know
+investors are banging the table and in
+the past we saw this with meta I think
+it was towards the end of 22 if you guys
+remember and it was a similar situation
+investors were like why are you
+investing in VR and AR this is crazy why
+do you have all the these people that
+are getting overpaid and everyone
+started to write off the stock and the
+stock took a big nose dive for a period
+of time just like Google's is right now
+and then the changes came and much like
+Google there's an individual with super
+voting shares who basically said you
+know what I am going to step in and
+we're going to make these changes and
+we're going to fix this organization and
+we're going to right siiz and we're
+going to focus on the product winning
+and since then meta stock is up a
+tremendous amount 5x since then Google
+Shares are down about 10% over the past
+two weeks by the way I was one of the
+stupid people to sell meta around that
+time and your thinking was that they
+just can't get out of their own way and
+the god king is it's it's another yeah
+it's exactly it's another one of these
+idiosyncratic problems you don't know
+what this individual is thinking and
+what he is individually going to do the
+point I'm making is that at Google Now
+something has to give because the noise
+is so loud the board is hearing this
+left and right investors are banging the
+table analysts are banging the table and
+I I'll tell you a couple anecdotes
+internally employees are now banging the
+table a story I a story I heard this
+week was that someone stood up in a
+meeting and said a couple of weeks ago
+if I had stood up in this meeting and
+said we can't show black people in the
+image generation at the rate that we're
+showing I would have been cast a racist
+and I didn't have permission to do that
+inside of the organization but today and
+everyone's like you're right you would
+not have been able to stand up in the
+organization and say that but the tenor
+has changed inside of Google with a lot
+of the employ that I've spoken with who
+are now saying I can stand up and I can
+say that this group called responsible
+AI has too much power and it's a
+one-sided asynchronous problem where
+they get to come in and say we need to
+change this and if you step up and
+disagree with them you are deemed a
+racist you were deemed you know
+culturally inappropriate easier to keep
+your head down it's easier to keep head
+circum understand and and keep
+collecting your RS all of a sudden you
+wake up one day and you see the blunder
+that happened last week yeah and so now
+internally people are waking up and
+saying we need to change this and I
+heard that that's made its way up to the
+higher ranks at Google and they're very
+actively you know so there may be a
+moment here where Google stock which
+currently is trading at just 17 times
+2025 consensus earnings which is cheaper
+than all the other big tech companies by
+far and it's still growing Core Business
+is growing cloud is growing 20% search
+is growing 15% all these other
+businesses YouTube's growing 20% a year
+it's a growth business that's very
+profitable
+and um it's trading at a very cheap
+discount so there's you know the bull
+case is now's a great time to buy
+because it's so cheap and there could be
+this moment where you know you see some
+of the changes that are needed
+internally to get the AI products to
+where they need to be to maintain the
+lead that is inherent because of C so
+that would mean Sachs it would require
+because we're using Zuckerberg as an
+example we could also bring Twitter and
+X into this it would require founder
+authority to come in there and make
+these changes it would require larryan
+Sur who have the super voting chairs to
+come in there and say hey this is all
+changing enough of this do you think
+there's any chance of that happening or
+is Google just too broken to fix and
+they're going to just lose this
+opportunity and it's Microsoft under
+Steve bomber missing mobile and
+Cloud well to quote Jefferson the tree
+of Liberty must be refreshed from time
+to time with the blood of patriots and
+Tyrant and I think there's something
+analogous here I mean you have to if
+you're going to refresh this company you
+have to go in and you got to go in and
+make major Cuts not just to rank and
+file but to leadership who doesn't get
+it and that's the only way it's going to
+get fixed do I think that Larry and
+Sergey are going to come in and pull an
+Elon and go deep and figure out which
+50% or 20% of the company's actually
+good and doing their jobs probably not
+but is it possible that they could make
+a leadership change yeah it's possible
+probable I don't know I mean I've heard
+that
+the company is the way it is because
+they like the way it is I mean that
+they're part of the problem in effect
+they don't see they don't see the
+problem or at least they haven't until
+now maybe they'll get the wakeup call
+what do you think shimar watching while
+this happen I think it's basically a
+small Cadre of a thousand people that
+have built literally the most singular
+best business model and Monopoly ever to
+be created on the internet and a whole
+bunch of other people that have totally
+transformed this organization as sack
+said
+into ability and a platform to reflect
+their
+views and so I don't not a shareholder
+of Google and outside of the tools I use
+I don't think I really have much voting
+power so I don't and and I have so many
+Alternatives now so I actually think
+like the I don't really care that much I
+guess is the point I think that the
+employees should care and the
+shareholders should care and they should
+come together and vote and I think saak
+is right I think the company is the way
+it is because they've chosen to be that
+way and I think freeberg is right which
+is that there's a small group of people
+who have been protecting and breathing
+life into the single greatest business
+ever built ever in the history of
+business but now we need to have a
+confrontation amongst all of these three
+different groups of people and they need
+to make some decisions let me put a few
+data points
+in in play here jcal and this all this
+all speaks to the problems being let's
+say deliberate as opposed to a glitch or
+an accident so first you have sundar's
+letter to the company which there was a
+very interesting tweet by Lulu Chang
+misseri who does coms at Activision and
+she writes a Blog called Flack she said
+quote the OB she a com's expert just for
+the audience she's a comms expert yeah
+so she kind of red sundar's letter and
+it was scorching she said the ausc lack
+of clarity and fundamental failure to
+grasp the problem are due to a failure
+of leadership a poorly written email is
+just the means through which that
+failure is
+revealed so that was one
+reaction Mark andrees had a series of
+posts indicating that the AI was
+programmed to be this way again it's not
+like a bug it's more of a feature and
+that it's not an accident this is this
+is happening because because companies
+wanted to be that they chose to be this
+way and in fact he goes further and says
+that these companies are lobbying as a
+group with great intensity to establish
+a government protected cartel to lock in
+their shared agenda and corrupt products
+for decades to come wow I mean again
+that's a really scorching critique here
+and then you know the the question I
+would ask is who's been fired for this I
+mean imagine if I don't know one of
+elon's products had a launch that went
+this badly do you think no heads would
+roll no heads have rolled and so you
+have to kind of Wonder well what if it's
+a structural issue sex I mean I I I the
+point does resonate with me that there
+is a group internally and I think it's
+called the responsible AI team at Google
+and this team's job is to enforce those
+principles remember that we brought up
+last week that they've defined and so
+they go in and they're like well you
+know if you just render an image of a
+software engineer and all the images are
+just white guys in hoods that's
+inappropriate because there are plenty
+of non-white people you need to
+introduce diversity so then the
+programmers say okay we'll go ahead and
+overweight the model and make sure that
+there's diversity and you can't say no
+because otherwise you are deemed a
+racist so who is the individual that's
+responsible given that structural
+circumstance that exists within the
+organization it's more of a cultural and
+structural problem to me than you know
+one I guess ultimately there's
+leadership that's lacking but actually I
+I I agree with that to some degree let
+me describe how I think it it works mhm
+so what what I've heard about Google is
+that every meeting above a certain size
+has a Dei person in it I mean literally
+so it's kind of like in the days of the
+Soviet Union their military the Red Army
+would have in every division or unit
+there would be you know a commander or
+lieutenant and there'd be a commissar
+okay and the commander reported up the
+chain and the commissar reported to the
+party and the commissar would just
+quietly take notes in all the meetings
+of the unit and if the commissar didn't
+like what the lieutenant was doing
+Lieutenant would be taken out and shot
+okay now that's kind of a dramatic
+example but the point is that in every
+large meeting at Google you've got this
+Dei commissar who's like quietly taking
+notes I'll point out that at Google the
+only person we can ever remember to get
+fired was James Dore who was an engineer
+who complained about the political bias
+at Google in other words he was a
+whistleblower about the very problem
+that's now manifested he's the only
+person you can think think of to get
+fired at Google Google was mocked on the
+show Silicon Valley it was called hulie
+but remember this yeah they the the
+nobody ever got fired because it's a
+company where it's impossible to get
+fired unless you blow the whistle on the
+political problem and I think that if
+you're sitting in those meetings W with
+a Dei commissar present and you know or
+you have suspicions that the AI product
+is not working right are you really
+going to speak up and risk the fate of a
+James Dore of course you're not
+right so you're right freeberg that it's
+a structural problem that there's
+probably a lowgrade fear that's
+pervasive through the organization and
+no one's willing to say the emperor
+wears no clothes the woke Emperor knows
+wears no clothes because they don't want
+to why stick your neck out you may not
+know you're going to get fired but you
+know you're a chance three years ago on
+Twitter nobody would talk about certain
+topics related to Dei because it was in
+the aftermath of George Floyd and people
+just did not feel comfortable even
+calling out something minor that was
+unfair no I would say they didn't feel
+comfortable until Bill Amman broke the
+seal on this just uh like a month ago
+where he really went after Dei I mean
+because remember the part of the
+reaction to bill akman was like wow he's
+really going there even though
+everyone's saying that like basically
+agreed with him and knew that he was
+making a correct point but people were
+still afraid to like again call out this
+this woke
+Emperor yeah and the way this works for
+people who are not super aware you have
+a language model and you know you write
+a bunch of code but then there are guard
+rails put in and then there are red
+teams and people who test it and so at
+the very least even if you were trying
+to do something with great intent as you
+pointed out Friedberg hey you know if we
+pull up a doctor it doesn't shouldn't
+necessarily always be a white guy there
+are other people who are doctors in the
+world somebody should have caught it in
+testing they probably did Jason and they
+didn't report it who wants to report
+that problem that's an interesting rub
+yeah how guts they didn't miss it they
+didn't miss it didn't have the guts to
+you have to build a somebody built a
+reward model or people a reward model
+was built for the reinforcement learning
+from all the humans and their feedback
+so these decisions were explicit the
+question that is that you guys are
+framing
+is was this though a case where it was
+explicitly imposed on people and people
+felt a fear of pushing back or did they
+just agree and say this is a great
+decision and these rewards make ton of
+sense and the whole point is that I
+think what this is highlighted is that's
+the truth that Google needs to figure
+out and they need to figure it out
+quickly because what is going to happen
+now is it's we I know I think we talked
+about this a year ago all Google needs
+to see is 300 500 basis points of change
+and the market cap of this company is
+going to get cut in half okay because
+there is only one way to go when you
+have 92% share of a market and that is
+down and so the setup for the stock is
+now that people are looking at this
+saying okay if I see 92% go to 91 or 90
+or 89 that's all that has to happen and
+people will say the trend is to 50% and
+you will price this company at a
+fraction of what it's worth today so I
+think it's really critical this is the
+moment that the senior leadership that
+really understands business can separate
+it from politics and decide is this a
+thing of fear where there's one Rog
+group that's run a muck or is this what
+we believe because if it's the ladder
+you just got to go with it there's
+nothing you can do because you're not
+going to replace 300,000 employees or
+however many Google has but if it's the
+former sax is right you're going to have
+to some heads need to roll and they need
+to tell the
+marketplace that this was a mistake
+where a group of Rogue employees got way
+out way too much power we were asleep at
+the job but now we're awake they're
+fired and this is so they have two
+choices but in in all of these choices
+what I'm telling you on the the
+dispassionate Market side is if you see
+perplexity or anybody else clip off 50
+basis points or 100 basis points of
+share and search this thing is going
+straight down by 50% by the way unless
+Cloud takes off right because the other
+hedge that Google has is
+gcp and the tooling that they've built
+in gcp can enable and support and be
+integral to a lot of Alternatives and
+competitors to what ultimately might be
+searched so I think there's also a play
+here in thinking about some of the
+hedges that Google has implicitly built
+into the business I'll just say one more
+thing on this structural point I kind of
+thought about this as when I started
+speaking to people internally about how
+this happened from a product perspective
+it felt a lot like when you talk to a
+lawyer as you guys know you're making a
+business decision and there's some risk
+I mean think about Travis building Uber
+and the lawyer will say it is illegal
+you need a medallion license to do what
+you're doing in this City and Travis is
+like well you know what I'm going to
+take that risk Brian chesky and Airbnb
+he said you know what I'm going to take
+that risk and the problem is that like a
+lawyer's job is to tell you what you
+can't do to identify all the Peril of
+your of Your Action and then you as an
+executive or a business leader or a
+manager your job is supposed to be to
+take that as one piece of input one
+piece of data that you then make the
+informed business decision about what's
+the right way to build this product
+what's the right way to build this
+company and I'll take on some risk and I
+think one of the challenges structuring
+side of Google is that product leaders
+and other folks were never enabled to
+make the decision that there were these
+as saaks pointed out kind of like
+policing type organizations that were
+allowed to come in and veto things and
+the vetoing or make unilateral decisions
+and those vetoing on whether it's
+waiting or or some you know training
+data set or output that ends up killing
+the opportunity for the smart business
+leader to say that doesn't make sense we
+can't do this is where this is where
+having founders in the organization
+every day changes everything because the
+founders would say hey we we're here to
+index the world's information we're here
+to present the world's information we're
+not here to interpret it we're not here
+to win hearts and Minds we're not here
+for a political agenda but there's a
+group of people there who it's apparent
+think that they're there to change the
+world that Google is a vehicle for them
+to make social changes in the world and
+you know that's art and there's other
+ways to do that and just paradoxically
+like Hamilton making the founding
+fathers diverse and doing art you know
+that can win Tony's in that context you
+could win tons of awards and a claim and
+and make incredible beautiful art but on
+the other side like people are not
+looking for Google to do that they're
+looking for Google to give them the
+answer and the data and then these
+people are thinking it's our job to
+actually interpret the data for you as
+we kind of touched on last week so uh
+this I think look I think you guys are
+really close to the bullseye here but I
+would just refine slightly what you're
+saying
+so here's how I think it happens I I
+don't think this is a rogue group I
+actually think this is a highly
+empowered group within Google I do agree
+with you yeah yeah I think what happens
+is Sundar says from the top that we're
+going to be on the Forefront of
+diversity and inclusion because he
+personally believes that and that's the
+way the social winds are blowing and
+they think it's good for the company on
+some level okay to implement that Mantra
+or that platitude really HR hires a
+bunch of Dei experts okay lots of them I
+think the company has like this huge HR
+department and a lot of those people are
+basically Fanatics I mean they're their
+chosen career yeah yeah they're trained
+marxists basically and so they're the
+commissars and they're sitting in all
+these meetings and again they're the
+ones taking notes and they're the ones
+who push the company in a certain
+direction but you have to then go back
+to senior leadership and say it's their
+fault for letting this happen because
+they should have made a course
+correction they should have realized
+what was happening they should have
+realized that through a combination
+of bias and through this sort of like
+overly
+empowered HR team who are pulling a
+legal card I mean freeberg is right
+about that they're saying that our point
+of view is the law which isn't true but
+they're basically pulling the legal card
+and pushing the whole organization a
+certain direction it was up to
+leadership to realize what was going on
+and make a correction and the the thing
+that you're seeing now is that in the
+face of what's happened the statement
+that we got really doesn't cut it funny
+they use the word problematic yeah
+exactly they're describing it as a
+glitch or a bug it's not it's a much
+deeper problem and so therefore you give
+it gives no confidence that the solution
+is going to be pursued in as
+comprehensive manners as necessary yeah
+I think it's just a that that memo is a
+tip off that there is a 20,000 30,000
+person riff and a reorganized and
+they're just going to keep cutting the
+de group and they've already meta and
+Google have cut the DI groups a bit I
+don't know if it's about as much about
+cutting as much as it is about
+empowering if you said to the product
+leaders you can make the decision Dei
+and responsible Ai and whatever other
+groups they're going to inform you on
+their point of view but they're not
+going to tell you what your point that
+diag is pulling the legal card they're
+saying this is the law they're saying
+that say that's what needs to change
+right if you don't do things the way we
+tell you Google's going to be hit with a
+civil rights lawsuit that's what they're
+saying oh well I mean let's see if
+leadership can overcome that threat but
+I think that's exactly the threat that
+is keeping the organization from
+resolving this problem or could keep the
+organization that but I also wouldn't
+underestimate the bias so you know
+everybody there not I shouldn't say
+everybody but it's a very liberal
+culture right it's a monoculture so when
+you're swimming in that much bias it's
+hard to see right yeah yeah when
+everybody is left to Center I mean just
+look at something like political
+contributions right it's 90s something
+per are democratic I mean like high 90s
+so it's just a a liberal bubble
+basically and so right when everybody's
+liberal it's very hard to see when you
+know the results are Way offc Center as
+well also if you if you give people this
+job like how are they what are they
+going to do every day freedberg if
+they've been given the job Dei and
+they've been given the job to do trust
+and safety they they're looking to fill
+their time in make an impact you got to
+I think maybe have less of these people
+I honestly think you guys saw you know
+Shan Maguire is a partner at seoa and he
+used to be a member of the team at
+Google Ventures when it was called
+Google Ventures and he did a Twitter
+post did you guys see this yeah where he
+said when he was at Google he was told
+by his manager I'm not really supposed
+to tell you this it could get me fired
+but you're one of the highest performing
+people here but I can't promote you
+right now because I have a quota my
+hands are tied you'll get the next slot
+please be patient I'm really sorry It
+ultimately LED sea to leave Google and
+uh you know the rest is history he's a
+partner at seoa now you're saying
+because he's a white male because he's a
+white male yeah and so the you knowon
+yeah no I had the same thing happened to
+me on AOL when I was at AOL and shabbath
+was there at the same time the whole
+organization was white men from Virginia
+whatever and they gave me an SVP title
+and I said well I want the EVP one and
+they're like you know what we can't have
+any more white males in that position
+right now we have to like get some more
+women and people of color in that
+position and they told me you'll have
+the same comp and bonus but we just
+can't give you the title jamat do you
+think these
+like race and gender driven
+quotas make sense for HR departments to
+try and enforce upon
+managers to M to increase diversity I
+mean is that a good objective for an
+organization to have this is like a
+topic a lot of people I've heard kind of
+flip back and forth on I there is no
+company where I have majority control
+where I have an HR department you don't
+have an HR department no say more why I
+think that it's very important you
+should go to a very respected lawyer at
+a thirdparty firm someone very visible
+an Eric CER type person and you should
+work with that law firm and retain them
+so that you have an escape valve if
+there
+are any kind of serious issues that need
+to be escalated so that you can get them
+into the hands of a dispassionate third
+party person who can then appropriately
+inform the board the CEO and investigate
+so that that covers sort of all the bad
+things that can happen then there are
+buckets of I think good things one one
+important set of things is around
+benefits my perspective is that the team
+should build their own benefits package
+that they want they should understand
+the p&amp;l of the company that they work
+for they should be given a budget and in
+in my companies again what I do is I
+allow committees to form and I ask those
+committees to be diverse but what I mean
+by diverse is I want somebody who has a
+sick partner I want somebody who has a
+family I want somebody who's young and
+single so that the diversity of benefits
+reflects what all these people need they
+go and talk to folks they come back and
+they choose on behalf of the whole
+company and there's a voting mechanism
+then when it comes to hiring I think
+what has to happen is that the person
+that for whom that person will end up
+working for it's the head of engineering
+it's the head of sales those are the
+people that should be running the hiring
+processes I don't like to Outsource it
+to recruiters I don't like to Outsource
+it to HR so when you strip all of these
+jobs away HR doesn't have a role and
+what is left over is the very dark part
+of HR in most organizations which is the
+police person the police policeman right
+the what what is Saks call the commiss
+that is why everybody hates HR I've
+never met a company where that is a
+successful role over long periods of
+time they are this conflict creating
+entity inside of an organization that
+slows organizations down
+so that allows me to empower individuals
+to actually design the benefits that
+they want to hire the team that they
+want and I let them understand the p&amp;l
+in a very clear transparent way and the
+results are what the results are you
+want more bonuses hire better people and
+then what I do is at the end of every
+year I talk about this distribution of
+talent and I make sure we are
+identifying the bottom five or 10% they
+need to be managed up or they must be
+fired every year and it does not matter
+how big the company is you must manage
+up or out the bottom 5 to 10% and in
+some cases I'm talking about one person
+because it's a small company and in
+other cases I'm talking about 30 or 40
+people so just hire the best person for
+the job no you eliminate HR yeah you
+empower the team make the make allow
+them to make their own
+decisions measure it hold them
+accountable right so if you have a
+salesperson who just hires their I don't
+know 15 sorority sisters or fraternity
+Brothers whatever it is and it just
+becomes not a diverse group well hold on
+it is what it is that still may be
+diverse this is my point like the the
+thing is that like there's different
+ways to sell there's different sales
+motions there's the sort of like
+elephant hunting kind of sales model
+there's the Dialing for Dollars thing so
+even those 15 sorority sisters the way
+you describe it could actually be
+diverse my point is that kind of
+superficial marking based on the mutable
+traits will not yield a great
+organization instead it's you're
+empowered to hire whomever you want just
+know that at the end of the year we're
+going to measure them your bonus their
+bonus the company's performance all
+performance yeah performance I mean
+Frank slutman said this and he he got
+barbecued at some point he said I don't
+have time to do this diversity stuff the
+best person by the way in in my
+companies like for example like when you
+do sock 2 compliance you have to
+generate these reports okay especially
+for some of our customers some of our
+companies that actually show the
+diversity of our team and when we
+measure them on the immutable traits
+that whatever they represent as their
+gender whatever they represent as other
+dimensions we are incredibly incredibly
+diverse
+anyways but the way I've seen a startup
+that isn't diverse you know Silicon
+Valley attracts such a diverse mix of
+people you know what do we know about
+success factors for startups number one
+the ones that are successful have a
+cultural meritocracy number two they're
+non-bureaucratic and they don't have too
+much GNA basically overhead in the
+company now all those things are cont
+contradicted by having a large HR team
+or especially a Dei organization right
+they add bureaucracy they add overhead
+and what's that Pips performance
+Improvement they cut into well Pips are
+great I pip people all the time does it
+work I mean I I know some people are
+just like these Pips don't work if
+you're an unper performing member of the
+team and you've been identified in the
+bottom five or 10 percent we have a
+responsibility as management to coach
+you up or to get you to an organization
+where you're not in the bottom 5 or 10%
+that's the right thing to do for people
+you do that by being very transparent
+and writing it down you are not good at
+these things you're underperforming in
+these things fix them or you will not be
+here that's a very fair thing to tell
+somebody yeah look how you want to
+implement your own meritocracy I think
+there's different ways for Founders to
+do that the point is you want these
+companies to be a meritocracy you don't
+want advancement in the company to be
+based on factors other than skill Merit
+hard work things like that we know
+performance we know that's a bad bad
+path to go on I think a lot of Founders
+don't understand that Dei is not
+something they have to do they don't
+have to have a Dei organization this has
+somehow become a thing it's it's not
+required and I think people are
+realizing like why would you do that why
+would you create this large bureaucracy
+in the company that undercuts the
+meritocracy that adds a lot of costs and
+that slows you down none of those things
+will help your company what you need to
+have I think J laid out some really good
+best practices you should have an
+outside Law Firm that I would say is you
+could call it HR law but I would just
+call it employment law I would say like
+a non-ideological
+partner e an expert in employment law
+who sets up your company correctly and
+to whom you can take a complaint if if
+an HR complaint gets raised through the
+chain of your company you do have to
+take it very seriously and that's be a
+proper investigation and that's probably
+best handled by an outside lawyer so get
+that out lawyer and then by the way
+always there's never a case where your
+coworker should know the intimate
+details of any of those and that's what
+also creates this horribly rotten
+culture in HR where these people act
+like Gatekeepers of secret information
+salary information bonus information and
+then all of the other things oh you know
+did you know this person did this with
+it's terrible to have that inside of a
+company it should go to a dispassionate
+third party person whose job it is to
+maintain confidential it and discretion
+yeah while investigating the truth yeah
+when HR is too powerful in a company
+that's a red flag at the end of the day
+HR should be an administrative function
+their job should be to get people on
+boarded sign their offer letter and
+their confidentiality and uh invention
+an assignment agreement and set them up
+in payroll and get them benefits and
+that kind of stuff it should
+fundamentally be an administrative
+function and if it starts getting more
+powerful than that it means there's been
+a usurpation you don't even need people
+for that like you have software that
+does that now and it's all automated you
+know you send them a link you go to your
+favorite you know HR site boom it's done
+yeah I don't think you need a lot of
+people doing this anything you want to
+add to this discussion freeberg as we as
+we move on to the next topic I think
+that unfortunately the term
+diversity Equity inclusion has been
+captured along as chth points out a
+single Vector which is this immutable
+trait of your racial Identity or gender
+and I think the more important aspect
+for the success of a team for the
+success of an organization is to find
+diversity in the people that comes from
+different backgrounds different
+experiences different ways of
+thinking and so I I'm not a huge fan of
+race-based
+metrics or gender based metrics driving
+I'm
+generally more oriented around be blind
+to those those those variables and focus
+much more on the variables that can
+actually influence the outcome of your
+organization yeah one of the great
+paradoxes of this as well is we are
+moving to a much more Multicultural
+mixed race Society anyway people filling
+out fors a lot of our kids you know are
+are could pick two or three of the
+different boxes on a Dei form it's it's
+not going to make much of a difference
+in the coming decades all right issue
+two Google go splashy cach AES licensing
+deals for training data and it's now
+becoming a bit of a pattern Google we
+talked about I think just last week had
+to deal with Reddit for $60 million
+that's reportedly per year today stack
+Overflow is now using its overflow API
+to train Gemini no word on the contract
+value I did get some back channel that
+it's a multi-year non-exclusive deal
+according to R's S1 they have already
+closed 200 million worth of AI licensing
+deals over the next two to three years
+so you maybe it's going to be 75 million
+a year 100 million a year who knows how
+big that business can get we're going to
+talk about the S1 from Reddit in just a
+moment and uh this is on top of all the
+other licensing deals that have occurred
+AEL Springer in open AI you remember
+that one and opening eyes and talks
+reportedly with CNN Fox and time to
+license their content that comes on the
+hills of that Blockbuster New York Times
+open AI lawsuit that we talked about I
+don't know 10 episodes ago and open AI
+lawyers are trying to get that one just
+to give you a little update on it
+they're trying to get that case
+dismissed saying that the New York Times
+hacked chat GPT to get certain results
+and that the York Times took tens of
+thousands of tries to generate the
+results yada yada and they said here's
+the quote from the filing from open AI
+the allegations in the times complaint
+do not meet its famously rigorous
+journalistic standards both open Ai and
+Google and Gemini have been fly Guard
+railing their systems as we talked about
+as well to stop copyright infringement
+like trying to make pictures of Darth
+Vader and that kind of stuff Jam you've
+talked a little bit about your Tac 2.0
+framework maybe you could talk about
+what you see Happening Here with all
+these licensing deals and what it means
+for startups in the AI
+space well just to maybe catch everybody
+up Tac is this thing called traffic
+acquisition cost and you can see it most
+importantly in
+Google's quarterly releases which is
+that what they realized very early on at
+the beginning of the search wars in the
+early 2000s is that they could pay
+people to offer Google search people
+would use it and then it would generate
+so much money that they could give them
+a huge ref share and it would still make
+money so I remember Jason when you and I
+were at AOL this is the first time I met
+Omid we were flying back to California
+we were both in Dallas at the same time
+in like
+2003 or four and that's when Omid did
+the first big search deal between AOL
+and Google and it was it was I want to
+say hundreds of millions of dollars back
+then where Google pays you up front you
+have to Syndicate Google search and then
+they clean it up on the back end with
+some kind of rure so what's incredible
+is that that process has escalated to a
+point now where for example on the
+iPhone it's somewhere between 18 and 20
+odd billion dollars a year is what now
+Google pays Apple so that's the traffic
+acquisition cost 1.0 R Tac
+1.0 and I just said that we should call
+this Tac 2.0 except now what Google is
+doing is instead of paying for search
+they're actually paying for your data
+and saying give it to me so that I can
+train my models and make it better and I
+think that that's an incredible thing
+both it's very smart for Google but also
+it's great for these businesses because
+it's an extremely high
+margin thing to do when you have a
+really good Corpus of of data that is
+very unique so in the case of Reddit
+that $60 million deal I didn't I I
+looked through the S1 to try to figure
+out whether it was a multi- your deal or
+not it wasn't totally clear but the
+point is that you know Google's paying
+Reddit 60 million bucks and Jason you
+just said that they're they've done a
+couple more of these things that's
+incredible this Tac 2.0 thing is amazing
+so if you're an entrepreneur building a
+website or building an app that has
+really unique training data or really
+unique data you'll be able to license
+and sell that and that'll be an
+incremental Revenue stream to everything
+you do in the near future that's amazing
+that's what T 2.0 is it's going to be
+incredible for the entire uh content and
+community- based Industries you think
+this could sustain content creation
+where advertising has become very
+difficult sax I guess my question to
+toal would be do you think this is going
+to be available to small websites
+they'll somehow be some sort of program
+or because I mean Reddit is one of the
+biggest sources of content on the entire
+web right it's like a top five traffic
+site with tons and tons of user
+generated content yes do you think like
+a small publication would be able to
+make these types of deals yeah and in
+fact I think like if you go back to
+search 1.0 that's exactly what these
+small companies were able to do which
+was in a more automated way they were
+able to basically partner and in that
+example what they would say is here
+Google why don't you just run your ads
+on our page right and that was sort of
+in that web 1.0 world so Google had
+solutions for the largest companies on
+the internet all the way to the smallest
+and in this Tac 2.0 world I do think
+that that it works in that way as well
+the problem in the in that world if it's
+a small website that says here's my
+training data the question is how do you
+attribute how much incremental value a
+model derived from it versus something
+else and so I think that that part has
+to get figured
+out and so you know what Google will be
+able to pay you will probably be pretty
+di
+minimouse bound is 60 million for Reddit
+then the average website's going to get
+a few hundred
+bucks but that still may be a good start
+and when Google figures out how to
+monetize stuff or somebody else where
+then they can give you back some way to
+make money I think I think that there's
+a
+real monetization here I really do you
+took the other side of
+this but now that you see the
+market-based solution starting
+to emerge what do you think of this
+market-based solution think it's a got
+legs well I'm not convinced that this
+looks like Tac in the traditional sense
+where you're basically buying a
+continuous stream of traffic and then
+you're helping to monetize that traffic
+that's a effectively what Google did in
+the ad syndication business and does
+today that business makes about 10
+billion a quarter at
+Google and they're paying call it 70 to
+80 cents on every dollar back out to the
+owners of that traffic the folks where
+that traffic is derived
+from I would say that this looks a lot
+more like the content licensing deals to
+build a proprietary audience which is
+effectively what
+Netflix did they they paid Studios for
+Content Apple does this they have
+proprietary content that they pay
+producers to make and they put on Apple
+TV Amazon does this and so on this is a
+lot more like that where there are
+content creators out there whether that
+content is proprietary like the New York
+Times or user generated like Reddit and
+what they're trying to do is acquire
+that content to build a better product
+on Google Search and I'm not sure how
+you get paid a continuous licensing
+stream for that content once you've
+trained the model the content gets old
+it gets stale at some point in a lot of
+cases like news and then
+eventually if you don't have a
+highquality continuous stream of content
+it's not worth as much anymore to give
+you guys a sense humans generate in
+total well let me just give you some
+stats there's about a million pedabytes
+of data on the internet today and humans
+are generating about 2500 pedabytes of
+data new data uh per day right now
+remember I shared a couple weeks ago
+YouTube's generating about two pedabytes
+of data uh per
+day half of all data generated is never
+used so this is like records and files
+and stuff that gets put on log files log
+files gets stored somewhere never
+accessed never used the majority of the
+rest of that data is not in the public
+domain it's not on the internet so there
+is a lot of data out there what some
+people might call dark data to train on
+and I think that as the identification
+of better sources of training data and
+the value of training data right now
+we're in this kind of shotgun approach
+we're trying to blast out and you know
+Source lots of content lots of data just
+like over time Netflix got better at
+figuring out what content to buy and
+what to pay for it and they're the best
+at it I think so too will Google and
+others figure out what data is actually
+particularly useful what it's worth and
+what to pay for it and so there's a lot
+of data out there to go and identify to
+mine to pay license fees to get access
+to whether those are continuous license
+fees or one time is still TBD that's a
+key issue yeah so I think we're still a
+little bit early to know if this is like
+you know a continuous model like a tack
+type business or if these are sort of
+chunky type deals and we don't really
+know what the real value is yet and that
+all changes over time and remember the
+the the rate of data generation is
+increasing so while we're generating 200
+pedabytes of data per day as a species
+on the internet that number is going up
+every day and so every year all the old
+data becomes worth even less so this is
+all changing fairly dynamically and I
+think there's a lot still to be figured
+out on what the monetization model will
+be for Content creators and and how
+that's going to change over time yeah I
+think it's a really good point some
+things will be like The Sopranos or
+Seinfeld or Simpsons where that library
+is worth fortune and people will pay a
+billion dollars a half billion dollars
+some no one no one's no one's paying a
+lot for old NFL games you know Nick
+founded by the way Reddit licensing deal
+was 203 million over it says 2 to three
+years so let's assume it's call it three
+just to be so it's you know6 million a
+year it doesn't say whether the deal
+with Google is exclusive wow so they
+could do they could do that same licing
+deal multiple times that's interesting
+yeah none of these are exclusive it
+seems this is what I don't understand
+why why don't you do head deals like
+with folks like Reddit where you
+actually do it exclusively like it seems
+like it's more valuable to spend a
+multiple of this number for for one of
+the big seven who have tens of billions
+of dollars of cash anyways and block the
+other players and block everybody else
+that just seems Reddit multiple gets
+capped if I'm Reddit I don't want to do
+that deal yeah Reddit me I put it on the
+table Yeah because then my multiple is
+Capp like the the way I can monetize my
+content is now set and I'm done inv get
+bought investors are like oh you're
+worth five times eai you know that's it
+Reddit cor stack Overflow they're going
+to just get taken out I this is I think
+this is going to be the new mod did
+around actually didn't cor raise uh 50
+500 recently I think they're going to
+get taken out I I I I think these
+businesses will become too valuable
+because they do have ongoing content
+that
+used to run you started web blogs
+right and but think about the value of
+that content today it's negligible like
+it was very valuable at the time and as
+time went on more content was being
+created a 100 times a thousand times
+10,000 times more content that started
+to overshadow the value of that content
+at the time the acquisition was done it
+made a ton of sense but all of a sudden
+two years later particularly with the
+rate at which data is growing on the
+Internet it's like does it make sense to
+buy any content anymore so you well on
+the other side of that is historical
+content could be worth a lot of money
+especially some could be so if you had
+the Charlie Rose archive as an example
+what is you know he's probably
+interviewed Kissinger 10 times and he's
+interviewed Kissinger for you know 10
+hours I've got two almost 2,000 episodes
+of podcasts I've done with startups over
+13 years like yeah this weekend startups
+archive is going to be worth something
+at some point right I don't think it's
+worth what are old baseball games Worth
+right like I mean yeah they're
+rewatchable and I don't think the data
+from them is particularly important so I
+I agree on that one but historical yeah
+we don't know but and I just question
+how much of reddit's content is actually
+like long-term valuable versus like
+they're covering a topic and they're
+talking about interesting stuff and
+then later it's a really really
+excellent point yeah and we'll figure
+that out okay and that's why I think
+it's like it's the early days of knowing
+how to Value all this content
+particularly for llms and so we don't
+really know yet over the next year this
+will all start to become clearer but
+it's it's again same thing happened in
+music licensing yeah right but if if all
+the content creators could kind of
+unionize then it might increase that's
+kind of like the yeah like music music
+industry has ASAP socialist I love it
+well I'm not I'm not advocating for this
+but the point I'm making is if they
+can't unionize then there's a lot
+there's just a huge number of vendors of
+content and so models will need to buy
+some but as long as they can get some
+they don't need to have all and
+therefore it's basically highly
+competitive among suppliers and there's
+a very limited number of buyers so that
+tends this is why the news industry
+should have always had a federation
+because they could have just said to
+Google hey we're going to de-index
+ourselves from the Google search engine
+and so you won't have the New York Times
+Washington Post LA Times you're just not
+going to have any of us unless you give
+us X Y and Z and they were just too
+stupid and not coordinated to do it yeah
+music industry the exact opposite you
+you try to do anything with the music
+industry they're going to come down on
+you like a ton of bricks to this day I
+see what
+that's actually really interesting yeah
+if all the um old school Legacy
+newspapers and magazines magazin so on
+basically formed their own whatever Cel
+trade Association yeah that would have
+been powerful yeah I mean that's what
+Murdoch wanted Murdoch saw it clearly he
+was like you know Google's the enemy
+here they're going to take all of our
+revenue and they're going to get all our
+customer names and we're not going to
+even know the names of our customers all
+right issue three clowner crushes
+customer queries with AI you may have
+seen this trending on X and Twitter and
+in the Press if you don't know Clara
+they're a Swedish ftech company they do
+that buy now pay later stuff I think
+they were The Originators of that online
+and they put out a press release with
+some really eye popping claims AI
+assistants are now doing the work of 700
+full-time agents at CL they moved issue
+resolving times from 11 minutes with
+humans to 2 minutes with
+AI and customer satisfaction is on par
+with human
+agents and it said it's resol ions are
+more accurate than humans creating a 25%
+drop in repeat inquiries that tracks and
+so far their AI which they built with
+open AI has had 2.3 million
+conversations accounting for 2third of
+cler's customer support service chats
+cler estimates its AI agent will drive
+wait for it a $40 million increase in
+profits this year we could talk a little
+bit more about cloner and their
+valuations but freeberg what what do you
+think this means if we're in year this
+is the start of year two of chat GPT as
+like a phenomenon let's say what do we
+think year three looks like I think the
+tech the techn pessimist point of view
+is oh my God look at all these jobs that
+are getting lost I think the optimistic
+point of view is that that company has
+all of that excess Capital now to
+reinvest in doing other things that
+Capital doesn't just become profits that
+flow out the door and everyone's done
+with that money and that money just gets
+put away in a sock that money gets
+reinvested and that money gets
+reinvested invested in higher order
+functioning work and that's really where
+there's an opportunity to move the
+workforce overall forward which is what
+I think is super exciting and um I'm
+super positive about we've seen this in
+every technological Evolution that's
+happened in human history from you know
+the plow in agriculture to automobiles
+to Computing and to now ai that you know
+humans moved from manual labor to
+knowledge work to now ideally and
+hopefully more creative work and so I do
+think that it isn't just about
+eliminating jobs and making more money
+but it's about enabling the creation of
+entirely new class of work whether
+that's prompt
+engineering or you know building
+entirely new businesses that simply
+can't exist today or perhaps even
+downscaling businesses where you no
+longer need to have a 10,000 person
+organization smaller organizations can
+be stood up as startups to start to
+replace large functioning organizations
+so I don't know I think it's a time of
+great opportunity I know that some
+people would view it as being highly
+shocking I think it's inevitable that
+knowledge labor where the job of the
+human is simply the ingestion of data
+and then communicate an output of data
+seems like it will eventually be
+replaced by Computing somehow and this
+is happening now in an accelerated way
+with these llms so I think that what we
+should focus on and think about is what
+are all the new businesses all the new
+jobs all the new opportunities that are
+just couldn't have existed 10 years ago
+that are now emerging that are very
+exciting as the workforce transitions
+sacked You by this techno utopian view
+of this all these jobs that are going to
+obviously be retired are going to open
+up the opportunity for these humans to
+do even better work at clana or do you
+think it's just going to go straight to
+the bottom
+line well it sounds like they're able to
+eliminate a lot of Frontline customer
+support roles by using AI which is what
+I would expect yeah I think this is a
+very natural application for AI you know
+it was already the case that you could
+pretty much find answers to questions by
+searching the FAQ things like this this
+this is an even better way of doing that
+so so look I I believe that this will be
+a big area for AI is saving on again I
+use the word Frontline customer support
+because the way that customer support is
+typically organized is there's level one
+level two level three the more difficult
+queries or cases get escalated up the
+chain depending on how hard they are and
+I think the AI will do a really good job
+eliminating level one it'll start to
+eating to level two but you're probably
+going to
+need humans to deal with the more uh
+complex cases now the question is where
+do those displaced humans go I think
+there's going to be new jobs new work
+that's always been the history of
+technological progress and one of the
+things you're already seeing is there's
+a whole bunch of new AI companies that
+are exploiting this technology and they
+need to hire people so I basically agree
+with freeberg that you will Elevate
+people's work by automating away the
+less interesting parts of people's jobs
+and then creating more productivity and
+more opportunity by the just to use your
+just to use your example sacks so
+imagine if all the level one support
+people some chunk of them can now do
+level two support and so the customers
+are going to get greater Hands-On care
+more customers will get access to a
+higher level of service the organization
+can afford to do that they'll be more
+competitive in the marketplace because
+customers feel better taken care of I
+just think that's how the organizations
+get leveled up as new technology kind of
+shows up like this it's a great point
+and then those folks can have a much
+deeper level of interaction with with
+their customers than they are
+todaying question gets more complex and
+then people might get better at the
+software and they might discover new
+features that you might be able to
+redeploy those people if you look at
+coffee like I don't know was it 40 years
+ago you went to order a cup of coffee it
+was decaf or regular coffee milk and
+sugar those are like those are your four
+choices and and now you go order coffee
+I don't know if you guys have used the
+Starbucks app or the you know I just had
+the sweet green CEO on the Pod and man
+you can the Fidelity and and the Nuance
+of what you want to order is absurd Jam
+where do you think this is all heading
+because there is the issue of
+displacement how people how quickly
+people can re be redeployed and if we're
+seeing in year two customer support and
+developers getting 10x what other
+categories do you think we're going to
+see fall next I think the truth is that
+as you said the real world applicability
+to AI was not last year so I think we're
+really in the first five or six weeks of
+the first year
+so you consider that year zero that's
+year zero that was sort of like the you
+know where everybody was running around
+building toy apps Pro of concept this is
+one of the first few times where you're
+seeing something in production where
+there's measurable economic value and
+the important thing to note about that
+is that it's not just what it means for
+Clara but what it means for everybody
+else so if you look at everybody else
+for example here's Teleperformance which
+is a a French company that runs call
+centers they lost $1.7 billion of market
+cap when that tweak went out about 20%
+of their market cap so this is this is
+the real practical implication Yes Clara
+replaced 700 people and they saved 40
+million of Opex but teleport 4 months
+while they were just doing their
+everyday work lost 1.8 billion of their
+market cap at the exact same moment and
+so what does it
+mean I think that what Clara should do
+is open source what they've built and
+the reason is that you want to give
+companies like
+Teleperformance a chance
+to retool themselves with the best
+possible technology so they they can
+actually preserve as many of the jobs as
+possible because at the limit if every
+single company is able to implement
+something that is as economically
+efficient as what Clara did
+Teleperformance doesn't exist and
+there's 10 billion and 335,000 employees
+that will not have a job Y and so for
+Clara the reason to open source it is
+twofold one is they don't lose anything
+because you will still need to train it
+on your own data and so there's no
+disadvantage that Clara will have right
+they're just saying look I built this on
+top of GPT here's what it looks like and
+that production code can be used by
+anybody else go for it but it has to run
+on your own data that's a very
+reasonable thing so I think it has the
+benefit of both a setting a technical
+Pace that can help them attract better
+employees and more highly qualified
+people who find the scope of work even
+more interesting and B I think it's on
+the right side of history with all this
+AI stuff where it's allowing everybody
+to sort of benefit in a way that is the
+least destructive but I just wanted to
+show you that the destruction was quite
+quick and it was pretty severe and if
+two or three other big companies launch
+these kinds of tweets after real
+measurable results Teleperformance will
+be a 1 billion doll company short in
+short order there's a third reason I I
+think it's a brilliant idea for clar to
+open source this this tool because it's
+not their business right this is just
+something they did as a as a
+productivity Improvement they get the
+benefit back to them of the community
+working to advance that technology so
+they don't have to put more Engineers
+like advancing the ball on their
+customer support AI totally they can
+just re remerge in the changes that the
+open source Community comes up with and
+since they're not in the business of
+selling AI directly there's no reason
+not to do it like jamas said so I think
+it's kind of brilliant yeah this is meta
+strategy by the way I mean z should be
+building this on meta's Open Source
+Products and Apple's Open Source
+Products right SX yeah well so what what
+meta said what Zuck said on the last
+meta call is the reason we open source
+everything is because we don't directly
+sell AI we create products that AI makes
+better so by open sourcing this we allow
+the community to advance the ball and we
+get to reincorporate those changes so
+it's a very smart strategy for companies
+that aren't directly selling the AI now
+you know if you're if you're like Brett
+Taylor's new company Sierra obviously
+you're not going to open source it
+because your whole business model is to
+create a proprietary solution yeah but
+then to chat's you know 8090 whatever he
+was talking about the with his you know
+incubator concept and you know these
+things it's a company it's a company
+okay sorry um is it 8090 or 980 I'm
+sorry 8090 yeah 8090 is there a third
+word that comes off of it are just G to
+call it 890 just 8090 got it okay 80% of
+the features at a 90% discount so back
+to that like what does this mean if
+these things are getting to freeberg
+your point about the pace man the pace
+of these things is it going to improve
+10% a year or 10% a month if it's
+improving 10% a month we're going to get
+to 98% of queries done this year if it's
+doing 10% a year okay we're going to get
+to 99 or 98% of queries in four years in
+other words this is happening folks and
+it's happening at a blistering Pace by
+the way think of it's so not just
+Teleperformance which is a it was A10
+billion now a $ 7.58 billion USD company
+but think about zenes right zenes was a
+I think A8 to1
+billion yeah it was A10 billion take
+private in the hands of PE the entire
+zenes workflow could be replaced by a
+handful of these open source agents
+where all of a sudden people can
+eliminate a lot of opacs I think the I
+think the thing to keep in mind here is
+where the world is going has always been
+to try to lower cost and the original
+foundational principle of SAS was that
+there's these line items in on-prem
+software that are just extremely
+expensive over time very hard to justify
+right and so when people moved to SAS
+from on Prem they were looking for cost
+savings that was the initial thing now
+yes it's actually not cheaper anymore
+but it's much more featur so you get a
+lot more value in SAS etc etc but the
+point of these AI agents and Bots and
+workflows is that it'll reintroduce the
+concept of cash of of cost Savings of
+this idea that you can have cheaper
+faster and better and the more that that
+stuff is open source my gosh I think it
+just makes it very hard for companies
+that have Point products to survive yeah
+we I was talking to a friend of mine
+Josh MOA who was the city head
+of uber in New York and he launched his
+own note-taking app he's writing it
+himself and he's obsessed with this
+concept of building a billion dollar a
+unicorn company with one employee and
+this is something that a lot of people
+have been talking about my friend Phil
+Kaplan from DH kid built a very large
+business in District a unicorn with a
+very like I think low single digit
+number of people this could be the
+future of you know efficiency you you
+could build if you catch fire with a
+really hot company that gets a million
+custom absolutely the future it's
+absolutely the future and then if you
+think about our jobs in terms of capital
+allocation well how much Capital does
+that founder need do they need to dilute
+10% 20% 30% they're not going to need to
+delute 60 70 80% a oneperson company
+should be able to spend less than a few
+hundred grand to get to product Market
+fit in the next few years yeah I mean
+that's that's kind of what we're seeing
+just to go back to your question J like
+where does this go next yeah please I
+think it's it's it's really interesting
+to speculate about that so what Clara
+seems to be talking about are
+email-based customer support cases I
+think we're this going to go next is to
+phone 100% and these call centers use
+what they're called ivrs these
+interactive voice response systems but
+they're very rigid it's a lot of
+pre-recorded messages and it says push
+one if your problem is this push two if
+your problem is this everyone hates
+those things yeah I think where it goes
+next is you'll call up the call center
+and you'll get a a voice that sounds
+like a human just talk to you yeah and
+you won't even necess realize that
+you're talking to an AI because they're
+already these AI companies that can do
+generative voices any language any
+accent oh and they're fast now and
+they're fast and multi language think
+about that just localizing them across
+the globe you know you want to launch
+your product in Japan by the way did you
+guys see there was a meta demo which I
+thought was really cool which was it was
+run on Lama 70b but it was a real-time
+translation tool where the person was
+speaking in hen Chinese and the and the
+other person was speaking in English and
+they were able to understand each other
+but saxs to your point when that person
+calls for example B OFA now Spanish is
+not a language it's actually many
+dialects and many many many different
+accents right depending on which country
+you're from like the accent that you
+hear in Spain is totally different than
+the accent in El Salvador the accent in
+Chile or Argentina and so wouldn't it be
+amazing where you you call your bva app
+it picks up your accent and your
+tonality and it responds with the person
+of that exact same accent and tonality
+that is incredible well I'll take it to
+another level you call it recognizes
+your number it knows what you're doing
+in the software it knows the problem
+you've had it knows the last three times
+you called and how long you've been
+using the software and it anticipates
+like okay I know this person has a
+Windows machine and it's you know still
+5 years old and it's like are you still
+using that same 5-year-old Windows
+machine yeah we know it's a bug with you
+know Windows whatever uh you should
+probably upgrade I mean it's going to
+know the entire context of this and so
+it's going to just get it could be more
+efficient than a human could ever be the
+best customer support interaction I had
+was I called JP Morgan Chase because I
+had an old credit card that I had had
+for 20 years and I think that they had
+outsourced it to somewhere in the
+Caribbean and this woman picked up the
+phone it was so cool jamat what is the
+problem man and I was like oh this is
+the best and I had this whole
+conversation with her for 15 20 minutes
+nothing to do with the phone uh nothing
+to do with my credit card rather it was
+great she's like I man you want to
+cancel your card I was like yes please
+no but you could do celebrities best
+yeah celebrity voices yeah J Cal do the
+djt okay let's let's role play uh you're
+Donald Trump okay and I and I am JP
+Morgan hi Mr President chath you're huge
+you've got big spending I every time I
+go see chath go see yourth I go in
+amazing Mr Mr President I would like to
+cancel my credit card sir okay you don't
+want to cancel it we've got a great a
+3.9% but for jamas you know what he's my
+Sri Lankan friend how much do we love
+Sri Lankans
+okay huge and not jcal nasty nasty man
+jcal very nasty he acts like a dog a dog
+okay he's a dog some people say
+TDS how much do we love our sex Saxy
+poop great Mar Lago I go to Sax's house
+his house huge huge
+house almost as big as Maraga not quite
+I gotta work on it because I haven't
+done it for years that's really good
+it's really good have you seen that guy
+there's a there's a new like Impressions
+guy who's amazing he does seen him he's
+on Howard Stern all the time right he
+does the Howard no not Shan Gillis this
+is another kid Matt freed friend yeah
+yeah yeah does Howard back to Howard
+it's wa that video is good too hold on
+Donald on other Trump Impressions so
+like I'll tell you what Zack there are
+so many people that try to do it you see
+the failed Alec baldwi Baldwin comes out
+on SNL which used to be a lot funnier
+back in the day with chff but Baldwin
+goes like this he goes we've got a great
+show I don't do that I never say boy boo
+this St coar he comes out like I know a
+do do dot a DOT do a dot dot dot a China
+I don't say the D and the last one is
+Jimmy failing fell and he touched my
+hair like a dog and Jimmy fa and he goes
+okay look like dog we're rolling okay I
+don't do these moves they're all wrong
+so that's
+a
+incredible can let's see him doing uh
+how got see him do Howard Stern it's
+Next Level the other one he does that's
+incredible but subtle is Stanley Tucci
+how are you by the way Robin you look
+beautiful right thank you is this still
+you up Howard it's me up right yeah
+right because when I start talking to
+Robin after you leave I get crazy you
+know right can we just talk about this
+can we
+talk right or wrong right right right
+right Howard left or right right uh
+right right right right right right
+right on red right right right right
+it's so great he is killing it I think
+we have our halftime act for the all in
+Summit 24 oh for sure oh my God yeah
+he'd be amazing I love Stanley Tucci by
+the way he's great oh you got to see
+this kid Stanley
+Tui have have you guys watched the
+Stanley Tui on HBO where he cooking yeah
+where like he goes to Italy it's so
+great it's so great he does it on Tik
+Tok too he just randomly cooks something
+and he's like I'm going to make a
+frittata I have some over Yi and I'm
+just going to I do watch him on Tik Tok
+Thanksgiving is a special time I'm in
+London celebrating so today I'm making
+St stuffing and also Sugo de car or as
+it's known gravy now the thing about
+stuffing is you might use a traditional
+white bread but in my household I use a
+homemade fatea because I'm Italian on
+both sides and nothing tastes better
+than bread with a little M SAU
+it's a time for gratitude and giving
+thanks enjoy your holidays and thank you
+very much Felicity good that is really
+good he's so good he's so good all right
+listen I don't know how I keep the show
+going here but three two okay Issue four
+reddits S1 is kind of fun let's break it
+down everybody 2023 Revenue 84 million
+up 21% year-over-year they're still
+losing money uh net loss 91 million in
+2023 they lost 159 million in 2022 so
+they're cutting the loss free cash flows
+negative
+here's a chart of their quarterly
+revenue and cash flow so they're kind of
+bouncing along the break even Mark as
+you can see there in the chart they got
+a wonderful gross margin because they
+don't pay to produce the content unlike
+the New York Times or Netflix and so an
+86% gross margin up 2% year-over-year
+their daily active unique 76 million up
+27% year-over year average revenue per
+user is incredibly low three bucks and
+42 and their daily active unique users
+uh here you can see another chart
+growing nicely quarter over quarter they
+got a billion two in cash most
+interesting probably uh and could be
+challenging to execute on is their
+direct share program they're going to
+carve out a bunch of shares in the IPO
+to sell to their most active mods those
+are the moderators the people who run
+the different channels or subreddits as
+they're called what could go wrong what
+could go wrong wrong we've seen this
+movie before
+and uh but they're going to invite you
+since to participate on it on a rolling
+basis more
+unqualified retail buyer pool does not
+exist in the Reddit mods except maybe
+the Reddit participants W Street bat
+knows what they're doing yeah I think
+they'll buy the uh I think they'll buy
+after the lock up comes up but let's
+just get started here I think you looked
+at the S1 a little bit freeberg and you
+had asked us to you asked me to put on
+the docket because you were you were
+digging into it anything stick out to
+you or thoughts on the business overall
+no I mean I wasn't pulling I just asked
+if you guys had read it
+umy um I hey I think I made a funny
+joke read it accient get it I I'll let
+you guys go on for a minute go ahead go
+ahead tell me when you're
+ready it was a good pun too bad it was
+accidental no it was it was intend I'll
+give you credit it was we'll give it to
+you so I think the the thing about
+Reddit if you could pull up the chart
+with the quarterly average daily active
+user data this was a business that the
+last couple of years everyone was like
+had flatlined because it was only
+growing 5% a year in terms of usage and
+then all of a sudden in the last two
+quarters so starting in late summer
+early fall of 23 so just six months ago
+the usage started to climb pretty
+significantly growing 15 and most in the
+most recent quarter 27% year-over-year
+absent that growth story it's a really
+challenged business because a business
+without much growth gets value typically
+on a multiple of the cash flow that
+they're generating and you know there's
+less upside and all this kind of
+optionality goes away that's kind of a
+key point I I don't know I think like
+for you to make an investment at a $5
+billion valuation here you've really got
+to believe that the growth continues at
+this rate and it doesn't revert back to
+the mean growth rate of the last couple
+of years of basically 5 % which is
+roughly flatlined the other challenge
+they have is that their AR only in that
+kind of $3 range which is like less than
+10% of where Facebook is at and the data
+that Facebook collects on their users
+gives them the ability to do much better
+targeting on ads and therefore monetize
+Their audience much better than Reddit
+has been able to do to the order of over
+10x and then if you look at the arpo
+number how much they've been able to
+grow that metric it's also you know been
+a little bit flatlined so this business
+I think is a real question mark I mean
+you could argue it's probably worth in
+the best best case in the2 to3 billion
+kind of valuation range and then you
+have to believe the bull case that the
+growth continues or accelerates from
+here and they have a plan to address the
+arpo problem they have other paths for
+monetizing Their audience than what
+they're kind of doing today what do you
+guys think this thing's worth do you buy
+it if it goes out at three billion or
+five billion I think the first question
+which you nailed that of buysight
+investor will ask is what happened in
+the last two quarters that was different
+than the last 15
+quarters that's going to be a very
+important question and I think they're
+going to have to have a very buttoned up
+answer for that right and if they can
+point to very specific repeatable things
+I think that'll be good the thing that
+they this IPO if it goes off in the next
+four weeks they won't have to wait but
+if it doesn't get off in the next four
+weeks they'll have to update the S1
+probably with
+q1 and so you'll see whether this thing
+is a trend or whether it was a one-time
+thing do you know what it is well the
+growth in the logged out is probably
+largely because typically if you use it
+on a
+[Music]
+phone it tries to force you to use the
+app right so that you can be in this
+logged in experience and if you just
+turn that off you can get a lot more
+logged out because Reddit gets
+tremendous rank Authority from
+Google so if you just if you just turn
+that off I think that you'll have a lot
+of logged out customers and that will
+grow very quickly and so maybe it's a
+decision that they'd rather have the
+Topline number grow than have logged in
+users grow but the logged in user growth
+has still been pretty healthy it's
+basically doubled in the last three
+years so but to your point freeberg if
+they said or our business is really only
+these 30 odd million logged in users it
+would be worth a lot less than saying 75
+million I think it's I think you're
+right it's kind of like in the mid you
+know kind of two three four billion
+dollish range the the big problem is the
+arpu because these are not
+users that represent sort of Facebook's
+bread and butter kind of a $40 arpu
+lives in a good suburb in the United
+States and is monetized like
+crazy I just don't think that's what
+these users are but you could see that
+as a challenge or opportunity because if
+their RP is only 10% of Facebooks
+there's a lot of Headroom there to grow
+it if those users become economically
+more valuable RP is actually down 2%
+year over your sex the issue with this
+user base is they're incredibly
+sophisticated internet users who don't
+click on ads and are kind of anti- ads
+as opposed to you know the the general
+population on a Facebook or a generic
+service and it's Anonymous so you don't
+know who the user is which is how
+Facebook has such incredible demographic
+targeting capabilities there's been a
+lot
+of conspiracy theories longc con
+theories that came up Sachs that we were
+talking about on group chat maybe you
+could summarize this
+long game that was played by Sam wman
+and the allegedly founders of Reddit to
+wrestle control of Reddit back from
+their previous corporate owner
+kest well this was a post by Yan who is
+a former CEO of Reddit that was
+published back in I think 2015
+and he kind of lays out what I think
+happened or I mean he says at the end
+just kidding but if he's the former CEO
+describing these events he must be
+describing something he knows about I
+would just
+think but in any event what happened is
+that Reddit was sold for only about $10
+million a year after it launched so like
+really really small and I think that it
+kept growing and the founders realized
+maybe they made a mistake or that this
+was actually a bigger property and so
+they started scheming on how to get
+Connie Nas to spin it back out and so
+Yan lays out the steps they went through
+they
+recruited a CEO who they kind of
+pre-agreed on then they had that CEO
+demand options specifically in Reddit
+from Ki Nast which meant that Ki Nast
+had to create a separate cap table for
+it and then once they had a separate cap
+table as a subsidiary of Cony Nast then
+they could sort of pressure to have like
+an outside investor bought in for the
+expertise that just happened to be Sam
+Alman and his
+fund and you know eventually like step
+by step they worked it to the point
+where they got Connie asked to spin off
+the
+company and I guess this plan worked now
+it should be said that the largest
+shareholder in Reddit according to the
+S1 is Ki Nas or Ki Nas parent company so
+no one's going to benefit more from this
+plan if you want to or scheme if you
+want to call it that than Connie n it
+was a smart thing for them to do to spin
+out Reddit to allow the employees to
+have options and then I would say to
+bring back the founder Steve Huffman as
+CEO several years ago so great it worked
+out for everybody you know who knows if
+it was all premeditated so if they own
+30% and it goes out for five billion
+they got 1.5 billion and they paid 10
+million for it
+so
+that's a Web 2.0 1.0 2.0 no it's it
+launched in 2005 2.0 the same time as
+like web logs Inc and delicious and
+Flicker and all that that whole cohort
+of little web apps that used Ajax and
+other things to you know the web was
+just getting faster and there were a lot
+of users well anyway congratulations it
+was it was smart for Cony Nas to do the
+spin out and give up 70% in order for to
+have 30% of what's going to be a
+multi-billion dollar IPO great outcome
+for everybody all right issue five five
+Apple doesn't have a fast car project
+Titan is DBA dead before arrival apple
+as you know has been working on an
+electric vehicle for a decade
+self-driving as well they've invested
+billions in the project according to
+Bloomberg and apple was targeting 100K
+price point basically going after the
+model S plaid with FSD company had 2,000
+employees working on this project it was
+called Titan and they had designers from
+Austin Martin Lamborghini Porsche
+according to the report most of the team
+will be transferred to Apple's
+generative AI division we talked a
+little bit about Maggie their um
+generative AI image language model
+there's going to be some layoffs it's
+unclear how many what does building a
+car have to do with building an llm well
+they were yeah so they weren't just
+building a car they were all in on
+self-driving and not having a steering
+wheel so I understand I'm just saying it
+doesn't make a lot of sense that 2,000
+employees that were specialized in
+building a car all of a sudden now
+become the AI
+team it would be more like the full
+self-driving team is probably getting
+those AI jobs and the rest are probably
+getting laid off with Incredible
+packages but what do you think sax I was
+always skeptical that Apple was even
+working on a car it's just a very
+different kind of product than anything
+else they make and so I never really
+treated it that seriously that they were
+going to make a car so I'm not I the
+surprise to me is not that they canceled
+this but that the that it was even true
+that they're working on it in the first
+place yeah no it was it there were
+reports of them having test tracks and
+everything it was pretty well
+established and you could see that
+people from Tesla and other places had
+does it say why they actually killed it
+no this is just a
+report and I the speculation is that
+they're going all in on AI they just see
+that as a much better future well I
+think it's more core to what they do I
+mean the car never seemed that
+core no and uh there were reports and
+elon's talked about it publicly so we're
+not speaking out of school here or
+anything but
+that Elon and apple had and Tim Cook
+reportedly had talked or there have been
+overtures that maybe Tesla was going to
+get bought and Elon it's been pretty
+clear that during the model 3 roll out
+he was considering selling it to Apple
+that would have been a smart acquisition
+if they had done that can you imagine
+all the Apple showrooms having a Model S
+in it or something or a model y I mean
+boom they would have just sold so many
+of them and having the Apple operating
+system on that display well wait was it
+before the Model S came out or the model
+3 it was model 3 was the time I think
+they were talking seriously but remember
+like no one really believed in the model
+3 till it came out and started selling
+like hot cakes the opposite they thought
+it was going to kill the company right
+all right everybody for the Rainman
+David Sachs chairman dictator chth p
+hoaa and consultant of science David
+freeberg I am the world's greatest
+moderator and we will see you next time
+byebye gr
+GR
+we let your winners
+ride Rainman
+David and instead we open sourced it to
+the fans and they've just gone crazy
+with it love queen
+[Music]
+of
+Besties my dog taking
+driveways man oh man
+meet me we should all just get a room
+and just have one big huge orgy cuz
+they're all this useless it's like this
+like sexual tension that they just need
+to
+[Music]
+release we need to get
+[Music]
+merch

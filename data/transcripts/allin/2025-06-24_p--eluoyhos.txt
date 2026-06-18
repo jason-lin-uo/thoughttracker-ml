@@ -1,0 +1,319 @@
+# Which Company Is Going To Win The AI Race? - David Friedberg
+# https://www.youtube.com/watch?v=p--eluoyhos
+
+Who's your number one? Who's your number
+two if you had to could only bet on two
+here to achieve super intelligence AGI
+let's just say win the AI re win the AI
+uh big prize the big prize super
+intelligence AGI you know in the midterm
+five years five years from now we're
+sitting here Thomas give me your number
+one give me your number two look I I
+think to me number one I I still think
+Nvidia right I don't see the GPU kind of
+getting displaced I see additional
+architectures kind of coming on board
+right and growing the market, but um at
+the end of the day, all roads still lead
+to the GPU for all of these models. So,
+I would kind of still put um kind of
+Nvidia on that. My number two, more of a
+dark horse, but I I would pick Tesla.
+I do think it has the most potential for
+vertical integration, right? From all
+the way the silicon to the model to
+actually the hardware, right? That might
+become super important, not just in
+cars, but in Optimus. So, Nvidia 1,
+Tesla is my dark horse. Wow, stunning.
+Chimath, who's your number one and
+number two? In the midterm, 5 years from
+now, we're sitting here on AllIn episode
+700. Tesla's one and Google's two. And
+the reason is because they are the
+closest to having that vertically
+integrated stack that I spoke about. I
+think that Tesla has the best vision
+models. Now with XAI, they'll have one
+of the best LLMs and reasoning models,
+and they'll be able to eventually stick
+that on Dojo. And then all of that will
+be in all of the physical AI that you
+will interact with in your daily life,
+whether it's a robot or whether it's a
+car or whether it's a robo taxi. So
+that's number one. And then number two,
+for many of the same reasons, I think
+Google, because you'll have the Gemini
+family of models, which just absolutely
+kickass, like VO3, which we haven't
+really spoke about, is going to destroy
+Hollywood, like in the next year. Like
+Hollywood is done, I think, but they're
+landing model after model. They have the
+TPU, and the next generation TPU, I
+think, is exceptional. They're baking
+quantum and then they have an entire
+funnel of billions of people that they
+can direct experiences to. So Tesla one,
+Google 2. Chimath, quick followup on
+that. I'm curious on Google. This is the
+because I I oscillate a lot on this
+particular name. Can Google win if
+search declines? Yes. And I think that
+what probably has to happen is bear with
+me when I say this, but if you had to
+boil down Google's economic northstar
+metric, right? not the value northstar,
+the economic northstar metric would be
+price per click.
+And I do think that Google is extremely
+well positioned to pivot that to price
+per token. And I think that they have
+some emerging classes of physical AI,
+but they have the largest pool of people
+where they can generate a price per
+token value framework through YouTube,
+through Gmail, through Workspace. I
+think through search, but probably it's
+a different kind of model. It just
+requires them to rip the band-aid off at
+some point. But yeah, I think Google can
+do it. I'm going to go with you,
+Chimoth. I'm one uh my one and two are
+either Google uh or Elon. And I I'll
+just say Elon because I uh like you, I
+spent a day up at um XAI and I saw what
+a magnet for talent he is. I got to sit
+in some meetings and just he was
+interviewing people and he was working
+with that talent. 8:00 at night. There's
+a lot of people there on a Saturday
+grinding it out. It was nuts. I first
+went to XAI.
+In the 15 minutes that I was in the
+parking lot finishing a call, the kinds
+of people that were walking in and out
+of there, you could tell they were big
+brains. Yeah. I don't know how, you know
+what I mean? Like from every walk of
+life, they all just looked much smarter
+than the rest of us. Yeah. It some of
+them were like chain smoking cigarettes
+and just like stressed out. It was
+crazy. I hit a couple of zins. I'll be
+totally honest. Um, but the reason I say
+Elon versus Google is I think Elon's in
+a unique position. I don't have any
+insider information here and and I
+haven't talked about this or I'm not
+back channeling from Elon lest anybody
+aggregate this. I think what Colossus
+has done and what Tesla has done both of
+these things Tesla with their own stack
+of hardware to your point Shimoth
+hardware plus software plus the user
+application of FSD and Optimus. Then you
+put that together with the data, the
+real-time data of X, formerly known as
+Twitter, plus um you know what he's
+building with XAI and obviously those
+two companies merged. I think Tesla
+board, XAI board have to get together,
+put those two companies together. One's
+worth a trillion, one's worth 100
+billion. Put them and just have all that
+brain power going in one direction as
+opposed to Elon T switching between the
+two. You do that, I think he wins number
+one. you don't do that. I think he
+either gets one or two and then I think
+Google um is going to have a better
+search product. Thomas, I think it's a
+really important point. Do they lose
+search share? Doesn't matter. What I
+think matters is are their ads more
+effective? Is their ad network more
+effective? And I think based on what
+they know on you from your chat searches
+and your discussions and what they
+analyze in your email, just analyzing
+your Gmail and your surfing behavior and
+Chrome if they get to keep it, your
+Android phone if you use it, your
+YouTube list and what you how when you
+drop off allin and when you start
+listening to another podcast, whatever
+it is, all that data, all that data is
+going to lead to an ad network that
+performs so much better that even if
+they lose search hair, their ad network
+is going to continue to grow and I think
+it will increase in velocity. So, those
+are the my top two. Freeberg, I'm
+curious from your position,
+which one you think is number one and
+number two? I saved you for last because
+you know what we do here? We save the
+best for last. Free part, go ahead. I
+think there's a difference in how I
+would kind of lump them. I I think that
+Tesla probably has the it is the best
+place to invest if you want to have a
+shot at a massive new industry. So,
+they've got a baseline business in in
+obviously the automobiles, but I think
+this humanoid robot opportunity is
+absolutely mind-blowingly ginormous. And
+I don't think that there's a better
+company on Earth positioned to execute
+against this humanoid robotics
+opportunity than Tesla. So, you know,
+it's sort of like I would call it a low
+probability, high upside sort of call
+option embedded within that business.
+And obviously you're paying a premium
+for that because it is still a very
+healthy premium you pay for that
+business. I think Nvidia to Thomas's
+point I think the common thesis is it is
+the most protected. The durability of
+the business is there. But I would argue
+that there's actually a low probability
+but very high severity risk to Nvidia in
+China. There was just a demonstration
+last month of a 1 nanometer
+semiconductor manufacturing process out
+of China. I think the more that we
+continue to try and isolate China from a
+policy perspective, the more we are
+emboldening investment in China, meaning
+from the government, from private
+industry into China to create
+alternatives to the chip stack where the
+United States companies, particularly
+Nvidia, have emote today. So, I do think
+that there's going to be an emergent
+competitive threat coming out of China
+to Nvidia. And just like we were knocked
+over by DeepSeek, I think we will be
+knocked over by some semiconductor
+manufacturing processes um coming out of
+China in the near term. But the overall
+kind of by the way Dave just on that
+point I think Sax's work on the
+diffusion rule just generally I don't
+think has kind of gotten enough
+attention in the rescending of the
+diffusion rule which essentially
+handicapped our ability to even arm our
+allies right with our sem with our
+semiconductor technology um in my
+opinion was kind of a milestone and very
+important moment um to to try and offset
+exactly what you were just describing.
+That's exactly right. I mean, there
+there there was a report a few months
+ago and I mentioned it on the show or
+maybe I didn't or maybe I sent it to Sax
+and we talked about it offline. I I
+can't remember but it was about a $40
+billion investment being made in
+developing competitive semiconductor
+manufacturing full stack solutions out
+of China. So I I do think that the
+lithography IP moat is being crossed in
+China. I do think that China is
+developing actually new technology for
+uh DUV and EUV systems. I I do think
+that there's a risk uh to Nvidia's core.
+Now look, Nvidia is such a durable
+business. There's great modes, great
+advantages, but we're creating every
+incentive for an alternative to Nvidia
+to emerge from China. And then my my
+third kind of categorization would be
+what's the portfolio uh solution. I
+think that's Google. I think that
+there's a diversification of high beta
+bets inside of Google of any one of
+which could have call it a trillion
+dollar market cap outcome ranging from
+Whimo to quantum computing to the
+biologics work that uh Demis is working
+on out of um isomorphic. Uh there's a
+number of things that do not get a lot
+of attention at Google. So yes, there's
+a there's a core business that that may
+be at risk, Thomas, but I think that
+there's a a portfolio of options you get
+at Google, and you just need any one of
+them to hit to kind of make up for the
+loss. But I do think also Sundar in my
+interview with him, which we put out a
+couple of weeks ago, is very thoughtful
+about where search evolves to and he is
+being, I think, reasonably aggressive in
+in trying to evolve the search product
+architecture to meet the market, to meet
+the consumer. I do give him credit for
+that. So Google would be in a good place
+for me as an overall kind of pick in
+that set of options. So just to be
+clear, Nvidia one, Google 2 or Nvidia
+Tesla. Like I said, I think in terms of
+like having the right sharp ratio is how
+I would think about it. The alpha and
+the beta adjusted returns. I would put
+Google number one. I would probably put
+Tesla. Uh Tesla's valuation I think
+already has a premium associated with
+those options. So I don't know. Yeah. So
+I don't know if I would really pay that
+premium. I think um aside from the
+valuations, let's take valuations out of
+it. Just the the game here is who wins
+the AI prize 5 years. That's how I
+understood it as well. Yeah. So
+valuation irrelevant. Valuation
+irrelevant. Who wins the AI prize? One,
+you're saying Google. Two, you're saying
+Tesla. I think Google's in such a
+position. I I mean, look, Deus, uh,
+Demis, I think, has been fairly koi
+about where they are. They obviously
+promote Gemini 2.5, but there's a lot
+still coming. And it's and and as
+Chimath pointed out, it's not just LLMs.
+There's a pretty sizable family of
+models, including a a lot of these um
+graph-based models that are being used
+in really novel applications that no one
+else is even close to, no one's spending
+time on. I mean, some of the weather
+forecasting, it might seem small and
+trivial, but it's a demonstration of
+Google's competency in in core model
+development that shows an understanding
+and a depth of research and work that
+goes well beyond LLM. So, I'm pretty
+bullish on the depth of talent, the full
+stack. Yeah. And whatever they learn
+there could apply to Gmail, could apply
+to search, could apply to ads, could
+apply to YouTube algorithm, right? It's
+just goes up and down. Yeah. Yeah. From
+a product perspective, I do think you
+see this kind of multi-model emergence
+that that we're now seeing that no one
+talks about the single model that sits
+behind the application. There are
+multiple models that work together. And
+obviously this agentic architecture
+unlocks another layer of not just kind
+of solutions to complexity. Sure. And so
+there's there's quite a lot I think
+that's emergent here um that Google will
+start to kind of benefit from uh in the
+year ahead.

@@ -1,0 +1,326 @@
+# AI Czar David Sacks Explains the DeepSeek Freak Out
+# https://www.youtube.com/watch?v=j00YbDJwMNQ
+
+one of the really cool things about this
+job is just that when something like
+this happens I get to kind of talk to
+everyone and everyone wants to talk and
+i' I feel like I've talked to maybe not
+everyone in like all the top people in
+AI but it feels like most of them and
+there's definitely a lot of takes all
+over the map on deep seek but I feel
+like I've started to put together a
+synthesis based on hearing from the top
+people in the field it was a bit of a
+freakout I mean it's rare that a model
+release is going to be a global news
+story or called a trillion dollars of
+market cap decline in in one day and so
+it is interesting to think about like
+why was this such a potent news story
+and I think it's because there's two
+things about that company that that are
+different one is that obviously it's a
+Chinese company rather than an American
+company and so you have the whole China
+versus
+US competition and then the other is
+it's O an open source company or at
+least an open source the the R1 model
+and so you've kind of got the whole open
+source versus closed Source debate and
+if you take either one of those things
+out it probably wouldn't have been such
+a a big story but I think the synthesis
+of these things got a lot of people's
+attention a huge part of Tik tok's
+audience for example is international
+some of them like the idea that that the
+US may not win the AI race that the US
+is kind of getting a come up and here
+and I think that fueled some of the
+early attention on Tik Tok similarly
+there's a lot of people who are rooting
+for open source or they have animosity
+towards open AI
+and so they were kind of rooting for
+this idea that oh there's this open
+source model that's going to give away
+what open AI has done at 120th a cost so
+I think all of these things provided
+fuel for the story now I think the
+question is okay what should we make of
+this I mean I think there are things
+that are true about the story and then
+things that are not true or should be
+debunked I think the let's call it true
+thing here is that if you had said to
+people a few weeks ago that the second
+company to release a reasoning model
+along the lines of 01 would be a Chinese
+company I think people would have been
+surprised by that so I think there was a
+surprise and just to kind of back up for
+people you know there's there's two
+major kinds of AI models now there's
+kind of the Bas llm model like Chachi
+P40 or the Deep seek equivalent was V3
+which they launched a month ago and
+that's basically like a smart PhD you
+ask a question gives you an answer then
+there's the new reasoning models which
+are based on reinforcement learning sort
+of a separate process as opposed to
+pre-training and 01 was the first Model
+released along those lines and you can
+think of a reasoning model as like a
+smart PhD who doesn't give you a snap
+answer but actually goes off and does
+the work you can give it a much more
+complicated question and it'll break
+that complicated problem into a subset
+of of smaller problems and then it'll go
+step by step to solve the problem and
+that's that's called Chain of Thought
+right and so the new generation of
+agents that are coming are based on this
+type of idea of of chain of thought that
+that an AI model can sequentially
+perform tasks figure out much more
+complicated problems so open AI was the
+first to release this type of reasoning
+model Google has a similar model they're
+working on called Gemini 2.0 flinking
+they've released kind of an early
+prototype of this called Deep research
+1.5 anthropic has something but I don't
+think they've released it yet so other
+companies have similar models to 01
+either in the works or in some sort of
+private beta but deep seek was really
+the next one after open AI to release
+you know the full public version of it
+and moreover they open sourced it and so
+this created a pretty big splash and I
+think it was legitimately surprising to
+people that the next big company to put
+out a reasoning model like this would be
+a a Chinese company and moreover they
+would open source it give it away for
+free and I think the API access is
+something like 12th the the cost so all
+of these things really did drive the the
+new cycle and I think for good reason
+because I think that if you had asked
+most people in the industry a few weeks
+ago how far behind is China on AI models
+they would say six to 12 months and now
+I think they might say something more
+like 3 to 6 months right because 01 was
+released about four months ago and R1 is
+comparable to that so I think it's
+definitely moved up people's time frames
+for how close China is on on AI now
+let's take the um we should take the
+claim that they only did this for $6
+million on this one I'm with Palmer
+lucky and Brad gersner and others and I
+think this has been pretty much
+corroborated by everyone I've talked to
+that that that number should be
+debunked so first of all it's very hard
+to Val
+validate a claim about how much money
+went into the training of this model
+it's not something that we can
+empirically discover but even if you
+accept it at face value that $6 million
+was for the final training run so when
+the media is hyping up these stories
+saying that this Chinese company did it
+for six million and and these dumb
+American companies did it for a billion
+it's not an Apples to Apples comparison
+right I mean if you were to make the
+Apples to Apples comparison you would
+need to compare the final training run
+cost by Deep seek to that of open AI or
+anthropic and what the founder of
+anthropic said and what I think Brad has
+said being an investor in open Ai and
+having talked to them is that the final
+training run cost was more in the tens
+of millions of dollars about nine or 10
+months ago and so you know it's not 6
+million versus a billion okay it's a
+billion dollar number might include all
+the hardware they've bought the the
+years of putting into it a holistic
+number as opposed to the training number
+yeah it's not running it's not fair to
+compare let's call it a Soup To Nuts
+number a fully loaded number by American
+AI companies to the final training run
+by the Chinese company but real quick
+sax you've got you've got an open source
+model and they've the the white paper
+they put out there is very specific
+about what they did to make it and uh
+sort of the results they got out of it I
+don't think they give the training data
+but you could start to stress test what
+they've already put out there and see if
+you can do it cheap essentially like I
+said I think it is hard to validate the
+number I think that if let's just assume
+that we give them credit for the Six
+Million number my point is less that
+they couldn't have done it but just that
+we need to be comparing likes to likes
+yeah so if for example you're going to
+look at the fully loaded cost of what it
+took deep seek to get to this point then
+you would need to look at what has been
+the R&amp;D cost to date of all the models
+and all the experiments and all the
+training runs they've done right and the
+compute cluster that they surely have so
+Dylan Patel who's leading semiconductor
+analyst has estimated that deep seek has
+about 50,000 Hoppers and specifically he
+said they have about 10,000 h100s they
+have 10,000 H 800s and 30,000
+h20s now the cost of that s sorry is
+they deep seek or it's deep seek plus
+the hedge fund deep seek plus the hedge
+fund but it's the same founder right and
+by the way that doesn't mean they did
+anything illegal right because the h100s
+were banned under export controls in
+2022 then they did the H 800s in 20123
+but this founder was very farsighted he
+was very ahead of the curve and he was
+through his hedge fund he was using AI
+to basically do algorithmic trading so
+he bought these chips a while ago in any
+event you add up the the C cost of a
+compute cluster with 50,000 plus Hoppers
+and it's going to be over a billion
+dollars so this idea that you've got
+this Scrappy company that did it for
+only six million just not true they have
+a substantial compute
+cluster that they Ed to to train their
+models and frankly that doesn't count
+any chips that they might have beyond
+the 50,000 you know that they might have
+obtained in violation of export
+restrictions that obviously they're not
+going to admit to and we just don't know
+we don't really know the full extent of
+of what they have so I just think it's
+like worth pointing that out that I
+think that part of the story got
+overhyped it's hard to know what's fact
+and what's fiction everybody who's on
+the outside guessing
+has their own incentive right like so if
+you're a semiconductor analyst that
+effectively is massively bullish Nvidia
+you want it to be true
+that it wasn't possible to train on $6
+million obviously if you're the person
+that makes an alternative that's that
+disruptive you want it to be true that
+it was trained on $6 million all of that
+I think is all speculation the thing
+that struck me
+was how different their approach was and
+TK just mentioned this but if you dig
+into not just the original white paper
+of deep seek but they've also published
+some subsequent papers that have refined
+some of the details
+I do think that this is a case and Saks
+you can tell me if you disagree but this
+is a case where necessity was the mother
+of invention so I'll give you two
+examples where I just read these things
+and I was like man these guys are like
+really clever the first is as you said
+let's let's put in a pin on whether they
+distilled 01 which we can talk about in
+a second but at the end of the day these
+guys were like well how am I going to do
+this reinforcement learning thing they
+invented a totally different algorithm
+there was the the Orthodoxy right this
+thing called po that everybody used and
+they were like no we're going to use
+something else called I think it's
+called grpo or something it uses a lot
+less computer memory and it's highly
+performant so maybe they were con strain
+sacks practically speaking by some
+amount of compute that caused them to
+find this which you may not have found
+if you had just a total surplus of
+compute availability and then the second
+thing that was crazy is everybody is
+used to building models and compiling
+through kud
+which is nidia's proprietary language
+which I've said for a couple times is
+their biggest moat but it's also the
+biggest threat factor for lockin and
+these guys worked totally around Cuda
+and they did something called PTX which
+goes right to the bare metal and it's
+controllable and it's effectively like
+writing assembly now the only reason I'm
+bringing these up is we meaning the West
+with all the money that we've had didn't
+come up with these
+ideas and I think part of why we didn't
+come up is not that we're not smart
+enough to do it but we weren't forced to
+because the constraints didn't exist and
+so I just wonder how we make sure we
+learn this principle meaning when the AI
+company wakes up and rolls out of bed
+and some VC gives them $200
+million maybe that's not the right
+answer for a series A or a seed and
+maybe the right answer is 2 million so
+that they do these deep seek like
+Innovations constraint makes for great
+art what do you think uh freedberg when
+you're looking at this well I think it
+also enables a new class of investment
+opportunity given the low cost and the
+speed it really highlights that maybe
+the opportunity to create value doesn't
+really sit at that level in the value
+chain but further Upstream apology made
+a comment on Twitter today that was
+pretty funny or I think ref this about
+the raer he like out the rapper may be
+the the moat the the moat which is true
+at the end of the day if model
+performance continues to improve get
+cheaper and it's so competitive that it
+commoditized much faster than anyone
+even
+thought then the value is going to be
+created somewhere else in the value
+chain maybe it's not the rapper maybe
+it's with the user and maybe by the way
+here's an important point maybe it's
+further in the economy you know when
+electricity production took off in the
+United States it's not like the
+companies are making a lot of money that
+are making all the electricity it's the
+rest of the economy that Acres a lot of
+the value

@@ -1,0 +1,405 @@
+# When Tech Companies Lie to Us...
+# https://www.youtube.com/watch?v=-njHjebtIg4
+
+[Music]
+hey what's up mkbhd here you know tech
+companies straight up lie to us
+sometimes right like there's now there's
+different types of lies and there's
+definitely different levels to this
+honestly most of it is harmless
+but it is fascinating and i think you
+might be surprised by how much stuff we
+might take for granted that's not
+actually real so i and many other very
+optimistic people have been waiting for
+the new tesla roadster to be the first
+reasonable two-door electric sports car
+ever since it was unveiled five years
+ago in 2017 can you believe it's been
+five years they originally said it would
+come out in 2020
+and then 2020 came and went and it was a
+bit of a weird year so then 2021
+happened
+still nothing now it's 20 22. this car
+is probably not coming out until 2024 at
+least but you know maybe that's not a
+lie you know that's something they were
+actually trying and hoping to achieve
+and then it got delayed a while fine
+but there were a lot of other little
+things elon said on stage that night
+that were
+let's just say
+clever ways of framing certain
+information the new tesla roadster
+will be the fastest
+car
+production part ever made period 0 to 60
+in 1.9 seconds this would be the first
+time that any car has broken two seconds
+at zero to 60. so that
+actually turned out to be untrue because
+plaid model s came out last year and it
+also has a sub two seconds zero to sixty
+but these zero to sixties should have a
+little uh asterisk up in the corner next
+to it because they are with something
+called roll out subtracted so tesla's
+triple motor plaid model s is listed at
+a 1.99 second 0-60 and at least that one
+does have an asterisk on the site with
+the asterisk meaning with rollout
+subtracted so certain performance cars
+list their 0 to 60 time with a one foot
+of subtracted roll out which might sound
+a little weird but this is a metric that
+comes from the drag racing world
+basically when a car lines up to do the
+0-60 test or a drag test it's measuring
+whether or not you've started by whether
+or not your tire has broken the light
+beams across the starting line so
+there's one pre-staging light and one
+staging light seven inches later the
+clock starts when the tires are no
+longer breaking that plane but there is
+a small bit of speed gathered as the car
+launches before it stops blocking that
+first light
+and then the second light
+that is the one foot roll out a fast car
+can reach five to six miles an hour in
+that one foot roll out which cuts the
+reported 0 to 60 time anywhere from 0.2
+to 0.3 seconds that's actually a a
+bigger gap the harder the car launches
+so every real world test of the model s
+of people on the street going from 0 to
+60 or even on drag strip 0 to 60 it's
+always been measured at like 2.15
+to 2.25 seconds which is still
+absolutely ridiculous but by measuring
+with one foot rollout tesla was able to
+achieve 1.99 seconds i assume they
+achieved it at least one time in order
+for them to put it on their website
+because that's a way cooler headline and
+a way more impressive stat
+but that should have that asterisk next
+to it and i assume the tesla roadster's
+time was also measured with one foot
+roll out but it doesn't have the
+asterisk so is that a lie
+well no
+but that number can be a little
+deceiving without the extra context i
+said turn killing our code our battery
+pack 10 000 newton meters of torque if
+you know what that means it's just
+stupid
+so that 10 000 newton meters of torque
+is another one that's a pretty absurd
+number not that people are buying sports
+cars just for the torque number but that
+translates to about 7
+400 pound feet of torque which is just
+ridiculous for context here's how that
+would line up with some cars you may
+recognize some of the most famous
+fastest cars ever made seems a little
+hard to believe they're this far out in
+front right but torque is one of those
+numbers and metrics that's been around
+for a long time and it's a little bit
+different in gas cars versus electric
+cars so as explained so eloquently by
+donut media i'm going to link their
+video about that below the like button
+torque is a measurement of turning force
+and in this case the force being applied
+by the engine is turning the wheels so
+when manufacturers list the horsepower
+and the torque of a car they typically
+list the torque right at the engine
+crankshaft but by the time it gets to
+the wheels with parasitic losses of the
+drivetrain it's a lower number same
+thing with torque which also gets
+multiplied by the gear ratios in the
+drivetrain but electric cars don't have
+all those gears they have what's called
+direct drive and so they make a lot of
+torque through one large gear so after
+multiplication the number is much more
+impressive from the wheels than from the
+crankshaft at the motors so they've
+chosen to report wheel torque so the 10
+000 newton meter number that elon said
+for the roadster is likely
+perfectly legit very real it's not a lie
+it's just this new number is a little
+deceiving without the context that it's
+a different measurement of torque from
+what we've gotten from every other gas
+car for decades just a little extra word
+there wheel torque makes a big
+difference and this isn't just tesla by
+the way this is the same thing happened
+with the hummer ev which got announced
+that it would have 11 500 pound-feet of
+torque but as engineering explained also
+pointed this out when you divide by the
+gear ratios of each of the motors you
+end up at about a thousand pound feet of
+torque at the motors the way it's
+normally reported but let's shift gears
+a bit pun intended because you know at
+least we're talking about real products
+what teslas and hummers are gonna ship
+they're eventually real and that's great
+and on the other side of that spectrum
+is vaporware so vaporware is defined as
+a product that's been advertised but is
+not yet available to buy either because
+it's only a concept or because it's
+still being written or designed or built
+so is vaporware a lie
+i mean there's there's lots of vaporware
+everywhere i mean from sony's concept
+car at ces that i'm telling you is never
+going to ship as is
+to uh bmw's color changing ix from ces
+with the e-ink exterior it looks so sick
+but i think we all know that's not going
+to be a real car that we can buy but
+then there are also some real products
+that companies announce with the
+intention of making them
+and then
+things go a little sideways like do you
+remember samsung's bixby enabled speaker
+called galaxy home that looked like a
+barbecue grill that was announced in
+2018
+then a year went by nothing shipped in
+2019 there are people that started
+poking samsung and they had to come out
+and confirm with a statement that it
+wasn't canceled yet they're still
+working on it but then in 2020 samsung
+quietly removed all the coming soon
+verbiage from their site and wouldn't
+respond with any official statements
+about it so they're probably hoping we
+forgot about that one or how about air
+power apple spent a few minutes on stage
+raving about this new product a charging
+mat that would charge your phone and
+your watch and your airpods all at once
+and it was to be the future of charging
+this is not possible with current
+standards but our team knows how to do
+this yeah
+they didn't they didn't probably the
+biggest red flag was that at the actual
+event they had a single non-working
+dummy unit in the hands-on area and then
+everybody left and went home
+and air power just kind of quietly
+disappeared nobody ever saw or heard
+about airpower again eventually the
+airpower project was officially
+cancelled by apple i explained why that
+disappeared with the video up here that
+you can click or it's linked below if
+you want to watch that but i think the
+strangest tech company lies though
+come from
+industry standards or terms that are
+just straight up
+outdated because that's just the way
+they are they're not even lying on
+purpose
+and most of these come from the photo
+video industry and i don't just mean how
+someone might say oh we're filming
+something when really there's no film
+anymore we're recording or if somebody
+doesn't know
+because they're too young that the save
+button is based on a real physical
+floppy drive it used to be an actual
+thing you could carry it goes deeper
+than that for example the one inch
+sensor might have heard a lot about it
+it's not one inch
+it's not one inch vertically it's not
+one inch horizontally it's not one inch
+diagonally no part of a one inch sensor
+is actually one inch now you might have
+seen that point and shoots like sony's
+rx100 famously use a one-inch sensor or
+that there's even a couple new
+smartphones popping up like the sharp
+aquos or leica smartphone or the sony
+xperia pro i that have huge one-inch
+sensors but despite all the headlines
+and all the articles and titles and
+captions and tweets and anything else
+you might read if you're thinking that a
+one-inch sensor refers to a one-inch
+measurement in any way then you'd be
+wrong just like i was when i first found
+this so it turns out a one-inch sensors
+dimensions
+are about 13.2 millimeters by 8.8
+millimeters now if you're not already
+annoyed by switching between imperial
+and metric you've realized that that's
+less than an inch in both directions but
+what about the diagonal well with a
+little pythagorean theorem that
+calculates out to 15.9 millimeters
+which is also not one inch so how did we
+get here how is this a one inch sensor
+well if you go back to the beginnings of
+video recording these earliest cameras
+were vacuum tube cameras so just like
+old crt tvs use cathode ray tubes the
+earliest tv cameras instead of a digital
+sensor had physical tubes with a lens at
+the front and electronics inside them to
+capture photons to capture light so the
+bigger the tube the more light it could
+capture it would redirect all that light
+to a sensitive piece inside the tube and
+at the time people would refer to the
+size of the tube by the diameter of the
+tube so when we started using one inch
+diameter tubes the sensitive piece
+inside those had gotten to about 13 by 8
+millimeters so fast forward 50 plus
+years here we are today with these
+amazing digital sensors and all this new
+equipment but today still we refer to
+the size of the sensor
+not by the actual
+measurement of the sensor
+but by the measurement of the
+hypothetical tube
+diameter that would be needed
+to fit the sensor of today's current
+size
+wow so today we have one inch sensors
+they're called one inch sensors because
+the diameter of the tube that would fit
+a sensor that's .63 inches diagonally
+would be a one-inch tube but it's a 0.63
+inch sensor so that actually means all
+of the other sensor measurements that
+you have relative to one inch are also
+relative to this hypothetical inch so
+the half inch sensor isn't half an inch
+it's half of the hypothetical one inch
+sensor ah so is it a lie when these
+companies say that their products their
+cameras have a one inch sensor
+yes and no i mean no if you know what
+they're talking about even if it is a
+lie though it is a pretty harmless slide
+because a one-inch sensor is still a
+pretty big sensor yeah but there are all
+kinds of products that have come out
+where the big selling feature is the
+one-inch sensor like you might remember
+the dji air 2s drone when it was
+unveiled the spec sheet on hasselblad's
+site and on dji site and all the
+articles it all says one inch sensor
+like that's a one inch sensor guys or
+maybe take the insta 360 one r you can
+pay extra money for a one inch addition
+which is a 5k capable one inch sensor
+one inch sensor
+one inch sensor like every headline i
+can remember seeing about the sony
+xperia pro i this crazy new smartphone
+mentioned the one-inch sensor and even
+my video guilty talks about how they're
+using a one-inch sensor which at no
+point actually says the real dimensions
+of the sensor now sony makes most of
+these actual sensors we're talking about
+and sony's own website for this phone
+says it has a one-inch sensor but wait
+there's a little asterisk and if you
+scroll
+all the way down
+and read into what that actually stands
+for it turns out it's a one inch
+1.0 type sony image sensor
+ah see it is a pretty big ask to ask the
+entire photography industry to redefine
+sensor sizes but that is probably how we
+should be referring to these sensors as
+1.0 type sensors because they're not
+actually one inch sensors but you know
+sony's own website uses both terms at
+any given point interchangeably to refer
+to the size of the sensor and i think if
+you ask these companies they'd probably
+like to have you believe that they're
+one-inch diagonal sensors if they never
+clarify then
+maybe that's a lie by a mission
+i don't know how do you feel about that
+part of my job as a reviewer i think is
+to sort through
+all these statements from companies that
+get made all the time and one figure out
+how real they are
+and then two if they're not real find
+out how
+harmless or harmful
+is that lie because it's definitely a
+spectrum i remember when there was this
+huge uproar about transparent backed
+phones where you could kind of see
+through the back of the phone and some
+of the components inside and it was this
+really cool nerdy design but it turned
+out this was just a sticker and the
+components that you were looking at
+weren't really the working parts of the
+phone they led you to believe they were
+so is that a lie
+yeah totally but it did feel pretty
+harmless like the whole point of having
+the transparent back look is just to
+look kind of cool and nerdy and it still
+did accomplish that so i felt like that
+wasn't something that was a huge deal
+but on the other side of the spectrum
+companies will actively try to trick you
+and there is harmful versions of lies
+there's stuff like
+vaporware there's stuff like i don't
+know huawei when they started lying
+about photos to claim that they were
+taken with their newest smartphone but
+then they were caught multiple times
+taking it with a dslr or a bigger camera
+that is misleading that that is
+potentially harmful to a customer that
+thinks they're going to get one thing
+but then doesn't
+so i point that out
+and hopefully we can all make more
+informed decisions together that way and
+everybody wins
+thanks for watching catch you guys the
+next one
+peace
+[Music]

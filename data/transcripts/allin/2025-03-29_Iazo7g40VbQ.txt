@@ -1,0 +1,2313 @@
+# The AI Cold War, Signalgate, CoreWeave IPO, Tariff Endgames, El Salvador Deportations
+# https://www.youtube.com/watch?v=Iazo7g40VbQ
+
+when I wasn't able to use the r word I
+would use Dey Chente for two people
+Jason and and friberg's dog Marshall
+freedberg oh come on I can't stand
+Marshall freed that little bastardino
+jumps on the table eats the nuts the
+worst the worst I hate Marshall
+freedberg I hate him I can't stand this
+bastard guy look how he sits like a
+[&nbsp;__&nbsp;] sits like he sits like a Dey
+chanted look at this dweeb and
+this now Nick show them my dogs
+beautiful beautiful dogs Valentina
+zanini she's the breeder of breeders
+look at these two beautifully elegant oh
+look at look how look how well behaved
+they are you don't see them jumping on
+the table to eat the main course freed
+no no Marshall almost ruined our
+Christmas dinner this is why I'm holding
+a real grudge against Marshall freedberg
+he at off nuts no and Alison [&nbsp;__&nbsp;]
+Allison off guard she's like Marshall
+freedberg get off the table I just love
+that he's got a full
+name Marshall Eugene
+freedberg let your winners
+ride Rainman
+David and instead we open source it to
+the fans and they've just gone crazy
+with
+[Music]
+it all right everybody welcome back to
+the number one state SP I'm sorry Allin
+podcast in the world the number one
+podcast oh sorry stray bullets here we
+go back on the program our guy Gavin
+Baker is here you know him from a
+treaties management does private and
+public 4 billion under management and
+lot to talk about with you gb1 good to
+have you gb1 is Here solo Doo cor weave
+IPO happening soon uh by the time you
+get this and Nvidia you were there at
+Nvidia you were the one analyst Gavin
+that Jenson pulled up you're loved by
+Jensen what's it like to be loved by
+Jens
+tell us
+everything well so first he did um there
+was uh Alfred F was from squa
+MH and then they had a a nice sside guy
+whose name is escaping me at the moment
+but it is technically true I was the
+only public Equity investor on the buy
+side that Jin Jensen asked I've known
+Jensen for 25 years he's he's kind of
+the same guy he ever was like just maybe
+slightly calmer Gavin can I ask you like
+all this stuff where they talk about the
+balance
+sheet questions that some folks have
+about Nvidia some of the accounts
+receivable issues and stuff is there any
+legitimacy to those issues the round
+tripping like what's the what's the real
+story of someone that that peers into
+that p&amp;l and understands it yeah so we I
+guess maybe take them in reverse order I
+really don't think like if if Nvidia had
+not not put any money into cor weave not
+put any money into kind of other of
+these neoc clouds I don't think it would
+have impacted their revenues at
+all at all they would have sold more to
+meta and more to more to meta more to
+Amazon more to
+Microsoft so the reason they did it is
+even three years ago it was a very
+stable three-player
+oligopoly from the cloud computing
+players in Amazon Google and Microsoft
+and if you're Nvidia that's not great to
+have just three big
+customers those big clouds particularly
+in 2023 when there was such a rush to
+get gpus they each kind of want to do
+their own kind of custom version of an
+Nvidia server and Nvidia by giving kind
+of like a standard reference design
+which someone like cor weave bought to
+cor weave you got gpus in the market a
+lot faster and when you use Nvidia
+reference design it's generally smoother
+and easier to stand them up and
+so the big three kind of cloud computing
+you know
+hyperscalers their incremental share of
+Revenue went down and that was nothing
+but good for NVIDIA because they now
+have kind of a more fragmented base of
+buyers who have less power over them but
+what does that mean Gavin when like the
+accounts receivable jumps from a billion
+five or so to like 5 and a half billion
+year-over-year is that concerning or
+that's just business so look it's never
+good good but if you think Nvidia has
+gone through the biggest product
+transition in history in terms of Hopper
+you know this is a business doing tens
+of billions of dollars at scale there's
+never been a product transition like
+this in the history of semiconductors
+going from Hopper to Blackwell you know
+kind of the 2022 generation GPU to this
+one the only precedent for this on
+planet Earth is the
+iPhone
+and there's something called the Osborne
+effect which is you know when Apple
+comes out with new iPhone for the three
+months before nobody buys the new
+iPhone and I think the only reason
+Nvidia was able to grow through this
+product transition is because of
+reasoning models like deep seek which
+are just so compute hungry and this
+product transition does come back to the
+days receivables the cume receivables
+now is like23 billion yeah it's never
+good when accounts receivables go up but
+if this is the most understandable time
+for it to happen in a product refresh
+cycle you're saying yeah and because a
+hopper server you know it's a rack it's
+whatever it is 7 feet high it weighs
+1,000 lbs it consumes 60 kilow which is
+60 American OHS and it's air cooled so
+you cool those gpus and the big problem
+gpus one of the biggest is they melt you
+cool it with air
+Blackwell weighs 3,000 lb so three times
+as much the rack you know it's 8T tall
+maybe 5T deep or 4 feet deep 300 ,000 lb
+and it consumes 120 KW so twice as much
+power and roughly kind of the same
+footprint three times as much weight and
+it's liquid cooled so this is like an
+iPhone upgrade cycle you know it was
+like it's still a pain that we went from
+you know lightning to USBC you know I'll
+grab a cord and it'll be lightning
+instead of USBC this is like an iPhone
+upgrade cycle where to get the new
+iPhone not only do you have to change
+your connectors you have to put in a new
+generator you have to put in a new
+boiler and a whole house humidification
+system you know to kind of make it
+work so it's a Monumental product
+transition
+and I think that is a lot of why the
+receivables went up you know they're
+recognizing Blackwell
+Revenue you know while it was still kind
+of getting into customers hands
+um if that Trend continues past the July
+quarter then I would say hey that's
+reason for concern but this is a very
+understandable time for that to happen
+from my perspective so basically the
+summary is AR accounts
+receivable builds as you go through this
+very complicated product transition but
+then at some point it Peaks and then you
+start to work through all of it and it
+moves off balance sheet basically gets
+recognized and you move forward and so
+then that AR should shrink and just to
+clarify that that's accounts receivable
+that's the money owed to you by by
+customers for the audience who might
+have a question what they are exactly
+and the reason they're not collecting it
+is because they haven't delivered it I
+mean the county gets very complicated
+with these systems but yes I mean they
+have delivered it and they've recognized
+the revenue but maybe the customer is
+saying hey we're not going to pay you
+until
+X you know until we get them plugged in
+and working I mean who knows what it is
+got it because it's a new thing total
+accounts receivable it's just that here
+the accounts receivable have gone up
+more than sales and that's just a
+function of the complexity of this
+product transition the other part of
+what I would say is the first part of
+what you're saying is very similar to
+what Intel did to scale their chip
+dominance in the 80s and 90s with this
+Intel Inside program they didn't really
+need to do it probably in hindsight but
+it helped them support an ecosystem and
+it helped diversify their buyer base so
+that fewer people had power over them
+and so a lot this quote unquote round
+tripping from your perspective is
+diversifying the ownership pool of
+Nvidia is what you're saying absolutely
+and sending Nvidia gpus to people who
+are adopting invidious reference
+architecture which they believe is the
+best architecture for those gpus whereas
+each hyperscaler has their own slight
+tweaks to that server um that
+hyperscaler does it so it looks more
+like their other servers but maybe
+doesn't run quite as well as the
+standard in video reference architecture
+with all of their chips not just the
+Nvidia gpus but the Intel Insight
+analogy is interesting I had not thought
+of that thank you jth well it he is
+definitely doing Keynotes like Intel did
+and trying to Brand the actual names of
+the units which is yeah it was
+interesting Pentium inside people would
+go and buy a computer does it have a
+Pentium and which Pentium does it have
+and now Apple's doing that same thing
+with the M4 you know series and people
+are actually asking questions like you
+know so there is something to it that
+maybe some portion of the consumer base
+wants to know what's inside right and
+and doesn't cost much to brand since
+we're here let's talk a little bit about
+the cor weave IPO cor weave is going to
+go public on Friday we tape on Thursday
+so when you listen to this episode you
+will have the actual data on what
+happened with their IPO they're going to
+raise 1.5 billion they're a neocloud
+neocloud means not just cloud computing
+but a new Cloud thus Neo and company has
+really been growing quickly it was
+reported they wanted to raise 2 billion
+and I guess they stepped it down to 1.5
+billion at a 23 billion doll valuation
+they had two billion in Revenue last
+year so they're up 8X and they've got a
+lot of debt that's the other issue with
+core weave that people note almost 8
+billion in debt and one customer
+Microsoft accounts for over 60% of their
+revenue always a bit of a a red flag
+there as Troth mentioned Nvidia accounts
+for 15% of their revenue and they own 6%
+6% seems small enough to not make a
+difference so Gavin I guess what do you
+make of this company cor weave and their
+timing what it says about the markets
+because hey this is the biggest IPO
+we've had in a bit I think maybe the
+last ones that were notable were Reddit
+last year and a couple of other
+companies got out obviously stripe
+hasn't gotten out so is this a major
+Milestone or are they going out because
+they have to go out because of all this
+debt and then this is all against maybe
+a backdrop of did we
+overb and are these language models
+going to require as much Hardware uh as
+we thought last year so we're definitely
+not overbuilt yet like since deep seek
+came out like what has happened since
+deep SE car1 came out is China is buying
+every GPU they can one of the largest
+Chinese server manufacturers warned last
+night that there's about to be a
+shortage of gpus in China the price of
+memory DM goes up every day
+so we're not overbuilt
+today Point number one and you know open
+AI yesterday said that they are gating
+their new image generation service
+because they don't have enough gpus so
+we're not overbuilt yet Blackwell is
+going to be a very successful product
+cycle there is a little bit of a
+prisoners dilemma
+where you're going to spend on Blackwell
+almost no matter what because if you
+don't you're afraid that you seed a big
+advantage to a competitor you know if
+you're meta and you don't spend Google
+spins and their AI is a lot better than
+yours you're worried you may not catch
+up I would say that that's already the
+case yeah that's already the case but
+here this is a brand new architecture
+which is a lot I mean not only is it
+really different as we went through it
+is a lot better but now I would say all
+these gpus they're hard to get them
+working at the beginning like right now
+Hoppers are you know finally tuned
+everybody knows how to work with them
+Blackwell you know it's almost like
+you're you're skipping ahead you know
+it's like imagine each one of these gpus
+is a Formula 1 car you know now you
+skipped ahead 10 years in the future and
+you have to kind of learn how to drive
+that new Formula 1 car and it takes a
+while till you drive it as well as the
+old one so any other thoughts Gavin on
+the core weave IPO which will have
+happened by the time people listen to
+this episode yeah I would say you know
+the sentiment on X investors on X are
+pretty negative on core weave I think
+there's maybe a little bit of you know
+negativity in the market they had to you
+know reduce the range lower the price
+and everyone is very convinced this is a
+commodity business loads of debt loads
+of capex you know one really
+concentrated customer and that they're
+completely
+undifferentiated and I guess I would
+just make a point which is in America if
+you can pick any category any retail
+category and if you can run a thousand
+stores in 50 different states with
+different preferences and have those
+stores well lit clean stocked by
+friendly employees es with the right
+stuff in stock you will create a
+business that is worth you know well
+over 10 billion and that's sounds easy
+but very few companies have been able to
+do it I think what may be
+underappreciated about cor weave is it's
+actually really hard to run these big
+training clusters everybody thinks it's
+easy but to synchronize ttin of
+thousands of gpus where they're melting
+or cables are being
+unplugged and you know you lose a bunch
+of training data when it happens I just
+think it's
+not it may not be the commodity that
+everyone thinks it is and it may turn
+out that it's much harder to do than
+people think would there be analogy for
+that wouldn't there like people thought
+AWS would never work at the beginning
+they were like who's going to trust
+Amazon with their compute and it was
+difficult and it you know developers
+didn't understand exactly how to
+abstract their services into the cloud
+yeah the world was convinced AWS well
+lot of the world was convinced AWS was a
+terrible business for the first few
+years you know when Microsoft announced
+they're going to transition to the cloud
+it was very controversial because you go
+from a capex light model to a capex
+heavy model so you know Wall Street
+consensus has been wrong before and I do
+think core weave
+runs these big GPU clusters as well as
+anyone and there aren't that many people
+on planet Earth who can run them well
+and you know it's kind of easy you can
+just look at the npv of their contracts
+and the asset value and so everyone you
+know who's kind of you know confidently
+putting out all the negatives here like
+I just think there are some offsetting
+positives that it's good for you know I
+think people to be aware of and consider
+that's all I think it's a good company I
+I would I would second I mean I think
+it's a and it's a great business and I
+think they deserve to be
+successful totally true and it's great
+to see a competitor to the existing
+three or four clouds that are out there
+and uh it's great to see a company go
+public I mean m&amp;a with whiz and now core
+weave going public rol lenina KH is over
+you got to give the administration a lot
+of credit for maybe removing the
+roadblocks to m&amp;a and IPOs or at least
+people perceive that so I don't know if
+perception becomes reality here but does
+seem like m&amp;a is a bit on Far yeah Gavin
+and and people are talking above and
+beyond Wiz I mean cor we bought weights
+and biases which I think is a really
+interesting acquisition for them that
+kind of kind of further differentiates
+them and maybe decommodify them a little
+bit uh but there have been quite a few
+acquisitions by big companies of smaller
+companies in the last month and I think
+as none of the companies that have been
+bought have been public maybe it's
+flying a little under the radar but it's
+happening in in I think a you know an
+accelerating way and I think this would
+be you know very good for the market and
+animal spirits
+and everything that we care about do you
+think that there's any issues there was
+a a bunch of companies added to the
+export control list two days ago some
+were in quantum Computing generally a
+lot of it though was in the Nvidia
+ecosystem so I think that the the US
+government is really trying to make sure
+that these next gen gpus don't go
+directly to China but also don't go to
+countries that could then redirect them
+into China did you get a chance to look
+at that or did your team look at that
+yet oh yeah and I think this will be
+part of you know the upcoming
+negotiation between America and China
+but it is hard you know it's like if we
+can't you know if America cannot keep
+illegal drugs out of you know out of our
+own country these gpus are arguably
+dramatically more valuable per unit you
+know like a Blackwell is like you know
+the size of this and it's just hard
+particularly like you know America we're
+trying to keep drugs
+out here China is trying to bring the
+gpus in and it's kind
+of significantly you know I think harder
+to prevent than than you know smuggling
+of drugs now everybody does their best
+but um yeah the United States I think
+it's always going to be kind of a game
+of cat and mouse until you get some sort
+of grand bargain and right now they
+they're allowed to sell certain kinds of
+gpus into China and I'm sure they'll be
+should we be doing that Gavin is is this
+going to be an effective strategy you
+know if you were advising the president
+we just say ah just let Nvidia sell them
+it's a Fool's eron to try to stop them
+because they're all going to Singapore
+or wherever Vietnam and and routing
+their way around I think we're putting
+enough friction into the
+system that it does theoretically give
+America an advantage at the cost of
+creating tremendous incentives for China
+to develop their own semiconductor
+ecosystem and you know pressure to kind
+of you know Necessities a mother of
+innovation and these export controls are
+creating an immense incentive for China
+to be really algorithmically Innovative
+and you saw that with deep SE where
+there were some real algorithmic
+Innovations yeah so said another way if
+we squeeze too tightly on letting them
+buy the Nvidia chips they might make a
+better Nvidia I mean become resilient I
+think they're doing it now they're
+trying now so that's well they're trying
+but I guess what are the chances they
+succeed in your mind Gavin in creating
+something competitive with or better and
+then what would that say about the AI
+race in the next five years I think zero
+I think it's really really hard but over
+the 10 years who knows and if you're the
+CCP 10 years isn't that long if you're
+America 10 years is an eternity yeah
+they're thinking in centuries and we're
+thinking in decades yeah that's probably
+correct hey um let's pivot over to AI
+agent since we're in the AI and
+obviously there's other big topics this
+week we'll get to you doing politics and
+uh signal and all that kind of good
+stuff but we have a company
+that seems to be you know having a
+moment it's called Manis uh m n it's
+currently in private beta but they're
+creating agents and we've been talking
+about this agentic revolution basically
+little you know jobs going out we used
+to call them Crown jobs back in the day
+but going out and doing things for you
+and it seems to be working and it's
+pretty impressive what do you think
+about this company specifically if
+anything and are we getting to a point
+where we're going to have the same chat
+GPT 2.5 moment but with agents and then
+if we do have that Gavin what will that
+look like in terms of employment and how
+companies are run look I do think uh
+if agents materialize as a reality and
+you know Manis is maybe a little bit of
+a chat GPT moment for that I would say
+open Ai and anthropic anthropic
+developed something called the model
+context protocol that openai just
+adopted I think it will become a
+standard and it makes it really easy for
+an llm like stripe can just integrate
+with mCP and then any llm that uses mCP
+can you know interact with
+stripe and this is solving a big big
+problem for agents um in terms of just
+making them you know much easier to use
+much more
+standardized but if agents become a
+reality one the ROI on AI and Blackwell
+is going to be very high and two what
+will it's not good for human
+employment but what will be kind of I
+would say the rate limiting factor is
+just compute in a world where we all
+have agents doing things for us all day
+long it's going to be a long time before
+we have enough compute in the ground for
+that to be a really really widespread
+reality and I think that's why you know
+open AI was talking about pricing their
+first agents at ,000 $20,000 a month
+like this Roi on AI question I think to
+me really does come down to agents in
+the short term freeberg your thoughts on
+these agents and the impact they could
+have on running businesses employment
+and just generally efficiency we now
+starting to have some standards mCP
+stands for model context protocol your
+thoughts freeberg on how this might
+impact you know architecting a business
+which you're doing right now with ohal
+how how might this change how people
+work on a day-to-day basis let's maybe
+give some examples for the audience look
+I'll take a slightly different view than
+Gavin I've said this in the past but
+maybe I'll try and contextualize it a
+little bit I think that the big unlock
+with these kind of agentic systems is
+not necessarily about replacing the easy
+human tasks which everyone kind of
+thinks are kind of the obvious
+application of them I think what we're
+missing is is the ability to unlock
+really complex tasks that are not really
+manageable today I
+can't come up with a very Grand project
+planning exercise with the team I have
+today I have to go hire 30 people let
+let me give you an example I want to go
+build a plant breeding facility under
+the ocean okay so how do I do that so to
+do that today I'm like well I got to go
+hire people that under understand oceans
+I that understand engineering that
+understand how to do underwater
+engineering I have to hire material
+scientists I have to hire physicists I
+have to hire construction project
+planners there's a whole group of
+complicated people I would need to kind
+of put together to be able to kind of
+execute on that opportunity but now a
+smaller group maybe three or four people
+or two people can say okay let's use
+these agents to help us build that
+project plan and spec out every step of
+the process Define how much everything
+will cost what workloads are needed
+who's going to do what so suddenly that
+difficult project becomes a reality
+here's another good example the
+California highspeed rail program that's
+ballooned to this hundred billion doll
+what if we had a agents organizing and
+running that program well maybe the cost
+of that program and the reality of that
+program makes it a reality now so it
+suddenly becomes a program that we
+launch we get it done we build this
+railroad whereas all the people all the
+complication all the confusion has and
+whatever grift has been going on has led
+to a hundred billion dollar balloon
+budget with no outcome so I think
+complex projects can actually be tackled
+in an easier way that actually unlocks a
+tremendous amount of building a
+tremendous amount of opportunity for new
+employment for people to come in and
+small teams of three or four to get
+hired that can now do the work of three
+or 400 really deeply sophisticated
+highly technical people with a very
+small less technical group so I think
+there's going to be a tremendous amount
+of opportunity in biotech in Engineering
+in Manufacturing in Urban Design in
+transportation and on and on and on
+where small groups are going to get spun
+up that can use these systems uh to do
+really complex projects it's less about
+like oh you're going to replace call
+centers like sure maybe but like what
+are we going to be able to do with these
+things that I can't even think about
+doing today chamath let's level this up
+and just talk about the bigger picture
+which is our giant rival in
+China they're actually catching up in
+some cases exceeding us if they get to
+AI first and then are able to execute on
+this given their top- down controls uh
+given the size of their population given
+their advantages in manufacturing that
+we're seeing now with xiaomi making
+cars you know what uh byd is doing in
+self-driving and cars what we're seeing
+now with chips versus Nvidia it's kind
+of getting set up that almost everything
+we're building here in the US China's
+copying at a very fast pace and then
+exceeding so what's at stake here big
+picture and then I guess we'll then look
+at why what should our what should our
+philosophy be you know on in a
+geopolitical way yeah let's just do an
+economics lesson why does
+anybody invest they invest because you
+let's just say a
+dollar you want to generate a rate of
+return that's better than all your
+Alternatives and the riskier it gets the
+more of a return you want right that's
+the basic idea so if you invest a dollar
+in bonds you can get five or six% if you
+invest a dollar in an early stage
+startup you want to get 50 or 60%
+returns okay that's that's obvious but
+the return that you generate is in part
+driven by how profitable is this company
+obviously and if you have a 300 person
+group of people that has to do something
+it's a lot harder for them to generate
+profit and then to generate a rate of
+return than it is if you have two or
+three people so the
+Chinese strategic comperative is no
+different than small startups versus an
+incumbent which is to be as hyper
+disruptive economically as you can so I
+think the big risk is not necessarily
+Chinese but many of these Alternatives
+will come from China which is to say
+that where are the
+incumbents most of the incumbents are
+American companies if you look at SAS
+software that's a perfect example of
+where there is trillions of of dollars
+the the software industrial complex as I
+call it right that's like a three and a
+half four trillion dollar industry it
+grows by 10% a year so every year it's
+adding 300 billion of quote unquote
+Enterprise Value is that value that is
+being created I think a lot of the
+customers would say no so if you're a
+startup or if you're China what is the
+most disruptive thing you could do well
+you could take a three-person team to
+disrupt a 30,000 person team and blow a
+hole right in the side of that trillion
+economy that's the big risk so whether
+the risk comes from here whether it
+comes from the Chinese I think what
+you're seeing is that if these agents
+can scale the Opex the actual load of
+making something will go down by an
+order of magnitude and that is and maybe
+even two orders of magnitude that is
+incredibly disruptive because the
+existing incumbents cannot compete with
+that cost scale and Gavin to just bring
+this around the horn Here China is
+playing a different game and obviously
+there's other competitors on a global
+basis but they are subsidizing for
+example their cars and their entire car
+industry so the margin of cars here in
+the United States and Germany and Japan
+that's their opportunity they don't
+actually need to make a profit on it
+they could just break even there are
+cars now 10 20 30 $40,000 cars now being
+made there so this then leads us to oh
+my goodness will Americans buy these
+we're pretty great customer Will trump
+block them with tariffs so let's make
+the jump what would the Tariff policy be
+if as chamat points out here we've got
+this big broadside of our Battleship
+that they can put a giant hole through
+which is our software industry our car
+industry pick and Industry that they
+might be able to just blow a hole in
+because they don't need to make a profit
+they just need to have jobs and break
+even
+what should our tariff policy be or what
+is it I mean we know what it is for
+Autos it's 25 do we know what it is I
+mean it seems like it's inlux so maybe
+we start there what should the policy be
+what do you perceive the policy is
+because it does seem to be a moving
+Target we'll see what happens on April
+2nd because Trump keeps tweaking let's
+say adjusting in
+public yeah I mean this is so
+traditional economics would say hey
+tariffs are not a good idea we should
+have free trade you know everybody
+understands the principle of comparative
+advantage I do think the Trump
+Administration is pretty
+convicted that that approach has not
+worked well for America over the last 20
+years and maybe it's worked well for
+knowledge workers but it hasn't worked
+well for kind of ordinary Americans and
+I think they are very convicted in
+changing that and trying to bring back
+kind of good highquality manufacturing
+jobs to America I think they see tariffs
+as an eff way to do that are they right
+is is it going to be because a lot of
+what we're seeing in factories is
+automation so what they may have been
+right about tariffs bringing back
+high-paying middle class jobs for the
+past 20 years we cannot go in a time
+machine and change that policy and isn't
+where the Puck's going that we're going
+to have Optimus robots figure robots
+pick a robot company doing all this work
+here's what tariffs do tariffs are a
+level setting mechanism
+that fixes a historical imbalance look
+the reality is that we have had
+meaningfully lower tariffs for products
+coming in then those reciprocal tariffs
+exist for our products going into these
+other countries that's true and the one
+thing I'll say about Donald Trump is you
+may not agree with the tariffs but he's
+been incredibly consistent I was on
+YouTube
+yesterday and I stumbled into an
+interview he did Nick maybe you can find
+this with Larry King in
+1987 and he ran a full page ad in the
+New York Times talking about this exact
+issue and then went on Larry King and he
+walked through the entire trade
+imbalance 40 years ago yeah he's been on
+this so this is not a fly by night thing
+so what do they want what they want is
+to create the economic incentives to
+reshore as much industry as possible
+into the United States the delicate
+Balancing Act though is that after 20
+years of
+globalism and a perverted version of
+free trade because it's not what it is
+today it's been
+perverted it is incredibly difficult to
+do that without these whack-a-mole
+problems emerging in other areas right
+whether it's inflation or whether it's
+retaliatory tariffs or consumption taxes
+all of these complexities I think are
+what has to get figured out but the
+structural reason of why tariffs make
+sense is not necessarily to overly
+penalize one country over another but
+it's simply to say if you charge 5% we
+charge 5% if you charge 10% we charge
+10% Nick has the clip you just just
+listen to this from 40 years ago we
+don't have free trade right now because
+if you want to go to Japan or if you
+want to go to Saudi Arabia or various
+other countries it's virtually
+impossible for an American to do
+business in those countries virtually
+impossible so the fact is that you don't
+have free trade we think of it as free
+trade but you right now don't have free
+trade so Gavin let's get back to this
+original question with chat's important
+context Trump has been on this for a
+while but is this where the Puck's going
+we have the lowest unemployment of our
+lifetime wages are obviously not where
+we want them to be so is the right
+solution to in put in a bunch of tariffs
+create trade Wars and then hope that
+people are going to build factories that
+employ humans when in fact it probably
+will be robots so is there another
+solution like maybe raising the minimum
+wage I don't know what are you your
+thoughts well one I think it's jamat and
+that clip Illustrated he is convicted in
+this it's 40 years old it's happening
+yeah it's happening and so I would say
+two things like one I think it's all
+something I'm always conscious
+of at um my wife Becky one of her
+college or High School reunions there's
+a guy there who' been in her class and
+had been in the Navy Seals and he
+deployed to 80 countries he'd been the
+Navy Seals for like a decade and I said
+what's the one thing that you learned
+and he said the one thing I learned is
+everybody in America is always trying is
+always focused on making America better
+have youve been to 80 different places
+all around the world our only goal
+should be to not screw it up in America
+just don't make it worse because America
+is so much better than everywhere else
+so the first thing is like you know chth
+said the word delicate and I think
+that's right and if I had one thought
+for the administration it would be every
+time they say the word tariff whatever
+they think
+Wall Street in the markets and I would
+say you know I think a lot of Business
+Leaders are convinced that tariffs are
+bed now maybe Wall Street is wrong and
+the administration is right one thing
+everyone agrees on is deregulation is
+good so every time they say the word
+tariff they need to say the word
+deregulation two or three times because
+the best way to I think maximize the
+odds of this policy succeeding despite
+the headwinds from
+automation I think it's going to be a
+long time before we have hundreds and
+millions of robots you know even between
+China and Tesla I think it's going to
+take a long time to make vast numbers of
+humanoid robots the best way to
+encourage this reshoring is just making
+it easier to do business in America okay
+100% can I just add one thing that's
+really really important what Gavin said
+there's a third thing I would add Gavin
+to your list which is we need to figure
+out the difference between manufacturing
+and IP and I think what we want to do is
+make sure that we trap the real value
+back back in America as well look I've
+told you guys a story before but when I
+was helping to run Facebook I was a
+signatory when we were setting up
+Facebook abroad we exported all of our
+IP to
+Ireland and lo and behold who do they
+sue Zach meta and me pink and we've been
+in this 10year lawsuit 15year lawsuit
+with the IRS because they're trying to
+come back and say hey Facebook you owe
+all of this money why because we
+exported all of our critical IP to
+Ireland and we trapped it there that
+should not have been able to happen we
+can fix it separately there's many
+companies who are abroad who live inside
+the American Market who have given a
+mechanism would import their IP into the
+United States if there was a mechanism
+to do so so not only can you have
+manufacturing you can also have the
+critical knowledge not just of that
+manufacturing but of that product of
+that supply chain those are the
+incentives that these nuances if we get
+right it's really a Renaissance for the
+United States let's talk a little bit
+about maybe other Solutions
+freedberg
+obviously perhaps raising the minimum
+wage or increasing corporate taxes in
+order to do that would that not
+also help us maybe build back the middle
+class that is the criticism I think some
+other people have we you know Trump when
+he did his tcj ja if people remember the
+tax cut and jobs act corporate tax rate
+was 35% we put it down to 21 and now rep
+ation of cash from overseas as chat's
+pointing out I think it's only 15% it's
+like everybody can kind of afford that
+so would that not be another way to
+solve this problem of the bottom half
+the bottom third not making enough or
+maybe even lowering their tax rate which
+is already pretty
+low well I think the proposal that I've
+heard from this
+Administration that we heard from Howard
+lutnick when we met with him was they're
+going to cut all taxes for people making
+less than $150,000 a year so get the tax
+rate to
+zero do you believe that do you think
+it's realistic now that it's after you
+do that you actually think that could
+happen I 100% do and in what timeline
+and why well that's the key question
+this is where this becomes like a first
+and second derivative problem let's just
+talk about it this way when you take
+money out of the economy you want to
+make sure you're also putting money back
+into the economy in another way to keep
+the economy stable or growing so if
+you're taking money out of the economy
+in the case of tariffs you're putting
+money into the government's
+coffers you're reducing people's
+spending because everything costs more
+now so consumers will spend less so what
+you want to do is you want to make sure
+that the money that you're
+repatriating is going back to the
+consumers so they can now have more
+money to spend so that's why you want to
+cut taxes at the same time that you're
+increasing the Tariff rates so if you
+increase the Tariff rates things cost
+more the government is now making things
+more expensive that's not good but at
+the same time if I cut your taxes and
+you got more money now than you did
+before so you can now buy the things
+that you were buying even though they're
+a little more expensive the economy
+should be able to remain stable or grow
+at the same time if you're cutting
+government spending that means that the
+government can afford to take less taxes
+in and so they can make that assessment
+so these are all we've said it many
+times these are all very related and to
+Gavin's point you've got to cut
+regulation at the same time so that the
+incremental dollars flow into things
+like automation onshore production so
+the cost of things come down and so
+again not a simple equation I would call
+it a grand economic experiment the
+analogy for me feels a little bit like
+there's four freight trains kind of
+passing by each other at very high speed
+and you're trying to pass all the
+ingredients to make a sandwich between
+the windows of the freight Trends you're
+trying to get them all over so you can
+make this delicious sandwich and get to
+this golden age that's the configuration
+that it feels like they need to kind of
+assess as and they're iteratively they
+have to thread the needle is I think
+your point and it's really hard to do
+and you use the phrase experiment Gavin
+you said before hey don't screw up this
+amazing country and what we've got here
+this sounds like a very high-risk you
+know High dexterity maneuver it feels
+like a a fighter plane like trying to
+land on you know a very small you know
+aircraft carrier can they pull this off
+can they get to the tariffs working at
+the same time inflation not spiking not
+impacting employment getting rid of
+people's taxes does this sound too
+complex to you and too much too fast
+what what is your honest thought Gavin
+as you watch this as a capital allocator
+are they going too hard too fast or is
+it worth pursuing this experiment as as
+freedberg framed it look Scott bent is
+probably the single most respected or
+was the single most respected macro
+investor in the world like he really
+understands the markets how they through
+to policy policy flows back he's an
+extremely smart talented guy they have a
+coherent Theory you know I thought
+Howard and Scott did a great job in the
+last two episodes Absolutely yeah kind
+of explaining the theory and the one
+thing I would just say having you know
+we all watched the first Trump
+Administration he is adaptable he adapts
+to
+circumstances and the midterms now are
+whatever whatever they are you know and
+and pol iCal terms they're they're 15
+months away from you know around the
+corner yeah around the
+corner so I think they're trying to do a
+lot as quickly as they
+can but I also think that if after a few
+months it's you know 6 months nine
+months it's not working they will adapt
+and I think that's one reason there's
+such an emphasis on reciprocity you know
+and Vietnam came out and they lowered
+their tariffs on American goods and
+that's that's good and so I think the
+out is oh you know maybe it's not going
+quite the way we hoped we're going to
+declare kind of hey we have a series of
+grand Bargains with these countries
+declare Victory maybe tariffs on
+American goods are slightly lower
+tariffs here are slightly higher feels
+more
+fair and you know move on to kind of
+firmer ground of kind of
+deregulation balancing the budget
+cutting government spending and cutting
+Government taxes commensurate with the
+spinning Cuts so I think they're trying
+the risky stuff first and if it doesn't
+work they will attack quickly yeah that
+was my perception especially after
+hearing bent on the all-in pod great job
+uh guys on getting those long form and I
+think this is where the administration
+is strong it's when they do a long form
+discussion and you hear their thoughts
+about it it doesn't sound as crazy as
+when you know all due respect to the
+president when the president is like I'm
+going to go easy on them I'm going to go
+hard on them you know and it's like a
+reality TV show and who's going to get
+fired this week you actually have two
+incredibly thoughtful I will point out
+Democrats lifelong Democrats around
+Trump and I I think that's like a really
+I had this crazy observation gabin I
+don't know if you notic it as well you
+know Trump lost his reelection campaign
+and he filled his whole cabinet with a
+bunch of Republicans this time he's
+filled his whole cabinet and everybody
+around him's a Democrat and he's gone to
+a really unique concept here of how to
+solve the US's problems which is get the
+working man and woman a higher salary
+and lower their taxes this this could be
+like an incredible Grand bargain that
+bent I think is the architect of and
+letnik is you know the communicator and
+and uh executor of you think they have a
+chance of pulling this off what do you
+if you had to handicap it I hope they do
+as an American I hope they do I think
+they for sure have a chance of doing it
+they have a solid theory of the case
+they need to execute well um I would say
+Doge's efforts are important you know if
+you can really cut a trillion dollars of
+of waste Fraud and Abuse out of the
+government government spending that's
+good you know we should all agree As
+Americans you know maybe Democrats they
+want more government spending maybe
+Republicans want less but for whatever
+given level of government spending we
+want it to be as efficient as possible
+because if you're a Democrat that means
+more services if you're a republican
+maybe that means a smaller government so
+I think they have a solid theory of the
+case I think there's a reasonable chance
+it will succeed but if it doesn't I
+think they will tack quickly and the one
+thing they can't afford is a recession
+if they're focused on the def deficit a
+recession blows out the deficit so they
+will be ultimately sensitive to these
+market-based forces you know rates stock
+markets the foreign Cur foreign currency
+markets trath you want to uh maybe wrap
+this up for us here move on to some of
+the other topics of the Week John Arnold
+had a post this morning on X he was
+saying the deficit this year is going to
+be 1.9 trillion his best guess for 20 26
+was 1.9 trillion and he was just kind of
+asking his followers what they thought
+if you listen to Howard last week what
+he said is I'm going to raise a trillion
+dollars and elon's going to cut a
+trillion now if that comes to pass then
+we have a balanced
+budget if you ask the sharp money on
+Wall Street their numbers range from 170
+billion to 300 billion on the revenue
+side so let's take the midpoint of
+around 200 to 250 billion okay 250 if
+the sharp money is right that means that
+tariffs and all of that stuff will only
+really raise a quarter of a trillion
+which means that there's going to be
+even more pressure on Elon he's going to
+have to find not one trillion but 1.75
+trillion again assuming that that $1.9
+trillion deficit exists next year so
+that's the math it is A2 trillion doll
+Bogey and they have to fill it somehow
+my intuition is that the waste Fraud and
+Abuse is probably meaningfully more
+significant than we think when we were
+there we heard about one consulting firm
+95 plus of all of their revenue
+multi-billion dollar Revenue comes from
+time and materials contracts with the
+United States government we heard
+throughout the week I've reposted it on
+X $65 billion is paid out to Consulting
+organizations Beyond just that one in
+these time materials costplay contracts
+if you start to add all of these up
+today we just heard that the2
+billion grift to Stacy abrs was canceled
+and they're now starting a doj
+investigation into how those dollars got
+given to her all of these things start
+to add up it may be the case that if
+there's an upper bound on
+tariffs that there will be more than a
+trillion and Elon kind of fills in the
+Gap but I think it's possible they are
+looking Gavin also at military spending
+and maybe cutting that 8% a year every
+year for a couple years that's where big
+dollars are are sitting and obviously
+nobody wants to touch Social Security
+despite I do have to point this out for
+my besties you guys did a great job with
+that interview and uh you know I just
+want to say fmz for like trying to spin
+it as you know letnik was trying to take
+away people's Social Security they
+literally took an hour plus interview
+they clipped it to try to make it seem
+like he was saying the opposite of what
+he said he was saying the frauders will
+be the first to respond not my mom my
+mom would just you know call eventually
+and say hey can I she would assume that
+there was good intentions yes whereas
+the fraud would be like oh man I got to
+get here I think it's you know what
+swier did the same thing no let me
+finish my little thing here TR because I
+don't want you guys have to defend
+yourself listen I couldn't make it you
+guys did these last minute interviews
+mazeltov we missed you I thank you for
+saying that I would have loved to be
+there I will be at the next ones for
+people who are saying like oh there's
+some conspiracy there's no conspiracy I
+had ski week these guys went to do
+business or whatever they were doing and
+to see their friends in DC and uh you
+know these things happened very rapidly
+uh and I wasn't able to get there bottom
+line these were great substantive long
+interviews from Democrats one of them a
+gay Democrat by the way the highest
+ranking gay Democrat who's ever been in
+uh an Administration the left and the
+media should be giving praise to these
+interviews they should be studying them
+and they're doing the exact opposite
+they're trying to spin them into
+something they weren't it's a gift what
+the all-in podcast did to the American
+people by showing them a long form
+interview with the administration
+explaining these details don't spin it I
+think great I think it's great sorry I'm
+pissed off about it piss me off I don't
+think you should be pissed off I think
+it's wonderful that these people lie I
+think it's incredible that they just put
+it out there and it just further erodes
+what's happening I think if once Bobby
+puts a nail in the coffin of Pharma ads
+on TV byebye Anderson Cooper byebye all
+these guys I think it's great I'm so
+pissed off I'm sorry like when I see
+people lie like that they should be
+lying they should be lying they should
+it's great they're because they will not
+exist okay gav you're a neutral third
+party go ahead no I just say three
+really quick points like first what
+Howard lutnick literally said was if we
+can find a lot of waste Fraud and Abuse
+we don't have to raise the retirement
+age everybody talking about raising the
+retirement age to 70 if we administer
+these programs more efficiently we can
+keep it at 65 and you know that's good
+for everyone the second thing is it's
+just interesting to me there's so much
+doubt about this when the inspector
+generals of you know both Biden and
+Obama you know said there were hundreds
+of billions of dollars of waste Fraud
+and Abuse and I would just say someone
+in my immediate
+family has had their social security
+their identity stolen and someone is
+using their social security number to
+collect unemployment benefits in Alabama
+and this has been going on for two years
+and they've been unable to stop it and
+so you know you don't want to rely too
+much on anecdote but I think this is
+really happening and then just the third
+thing I would just say is I do think you
+know no one has ever raised no president
+has ever raised my taxes more than Trump
+did and I think they are pretty
+convicted in their focus on normal
+workingclass Americans and making their
+lives better is actually genuinely their
+North Star You can disagree with the
+theory of the case you can disagree with
+you know the the way they're
+communicating it but I think their
+intentions are good absolutely and you
+know what he even said in the interview
+if you if you really listen to it he
+said he was disgusted by the idea that
+you would even raise the Social Security
+age I think we should by the way any
+rational person I think the majority of
+people say hey maybe it should go up a
+year or two maybe we should have a
+little auster here on the margins but no
+of course not we can't talk about that
+and um you know the the thing this
+Administration could do better is
+communication those two long form
+interviews was a great step in the right
+direction they should do more of those
+and do should do a better job of
+explaining this waste and fraud they're
+doing a good job I give them like you
+know a B+ but there's more work to be
+done here and there's waste there's
+overspending there's fraud and there's
+abuse right these are like different
+categories to get to the fraud that
+takes building legal cases all that
+stuff's going to have to be referred to
+people we have a justice system here
+it's going to take years to figure out
+if somebody actually stole but waste and
+overspending we're going to find that
+pretty quickly so it's a process people
+and I I I for one trust the process
+because we're overspending massively
+let's get to some other conversations
+here I think maybe we start with J I
+just think it is it is whether it's a
+semiannual or quarterly something that
+is like the Doge report and everything's
+been audited and triple checked these
+are the three categories this is what we
+found I think something like that would
+be very helpful I think they need
+investigative journalists I'm I'm happy
+to help with this I'll do a doge pod you
+know listen I'm not part of the
+administration everybody knows I was
+never Trumper I'm independent blah blah
+blah disclaimer disclaimer disclaimer I
+would totally go in there and I would do
+a do J why do you keep saying
+independent and then you throw yourself
+a label that says you're not independent
+I'm telling people I I was a never
+Trumper but if Trump is going to
+surround himself with the moderate
+Democrat are you truly
+independent I like to think so I I try
+to be independent call balls and Strikes
+here on the program I'm not going to
+bend the knee to the administration I'm
+going to I'm going to be critical of
+trump coin I'm going to be critical of
+these deportations which we're going to
+get to and I will say critical things
+but I would go in there and I would do
+the Doge pod with Elon or whoever in the
+group is and go Point by Point through
+these things to explain it to the
+American public let's keep moving here
+we got such a full docket I want to talk
+about signal text our bestie and talk to
+him about it I think that's yeah I mean
+maybe I should go in there because
+listen I don't even consider this like a
+trump Administration now I consider this
+a democratic moderate Administration
+everybody around Trump now is a Democrat
+I think I might be in I might be in you
+guys look like you had a good time you
+guys look like you had a good time last
+week I kind of want to included it look
+like fun did you vote for Trump I don't
+want to bring in my vote I did not vote
+for comma let's keep moving here I'm
+going to keep dropping wow my go I did
+not vote for KLA I couldn't vote for her
+she said I don't want to say it
+but anyway let's keep going I I don't
+want to vote for somebody who was
+selected I wanted to vote for somebody
+who had a primary and the Democrats disr
+OD for not having a speedrun primary
+signal gate it's the biggest story in
+America right now on Monday turning this
+is incredible what a day no I me list
+I'm going to call balls and shrikes
+right now 70% of what they're doing I
+agree with 30% I don't I'm going to get
+to the 30% and human rights basis I
+think you just admitted you voted for
+Trump it's really incredible actually
+anyway let's keep moving here I'm from
+the great state of Texas I'll leave that
+signal gate signal gate signal gate on
+Monday the Atlantic published a story
+titled the Trump Administration
+accidentally texed me their War plan
+somehow Atlantic editorinchief Jeffrey
+Goldberg was added to a super high
+profile signal group with our secretary
+of state our vice president tulsy
+bessent the CIA director the Secretary
+of Defense how is this possible folks
+they added a journalist the edin chief
+of the Atlantic to their War planning
+signal group they shouldn't be using
+signal obviously to do this stuff and
+inside this group they discussed the
+plans to strike houy targets across
+Yemen nobody noticed nobody checked that
+the editor-in-chief of the Atlantic was
+in the group
+chat they included the exact t targets
+the actions the timing of all of this it
+was apparently cut and pasted from some
+other system by heg our secretary of
+defense and former Fox commentator
+that's not a dig it's just a fact and
+I'm not saying it as a dig
+chth people are losing their mind over
+this I could get into all the details I
+think most people know it because it's
+taking up the
+whole all the oxygen in the room in the
+media in the group chats number one
+what's your general take on what
+happened to how stupid is this how
+ridiculous is it does it matter go ahead
+Jam start us off here I think that what
+folks have stopped talking about
+entirely which I think is just worth
+touching upon okay is what is actually
+going on that
+necessitated this group chat to be
+created in the first place in such haste
+so I have a couple of images that I
+pulled just to explain what this issue
+is so the problem that we have is that
+somewhere
+after the war with
+Gaza Iran continues to fund these houti
+rebels in Yemen and what do they start
+to do they start to invade and flood
+into the Red Sea and they start to block
+up the suas canal in different points
+making it very perilous for Freight
+traffic to get there so what do folks do
+they're either forced to go all the way
+around the Cape of Good Hope or risk
+attack through the Suz Canal so what do
+you think happens
+well the traffic through the Red Sea in
+the sus Canal falls off a cliff and then
+you would ask well why is that important
+well the problem is that because of that
+other chart and this chart prices start
+to Skyrocket so if you're trying to ship
+things even going into the United States
+prices start to rise 30 40% going to
+Europe prices are rising 300 and 400% if
+you add that all together as Gavin said
+earlier we're in this very delicate
+moment where we're fixing all these
+parts of the economy the thing we can't
+have is productivity go down you can't
+have a recession and so if you have a
+bunch of input prices that go up or
+trade slow down now you're bringing the
+likelihood of a recession to the
+Forefront so that's one thing the second
+thing which was included in the group
+chat is it turns out that nobody was in
+a position to fight off these houthis
+except the United States the British the
+French all of their Naval capacity
+wasn't strong enough or adaptable enough
+to fight these folks off so the United
+States had no choice but to attack these
+guys and reset and so what happened now
+all of a sudden traffic is reset right
+volumes are back up by the third week of
+March which is where we are now we're
+back to where they were even a year
+ago the price of shipping is now
+contained the inflation risk is
+contained the productivity hit is
+contained
+it's just
+important that's the context why they
+did the attack great I find it crazy
+that we still actually for 95 articles
+though Jason on Signal we have only less
+than one article on this so I just
+wanted the smart people listen to our po
+to actually understand it the second
+thing the second we're to send the bill
+to Europe because this is really a
+European problem because okay so we have
+the whole Pacific Ocean we can accept
+things through and you can go ports in
+Texas or you go so the point is we're on
+a shock so the point is we're on a shock
+clock people had to act quickly here's
+my big problem with signal I think it
+was a [&nbsp;__&nbsp;] up okay and I think I think I
+think it was an important set of
+decisions that had to be made but I
+think the using signal was a mistake but
+there's very one narrow reason why and
+we've said this in our group chat the
+signal desktop app is total and complete
+garbage okay and when you build apps
+somewhere along the way we were all told
+all of us as app developers oh you need
+to have an app on every endpoint it
+needs to be available for Android it
+needs to be available for the iPad it
+needs to be available for your phone it
+needs to be available for the desktop
+and the problem is now you'll have a
+computer at home you'll have a computer
+In Your Den you'll have a computer at
+the office some it person comes and
+helps you install this stuff and now all
+of a sudden instead having one attack
+Vector you you have seven right so this
+is insanity so
+it's a mistake it's a stupid mistake but
+I think it's a mistake and so I think
+like you know let's give it two
+scaramucci I think we'll forget about it
+give it a scarci or to should somebody
+resign should somebody be fired no no no
+I think these are mistakes and I think I
+think by the way sorry the other thing
+is John rackliff was very clear there
+are very clear procedures that they
+inherited which is no administration's
+fault but there's some security it
+person that writes these things it's
+approved and so rewrite those things to
+be more normal your thoughts here do you
+have a
+take so I think this issue will become
+one of whether or not government
+officials can use signal and apps like
+it for
+communication this is a controversy
+that's been around for some time but
+it's actually being tried in the courts
+right now there's I think four Active
+cases so the federal records Act was
+originally passed in 1950
+and then there was this amendment
+related to electronic communications
+that was passed in
+2014 and the federal records act says
+all government officials and employees
+have to create maintain and preserve
+adequate and proper documentation of
+activities transactions decisions
+policies and other business that's the
+law that's the law and it says adequate
+and proper documentation is defined as
+records that clearly document the
+government's decisions and actions and
+that can be preserved and retrieved for
+accountability transparency and
+hisorical purposes and then we have the
+foil laws which allow you as a citizen
+or as a journalist to go make a request
+Freedom of Information Act this is to
+have a functioning democracy what you're
+talking about here freeberg is people
+who work for us should not be able to
+endr run their communication and that's
+the law yeah the Foya provides access to
+government records because our taxpayer
+dollars pay for the government to do its
+work and therefore access so the
+question is is the particulars of the
+communication that's taking place
+amongst these individuals in this case
+and in the daily work done by government
+officials that's like this where people
+are updating one another or talking with
+one another about things does that have
+restrictions around preservation of
+Records under the federal records Act
+and the amendment that came out in 2014
+and so there were a bunch of lawsuits
+one is the competitive Enterprise
+Institute against the OSP the office of
+Science and Technology policy in
+2016 where using email accounts and
+Communications that weren't properly
+archived or preserved was challenged by
+this institute and the DC Circuit Court
+of Appeals ruled that the officials who
+use private email for official business
+must copy or forward email
+Communications government accounts to
+comply the citizens for responsibility
+and ethics in Washington act sued the
+Trump Administration in 2017 and this is
+ongoing in multiple forms right now in
+the courts where there's a lot of
+procedural
+complexity but the courts have generally
+said that they emphasize that these
+officials are obligated to preserve
+official Communications and that failure
+is violating the laws then there's
+Judicial Watch versus Department of
+Homeland Security and then there's
+National Security archiv versus Mike
+Pompeo the state department 2019 which
+is also still in the courts and I think
+from these cases and this particular
+incident there's going to become much
+greater kind of call it Clarity and also
+a better understanding of the
+consequences of what communication do
+you need to preserve records of and what
+communication are you allowed to have
+off the Record that you what do you
+think freeberg I mean we get it there's
+a what do you personally think like what
+do you David freeberg the sulan of
+science think I think it is
+counterproductive to have every piece of
+communication foilable and kept in the
+public record I think that's a mistake
+and I'll tell you why when you're making
+a business decision let's say you're
+making an HR decision the management
+team sitting around they're talking
+about a particular candidate or person
+at the company should we give this
+person a raise should we terminate
+someone you don't want to have a record
+of that that employees can then go pull
+up and see and understand because it
+will have a really muing effect and a
+dampening effect on the types of
+conversation on the authenticity of the
+conversation on the productivity of the
+conversation that you will be able to
+have if you're forced to say this is
+always going to be in the public domain
+true and so I do think that this idea on
+like how did you make a decision and
+what was the action that you took those
+to me feel like they should be recorded
+and they should be foilable but all of
+the background material all of the noise
+all of the dialogue that leads to
+that I do not think that should be
+foilable and I think that you need to
+justify the actions and the decisions
+that you're making as a government
+official but I don't think that you need
+to have a record personally of
+everything that led up to that action or
+that decision because I think that that
+will be really deeply unproductive let
+me give a take
+here this is a serious issue they
+shouldn't be doing it for obvious
+reasons it's very easy to hack personal
+phones and they do have a way to do this
+which is called the skiff and there's
+other places for them to have secure
+communication and as you point out they
+work for the American people they should
+be a record of this they're breaking the
+law by doing this so the the the
+administration should not be breaking
+the law obviously we don't want them to
+do that also hexa clearly
+took a report of the attack plan cut and
+pasted it from a some server somewhere
+and then pasted it over this is a known
+Vector your your clipboard is what it's
+called and this is an attack Vector that
+you know anybody who's in
+or has basic security training knows
+that you can get your clipboard hacked
+very easily they need to take ownership
+of it and this is one of the things that
+this Administration and this group does
+very poorly instead of taking ownership
+like chamad said here just take just own
+it no big deal this is a you know a
+chance for us to learn and iterate on
+the security protocols yada yada we
+apologize let's move on they attack and
+this is Trump's like Playbook we have to
+attack the journalist so what did they
+do they attack the journalist they take
+no ownership and the second thing which
+this Administration really has an
+Achilles heal for is on top of just
+taking not taking ownership and
+attacking um the hypocrisy because this
+was the entirety of the anti-hillary
+movement was oh my God she did this
+exact same thing with her email and
+Republicans had a long list of oh my God
+here's hold on I'll finish you'll get
+your chance sham to defend your boys the
+point is it's complete utter hypocrisy
+and it's distasteful to attack the
+journalist which you added this is
+incompetence it's a mistake own it well
+hold on and then every single person's
+phone has to get dumped now and so
+they're not doing a good job
+communicating what they're going to do
+to make sure that somebody hasn't gotten
+onto everybody's personal phone why are
+they doing this on their personal phones
+as chth you very much pointed out these
+are attack vectors they should be using
+the phones issued to them for these
+communications not their personal
+devices goad the first thing is I think
+you're wrong about the fact that they
+don't have an adequate claim with this
+journalist I think it's fair to ask what
+is the ethical standard that that
+journalist should have had if you're
+added to something you know it's
+inappropriate the guy just sat there
+lurking you don't know how it was added
+Jason you're speculating it could have
+been Sure hold on it could have been
+injected okay it could have been
+injected into a laptop nobody knows yet
+this is why I think just admit what
+happened was a mistake I think they did
+that they're looking into it let them
+look into it I don't think you need to
+have scalples and heads and all this
+other stuff but I do think it's
+important to say why was this guy
+lurking about okay what ethical standard
+should he have at C he had none and by
+the way this guy oh no that's ridiculous
+you're so wrong with this he he tried to
+figure out okay your opinion is wrong in
+this case respect he tried to figure out
+what was going on here and then when he
+did figure out it he contacted them and
+removed himself he didn't stay on there
+indefinitely if he did that that would
+be wrong but for him to be added to
+something he may have he may have been
+being attacked himself and the other
+reason you're wrong is they went on the
+attack immediately and they denied that
+there was anything wrong they did not
+take ownership of it and that's why
+we're having this debate right now is
+they don't take ownership of these
+things Marco Rubio did say someone made
+a big mistake there were no
+consequences we learned we're going to
+do better and he is a secretary of state
+so someone in the
+administration did say that this was a
+mistake yeah and the other guys attacked
+a journalist so that's what I find
+distaste no no but hold on a second
+Trump said it was a mistake too I don't
+think these guys it it is it's a mistake
+so fix it and move on but the point
+should be what is the mistake the
+mistake is the security protocols that
+these guys rely on I don't I'm going to
+just go out on a limb as expert as they
+are in policy I think they're in experts
+in technology so there is probably
+somebody that is responsible for how all
+of these folks communicate how all of
+these folks get software installed on
+their multiple devices okay how they get
+new devices it I'm guessing that it's
+not them so I think that they're using
+their personal devices I think that's
+the problem why why is anybody in
+government using a personal device to
+Share Plans how do you know that for
+because they said it was their personal
+device
+they've said it this has been
+established that they did this on their
+personal devices that that that's
+totally established now okay um so and
+they have skips for this so I I just
+don't understand why they don't just
+their but again I'm saying the bigger
+issue is that they had to
+operationalized quickly they weren't in
+a position to be together the importance
+of the issue is getting lost it was an
+important issue that has consequences
+they're all within 10 ft of a skiff at
+all times their their SUVs are Skiffs
+their offices are Skiffs scav you have
+any final that's why before we move on
+to the yeah I would just say I thought
+the contents were interesting and that
+there are a couple of things you know
+there's all this you know oh the Trump
+Administration is you know coing up to
+Russia and you know trying to blow up
+these you know this post World War II
+alliance with Europe there are two
+things one they said we are the only
+people on our side of The Ledger who can
+deal with the houthis and our side of
+Ledger meaning like recognizing kind of
+Europe you know tradition alliances the
+good team the good team so I thought
+that was interesting that just for all
+the rhetoric they're conscious of who's
+the home team and second they made it
+was very clear to everyone in that chat
+and JD van raised it 3% of America's
+trade goes through the sus Canal 40% of
+Europe's trade so we are really doing
+this it will help us a little bit but it
+will help Europe a vast amount and we're
+doing something that helps them that
+they cannot do now hey they're asking
+that they want to be paid but I just
+think it made me think that behind the
+scenes a lot of this rhetoric about you
+know the US and the European Schism is
+overblown and we're still helping them I
+thought that was interesting yeah I
+think it's important note okay let's
+move on to our final two stories the
+Trump Administration has deported 238
+alleged gang members to a pretty severe
+prison called Cott CE coot prison in El
+Salvador here's a clip of them being
+dragged out of the United States and put
+into this
+extremely
+notorious prison this was all done under
+the alien enemies Act of 1798 this
+allows the president to detain and
+support individuals without due process
+from quote an enemy Nation during an
+invasion or quote predatory incursion
+it's been used before but only during
+actual Wars FDR used it to deport
+thousands of Germans Italians Japanese
+during World War II the Trump
+Administration is claiming that the gang
+members were sent to the US
+intentionally calling them a hybrid
+criminal State not surprisingly most of
+them were not all of them had criminal
+records in the US uh this was confirmed
+by ice and obviously some number of
+them appear to have been misidentified
+as gang members or terrorists I can tell
+you you know coming from a law
+enforcement family and just looking at
+the statistics out of 238 you're not
+going to bat a thousand so maybe you get
+a couple of these wrong former pro
+soccer player jersey Rees baros he fled
+Venezuela after being tortured by the
+government for protesting he's a
+refugee he has been mistaken for a gang
+member according to his people because
+he's got an arm tattoo supporting his
+favorite Club Real
+Madrid and there is a social media post
+that ice officials believe
+featured him making gang signs but it
+was actually the language for I love you
+according to to his attorney second
+example a shoe salesman and social media
+influencer noberto Rodriguez he fled
+Venezuela for Columbia out of
+desperation because he and his family
+were starving he's a father of three he
+was also suspected because of a tattoo
+which features playing cards and dice
+his family says he got to he got it to
+cover a scar on his forearm and third
+and final example stylus and makeup
+artist Andre Hernandez he is being
+represented by the immigration Defenders
+Law Center
+he claims he has no criminal history he
+sought Asylum after fleeing Venezuela
+where he was persecuted for being
+gay again his arrest was based on
+tattoos that is attorneys claim are not
+gang affiliated this has caused the US
+District Judge to pause these
+deportations the Administration has
+apparently continued these deportations
+and they're even gloating by doing
+videos highly produced videos
+threatening people with the prison in El
+Salvador again the seot your thoughts
+chth on this extradition process if any
+I mean as long as there's a mechanism
+for these mistakes to get
+rectified seems like the overwhelming
+majority of these folks should
+not have been in the United States and
+we part of illegal criminal
+organizations okay so there should be a
+mechanism Gavin your thoughts if
+innocent people were sent to a prison
+like that's a terrible mistake and you
+know that that
+happens and it shouldn't happen and
+hopefully it gets rectified but I guess
+my bigger thought is a little bit you
+know the this Administration and as we
+discussed they have a really ambitious
+agenda they want to fundamentally change
+America in the ways that they think will
+be better for kind of blue Coller normal
+working Americans and things like this
+you know signal gate if you if they made
+a mistake and sent innocent people to
+this prison there's only so many of
+those mistakes they can afford before
+they lose kind of the Mandate necessary
+to accomplish their
+goals and you know hopefully it's you
+know we're we're whatever we're not even
+into the you know third full month 66
+days 66 days we're into the third month
+but um we're 4.5% of the way through the
+second term and it feels like
+yeah six gamucci in yeah it's brutal It
+Ain't Easy here this is such a good
+point though Gavin continue they just
+execution matters like if they they to
+accomplish their goals they need to
+execute at a high level and
+communicate clearly and effectively and
+just if innocent people were sent to you
+know this prison mistake signal gate
+look you know hey maybe it's a big
+mistake it's a small mistake depending
+on where you sit I thought Marco Rubio's
+response was good but just like I think
+execution is important for them to
+accomplish their goals great freeberg
+any thoughts here I do not agree with
+sending people to prison or Detention
+Center that due
+process I felt similarly that Guantanamo
+Bay because I don't think
+it matches the rights and the values
+that the United States should stand for
+I think it's different if you believe
+that they're here illegally part of a
+criminal Enterprise and we don't want to
+try them in courts here then we should
+ship them back to a port of departure
+somewhere else in another country maybe
+it's back to Venezuela and let their
+courts try them but I will talk a little
+bit about this El Salvador motivation as
+you guys know the El Salvador prison
+that they set up for putting the um the
+gang members in had a radical impact on
+living standards in the country in 20 15
+the homicide rate per capita in El
+Salvador was 103 people per 100,000 so
+out of every thousand people were
+murdered every year they introduced this
+aggressive policy of rounding people up
+without you process and putting them in
+this prison and through that action they
+were able to reduce the homicide rate
+per capita below two per 100,000 which
+is what it was last year
+1.9 so it had a radically positive
+effect on society but obviously at the
+cost of a value that we in the United
+States hold dear which is the the value
+of due process and and the importance of
+due process because all it takes is one
+innocent life being locked up but so
+you're saying El Salvador there was no
+due process there was no due process and
+so there are plenty of stories if you
+watch the documentaries on this prison
+there are plenty of stories of people
+that later were released when they were
+found to be completely innocent and
+randomly rounded up or caught up in a
+sweep or something that they shouldn't
+have been at um and there was actually
+one fascinating interview I saw of one
+of the guys who spent over a year in the
+prison was completely Innocent but he
+said you know what it was worth it
+because the government's been able to
+clean up the streets I got to find this
+clip but I was really like shocked I
+couldn't believe that a guy that spent a
+year in this prison actually had
+something positive to say because it was
+such a say that to get out who knows you
+know well it was such a profoundly
+difficult place to live in El Salvador
+and we've all heard these stories but I
+do think that there's an a cue being
+taken by this
+Administration that there's a way to
+kind of very quickly resolve to a
+positive outcome with respect to
+immigration and crime but I do think
+Gavin's point is right that we do have
+to have some boundary conditions
+particularly as it relates to human
+rights that we do value here in this
+country and as long as there's a court
+trial as long as there's a judge as long
+as there's some sort of it doesn't need
+to be a jury of peers but as long as
+there's some evidentiary hearing to make
+the determination that someone is you
+know likely this criminal makes sense
+but again I'm much more in favor if
+there's going to be forced movement of
+people I don't think that they should
+necessarily be moved into a prison as
+much as moved to a port of departure and
+have them tried in another country if is
+a crime or we try them here and put them
+in prison I agree so much with what you
+just said due process is important like
+America like human rights are a core
+American value that was great you
+acknowledged that like the outcome in El
+Salvador was good homicides down 99.9%
+lots of lives saved and just you know
+there needs to be a balance between
+these yes then let me ask you guys a
+question very pointed question if you
+guys could Implement an El Salvadorian
+Style
+incarceration system
+tomorrow and it would have the exact
+same effect on American Crime so yeah C
+by with and and and I'll give you
+there's a four or five% error rate would
+you do it would the benefit of the safer
+Society be outweighed in your minds by
+the error rate or not absolutely not
+most people would say yes because they
+would view it wouldn't affect them and
+then the two 5% of people who have
+family members who are innocent get
+locked up I get that I'm saying what do
+you think yeah I I I wouldn't compromise
+that value yeah yeah we don't want to
+compromise that value it's incredibly
+dangerous yeah incredibly dangerous
+we've been riding on a bit of a high and
+I think there's a couple of things here
+this Administration could do better and
+communicating when they make a mistake
+and then human rights is such a core
+part I believe me Jason calanis believes
+that there is a sadistic nature to this
+Administration is an Achilles heal for
+them and when you see them doing videos
+from these prisons and saying this is
+going to happen to you and this prison
+is known for torture and this prison is
+known for just absolutely the most
+abhorent issues in the world this is the
+sadistic nature of this Administration
+that I think they need to drop because
+it is going to derail them and people
+care in this country deeply about human
+rights and process and there is a
+constitutional issue right now because
+Trump and this Administration is
+disobeying the court when they say hey
+let's slow down here there is no cost
+zero cost to Americans sending these
+people to a was station and
+investigating each of these cases to
+make sure we don't send a gay
+hairdresser to El Salvador another
+country to be tortured in prison if that
+is in fact the case and it is Against
+All American principles to not have due
+process and to have innocent people
+potentially go to jail and what all
+Republicans should do is here is say
+this is going to derail the
+administration these are the things that
+will build up over time and people just
+pragmatically speaking people in America
+who are rooting for this Administration
+to do some good things like I am when
+they do stuff like this and I represent
+a large swath of people it loses them
+votes and this is why they I predict
+this is why they will lose the mid turns
+if they continue to do this type of
+stuff that's my position it's not
+virtual signaling I've cared about human
+rights long before the all-in podcast
+existed I my first job was working at
+Amnesty International and this is a
+giant Mistake by this Administration
+Gavin you had some thoughts this whole
+debate is a question of ins versus means
+and it's like we all agree that the
+homicide rate down
+99.9% and Al Salvador is a good outcome
+it's a good end and this is one of the
+great philosophical questions and it's
+you know we can debate it
+endlessly and there has to be a balance
+between the two human rights are a core
+American value and I agree I think with
+a lot of what David said but I also
+think if you are you know going back to
+that homicide rate the Trump campaign
+you know they spoke to the mothers and
+the families of people who were brutally
+murdered or raped and
+murdered by um people who were illegal
+immigrants and were convicted criminals
+in their home country and were known
+convicted criminals and some how still
+were not apprehended and then committed
+terrible crimes that were very similar
+to the crimes they committed there you
+have a lot of compassion for the victims
+too but all they have to do like one of
+I thought elon's best moments and I
+think you know it's what doge is doing
+is great these are brilliant people
+working hard for
+free to do things that have never been
+done before in the government in terms
+of efficiency and kind of modernizing it
+but you know Elon said at one of the at
+the first press conferences listen we're
+going to make mistakes and then we're
+going to quickly correct them so to me I
+think all the administration needs to
+say and I do think more due process to
+David's point is good is like listen if
+we made a mistake it's terrible and
+we're going to fix it
+immediately and it just it bring gives
+you so much credibility when you say
+that
+agreed but isn't due process happening
+how else would you guys know that three
+out of the 238 were miscast the fact
+that you know that means the process is
+working I I think the question is what
+about the other 235 people their
+families talked to the press this wasn't
+from the administration from but the
+point is it's it's there so whether it's
+the freedom project or whether it's the
+Southern Property Law Center my point is
+there are resources is it bad when this
+happens absolutely my question is do you
+just blow the whole process up and then
+what do you do with the other 235 people
+You' hold all 238 at GMO if you wanted
+to in Humane prisons and process them
+and then have their attorneys get to
+look at their case you could give their
+cases to you could be public with their
+cases and say here are the cases these
+are the people we deporting and why
+right so your specific issue is where
+they're being sent yes you Cham they're
+being sent to the most sadistic prison
+in the world Cham do you want to answer
+your question about like the 5%
+trade-off like if you sweep up 5% of the
+people being innocent whether it's worth
+that trade off for
+Crime did I get an answer you well you
+asked the question but I wanted to hear
+your answer like what's your point of
+view on that I think that that's
+probably what happens today in America's
+prisons in fact it's probably more than
+5% but I guess the question is Jam what
+is an acceptable you know it's a little
+bit like the trolley problem you know
+there are many variations of this I
+think the important thing is I think
+that that a bit above our pay grade but
+I don't think it's above the presidents
+and I think that that was part of what
+he was elected to do is make that call
+because I don't think he hid behind any
+rhetoric he was very clear about what
+his intentions were and to your point he
+did bring the you know Lake and Riley
+act I mean they were very explicit about
+what their intentions were
+yes but man it just feels like a little
+more due process being a little more
+careful with the signal but also just
+going back to what were 4 and a half%
+into the administration I'm not saying
+hey mistakes were made and it's okay
+inent people were sent to this prison
+that's terrible and I hope it gets
+rectified quickly if there was some
+concession here hey if we made a mistake
+we're going to fix it that would be a
+lot better than putting out promotional
+videos Ling how brutal this prison is
+that would go a long way with me but
+we're seeing the opposite they're
+releasing videos that they're producing
+we we'll play one here for you to see by
+the way I I think an important point
+about
+this and perhaps like the key part of
+the strategy of the administration is
+that this isn't the beginning of a
+continuous
+process
+but they're sending a signal which they
+expect will cause people to naturally
+immigrate out of the country that are
+committing crime or at risk of being
+caught for being associated with gangs
+and while beinga uh in the United States
+as a way to kind of Chase folks out so I
+think that there's some calculus and
+what's going on here with respect to the
+risk and the actions being hey look if
+we do this to the first 240 people and
+even if or four innocent people get
+caught up there's a net benefit
+ultimately because it will reduce the
+immigra immigrants kind of coming to
+this country that are parts of gangs and
+perhaps some of them will choose to go
+home you know they clearly believe that
+this is that this is going to save
+innocent lives in America that is their
+clear belief
+system well yeah and everybody wants
+that here's secretary chrisy Noam from
+the prison itself at Cott today and uh
+visiting this facility and first of all
+I want to thank El Salvador and their
+president for their partnership with the
+United States of America to bring our
+terrorists here and to incarcerate them
+and have consequences for the violence
+that they have perpetuated in our
+communities I also want everybody to
+know if you come to our country
+illegally this is one of the
+consequences you could face uh first of
+all do not come to our country illegally
+uh you will be removed and you will be
+prosecuted but know that this facility
+is one of the tools in our toolkit that
+we will use if you commit crimes against
+the American people harsh words she's
+trying to make it a deterrent clearly
+all right another amazing episode of
+Allin is in the can for Gavin Baker
+David freeberg and jth
+POA I'm Jay Cal Jason Cal canis and we
+will see you all greatest next time
+virtue signal [&nbsp;__&nbsp;] [&nbsp;__&nbsp;]
+did you see I love I mean I can't even
+take it there I'm sorry I'm passionate
+about some things I'm passionate about
+some things look at this I can't tell
+how much of the tension is real vers
+like I love I
+love let your winers
+ride Rainman
+David and instead we open source it to
+the fans and they've just gone crazy
+with it love queen
+[Music]
+of Besties
+that's my dog taking
+[Music]
+driveways oh man myit will meet me at
+should all just get a room and just have
+one big huge orgy cuz they're all this
+useless it's like this like sexual
+tension that they just need to release
+[Music]
+Som we need to get mer
+[Music]
+I'm going all in

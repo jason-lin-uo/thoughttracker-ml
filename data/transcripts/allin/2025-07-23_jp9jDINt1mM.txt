@@ -1,0 +1,1328 @@
+# Winning the AI Race Part 4: Scott Bessent, Howard Lutnick, Chris Wright, and Doug Burgum
+# https://www.youtube.com/watch?v=jp9jDINt1mM
+
+Secretary Bessant, it's uh wonderful to
+see you.
+Before we maybe deep dive into AI, do
+you want to give us um the highlevel
+update on the 333 plan? How are things
+going? Um you you had an incredible
+clip, by the way, with Maria Bardomo
+where you talked about some of the
+things that were happening economically.
+Maybe just level set everybody on what's
+going on. So just just for good framing
+during the campaign IDA 333 plan
+&gt;&gt; I think his microphone's off. Can we get
+the microphone on for Scott? Test test
+&gt;&gt; test.
+&gt;&gt; There it is.
+&gt;&gt; Okay, good. So I had a plan that I I
+called 333. And the idea was to get the
+budget deficit, which was running about
+6.7%
+of GDP under the Biden administration,
+high highest that we'd ever had when we
+weren't at war or in a recession down to
+3% uh 3 plus% economic growth on a
+persistent basis and to create 3 million
+more barrels of energy equivalent. So
+oil and gas um before President Trump
+leaves office and look we're full speed
+ahead. Uh we had the first June was the
+first positive
+June for the Treasury since 2015. We
+actually had a surplus
+and
+we we did that in a good way. We took
+took in more revenues, some from
+tariffs, and we brought down spending.
+And when when I think about what we can
+do here that what I'm really excited
+about is the idea uh you know with AI
+that we can go back to the paradigm
+when I I was younger in the '9s. Allan
+Greenspan was able to run the economy
+very hot
+&gt;&gt; in the 90s and because of you know it
+was the IT boom and we had this very uh
+powerful non-inflationary growth and I
+think that there that it's highly likely
+we could have that now and so that kind
+of growth would bring down the deficit
+very quickly.
+you uh there's been a lot of talk today
+about the amount of capex spending that
+needs to go into AI and all of the jobs
+that it creates and you uh posted as
+well actually a couple days ago and you
+talked about that there's just been an
+inflection point that you've seen in
+capex spending sort of as a steward of
+the US economy. Can you tell us about
+what what's happening?
+&gt;&gt; So it it's com combination and it's a
+barbells. So, uh, I I've been in
+Pittsburgh twice in the past four weeks.
+Four weeks ago, I went with President
+Trump when he announced the US Steel
+Nippon Steel deal, substantial
+investment by Nippon Steel into an old
+very important industry. And then last
+week on Tuesday, there there was an A AI
+summit in in Pittsburgh, all the big
+players. And Pit Pixsburg is a natural
+location uh for AI. Uh lot lots of cheap
+energy. Carnegie Melon Pit uh are there.
+And so it was very interesting to see
+the juxiposition there. But we are
+seeing uh this incredible capex. The
+hyperscalers are have obviously been in
+an arms race kind of you know the big
+five the big seven. We estimate that
+that is approximately 1% of GDP a year.
+&gt;&gt; Wow.
+&gt;&gt; So $300 billion.
+&gt;&gt; Wow.
+&gt;&gt; That's being spent on AI. And in my
+perfect world, which never happens, uh,
+we would go through this big capex boom
+and then sometime in 26, the capex boom
+would hand off to a productivity boom. M
+&gt;&gt; I mean it's an incredible thing because
+it's sort of you mentioned alluded to
+this a little bit earlier but it does
+violate a lot of economic theory in the
+sense that it just hasn't had the
+negative pernicious effects. Do you
+think is that is that a yet thing or do
+you think that we're in a structurally
+different kind of economy now?
+&gt;&gt; You mean the AI boom?
+&gt;&gt; Yeah.
+&gt;&gt; Well look we we've seen uh throughout
+history that technology can can drive
+these things. If you go back, I'll talk
+about the ones I was around for. I was
+not around for the railroads, but eight
+18, but I I used to teach economic
+history. 1880s, 1890s, the the railroads
+made it 10 times faster to cross the
+United States. We had this incredible
+productivity boom. It was the gi
+gigantic GDP growth and it was
+disinflationary. So imagine you're
+having doubledigit GDP numbers and
+inflation was -2 -3 -4%
+just cuz the costs were coming down.
+Then in the 1980s
+uh under Reagan we had what I would call
+a deregulatory
+boom because hard for anyone everyone in
+this room to remember but everything
+used to be regulated. you know, price of
+airline tickets, the uh te telephone
+bills, uh banking services. So, uh 1980s
+we had a deregulatory boom, you know,
+Paul Vulkar brought down inflation, but
+it was also the deregulation.
+1990s which I previously mentioned we
+had had a
+electronic buildup and then finally it
+kicked in especially in office work um
+and that led to a big productivity boom
+and we paid down paid down the national
+debt right
+&gt;&gt; you know I mean
+&gt;&gt; had a surplus
+&gt;&gt; we we had a we we had a surplus and I
+mean it it seems crazy I found a paper
+the other a that people were wondering,
+well, what are we going to do if there
+aren't any government bonds?
+&gt;&gt; But we didn't have the
+&gt;&gt; But we fixed that. There are plenty of
+government bonds. But I I I do think
+there's a chance now that we could have
+this growth acceleration
+and I if I'm shooting for 3%, but I I
+can tell you the trajectory of the debt
+path really changes. And if we can also
+uh have lower interest rates because
+it's non-inflationary
+and I I I think the Fed's going to have
+to be open to this idea.
+&gt;&gt; So let me ask two questions on that. The
+first is at that the examples you gave
+we didn't have some of the tariff that
+since we last talked several of these
+trade deals have been negotiated out
+further. You have better clarity
+probably on what the tariff rates are
+going to be. what do you estimate the
+dampening effects on the growth rate to
+be if any associated with the tariffs in
+those trade deals and uh second is love
+to hear your point of view on the
+Chinese report of s selling half of
+their US treasuries and where's the
+market for treasuries going to kind of
+fall over time here so two parts
+&gt;&gt; uh so um
+&gt;&gt; to address the interest rate
+&gt;&gt; yeah so I I think that
+um in terms of the well I I'll I'll take
+the second one first. Uh we we expect
+that that the Chinese will slowly
+divest, but that with the passage of the
+genius legislation last week, I I think
+that we could see several trillion
+dollars of demand for T bills because
+the way the legislation works, it it's
+under 90 days. And I I think that that's
+really going to lock in the US dollar in
+terms of uh
+you know individuals on the street in
+whether you know it's it's Nigeria qual
+are are going to be using stable
+USbacked stable coins and if I think
+about the alternative
+um you know if you think about a central
+bank digital currency
+China
+Euro or ECB or even Canada. You know, a
+lot of you will remember during COVID,
+the Canadian government, they didn't
+like what some truckers were doing and
+they seized and froze their bank
+account. So, with a central bank digital
+currency, you could put out a mean
+tweet. Not that any of you are,
+&gt;&gt; but if if you put out a mean,
+&gt;&gt; no one up here is known for doing that
+&gt;&gt; ever. uh uh that
+if you have a government backed then
+they they can shut you down as opposed
+to this kind of unbridled
+uh choice that consumers are going to
+have for US dollar stable coins.
+&gt;&gt; And on the first question about growth
+rates being hampered by tariffs, is is
+the revenue you're seeing offsetting
+effectively the rates?
+&gt;&gt; We we we haven't seen that yet. And I I
+think there's a good chance that we
+could see. So if we think about China,
+so chi China's are you China has a high
+tariff rate. It's 30%. The Chinese
+business model is like the the brooms
+and the water buckets from Fantasia.
+They they just keep they they just keep
+going. And it's an it's an employment
+agency.
+&gt;&gt; I'm thinking of the song. I know the the
+piece. Yeah. A and it's an employment a
+so they they will just keep cutting
+costs to uh maintain market share. So so
+we haven't seen that thus far and a lot
+of the other foreign producers have cut
+cut price to maintain market share. A
+lot of the US companies have eaten into
+their margins to maintain market share.
+And then but the other thing we're
+seeing is the tariffs are creating the
+onshoring.
+&gt;&gt; So you might have seen can't remember
+whether it was yesterday the day before
+Astroenica said that they were going to
+build
+&gt;&gt; 50 billion
+&gt;&gt; incredible
+&gt;&gt; plant here. So we're seeing this this
+big onshoring move that I think can
+accelerate all that. So yeah, I I think
+there's a very good chance that we see
+just like with AI, we're seeing now
+we're in the construction boom phase,
+then we're going to be in the use case,
+right?
+&gt;&gt; I I think we could have this massive
+construction boom
+&gt;&gt; and then the factories get populated.
+And part of the President Trump's one
+big beautiful bill, the most powerful
+part of that is the 100% immediate
+expensing,
+&gt;&gt; right,
+&gt;&gt; of equipment, and we also did it for
+factories. So, not only are we trying to
+make the US the the best destination
+regulatorywise,
+we're also making it tax-wise. So, you
+you can immediately write off all the
+equipment for the next 5 years. You're
+going to be able to write off the
+factory structure and I I saw
+Secretaries Bergamman right and we're
+going to have cheap energy. Yeah.
+&gt;&gt; Which seems like a pretty good
+combination. Should the Fed remain
+independent?
+&gt;&gt; Sorry,
+&gt;&gt; the Fed, should it remain independent?
+Should uh Trump replace the Fed chair?
+You know, you guys seem a bit frustrated
+with him. Uh what are your thoughts
+there? Because you guys have done such a
+good job in terms of the confidence in
+the markets. CPI went up a little bit in
+June and it does seem like the economy
+is very strong and people are very
+confident. So then poly market is
+showing no rate cut is the most likely
+case in September. So how do you think
+about the Fed? Well, I I think if you if
+you look that the Fed publishes
+something called the summary of economic
+projections and it's it's pretty
+politically biased. Uh but we're we're
+seeing that we could see one two rate
+cuts this year and I think that once we
+see o over the next one two months that
+the tariffs haven't been inflationary
+and you I I have breakfast with chair
+Powell almost every week and you know I
+just keep saying that a one-time price
+level increase is very different than
+the notion of a persistent inflationary
+spiral. I think that you uh we used to
+say TDS was Trump derangement syndrome.
+I now say TDS is tariff derangement
+syndrome,
+&gt;&gt; right?
+&gt;&gt; And when you think about it, the market
+crashed, then it had the fastest
+recovery in history over a 54-day
+period. We're back at a new high. So I
+think the market's looking through all
+this to next year with the productivity
+boom. And to to the question,
+I think minimum on a forward 12-month
+basis, we're going to take in at least
+$300 billion in tariff income.
+&gt;&gt; Yeah. Are they punishing you in a way
+for maybe the roll out of the tariffs
+was uh a little bit shock and awe or a
+little bit uh effervescent, however you
+want to describe it. It was pretty
+intense. Is the Fed sort of punishing
+you for that in your mind?
+&gt;&gt; Uh, no. I I think that they're they're
+just stuck in in an old way of thinking.
+&gt;&gt; How much should they cut? What should
+they How should they think?
+&gt;&gt; Uh, look, I'm only going to talk about
+the mistakes they made, not the mistakes
+they're going to make. Um, but the the I
+I I I do think at a at a point they're
+just going to have to kind of admit that
+they have have been wrong because if if
+you think about it, I don't believe that
+a tariff is a consumption tax.
+&gt;&gt; Right.
+&gt;&gt; But if tomorrow we put on a 1%
+consumption tax, you would never say
+that's 1% inflation.
+&gt;&gt; That's right.
+&gt;&gt; Right.
+So I I am I am hoping that in their
+infinite wisdom that the I can't
+remember it's 350
+PhD economists which I I said on TV it
+was either yesterday or the day before.
+My worry is that the Fed is turning into
+universal basic income for PhD
+economist.
+&gt;&gt; Right? That I I don't I don't know what
+they do. They're never right. If you if
+you were to
+&gt;&gt; maybe you should double the number of
+PhDs if you go to 700 they might get it
+right. Well, well, look, I I mean, if
+you were to look at the central value
+tendency ver versus how they've done it,
+it's shocking. It's shocking. I said
+like if air traffic controllers had did
+this, no one would get in an airplane.
+&gt;&gt; They do seem to put a little tail on
+everything.
+&gt;&gt; Last the last question maybe as we wrap
+this up. Secretary as a economic
+historian maybe just very briefly tell
+us the lessons of these previous
+economic expansions technological booms
+what we need to learn from those things
+whether it was railroads or whether it
+was the agrarian revolution or the
+industrial revolution so that we don't
+screw up the AI revolution what are the
+few critical things we need to do right
+&gt;&gt; well I I think the most important thing
+that that we are doing is getting out of
+the way and setting
+the the conditions for it because
+I I would say one of the surprises that
+I I've had and I've had a lot of them
+when I went from civilian to a public
+servant has been that in the US we've
+made it so hard to build things.
+&gt;&gt; Right. Right.
+&gt;&gt; And it's just very frustrating. I'm I'm
+sure Doug Doug and Chris will talk about
+it, but this idea
+TSMC wants to build a gigantic fab
+system in Arizona and I I think it might
+be able to prod produce up to 7% of the
+chips that the United States needs. and
+they're dealing with local building
+inspectors who said and you know
+evidently like the these chip design
+plants are moving so quickly. You know
+you you're constantly calling an audible
+and you're saying well like
+3 months ago it looked like this but in
+18 months we've now decided it needs to
+look like this. And you you've got
+someone saying well you said the pipe
+was going to be there not there. we're
+shutting you down.
+&gt;&gt; So, a and you know just the level of
+permitting we always talk about how I I
+think I may have even talked about it on
+your podcast how Germany had
+de-industrialized,
+&gt;&gt; right?
+&gt;&gt; We even made the decision to
+de-industrialize
+&gt;&gt; through our environmental regulations.
+And I think the most important thing we
+can do is make it easy to build things
+again and uh stay out of the way and not
+overregulate.
+&gt;&gt; Secretary, thank you. Thank you very
+much.
+&gt;&gt; Thank you guys for being here. I know
+it's been uh a rushed afternoon. We did
+not expect
+the uh uh the incredible turnout that
+we've had, but thank you both. Um,
+you're the chair and the vice chair of
+the National Energy Dominance Council.
+We've talked at length today about the
+boom underway in AI. Uh, we've talked
+about this on the podcast. The US energy
+production capacity, electricity
+production capacity is about a terowatt
+today, growing to an estimated 2
+terowatt by 2040. China's going from 3
+to 8. They're adding in America every 18
+months. Um, maybe you guys could just
+give us an update on the National Energy
+Dominance Council, how that work is
+going to try and accelerate energy
+production in the United States to help
+enable this AI boom.
+&gt;&gt; Well, h happy to do that. And I just
+want to say again, thanks to the all-in
+for pulling together this amazing uh
+team
+&gt;&gt; and Hillen Valley.
+&gt;&gt; Yes.
+&gt;&gt; And Hillen Valley, too. Thanks,
+Christian. uh we uh when when we look
+back on this day when historians look
+back on uh the the the challenge of our
+times which is like the summit called
+winning the AI arms race I think one of
+the things they're going to dis conclude
+is that the reason why the United States
+won the AI arms race was because of
+President Trump and and I'm not saying
+that as a political statement. I'm
+saying that the policy of the Trump
+administration is more energy fast and
+an understanding of how important it is
+uh for the AI arms race. And so with
+that, as you've just outlined, we've got
+a huge challenge ahead of us. Uh you
+know, China uh is deploying everything.
+I mean, they added 94 gawatts of coal
+last year. 1 gawatt's Denver. Uh they're
+60 over 60% of their power is still
+coming from coal. They're just pouring
+uh pouring that on. The Wall Street
+Journal ran an article yesterday talking
+about what a great job that China was
+doing with EVs and with solar. I read
+the whole article. They never mentioned
+coal. It's twothirds of their electrical
+power. And and so then just by
+definition, I mean twothirds of the the
+EV cars in China should have a bumper
+sticker that says powered by coal. Uh so
+they are this is a we're in a race of
+our lifetime. They're also doing
+nuclear. They're doing hydro. They've
+got no permitting issues. I mean they
+build a hydro dam. It'd be like the
+equivalent of us putting a dam on the
+Grand Canyon what they were doing on the
+Yang Sea. So we've got real competition.
+We can lead in technology but we haven't
+been leading on electric production. So,
+the National Energy Dominance Council,
+part of the job that Chris and I have is
+helping through cut red tape, uh,
+produce more electricity, whether it's
+hydro, geothermal, nuclear, uh, and and
+and, and of course, LG, natural gas is a
+key part of this. And then bringing back
+coal and making sure that we stop
+shutting down base load in America, uh,
+has been a key part of what we're doing.
+&gt;&gt; Yeah. And he's just to riff off that
+where United States gets electricity
+today in order natural gas by far then
+nuclear then coal those three sources
+are 75% of US electricity and 90% of
+what matters which is electricity that's
+there whether the sun's shining or the
+wind is blowing. Um but we had in the
+previous administration's plans to
+remove three and a half gawatts of hydro
+power. We're going to stop that. There's
+plans between now and 2030 to close to
+close a 100 gigawatts of power plants.
+100 gigawatts. Um and we're stopping
+most all that. Yeah. Just I I see the
+head nodding. Right. If we need to add a
+hundred after the meetings they had this
+morning, I think it's more than 100
+gigawatts in the next five or seven
+years. The first thing to do is stop
+subtracting 100 at the same time you
+want to add a hundred. Um but I think
+America became great by big bold people
+making big bold investments. That's
+where we got here. And then we've just
+drifted off track the last bunch of
+years and made it so hard to build
+something so easy to stop something and
+just a crazy love affair with
+intermittent unreliable energy sources.
+&gt;&gt; You're talking about solar. Why are you
+so down on solar? This is the cheapest
+thing you can install. Batteries are
+here and they're being produced at a
+incredible rate. Why Why are we so
+anti-olar?
+&gt;&gt; Or why are you so anti-olar?
+&gt;&gt; Oh, I'm not anti- solar. So why do you
+keep saying then that like this
+unreliable solar if you put batteries on
+it it's totally reliable
+&gt;&gt; if you take all the batteries in the
+United States you could store 5 minutes
+of power 5 minutes
+&gt;&gt; of the entire country but if we've had
+many days in California and in Texas
+where solar has been the majority of it
+so why are you so down on solar
+&gt;&gt; it it can be the majority on a sunny day
+in the summertime that's not what
+matters you in PJM where we are right
+now at peak demand this year 97% % of
+electricity, wind, solar, and batteries
+delivered 3%. That's when it matters. If
+you're 20%
+&gt;&gt; cherry picking DC, you're cherrypicking
+DC. Let's talk about California and
+Texas. These are very voluous states in
+terms of population.
+&gt;&gt; Absolutely. Let's talk Texas. So, the
+peak demand times in Texas have been
+cold spells, low they're high pressure
+systems in the wintertime. Yep. Wind and
+solar go on vacation. They're 35% of the
+capacity in Texas, 8% of the delivered
+power at peak demand.
+&gt;&gt; Talking about 2 weeks. I live in Texas.
+&gt;&gt; Yeah, but those are the two weeks that
+matter, right?
+&gt;&gt; No, the other 50 are the ones that
+matter actually. But sure,
+&gt;&gt; in in in in Yuri when they weren't
+ready, over 200 people died. We we don't
+want people to die. We want the lights
+to go on when people need them. And and
+it's the system cost that matters. If
+you're not there at game time, all you
+are is a parasite on the systems that is
+there.
+&gt;&gt; Let me redirect this uh back to AI
+because um
+&gt;&gt; Good idea.
+&gt;&gt; Good idea. So
+if you if you actually forecast the
+growth of just the servers and then the
+robots and all of these things
+um we're going to need terowatts and
+terowatts that's on one side and so the
+obvious solution would be to build right
+to drill to do what we need to do and
+then on the other side is this latent
+fear that some people have that this
+will somehow upset the apple cart
+sustainability the climate etc. How do
+we create the logical bridge so that
+people really understand that this is
+all possible that this is not going to
+destroy the earth and that we can get
+this abundant energy especially because
+as you guys have said very well if we
+don't do it and somebody else has
+marginal costless energy they will de
+facto win. So how how do we frame the
+argument so that people can understand
+this better? Yeah, I've been writing and
+talking about that for 20 years and and
+you're 100% right. And to me, it comes
+down to the same thing AI is focused on,
+which is on data and facts. We've
+increased atmospheric CO2 by 50%, 100%.
+It absorbs infrared radiation. It's been
+a force for warming. That's all true,
+but if you look at the trade-offs on it,
+it's not in the top five problems the
+planet focuses. And what has been the
+biggest source of decarbonization, not
+just in the United States, but globally,
+has been market forces. Cheap natural
+gases, displaced coal, and and what
+what's what's a lower carbon energy
+source? Nuclear. That's on all the time.
+So, this administration all in to get
+the nuclear industry moving again.
+Natural gas is the fastest growing
+energy source on the planet. Get out of
+the way of that. Let natural gas grow.
+It's the cheapest source of electricity
+in the US. I'm pro solar as well. I just
+don't want taxpayers to pay for it. I
+want businesses to pay for it. But solar
+is going to keep growing. Solar is going
+to keep growing.
+&gt;&gt; When you got nuclear expansion, I just
+want to talk about nuclear expansion for
+one second. So, um, how do we actually
+build these things faster, have the
+capability and the, you know, the
+technical construction knowhow so that
+these aren't 15-year projects, but also
+how do we incentivize the states to
+basically get out of the way, uh, or
+like, you know, these other
+organizations that can launch the
+frivolous lawsuit, slow it all down. How
+do we do that?
+&gt;&gt; So, lot of regulatory firm things. One,
+we're working on FK, right? FK has this
+inefficient Q system that just gets
+gummed up with mostly stuff that's never
+going to happen. FK came out yesterday
+with a new system where you're going to
+prioritize things that matter. They're
+going to move through faster.
+Uh you saw the Supreme Court decision on
+on NEPA. We got to get NEPA back to
+where it was. A process check on the
+environment, not an avenue for lawfare
+to stop things and kill things. So
+there's structural changes. There's just
+common sense reforms. We're going to get
+rid of Clean Power Act 2.0. 0 that says
+you're going to have to have carbon
+capture and storage, you know, 15 years
+out on any natural gas is what's going
+to power AI. Let's just be honest.
+What's going to be the main source of
+new electricity in the United States by
+far and away? Natural gas just because
+it's cheapest, fast, it's reliable and
+dependable. Solar is going to play a
+role. Nuclear's going to play a role.
+Hydro, geothermal, stop closing coal,
+lots of pieces, but it's dominantly
+going to be natural gas. It's the
+fastest growing energy source, not just
+in the US, but in the whole planet.
+There's a reason for it. It's cheap.
+It's massively abundant. It burns clean.
+The machinery lasts longer than
+machinery burning oil or coal or
+something else. Um, but it's a let
+businesses, Doug and I are not here to
+tell anyone what to build and what not
+to build. We're here to get roadblocks
+out of the way so capitalism and and
+consumers and investors can decide where
+&gt;&gt; I mean, that's the good news. Solar is
+cheaper than coal plants, right? So,
+&gt;&gt; okay. So some some of the um some of the
+the scal the scalability of nuclear
+&gt;&gt; as simple as that.
+&gt;&gt; Yeah. The scalability of nuclear I think
+is unbounded. Um and what we've seen in
+China in the past couple of years is
+these generation 4 nuclear reactors.
+This pebble bed reactor is probably the
+most elegant, beautiful energy system
+designed in human history. It's
+incredible what it can do, the
+scalability, the the cleanliness of it,
+how it works. We have no effort in this
+country today to build and deploy Gen 4
+reactors because there's no economic
+incentive. It the path to get there is
+so far. The cost is so high. What can
+the energy dominance council? What's
+what are you guys doing in your roles to
+make Gen 4 reactors? Because everyone's
+like go back to the AP 1000, these old
+Westinghouse designs from like 50 years
+ago and build that for nuclear. Why
+can't we build for the future? And what
+can we do to create the incentive to
+make this work?
+I was gonna say, I mean, the one thing
+that's already happened if if people are
+interested nuclear, which doesn't help
+us in the near-term race that we're in,
+the near-term race, as Chris said, is
+going to be won by us uh getting natural
+gas power online and stop shutting stuff
+down. But President Trump signed four
+executive orders on nuclear about 6
+weeks ago. Uh and there's been a flood
+of capital, fresh capital coming in.
+We've got a bunch of venture capital
+going towards, you know, over over close
+to a dozen different uh SMR startups. Uh
+there's a lot of interest going on in
+that field. Chris's work with the
+national labs redirecting that. Uh I
+mean nuclear's got a future, but it's
+it's not the thing we need in the next
+24 months right now. That's got to keep
+moving ahead. President Trump's
+executive order has helped that, but
+we've got to get focused on getting more
+power right now. Nuclear is the single
+biggest issue I work on. We will have
+three next generation Gen 4 reactors
+critical in Idaho National Lab next
+summer. M um we have we we're supplying
+Halo, the fuel for these next generation
+reactors to the we've already committed
+to five and we'll give it to a dozen of
+these next generation reactor companies.
+We worked in the one big beautiful bill
+to keep in the nudge the the tax credits
+for nuclear because the government
+smothered the industry and killed it for
+three decades. Even a free market guy
+like me thinks we need to get a little
+help to get it started.
+&gt;&gt; How far away are we till it's free
+market running?
+uh probably 10 years 10 years 10 years
+because it's just a learning curve with
+the the small modular reactors you got
+to build up the supply chain you got to
+build up and build them in volume the
+cost can come down dramatically but the
+first ones
+&gt;&gt; as you guys look at your energy demand
+curves do you account for this
+revolution happening in physical AI
+because every time I look at it's data
+centers this and buildings that but no
+one talks about physical AI which is
+batteries in robots and some people are
+estimating hundreds of millions or
+billions of these things being built
+trillions. Is this part of the the
+energy calculus as you think about
+demand?
+&gt;&gt; It it is it is a meaningful part of it
+and and and yes, the more you look at
+that, the more you see increased
+consumption of energy there and the more
+excited I get. The more we can build
+things at scale, the better we can get
+the economics. One one other data point
+we put out at the Department of Energy.
+We got 16 locations to build data
+centers. We said, "Who wants to come
+build one? We'll permit them right away.
+We'll help you build power generation
+right next to it." We got 300 responses.
+We we will announce tomorrow the first
+four of those sites that will be
+developed and then you'll hear many more
+coming behind that.
+&gt;&gt; How do we solve the um the supply chain
+issues around the turbines and the other
+enabling technologies that we need for
+things like Matt Gas because I I agree
+with you. Um I have a data center
+project in Arizona. It's a gigawatt and
+it'll be $25 billion of capital. But
+we're stuck in this weird situation
+where onshoring the the nat gas turbines
+are extremely difficult. Then you know
+you see certain people will just buy the
+nack gas entire plants and then ship
+them over. So how do we solve the supply
+chain constraints to generating the
+energy we need?
+&gt;&gt; Well, I wouldn't say if if again back to
+the immediate need right now. We need
+more power and we need power for
+factories that are producing AI like
+using Jensen's word which I think
+everybody should stop saying data
+centers because a data center if you're
+have a data center the way America
+thinks about them you're processing a
+shopping claim you know it helps the the
+seller the buyer and maybe a third party
+if you're processing a healthcare claim
+it's a provider a payer and a patient
+but in an AI it's general purpose
+technology it we're we're actually
+literally manufacturing every day over
+and over more intelligence and so that's
+different. It's not data centers. It's
+AI factories. And we've taken a look at
+NEC at the supply chain. If any of you
+are trying to build an AI factory and
+you need power and you haven't talked to
+Chris and I and our team inside the
+White House at the National Energy
+Dominance Council, you need to come and
+talk to us because we're mapping out
+talking to everybody in the industry.
+We're we're a neutral party, but we're
+saying here's where the shortages are.
+We've talked about things like the
+Defense Production Act. We've talked to
+companies that are producing turbines.
+everything we're doing, we say, "Hey,
+you've got to amp up because some of
+these people are sleeping on the
+sidelines." And they don't think there's
+going to be real demand. And we're
+saying, if anything, the demand is
+underestimated. So, we're trying to jack
+up the supply into the supply chain, but
+please contact us. Uh, we're there.
+Think of us not we're not a group that
+writes papers. We're a group that helps
+people build. We We help people build
+projects. That's what we do.
+&gt;&gt; Can't wait to visit. Just Just build a
+data center, Jake Helen. You'll get an
+invite.
+&gt;&gt; So, AI factory.
+&gt;&gt; AI factory.
+&gt;&gt; Somebody else can build data center.
+We got enough data.
+&gt;&gt; Secretary Bergen, right, can you as we
+finish up hit on the point we were
+talking about a little bit earlier,
+which is that you take a step back. The
+focus here upstream on these
+prioritizations from energy to critical
+minerals is not just you have a new
+market obviously on the AI side and
+there's huge demand and this buildout's
+important for national security. This
+buildout is important for winning uh the
+AI race. But the derivative impact is
+what's most interesting, right? These
+are thousands of jobs, tens, hundreds of
+thousands of jobs. And then on any of
+these manufacturing buildouts,
+particularly in factories, nuclear uh
+capabilities, they're going to lead to
+usually 10x the amount of indirect jobs
+as well. Back to Chim's point on the
+supply chain for these things. Can you
+talk a little about the job impact now
+that we're seeing? And then if we're
+successful here in this building at
+capacity, how many jobs are we talking
+about? How much how much can we actually
+help the middle class here? Well, it's a
+fabulous question, Christian, and I'm so
+bullish on the US economy because as our
+our friend Scott, who was just on here
+before us, but I mean, you take the
+combination of of lower taxes,
+dramatically lower regulation,
+accelerated permitting time, just
+accelerating permitting, uh there could
+be a trillion to a trillion half dollars
+stuck in this two to fouryear federal
+government permitting thing. we
+accelerate that expenditure of capital,
+the onshoring uh the greatest economic
+developer in history bringing foreign
+direct investment back to the United
+States, President Trump with these
+tariffs. You know what do we announce in
+Pittsburgh? It's $15 trillion that's
+coming back. So with AI, software has
+always been the one things that extended
+human capability more than any other in
+our lifetimes. And now with AI, it it's
+just a massive multiplier of that. But
+to make the factory happen, we're going
+to have an explosion in in jobs in the
+trades. I mean, you're going to be able
+to skip college, go directly into
+develop a trade, you know, make 150.
+Yeah. 150 grand, 120 to start in my home
+state. Uh, and and again, and for people
+that are spending money on site
+selection, I'll tell you one thing. You
+want to build it faster, go to where the
+stranded gas is, build your power plant
+there, build the AI factory next to it.
+You don't have to permit a transmission
+line. You don't have to permit a
+pipeline. Those are the two things.
+Linear infrastructure has been
+weaponized by the people that are
+opposed to energy development in this
+country. They weaponized the blocking of
+those things. I say pipeline, you say
+protest. You know, so go to the go to
+the same place and colllocate. President
+Trump himself has said in speeches,
+we're going to let you operate off the
+grid. We can build all this stuff and
+and and keep rates for electricity for
+small businesses, consumers down because
+we've got to add to the supply. But, you
+know, which if you're going to go to
+where the gas is, there's sweet places
+to go. The Marcellus, the Perian, or the
+Bacan. And uh and you can save tens of
+millions hiring sight selection guys. Go
+find the people with stranded gas and
+get going.
+&gt;&gt; Great.
+&gt;&gt; All right. Well,
+&gt;&gt; Secretary Wright, Secretary Bergam,
+thank you for being with us. That was
+great. That was great.
+&gt;&gt; Well done. Thank you. Really great.
+&gt;&gt; Nice to see you, brother.
+&gt;&gt; Everything guys to see you.
+&gt;&gt; Welcome back to doing it. How are you?
+&gt;&gt; Nice to see you. Howard, I noticed you
+had that incredibly smooth, refined
+tequila at your birthday. How was it?
+Take us through it every
+&gt;&gt; 14 minutes. Just let's get let's get to
+it. Let's get to it.
+&gt;&gt; Yeah.
+&gt;&gt; Smooth.
+&gt;&gt; Yeah. Well, thanks for being gonna kick
+us off.
+&gt;&gt; So, the White House just rolled out a
+massive deal with Japan, which obviously
+plays a critical part of the
+semiconductor supply chain. Could you
+tell us a little bit about what the
+nexus is between this new exciting trade
+deal with Japan and how it fits with our
+the current debate around winning the
+race on artificial intelligence?
+&gt;&gt; So, it was fundamental for Japan to
+lower their tariff because their car
+industry and their manufacturing
+industry is fundamental to their
+economy. And they paid a $550
+billion what the president likes to call
+a signing bonus. Right. the greatest
+signing bonus of all time. So they've
+committed $550 billion to finance
+projects in America that are important
+to the president and to American
+infrastructure. So we can build power
+means we could build 10 nuclear power
+plants. We could build fabs, right? We
+could build critical minerals. We could
+do ship building power. We could do
+anything and they will finance it and we
+split the profits of the project.
+90% for America and 10% for Japan. And I
+don't think people can actually
+understand how powerful that is. This is
+the national security sovereign wealth
+fund, the United States of America,
+funded by President Trump's tariff
+policy,
+&gt;&gt; right,
+&gt;&gt; that produced that kind of money
+committed to America. It's
+&gt;&gt; Will that actually go into
+Congratulations. Will that go into a
+sovereign wealth fund that you've been
+talking about and the president has been
+talking about?
+&gt;&gt; No, I think this is this is separate.
+The what the president says about the
+sovereign wealth fund is we do a
+sovereign wealth fund that invests when
+we've done paying off our deficit. Okay?
+Right. First, we got to pay off our
+deficit before we're trying to make
+money. So what this is is this is the
+Japanese government says I will finance
+and I will pay for
+&gt;&gt; right
+&gt;&gt; not finance I will pay for you want to
+build a nuclear facility build it. You
+want to build 10 nuclear facilities you
+go build them. You want to go build a
+pipeline you go build it. You want to
+build uh fabs you go build it. Whatever
+you think is necessary you build it.
+We'll pay for it. You net lease it to an
+operator and we'll split the lease
+payments. 90 for you, 10 for Japan. It's
+a blockbuster if there ever was one.
+&gt;&gt; But it's an incredible deal structure.
+How do how do you get to that?
+&gt;&gt; Well, I got to that. So this I came up
+with this idea in uh in January and then
+I kept restructuring it to try to figure
+out how to do it because I met with some
+uh Japanese senior executives while uh
+before election before inauguration day
+and they said you know I understand your
+tariff policy but Japan's never going to
+open right they're just never going to
+open I mean in in 1850 Perry took an
+armada and tried to break it open in
+1850 50 couldn't open it open the
+Japanese market. So come up with another
+idea and the other idea was they buy it
+down and so what structure we used how
+they did it they offered us they
+originally started offering us loans or
+loan guarantees and the president's like
+I don't need someone else to loans like
+I don't need to borrow money from
+someone else and then finally we figured
+out that really it just needed to be
+committed capital to back projects that
+we want and so it was five months in the
+making and and I'm me talking to the
+president about about doing different
+structures and eventually in the middle
+of last week we came to the structure
+the president said okay I like it let's
+bring him in and talk and then the
+president made the deal better
+&gt;&gt; are you going to replicate this is this
+like a new blueprint or is it unique to
+Japan which is protectionist and its own
+unique culture
+&gt;&gt; well I mean the problem that Korea has
+is they're staring at it you know they
+view themselves deeply competitive to
+Japan they both produce huge amounts of
+cars they both produce huge amounts of
+electronics. They both do these things
+and now they're looking at the price,
+&gt;&gt; right?
+&gt;&gt; And they're thinking, "Ouch." So, you
+know, how quickly did they come to see
+me? Let's say when we announced the deal
+and uh they were in my office uh today.
+&gt;&gt; So,
+&gt;&gt; the Koreans were
+&gt;&gt; Oh, yeah.
+&gt;&gt; Fantastic.
+&gt;&gt; How much how much have you prioritized
+market access for American businesses
+into some of these countries versus some
+of the other kind of uh trade
+considerations? Where does it
+prioritize? And we've talked about this
+a lot particularly as it relates to AI.
+And I think that part of this is in the
+uh the action plan and in the EOS being
+signed later today, but this is a
+broader question for American
+businesses. I work in agriculture. It's
+very hard to access overseas markets. Um
+and there's not a lot of par. Is that
+become key to some of these
+conversations? And where does it sit on
+the priority wrong? That
+&gt;&gt; that's the priority rule. So the rule is
+you must open your market. open, open,
+open. And and let's be clear, these
+markets have never been open. We have
+Stockholm syndrome in America. These
+markets have never been open. There's
+tariffs. There's non-tariff trade
+barriers like you can't sell an American
+car in these locations. Whether you want
+to or not, you're not allowed or they
+won't buy them because the seat belt is
+like this or the this is like they make
+these rules.
+&gt;&gt; So, we are demanding the markets are
+open. And the issue with Japan was they
+were never gonna open it.
+&gt;&gt; So what are we going to do? And the
+answer was all right. That's where he
+came up with this uh you know signing
+bonus, right?
+&gt;&gt; So reciprocity or something interesting
+&gt;&gt; if you want something more bespoke.
+&gt;&gt; Vietnam completely open, Indonesia
+completely open, Philippines
+mostly open, small deficit relatively
+higher tariff. Right? So it's all
+there's a sort of a lot of levers and
+you pull those levers.
+&gt;&gt; When are you going to wrap all this up?
+This has been like a really shocking and
+now I think kind of you know more
+mundane methodical approach. So when
+does it all wrap up and we can kind of
+put the tariff issue behind us?
+&gt;&gt; Okay. So on August 1st whatever hasn't
+been settled will be settled
+&gt;&gt; and the tariffs go into effect. Right.
+So all this 10%, they'll all just pop up
+to some higher number. He sent a letter
+to a lot of people, right? And now
+nothing stops them from negotiating the
+next day, but they're paying on that
+day. So that's next Friday. I mean,
+that's not that far away. So we're very
+busy because a lot of people are now
+coming to the table with their best best
+offer. But the price has gone very very
+high.
+&gt;&gt; And let's be clear what that price is.
+You will open your market to America.
+You will open it to ranchers, farmers,
+fishermen. You will open it, you know,
+you couldn't sell lobster to all these
+places. Like for instance, Indonesia is
+completely open except for two products.
+Muslim country, no pork, no alcohol,
+right? We're talking India obviously no
+beef, right? I mean, you do things like
+that. You say, "But we need it open." If
+they don't want it open,
+there's your tariff. It's 26% 27% 31%
+19% whatever it is and then if you
+decide to open it later come on but
+that's what we're doing.
+&gt;&gt; You'll find out over time what other
+kind of regulatory processes they have
+put in place. This is always the issue
+when any any of us work in foreign
+markets. You've worked in foreign
+markets and you go in and then you find
+out well there's this thing I got to do
+and this thing takes 18 months or 36
+months and they make it hard to get the
+permit or the whatever you need. There's
+always a way. Does this become like a
+continuous policing exercise for your
+department? And how does this become
+part of American trade? Like is this an
+ongoing kind of kind of iteration
+iterative process here?
+&gt;&gt; They've bought their tariff rate down by
+opening the market. So if they mess with
+that, they're messing with the
+president. And I don't know if you guys
+have seen him on TV, but that doesn't
+really work well. Yeah.
+&gt;&gt; Okay. So the idea is he's making the
+deal, he's closing the deal. So the way
+we we talk about it together is I set
+the table, right? And he closes the deal
+and and he is the best negotiator
+because he's just he's done this his
+whole life and he's the president of the
+United States. So that's an amazing
+power and he wields it to get the best
+deals.
+&gt;&gt; Well, let's talk about the big issue,
+China. Where are we going to wind up
+with China reciprocity, Tik Tok, the
+whole shebang? Is this going to be one
+big grand bargain? Taiwan, Tik Tok,
+there's so many issues. Is there any way
+to thread the needle on this?
+&gt;&gt; I I think the way I think about uh China
+is draw a line. Okay, there's below the
+line like they sell us uh baby clothes
+and we sell them soybeans. That stuff we
+need to do more of it. They we want to
+buy more of that. They want to buy more
+of ours. We need to open that. get this
+Dayton stuff, you know, where we're just
+flowing below the line.
+&gt;&gt; Got it.
+&gt;&gt; Above the line would be, you know, our
+best chips, Blackwell chips, H, you
+know, 200s and 100s, right? We don't
+want to sell them our best stuff. They
+don't want to sell us hypersonic
+missiles either, right? We would say if
+it was open, we'd say, "Well, let's take
+a couple of your hypersonics. Let's see
+what you got. Right? So, that's not
+happening."
+&gt;&gt; So, that's above the line. And then the
+question is, what's the line?
+That's the proper negotiation, right? Be
+open, below the line, let's get it on,
+good for both economies. Above the line,
+we're competitors. Let's just call it
+what it is and and stick with it. And
+then what we can really negotiate when
+we're together is the line.
+&gt;&gt; Where's Tik Tok in all this? Jacob and I
+are both pretty uh adamant this is spyw
+wear. This is something that should not
+be on a 100 million Americans phones. It
+is way too dangerous. They've proven
+themselves to use it to spy on
+journalists already. And the fact that
+they won't divest from it, I think,
+tells you everything you need to know.
+They see this as a critical weapon
+against the United States. Where what do
+you think? What does the administration
+think?
+&gt;&gt; Well, the the president is reasonably
+positive about Tik Tok provided it goes
+into American hands and it's controlled
+by American technology. Right. I think
+that's his view is that they've got to
+be out of it. It's got to be on an
+American technology stack and it's got
+to be owned by Americans, period. And
+then how we work it on through there. Uh
+we'll figure it out. Right now it it's
+sort of in that uh
+&gt;&gt; straddling the line.
+&gt;&gt; Yeah. You're sort of staring at each
+other, but eventually that'll get sorted
+out. I I think that deal will happen and
+uh America will buy Tik Tok because the
+alternative is just shuts it off and
+that just seems illogical.
+&gt;&gt; Can I go back to the above the line,
+below the line? Love that. Love that
+saying by the way. Um
+how do you think about the and you
+talked about the chips. How do you think
+about these export controls to various
+countries in various regions? What's
+your risk calculus about where those
+things should be? And and if I could
+just actually add a question that builds
+on top of that. You've talked about
+creating AI economic zones where trusted
+partners could get preferential access
+for American technology. So could you
+describe a little bit what your vision
+is for that? I think what we're
+wrestling with and this is we're really
+discussing literally the intellectual
+wrestle we're going through now is is
+the idea that we are comfortable with
+allies buying significant numbers of
+chips right and having a large cluster
+provided that cluster is uh operated by
+an American a trusted American operator
+and the cloud is a trusted American
+operator so that we know that giant
+cluster is surrounded by us.
+&gt;&gt; Right.
+&gt;&gt; Right. As you go down from there, right?
+That's where we go. Okay. If they want a
+smaller cluster,
+&gt;&gt; would you expand the number of people
+who are trusted, right? And the answer
+would be probably yes, right? And then
+when you go down from there to a smaller
+and smaller cluster, right? How do you
+deal with that? So I think it's cluster
+size is sort of the a way of thinking
+rather than saying uh you know because I
+went to Poland and I was in I was in
+Poland on a on a mission for the for the
+government and the prime minister of
+Poland chases me down and says what did
+I do to America to be tier three and I
+was like I thought you were part of
+Europe you know like I didn't understand
+what it could possibly be the issue so I
+think the answer is ally or not,
+&gt;&gt; right?
+&gt;&gt; Cluster size and who controls it or not.
+I think once once you sort of wrestle
+with those ideas and anybody who has
+ideas along those lines and you want to
+come and talk to us about it because
+this is this is really the thinking
+right now and we're sort of debating
+that right now.
+&gt;&gt; Howard, I just want to say thank you for
+it's so great to have a sharp negotiator
+and and such a creative mind
+representing America. It makes me feel
+like really great about the
+&gt;&gt; 90% carry there. There may be fun.
+&gt;&gt; How do we get 90% carry?
+&gt;&gt; I love it. Yum. Yum. I love said that
+you're a New Yorker. Yeah,
+&gt;&gt; I I am. But the
+&gt;&gt; negotiator chief,
+&gt;&gt; New York. Uh I grew up on Long Island.
+My kids have grown in Manhattan, but uh
+the negotiator chief is Donald Trump.
+&gt;&gt; That's nice that he's got you right.
+He's amazing. Well, thanks for coming.
+We're going to make uh make some room
+for the president. He's going to get
+ready. Howard, thank you for joining us.
+That was great. Thank you.

@@ -1,0 +1,217 @@
+# Why New Smartphone Cameras Feel Worse
+# https://www.youtube.com/watch?v=coX4duwUCpw
+
+All right, so I decided to try
+something. I broke out every single
+iPhone generation from 1 to 17 and took
+the same picture with every single one
+of them back-to-back. And the results
+were super interesting. I did this with
+a couple of different phones in a couple
+different scenarios. And what ended up
+surprising me and quite a few other
+people is it doesn't always look like
+the latest generation is always far and
+away the best. And I'll tell you why.
+See, for years smartphone cameras have
+been focused on getting better and
+better for regular photos, right? Cuz
+they were bad of course when it first
+started. The first iPhone camera was
+almost an afterthought. It was this
+little pinhole 2-megapixel webcam type
+of thing. No autofocus, no video
+recording, didn't even have a selfie
+camera. But as people and culture valued
+the ability to take quick, high-quality
+pictures and videos more and more, you
+of course see the cameras improving
+drastically on the back of our phones
+year over year. It would be a legitimate
+selling point that a camera on a new
+generation of phone is way better than
+the year before. [music] And so this
+continued as phones got bigger and
+better and cameras got a bit bigger and
+better until right around the 2010s.
+Phones did eventually stop getting way
+bigger. And camera bumps of course still
+grew, but now at this point we're
+basically maxing out how much phone you
+can carry in your pocket. Like there's
+basically no more room left in here.
+It's physics. So the dramatic
+improvements were getting less dramatic.
+See these two photos?
+Pretty similar, right? Without zooming
+in and pixel peeping, they almost look
+like they could be taken with the same
+phone just with a little contrast curve,
+saturation bumped a little bit. This one
+was taken with the iPhone 17. And this
+one was taken with the iPhone 11. Now of
+course if you pixel peep, there are some
+more nuanced small differences. Like if
+you're a photographer, you probably
+already quickly notice that the 17 has a
+larger sensor. That's why the
+background's a little bit more blurred
+while the 11 has more in focus. But
+generally for most people, they both
+look fine. And basically any phone from
+the past 5 years can take a perfectly
+usable photo in broad daylight perfect
+ideal conditions like this. So now what
+they're more focused on is getting
+better around the edges. Like the more
+difficult shooting scenarios. Low light,
+super fast moving subjects, deep zoom.
+Like these edge cases are where you can
+still see a bigger difference between a
+good and bad smartphone camera. So you
+can start to see where this is going,
+right? Basically any phone these days
+can take a good enough quality photo in
+good lighting conditions, no matter what
+their price. That doesn't separate them
+anymore. So the real separation between
+a good and a bad smartphone camera comes
+when the user throws the absolute worst
+possible conditions at it. So something
+like this photo right here.
+Right? This To an untrained eye, this
+might look like a pretty normal photo,
+which it should. But if there's a
+photographer in the room watching this
+video over your shoulder, they've
+probably already pointed out that this
+scene is literally entirely backlit. And
+that smartphone, which happens to be a
+Pixel 10, is doing a ton of clever
+computational photography, multi-frame
+HDR, tone mapping, and exposure
+adjustment, face detection. It's making
+sure somehow you can see my face and the
+black hoodie that I'm wearing and the
+blue sky behind me in one shot, which is
+actually insane. For some perspective,
+here's the same shot with a Nexus 4,
+which is before the days of smart HDR
+coming along. So that's how terrible the
+scene is supposed to look. It's like one
+of those self-correcting basketball
+hoops that Stuff Made Here made, the
+YouTuber, where no matter where you
+throw the ball, it goes in the hoop.
+That is what a modern smartphone camera
+has turned into. No matter what you
+point the camera at, you'll get a good
+picture. It refuses to spit out a bad
+one. To the point where you think
+there's no way your skills could be that
+bad, cuz you never miss. But this is
+where it's started to get weird. I think
+that in pursuit of this perfect
+photo-taking machine where you can't
+miss no matter how insane the situation
+is,
+it's actually started to make regular
+daylight photos
+slightly worse. Like you've probably
+noticed the over-processed look before.
+You've probably seen it here and there.
+Some brands are more guilty of it than
+others. It's a little bit hard to
+articulate what it is,
+but I think in general, the more likely
+a brand or a phone camera is to throw
+every trick in the book to try to save a
+photo,
+the more likely they are to throw all of
+those same tricks at a regular photo
+that doesn't really need it.
+It kind of messes it up a little bit.
+See here, this is the progression of
+every Samsung Galaxy S ever taking the
+same photo from S1 to S2, S3, S4, S5,
+all the way to today. And yes, I did
+skip S10 to S20 to line up with the
+year, but you can specifically see
+around the Galaxy S8 when the window
+behind me is blown out. But then with
+the introduction of multi-frame HDR with
+the S9, suddenly you can see the blue
+sky and everything else is preserved.
+Then keep going, S10, S20, S21, S22, all
+the way to today's phone, the S26.
+And I uh
+I don't I don't like this photo anymore.
+Like this is the exact over-processed
+look I'm talking about. Yes, you can see
+more than ever outside the window with
+the building and the sky outside, but
+there's also this kind of a haloing
+around the window and the plant next to
+the window now. And yes, you can see
+more details than ever in my face, but
+my face is not actually that light. So,
+spin back to the Galaxy S23, and I don't
+think I'm the only one who prefers this
+older and maybe slightly worse photo
+because it just looks a little more
+natural. There's a little less shadow
+detail and a little less HDR, but
+there's also less haloing and less
+unnatural glowing and flatness, and it
+just overall looks better. And I'm not
+the only one who thinks this. Look at
+the comments on the short that I
+published with all these photos in them.
+A A of other people feel that way, too.
+So, this is now the balancing act of
+tuning one of these cameras. I think a
+lot of these companies, they already
+know, you know, they pull a lot of these
+tricks, the tone mapping, the
+multi-frame HDR, the face detection, the
+exposure adjustments,
+and they know that that stuff in excess
+can look kind of weird on a regular
+photo. So, it's all about knowing when
+to turn it up and when to turn it down.
+If you need all of that stuff to save a
+bad situation, then turn it up, but if
+you don't need it, turn it down. Really,
+the easiest way to appreciate this,
+every modern smartphone camera has this
+gap between what you see in the
+viewfinder as you're about to take the
+photo, and then once you take the photo,
+and then it processes,
+and then that new looking photo. Some
+take longer than others to process, but
+you can always see it snap into place.
+And the more difficult the shooting
+scenario, the more dramatic that snap.
+That is the post-processing that we're
+talking about here. So, look, if the
+iPhone 11 has more natural color than
+the iPhone 17, and the Galaxy S23 looks
+better in a lot of ways than the S26,
+then we know that some more tuning is
+definitely still needed. There are some
+really good apps on these phones that
+will let you turn down the
+post-processing or even try to turn it
+completely off. I'll link some good ones
+below. Sometimes it works, sometimes
+it's a little bit more difficult, but
+you can try it if you want. Also, I'll
+link all the shorts down below where you
+can watch all of the generations of
+every smartphone through every single
+photo, cuz they're fun, too.
+&gt;&gt; [music]
+&gt;&gt; Thanks for watching.
+Catch you in the next one.
+Peace.

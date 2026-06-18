@@ -1,0 +1,669 @@
+# The Besties Take Napa | All-In Special
+# https://www.youtube.com/watch?v=xk4G-ImoSvw
+
+e
+[Music]
+let's go
+[Music]
+Boys Everybody give it up for the
+dictator himself Jamal
+ptia the Rainman yeah definitely David
+Sachs and your sulan of science David
+Friedberg I love how it's freezing and
+there's one heat lamp one heat we're all
+[Laughter]
+just I mean these are literally like $80
+for the night yeah they cost about 50
+bucks a night to rent so I just thought
+250 was enough yeah be fun no no I mean
+this is a super expensive place
+especially since this is what happens
+this is my life oh God I come in and
+they're like uh Jal I'm like yeah it's
+like chat's been here since 430 I'm like
+yeah that's fine that's great it's you
+know he got here early and they're like
+he's been ordering one on your tab I'm
+like oh no so the event just flipped
+from being in the black to being in the
+red a lot of people had questions for us
+so we thought we would do like a little
+Q&amp;A but I thought I would start with
+maybe asking the besties what has it
+been like I think having this podcast
+get so big and the scrutiny it's under
+but the excitement and just how it's
+affected your life and and maybe how you
+operate in the world I think I may have
+told the story on the Pod but um
+I I'll tell it again because I I do like
+the story so I think I was visiting
+chamath in Milan I think it was either
+last summer or two two years years ago
+two years ago and we were literally just
+walking down the street in Milan and
+somebody comes up to chamath and stops
+him and it's like it's a tourist from
+Australia who's a fan of the Pod yeah
+and he wants to take selfies I mean he
+definitely you know jamath was
+definitely his favorite bestie and it
+was like this excited conversation and
+that all happened and then he you know
+moved on and chth turned to me and said
+oh by the way just some context here is
+that these two were were in like a big
+fight and there's some question about
+whether the Pod yeah whether the Pod
+would survive and I think we were just
+talking about that as this guy came up
+to us in any event so he comes up takes
+the selfie and then leaves and jam turns
+to me and said these two idiots better
+figure things out because I like being
+famous I'd love to hear you guys uh talk
+more about the current state of gen and
+particular software companies I know
+chat you got 8090 going love to hear
+about the the lower cost of actually
+engineering software and building
+companies versus actually geni doing
+replacing human judgment replacing
+judgment self-driving the software
+itself and those two Dimensions feel
+like they're not exclusive to each other
+but they are two different axes love to
+hear kind of current thoughts on the
+return Potential from investment
+standpoint I think
+that the entire software stack is going
+to get
+rebuilt and I think it's going to be a
+bunch of 10 and 20 and 30 person
+companies that do it and I think the
+core artifact of a new company today are
+two decisions the first decision is that
+you must demand
+that the people that join you use every
+available tool at their disposal and you
+measure them against a
+counterfactual where that counterfactual
+is what your productivity was at a
+traditional company and you need to be
+100 to 200% more productive so if an
+engineer is writing you know x amount of
+features or x amount of code they need
+to be at a 2 or 3x and if you do that in
+an existing company all I've seen is
+organ rejection so that's the first
+decision is so the people that join you
+you must expect that they do that which
+means that you also have to deprive them
+of any help along the way no
+administrative help no HR help no
+Finance help all of that stuff needs to
+be a workflow or a bot or some form of
+AI logic so that's one critical
+decision and I think the second is that
+the document that matters more than ever
+is that PRD that defines the v0 MVP of
+the product because I don't think you
+should be writing much code I think what
+you really need to be doing is defining
+and excruciating detail what the Feature
+Feature set is what the parameters are
+what the guard rails of how features
+should behave in certain boundary
+conditions fed into an llm that then
+spits out the code that then compiles
+and then you have a working product and
+that is a 10 20 30% effort that can
+probably topple Giants it'll take a
+couple of years for us to get to that
+place but in that world there is no room
+for $500 million into a SAS company it
+doesn't make any sense and the reason is
+the 10 and 20 person company can price
+that thing at just a fraction of what
+the incumbent charges because the
+incumbent has an Opex load that's not
+correlated to Features it's correlated
+to the fact that you have 50,000 people
+across 50 offices in all over the world
+with all this ridiculous
+infrastructure that all of of a sudden
+becomes obsoleted so I think there's two
+models one is more of the the
+lightweight approach so like saaks and
+jcal both seed a lot of stuff get it off
+the ground spin it up and then raise
+money like he just did with glue which
+is like I'm going to build something get
+it to a place where the rest of us can
+kind of pile on but the other version is
+much more distributed and I'll say a a
+dirty word here but I think it matters
+like it's like this web 3 Model does
+actually apply here where there are some
+really interesting Early Adventures in
+crowdsourcing technical completion I
+would encourage you to look at a project
+that I'm starting to focus a little bit
+on called
+benser and I was like what is this thing
+and it's basically a thing where you go
+and solve technical problems and produce
+features that people require that need
+and you get paid in this underlying
+currency that is actually a distributed
+form of venture that actually makes
+sense like a bounty essentially yeah
+we're like you know 15 companies that
+need a replacement to Salesforce just
+say here's the Bounty and here's the
+feature set and it's a A crowdsourced or
+a community sourced PRD and then some
+llm spits out the code like that is this
+crazy new world that we're going to so
+it's all about speed of execution I
+think s you have any thoughts on it and
+what you're seeing you know in the field
+right now yeah I mean I I I think in
+having conversations with Enterprises
+and businesses what they basically want
+is to be able to throw all of their data
+somehow into a llm and be able to ask
+you questions so they've seen chat GPT
+and they basically want to be able to do
+that but with their own Enterprise data
+and it sounds easy but it's actually
+like pretty hard to make that happen one
+problem is that the
+llms don't have that big what's called a
+context window which is kind of like you
+could it's almost like active memory or
+something like that and we're in the
+early days of it's like in the early
+days of computers where the you know you
+had to worry about your Ram was like 8
+megab 16 then 32 then 64 remember that
+get some we had and 3 and2 in disc or
+whatever and eventually just people
+stopped talking about Ram because it
+went away as a constraint yeah but we're
+still in the days of you have to be
+selective about what you feed into the
+model because it just can only absorb so
+much information so if you give it all
+of your Enterprise data how's it even
+know where to look and so you've got to
+figure out how to optimize it so that
+you can give the the model the right
+chunks of data to give you the right
+answers and that's actually it's a
+complicated problem right now and and uh
+we're dealing with it at glue we're in
+we just invested in a company a startup
+called raggi which is basically rag as a
+service do retrieval augment and
+generation as a as a service it's
+basically helps solve this problem so I
+think that that's kind of the stage that
+we're at is everyone kind of knows where
+they want to get to and we're just
+dealing with some of the limitations so
+that the model can work you know
+effectively and you know what you see
+right now are like glimpses of of you
+know genius or greatness like if you
+feed the exact right chunks into the
+model you'll get like answers that can
+blow you away but then sometimes you'll
+just get an answer that just kind of
+isn't that good and again the reason is
+because the model didn't really know
+where to look for the answer so you know
+right now it's like again glimpses of
+something amazing and we just have to
+kind of get to more predictability
+around that and there's a lot effort
+that's going into solving some of these
+sorts of issues it's not just llms it's
+also yeah although it is at the llm
+level it's also the the infrastructure
+around it you know and to put the two
+thoughts together I think the people who
+Embrace this are becoming bionic at work
+I mean we had many challenges in podcast
+production around things like
+transcripts or doing show notes and
+learning um hey about this person who's
+a guest um they were on these three
+podcasts now we have producers at our
+company who will take those three
+podcast interviews download the MP3 put
+them into you know a chat GPT and say
+what are the key points in here what are
+the key timestamps and even what
+questions would you ask or what are
+relevant topics this person's talking
+about and these data sets are disparate
+and they're not connected so you can't
+say well what's David saaks talking
+about if you're going to have them on
+your podcast on Twitter because there's
+no way to get that information um I
+could tell you what the topics are it's
+pretty anyway um and and those
+individuals are becoming so valuable in
+organizations and it's allowing people
+to do so much work so fast and then
+unlocking things that were just not
+possible
+and that to me is very obvious inside
+the startups we invest in because when
+they're resource constrained they look
+for the fastest cheapest way to do
+things and if you watch those startups
+they're the same ones who when other
+people were racking servers they were
+using AWS they were using cloud
+computing and they figured it out first
+and then they built businesses that you
+may have heard of like Dropbox YouTube
+that whole wave was a group of people
+who just fundamentally said that the
+Paradigm of cloud computing is going to
+work even though it's not perfect right
+now even though it's slow or expensive
+or breaks whatever I'm just going to go
+all in on that and Dropbox made this
+critical error I don't know if you
+remember that Sachs where they stood up
+their own data centers instead of you
+know they were just scared to have their
+data at I guess AWS or whatever was and
+so it's going to be unbelievable how
+many businesses become viable with just
+three four five employees and that's the
+that's what I'm seeing on the field
+freeberg any that's on AI right now uh I
+just I think that there's a chance that
+SAS gets kind of obviated I've shared
+this in the past I think that there's a
+chance that SAS looks like this kind of
+temporary phenomenon that occurred
+between the ubiquity of the internet and
+the prevalence of AI for writing
+software if if you've worked with any
+Enterprise non traditional Enterprise
+from a traditional industry meaning they
+didn't grow up in software and they're
+not software native they have it
+departments and those it departments are
+really good at procurement of software
+and that's really been their primary
+function but they all try to hire
+software engineers and they generally
+suck and but they understand the needs
+of the business and I think that if they
+can have software written for them at a
+basically a cost of zero to improve
+their workplace productivity which was
+the original thing that was enabled
+software in the first place it starts to
+really change how folks are sourcing and
+using software that it can actually be
+written for them in real time by
+software and so I think that the the
+tooling and the capabilities to enable
+the Enterprise to write their own custom
+workplace productivity tools and their
+own custom workplace software whether
+that's customer facing or internal
+facing really becomes kind of the
+standard maybe going forward and you
+know you see this what I think Doug
+Leone called the greatest business model
+in human history which is SAS getting
+kind of blown up in that new landscape
+so I think there's a chance that that
+happens non-zero chance and I've just
+seen this in in a bunch of settings
+where folks are having software written
+for them by the software and they kind
+of just really State clearly here's the
+layout here's what I wanted to do and
+with a couple of rounds of iteration
+they can get it working pretty well and
+they don't need to go pay some third
+party of per seat license fee per year
+to use it I have heard about about uh
+your poker love uh through the podcast
+I've listening for a few years and it
+was really fun to experience it with you
+last night could you comment a little
+bit on like how you think about your
+utility function personally is it
+networking strategy training is it fun
+like could you comment a little bit on
+how you all think why we play poker
+there is networking that has occurred at
+it but I think also you know you made a
+good comment about it or maybe Bobby
+Balwin said it he never saw or was you
+know um a poker
+player like get old and lose their
+mental facilities right like they Bobby
+Bobby Ballin ran the city center in Arya
+for a long time he plays in our game and
+he made this comment he's like have you
+ever seen a poker player get Alzheimer's
+or dementia right he was saying that
+about Doyle Brunson cuz Doyle when he
+died was super sharp sharp as attack his
+body failed before his mind filled yeah
+and it's true it's like it's one of
+these unique games where you can really
+stay mentally sharp as you get old yeah
+absolutely saaks you still love it
+yeah definitely yeah look I I like it
+for the same reason that that you guys
+like it there was a phase early on where
+like I would play in the World Series of
+Poker I would like go to that and then I
+was just like you know I actually don't
+like sitting there for three days
+playing with strangers it's actually not
+that fun to do that and the thing that's
+fun is just playing with your friends so
+now I just play in friend games I first
+started playing poker when I did I ever
+tell you this I worked at a pool hall in
+Upstate New York I was uh 16 years old I
+got paid 425 an hour to work at this
+pool hall I like clean toilets and scrub
+down the tables and the guy sat at the
+pay phone all day was the bookie for
+Upstate New York and he would take all
+his the bets on the pay phone and write
+him down and one day like after he got
+to know me for a couple months he's like
+come and play poker with us at our home
+game and they played limit hold him like
+one two 50 Cent $1 one two and these
+took all my money and I was 16
+going to college like cold I had
+to walk through the snow I couldn't
+afford boots or a jacket it was like
+really
+shitty and they took all my money yeah
+and I had to call my mom and I lied to
+her and I'm like Mom I lost my jacket
+can you like loan me 150 bucks Western
+Union it so I can buy a jacket
+so that summer I bought all the books in
+the from the back of the poker magazines
+to learn how to play poker strategy and
+it was all limit hold him at that time
+and then my freshman year of college at
+Cal I made 10 grand that summer playing
+limit Holden at the Oaks Card Club
+playing tournaments in 612 and after
+that I was and I learned so much about
+investing and life and like perseverance
+through ups and downs because you sit
+there you grind it out as long as you
+have a positive EV decision you know you
+made the right decision over time the
+money will come to you you don't need to
+like win every hand and to learn
+that at that age I think was really
+influential to me in entrepreneurship
+and investing and in decision- making
+later on in life it was very important
+to me and so when I sold my company in
+2013 I was introduced to Cham and
+invited to come to the pl in the home
+game and for me it was like a very kind
+of nostalgic because I hadn't played
+really much since 2001 2002 what's the
+most impactful advice you've been given
+and how's it shaped your careers early
+on I got two good pieces of
+advice one was from Mike Savino who's
+here somewhere speaking tomorrow there
+it is um and he said uh the piece of
+advice his dad gave him was look to the
+left and come in an hour before that guy
+and then look to the right and come in
+and an hour later than that guy just
+basically the hard work stuff and I had
+gotten that from my mom as well who
+worked three or four jobs to put us
+through school and my dad who worked
+really hard and so the hard work ethic I
+think was the key to a lot of My Success
+because I just decided I'm just going to
+outwork everybody because I was coming
+not from Harvard or Stamford but from
+Bay Ridge Brooklyn uh and you know going
+to night school at forom so I I had to
+use hustle and there was no connections
+there was no network I just had to
+literally kill what I ate
+and then after I sold my first company I
+was at Ted at the Billionaire's dinner
+with my book agent John Brockman and uh
+I had still had a chip on my shoulder
+but I had sold my company and he uh said
+hey
+schmock you you made it stop fighting
+with
+everybody and I was like okay I'll stop
+fighting with
+everybody uh I still you took that
+advice I took it sometimes I flip a coin
+when did you do that um not get that
+memo when did you get that advice last
+night or yeah I just got it you're just
+texting me right now um but it was
+actually because I had to fight for
+everything I think I just kept fighting
+to try to get the next you know level
+and you know at a certain point I
+decided I'd be like super magnanimous
+and just be helpful and Elder Statesman
+like um and it's I'm not perfect but you
+know what well I mean when you don't see
+me working you don't see me working with
+startups you're you know like I am
+tireless in my ability with patience for
+them and supportive and I just and I try
+to do that with my friends as well is
+just you know what's the point of being
+successful if you can't support the
+people around you who you love and try
+to pay for it so those are just you are
+you are like the the most reliable
+wingman of all of us oh thank you you
+know it value your friends and your
+family is like just such critically
+important advice because at the end of
+the day all you have is your memories
+and you make them with your friends and
+your family and so I am on a mission to
+make great memories uh with my friends
+and family as many as possible uh and
+and actually this is part of it like you
+all being here and just that's why I
+always tell you like make a couple of
+friends it's like it's hard to make
+friends especially as you get older uh
+and people kind of tighten up their
+circles like make a couple of new
+friends you know and go do things
+together anyway some philosophy I don't
+know advice that you got the the the
+best advice career advice I got was from
+Peter teal who advised me not to go to
+law school and unfortunately I didn't
+listen to him I went anyway
+and but it ended up not mattering
+because I ended up joining PayPal uh
+after I graduated from law school so I
+wish I had a better story the best
+career advice I've actually heard for
+Silicon Valley was the advice that Eric
+Schmidt gave Cheryl Samberg when she
+joined Google which is when you get
+invited to take a seat on a rocket ship
+don't ask for see yeah just just get on
+board I actually think that is
+perennially great advice for anyone in
+Silicon Valley you know there aren't
+that many of these rocket ship so when
+you get a chance to be on one you should
+just take it and worry about the titles
+and all that kind of stuff later yeah
+the details later I think like the the
+biggest piece of advice that I still
+struggle to take every day every time I
+have though it's had profound impact on
+my life is to
+focus um I think the bigger a portfolio
+you develop the less Alpha there is you
+try and minimize beta but you take all
+the alpha away if you do that in 2009 I
+focused my company on the agriculture
+Market which was crazy we were in like
+seven verticals and doing all sorts of
+stuff when I focused on EG and I went
+deep and I like went on a long hike in
+Iceland and I like came up with this
+crazy idea for the product for the ACT
+market and I came back we launched it
+and we did like 30 million in sales that
+year and that made a huge impact in my
+life and the trajectory of the business
+changed and every time I focused and
+avoided distractions it's made a huge
+impact I think my decision to become a
+CEO again back in November was a really
+important one for me and I realized I
+was on lots of boards and doing lot L of
+investing and thinking about LS of
+things but now I can really dig deep and
+I I think that everyone assumes that
+there's this power law in the world that
+you are a passive participant in you're
+either going to catch one of the power
+law winners or you're going to lose it
+therefore you've got a portfolio your
+way to a power law to catch a power law
+I don't give a about that because I
+think my job in life is to make the
+power law and to make that outcome and I
+feel like that has made a huge impact on
+how I think about life and it's really
+um every time I've tried to act on it
+it's it's actually paid back
+significantly so focus is the the
+biggest piece of advice I've gotten that
+I think matters so the the the version
+of that that I tell Founders all the
+time is always be all in on your best
+idea because Founders have a whole bunch
+of different ideas sometimes they're
+doing multiple startups sometimes
+they're thinking about pivoting but
+they're still hanging on to the old idea
+and I always give them permission to
+Pivot I'm like don't worry about what
+you said you're going to do whatever two
+quarters ago and you rais this money
+justes whatever you think the best idea
+is right now like let's go all in on
+that do not hedge your bets I think
+that's just really important for
+Founders and it goes back to what you're
+saying it's just so hard to execute any
+idea that you can't be hedged as a
+Founder Seven Samurai yeah Akira
+kurasawa did such an amazing job
+representing this ethos I think like you
+strike and you strike perfectly and you
+strike with full force and with all your
+energy and everything you have your
+whole character everything and you can
+accomplish incredible things you have to
+put one foot in front of the other every
+day and you have to focus on tangible
+progress and where that fails is when
+most people and I do it a lot and I've
+tried to get better as I've gotten older
+is when I get comparative and I compare
+myself to the other person the other
+company the other funding round there's
+so many reasons for you to feel like
+you're less than something
+else and the reality is that has nothing
+to do with you you're not in control of
+that but it's so hard and then if I
+don't take that medicine I become
+insecure and then I make mistakes that
+are entirely avoidable so it's just
+tangible progress the things that I can
+control that's probably the most useful
+piece of advice that I try to remind
+myself of every
+day and
+then I kind of have these two jobs one
+is I'll incubate companies from time to
+time if I get intellectually curious
+enough but the other part is just as an
+investor and the best piece of advice I
+got as an investor is you are a big Wave
+Rider and the swells that become
+ginormous are not visible when you
+paddle into them and so you got to
+commit and you got to go and you are
+going to have less than 100% hit rate
+and you will get massively washed out
+and you just got to get to the surface
+and swim back up and as an investor
+that's been helpful because I've had
+some huge wins but I've also had some
+huge losses and some total
+embarrassments and flameouts and it's
+the totality of that that allows me to
+swim back out so those are two different
+things but the entrepreneurial one and
+the life one is more valuable because so
+easy to
+get distracted and feel insecure because
+of what somebody else is doing and it
+always ends up screwing me up I think
+that's a good note to end on uh give it
+up for my
+besties and uh we're going to take a
+little walk over here um for a little
+surprise if I could have my four besties
+follow me over
+[Music]
+here I'm going to walk over here because
+it's a very special day or a special
+time of the year it's the Sultan of
+science's birthday again so come on
+around and we got him a beautiful cake
+and then a tiny little vegan cake and
+we're all going to sing the
+sultan happy birthday 3 2 one happy
+Birthday to
+you happy Birthday to happy birthday
+dear
+D happy birthday to you we love you
+freir
+[Music]
+n
+[Music]

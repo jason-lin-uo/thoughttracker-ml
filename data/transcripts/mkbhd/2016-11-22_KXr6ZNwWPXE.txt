@@ -1,0 +1,225 @@
+# Tesla Model S P100D: The App!
+# https://www.youtube.com/watch?v=KXr6ZNwWPXE
+
+[Music]
+oh hey what's up guys MKBHD here and
+welcome to another video in the Tesla
+Model S p100d video series this one is
+going to be about the Tesla Motors app
+so I'm going to be showing you I mean
+it's an LTE connected car it's a tech
+product there's a lot going on there and
+there's some cool stuff that the app
+does right now but I also want to say
+that of course since this is a new Tesla
+video this is being recorded on the
+front-facing camera on the OnePlus 3T
+and if if I'm looking at this video
+quality right now I'm just looking back
+and forth between the viewfinder and the
+camera looks pretty good I mean you got
+the little a little bit of depth of
+field going on the background's Blurred
+out yeah f2.0 looking pretty good you
+also be able to see the new video from
+the back facing camera which isn't
+really a new sensor but there is some
+improved electronic image stabilization
+that you'll be able to see as well so
+let's go and take a look at the app so
+right off the bat I do get to address
+the fact that this app will probably be
+getting a major up date within the next
+month or so Elon Musk has already
+tweeted and he's he's pretty much who
+announces all new Tesla products uh that
+there's going to be a major update
+hopefully new UI hopefully the new
+Android app gets material design but
+this is what it looks like as of right
+now and I'll give some suggestions for
+what I would like to see but this is the
+way the app looks right now you can see
+it looks really old iOS so not a whole
+lot of uh iOS 10 looks going on here but
+this is what you get so right off the
+bat the main controls are over here on
+the side you can put it in valet mode
+and Viet mode will actually just super
+limit the car's performance so it won't
+be able to go super fast super quickly
+it'll limit you to 70 M hour and
+essentially the car is just for valet at
+that point restricts all your personal
+information in the dash doesn't show you
+calendar events and you need a PIN code
+to turn that on or off and there's also
+notifications and you can turn
+notifications on well okay that crashed
+so that's a good start for the Tesla app
+you can show notifications for things
+like charging uh when your charging has
+been interrupted
+and other stuff like that apparently
+that crashes the app every time hey Elon
+if you're watching this this app update
+is long overdue the fact that it's
+crashing on like basic functions like
+this is pretty weird it actually works
+better on iOS than it does on Android
+but anyway I'll go ahead and show you
+the actually cool features so down here
+at the bottom which is easy to reach
+since it's a big phone you get all the
+main controls for the phone you get to
+see where the car is whether it's locked
+or unlocked how much range you have left
+and that's actually going to look like
+your car no matter what color paint or
+Wheels you get whether you get the
+sunroof that'll all be there and then
+you can see here this is the control
+section where you'll have a vent roof
+button that'll just uh vent the sun roof
+a little bit but side note I think the
+vent roof function will be a lot less
+used because of the new software update
+which monitors the interior temperature
+of the car and will automatically use
+climate control to keep the temperature
+relatively even so if you're sitting on
+like hat asph Hot H hot hot asphalt if
+you're sitting on hot asphalt in the
+summer and the interior temperature of
+the car gets up to like 105° it'll
+automatically cool that down by either
+venting or using the air conditioning so
+you probably won't need to use the vent
+roof function remotely as much but then
+at the bottom is kind of the more fun
+stuff again you can lock the car if it's
+unlocked here you can unlock it if it's
+locked yes I want to unlock my vehicle
+and Bam it's just unlocked behind me and
+the door handles came out and then I can
+also honk the horn and flash the lights
+so here's the
+lights they're already on but you can
+see they just glowed and here's the horn
+jeez that's loud all right so moving on
+down here at the bottom is your charge
+State you can set your charge limit
+basically for Teslas and all their large
+lithium ion batteries you don't want to
+charge them up to 100% every single time
+that would be a Max charge of 319 mil I
+don't need to do that every single day
+so unless I'm going on a road trip I'm
+going to charge to about 85 90% which is
+about 280 Mi and set that as my charge
+limit every night and when I'm charged
+and plugging in this will actually show
+me how much time I have left till I'm
+done charging so if I'm supercharging
+it'll show that status if I'm charging
+in my garage it'll do the same thing and
+then over here on the right hand side is
+your location that's to literally show
+you on a map the location of your car in
+case you're trying to remember where you
+parked a couple blocks away or if you're
+curious about if someone stole your car
+or something that'll be your location
+and then climate is like I mentioned
+earlier you can literally change the
+inside temperature of the car right now
+the in the interior temperature is 69°.
+if I turn on that interior temperature
+climate control it'll go ahead and start
+to set it to whatever temperature I have
+here so 72° and you'll see the interior
+graphic turn on when this finishes
+loading you'll see the air start to move
+into the car and usually within a couple
+of minutes you can fully heat the car
+there it is starting fully heat the car
+or fully cool down the car before you
+get into it so a couple minutes before
+you leave a restaurant if you know it's
+going to be cold outside or hot outside
+you can fix that in the car so there's
+one button I haven't pressed yet on the
+main home screen and that's that summon
+button right there summon sounds pretty
+modern summon is like the most modern
+version of ghost riding the whip that's
+possible right now so right now with
+this car's current Hardware it'll be
+able to move straightforward and
+backward using the sensors all around
+the car to detect what's near it and you
+can choose the summon distance to be you
+know 15 ft 20 25 feet and that's useful
+for if you're in a garage and it's a
+really tight space and this is kind of
+like my garage where I can hit the
+summon button summon it backwards and it
+will summon back out of my garage
+without touching any of the walls
+without me being in the car at all so
+here's what a summon looks like on the
+current generation Hardware Tesla Model
+S
+it wakes up it checks its surroundings
+and then it just starts rolling forward
+until I tell it to stop or hit the key
+fob or walk up and press the door handle
+basically it'll just keep going forward
+detecting what's around it and uh it
+could go all the way over there if I
+don't tell it to but right now I think
+that's about good I'll have it stop and
+we'll go ahead and deploy the handles
+and it is ready to go there's also
+something called home link which will
+allow me to connect the car to my garage
+door opener so I can reverse out of my
+garage with the reverse summon and I
+guess the neat part of that is it'll
+also open and close the garage door
+behind it so if I don't really want to
+pull into my garage I can walk up to the
+garage summon it backwards and it'll
+open the door behind it come out of the
+garage and close the garage door when
+it's done summoning which is pretty neat
+and again it'll kind of meet you there
+with the handles open no one's in the
+car no one's controlling it that is the
+future so that's pretty much it guys the
+app is super simple
+super outdated in terms of the way it
+looks and I'm looking forward to that
+update not only in terms of
+functionality but design and hopefully
+it doesn't crash anymore either and then
+just basic other functions like I'd like
+to be able to see like superchargers
+nearby that are open in the app I'd like
+to be able to have little things like
+you know when the trunk is open for like
+more than 5 minutes if it'll like beep
+at me and tell me hey your trunk's been
+open for a while little things like that
+maybe being able to close the windows
+from inside when I know it's about to
+rain that would all be a welcome improv
+but until then that is it for the Tesla
+Model sp100d app until that app update
+comes and I'll probably make a video
+about what's new about it until then
+that's been it have a happy holiday if
+you're celebrating it thanks for
+watching talk to you guys in the next
+one peace
+[Music]

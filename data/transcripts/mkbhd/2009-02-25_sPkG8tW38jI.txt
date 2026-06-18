@@ -1,0 +1,249 @@
+# sPkG8tW38jI
+# https://www.youtube.com/watch?v=sPkG8tW38jI
+
+[Music]
+Hey everyone and welcome to today's HD
+tutorial. And in this one, I'll be
+showing you how to get and install the
+Safari 4 beta on your Mac or your PC. So
+right now, I'm going to open up Safari
+just to show you guys that I currently
+have the version of Safari you may be
+using. So go to help about Safari and
+it'll tell you I have version
+3.2.2. Now you see I have a lot of
+favorites right here and a lot of
+bookmark pages that I actually want to
+keep if I want to go back to these for
+further reference. So what I want to do
+um is to actually just upgrade my
+version of Safari. So I'm going to go to
+www.apple.com. Go to the downloads tab
+of their website and down here you will
+see Safari 4.0 0 beta for Mac or PC. It
+is a 31 megabyte download. If it is not
+here, just go to their search box and
+type in Safari and the first one will be
+Safari 4. So, just go ahead and click on
+the Safari icon and it'll come up with
+the new Safari 4
+beta. So, here on this website, we're
+going to say we're going to click Safari
+for Windows XP or Vista. Okay, I'm going
+to uncheck this because I don't want to
+put in my email. Just hit that download
+now button and make sure your PC mi
+meets the minimum requirements. All
+we're going to do is hit open and it'll
+first start downloading the new version
+of Safari 4 beta. Now, it says it's
+going it's a little bit of a slow
+download right now, but it's a 25 megaby
+initial download and it'll take
+approximately 30 uh megabytes on your uh
+hard disk. Now, what I'm going to show
+you while it's downloading is that it's
+going to look a lot more strikingly like
+Google Chrome in that the tabs are on
+the top here. We're going to have a RSS
+button, the refresh. We're going to have
+browsing using Coverflow, okay? Full
+full page previews of your bookmarks and
+getting to know your top sites. So, you
+know, I'm just going to come back to you
+guys when the Safari 4 beta is done
+downloading. All right, here I've
+resumed the video and we see that the
+cam cam uh sorry, the Safari
+setup.exe has been finished downloading.
+So, we're going to run the file. That's
+all I did was go downstairs and come
+back and resume the video. So, just hit
+the run button. And it'll bring us into
+the installer, which I believe will ask
+us for the language first. Hold
+on. And while this is actually starting,
+I'm just going to exit out of the Safari
+3, which is probably going to be
+necessary for installing Safari. Safari
+4. Anyway, so let's wait for Safari 3 uh
+Safari 4. Here it says Safari is the
+fastest and most innovative web browser
+for Mac and PC. And we already saw that
+there's going to be a ton of changes.
+So, we're going to hit next. We have to
+agree to the service and license license
+agreement and everything. Hit the accept
+button and hit next. And here I'm going
+to install a desktop shortcut because
+I'm going to eventually drag into my
+rocket doc to replace this Safari. And
+we're going to hit install. Now, since
+we did not change the actual location of
+where it's going to install, it's going
+to detect by itself as we follow Apple's
+instructions here that it that's
+actually detecting our previous version
+of Safari in that folder. It's going to
+remove that but keep all of our
+favorites, preferences, our autofill,
+and all that customizable stuff um
+actually still in Safari as we um we
+prepare for installation here. So, it
+says please please wait while Safari
+installs. And this may take several
+minutes. So, I'll come back to you guys
+when this is finished um finished with
+this particular step. All right, we're
+come back. We've come back here to the
+final step and it's removing the old
+favorites and applications and replacing
+them with the same exact information but
+in the newer uh file format for Safari
+4. So, it's finishing the installation
+of Safari and if we scroll up here,
+you'll see that it's already put an icon
+on my desktop, a little shortcut um for
+me to drag actually into my Rocket doc
+in the first place. So, now we see it's
+validating the install. So, let's just
+wait until Safari has finished
+installing the application and then
+we'll go into and show you a little bit
+of the the new things that have actually
+been incorporated into Safari 4. So,
+just wait one
+second. All right. And when you finished
+installing it, it says,
+"Congratulations, Safari has been
+success successfully installed." And I'm
+going to uncheck open Safari after it
+exits. And I'm just going to hit the
+finish button here in that new window.
+Now, in order to do this, um, to drag
+into my Rocket doc, I'm just going to
+right click on the dock and unlock items
+here. Drag out the old Safari icon, and
+it just disappears. Take the new Safari
+icon, drag it in to where I want it, let
+go, and then I'm going to lock it again.
+Now, you'll see the old one is still
+here. Since this is just a shortcut,
+it'll obviously tell us this is just a
+shortcut, and I'll say yes, remove it.
+So, now we have the new Safari 4.0 beta,
+and I'm just going to click on it to
+open it. Let's see if it's any faster or
+slower. That was pretty fast. And right
+off the bat, I'm noticing that's a
+completely new theme here. It's using
+the Windows arrow. Of course, I I made
+it do that in my old version of Safari.
+But the first boot of Safari is going to
+be totally different. First thing I want
+to point out is that up here there's a
+little bug button where you can um
+report the bugs. And here we have a
+little introduction saying welcome to
+Safari
+4. And here are our top sites just like
+Google Chrome. It has the top sites we
+have visited almost like and it seems to
+be loading the top sites that I've
+already visited which is pretty cool.
+So, this is um a lot reminiscent of
+Google Chrome. First of all, the fact
+that you can add a new tab just by
+hitting that plus button. Second of all,
+the fact that it has all your top sites
+here and it's actually pretty accurate.
+This is my homepage. This is apple.com.
+It's going to load. And here is all my
+old favorites, which is very cool. Have
+my website, uh the project that I'm
+doing. It still has all of my bookmarks
+and that's a pretty cool new theme and I
+think I like that. So now it's finishing
+and it says it's going to be a lot like
+Coverflow here as Safari 4 incorporates
+Coverflow. So I'm just going to hit that
+button to open a new tab. That's pretty
+cool. One more tab. So it seems to just
+um load this exact page every time it
+opens a new tab. And there you go for
+you. That's my headtop sites. If I just
+click on it, it'll like come to the
+front and it loads extremely quick
+almost as if it's in the cache already.
+So, that's a pretty cool graphic that
+they've shown us. So, second in Safari,
+um, in the new Safari 4 beta, what you
+can actually do here is if I hit this
+button, we can browse in Coverflow mode.
+So, if I were to go to
+google.com, actually, that didn't work.
+I didn't type that correctly. So, let's
+go to
+google.com. And what I'm going to do is
+add it as a favorite. And it says, "Are
+you sure you want?" Oh, yes, I do. So,
+instead of rolling scrolling in from the
+top, it actually opens a new window,
+which is pretty interesting. Then I can
+obviously choose where I want to save
+that bookmark and then it'll put it in
+up here. So, I'm going to hit cancel cuz
+I already have my bookmarks. And this,
+it says show top site. So, all I have to
+do is click that and it automatically
+brings up this window again. That's
+pretty cool. If I hit the home button,
+yes, it keeps my homepage. It keeps my
+Google homepage. Change a little bit of
+the buttons, but that's all right. And
+if I go to email here, I can obviously
+um not email, if I go to bookmarks, I
+can scroll my bookmarks in Coverflow.
+That's a big change in Safari 4, that
+that coverflow um integration into
+Windows as well as PCs. So, that's very
+cool that you can do that in Safari 4.
+Just click it again to get out of
+bookmarks and we're back. And that's
+basically it, guys. All the options
+remain the same. you still have a lot of
+that um that reminiscent of um what do
+you call Google Chrome that you can you
+have all your options over here instead
+of on the left you don't actually have a
+file uh new thing because if I want to
+go to new tab all I have to do is hit
+that new tab button so you also have the
+options you have show menu bar or hide
+it show or hide bookmarks bar status bar
+and also you may have noticed when I was
+loading the page if I were to load um a
+larger page here and that's cool that it
+has a top site and bookmarks. So,
+YouTube.com. You'll see it doesn't load.
+It has a little swirly thingy here
+instead of actually loading up here. So,
+I'm going to get back to you guys on
+more add-ons and bookmarks. Let's see if
+I hit sign in if it remembers. Yes, it
+does remember. So, it still has all the
+autofill. So, yeah, I'm going to get
+back to you guys on more plugins and
+add-ons for Safari and more uh little
+bugs that I can report to you guys. But
+that's basically it. So, thanks for
+watching this video and I hope you found
+it helpful and good luck with installing
+Safari 4 on your brand new computer or
+just on your computer. So, thanks for
+watching this video. If you have any
+other tutorial ideas or requests, just
+go ahead and subscribe and send me a
+message and I'll get back to you in a
+response. Thanks for watching. Peace.
+[Music]

@@ -1,0 +1,100 @@
+# Fastest Mac Mini in the World! [Part 2]
+# https://www.youtube.com/watch?v=6cmhEmwfea0
+
+hey what's up guys MKBHD here back with
+part two of the fastest Mac Mini in the
+World Series finally so uh if you like
+this series idea if you want to see part
+three soon give a thumbs up to support
+this series and without any further Ado
+let's go ahe and pick up where part one
+left off and that is with the install of
+the fastest single SSD solution money
+can buy without any further Ado let's
+just go ahead and jump right into this
+so the 2011 Mac Mini is interesting it's
+too small for a PCI card SSD and uh in
+terms of the Apple option I actually
+called apple and nobody could tell me
+there how fast their $500 256 gig SSD
+option was so we're taking matters into
+our own hands here with the ocz vertex 3
+Max iops Edition a blazing fast sata 3
+Bas 6 gbit per second SSD that handles
+right speeds at around 500 megabytes per
+second and reads at around 550 megabytes
+per second so we can tear this open and
+check out what comes in the package from
+ocz and that includes this 3 and 1/2 in
+metal tray to make this 2 and 1/2 in SSD
+fit in larger desktops but we won't be
+needing this you also get this sweet
+sticker perfect for the back of your car
+now or maybe just slap it on the
+computer later and you also get a user
+manual and the gold itself it's the SSD
+and uh taking it out the package you can
+see the form factor is really
+beautifully simple just the power and
+the SAT connector and the SSD that's it
+looking like a bous ready to do work in
+this Mac Mini now before the install of
+the SSD itself we're going to need a
+couple things we need a USB thumb drive
+of 8 GB or more and we'll need to go
+into our fresh install of lion on the
+slow hard drive and download and install
+the OS 10 lion recovery tool and install
+it onto the flash drive and this is what
+we use to get that lion onto the new SSD
+now the links to all the supplies needed
+to perform the surgery are in the
+description below this video right next
+to that like button and that's where
+you'll find the mini screwdrive driver
+set now I'm not going to explain every
+detail in the hardware swap process to
+get out the hard drive and get in the
+SSD and that's mainly because there's
+already a fantastic step-by-step
+instructional video on YouTube that I
+used and followed to do this so that's
+in the description but overall this
+entire process was pretty painless took
+just about 25 minutes for me to complete
+and was actually pretty simple and I
+want to say dummy proof but you know you
+just have to have the right tools and
+you can get it done just note that the
+screws you'll be unscrewing are mostly
+really tiny so be prepared to have a
+good place to store them uh like in a
+bottle cap or something but yeah it was
+all together pretty painless I've never
+opened up a Mac Mini before so stuff was
+much more cramed together than I'm used
+to when I build regular Tower computers
+uh but I I do have massive freaking
+gigantic hands as you can see so that
+was probably the most difficult part but
+sure enough 25 minutes after I started I
+was done and it was time to fire up the
+new Mac Mini for the first time now when
+you do turn it back on hold down the
+option key on the Apple keyboard and
+you'll get that dis utility where you
+can format the new SSD entirely in one
+partition for OS 10 and begin your
+install of a fresh new copy of Lion that
+whole install took about again 20 to 25
+minutes and that ladies and gentlemen is
+where part two finishes part three will
+pick up well this part left off and you
+can expect to see a ton of ram thrown at
+this little beast of a machine and many
+more things done to make it the fastest
+Mac Mini in the world thank you for
+watching and I'll see you guys in the
+next one
+[Music]
+peace

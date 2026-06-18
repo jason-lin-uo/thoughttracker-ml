@@ -1,0 +1,437 @@
+# The Truth about Drone Deliveries!
+# https://www.youtube.com/watch?v=88yQTzlmsiA
+
+All right. So, you see this?
+This This is a drone. And when I say
+drone delivery, I think most people
+picture something like this, trying to
+deliver packages, which is just that's
+ridiculous. That's way too much. But the
+thing is, I've been looking into drone
+delivery for the past little bit, and it
+is very, very different than that. And I
+also thought we were supposed to have
+drone delivery by now. So, let's talk
+about
+[Music]
+it. All right, here's a crazy stat. 85%
+of all of Amazon's deliveries are under
+5 lbs. 85%. And that's from Amazon's own
+numbers when talking about their own
+aerial delivery service that they've
+been pouring millions of dollars in
+development for years into. And then I
+saw videos of it and it looks like this.
+This thing hovers down to like 15 feet
+off the ground, drops the package on the
+ground, and then the propellers kind of
+blow it away, and then it takes off
+again. This seems a little insane to me.
+I'm obviously not going to trust this
+with anything fragile. I would never
+order a GPU or a smartphone and watch it
+get dropped on the ground like that.
+It's also going to be loud. And that
+thing is huge, if you couldn't tell by
+the scale of the stuff in the videos.
+So, they started testing in California
+and Texas, but I haven't really heard
+much from them otherwise on that.
+Apparently, Alphabet also has a project
+called Wing, another drone delivery
+system. The website is very promising,
+but I punched in my own address and a
+bunch of others, and I can't seem to
+find any areas where they're actually
+doing this. So, maybe if these huge
+companies aren't nailing it, then it's
+just not practical in general, and like
+it's not something we can expect anytime
+soon. But on the other hand, I feel like
+I can think of just a couple nice neat
+little examples, these perfect little
+use cases where it makes a ton of sense.
+Like let's say you're a new parent at
+home and you just ran out of baby
+formula and you need more of it ASAP,
+but you can't really leave the house
+with the baby. Drone delivery. Or maybe
+I'm out somewhere in a remote place and
+I cut myself and I need first aid and a
+car can't get to me, but a helicopter is
+a little bit
+overkill. drone delivery or even just
+for that Door Dash. Like surely surely
+we don't need a 4,000 pound private taxi
+for our burrito every single time,
+right? Drone delivery. So, I'm digging
+into this and it turns out there is one
+company that is huge in this space, far
+bigger than the other big companies I've
+been looking at and they are by far the
+largest autonomous drone delivery fleet
+in the world at this point. They're
+called Zipline and what they've been
+showing is way more advanced than
+anything from Google or Amazon. So, I
+had to go check it out for myself. They
+didn't sponsor this video or anything
+like that. Basically, they were just
+nice enough to pull back the curtain and
+let me ask a bunch of questions that I
+have about drone delivery. And now I
+have all the
+[Music]
+answers. All right. Finally, a nice
+weekend out in the middle of nowhere.
+Just me and a Frisbee. Uh, and I think I
+I think I forgot my power
+bank. That's crazy. The one thing I
+need, Hold on a
+second. Let me just place an
+order. And
+done. Says ETA 30
+seconds. Okay, great. Yeah, that's
+perfect. Just
+20 or so more
+seconds.
+Oh yeah, that that
+tracks.
+Yep. Appreciate
+you. That's exactly what I needed. Let
+the vacation
+begin. Like I said, probably one of the
+coolest things I've ever seen. Very
+advanced. Now, Zipline has been doing
+autonomous drone delivery since 2016,
+but it didn't start off this advanced.
+Their first generation product matured
+into this thing right here known as
+Platform 1. less of a drone, more of a
+fixedwing autonomous aircraft, but it
+was assembled on launch site with
+whatever cargo is going into it.
+Launched from a giant slingshot, dropped
+to the delivery location by coming out
+of the bottom of the drone with a
+parachute, and then it would turn around
+and fly back home where it was caught
+out of the air by a huge string on a
+hook at the tail of the craft. I got to
+watch them demo all of this. It is
+exactly as insane as it sounds. Like,
+the launch is crazy. It basically
+slingshots it from 0 to 60 mph in a
+quart of a second. And the catch is even
+more insane. If you watch it in slow
+motion, these arms holding onto the wire
+actually move at the last second to snag
+the drone out of the air with precision.
+And there's millions of other tiny
+impressive pieces of tech that make this
+work. As complicated as this is, this is
+what essentially became the first
+autonomous drone delivery system at
+scale. and it's had massive success
+delivering blood and other medical
+supplies to hospitals around Rwanda. So,
+it's saved thousands and thousands of
+lives to this point and actually
+continues to to this day. There's a real
+engineering video from 6 years ago about
+this. There's also a Mark Robber video
+from one year ago. They both show this
+really well. I'll leave those videos
+linked below the like button. But
+they've iterated since then and now
+their current generation, aka platform
+2, is just incredible. This is the most
+advanced drone delivery system we've
+ever seen. So, it's made up of one drone
+with both articulating propellers and a
+fixed wing and then a smaller sort of
+droid that zip lines out of the bottom
+of it to gently place the delivery on
+the ground with dinnerplate precision,
+hence the name zipline. So, here's a
+closer look at the drone P2 in its
+docking station. So, it's actually
+docked from the top and this is where it
+takes off from and comes back. The
+bottom part here is where that zipline
+drone comes out. But you can see the
+rest of the body is actually mainly
+styrofoam. And this wing here, carbon
+fiber, super rigid, super light. Weight
+is at an ultra premium. The batteries
+stored up in the front here. And this
+entire thing with the motors, the
+propellers, this articulating propeller
+to switch between forward flight and
+hover flight, 55 lbs, which is pretty
+ridiculous. So then this is the zip.
+This is the little droid that gets
+lowered down from this point here to
+actually deliver the package. And
+there's still a ton of tech on this as
+well. First of all, this is how they
+load it up. All carbon fiber on the
+inside. The bottom is the two doors,
+which is the floor, but it also slides
+left to right to open. And it has these
+feet. But then it has the thrusters. So,
+this is the big thruster on the back,
+which can move it forward and backward.
+There's also some right here and right
+here, which can combine to turn it and
+change its orientation. So, it's using
+all that plus the sensors at the bottom
+to see what's below it to orient itself
+to place it exactly where it needs to
+be. Open the floor, drop it off, and
+then zip right up. And it weighs like 5
+lbs. It's crazy light. So, here
+comes the drone. This is how it
+works. It's relatively quiet. It's going
+to stay about 100 m off the ground,
+about a football field, right? So then
+once it's narrowed down exactly where
+it's going to lower the zip line, it
+knows exactly where it wants to drop it.
+So it's not like it'll accidentally end
+up on the roof or in the pool or some
+random place. Okay, now any second it
+should start
+dropping. There it goes. So it actually
+descends pretty
+quickly, which I guess shouldn't be
+surprising. It's gravity assisted. But
+now it's going to drop down. And it's
+actually looking at the ground. So if
+something does get in the way and if
+there's a dog there, some random
+unexpected something, then it will sort
+of move around and adjust,
+but drops it
+off, floor opens, floor closes, and then
+it gets pulled back up like a fishing
+line. And there's the thing that I
+ordered. There is just an incredible
+amount of tech making this happen
+autonomously. GPS, computer vision,
+material science, and it's just it's so
+cool that it all comes together and
+actually works. But I know if you're
+anything like me, you're you're watching
+this and it's cool and everything, but
+you still have a ton of questions in the
+back of your head, logically speaking,
+about how this can work. And don't
+worry, I had the same questions. So, I
+asked them, and these are the
+[Music]
+answers. Okay, so probably the number
+one question, how loud is it? because I
+I don't want drone deliveries if it
+means I have to hear this loud buzzing
+sound all day. That would be terrible.
+And so the answer is actually really
+encouraging. So they have a whole team
+of people working on the acoustical
+engineering problem that is quiet
+drones. And they're messing with
+different propeller designs and
+algorithms to spin the propellers at
+different speeds during different stages
+of flight to minimize harmonics. Combine
+all that with the clever zipline method,
+which means the drone never actually
+gets below about a hundred yards up,
+like a football field away from people
+when it starts dropping the little
+droid. And so the result is it's
+actually shockingly quiet, especially
+when compared to like a normal consumer
+drone like a DJI Mavic or something,
+which has this really piercing sound.
+So, okay then another question. How long
+does a drone delivery actually take? So,
+uh let's just stick with the classic
+food delivery example, right? So, first
+of all, the restaurant still has to make
+the food that takes the same amount of
+time. Then they have to get it picked up
+by the drone. Now, there's a theoretical
+future where restaurants and other small
+businesses can have this drop off point
+that's essentially a hole in the wall
+that they just put the order in for the
+drone to pick it up from. It would have
+to be relatively inconspicuous, but even
+for companies that don't want to do all
+that, they've prototyped these
+standalone passive structures. So, the
+idea is to make it easy for the
+restaurant to just walk outside and
+leave the package in the structure where
+the drone can pick it up with the
+zipline system. I actually saw a demo of
+this working as well and it was
+technically pretty impressive. Once
+fulfillment happens, the average food
+app delivery is 3 to 5 miles. And so
+that's well within the 20 mile range of
+this thing. And they cruise at 70 m
+hour. So theoretically, there's a world
+where you order something online and
+once it's packaged, you get your
+delivery in 3 to 5 minutes. So okay,
+then what if it's windy or raining? Can
+it still work? Turns out, yeah,
+absolutely it can. Not only are these
+things rock solid, but they're designed
+specifically to be able to fly in
+basically anything short of hurricane
+force winds. Like I said, they cruise at
+70 mph, so they have some power. And the
+whole thing is waterproof the same way a
+car is waterproof. Like, it has to be
+able to withstand getting pelted by
+water at every angle. And I did witness
+a pretty windy delivery before we
+started rolling our cameras. It was also
+at night, but the thing dropped down our
+food successfully right in front of us,
+and it was fine. Really, the goal should
+just be to be able to do anything that a
+regular delivery truck could do, plus
+all the benefits of being cheaper,
+quieter, faster, fully electric, and
+working 24/7. So then the elephant in
+the room question is just basically, is
+it safe? Like I think everyone's
+basically wondering, could one of these
+drones potentially fall out of the sky?
+Like what if a propeller breaks or
+something? And so as you can imagine,
+the people designing this system know
+this is a huge deal and they want to
+avoid any sort of liability issues. So
+they have engineered this system to be
+absolutely ridiculously bulletproof.
+There's redundancies through every
+critical system and all the wiring. So
+you can they told me you can literally
+cut a wire inside this thing and it'll
+still fly home. It can lose not one but
+two propellers and still fly home. And
+the internal systems are performing 500
+safety checks per second and of course
+is doing autonomous obstacle avoidance
+and even talking to other zipline drones
+in the area to do these coordinated
+movements with each other. But then,
+okay, of course, if all else fails,
+there is a parachute system. So, if it
+must fall out of the sky, it will at
+least fall slowly. The end result, or at
+least the current result, is they have
+flown 100 million miles so far with zero
+safety incidents involving humans. It's
+100 million miles. It's a pretty good
+start. Now, it's still early and there's
+notoriously always a difference between
+testing and real life, but they have
+tested heavy crosswinds. They've tested
+obscured, you know, weird landing spots,
+changing, someone pulling on the zipline
+while it's delivering, all that stuff.
+Um, in case you're wondering, it'll just
+cut the zipline free if it detects that
+to avoid crashing at all
+[Music]
+costs. Okay, so I've seen a lot here.
+the evolution from their first
+generation to the second generation
+vehicle, their massive testing facility
+with all these docks and dozens of
+drones launching and flying
+simultaneously. And their manufacturing
+facility, too, the component testing,
+acoustic engineering. Big shout out to
+Zipline for pulling back the curtain on
+all the work they've been doing and how
+far they've come. It was cool to see
+this stuff. So, now in my head, I'm
+trying to fast forward a few years and
+imagine a future where this is
+successful. Like, what does that world
+actually look like? And I think there's
+a path to this being real. I've spoken
+to doctors and hospitals in Rwanda who
+vouched very directly for countless
+lives saved by drones delivering blood
+for transfusions or anesthesia drugs for
+emergency surgeries. So that's a pretty
+obvious and convincing use case that
+this will continue to be useful. This
+won't replace Amazon deliveries for
+people who live in apartments or people
+who live super far from retail shops,
+but for certain specific deliveries, I
+think the benefit is undeniable. There's
+no human needed. It's dramatically
+cheaper. It's much faster. It's quiet.
+It's emissions free. And it works 24/7.
+It also turns out Rwanda was a pretty
+ideal first place to start testing.
+small country, hilly, lots of
+thunderstorms, windy, and also uh with a
+government that's willing to work with
+them on a lot of regulation because
+regulation, especially in the US, like
+it's a lot of work there, the different
+classes of airspace, all the different
+rules. Uh so just in general, that's
+something you need like an entire
+department for. So ultimately, here's my
+take. Drone delivery, super cool, very
+technically impressive. It's not going
+to be for everything, like trucks aren't
+going anywhere, but for very specific
+deliveries that are both small and
+time-sensitive. Drone delivery can
+actually make the most sense. Like, I'm
+picturing I I fly to some some tech
+event somewhere. I didn't rent a car.
+I've gotten there with my camera, but I
+forgot my memory card and I need it
+pretty quick. Drone delivery. Like, fly
+the thing to wherever I'm at, drop it
+off. I would love to live in a world
+where that is possible. like this very
+much feels like it unlocks a new
+dimension of travel for a few specific
+things. Some things that were impossible
+or impractical with a vehicle and also
+some things where it literally means one
+less vehicle on the road. And it was
+cool to see a relatively small company
+innovating and competing with the big
+dogs on this. I've seen these things fly
+high enough and fast enough that they're
+basically invisible in the sky before
+they come down to do the delivery. So,
+I'm not worried as much about noise
+pollution, but I am a little bit about
+visual pollution, particularly in the
+night sky, like in the same way that
+like Starlink is incredibly useful for
+in and around the world, but is
+concerning for the view of the night
+sky. But that's a whole another video
+for another day. But yeah, only time
+will tell if people are ready for this.
+Thanks for watching. Catch you guys in
+the next one. Peace.
+[Music]

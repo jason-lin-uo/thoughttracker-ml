@@ -1,0 +1,379 @@
+# dbWGjcHz9xA
+# https://www.youtube.com/watch?v=dbWGjcHz9xA
+
+[Music]
+hey what is up guys MKBHD here and today
+was Apple's WWDC 2017 and there's a lot
+of stuff announced actually so for those
+of you who don't want to sit through a
+video of the entire 3-hour keynote that
+we sat through this video is for you so
+there were actually six main
+announcements at WWDC this is a top five
+so that means one of them didn't make
+the list so tvos hope you don't mind
+didn't make the top five but you know
+it's better now it's refreshed it's got
+a new U why it now supports Amazon Prime
+video uh but yeah that's about it so it
+didn't make the top five but now you
+know about it all right so the number
+five announcement is the new watch OS 4
+for the Apple watch now I'm not a big
+Smartwatch person and I don't wear a
+smartwatch that often but if you do you
+will notice that there are quite a few
+little improvements to the Apple watch
+they added some watch faces so a
+kaleidoscope watch face which is fun a
+Toy Story couple of watch faces and also
+now a Siri watch face which shows a
+bunch of new information and there's
+some other minor stuff like being able
+to send data back and forth between
+compatible gym equipment and your watch
+Apple watch is a pretty popular fitness
+watch so makes sense but altogether in
+all these little minor improvements
+there wasn't really anything massive
+that would make someone who wasn't
+considering a smartwatch now think about
+getting an Apple Watch it was more of a
+bunch of improvements that would make
+someone who already owned one and
+stopped wearing it try it again maybe
+stop collecting dust on a shelf in the
+corner maybe it'll do that for me
+actually I'll try it so number four is a
+new version of Mac OS so the current
+version we have on every Mac the latest
+version is Mac Osos Sierra the latest
+version now which now has a new name is
+called Mac OS hi
+Sierra that's that's it there's no
+that's there's no joke it's just that's
+the new name I guess the reasoning is
+it's supposed to be an improvement on
+Sierra like a Perfection of all these
+little new features that make it great
+so it's High Sierra I don't know just
+ignore the name but again the idea here
+is the same it's a refinement it has a
+bunch of minor improvements things like
+Safari now Auto blocks those annoying
+autoplay video ads it now also has
+intelligent ad tracking prevention to
+help you stop seeing the same ads over
+and over all over the web it also now
+has a couple new filters in the photos
+app there's a split view in the mail app
+you know little things like that the
+nerd in me love the announcement of
+h.265 support which is a new video Codec
+which will now also be Hardware
+accelerated and built into Final Cut Pro
+let's go and Apple's now gotten serious
+about supporting VR and external gpus so
+for VR they're now supporting the unity
+and unreal engines natively in Mac OS
+and for external gpus they're now
+focused on harnessing the power of
+Thunderbolt 3 and making that a more
+viable solution for a lot of people so
+there's now actually a developer kit
+with a reference box external GPU
+enclosure with a Radeon Pro graphics
+card inside that you can buy from Apple
+I kind of want to get it either way
+that's Mac OS High Sierra that's the
+real name public beta coming in late
+June and then free upgrade for all Mac
+users coming in the fall now number
+three homod now this was the
+announcement that was probably the most
+hyped coming into this event we knew
+like a tiny bit of what might be shown
+but there's a whole lot more that just
+got revealed and it was a bit of a
+surprise so the homod is this this
+balloons sized like toaster small
+toaster sized high-fi speaker that also
+has some assistant features built in on
+top side note I personally don't think
+homepod is that good of a idea for a
+name I would have gone with something
+probably more like apple home or Siri
+home or Siri speaker or whatever
+something like that but you know iPod
+branding is still strong and it is a
+speaker here first so they went with
+homepod so this thing has seven tweeters
+these horns all the way around the
+circumference around the base so
+omnidirectional audio there and then a
+4-in woer firing upwards and apple spent
+a lot of time hyping and and talking
+about how good this thing is going to
+sound it is definitely a premium high-fi
+speaker first it's going to have some
+smart features that can detect wherever
+you put it if it's near a wall it'll
+know to bounce certain sounds off of
+that wall and spread out certain other
+sounds away from the wall it's supposed
+to be an extremely smart speaker and
+they spent a lot of time with that on
+stage now you couldn't really listen to
+it that well in the demo area but I did
+get to listen to one in a quiet area and
+I actually compared it to an Amazon
+Alexa and a Sono speaker and I can tell
+you for sure it sounded a lot better
+than the Amazon Alexa speaker and it
+sounded decently better than the Sonos
+too it has a lot of bass obviously that
+the smaller speakers are lacking and
+plenty of highs too but what struck me
+was the mids were actually really full
+and rounded and legible where they
+weren't in the Sono obviously the Alexa
+was not very good at all so I got to get
+one at home obviously and listen to it
+with my own music and my own sounds and
+figure out if it's worth it in that
+category but assuming the Siri
+functionality on top of it actually
+works well where you know you can use
+voice controls to listen to music and
+ask it questions about the music and ask
+it for the weather and for your calendar
+appointments and hopefully it's gotten
+better since that comparison I did with
+it versus Google Now assuming all of
+that stuff is true then it looks like
+it'll be a pretty decent product it's
+supposed to come out for $349
+in December so it's got some time before
+that comes out and before it's actually
+a finalized product but that gives it
+time to get good and we'll be able to
+see if it's actually worth that price
+349 bucks sounds like a lot but when you
+compare it to other high-end speakers
+that's right in line and hopefully it
+does more things and hopefully also by
+December that gives us time to know what
+we can do with it like right now they
+advertise it as just like a Siri and
+apple music box but what if I don't use
+Siri or what if I use Google and and
+Google play music or Spotify or
+SoundCloud or any of those things will
+it work as just a Bluetooth speaker I
+don't know that's to be seen all right
+so number two is IOS 11 and this this
+got a lot a lot of little features added
+to it and then a surprisingly big visual
+refresh they didn't even talk about it
+that much but it's a lot flatter and
+more colorful now but it's clean it's
+clean so the new features include things
+like iMessage in iCloud so now when you
+switch between phones it'll also bring
+all your iMessages across you can Apple
+pay between people so now if you want to
+pay someone who also has an iPhone you
+can use Apple pay in inside iMessage to
+pay them so that kind of makes it tough
+on things like venmo and PayPal if this
+catches on there's h.265 video support
+again and there's also now a high
+efficiency image format which will
+supposedly take a lot less space on your
+phone with all the photos you take and
+there's new image processing to make
+better quality photos from the camera
+and Siri got a new voice it's a little
+bit smoother and there's also a male
+version too here's the forecast for the
+next 10 days sunny sunny and sunny I
+love machine learning especially since
+I'm a machine learning and the control
+center is redesigned now this definitely
+looked a little bit odd to me at first
+and I didn't like it right off the bat
+but it's definitely going to take some
+getting used to and I think this is one
+of the things we're going to have to get
+used to because iOS control center right
+now on the iPhone is a little bit
+finicky already so it looked to be an
+improvement to that even if it's not
+pretty it responds to 3D touch it's now
+no longer paginated so all your controls
+are your finger tips and it appears to
+have more controls than you did before
+so hopefully this is something that I
+can get used to even though it's not the
+Prett thing there's also some
+improvements to other first-party apps
+like apple photos and to Apple Maps it's
+got things like Lane guidance now which
+is long overdue but why I really like
+iOS 11 and why it's so high on my list
+at number two is because of what it did
+for iPads for the longest time the
+biggest weakness of iPads for me was for
+how much they claimed to be able to
+replace a PC and be a primary machine
+for so many people they could never
+really do even some of the most basic
+things that PCS could do at least in the
+multitasking and productivity side of
+things they were severely lacking but
+iOS 11 on the iPad now has for example a
+full-on dock like the Mac so a bunch of
+apps that you can store down there uh
+you have not only just the split screen
+multitasking but you can copy and paste
+things between them uh you now have a
+full files app so you have access to the
+file system on the iPad there's a new
+scanning feature in the notes app where
+if you take notes with the apple pencil
+it will actually be able to scan that as
+text and recognize all your handwriting
+and then be able to Archive and search
+through that with Spotlight which is
+amazing and Craig on stage went through
+all this stuff and even more insanely
+fast I could barely keep up I was
+scribbling it all down but bottom line
+was it actually made me reconsider how I
+think about the iPad as possibly really
+being a first computer or a primary
+device for a larger number of people
+that's obviously going to be its own
+full Deep dive I have to get my hands on
+the new iPad and that's definitely going
+to be its own separate video plus
+possibly the most underrated
+announcement from all of today's stuff
+and no one seems to be talking about it
+as much as they should is that the new
+iPads the new iPad Pro came out know 10
+and 1/2 in display slightly Slimmer
+bezels but it has a display that
+refreshes at 120 HZ 60 frames per second
+constant every animation and you notice
+it like they casually dropped it on
+stage like oh it will dynamically switch
+between refresh rates you know lower
+refresh rates for slower tasks like
+reading but also higher refresh rates
+and you normally go up to 60 HZ on most
+displays but this will be 120 HZ not
+just for gaming but for like all the
+swiping through the UI and swiping
+through pages and typing and drawing
+with the apple pencil it's extremely
+responsive it's like butter it's like
+water like pulling your hand across the
+UI it's hard for me to show cuz this is
+all 30 frames per second video but trust
+me when I say it's very different and
+people should be pretty excited about
+that so that takes us to number one the
+highest profile new announcement from
+today's WWDC which is new Max and the
+new iMac Pro so there were Hardware
+refreshes announced throughout all of
+Apple's lineup you got new MacBooks new
+MacBook Pros new iMacs there's now also
+a baseline 13.99 4K iMac and a new
+Baseline 1399 MacBook Pro 13in and all
+the iMacs now have brighter displays
+500nits standard which is great now has
+Fusion drives by default which is meh
+but they also now have the SSD option is
+faster and can go up to 2 terab so I
+highly recommend that and they're all
+running kbl Lake Intel chips on the
+latest gen AMD Radeon Pro graphics cards
+uh faster Ram more RAM and they added
+two USB type-c Thunderbolt 3 ports on
+the back of the new IMAX it's about time
+so now it's looking like a real nice
+solid 2017 refresh and that out of
+nowhere out of literally nowhere we got
+out of left field this iMac Pro this all
+space gray matte black workstation grade
+Beast of an iMac that I mean out of
+nowhere up to 18 cores on the CPU side
+workstation grade xeons AMD Vega gpus up
+to 100 128 gigs of RAM and then up to a
+4 TB SSD and 10 GB ethernet on the back
+and four USB type-c Thunderbolt 3
+ports where did this come from it even
+comes with a brand new exclusive space
+gray Apple wireless keyboard with the
+number pad a space gray trackpad and a
+dark gray Magic Mouse all for this
+Workhorse of an iMac with a 5k display
+so I got to look at it I got to admire
+it I got to even touch it obviously this
+thing has my attention they even kept
+the SD card slot on the back which is
+great it's looking like a pretty robust
+Suite of I/O for a pro user and the
+numbers in the specs are making it look
+pretty damn tempting for a pro user for
+someone who uses Final Cut Pro this
+seems like a machine that would crush
+Final Cut Pro but the more I think about
+it it actually seems like this is a
+really elaborate trap set by like Johnny
+IV praying on content creators whose Mac
+Pros are on their last breaths this
+thing is going to be starting at $5,000
+in December so it's not like you can get
+one right now you actually have to wait
+a little time or pre-order and get one
+in a couple months but if you think
+about it who on Earth is in the market
+for a super high-end allinone with
+workstation grade parts that's totally
+not upgradeable but is a total Beast you
+know you know see what I'm saying it's
+two completely different things you
+can't upgrade the RAM CPU drives GPU any
+of the things in this computer but it's
+going to be an absolute monster people
+who are buying multi thousand
+workstation grade computers like this
+don't buy bu IMAX unless you paint them
+space gray I don't know maybe I'm not
+learning my lesson from the 2013 trash
+can Mac Pro but I really want an iMac
+Pro this thing looks absolutely sick uh
+and a lot of people from the photos I've
+posted and reactions on Twitter have
+also been really into it too but either
+way let me know what you think are you
+into this iMac Pro or any of the other
+announcements from WWDC 2017 I'm
+certainly interested to hear your
+thoughts down in the comment section
+below right below that like button we're
+all talking about it all day uh and
+that's where we out down there so that's
+pretty much it thank you for watching
+this recap video hopefully it uh
+sufficed your needs for not watching a
+3-hour keynote and you got all the info
+you need feel free to share this info
+for anyone else who might want to see it
+that's pretty much it thanks for
+watching talk to you guys in the next
+one peace
+[Music]

@@ -1,0 +1,475 @@
+# Dope Tech: Nothing Phone 2 Redesign!
+# https://www.youtube.com/watch?v=RM7SobH8ZO0
+
+hey what's up I'm Kim HD here welcome
+back to dope Tech this we already know
+Tech and production value is already
+some of the most fun stuff we do here
+and I remember one of my favorite
+episodes of this we ever did was playing
+with the cinema robots in Portland and
+by the end thinking
+it's crazy but I think we might have to
+get one of these things
+and I have a sneaky feeling that might
+be happening again on this shoot because
+well this isn't my normal Studio as you
+may have thought
+could get interesting
+all right welcome back to another
+episode of dope Tech I've got three
+really interesting things I want to show
+you guys for this one the first one as
+you can probably already tell is a piece
+of video production Tech I get
+unnecessarily excited about the bleeding
+edge of production video stuff but this
+this is a whole different kind of
+production this would be what's referred
+to as virtual production so let's rewind
+for a second I want to oversimplify but
+I think there's basically three
+different types of three different
+levels of production level one being
+everything is practical everything is
+real it's exactly how you see it the
+background everything you see in this
+Frame a YouTube video for example might
+be totally practical that's level one
+level two is where some of the things
+you're seeing in the video are virtual
+maybe it's a blue screen or green screen
+maybe it's a virtual animal or a some
+magical video animation or some Motion
+Graphics or things like that but then
+number three
+the top level would be fully virtual
+completely unreal as I would say think
+like The Lion King or Avatar so I
+recently got to visit a studio space in
+Brooklyn New York called zero space that
+has something called an XR stage and
+this thing is somewhere right on the
+border blurring a line between level two
+and level three it's kinda real but
+technically not real so there are a
+whole bunch of shows and and things you
+probably watch right now the Mandalorian
+being probably the most famous among
+them that use this version of virtual
+production so I mentioned the green
+screens or blue screens earlier these
+are obviously cool because in the edit
+you can replace anything that's the
+color green with whatever you want maybe
+a new background or environment and then
+if the actors are good enough they can
+act like that environment is really
+around them but this is next level so
+this is the XR stage what you're looking
+at is a 50 plus foot 8K video wall very
+expensive but absolutely loaded with
+Tech when you point cameras at them and
+the advantages are very real so number
+one the actors or anyone in front of the
+screen can actually have an easier time
+interacting with their environment
+because they can actually see it instead
+of imagining you know a totally
+different environment when there's just
+like a bunch of green and some trackers
+Bend number two the camera's position in
+space is actually tracked with this
+little piece here from Red spy on top of
+the camera and that information is
+relayed in real time back to the display
+so the background actually moves when
+the camera moves now this is huge so if
+you build a volumetric environment a 3D
+environment in something like Unreal
+Engine the camera movement maintains
+this Parallax effect and looks super
+realistic like you're actually in a new
+space unlike what I did in the intro
+which was just sort of like a taste of
+what it's capable of with a flat image
+so then number three and there's
+actually a huge one if you're an editor
+there's no green spill like if you've
+ever tried to edit Green Screen Video
+you already know it takes a lot of
+talent and editing to fully remove the
+background green and even still there's
+occasional green light spilling onto
+Fabric and skin and like glass and
+Reflections and things like that the
+last two percent of green but with the
+video wall there is no green spill well
+actually there is Spill but it isn't
+green it's just light that perfectly
+matches your environment there's
+actually all kinds of extra lights and
+things like that around the set as well
+even a ceiling display to make this
+happen so all of the lights and all the
+colors of light hitting the person in
+the environment will look just exactly
+like they're supposed to as if they were
+actually in that space so all of that is
+awesome but
+the most impressive thing that I learned
+while I was there and this really blew
+my mind is you already know you can have
+a camera and then a person and then a
+background video wall and then as the
+camera is moving around The Parallax
+effect matches to show what the camera
+should see in real time
+but this setup can actually do more than
+one camera
+at the same time and if you're thinking
+wait a second how can two different
+cameras how can how can that background
+moving effect work with two different
+camera angles at the same time won't one
+of them always be wrong or what happens
+if they they overlap
+and this is where it gets crazy so this
+giant 8K video wall is refreshing at 120
+frames per second so as there are two
+different cameras pointed at it each
+camera is shooting 60 FPS but they're
+synced up so that they're actually each
+shooting alternating frames
+I'm going to say that again each camera
+is shooting 60 FPS but they're not
+shooting the same 60 FPS so it's almost
+as if like one blinks while the other
+shoots a frame and then the other blinks
+while the other shoots a frame and they
+go back and forth and so both cameras
+can be pointed at the same wall at the
+same time and see completely different
+things so that solves the problem for
+two different video cameras both motion
+tracking correctly at the same time
+matter of fact this particular display
+this serospace has can go up to 180
+frames per second which can accommodate
+six different motion tracked cameras all
+shooting 30 FPS the crack frame rate all
+at the same time and all seeing six
+different things so I got to explore the
+space with fellow Creator Cleo Abram and
+she's put together an awesome video on
+her Channel huge if true it really blew
+our minds that this worked so well and
+that you know even to our natural our
+naked eye like things could kind of to
+blend and you can kind of see that two
+things are happening at once but
+absolutely nothing that one camera sees
+bleeds into what the other camera sees
+we literally had them light up the
+display behind us and it showed up as a
+perfectly blue blue screen on One camera
+and a perfectly green green screen to a
+different camera at the same time and it
+just showed up as like kind of bluish
+greenish to our eyes so seeing this then
+all the gears start turning about all
+the ways you could use this I just
+imagine you have you know the crazy
+desert background of the Mandalorian but
+the lines for the actors to read are on
+the wall but the cameras can't see them
+or tracking points or just all kinds of
+it's so so many things you can do with
+it it really got me thinking of if
+there's a way that we could use some
+sort of some parts of this in our own
+space obviously we build
+these are real sets they're not virtual
+sets but I just you know I want to think
+about ways and maybe I could do
+something like this in our own space
+anyway do yourself a favor and watch
+clio's video which is also going live
+today we got even way more into the
+details and some real world examples of
+the XR stage plus a bunch of other
+interesting examples of virtual
+production techniques complete with
+animations and more mind-blowing video
+facts literally as soon as you finish
+this video it'll be the first link of
+the like button click that watch hers
+it's so worth it and Shout out again to
+zerospace for letting us explore again
+I'm I'm gonna probably be back in touch
+with you guys I'm gonna try to figure
+out a way to make that happen here
+somehow
+some way okay next one hard pivot to a
+piece of tech that I've been using
+actually for a while it's a piece of
+Home Tech that's why I'm home for this
+one and uh sleeping Tech actually when I
+was first told about the existence of
+this piece of tech I was kind of
+surprised about it but then I had a lot
+of questions and so when eight sleep
+reached out and wanted to sponsor this
+video and they had all the answers well
+I was very interested so you might have
+heard of ate sleep they're kind of
+blowing up recently but basically the
+main thing they make is a temperature
+controlled bed actually it's a Topper so
+what it does is it wraps around your
+current mattress it's called a pod cover
+and the main feature the idea is it
+completely controls the temperature of
+the surface of your bed so it can be
+nice and crisp and cool when you first
+climb into bed and then nice and warm in
+the morning and make it easier to get
+out of bed which is pretty awesome I
+feel like there's two types of people
+people that fall asleep instantly in
+like five minutes and then people who
+think it's like a superpower to be able
+to fall asleep instantly and that's me
+I'm in the second group for sure I've
+historically took at least half an hour
+to fall asleep anytime but science shows
+pretty definitively you've probably
+heard this before that cool temperatures
+are pretty ideal for falling asleep
+quickly and then staying asleep and
+being well rested basically that
+temperature is one of the absolute top
+factors for quality of sleep so the
+eight sleep basically what it is it's
+this box next to the bed which has much
+stuff in it a compressor a reservoir and
+a whole computer it barely makes a
+whisper of noise and that connects to
+the bed via tubes and then the whole top
+of this bed this cover is lined with
+these capillaries through the whole
+thing these veins for either the warm or
+cooled water to flow through and
+importantly there's two halves so if you
+sleep at a different temperature from
+your partner which let's be honest I
+feel like everyone says they do then you
+can have each side of the bed be a
+different temperature and on the piece
+that brings it all together is this app
+on the phone and it lets you basically
+turn a dial to bring it between
+-10 and 10 those are the levels of
+temperature and that signifies basically
+55 degrees Fahrenheit all the way at the
+bottom which is pretty chill all the way
+up to 110 degrees Fahrenheit at plus 10
+which is straight up hot so I don't need
+nearly that much range but it's nice to
+have I go to sleep at -4 and I warm up
+to plus two that's as warm as I really
+ever need it but yeah I guess now I can
+say my bed this bed is literally water
+cooled so that's pretty sick so the
+thing is once you've used it for I think
+about a week basically it settles into a
+routine where it cools down before you
+get into bed and slowly adjust
+temperature over the course of the night
+they call it autopilot I think but there
+are different stages of sleep where
+it'll slowly warm up overnight until
+it's at the temperature that you want to
+wake up at but then on top of that
+there's a host of other features that
+are in the eight sleep membership which
+is a monthly subscription which I don't
+love but it actually has a bunch of
+really useful features so the first is
+autopilot which I talked about but then
+the second there are a bunch of these
+sleep tracking features I typically warn
+the Apple watch to sleep for the past
+couple months and it's on your wrist and
+it can read a bunch of things about you
+from your wrist but clearly the best
+thing to measure your sleep would be the
+thing you sleep on so the mattress
+itself so we can tell when you get into
+bed of course when you get up and it
+grafts out when you're in these
+different stages of sleep through the
+night it even somehow measures your
+heart rate and breathing rate if you
+want it to and then it does a good job
+in the UI of highlighting with like
+little green or red markers when things
+are going well and when things are a
+little bit off so you can see here on
+this terrible night of sleep I had that
+there are certain things clearly that I
+didn't do well like I went to sleep late
+despite waking up at a normal time and I
+fell asleep quickly but I took a while
+to get up so the next night of sleep you
+can see was much better whole bunch of
+green here basically Flawless it also
+has a vibration alarm it will literally
+lightly vibrate just your side of the
+bed to wake you up silently which is
+pretty sick and it also gets continuous
+software updates over time honestly this
+thing has been pretty awesome for me
+personally over the past couple of weeks
+that I've had it like I said I've had it
+for a while the one thing that I feel
+like is pretty definitive proof for me
+anyway that it's working or helping me
+sleep better uh the Apple watch likes to
+tell me when I have a low heart rate
+when I when I go below 40 beats per
+minute for a long time it gives me a low
+heart rate notification but that's
+actually potentially a good thing if
+you're recovering well and the first
+week or two after I started sleeping
+well with the cooled mattress I would
+wake up with like 10 to 15 low heart
+rate notifications which meant that my
+heart rate was getting lower and I was
+recovering better and sleeping better
+which is pretty cool so in an age where
+humans are basically sleeping worse than
+ever before with all the tech around us
+all the screens that are around us every
+night it's pretty cool to have a piece
+of tech that actually helps us sleep
+better at least it helps me anyway you
+can try it too if you want to you can
+get 200 off by using the code MKBHD on
+their site I definitely think this
+qualifies as dope Tech
+okay last but not least how about a
+little bit of an exclusive
+this is your first look at the nothing
+phone 2.
+which looks a lot like the nothing fun
+one but you guys have heard a lot of the
+hype you've seen some of the teasers so
+let me show you what I am allowed to
+show you of what's new so this is the
+phone one here with the glyphs and the
+lights on the back and this is the phone
+too slightly tweaked design definitely
+nothing dramatic at first glance here
+since they're trying to establish their
+visual design as a young company you
+know you can't go dramatically changing
+it every time but same shapes slightly
+lighter gray slightly more rounded glass
+actually on the back but we'll get to
+all that in the full review video of
+this phone for now in this exclusive I
+can show you what's actually new with
+the glyph interface the actual lights on
+the back so first of all nothing fun one
+had five strips of white LEDs with this
+pattern with this new one the shapes are
+in the same place but there are some
+tweaks you can see the arc around the
+camera is split into two strips and the
+big one in the middle is now separated
+out into six pieces these are all still
+white LEDs no color or RGB or anything
+crazy but the main Improvement is
+actually just that there are more
+addressable LED zones inside of each of
+the strips which is kind of fun so you
+probably remember you could already use
+the bottom exclamation mark as a
+charging progress indicator that does
+still work so before the entire back of
+the phone had a total of 12 different
+LED lighting zones controllable by the
+software this new one has a total of 33
+across the back and just this strip up
+here at the top uh gets 16 to itself so
+it's much more precise and granular and
+so they've designed some features
+actually around using that as a progress
+indicator so there's a volume indicator
+now so when you have media playing it
+literally just shows your volume level
+and as you move it up and down you can
+see that light go up and down with it
+there's a glyph timer built in so you
+can set a timer to a predetermined
+length of time using the UI then flip
+the phone over to start the timer and
+you can see it slowly rolls down through
+the LEDs to count down and give you a
+visual indicator of when the timer will
+be over I kind of like this one for
+working those of you who use the
+Pomodoro Technique will probably find
+this useful and there's also plans for
+this to be addressable by Third parties
+so you can imagine so Uber and zamato
+are the only two that are signed up
+right now but kind of the same way Apple
+had to get developers on board with
+their live activities in iOS same idea
+you can imagine waiting for an Uber and
+turning the phone down and sort of
+seeing the progress of when the car gets
+closer and closer until it arrives
+things like that ideally they can get
+more on board for things that just make
+sense for Progress bar stuff now you
+might remember last time I was I was
+specifically asking for more
+customization stuff so I could tell what
+app I was getting a notification from
+without flipping the phone over
+this is still all white LEDs there's no
+colors or anything like that but there
+is one new feature called essential
+notifications where basically if you
+have a certain app that's important to
+you that you get notifications from
+it'll stay lit up in this corner strip
+and this stays lit until that
+notification is addressed so it's not
+fully customizable like I can't assign a
+different app to each of the different
+lighting zones but for at least this one
+app you'll always know when you've got a
+notification from it and then they also
+added this neat little glyph composer so
+if you want to literally design your own
+ringtone you can go full DJ mode
+so that is your first look at the glyph
+update on the back of the new nothing
+phone 2.
+still sort of like on the borderline
+between gimmick and useful for a lot of
+people but it is at least a little bit
+more customizable and you'll have to get
+subscribed to see all the rest of the
+new stuff with this phone except you'll
+know what I've been finding in my
+testing that's coming up the sub button
+is below of course but that's been it
+thanks for watching dope Tech
+catch you guys the next one
+peace

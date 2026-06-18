@@ -1,0 +1,177 @@
+# How Google is Taking Back Android!
+# https://www.youtube.com/watch?v=H9HH0vqb4q8
+
+[Music]
+hey what is up guys MKBHD here and the
+other day Google made their keyboard for
+Android available on the Play Store the
+stock Google keyboard that comes on all
+the Nexus devices they kind of picked it
+out of Android and made it available in
+the Google Play Store now this was not
+immediately seen as a big deal by anyone
+I mean you can get tons of keyboards in
+the Play Store for free even there's
+swipe there's swift key there's even
+third-party duplicates or replicas of
+the Google keyboard in the Play Store
+but this is actually a bigger deal than
+it seems at first because if you look at
+the Timeline if you look at back at what
+Google's been doing over the past couple
+of years with Android this fits into
+their plan and it's kind of an important
+thing so looking back Google actually
+has a long and slow but very deliberate
+history of bringing Android core apps
+that were originally built into Android
+and making them available for everyone
+officially now when you get an official
+Google app in the Play Store you know
+it's going to be updated every time
+Google finds a bug fix wants to add a
+feature and some apps like Google Talk
+Google search Google Calendar all these
+sorts of things that were already built
+into Android like Chrome and music and
+even sound search for Google Play have
+been built into Android and now are
+being shoveled off into the Play Store
+it's subtle but it is a very important
+subtle difference it's about context at
+this point Google has a ton of apps that
+they're maintaining and updating through
+Google Play about five or six pages in
+the Play Store of apps that are just in
+Android being updated officially from
+Google as the official developer now
+there can be replicas or duplicates of
+others that Google isn't updating so for
+example the Google clock app in Jelly
+Bean it's not in the Play Store it's
+built into the core of Android but you
+can grab a thirdparty replica of it from
+the Play Store it's not Google's but
+it's about as close as you can get we
+could as time goes on eventually see all
+of Android's core in the Play Store so
+the SMS app the Calendar app the gallery
+app the dialer app the People app maybe
+even the full Android Launcher someday
+officially supported from Google having
+the Google version is pretty much always
+better than having a replica of the
+Google version because when Google
+decides to add a new feature it'll be
+added to the Play Store version and
+everyone can get it rather than someone
+trying to code and make it available for
+every phone when Google adds it it gets
+added to everyone but what's more
+important here is the fact that they're
+moving it to the Play Store before if
+there was a bug in a core system part of
+Android like the keyboard they would
+have to roll out an over the error
+update of the entire operating system to
+fix that bug built into the OS because
+the keyboard was part of the OS if it
+was just a small bug they might wait for
+a whole bunch of small bugs to
+accumulate and then roll out a larger
+system update and that's when you'd see
+your Nexus update for something like
+4.1.1 to 4.1.2 but if there's just one
+major security update that needs to be
+fixed quickly that can be a bit of a
+problem because dealing with carriers
+and getting a major OS update out to
+everyone is is just about impossible so
+with moving core apps from Android to
+the Play Store and freeing them from the
+spine of Google and being updated
+individually one after another pow P pow
+pow that makes it way easier for Android
+and Google as a whole to keep track of
+everything and update everyone without
+having to deal with overthe aair updates
+of an entire operating system so with
+this Android is becoming what we'd like
+to call a rolling release and if you're
+a developer you've heard this term
+before if you're a software maker you've
+heard this term there are several
+different types of rolling releases
+there are fully rolling releases and
+there are partly rolling releases
+Android is pulling itself into the
+partially rolling releases category it's
+a partly rolling release because there
+are so many different parts of Android
+that are being pulled out of it and
+updated through the play store that
+actual Android OS updates will be few
+and far between there will be major
+overhauls rather than smaller 4.1.1 to
+4.1.2 updates actual Android updates
+will be a big deal each time they happen
+but alongside each of those big deal
+steps forward there are hundreds of
+little rolling releases of all the
+different apps inside of Android rolling
+alongside those big incremental upgrades
+it's it's a nice refreshing change of
+pace because that's not always the case
+we always see Apple getting a really
+good job done of getting their new
+operating system out to all of their
+phones because they control that really
+tightly Android is open source they
+don't control that quite as tightly so
+slowly taking back Android taking back
+parts of Android one by one into a
+partly rolling release schedule is uh
+it's it's a smart thing it's subtle like
+we said but it's smart this is also good
+because Verizon is especially bad
+Verizon sucks when it comes to updating
+phones let's take a look back at the
+Verizon Galaxy Nexus there was a whole
+rant video that I actually did if you
+want to watch that I'll put it below the
+like button but the Verizon Galaxy Nexus
+first of all came out a few months after
+the international Galaxy Nexus Verizon
+also had their way with bloatware pushed
+bloatware upon the phone and then had
+their way with overthe a updates so they
+basically held every over air update
+hostage until they could force their
+bluewire into it again and make it their
+way Verizon just killed the Nexus
+experience with the Verizon Galaxy Nexus
+and you could probably say Google learn
+their lesson from that and decided I
+don't think we want to deal with that
+again and now they're just bringing out
+parts of Android and dealing with it
+themselves so Google is taking Android
+back from the carriers and from the
+manufacturers mostly from the carriers
+that have been holding back your over
+there updates from so long and being
+able to give them to you faster so there
+you go good work Google props to you
+again way to take cues from Apple and
+way to learn your lesson from Verizon
+being a piece of crap uh yeah so there
+you go thanks for watching this video If
+you enjoyed it definitely feel free to
+hit thumbs up below and there's also a
+subscribe button below if you want to
+watch more videos like this in the
+future either way this has been MKBHD
+thank you for watching and I'll talk to
+you guys in the next one peace
+a
+[Music]

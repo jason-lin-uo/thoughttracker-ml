@@ -1,0 +1,252 @@
+# M2 Max MacBook Pro Review: Back to Bumps!
+# https://www.youtube.com/watch?v=tmGDx9hVWwo
+
+[Music]
+thank you
+[Music]
+so this is the M2 Max MacBook Pro
+let's talk about it
+so this week Apple updated the 14 inch
+and 16 inch MacBook Pros with a press
+release and an 18 minute YouTube video
+that featured a bunch of creators at the
+beginning which was cool and then
+basically a whole pre-recorded event
+that kind of looked like it was cut out
+of another event matter of fact it's
+rumored that this basically was cut out
+of an event that they were rumored to
+have late last year honestly I buy it
+like the URL and the file name of the
+video had 2022 in them and the AR files
+for the new laptops were compiled in
+October 2022 suggesting that these
+things were ready to go months ago but
+whatever none of that matters what
+matters is they're here now and what you
+need to know is on the outside they're
+basically identical but on the inside
+instead of M1 Pro and M1 Max it's M2 Pro
+and M2 Max
+a couple other tiny improvements also so
+the first Apple silicon MacBook Pros
+when they came out in October 2021
+honestly some of the most unanimously
+well liked computers I have ever seen
+they added back the ports they got rid
+of the touch bar they brought back
+magsafe they bumped up to an excellent
+higher fresh rate mini LED display and
+the performance is incredible like
+across the board I don't think I've met
+a single person who got one and was like
+oh no I made a mistake with this one so
+when you see a new one a year and a half
+later there isn't really a ton that
+we're expecting to change because the
+big leap was from the Intel MacBook Pros
+to the Apple silicon ones now we're back
+to more incremental improvements so as
+you can imagine yeah completely
+identical on the outside same sizes same
+colors the only way I can differentiate
+this new one from my old 16-inch M1 Max
+is the icon skin I've had on the back of
+course Channel sponsor dbrand is already
+selling these for the 2023 model so if
+you want your laptop to look a little
+different than every other MacBook Pro
+world then yeah this is your best bet
+link below so the bulk of what's new is
+coming from the new chip inside M2 Pro
+and M2 Max they are essentially the same
+price tiers and configurations across
+the board as before but apple is quoting
+now 20 more CPU performance and 30
+better GPU performance
+um this in front of me here is a maxed
+out M2 Max with the 38 core GPU and the
+new maximum of 96 gigs of shared memory
+shocker this thing rips so under the
+hood it's built on a new second gen 5
+nanometer process and they've added some
+cores two more high efficiency CPU cores
+and three more GPU cores on the pro so
+it's a 19 core GPU on the M2 Pro and a
+38 core GPU on the M2 Max also the
+neural engine and media engine are
+improved to handle machine learning and
+media playback and transcoding even
+faster than they already did if you're
+into synthetic benchmarks I did Run
+geekbench 5 and the single core score is
+now the highest I've ever seen just over
+2 000 while the multi-core score was
+north of 15 000. here's some context to
+give you an idea of how impressive these
+numbers are and yes that is about the 20
+CPU Improvement that we expected and
+then incentive bench again it had a
+chart topping single core score and
+here's how the multi-core stacks up so
+overall capabilities basically the
+ceiling has been raised up by the 20 to
+30 percent which is great but as I
+mentioned in the original M1 max review
+a year and a half ago it's not so much
+about the raw processing power as much
+as it's about the things that it allows
+you to do better or faster than before
+hence the name Pro theoretically so like
+I noticed this in things where I have
+parts of my workflow that work just
+right with it so I have this thing I do
+where I screen record with screenflow
+and it'll do a full resolution screen
+recording and then I'll export that and
+use it and bring in a Final Cut Pro the
+exporting of that screen recording into
+prores 422 was dramatically improved
+when we got the media Engine with apple
+silicon so a 16 core Intel Mac Pro with
+the Vega Pro 2 Duo that retailed for
+over fifteen thousand dollars took a
+three and a half minute screen recording
+and churned that out in 56 seconds but
+the M1 Max laptop did it in 32 seconds
+so that was so sick that's one of those
+things you instantly notice is way
+faster this new M2 Max did it in 23
+seconds so again a pretty substantial
+Improvement like clearly the outgoing
+machines weren't lacking but they've
+taken basically everything that was good
+about the old ones and improved it just
+bumped it up a little bit which is sweet
+for everyday daily non-demanding tasks
+as you can probably imagine these are
+still great totally great like I've
+already told you all about the excellent
+mini LED display that has a questionable
+amount of light bleed but still looks
+pretty great most of the time I've
+already told you about the top-notch
+design and all of the metal build
+quality the huge track pad the high
+quality headphone jack the return of the
+built-in SD card slot I've already told
+you about all that but what about those
+other tiny improvements I mentioned
+earlier that aren't the M2 Chip well
+there's a couple things so first of all
+the extra efficiency cores that I
+mentioned earlier are great of course
+for battery life not only is the battery
+life still really good but there's also
+a claimed extra hour on both the 14 inch
+and 16 inch of battery I'm not seeing a
+dramatic difference but hey the fact
+that it's better at all
+sick and then these laptops still fast
+charge but there's also now a color
+matching magsafe cable now this is a
+slight difference since these laptops
+are really only silver or slightly
+darker silver but there you go it's
+darker now with the space gray one it
+matches color matching all the way up
+until the white plastic USBC nub on the
+other end and then there's a few other
+capabilities Wi-Fi 6E Bluetooth 5.3 and
+HDMI 2.1 so HDMI 2.1 was actually
+something I was confused about missing
+on the last version since it had been
+out for a little bit but it's now here
+and that allows for up to 8K 60fps
+through one cable via that HDMI port so
+that's about time Wi-Fi 6E is just sort
+of starting to roll out now that's going
+to be great for future proofing we
+literally just got Wi-Fi 6E routers in
+the studio for the first time and the
+MacBook Pros have consistently been like
+the fastest thing on our Wi-Fi network
+and it continues to stretch that lead in
+that department and Bluetooth 5.3 again
+very much future proofing but that's
+welcome but really the Apple silicon
+transition has come a long way since the
+very first M1 Max that we saw when I
+first started doing this there are a lot
+more well-optimized apps it's a lot more
+obvious what the benefits are it's still
+not complete of course because we don't
+have a Mac Pro yet and also it kind of
+feels like they forgot about the iMac
+that's just chilling still stuck at M1
+for some reason
+um but really it's yeah these are these
+are a level up from the rest and I think
+my overall recommendations about what to
+buy at certain spots in the lineup
+basically stays the same so if you're
+after battery life M2 Pro is going to be
+awesome if you're after maximum power at
+the expense of some of your battery life
+then M2 Max is probably the move and
+really my pretty textbook conclusion
+here is these laptops aren't for people
+who already have the M1 Pro and M1 Max
+laptops that just came out they are for
+people who have older laptops that now
+have a better machine to upgrade to
+unless you're one of a tiny fraction of
+people who got the old ones and was
+pushing it to its limits and just needs
+that 30 more power in which case case
+you know who you are matter of fact for
+those people on older laptops I think
+looking for sales now of the M1 Pro and
+M1 Max when you start to find deals on
+those
+are going to be really good laptops now
+you might have also seen the rumors that
+it's possible that the first of the M3
+laptops is going to be coming out later
+this calendar year on a three nanometer
+process you might be wondering if you
+should wait for that to which I would
+say you should actually wait till
+quarter three of 2027 when we have the
+m5s because that'll be 30 faster than
+the m4s which is 30 faster than the M3s
+and you can see where I'm going with
+this like it's if you're gonna be
+waiting for the next thing you'll just
+be waiting forever because that's just
+the way Tech is these are great machines
+they're more than most people need and
+uh if you can get your hands on the m1s
+those are going to be really good for
+most people too either way make sure you
+get subscribed because I think I think
+actually the new M2 Mac minis are a way
+more interesting machine so stay tuned
+for that video
+also
+um I said something
+in in my last review but that being said
+if the next version of this laptop still
+has a notch this big and doesn't add
+face ID
+I'll wear socks and sandals for a day
+like Linus like they they got to be
+planning on putting it there eventually
+right
+well
+all day today oh man my word thanks for
+watching catch you guys the next one
+peace
+[Music]
+thank you
+[Music]

@@ -1,0 +1,887 @@
+# Retro Tech: Teleportation
+# https://www.youtube.com/watch?v=tEmLMCPK8OE
+
+For decades,
+people have dreamed
+of technology that could
+transport them somewhere else--
+a teleporter machine
+that would beam them
+from point A to point B
+just like that.
+But will this technology
+ever actually exist?
+And if so,
+what would it look like?
+I'm Marques Brownlee,
+and I review dope new tech.
+But on this show,
+I'm rewinding the clock
+to look at the tech
+of the past
+that we thought
+would be our future.
+This is "Retro Tech:
+Teleportation."
+Hey, what's up?
+MKBHD here.
+So, I'm about
+to unbox something.
+Don't know what it is.
+There's clearly
+not a teleporter
+under this desk, right?
+Let's figure it out. Okay.
+Wow, that is a colorful box.
+Virtual Boy.
+This is a console.
+Interesting.
+Virtual Boy, teleporters--
+oh, is this
+a virtual reality headset?
+This graphic is
+so incredibly '90s,
+it's hard to tell
+what's going on,
+but I feel like
+I'm seeing a VR headset.
+And I guess if you're putting
+two and two together,
+teleportation really is, uh,
+it's putting you
+in a different place.
+But in 1995,
+with a good enough VR headset,
+maybe that's the equivalent
+of putting you
+in a different place.
+All right,
+let's check this out.
+Classic '90s packaging here.
+Look at all those warnings.
+"Carefully read
+this whole thing."
+"Don't put it on your face
+if you're less than seven."
+"May cause serious permanent
+damage to their vision."
+"May cause epilepsy
+or seizures."
+"Repetitive strain injury."
+"Before playing,
+consult a doctor."
+Wow. Yeah, that's a lot.
+That's a lot.
+But, hey, it's red and black.
+Not bad, Nintendo.
+The tennis game,
+I'm looking forward to that.
+Batteries go in here.
+Close it,
+snap it onto the back.
+Oh, man, I'd gone so long
+without messing something up.
+I remember exactly
+how I took it off,
+and it doesn't go back on
+the same way.
+I'm blowing my own mind
+right now.
+It should just slide down
+these rails.
+Okay, we got this.
+There you go.
+Looks like a four-inch display.
+All red, dot matrix.
+Mario versus Princess.
+Okay, I've got my backhand.
+Hit. I hit the ball
+back at 'em.
+The ball's coming back at me.
+Oh, I missed,
+and I am now losing.
+Wow, I'm-- I'm impressed.
+Now, I definitely
+don't feel like
+this is teleporting yet,
+but if today's
+virtual reality is, like,
+the closest thing
+we have to teleportation,
+then this is
+the early version of that.
+But that's
+what we're here out,
+so let's get into it.
+First thing
+I'm gonna ask you to do
+is check underneath
+your chair.
+Ooh, Oprah moment.
+All right.
+I don't know
+what I'm holding right now.
+- I find it fascinating.
+- Uh, these would be--
+( plays "Star Trek"
+teleporter sound )
+Oh, it-- it works!
+I am holding
+a miniaturized teleporter.
+- That's fantastic.
+- Beam me up.
+Marques:
+So, I guess, let's break down
+in its simplest terms,
+what exactly is teleportation?
+What is this concept?
+There's that famous expression,
+the quickest way
+from point A to point B
+is a straight line.
+And the idea of
+teleportation is no line.
+Sherri:
+You're being beamed
+at one location,
+being beamed to another.
+Like, instantaneous.
+Speed of light.
+It's some sort of a device
+that you step into or step on,
+and then you arrive
+somewhere else,
+on usually a matching device,
+where you rematerialize
+on that side.
+There are so many movies
+that have been built
+around the theory
+of teleportation.
+Keith:
+You have "Power Rangers."
+They're teleporting.
+But probably
+the most iconic representation
+of teleportation--
+the transporter
+in "Star Trek."
+Mr. Spock, prepare
+to beam Scotty on board.
+"Star Trek" drilled home
+that this could be future tech.
+It's something that we wanted.
+Beaming up.
+Notify transporter room.
+Blake: Sort of around
+the time of "Star Trek,"
+we had landed on the moon,
+We felt like we were being
+very ambitious as explorers.
+And the idea of being able
+to get someplace fast
+is something that
+we're all obsessed with.
+As a viewer, you hear
+all of these science words.
+It seems like a thing
+that might be possible.
+It uses trionic initiators
+in the warp core.
+Keith:
+So who am I, as a 10-year-old
+watching this show,
+not to think, "Yeah, maybe
+they've got it figured out."
+Part of the promise
+of "Star Trek"
+is believing that we could
+get there someday.
+But teleportation
+is one of those things that,
+it's so far off as a technology
+to be able to achieve,
+and those things are possible
+only in science fiction.
+Marques:
+So, one of the most important
+aspects of a teleporter
+is it has to completely
+disassemble and reassemble you
+in the exact right place
+every single time.
+But what would it take
+on a physics level
+to build a machine
+with that type of accuracy?
+To help me understand
+what's possible,
+I'm meeting up with Kevin
+from Vsauce2,
+who's known for breaking down
+some of the world's
+biggest complexities.
+Kevin, welcome
+to "Retro Tech."
+Thanks for having me.
+I love your place.
+What should we know
+about teleporters?
+What is actually possible
+right now?
+Well, we're talking
+about teleporting, like,
+really, really,
+really small things,
+like a photon.
+That's possible
+with quantum entanglement,
+- which is crazy.
+- Fair.
+Yeah, I imagine
+a lot of what we're
+seeing in the movies
+is either an exaggeration
+of the little bit
+that's possible
+or just completely impossible.
+We can't exactly visualize
+what it would look like
+if you were dematerialized
+down into atoms,
+so let's just pretend
+that you turned into light.
+- Marques: All right.
+- It's called the double
+slit experiment.
+It gets complicated.
+Try to stay with me here.
+Imagine our teleporter machine
+dematerializes you
+into these light photons,
+and these two slits represent
+the atmosphere pathways
+your beamed body
+will travel through
+on your way
+to your destination.
+I am ready to see this.
+Let's energize.
+- Huh. That is weird.
+- ( Kevin laughs )
+Somehow it turns into
+a horizontal string of beads.
+This is called
+an interference pattern.
+First of all, if you were
+to get into a teleporter,
+we don't want you to be
+that series of beads.
+It's not gonna be
+a great result for you.
+If you were a light beam
+transported,
+you might end up
+in a scattered mess,
+which would be bad.
+But atoms act
+differently than light,
+so in theory your atoms
+will be less scattered
+going through those pathways
+and easier
+to put back together.
+But when scientists did
+the same experiment with atoms,
+the stuff you
+and I are made of,
+they found atoms
+weirdly behaved the same way.
+They weren't sure
+why this was happening,
+so scientists tried
+to observe the atoms.
+But when they pointed
+a detector to track the atoms,
+they changed
+their coordinates,
+meaning atoms
+can act like both waves
+and particles when in motion.
+To this day, scientists have
+still no clue why,
+but just observing
+your atoms in motion
+can change their destination,
+which would be
+really bad for you,
+the person teleporting.
+It's like when
+you're playing "Mario Bros"
+and you look at the Boo
+and it stops,
+and then you turn around
+and it chases you.
+The observation of it
+definitely changes behavior.
+- Wow, that--
+- Yeah.
+That does hurt
+my brain a little bit.
+So maybe we're still
+very far away
+from actually being
+able to teleport,
+but what if we could achieve
+almost the same experience
+without even
+leaving our homes?
+Narrator:
+By strapping on 3D
+visual display goggles,
+one can be immersed
+into new worlds.
+The experience
+of virtual reality
+is similar to teleportation
+in that your body,
+your consciousness,
+your awareness
+was somewhere else,
++and instantaneously
+you are in a completely
+different environment.
+Marques:
+All right, let's talk about
+the history of VR.
+How did this whole
+VR thing start?
+You get into the '80s and '90s
+and you get the Eye Phone.
+No, not that iPhone.
+This was the "eye,"
+so, E-Y-E Phone.
+You had an individual
+named Jaron Lanier
+who wanted to create
+a new type of instrument.
+These are the special glasses
+called the Eye Phones.
+When you put them on,
+you're seeing inside
+an imaginary world
+instead of inside
+the physical world.
+Greg:
+It was a giant headset.
+A huge computer had to run it.
+It cost a ton of money.
+But what you got
+was a virtual world
+that responded to your touch
+and what you saw.
+Blake:
+It was really the Eye Phone
+that helped introduce
+virtual reality as a product
+that you might have in
+your lifetime to the masses.
+Throughout the '90s,
+video games became more
+and more realistic,
+so that became
+a great first frontier
+for virtual reality to exist.
+In my mall, they had these
+VR arcade experiences,
+like "Dactyl Nightmare."
+Reporter:
+Truly cutting-edge technology,
+but to my eyes,
+these units still have
+a way to go.
+- But there was a problem.
+- It was making people sick.
+Headaches, nausea, sweats.
+- ( woman laughing )
+- Oh, my God!
+- I can see seagulls.
+- Okay, it's broken.
+Blake: All types of things
+that are connected
+to motion sickness.
+What early VR did have though,
+was that it looked futuristic.
+It looked super high tech.
+None of them
+actually did much,
+but they looked cool
+when your friends came over.
+Marques:
+So, despite the technology
+being far from perfect,
+virtual reality headsets
+promised to immediately
+transport us
+to another world.
+So, today I'm joined
+by Jake from Game Ranks
+and we're gonna test out
+some of the retro VR
+and maybe get a little dizzy
+in the process.
+This is Dope Or Nope.
+- First of all,
+Jake, welcome back.
+- Hey, thanks for having me.
+Season two.
+Love when we have people back.
+We got this first thing
+coming to us from the year 1993.
+I'm ready to
+get jacked in, so...
+For sure.
+Let's plug ourselves in.
+Stuntmaster Virtual Reality.
+I already feel,
+uh, young, because what
+does that phrase mean?
+The first phrase
+in the marketing copy.
+"Race the car. Fly the jet.
+Wear that shirt.
+Confront. Engage. Fire."
+- Wait a second, okay.
+- Yeah, this is a lot.
+Race the car?
+I would like to.
+- Cool.
+- Sounds exciting.
+Fly the jet?
+Again, probably wouldn't be
+able to do that in real life.
+Wear the shirt?
+That seems like a big step down.
+- Maybe that's a metaphor?
+"Wear that shirt."
+- Wow, okay.
+- All right.
+- Whatever it is, we need
+to be in a mainframe.
+Yeah, let's-- let's see it.
+Let's get the actual
+Stuntmaster headset going.
+"Attach the clip
+to the shoulder area
+of the shirt."
+- Wear that shirt!
+That's what it means.
+- Oh.
+All right,
+I'm just gonna put it on.
+You went for it.
+Are you ready?
+- I am ready.
+- Welcome to the real world.
+Oh, I heard something.
+Super Mario World.
+Is it actually 3-D
+or is it just a screen
+in your face?
+It's not 3-D at all.
+It's honestly just a worse
+version of playing on a TV.
+This is like the worst
+Gameboy in my face.
+- Oh, my face hurts so bad.
+- Oh, man.
+That might be the heaviest
+VR headset I've ever worn.
+Everything about it is pain.
+And so for that reason,
+I'm out.
+- Kevin: A big nope.
+- Yeah.
+- Yes!
+- Oh, wow.
+- SegaScope 3-D System.
+- Look at the dad.
+He's like, "Yeah, son.
+Do that violence. Good work."
+Marques: You can't
+see the 3D part, Dad.
+Why are you cheering?
+Here is the phaser.
+Does it make a cool click
+like the Nintendo gun?
+No-- ooh.
+- Not satisfying at all.
+- Huh.
+- Now, the console itself.
+- The console itself.
+Look at that unit.
+It is '80s as hell.
+It looks like a car stereo.
+Oh, and you plug this
+into your TV.
+This is very big.
+Why do you have this?
+It's retro tech.
+You gotta have a TV.
+Start the game
+with the gun maybe.
+Magic. Oh, wow.
+Do they feel like
+they're flying towards you?
+Marques: It's not
+a very impressive depth.
+'Cause they look like it here,
+just in a flickering,
+crappy way.
+- You did it. Good job.
+- I saved the city.
+Jake: That's actually
+kind of impressive,
+if not for the rampant
+flickering that I know
+is making me sick.
+Low-key,
+a little bit overpromising?
+Jake: I think it would
+get old pretty fast.
+I think it's
+too much hassle,
+too much setup.
+SegaScope 3-D, that's a nope.
+Jake:
+That's a big nope.
+This guy.
+Virtual Reality World
+V.R. Ninja.
+It's a VR headset,
+and you are fighting
+another ninja
+based on your own moves.
+Do you want to check out
+what kind of sensor
+they have in here?
+Yeah, a little mot--
+that's a big sensor.
+- ( rattles )
+- You know what
+that's telling me?
+That's telling me
+it's a capacitive
+closed-circuit type
+motion sensor.
+It's just a little
+metal ball inside
+hitting the metal
+outside of the thing.
+And if it touches, you moved,
+It touches the other side,
+you moved.
+Pretty simple.
+It's not an accelerometer.
+- You're so smart.
+- I was hoping for
+an accelerometer.
+So, to me, this is the closest
+to modern-day VR so far.
+I need your guidance.
+Do you know how to fight?
+Uh, barely.
+Like, I was a yellow belt
+in Tae Kwon Do.
+Nice. All right, cool.
+- There you go.
+- I feel cool now.
+- That fits surprisingly well.
+- Do you mind?
+I got to look for the--
+yeah, power.
+All right. I see-- it just
+looks like a calculator screen.
+- Does it--
+- Not a good sign.
+Also, do you hear?
+It's pushing down on my nose
+and I'm talking like Squidward.
+Dude, it looks like about
+30 pounds on your face.
+There's a time counting down
+and there's ninjas. Okay.
+That sounds
+like it's working.
+So, unfortunately,
+it relies on sound.
+That's the only way
+I can know if I get a hit.
+- Oh, sorry.
+Where are you?
+- I'm good. We're good.
+Nothing's happening
+when I punch the men.
+I think I hate it.
+Oh, my God.
+- Good luck putting that on.
+- Let's get in the game.
+Oh, my God, that is sharp.
+It's stabbing me in the face.
+I don't see anything right now.
+You're about to see...
+everything.
+- Oh!
+- Good stance.
+You're getting hit.
+Do it.
+- Oh! Oh!
+- That's a hit.
+Yeah, that's a hit.
+There-- wow!
+All right, wow, okay.
+- ( laughs )
+- I lost.
+VR-wise, this is
+the worst VR version.
+It absolutely does not react
+to the orientation
+of your head or anything.
+- Nothing.
+- It is the best
+looking one, though.
+- It is, yeah.
+- Verdict?
+It wasn't very good
+and it stabbed me in the face.
+- Yeah.
+- So, I still have
+to give it a nope.
+- That is a nope.
+- For the first time,
+we've given all nopes,
+and yet I still think
+we see, like, they're on
+to something happening.
+Yeah, it just is a disaster.
+Marques:
+So, clearly early VR gaming
+was not very good.
+The technology simply
+wasn't advanced enough yet,
+and most at this point had
+given up on the VR industry.
+The year is 2012,
+not that long ago.
+But it was long ago enough
+that people thought
+virtual reality was a joke,
+it was a punch line.
+We all thought it was done.
+It made you nauseous.
+But there were a few people
+that still loved VR,
+and one of them was a teenager
+named Palmer Lucky.
+Virtual reality,
+people have been wanting it
+for a really long time.
+We finally have the technology
+to make it happen.
+It used gyroscopes,
+accelerometers, you know,
+sensors that we know very well
+from the Eye Phone,
+and the latency was super low.
+Blake: The sensors,
+they're able to so quickly
+calculate in real time
+what should be there
+when you look that way,
+and that's what really
+tricked your brain
+into thinking
+that you're somewhere else.
+All of a sudden,
+we thought for a second,
+"Hey, this might be
+a thing again
+because of head tracking."
+And it was this idea
+that just by putting on
+this pair of glasses,
+these goggles,
+you could be anywhere.
+Really bringing it back
+to teleportation.
+A lot of times with technology,
+we're not even conceiving
+of something that's
+just about to arrive.
+The day before
+the iPhone was announced,
+we didn't even conceive
+that a phone was able
+to do those things.
+So who knows?
+Maybe someone is working
+on teleportation right now
+and we're gonna have
+the ability to teleport.
+Marques: So, back to
+the original question.
+Is teleportation technology
+closer than we think?
+Well, to find out, I'm gonna
+speak with astrophysicist
+and all-around great guy
+Dr. Neil deGrasse Tyson,
+and hopefully he can
+shed some light on this
+and tell us if we're any closer
+to actually beaming up.
+Neil deGrasse Tyson,
+thank you for joining me.
+Would it be, do you think,
+ever physically possible
+to build this idea
+we've imagined
+of the teleportation machine?
+I think central
+to the teleportation machine
+is the memory
+of how all of your molecules
+are configured.
+It's an information
+processing challenge.
+I can turn you into energy
+and then move that energy
+to the other place
+and then convert that energy
+back into particles.
+But I have to remember,
+I need the instruction set
+to reassemble you.
+Because once
+it becomes energy,
+you've lost all
+of that information.
+So, have we ever converted
+anything to energy?
+Yeah, we do that in particle
+accelerators all the time.
+Like, you can
+reconstruct the same shape
+in a different place,
+but remembering where each
+molecule is inside that shape?
+So, let's go to a "Star Trek"
+style teleportation.
+So, it disassembles
+your molecules,
+turns you into
+a beam of energy,
+reassembles it
+on the other side.
+All right,
+so is that still you?
+I have to say no.
+It is a copy of you.
+And basically you just
+divided yourself into two--
+basically cloning.
+Now, how do we turn
+that into you?
+What we'd need to do is
+not simply copy the molecules,
+you have to copy
+the neurosynaptic memories
+that you carry
+in your brain's molecules.
+All right, so, boom!
+It disappears here,
+shows up over there.
+It is there instantly,
+so that all your particles
+will disappear
+simultaneously
+and then show up
+in another place.
+I don't know how
+to teleport memories
+that exist in the static
+molecules of your brain.
+If you could do that,
+then I'm convinced
+we are moving you
+from one location to another.
+Do you think if virtual reality
+can get good enough
+that maybe that's enough
+to satisfy that part
+of our curiosity
+where we want to transport
+just to see cool things?
+We'll just sort of put
+the headset on and be there.
+Yes, we've taken baby steps
+in that direction.
+But if you could smell the air
+and feel the breeze
+and watch the birds
+fly over it,
+maybe that's sufficient.
+You don't know
+whether you are looking
+at an image or reality.
+At that point,
+I don't think it matters
+whether you actually go
+to the Grand Canyon.
+And then you can just change
+where your location is.
+But does it matter
+that it's real?
+That's a different question.
+The knowledge that it's real
+seems to matter to us.
+You know, what is real?
+I sound like Morpheus.
+( Neil imitating Morpheus )
+What is real?
+How do you define real?
+If your brain is everything,
+then traveling doesn't matter.
+We'll just inject it in you.
+That could come.
+Well, that's really deep.
+Thank you again.
+- I love your shirt.
+- Oh, thank you.
+Yeah, actually it's a vest.
+I've got about a half dozen.
+Ah, that's beautiful.
+All right,
+so after all that,
+it can feel easy
+to get pretty down
+on ever seeing,
+ever witnessing
+real life teleportation,
+which I get.
+But I love this switch
+that we flipped,
+where instead
+of teleporting ourselves
+from point A to point B,
+the tech that turns out
+makes a lot more sense
+is bringing B to A instantly.
+It's powerful.
+And that is now the new future
+that I'm really
+looking forward to.
+Thanks for watching.
+Catch you guys
+on the next one.
+Peace.
