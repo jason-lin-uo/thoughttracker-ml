@@ -15,5 +15,5 @@
 - Macro F1: 75.35%
 - Samples F1: 98.62%
 
-This policy is the frozen topic-selection baseline for the current
-ThoughtTracker demo corpus.
+This policy is the frozen topic-selection baseline for the current real
+five-creator ThoughtTracker corpus.

@@ -2,9 +2,9 @@
 
 Author: Jason Lin
 
-This document describes how ThoughtTracker scales from the current five-creator
-demo corpus to additional YouTube creators without rebuilding the whole ML
-system from scratch.
+This document describes how ThoughtTracker scales from the current real
+five-creator corpus to additional YouTube creators without rebuilding the whole
+ML system from scratch.
 
 ## Product Rule
 
@@ -37,7 +37,7 @@ Frozen topic-selection metrics:
 | Macro F1    | 75.35% |
 
 Macro F1 remains the rare-topic polish metric. It is monitored, but it should
-not block a recruiter-facing demo when exact match, micro F1, precision, recall,
+not block the portfolio product when exact match, micro F1, precision, recall,
 evidence quality, and display gating are strong.
 
 ## Local One-Command Workflow

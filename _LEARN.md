@@ -93,7 +93,7 @@ Windows:
 python -m pytest -q
 ```
 
-Current verified status: 183 tests passing with 100% coverage.
+Current verified status: 192 tests passing with 100% coverage.
 
 ## What Not To Recreate
 

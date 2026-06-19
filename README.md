@@ -1,12 +1,14 @@
 ﻿# ThoughtTracker ML - Transcript Intelligence Pipeline
 
-Built by Jason Lin as the companion machine-learning pipeline for ThoughtTracker.
+Built by Jason Lin, Senior Full-Stack AI/ML Software Engineer, as the
+machine-learning and reanalysis pipeline behind ThoughtTracker.
 
-A companion ML project to **ThoughtTracker**. It fine-tunes a lightweight
-pretrained transformer (DistilBERT by default) on labeled transcript
-excerpts, serves stance predictions over a FastAPI endpoint, and contains the
-topic relevance/reranking/calibration scripts used to freeze the current
-gold-standard topic-selection policy.
+[![CI](https://github.com/jason-lin-uo/thoughttracker-ml/actions/workflows/ci.yml/badge.svg)](https://github.com/jason-lin-uo/thoughttracker-ml/actions/workflows/ci.yml)
+
+This is the ML half of **ThoughtTracker**, not a throwaway side repo. It
+fine-tunes and serves transcript classifiers, owns topic relevance/reranking
+artifacts, stores final calibration metrics, and provides the owner workflow for
+refreshing creators and promoting a new product snapshot.
 
 ## Product preview
 
@@ -19,6 +21,58 @@ and is deployed at <https://thoughttracker-web-415a.onrender.com/>.
 > The classifier scores the **stance expressed in a transcript excerpt**
 > toward a given topic. It does not claim to know the speaker's private
 > beliefs. It is an excerpt classifier, not a truth engine.
+
+---
+
+## What This Demonstrates
+
+- Practical ML engineering with PyTorch, Hugging Face Transformers, FastAPI,
+  scikit-learn, pandas, and pytest.
+- Model-serving discipline: explicit contracts, health checks, predictable
+  error shapes, and no fabricated runtime predictions when artifacts are
+  missing.
+- Product-aware ML calibration: topic relevance, topic reranking, final policy
+  thresholds, and honest metrics for rare-topic limitations.
+- Cross-repo integration with the TypeScript product through
+  [`integration_contract.md`](integration_contract.md).
+- Operational ownership: transcript refresh scripts, one-command creator
+  onboarding, Git LFS artifacts, and CI-enforced 100% test coverage.
+
+---
+
+## Tech And Concepts
+
+**Stack:** Python, FastAPI, PyTorch, Hugging Face Transformers, Hugging Face
+Datasets, scikit-learn, pandas, NumPy, matplotlib, pytest, Ruff, Git LFS,
+DistilBERT.
+
+**ML/NLP:** stance classification, topic relevance, topic reranking,
+sentence embeddings, model serving, calibration, precision, recall, F1,
+confusion matrices, hard-negative validation, active learning, and model
+artifact packaging.
+
+**Engineering:** API contracts, health checks, explicit error envelopes,
+cross-repo integration, transcript ingestion, idempotent refresh workflows,
+owner-controlled reanalysis, reproducible metrics, and no fabricated runtime
+inference when model artifacts are missing.
+
+---
+
+## Future Enhancements And Upcoming Features
+
+- Active learning loop for new creators: use the frozen policy first, review
+  uncertain rows, append validated labels, and retrain only when metrics justify
+  it.
+- MCP-compatible evidence service so AI tools can query transcript evidence,
+  labels, topic candidates, and model outputs through a standard interface.
+- RAG-style retrieval experiments over transcript chunks, with relevance gates
+  and human-readable source citations before exposing any search-like UX.
+- Model-drift monitoring across new creators, topics, and transcript styles so
+  retraining is triggered by evidence instead of guesswork.
+- Richer evaluation dashboards for rare-topic macro F1, false positives,
+  hard negatives, per-creator drift, and post-refresh quality audits.
+- Optional production serving path with autoscaling, observability, and
+  versioned model rollout/rollback controls.
 
 ---
 
@@ -59,7 +113,7 @@ the committed runtime artifacts when ML-backed analysis is enabled; see
 
 ---
 
-## Tech stack
+## Detailed Stack Notes
 
 - **Python 3.11+**
 - **PyTorch** + **Hugging Face Transformers** (DistilBERT base)
